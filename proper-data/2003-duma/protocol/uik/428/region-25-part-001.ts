@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "425401166727",
+    "uikName": "УИК №392",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1596,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "425401166728",
+    "uikName": "УИК №393",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1705,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "425401166729",
+    "uikName": "УИК №394",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1398,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "425401166730",
+    "uikName": "УИК №395",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 984,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "425401166731",
+    "uikName": "УИК №396",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1897,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "425401166732",
+    "uikName": "УИК №397",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1454,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "425401166733",
+    "uikName": "УИК №398",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1480,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "425401166734",
+    "uikName": "УИК №399",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1085,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "425401166735",
+    "uikName": "УИК №400",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1177,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "425401166736",
+    "uikName": "УИК №401",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1462,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "425401166737",
+    "uikName": "УИК №402",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 679,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "425401166738",
+    "uikName": "УИК №403",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1015,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "425401166739",
+    "uikName": "УИК №404",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2643,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "425401166740",
+    "uikName": "УИК №405",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2112,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "425401166741",
+    "uikName": "УИК №406",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1963,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "425401166742",
+    "uikName": "УИК №407",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1719,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "425401166743",
+    "uikName": "УИК №408",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "425401166744",
+    "uikName": "УИК №409",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 790,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "425401166745",
+    "uikName": "УИК №410",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "425401166746",
+    "uikName": "УИК №411",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 900,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "425401166747",
+    "uikName": "УИК №412",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 73,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "425401266805",
+    "uikName": "УИК №413",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 437,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "425401266806",
+    "uikName": "УИК №414",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "425401266807",
+    "uikName": "УИК №415",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "425401266808",
+    "uikName": "УИК №416",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 257,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "425401266809",
+    "uikName": "УИК №417",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 194,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "425401266810",
+    "uikName": "УИК №418",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "425401266811",
+    "uikName": "УИК №419",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1960,
       "Число бюллетеней, полученных участковыми комиссиями": 1721,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "425401266812",
+    "uikName": "УИК №420",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 638,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "425401266813",
+    "uikName": "УИК №421",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1071,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "425401266814",
+    "uikName": "УИК №422",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2611,
       "Число бюллетеней, полученных участковыми комиссиями": 2285,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "425401266815",
+    "uikName": "УИК №423",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1978,
       "Число бюллетеней, полученных участковыми комиссиями": 1719,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "425401266816",
+    "uikName": "УИК №424",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1485,
       "Число бюллетеней, полученных участковыми комиссиями": 1273,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "425401266817",
+    "uikName": "УИК №425",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2213,
       "Число бюллетеней, полученных участковыми комиссиями": 1986,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "425401266818",
+    "uikName": "УИК №426",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1811,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "425401266819",
+    "uikName": "УИК №427",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1310,
       "Число бюллетеней, полученных участковыми комиссиями": 1166,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "425401266820",
+    "uikName": "УИК №428",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1630,
       "Число бюллетеней, полученных участковыми комиссиями": 1472,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "425401266821",
+    "uikName": "УИК №429",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1688,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "425401266822",
+    "uikName": "УИК №430",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 729,
       "Число бюллетеней, полученных участковыми комиссиями": 654,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "425401266823",
+    "uikName": "УИК №431",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 743,
       "Число бюллетеней, полученных участковыми комиссиями": 695,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "425401266824",
+    "uikName": "УИК №432",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 710,
       "Число бюллетеней, полученных участковыми комиссиями": 621,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "425401266825",
+    "uikName": "УИК №433",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1377,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "425401266826",
+    "uikName": "УИК №434",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "425401466725",
+    "uikName": "УИК №472",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 566,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "425401466726",
+    "uikName": "УИК №473",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "425401466727",
+    "uikName": "УИК №474",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "425401466728",
+    "uikName": "УИК №475",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "425401466729",
+    "uikName": "УИК №476",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 45,
       "Число бюллетеней, полученных участковыми комиссиями": 46,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "425401466730",
+    "uikName": "УИК №477",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 64,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "425401466731",
+    "uikName": "УИК №478",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "425401466732",
+    "uikName": "УИК №479",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "425401466733",
+    "uikName": "УИК №480",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "425401466734",
+    "uikName": "УИК №481",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "425401466735",
+    "uikName": "УИК №482",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3061,
       "Число бюллетеней, полученных участковыми комиссиями": 3050,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "425401466736",
+    "uikName": "УИК №483",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "425401466737",
+    "uikName": "УИК №484",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "425401466738",
+    "uikName": "УИК №485",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 80,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "425401466739",
+    "uikName": "УИК №486",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 664,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "425401466740",
+    "uikName": "УИК №487",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3094,
       "Число бюллетеней, полученных участковыми комиссиями": 3066,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "425401466741",
+    "uikName": "УИК №488",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "425401466742",
+    "uikName": "УИК №489",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 259,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "425401466743",
+    "uikName": "УИК №490",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1192,
       "Число бюллетеней, полученных участковыми комиссиями": 1163,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "425401466744",
+    "uikName": "УИК №491",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 53,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "425401466745",
+    "uikName": "УИК №492",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 611,
       "Число бюллетеней, полученных участковыми комиссиями": 604,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "425401466746",
+    "uikName": "УИК №493",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3246,
       "Число бюллетеней, полученных участковыми комиссиями": 3270,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "425401466747",
+    "uikName": "УИК №494",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "425401466748",
+    "uikName": "УИК №495",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 842,
     "uikTvd": "425402568505",
+    "uikName": "УИК №842",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 843,
     "uikTvd": "425402568507",
+    "uikName": "УИК №843",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1103,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 844,
     "uikTvd": "425402568509",
+    "uikName": "УИК №844",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 537,
       "Число бюллетеней, полученных участковыми комиссиями": 501,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 845,
     "uikTvd": "425402568511",
+    "uikName": "УИК №845",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 846,
     "uikTvd": "425402568513",
+    "uikName": "УИК №846",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1017,
       "Число бюллетеней, полученных участковыми комиссиями": 965,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 847,
     "uikTvd": "425402568515",
+    "uikName": "УИК №847",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 848,
     "uikTvd": "425402568517",
+    "uikName": "УИК №848",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 849,
     "uikTvd": "425402568519",
+    "uikName": "УИК №849",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 850,
     "uikTvd": "425402568521",
+    "uikName": "УИК №850",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 271,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 851,
     "uikTvd": "425402568523",
+    "uikName": "УИК №851",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 514,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 852,
     "uikTvd": "425402568525",
+    "uikName": "УИК №852",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 853,
     "uikTvd": "425402568527",
+    "uikName": "УИК №853",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -3645,8 +4356,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 854,
     "uikTvd": "425402568529",
+    "uikName": "УИК №854",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 891,
       "Число бюллетеней, полученных участковыми комиссиями": 977,
@@ -3691,8 +4411,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 855,
     "uikTvd": "425402568531",
+    "uikName": "УИК №855",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1953,
       "Число бюллетеней, полученных участковыми комиссиями": 1911,
@@ -3737,8 +4466,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 856,
     "uikTvd": "425402568533",
+    "uikName": "УИК №856",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2607,
       "Число бюллетеней, полученных участковыми комиссиями": 2508,
@@ -3783,8 +4521,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 857,
     "uikTvd": "425402568535",
+    "uikName": "УИК №857",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2124,
       "Число бюллетеней, полученных участковыми комиссиями": 2102,
@@ -3829,8 +4576,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 858,
     "uikTvd": "425402568537",
+    "uikName": "УИК №858",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1719,
       "Число бюллетеней, полученных участковыми комиссиями": 1639,
@@ -3875,8 +4631,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 859,
     "uikTvd": "425402568539",
+    "uikName": "УИК №859",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1946,
       "Число бюллетеней, полученных участковыми комиссиями": 1863,
@@ -3921,8 +4686,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 860,
     "uikTvd": "425402568541",
+    "uikName": "УИК №860",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1853,
       "Число бюллетеней, полученных участковыми комиссиями": 1966,
@@ -3967,8 +4741,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 861,
     "uikTvd": "425402568543",
+    "uikName": "УИК №861",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2357,
       "Число бюллетеней, полученных участковыми комиссиями": 2296,
@@ -4013,8 +4796,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 862,
     "uikTvd": "425402568545",
+    "uikName": "УИК №862",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2328,
@@ -4059,8 +4851,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 863,
     "uikTvd": "425402568547",
+    "uikName": "УИК №863",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1038,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -4105,8 +4906,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 864,
     "uikTvd": "425402568549",
+    "uikName": "УИК №864",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -4151,8 +4961,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 865,
     "uikTvd": "425402568551",
+    "uikName": "УИК №865",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 213,
@@ -4197,8 +5016,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 866,
     "uikTvd": "425402568553",
+    "uikName": "УИК №866",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -4243,8 +5071,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 867,
     "uikTvd": "425402568555",
+    "uikName": "УИК №867",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -4289,8 +5126,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1225,
     "uikTvd": "425403666773",
+    "uikName": "УИК №1225",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1219,
       "Число бюллетеней, полученных участковыми комиссиями": 1221,
@@ -4335,8 +5181,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1226,
     "uikTvd": "425403666774",
+    "uikName": "УИК №1226",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -4381,8 +5236,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1227,
     "uikTvd": "425403666775",
+    "uikName": "УИК №1227",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 565,
       "Число бюллетеней, полученных участковыми комиссиями": 557,
@@ -4427,8 +5291,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1228,
     "uikTvd": "425403666776",
+    "uikName": "УИК №1228",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -4473,8 +5346,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1229,
     "uikTvd": "425403666777",
+    "uikName": "УИК №1229",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 500,
       "Число бюллетеней, полученных участковыми комиссиями": 494,
@@ -4519,8 +5401,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1230,
     "uikTvd": "425403666778",
+    "uikName": "УИК №1230",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 716,
       "Число бюллетеней, полученных участковыми комиссиями": 731,
@@ -4565,8 +5456,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1231,
     "uikTvd": "425403666779",
+    "uikName": "УИК №1231",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 434,
       "Число бюллетеней, полученных участковыми комиссиями": 439,
@@ -4611,8 +5511,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1232,
     "uikTvd": "425403666780",
+    "uikName": "УИК №1232",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 722,
       "Число бюллетеней, полученных участковыми комиссиями": 588,
@@ -4657,8 +5566,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1233,
     "uikTvd": "425403666781",
+    "uikName": "УИК №1233",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 751,
       "Число бюллетеней, полученных участковыми комиссиями": 706,
@@ -4703,8 +5621,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1234,
     "uikTvd": "425403666782",
+    "uikName": "УИК №1234",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 457,
@@ -4749,8 +5676,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1235,
     "uikTvd": "425403666783",
+    "uikName": "УИК №1235",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -4795,8 +5731,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1236,
     "uikTvd": "425403666784",
+    "uikName": "УИК №1236",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -4841,8 +5786,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1237,
     "uikTvd": "425403666785",
+    "uikName": "УИК №1237",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 432,
@@ -4887,8 +5841,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1238,
     "uikTvd": "425403666786",
+    "uikName": "УИК №1238",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -4933,8 +5896,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1239,
     "uikTvd": "425403666787",
+    "uikName": "УИК №1239",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 319,
@@ -4979,8 +5951,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1240,
     "uikTvd": "425403666788",
+    "uikName": "УИК №1240",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 124,
@@ -5025,8 +6006,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1241,
     "uikTvd": "425403666789",
+    "uikName": "УИК №1241",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -5071,8 +6061,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1242,
     "uikTvd": "425403666790",
+    "uikName": "УИК №1242",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -5117,8 +6116,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1243,
     "uikTvd": "425403666791",
+    "uikName": "УИК №1243",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -5163,8 +6171,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1244,
     "uikTvd": "425403666792",
+    "uikName": "УИК №1244",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -5209,8 +6226,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1245,
     "uikTvd": "425403666793",
+    "uikName": "УИК №1245",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -5255,8 +6281,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1246,
     "uikTvd": "425403666794",
+    "uikName": "УИК №1246",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 149,
@@ -5301,8 +6336,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1247,
     "uikTvd": "425403666795",
+    "uikName": "УИК №1247",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 176,
@@ -5347,8 +6391,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1248,
     "uikTvd": "425403666796",
+    "uikName": "УИК №1248",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -5393,8 +6446,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1249,
     "uikTvd": "425403666797",
+    "uikName": "УИК №1249",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 299,
@@ -5439,8 +6501,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1250,
     "uikTvd": "425403666798",
+    "uikName": "УИК №1250",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 909,
       "Число бюллетеней, полученных участковыми комиссиями": 916,
@@ -5485,8 +6556,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1251,
     "uikTvd": "425403666799",
+    "uikName": "УИК №1251",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 796,
       "Число бюллетеней, полученных участковыми комиссиями": 753,
@@ -5531,8 +6611,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1252,
     "uikTvd": "425403666800",
+    "uikName": "УИК №1252",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1064,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -5577,8 +6666,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1253,
     "uikTvd": "425403666801",
+    "uikName": "УИК №1253",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 326,
@@ -5623,8 +6721,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1254,
     "uikTvd": "425403666802",
+    "uikName": "УИК №1254",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -5669,8 +6776,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1255,
     "uikTvd": "425403666803",
+    "uikName": "УИК №1255",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1021,
       "Число бюллетеней, полученных участковыми комиссиями": 1034,
@@ -5715,8 +6831,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1256,
     "uikTvd": "425403666804",
+    "uikName": "УИК №1256",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 998,
       "Число бюллетеней, полученных участковыми комиссиями": 942,
@@ -5761,8 +6886,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1257,
     "uikTvd": "425403666805",
+    "uikName": "УИК №1257",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1446,
       "Число бюллетеней, полученных участковыми комиссиями": 1478,
@@ -5807,8 +6941,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1258,
     "uikTvd": "425403666806",
+    "uikName": "УИК №1258",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1152,
       "Число бюллетеней, полученных участковыми комиссиями": 1136,
@@ -5853,8 +6996,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1259,
     "uikTvd": "425403666807",
+    "uikName": "УИК №1259",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 369,
@@ -5899,8 +7051,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1260,
     "uikTvd": "425403666808",
+    "uikName": "УИК №1260",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -5945,8 +7106,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1261,
     "uikTvd": "425403666809",
+    "uikName": "УИК №1261",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -5991,8 +7161,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1262,
     "uikTvd": "425403666810",
+    "uikName": "УИК №1262",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 568,
       "Число бюллетеней, полученных участковыми комиссиями": 539,
@@ -6037,8 +7216,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1263,
     "uikTvd": "425403666811",
+    "uikName": "УИК №1263",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1320,
       "Число бюллетеней, полученных участковыми комиссиями": 1348,
@@ -6083,8 +7271,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1264,
     "uikTvd": "425403666812",
+    "uikName": "УИК №1264",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1126,
       "Число бюллетеней, полученных участковыми комиссиями": 1188,
@@ -6129,8 +7326,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "425402667746",
+    "uikName": "УИК №870",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1958,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -6175,8 +7381,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "425402667747",
+    "uikName": "УИК №871",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2381,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6221,8 +7436,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "425402667748",
+    "uikName": "УИК №872",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1559,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6267,8 +7491,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "425402667749",
+    "uikName": "УИК №873",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2143,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6313,8 +7546,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "425402667750",
+    "uikName": "УИК №874",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1096,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6359,8 +7601,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "425402667751",
+    "uikName": "УИК №875",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1549,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6405,8 +7656,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "425402667752",
+    "uikName": "УИК №876",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2023,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6451,8 +7711,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "425402667753",
+    "uikName": "УИК №877",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1003,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6497,8 +7766,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "425402667754",
+    "uikName": "УИК №878",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1800,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -6543,8 +7821,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "425402667755",
+    "uikName": "УИК №879",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2689,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -6589,8 +7876,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "425402667756",
+    "uikName": "УИК №880",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -6635,8 +7931,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "425402667757",
+    "uikName": "УИК №881",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 711,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -6681,8 +7986,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "425402667758",
+    "uikName": "УИК №882",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 534,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6727,8 +8041,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "425402667759",
+    "uikName": "УИК №883",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 727,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -6773,8 +8096,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "425402667760",
+    "uikName": "УИК №884",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1319,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6819,8 +8151,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "425402667761",
+    "uikName": "УИК №885",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -6865,8 +8206,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "425402667762",
+    "uikName": "УИК №886",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 825,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -6911,8 +8261,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "425402667763",
+    "uikName": "УИК №887",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6957,8 +8316,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "425402667764",
+    "uikName": "УИК №888",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7003,8 +8371,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "425402667765",
+    "uikName": "УИК №889",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1251,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -7049,8 +8426,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "425402667766",
+    "uikName": "УИК №890",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -7095,8 +8481,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "425402667767",
+    "uikName": "УИК №891",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1385,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -7141,8 +8536,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "425402667768",
+    "uikName": "УИК №892",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1696,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7187,8 +8591,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "425402667769",
+    "uikName": "УИК №893",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1604,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7233,8 +8646,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "425402667770",
+    "uikName": "УИК №894",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2015,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7279,8 +8701,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "425402667771",
+    "uikName": "УИК №895",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 852,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -7325,8 +8756,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "425402667772",
+    "uikName": "УИК №896",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7371,8 +8811,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "425402667773",
+    "uikName": "УИК №897",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1916,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7417,8 +8866,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "425402667774",
+    "uikName": "УИК №898",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 642,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7463,8 +8921,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "425402667775",
+    "uikName": "УИК №899",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1620,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7509,8 +8976,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "425402766775",
+    "uikName": "УИК №903",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 580,
       "Число бюллетеней, полученных участковыми комиссиями": 541,
@@ -7555,8 +9031,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "425402766776",
+    "uikName": "УИК №904",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 501,
       "Число бюллетеней, полученных участковыми комиссиями": 481,
@@ -7601,8 +9086,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "425402766777",
+    "uikName": "УИК №905",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1011,
       "Число бюллетеней, полученных участковыми комиссиями": 963,
@@ -7647,8 +9141,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "425402766778",
+    "uikName": "УИК №906",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 854,
       "Число бюллетеней, полученных участковыми комиссиями": 799,
@@ -7693,8 +9196,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "425402766779",
+    "uikName": "УИК №907",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 851,
       "Число бюллетеней, полученных участковыми комиссиями": 836,
@@ -7739,8 +9251,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "425402766780",
+    "uikName": "УИК №908",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 891,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -7785,8 +9306,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "425402766781",
+    "uikName": "УИК №909",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 919,
       "Число бюллетеней, полученных участковыми комиссиями": 895,
@@ -7831,8 +9361,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "425402766782",
+    "uikName": "УИК №910",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 922,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -7877,8 +9416,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "425402766783",
+    "uikName": "УИК №911",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1043,
       "Число бюллетеней, полученных участковыми комиссиями": 982,
@@ -7923,8 +9471,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "425402766784",
+    "uikName": "УИК №912",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 500,
       "Число бюллетеней, полученных участковыми комиссиями": 493,
@@ -7969,8 +9526,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 913,
     "uikTvd": "425402766785",
+    "uikName": "УИК №913",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -8015,8 +9581,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "425402766786",
+    "uikName": "УИК №914",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -8061,8 +9636,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "425402766787",
+    "uikName": "УИК №915",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -8107,8 +9691,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "425402766788",
+    "uikName": "УИК №916",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -8153,8 +9746,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 917,
     "uikTvd": "425402766789",
+    "uikName": "УИК №917",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 734,
       "Число бюллетеней, полученных участковыми комиссиями": 682,
@@ -8199,8 +9801,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 918,
     "uikTvd": "425402766790",
+    "uikName": "УИК №918",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -8245,8 +9856,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 919,
     "uikTvd": "425402766791",
+    "uikName": "УИК №919",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -8291,8 +9911,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 920,
     "uikTvd": "425402766792",
+    "uikName": "УИК №920",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -8337,8 +9966,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1113,
     "uikTvd": "425403266788",
+    "uikName": "УИК №1113",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8383,8 +10021,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1114,
     "uikTvd": "425403266789",
+    "uikName": "УИК №1114",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1707,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8429,8 +10076,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1115,
     "uikTvd": "425403266790",
+    "uikName": "УИК №1115",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2414,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8475,8 +10131,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1116,
     "uikTvd": "425403266791",
+    "uikName": "УИК №1116",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1735,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8521,8 +10186,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1117,
     "uikTvd": "425403266792",
+    "uikName": "УИК №1117",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1579,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8567,8 +10241,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1118,
     "uikTvd": "425403266793",
+    "uikName": "УИК №1118",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1664,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8613,8 +10296,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1119,
     "uikTvd": "425403266794",
+    "uikName": "УИК №1119",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -8659,8 +10351,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1120,
     "uikTvd": "425403266795",
+    "uikName": "УИК №1120",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1196,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8705,8 +10406,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1121,
     "uikTvd": "425403266796",
+    "uikName": "УИК №1121",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8751,8 +10461,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1122,
     "uikTvd": "425403266797",
+    "uikName": "УИК №1122",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -8797,8 +10516,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1123,
     "uikTvd": "425403266798",
+    "uikName": "УИК №1123",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8843,8 +10571,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1124,
     "uikTvd": "425403266799",
+    "uikName": "УИК №1124",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8889,8 +10626,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1125,
     "uikTvd": "425403266800",
+    "uikName": "УИК №1125",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8935,8 +10681,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1126,
     "uikTvd": "425403266801",
+    "uikName": "УИК №1126",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1683,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8981,8 +10736,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1127,
     "uikTvd": "425403266802",
+    "uikName": "УИК №1127",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -9027,8 +10791,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1128,
     "uikTvd": "425403266803",
+    "uikName": "УИК №1128",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -9073,8 +10846,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1129,
     "uikTvd": "425403266804",
+    "uikName": "УИК №1129",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -9119,8 +10901,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1130,
     "uikTvd": "425403266805",
+    "uikName": "УИК №1130",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -9165,8 +10956,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1131,
     "uikTvd": "425403266806",
+    "uikName": "УИК №1131",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -9211,8 +11011,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1132,
     "uikTvd": "425403266807",
+    "uikName": "УИК №1132",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1121,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -9257,8 +11066,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1133,
     "uikTvd": "425403266808",
+    "uikName": "УИК №1133",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2113,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9303,8 +11121,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1134,
     "uikTvd": "425403266809",
+    "uikName": "УИК №1134",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2242,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9349,8 +11176,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1135,
     "uikTvd": "425403266810",
+    "uikName": "УИК №1135",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9395,8 +11231,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1136,
     "uikTvd": "425403266811",
+    "uikName": "УИК №1136",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1237,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9441,8 +11286,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1137,
     "uikTvd": "425403266812",
+    "uikName": "УИК №1137",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1491,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9487,8 +11341,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1138,
     "uikTvd": "425403266813",
+    "uikName": "УИК №1138",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1402,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -9533,8 +11396,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1139,
     "uikTvd": "425403266814",
+    "uikName": "УИК №1139",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9579,8 +11451,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1140,
     "uikTvd": "425403266815",
+    "uikName": "УИК №1140",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -9625,8 +11506,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1141,
     "uikTvd": "425403266816",
+    "uikName": "УИК №1141",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9671,8 +11561,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1027,
     "uikTvd": "425402966785",
+    "uikName": "УИК №1027",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2202,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -9717,8 +11616,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1028,
     "uikTvd": "425402966786",
+    "uikName": "УИК №1028",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2965,
       "Число бюллетеней, полученных участковыми комиссиями": 2390,
@@ -9763,8 +11671,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1029,
     "uikTvd": "425402966787",
+    "uikName": "УИК №1029",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1950,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -9809,8 +11726,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1030,
     "uikTvd": "425402966788",
+    "uikName": "УИК №1030",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1740,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -9855,8 +11781,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1031,
     "uikTvd": "425402966789",
+    "uikName": "УИК №1031",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1633,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -9901,8 +11836,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1032,
     "uikTvd": "425402966790",
+    "uikName": "УИК №1032",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -9947,8 +11891,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1033,
     "uikTvd": "425402966791",
+    "uikName": "УИК №1033",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 988,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -9993,8 +11946,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1034,
     "uikTvd": "425402966792",
+    "uikName": "УИК №1034",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 515,
@@ -10039,8 +12001,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1035,
     "uikTvd": "425402966793",
+    "uikName": "УИК №1035",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -10085,8 +12056,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1036,
     "uikTvd": "425402966794",
+    "uikName": "УИК №1036",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -10131,8 +12111,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1037,
     "uikTvd": "425402966795",
+    "uikName": "УИК №1037",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -10177,8 +12166,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1038,
     "uikTvd": "425402966796",
+    "uikName": "УИК №1038",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 455,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -10223,8 +12221,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1039,
     "uikTvd": "425402966797",
+    "uikName": "УИК №1039",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1223,
       "Число бюллетеней, полученных участковыми комиссиями": 1225,
@@ -10269,8 +12276,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1040,
     "uikTvd": "425402966798",
+    "uikName": "УИК №1040",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 519,
       "Число бюллетеней, полученных участковыми комиссиями": 525,
@@ -10315,8 +12331,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1041,
     "uikTvd": "425402966799",
+    "uikName": "УИК №1041",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 395,
       "Число бюллетеней, полученных участковыми комиссиями": 405,
@@ -10361,8 +12386,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1042,
     "uikTvd": "425402966800",
+    "uikName": "УИК №1042",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 194,
@@ -10407,8 +12441,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1043,
     "uikTvd": "425402966801",
+    "uikName": "УИК №1043",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -10453,8 +12496,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1044,
     "uikTvd": "425402966802",
+    "uikName": "УИК №1044",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -10499,8 +12551,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1045,
     "uikTvd": "425402966803",
+    "uikName": "УИК №1045",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -10545,8 +12606,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1046,
     "uikTvd": "425402966804",
+    "uikName": "УИК №1046",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -10591,8 +12661,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1047,
     "uikTvd": "425402966805",
+    "uikName": "УИК №1047",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 825,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -10637,8 +12716,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1048,
     "uikTvd": "425402966806",
+    "uikName": "УИК №1048",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -10683,8 +12771,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1049,
     "uikTvd": "425402966807",
+    "uikName": "УИК №1049",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -10729,8 +12826,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1050,
     "uikTvd": "425402966808",
+    "uikName": "УИК №1050",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 455,
       "Число бюллетеней, полученных участковыми комиссиями": 435,
@@ -10775,8 +12881,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1051,
     "uikTvd": "425402966809",
+    "uikName": "УИК №1051",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -10821,8 +12936,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1080,
     "uikTvd": "425403166805",
+    "uikName": "УИК №1080",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2603,
       "Число бюллетеней, полученных участковыми комиссиями": 2558,
@@ -10867,8 +12991,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1081,
     "uikTvd": "425403166806",
+    "uikName": "УИК №1081",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2002,
       "Число бюллетеней, полученных участковыми комиссиями": 1946,
@@ -10913,8 +13046,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1082,
     "uikTvd": "425403166807",
+    "uikName": "УИК №1082",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1635,
       "Число бюллетеней, полученных участковыми комиссиями": 1648,
@@ -10959,8 +13101,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1083,
     "uikTvd": "425403166808",
+    "uikName": "УИК №1083",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 360,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -11005,8 +13156,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1084,
     "uikTvd": "425403166809",
+    "uikName": "УИК №1084",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1714,
@@ -11051,8 +13211,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1085,
     "uikTvd": "425403166810",
+    "uikName": "УИК №1085",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 729,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -11097,8 +13266,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1086,
     "uikTvd": "425403166811",
+    "uikName": "УИК №1086",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -11143,8 +13321,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1087,
     "uikTvd": "425403166812",
+    "uikName": "УИК №1087",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 316,
@@ -11189,8 +13376,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1088,
     "uikTvd": "425403166813",
+    "uikName": "УИК №1088",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 417,
@@ -11235,8 +13431,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1089,
     "uikTvd": "425403166814",
+    "uikName": "УИК №1089",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 154,
@@ -11281,8 +13486,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1090,
     "uikTvd": "425403166815",
+    "uikName": "УИК №1090",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 515,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11327,8 +13541,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1091,
     "uikTvd": "425403166816",
+    "uikName": "УИК №1091",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 276,
@@ -11373,8 +13596,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1092,
     "uikTvd": "425403166817",
+    "uikName": "УИК №1092",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 279,
@@ -11419,8 +13651,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1093,
     "uikTvd": "425403166818",
+    "uikName": "УИК №1093",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -11465,8 +13706,17 @@ export const duma_2003_uik_428_region_25_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1094,
     "uikTvd": "425403166819",
+    "uikName": "УИК №1094",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 51,
+      "oikTvd": "100100095855",
+      "oikName": "Арсеньевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 645,
       "Число бюллетеней, полученных участковыми комиссиями": 626,

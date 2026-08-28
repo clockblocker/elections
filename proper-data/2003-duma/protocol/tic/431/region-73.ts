@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070503",
     "tikName": "Чердаклинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 33730,
@@ -108,6 +111,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070504",
     "tikName": "Цильнинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 21997,
@@ -211,6 +217,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070505",
     "tikName": "Тереньгульская  ",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 15755,
@@ -305,6 +314,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070506",
     "tikName": "Сурская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки": 17831,
@@ -416,6 +428,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070507",
     "tikName": "Старомайнская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 15413,
@@ -510,6 +525,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070508",
     "tikName": "Старокулаткинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 13585,
@@ -596,6 +614,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070509",
     "tikName": "Сенгилеевская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 21018,
@@ -686,6 +707,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070510",
     "tikName": "Радищевская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 12041,
@@ -776,6 +800,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070511",
     "tikName": "Павловская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 12982,
@@ -867,6 +894,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070512",
     "tikName": "Новоспасская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 18484,
@@ -957,6 +987,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070513",
     "tikName": "Новомалыклинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 13570,
@@ -1043,6 +1076,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070514",
     "tikName": "Николаевская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 23879,
@@ -1147,6 +1183,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070515",
     "tikName": "Мелекесская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки": 31532,
@@ -1260,6 +1299,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070516",
     "tikName": "Майнская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 23913,
@@ -1365,6 +1407,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070517",
     "tikName": "Кузоватовская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 21216,
@@ -1468,6 +1513,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 23495,
@@ -1568,6 +1616,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки": 32086,
@@ -1685,6 +1736,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки": 103563,
@@ -1798,6 +1852,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 18657,
@@ -1891,6 +1948,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 15394,
@@ -1969,6 +2029,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки": 24464,
@@ -2081,6 +2144,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 8828,
@@ -2167,6 +2233,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 88308,
@@ -2270,6 +2339,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 97592,
@@ -2385,6 +2457,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки": 88881,
@@ -2499,6 +2574,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 75403,
@@ -2602,6 +2680,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки": 95902,
@@ -2713,6 +2794,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 87000,
@@ -2813,6 +2897,9 @@ export const duma_2003_tic_431_region_73 = [
     "ballot": "party",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 44578,

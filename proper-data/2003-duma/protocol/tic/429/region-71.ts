@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 66862,
@@ -107,6 +115,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки": 29421,
@@ -189,6 +205,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 27995,
@@ -270,6 +294,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки": 73753,
@@ -375,6 +407,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "uikCount": 83,
     "accounting": {
       "Число избирателей, включенных в списки": 129831,
@@ -509,6 +549,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070323",
     "tikName": "Кимовская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 39998,
@@ -610,6 +658,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070324",
     "tikName": "Заокская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 15076,
@@ -681,6 +737,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070325",
     "tikName": "Дубенская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 11768,
@@ -748,6 +812,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070326",
     "tikName": "Донская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 52621,
@@ -838,6 +910,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070332",
     "tikName": "Тула, Центральная",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100095634",
+      "oikName": "Тульский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 83938,
@@ -934,6 +1014,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070333",
     "tikName": "Тула, Советская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100095634",
+      "oikName": "Тульский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки": 66533,
@@ -1027,6 +1115,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070334",
     "tikName": "Тула, Пролетарская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100095634",
+      "oikName": "Тульский"
+    },
     "uikCount": 72,
     "accounting": {
       "Число избирателей, включенных в списки": 134651,
@@ -1150,6 +1246,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070335",
     "tikName": "Тула, Привокзальная ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100095634",
+      "oikName": "Тульский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 70671,
@@ -1241,6 +1345,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070336",
     "tikName": "Тула, Зареченская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 176,
+      "oikTvd": "100100095634",
+      "oikName": "Тульский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 82300,
@@ -1328,6 +1440,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070346",
     "tikName": "Ленинская ТИК",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 49430,
@@ -1429,6 +1549,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070347",
     "tikName": "Куркинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 10232,
@@ -1504,6 +1632,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070348",
     "tikName": "Киреевская ТИК",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в списки": 64943,
@@ -1623,6 +1759,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070349",
     "tikName": "Каменская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки": 8109,
@@ -1692,6 +1836,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070350",
     "tikName": "Ефремовская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в списки": 57902,
@@ -1813,6 +1965,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070351",
     "tikName": "Воловская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 12234,
@@ -1892,6 +2052,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070352",
     "tikName": "Богородицкая",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 45083,
@@ -1997,6 +2165,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070353",
     "tikName": "Белевская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 21016,
@@ -2084,6 +2260,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070354",
     "tikName": "Арсеньевская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 10754,
@@ -2161,6 +2345,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070361",
     "tikName": "Щекинская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 78,
     "accounting": {
       "Число избирателей, включенных в списки": 95425,
@@ -2294,6 +2486,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070362",
     "tikName": "Чернская ТИК",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 16409,
@@ -2381,6 +2581,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070363",
     "tikName": "Тепло-Огаревская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 11177,
@@ -2461,6 +2669,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070364",
     "tikName": "Суворовская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки": 33203,
@@ -2560,6 +2776,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070365",
     "tikName": "Плавская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 21238,
@@ -2643,6 +2867,14 @@ export const duma_2003_tic_429_region_71 = [
     "ballot": "single-member",
     "tikTvd": "271200070366",
     "tikName": "Одоевская",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 177,
+      "oikTvd": "100100095635",
+      "oikName": "Щекинский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 10930,

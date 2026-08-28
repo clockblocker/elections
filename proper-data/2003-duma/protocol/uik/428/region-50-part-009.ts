@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1146,
     "uikTvd": "450402470488",
+    "uikName": "УИК №1146",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1685,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -64,8 +73,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1147,
     "uikTvd": "450402470489",
+    "uikName": "УИК №1147",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1960,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -117,8 +135,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1148,
     "uikTvd": "450402470490",
+    "uikName": "УИК №1148",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1969,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -170,8 +197,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1149,
     "uikTvd": "450402470491",
+    "uikName": "УИК №1149",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -223,8 +259,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1150,
     "uikTvd": "450402470492",
+    "uikName": "УИК №1150",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2087,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -276,8 +321,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1151,
     "uikTvd": "450402470493",
+    "uikName": "УИК №1151",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1755,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -329,8 +383,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1152,
     "uikTvd": "450402470494",
+    "uikName": "УИК №1152",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -382,8 +445,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1257,
     "uikTvd": "450402870384",
+    "uikName": "УИК №1257",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1596,
       "Число бюллетеней, полученных участковыми комиссиями": 1438,
@@ -435,8 +507,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1258,
     "uikTvd": "450402870385",
+    "uikName": "УИК №1258",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2762,
       "Число бюллетеней, полученных участковыми комиссиями": 2466,
@@ -488,8 +569,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1259,
     "uikTvd": "450402870386",
+    "uikName": "УИК №1259",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 2034,
@@ -541,8 +631,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1260,
     "uikTvd": "450402870387",
+    "uikName": "УИК №1260",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2751,
       "Число бюллетеней, полученных участковыми комиссиями": 2488,
@@ -594,8 +693,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1261,
     "uikTvd": "450402870388",
+    "uikName": "УИК №1261",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2775,
       "Число бюллетеней, полученных участковыми комиссиями": 2501,
@@ -647,8 +755,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1262,
     "uikTvd": "450402870389",
+    "uikName": "УИК №1262",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2966,
       "Число бюллетеней, полученных участковыми комиссиями": 2675,
@@ -700,8 +817,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1263,
     "uikTvd": "450402870390",
+    "uikName": "УИК №1263",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2597,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -753,8 +879,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1264,
     "uikTvd": "450402870391",
+    "uikName": "УИК №1264",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2061,
       "Число бюллетеней, полученных участковыми комиссиями": 1864,
@@ -806,8 +941,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1265,
     "uikTvd": "450402870392",
+    "uikName": "УИК №1265",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2452,
       "Число бюллетеней, полученных участковыми комиссиями": 2222,
@@ -859,8 +1003,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1266,
     "uikTvd": "450402870393",
+    "uikName": "УИК №1266",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 1844,
@@ -912,8 +1065,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1267,
     "uikTvd": "450402870394",
+    "uikName": "УИК №1267",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2308,
       "Число бюллетеней, полученных участковыми комиссиями": 2077,
@@ -965,8 +1127,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1268,
     "uikTvd": "450402870395",
+    "uikName": "УИК №1268",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2784,
       "Число бюллетеней, полученных участковыми комиссиями": 2489,
@@ -1018,8 +1189,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1269,
     "uikTvd": "450402870396",
+    "uikName": "УИК №1269",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2544,
       "Число бюллетеней, полученных участковыми комиссиями": 2301,
@@ -1071,8 +1251,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1270,
     "uikTvd": "450402870397",
+    "uikName": "УИК №1270",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 1893,
@@ -1124,8 +1313,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1271,
     "uikTvd": "450402870398",
+    "uikName": "УИК №1271",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 1768,
@@ -1177,8 +1375,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1272,
     "uikTvd": "450402870399",
+    "uikName": "УИК №1272",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2566,
       "Число бюллетеней, полученных участковыми комиссиями": 2292,
@@ -1230,8 +1437,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1273,
     "uikTvd": "450402870400",
+    "uikName": "УИК №1273",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2553,
       "Число бюллетеней, полученных участковыми комиссиями": 2301,
@@ -1283,8 +1499,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1735,
     "uikTvd": "450403470528",
+    "uikName": "УИК №1735",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2370,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -1336,8 +1561,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1736,
     "uikTvd": "450403470529",
+    "uikName": "УИК №1736",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2203,
       "Число бюллетеней, полученных участковыми комиссиями": 1957,
@@ -1389,8 +1623,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1737,
     "uikTvd": "450403470530",
+    "uikName": "УИК №1737",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 1974,
@@ -1442,8 +1685,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1738,
     "uikTvd": "450403470531",
+    "uikName": "УИК №1738",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2470,
       "Число бюллетеней, полученных участковыми комиссиями": 2206,
@@ -1495,8 +1747,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1739,
     "uikTvd": "450403470532",
+    "uikName": "УИК №1739",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2153,
       "Число бюллетеней, полученных участковыми комиссиями": 1932,
@@ -1548,8 +1809,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1740,
     "uikTvd": "450403470533",
+    "uikName": "УИК №1740",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2149,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -1601,8 +1871,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1741,
     "uikTvd": "450403470534",
+    "uikName": "УИК №1741",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2266,
       "Число бюллетеней, полученных участковыми комиссиями": 2115,
@@ -1654,8 +1933,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1742,
     "uikTvd": "450403470535",
+    "uikName": "УИК №1742",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2156,
       "Число бюллетеней, полученных участковыми комиссиями": 1921,
@@ -1707,8 +1995,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1743,
     "uikTvd": "450403470536",
+    "uikName": "УИК №1743",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2433,
       "Число бюллетеней, полученных участковыми комиссиями": 2264,
@@ -1760,8 +2057,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1744,
     "uikTvd": "450403470537",
+    "uikName": "УИК №1744",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2665,
       "Число бюллетеней, полученных участковыми комиссиями": 2385,
@@ -1813,8 +2119,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1745,
     "uikTvd": "450403470538",
+    "uikName": "УИК №1745",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2551,
       "Число бюллетеней, полученных участковыми комиссиями": 2297,
@@ -1866,8 +2181,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1746,
     "uikTvd": "450403470539",
+    "uikName": "УИК №1746",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2232,
       "Число бюллетеней, полученных участковыми комиссиями": 1748,
@@ -1919,8 +2243,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1747,
     "uikTvd": "450403470540",
+    "uikName": "УИК №1747",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2422,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -1972,8 +2305,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1748,
     "uikTvd": "450403470541",
+    "uikName": "УИК №1748",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1996,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -2025,8 +2367,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1749,
     "uikTvd": "450403470542",
+    "uikName": "УИК №1749",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1949,
       "Число бюллетеней, полученных участковыми комиссиями": 1691,
@@ -2078,8 +2429,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1750,
     "uikTvd": "450403470543",
+    "uikName": "УИК №1750",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2583,
       "Число бюллетеней, полученных участковыми комиссиями": 2211,
@@ -2131,8 +2491,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1751,
     "uikTvd": "450403470544",
+    "uikName": "УИК №1751",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2797,
       "Число бюллетеней, полученных участковыми комиссиями": 2514,
@@ -2184,8 +2553,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1752,
     "uikTvd": "450403470545",
+    "uikName": "УИК №1752",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2072,
@@ -2237,8 +2615,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1753,
     "uikTvd": "450403470546",
+    "uikName": "УИК №1753",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1834,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -2290,8 +2677,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1754,
     "uikTvd": "450403470547",
+    "uikName": "УИК №1754",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2488,
       "Число бюллетеней, полученных участковыми комиссиями": 2244,
@@ -2343,8 +2739,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1755,
     "uikTvd": "450403470548",
+    "uikName": "УИК №1755",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2387,
       "Число бюллетеней, полученных участковыми комиссиями": 2185,
@@ -2396,8 +2801,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1756,
     "uikTvd": "450403470549",
+    "uikName": "УИК №1756",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2033,
       "Число бюллетеней, полученных участковыми комиссиями": 1828,
@@ -2449,8 +2863,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1757,
     "uikTvd": "450403470550",
+    "uikName": "УИК №1757",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 1999,
@@ -2502,8 +2925,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1758,
     "uikTvd": "450403470551",
+    "uikName": "УИК №1758",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2303,
       "Число бюллетеней, полученных участковыми комиссиями": 2063,
@@ -2555,8 +2987,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1759,
     "uikTvd": "450403470552",
+    "uikName": "УИК №1759",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1941,
       "Число бюллетеней, полученных участковыми комиссиями": 1742,
@@ -2608,8 +3049,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1760,
     "uikTvd": "450403470553",
+    "uikName": "УИК №1760",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1249,
       "Число бюллетеней, полученных участковыми комиссиями": 1099,
@@ -2661,8 +3111,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1761,
     "uikTvd": "450403470554",
+    "uikName": "УИК №1761",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2330,
       "Число бюллетеней, полученных участковыми комиссиями": 2084,
@@ -2714,8 +3173,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1762,
     "uikTvd": "450403470555",
+    "uikName": "УИК №1762",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1389,
       "Число бюллетеней, полученных участковыми комиссиями": 1332,
@@ -2767,8 +3235,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1763,
     "uikTvd": "450403470556",
+    "uikName": "УИК №1763",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2695,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -2820,8 +3297,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1764,
     "uikTvd": "450403470557",
+    "uikName": "УИК №1764",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2712,
       "Число бюллетеней, полученных участковыми комиссиями": 2584,
@@ -2873,8 +3359,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1765,
     "uikTvd": "450403470558",
+    "uikName": "УИК №1765",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2582,
       "Число бюллетеней, полученных участковыми комиссиями": 2318,
@@ -2926,8 +3421,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1766,
     "uikTvd": "450403470559",
+    "uikName": "УИК №1766",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1959,
       "Число бюллетеней, полученных участковыми комиссиями": 1751,
@@ -2979,8 +3483,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1767,
     "uikTvd": "450403470560",
+    "uikName": "УИК №1767",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1979,
       "Число бюллетеней, полученных участковыми комиссиями": 1769,
@@ -3032,8 +3545,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1768,
     "uikTvd": "450403470561",
+    "uikName": "УИК №1768",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1918,
       "Число бюллетеней, полученных участковыми комиссиями": 1723,
@@ -3085,8 +3607,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1769,
     "uikTvd": "450403470562",
+    "uikName": "УИК №1769",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2361,
       "Число бюллетеней, полученных участковыми комиссиями": 2138,
@@ -3138,8 +3669,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1770,
     "uikTvd": "450403470563",
+    "uikName": "УИК №1770",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2204,
       "Число бюллетеней, полученных участковыми комиссиями": 1982,
@@ -3191,8 +3731,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1771,
     "uikTvd": "450403470564",
+    "uikName": "УИК №1771",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2127,
       "Число бюллетеней, полученных участковыми комиссиями": 1916,
@@ -3244,8 +3793,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1772,
     "uikTvd": "450403470565",
+    "uikName": "УИК №1772",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1967,
       "Число бюллетеней, полученных участковыми комиссиями": 1777,
@@ -3297,8 +3855,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1773,
     "uikTvd": "450403470566",
+    "uikName": "УИК №1773",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1893,
       "Число бюллетеней, полученных участковыми комиссиями": 1679,
@@ -3350,8 +3917,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1774,
     "uikTvd": "450403470567",
+    "uikName": "УИК №1774",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1547,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -3403,8 +3979,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1775,
     "uikTvd": "450403470568",
+    "uikName": "УИК №1775",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1511,
       "Число бюллетеней, полученных участковыми комиссиями": 1306,
@@ -3456,8 +4041,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1776,
     "uikTvd": "450403470569",
+    "uikName": "УИК №1776",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2648,
       "Число бюллетеней, полученных участковыми комиссиями": 2354,
@@ -3509,8 +4103,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1777,
     "uikTvd": "450403470570",
+    "uikName": "УИК №1777",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 415,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -3562,8 +4165,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1778,
     "uikTvd": "450403470571",
+    "uikName": "УИК №1778",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1876,
       "Число бюллетеней, полученных участковыми комиссиями": 1775,
@@ -3615,8 +4227,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1779,
     "uikTvd": "450403470572",
+    "uikName": "УИК №1779",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2654,
       "Число бюллетеней, полученных участковыми комиссиями": 2353,
@@ -3668,8 +4289,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1780,
     "uikTvd": "450403470573",
+    "uikName": "УИК №1780",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2746,
       "Число бюллетеней, полученных участковыми комиссиями": 2476,
@@ -3721,8 +4351,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1781,
     "uikTvd": "450403470574",
+    "uikName": "УИК №1781",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2562,
       "Число бюллетеней, полученных участковыми комиссиями": 2298,
@@ -3774,8 +4413,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1782,
     "uikTvd": "450403470575",
+    "uikName": "УИК №1782",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2220,
       "Число бюллетеней, полученных участковыми комиссиями": 1946,
@@ -3827,8 +4475,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1783,
     "uikTvd": "450403470576",
+    "uikName": "УИК №1783",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2347,
       "Число бюллетеней, полученных участковыми комиссиями": 2097,
@@ -3880,8 +4537,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1784,
     "uikTvd": "450403470577",
+    "uikName": "УИК №1784",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2598,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -3933,8 +4599,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1785,
     "uikTvd": "450403470578",
+    "uikName": "УИК №1785",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2654,
       "Число бюллетеней, полученных участковыми комиссиями": 2341,
@@ -3986,8 +4661,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1786,
     "uikTvd": "450403470579",
+    "uikName": "УИК №1786",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2936,
       "Число бюллетеней, полученных участковыми комиссиями": 2619,
@@ -4039,8 +4723,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1787,
     "uikTvd": "450403470580",
+    "uikName": "УИК №1787",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2873,
       "Число бюллетеней, полученных участковыми комиссиями": 2536,
@@ -4092,8 +4785,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1788,
     "uikTvd": "450403470581",
+    "uikName": "УИК №1788",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2383,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -4145,8 +4847,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1789,
     "uikTvd": "450403470582",
+    "uikName": "УИК №1789",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1183,
       "Число бюллетеней, полученных участковыми комиссиями": 1025,
@@ -4198,8 +4909,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1790,
     "uikTvd": "450403470583",
+    "uikName": "УИК №1790",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1135,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -4251,8 +4971,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1791,
     "uikTvd": "450403470584",
+    "uikName": "УИК №1791",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 1699,
@@ -4304,8 +5033,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1792,
     "uikTvd": "450403470585",
+    "uikName": "УИК №1792",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 854,
       "Число бюллетеней, полученных участковыми комиссиями": 743,
@@ -4357,8 +5095,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1793,
     "uikTvd": "450403470586",
+    "uikName": "УИК №1793",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1572,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -4410,8 +5157,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1794,
     "uikTvd": "450403470587",
+    "uikName": "УИК №1794",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2144,
       "Число бюллетеней, полученных участковыми комиссиями": 1899,
@@ -4463,8 +5219,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1795,
     "uikTvd": "450403470588",
+    "uikName": "УИК №1795",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1792,
       "Число бюллетеней, полученных участковыми комиссиями": 1618,
@@ -4516,8 +5281,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1796,
     "uikTvd": "450403470589",
+    "uikName": "УИК №1796",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1152,
@@ -4569,8 +5343,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1797,
     "uikTvd": "450403470590",
+    "uikName": "УИК №1797",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2059,
       "Число бюллетеней, полученных участковыми комиссиями": 1985,
@@ -4622,8 +5405,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1798,
     "uikTvd": "450403470591",
+    "uikName": "УИК №1798",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2160,
       "Число бюллетеней, полученных участковыми комиссиями": 1922,
@@ -4675,8 +5467,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1799,
     "uikTvd": "450403470592",
+    "uikName": "УИК №1799",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1677,
       "Число бюллетеней, полученных участковыми комиссиями": 1888,
@@ -4728,8 +5529,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1800,
     "uikTvd": "450403470593",
+    "uikName": "УИК №1800",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1673,
       "Число бюллетеней, полученных участковыми комиссиями": 1445,
@@ -4781,8 +5591,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1801,
     "uikTvd": "450403470594",
+    "uikName": "УИК №1801",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1121,
       "Число бюллетеней, полученных участковыми комиссиями": 1121,
@@ -4834,8 +5653,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1802,
     "uikTvd": "450403470595",
+    "uikName": "УИК №1802",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2363,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -4887,8 +5715,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1803,
     "uikTvd": "450403470596",
+    "uikName": "УИК №1803",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1302,
       "Число бюллетеней, полученных участковыми комиссиями": 1247,
@@ -4940,8 +5777,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1804,
     "uikTvd": "450403470597",
+    "uikName": "УИК №1804",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1433,
       "Число бюллетеней, полученных участковыми комиссиями": 1175,
@@ -4993,8 +5839,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1805,
     "uikTvd": "450403470598",
+    "uikName": "УИК №1805",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -5046,8 +5901,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1806,
     "uikTvd": "450403470599",
+    "uikName": "УИК №1806",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -5099,8 +5963,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1807,
     "uikTvd": "450403470600",
+    "uikName": "УИК №1807",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -5152,8 +6025,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1808,
     "uikTvd": "450403470601",
+    "uikName": "УИК №1808",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 167,
@@ -5205,8 +6087,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1809,
     "uikTvd": "450403470602",
+    "uikName": "УИК №1809",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 601,
       "Число бюллетеней, полученных участковыми комиссиями": 509,
@@ -5258,8 +6149,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1810,
     "uikTvd": "450403470603",
+    "uikName": "УИК №1810",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1630,
       "Число бюллетеней, полученных участковыми комиссиями": 1463,
@@ -5311,8 +6211,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1811,
     "uikTvd": "450403470604",
+    "uikName": "УИК №1811",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2228,
       "Число бюллетеней, полученных участковыми комиссиями": 2001,
@@ -5364,8 +6273,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1812,
     "uikTvd": "450403470605",
+    "uikName": "УИК №1812",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1332,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -5417,8 +6335,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1813,
     "uikTvd": "450403470606",
+    "uikName": "УИК №1813",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2548,
       "Число бюллетеней, полученных участковыми комиссиями": 2229,
@@ -5470,8 +6397,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1814,
     "uikTvd": "450403470607",
+    "uikName": "УИК №1814",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2844,
       "Число бюллетеней, полученных участковыми комиссиями": 2528,
@@ -5523,8 +6459,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1815,
     "uikTvd": "450403470608",
+    "uikName": "УИК №1815",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2028,
       "Число бюллетеней, полученных участковыми комиссиями": 1821,
@@ -5576,8 +6521,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1816,
     "uikTvd": "450403470609",
+    "uikName": "УИК №1816",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2175,
       "Число бюллетеней, полученных участковыми комиссиями": 1966,
@@ -5629,8 +6583,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1817,
     "uikTvd": "450403470610",
+    "uikName": "УИК №1817",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 823,
       "Число бюллетеней, полученных участковыми комиссиями": 704,
@@ -5682,8 +6645,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1818,
     "uikTvd": "450403470611",
+    "uikName": "УИК №1818",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 561,
@@ -5735,8 +6707,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1819,
     "uikTvd": "450403470612",
+    "uikName": "УИК №1819",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 849,
       "Число бюллетеней, полученных участковыми комиссиями": 749,
@@ -5788,8 +6769,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1820,
     "uikTvd": "450403470613",
+    "uikName": "УИК №1820",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2465,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -5841,8 +6831,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1821,
     "uikTvd": "450403470614",
+    "uikName": "УИК №1821",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2210,
       "Число бюллетеней, полученных участковыми комиссиями": 2231,
@@ -5894,8 +6893,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1822,
     "uikTvd": "450403470615",
+    "uikName": "УИК №1822",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1079,
       "Число бюллетеней, полученных участковыми комиссиями": 937,
@@ -5947,8 +6955,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1823,
     "uikTvd": "450403470616",
+    "uikName": "УИК №1823",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2050,
       "Число бюллетеней, полученных участковыми комиссиями": 1866,
@@ -6000,8 +7017,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1824,
     "uikTvd": "450403470617",
+    "uikName": "УИК №1824",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1150,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -6053,8 +7079,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1825,
     "uikTvd": "450403470618",
+    "uikName": "УИК №1825",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1752,
       "Число бюллетеней, полученных участковыми комиссиями": 1584,
@@ -6106,8 +7141,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1826,
     "uikTvd": "450403470619",
+    "uikName": "УИК №1826",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 356,
@@ -6159,8 +7203,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1827,
     "uikTvd": "450403470620",
+    "uikName": "УИК №1827",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1601,
       "Число бюллетеней, полученных участковыми комиссиями": 1415,
@@ -6212,8 +7265,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1828,
     "uikTvd": "450403470621",
+    "uikName": "УИК №1828",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 341,
@@ -6265,8 +7327,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1829,
     "uikTvd": "450403470622",
+    "uikName": "УИК №1829",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1291,
       "Число бюллетеней, полученных участковыми комиссиями": 1144,
@@ -6318,8 +7389,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1830,
     "uikTvd": "450403470623",
+    "uikName": "УИК №1830",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2284,
       "Число бюллетеней, полученных участковыми комиссиями": 2034,
@@ -6371,8 +7451,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1831,
     "uikTvd": "450403470624",
+    "uikName": "УИК №1831",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 357,
@@ -6424,8 +7513,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1832,
     "uikTvd": "450403470625",
+    "uikName": "УИК №1832",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1863,
       "Число бюллетеней, полученных участковыми комиссиями": 1706,
@@ -6477,8 +7575,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1833,
     "uikTvd": "450403470626",
+    "uikName": "УИК №1833",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2402,
       "Число бюллетеней, полученных участковыми комиссиями": 1912,
@@ -6530,8 +7637,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1834,
     "uikTvd": "450403470627",
+    "uikName": "УИК №1834",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 1952,
@@ -6583,8 +7699,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1835,
     "uikTvd": "450403470628",
+    "uikName": "УИК №1835",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -6636,8 +7761,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1836,
     "uikTvd": "450403470629",
+    "uikName": "УИК №1836",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2675,
       "Число бюллетеней, полученных участковыми комиссиями": 2416,
@@ -6689,8 +7823,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1837,
     "uikTvd": "450403470630",
+    "uikName": "УИК №1837",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2985,
       "Число бюллетеней, полученных участковыми комиссиями": 2512,
@@ -6742,8 +7885,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1838,
     "uikTvd": "450403470631",
+    "uikName": "УИК №1838",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2594,
       "Число бюллетеней, полученных участковыми комиссиями": 2216,
@@ -6795,8 +7947,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1839,
     "uikTvd": "450403470632",
+    "uikName": "УИК №1839",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 1976,
@@ -6848,8 +8009,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1840,
     "uikTvd": "450403470633",
+    "uikName": "УИК №1840",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2506,
       "Число бюллетеней, полученных участковыми комиссиями": 2223,
@@ -6901,8 +8071,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1841,
     "uikTvd": "450403470634",
+    "uikName": "УИК №1841",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2006,
       "Число бюллетеней, полученных участковыми комиссиями": 1647,
@@ -6954,8 +8133,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1842,
     "uikTvd": "450403470635",
+    "uikName": "УИК №1842",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1446,
       "Число бюллетеней, полученных участковыми комиссиями": 1231,
@@ -7007,8 +8195,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1843,
     "uikTvd": "450403470636",
+    "uikName": "УИК №1843",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 904,
       "Число бюллетеней, полученных участковыми комиссиями": 762,
@@ -7060,8 +8257,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1844,
     "uikTvd": "450403470637",
+    "uikName": "УИК №1844",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2320,
       "Число бюллетеней, полученных участковыми комиссиями": 1987,
@@ -7113,8 +8319,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1845,
     "uikTvd": "450403470638",
+    "uikName": "УИК №1845",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2469,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -7166,8 +8381,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1846,
     "uikTvd": "450403470639",
+    "uikName": "УИК №1846",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1937,
       "Число бюллетеней, полученных участковыми комиссиями": 1715,
@@ -7219,8 +8443,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1847,
     "uikTvd": "450403470640",
+    "uikName": "УИК №1847",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1156,
       "Число бюллетеней, полученных участковыми комиссиями": 1004,
@@ -7272,8 +8505,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1848,
     "uikTvd": "450403470641",
+    "uikName": "УИК №1848",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -7325,8 +8567,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1849,
     "uikTvd": "450403470642",
+    "uikName": "УИК №1849",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2518,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -7378,8 +8629,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1850,
     "uikTvd": "450403470643",
+    "uikName": "УИК №1850",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2566,
       "Число бюллетеней, полученных участковыми комиссиями": 2282,
@@ -7431,8 +8691,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1851,
     "uikTvd": "450403470644",
+    "uikName": "УИК №1851",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1264,
       "Число бюллетеней, полученных участковыми комиссиями": 1064,
@@ -7484,8 +8753,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1852,
     "uikTvd": "450403470645",
+    "uikName": "УИК №1852",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1295,
       "Число бюллетеней, полученных участковыми комиссиями": 1118,
@@ -7537,8 +8815,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1853,
     "uikTvd": "450403470646",
+    "uikName": "УИК №1853",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2173,
       "Число бюллетеней, полученных участковыми комиссиями": 1985,
@@ -7590,8 +8877,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1854,
     "uikTvd": "450403470647",
+    "uikName": "УИК №1854",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1037,
@@ -7643,8 +8939,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1855,
     "uikTvd": "450403470648",
+    "uikName": "УИК №1855",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1762,
       "Число бюллетеней, полученных участковыми комиссиями": 1508,
@@ -7696,8 +9001,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1856,
     "uikTvd": "450403470649",
+    "uikName": "УИК №1856",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 836,
       "Число бюллетеней, полученных участковыми комиссиями": 683,
@@ -7749,8 +9063,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1857,
     "uikTvd": "450403470650",
+    "uikName": "УИК №1857",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1636,
       "Число бюллетеней, полученных участковыми комиссиями": 1471,
@@ -7802,8 +9125,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1858,
     "uikTvd": "450403470651",
+    "uikName": "УИК №1858",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 677,
       "Число бюллетеней, полученных участковыми комиссиями": 584,
@@ -7855,8 +9187,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1859,
     "uikTvd": "450403470652",
+    "uikName": "УИК №1859",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1012,
       "Число бюллетеней, полученных участковыми комиссиями": 878,
@@ -7908,8 +9249,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2432,
     "uikTvd": "450404770401",
+    "uikName": "УИК №2432",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 674,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -7961,8 +9311,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2433,
     "uikTvd": "450404770402",
+    "uikName": "УИК №2433",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1641,
       "Число бюллетеней, полученных участковыми комиссиями": 1416,
@@ -8014,8 +9373,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2434,
     "uikTvd": "450404770403",
+    "uikName": "УИК №2434",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2382,
@@ -8067,8 +9435,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2435,
     "uikTvd": "450404770404",
+    "uikName": "УИК №2435",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1421,
       "Число бюллетеней, полученных участковыми комиссиями": 1229,
@@ -8120,8 +9497,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2436,
     "uikTvd": "450404770405",
+    "uikName": "УИК №2436",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2326,
       "Число бюллетеней, полученных участковыми комиссиями": 2031,
@@ -8173,8 +9559,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2437,
     "uikTvd": "450404770406",
+    "uikName": "УИК №2437",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 926,
       "Число бюллетеней, полученных участковыми комиссиями": 727,
@@ -8226,8 +9621,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2438,
     "uikTvd": "450404770407",
+    "uikName": "УИК №2438",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1340,
       "Число бюллетеней, полученных участковыми комиссиями": 1151,
@@ -8279,8 +9683,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2439,
     "uikTvd": "450404770408",
+    "uikName": "УИК №2439",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2728,
       "Число бюллетеней, полученных участковыми комиссиями": 2255,
@@ -8332,8 +9745,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2440,
     "uikTvd": "450404770409",
+    "uikName": "УИК №2440",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2416,
       "Число бюллетеней, полученных участковыми комиссиями": 2075,
@@ -8385,8 +9807,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2441,
     "uikTvd": "450404770410",
+    "uikName": "УИК №2441",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2842,
       "Число бюллетеней, полученных участковыми комиссиями": 2544,
@@ -8438,8 +9869,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2442,
     "uikTvd": "450404770411",
+    "uikName": "УИК №2442",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2877,
       "Число бюллетеней, полученных участковыми комиссиями": 2512,
@@ -8491,8 +9931,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2443,
     "uikTvd": "450404770412",
+    "uikName": "УИК №2443",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 528,
       "Число бюллетеней, полученных участковыми комиссиями": 447,
@@ -8544,8 +9993,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2444,
     "uikTvd": "450404770413",
+    "uikName": "УИК №2444",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1279,
       "Число бюллетеней, полученных участковыми комиссиями": 1087,
@@ -8597,8 +10055,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2445,
     "uikTvd": "450404770414",
+    "uikName": "УИК №2445",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2105,
       "Число бюллетеней, полученных участковыми комиссиями": 1823,
@@ -8650,8 +10117,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2446,
     "uikTvd": "450404770415",
+    "uikName": "УИК №2446",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1140,
       "Число бюллетеней, полученных участковыми комиссиями": 1035,
@@ -8703,8 +10179,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2447,
     "uikTvd": "450404770416",
+    "uikName": "УИК №2447",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1957,
       "Число бюллетеней, полученных участковыми комиссиями": 1729,
@@ -8756,8 +10241,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2448,
     "uikTvd": "450404770417",
+    "uikName": "УИК №2448",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2373,
       "Число бюллетеней, полученных участковыми комиссиями": 2028,
@@ -8809,8 +10303,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2449,
     "uikTvd": "450404770418",
+    "uikName": "УИК №2449",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 805,
       "Число бюллетеней, полученных участковыми комиссиями": 701,
@@ -8862,8 +10365,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2450,
     "uikTvd": "450404770419",
+    "uikName": "УИК №2450",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -8915,8 +10427,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2451,
     "uikTvd": "450404770420",
+    "uikName": "УИК №2451",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1263,
       "Число бюллетеней, полученных участковыми комиссиями": 1082,
@@ -8968,8 +10489,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2452,
     "uikTvd": "450404770421",
+    "uikName": "УИК №2452",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1321,
       "Число бюллетеней, полученных участковыми комиссиями": 1173,
@@ -9021,8 +10551,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2453,
     "uikTvd": "450404770422",
+    "uikName": "УИК №2453",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1086,
       "Число бюллетеней, полученных участковыми комиссиями": 973,
@@ -9074,8 +10613,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2454,
     "uikTvd": "450404770423",
+    "uikName": "УИК №2454",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1572,
       "Число бюллетеней, полученных участковыми комиссиями": 1391,
@@ -9127,8 +10675,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2455,
     "uikTvd": "450404770424",
+    "uikName": "УИК №2455",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 387,
@@ -9180,8 +10737,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2456,
     "uikTvd": "450404770425",
+    "uikName": "УИК №2456",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1188,
       "Число бюллетеней, полученных участковыми комиссиями": 1018,
@@ -9233,8 +10799,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2457,
     "uikTvd": "450404770426",
+    "uikName": "УИК №2457",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 501,
       "Число бюллетеней, полученных участковыми комиссиями": 429,
@@ -9286,8 +10861,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2458,
     "uikTvd": "450404770427",
+    "uikName": "УИК №2458",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1493,
       "Число бюллетеней, полученных участковыми комиссиями": 1317,
@@ -9339,8 +10923,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2459,
     "uikTvd": "450404770428",
+    "uikName": "УИК №2459",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 237,
@@ -9392,8 +10985,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2460,
     "uikTvd": "450404770429",
+    "uikName": "УИК №2460",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1355,
       "Число бюллетеней, полученных участковыми комиссиями": 1406,
@@ -9445,8 +11047,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2461,
     "uikTvd": "450404770430",
+    "uikName": "УИК №2461",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 269,
@@ -9498,8 +11109,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2462,
     "uikTvd": "450404770431",
+    "uikName": "УИК №2462",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -9551,8 +11171,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2463,
     "uikTvd": "450404770432",
+    "uikName": "УИК №2463",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1394,
       "Число бюллетеней, полученных участковыми комиссиями": 1223,
@@ -9604,8 +11233,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2464,
     "uikTvd": "450404770433",
+    "uikName": "УИК №2464",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 331,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -9657,8 +11295,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2465,
     "uikTvd": "450404770434",
+    "uikName": "УИК №2465",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -9710,8 +11357,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2466,
     "uikTvd": "450404770435",
+    "uikName": "УИК №2466",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2508,
       "Число бюллетеней, полученных участковыми комиссиями": 2167,
@@ -9763,8 +11419,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2467,
     "uikTvd": "450404770436",
+    "uikName": "УИК №2467",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2497,
       "Число бюллетеней, полученных участковыми комиссиями": 2006,
@@ -9816,8 +11481,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2468,
     "uikTvd": "450404770437",
+    "uikName": "УИК №2468",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1349,
       "Число бюллетеней, полученных участковыми комиссиями": 1198,
@@ -9869,8 +11543,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2469,
     "uikTvd": "450404770438",
+    "uikName": "УИК №2469",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 890,
       "Число бюллетеней, полученных участковыми комиссиями": 748,
@@ -9922,8 +11605,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 5348,
     "uikTvd": "350300771384",
+    "uikName": "УИК  5348",
     "tikTvd": "350300771053",
     "tikName": "Байконурская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3106,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9975,8 +11667,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 5349,
     "uikTvd": "350300771385",
+    "uikName": "УИК  5349",
     "tikTvd": "350300771053",
     "tikName": "Байконурская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3210,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10028,8 +11729,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 5350,
     "uikTvd": "350300771386",
+    "uikName": "УИК  5350",
     "tikTvd": "350300771053",
     "tikName": "Байконурская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3047,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10081,8 +11791,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 5351,
     "uikTvd": "350300771387",
+    "uikName": "УИК  5351",
     "tikTvd": "350300771053",
     "tikName": "Байконурская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2544,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10134,8 +11853,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 5352,
     "uikTvd": "350300771388",
+    "uikName": "УИК  5352",
     "tikTvd": "350300771053",
     "tikName": "Байконурская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2476,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10187,8 +11915,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 5353,
     "uikTvd": "350300771389",
+    "uikName": "УИК  5353",
     "tikTvd": "350300771053",
     "tikName": "Байконурская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2418,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10240,8 +11977,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 5354,
     "uikTvd": "350300771390",
+    "uikName": "УИК  5354",
     "tikTvd": "350300771053",
     "tikName": "Байконурская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2697,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10293,8 +12039,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 5355,
     "uikTvd": "350300771391",
+    "uikName": "УИК  5355",
     "tikTvd": "350300771053",
     "tikName": "Байконурская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1901,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -10346,8 +12101,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2424,
     "uikTvd": "450406070474",
+    "uikName": "УИК  2424",
     "tikTvd": "350300870380",
     "tikName": "Рошальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2477,
@@ -10395,8 +12159,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2425,
     "uikTvd": "450406070475",
+    "uikName": "УИК  2425",
     "tikTvd": "350300870380",
     "tikName": "Рошальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2517,
       "Число бюллетеней, полученных участковыми комиссиями": 2524,
@@ -10444,8 +12217,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2426,
     "uikTvd": "450406070476",
+    "uikName": "УИК  2426",
     "tikTvd": "350300870380",
     "tikName": "Рошальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2177,
       "Число бюллетеней, полученных участковыми комиссиями": 2209,
@@ -10493,8 +12275,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2427,
     "uikTvd": "450406070477",
+    "uikName": "УИК  2427",
     "tikTvd": "350300870380",
     "tikName": "Рошальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1973,
       "Число бюллетеней, полученных участковыми комиссиями": 1917,
@@ -10542,8 +12333,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2428,
     "uikTvd": "450406070478",
+    "uikName": "УИК  2428",
     "tikTvd": "350300870380",
     "tikName": "Рошальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2178,
       "Число бюллетеней, полученных участковыми комиссиями": 2221,
@@ -10591,8 +12391,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2429,
     "uikTvd": "450406070479",
+    "uikName": "УИК  2429",
     "tikTvd": "350300870380",
     "tikName": "Рошальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2375,
       "Число бюллетеней, полученных участковыми комиссиями": 2397,
@@ -10640,8 +12449,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2430,
     "uikTvd": "450406070480",
+    "uikName": "УИК  2430",
     "tikTvd": "350300870380",
     "tikName": "Рошальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2818,
       "Число бюллетеней, полученных участковыми комиссиями": 2822,
@@ -10689,8 +12507,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2431,
     "uikTvd": "450406070481",
+    "uikName": "УИК  2431",
     "tikTvd": "350300870380",
     "tikName": "Рошальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2245,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -10738,8 +12565,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 3179,
     "uikTvd": "450407370465",
+    "uikName": "УИК №3179",
     "tikTvd": "350300870381",
     "tikName": "Электрогорская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2347,
       "Число бюллетеней, полученных участковыми комиссиями": 2405,
@@ -10787,8 +12623,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 3180,
     "uikTvd": "450407370467",
+    "uikName": "УИК №3180",
     "tikTvd": "350300870381",
     "tikName": "Электрогорская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2353,
@@ -10836,8 +12681,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 3181,
     "uikTvd": "450407370469",
+    "uikName": "УИК №3181",
     "tikTvd": "350300870381",
     "tikName": "Электрогорская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2344,
       "Число бюллетеней, полученных участковыми комиссиями": 2381,
@@ -10885,8 +12739,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 3182,
     "uikTvd": "450407370471",
+    "uikName": "УИК №3182",
     "tikTvd": "350300870381",
     "tikName": "Электрогорская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2355,
       "Число бюллетеней, полученных участковыми комиссиями": 2479,
@@ -10934,8 +12797,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 3183,
     "uikTvd": "450407370473",
+    "uikName": "УИК №3183",
     "tikTvd": "350300870381",
     "tikName": "Электрогорская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2314,
       "Число бюллетеней, полученных участковыми комиссиями": 2382,
@@ -10983,8 +12855,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 3184,
     "uikTvd": "450407370475",
+    "uikName": "УИК №3184",
     "tikTvd": "350300870381",
     "tikName": "Электрогорская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2402,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -11032,8 +12913,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 3185,
     "uikTvd": "450407370463",
+    "uikName": "УИК №3185",
     "tikTvd": "350300870381",
     "tikName": "Электрогорская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2507,
       "Число бюллетеней, полученных участковыми комиссиями": 2497,
@@ -11081,8 +12971,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1888,
     "uikTvd": "450403770691",
+    "uikName": "УИК №1888",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1808,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11130,8 +13029,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1889,
     "uikTvd": "450403770692",
+    "uikName": "УИК №1889",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1869,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11179,8 +13087,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1890,
     "uikTvd": "450403770693",
+    "uikName": "УИК №1890",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1978,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11228,8 +13145,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1891,
     "uikTvd": "450403770694",
+    "uikName": "УИК №1891",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 821,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -11277,8 +13203,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1892,
     "uikTvd": "450403770695",
+    "uikName": "УИК №1892",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2080,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11326,8 +13261,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1893,
     "uikTvd": "450403770696",
+    "uikName": "УИК №1893",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1791,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11375,8 +13319,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1894,
     "uikTvd": "450403770697",
+    "uikName": "УИК №1894",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1101,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -11424,8 +13377,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1895,
     "uikTvd": "450403770698",
+    "uikName": "УИК №1895",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1770,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11473,8 +13435,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1896,
     "uikTvd": "450403770699",
+    "uikName": "УИК №1896",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1473,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11522,8 +13493,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1897,
     "uikTvd": "450403770700",
+    "uikName": "УИК №1897",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1856,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11571,8 +13551,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1898,
     "uikTvd": "450403770701",
+    "uikName": "УИК №1898",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1459,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11620,8 +13609,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1899,
     "uikTvd": "450403770702",
+    "uikName": "УИК №1899",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1417,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11669,8 +13667,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1900,
     "uikTvd": "450403770703",
+    "uikName": "УИК №1900",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11718,8 +13725,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1901,
     "uikTvd": "450403770704",
+    "uikName": "УИК №1901",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1646,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11767,8 +13783,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1902,
     "uikTvd": "450403770705",
+    "uikName": "УИК №1902",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1748,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11816,8 +13841,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1903,
     "uikTvd": "450403770706",
+    "uikName": "УИК №1903",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1060,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11865,8 +13899,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1904,
     "uikTvd": "450403770707",
+    "uikName": "УИК №1904",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1252,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11914,8 +13957,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1905,
     "uikTvd": "450403770708",
+    "uikName": "УИК №1905",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1712,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11963,8 +14015,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1906,
     "uikTvd": "450403770709",
+    "uikName": "УИК №1906",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2482,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -12012,8 +14073,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1907,
     "uikTvd": "450403770710",
+    "uikName": "УИК №1907",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1422,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -12061,8 +14131,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1908,
     "uikTvd": "450403770711",
+    "uikName": "УИК №1908",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1518,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -12110,8 +14189,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1909,
     "uikTvd": "450403770712",
+    "uikName": "УИК №1909",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2114,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -12159,8 +14247,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1910,
     "uikTvd": "450403770713",
+    "uikName": "УИК №1910",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2428,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -12208,8 +14305,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1911,
     "uikTvd": "450403770714",
+    "uikName": "УИК №1911",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -12257,8 +14363,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1912,
     "uikTvd": "450403770715",
+    "uikName": "УИК №1912",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -12306,8 +14421,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1913,
     "uikTvd": "450403770716",
+    "uikName": "УИК №1913",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1995,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -12355,8 +14479,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1914,
     "uikTvd": "450403770717",
+    "uikName": "УИК №1914",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1296,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -12404,8 +14537,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1915,
     "uikTvd": "450403770718",
+    "uikName": "УИК №1915",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1783,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -12453,8 +14595,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1916,
     "uikTvd": "450403770719",
+    "uikName": "УИК №1916",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2466,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -12502,8 +14653,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1917,
     "uikTvd": "450403770720",
+    "uikName": "УИК №1917",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -12551,8 +14711,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1918,
     "uikTvd": "450403770721",
+    "uikName": "УИК №1918",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2185,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -12600,8 +14769,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1919,
     "uikTvd": "450403770722",
+    "uikName": "УИК №1919",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1487,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -12649,8 +14827,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1920,
     "uikTvd": "450403770723",
+    "uikName": "УИК №1920",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -12698,8 +14885,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1921,
     "uikTvd": "450403770724",
+    "uikName": "УИК №1921",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2192,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12747,8 +14943,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1922,
     "uikTvd": "450403770725",
+    "uikName": "УИК №1922",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1774,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -12796,8 +15001,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1923,
     "uikTvd": "450403770726",
+    "uikName": "УИК №1923",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1605,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -12845,8 +15059,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1924,
     "uikTvd": "450403770727",
+    "uikName": "УИК №1924",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1230,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -12894,8 +15117,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1925,
     "uikTvd": "450403770728",
+    "uikName": "УИК №1925",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1710,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -12943,8 +15175,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1926,
     "uikTvd": "450403770729",
+    "uikName": "УИК №1926",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1216,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -12992,8 +15233,17 @@ export const duma_2003_uik_428_region_50_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1927,
     "uikTvd": "450403770730",
+    "uikName": "УИК №1927",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1770,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,

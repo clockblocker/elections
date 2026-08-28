@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "425401766701",
+    "uikName": "УИК №564",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "425401766702",
+    "uikName": "УИК №565",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "425401766703",
+    "uikName": "УИК №566",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "425401766704",
+    "uikName": "УИК №567",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1392,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "425401766705",
+    "uikName": "УИК №568",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "425401766706",
+    "uikName": "УИК №569",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "425401766707",
+    "uikName": "УИК №570",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "425401766708",
+    "uikName": "УИК №571",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 634,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "425401766709",
+    "uikName": "УИК №572",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "425401766710",
+    "uikName": "УИК №573",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "425401766711",
+    "uikName": "УИК №574",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 919,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "425401766712",
+    "uikName": "УИК №575",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "425401766713",
+    "uikName": "УИК №576",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "425401766714",
+    "uikName": "УИК №577",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "425401766715",
+    "uikName": "УИК №578",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "425401766716",
+    "uikName": "УИК №579",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1223,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "425401766717",
+    "uikName": "УИК №580",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "425401766718",
+    "uikName": "УИК №581",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2783,
       "Число бюллетеней, полученных участковыми комиссиями": 2770,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "425401766719",
+    "uikName": "УИК №582",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2786,
       "Число бюллетеней, полученных участковыми комиссиями": 2760,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "425401766720",
+    "uikName": "УИК №583",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 766,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "425401766721",
+    "uikName": "УИК №584",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "425401766722",
+    "uikName": "УИК №585",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "425401766723",
+    "uikName": "УИК №586",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 441,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "425401766724",
+    "uikName": "УИК №587",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "425401766725",
+    "uikName": "УИК №588",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "425401766726",
+    "uikName": "УИК №589",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 577,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "425401766727",
+    "uikName": "УИК №590",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "425401766728",
+    "uikName": "УИК №591",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "425401866894",
+    "uikName": "УИК №593",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "425401866895",
+    "uikName": "УИК №594",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "425401866896",
+    "uikName": "УИК №595",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "425401866897",
+    "uikName": "УИК №596",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "425401866898",
+    "uikName": "УИК №597",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "425401866899",
+    "uikName": "УИК №598",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1244,
       "Число бюллетеней, полученных участковыми комиссиями": 1255,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "425401866900",
+    "uikName": "УИК №599",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1071,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "425401866901",
+    "uikName": "УИК №600",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1237,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "425401866902",
+    "uikName": "УИК №601",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1581,
       "Число бюллетеней, полученных участковыми комиссиями": 1455,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "425401866903",
+    "uikName": "УИК №602",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 929,
       "Число бюллетеней, полученных участковыми комиссиями": 995,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "425401866904",
+    "uikName": "УИК №603",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 693,
       "Число бюллетеней, полученных участковыми комиссиями": 685,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "425401866905",
+    "uikName": "УИК №604",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "425401866906",
+    "uikName": "УИК №605",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 725,
       "Число бюллетеней, полученных участковыми комиссиями": 725,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "425401866907",
+    "uikName": "УИК №606",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 707,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "425401866908",
+    "uikName": "УИК №607",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "425401866909",
+    "uikName": "УИК №608",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "425401866910",
+    "uikName": "УИК №609",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 435,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "425401866911",
+    "uikName": "УИК №610",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 942,
       "Число бюллетеней, полученных участковыми комиссиями": 915,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "425401866912",
+    "uikName": "УИК №611",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1525,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "425401866913",
+    "uikName": "УИК №612",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1770,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "425401866914",
+    "uikName": "УИК №613",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1111,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "425401866915",
+    "uikName": "УИК №614",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1549,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "425401866916",
+    "uikName": "УИК №615",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1671,
       "Число бюллетеней, полученных участковыми комиссиями": 1635,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "425401866917",
+    "uikName": "УИК №616",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1230,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "425401866918",
+    "uikName": "УИК №617",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1606,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "425401866919",
+    "uikName": "УИК №618",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "425401866920",
+    "uikName": "УИК №619",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -2706,8 +3201,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "425401866921",
+    "uikName": "УИК №620",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 522,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -2755,8 +3259,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "425401866922",
+    "uikName": "УИК №621",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1074,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -2804,8 +3317,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "425401866923",
+    "uikName": "УИК №622",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1117,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -2853,8 +3375,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "425401866924",
+    "uikName": "УИК №623",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1138,
       "Число бюллетеней, полученных участковыми комиссиями": 1085,
@@ -2902,8 +3433,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "425401866925",
+    "uikName": "УИК №624",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1230,
       "Число бюллетеней, полученных участковыми комиссиями": 1171,
@@ -2951,8 +3491,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "425401866926",
+    "uikName": "УИК №625",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 317,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -3000,8 +3549,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "425401966814",
+    "uikName": "УИК №628",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3049,8 +3607,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "425401966815",
+    "uikName": "УИК №629",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -3098,8 +3665,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "425401966816",
+    "uikName": "УИК №630",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2373,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3147,8 +3723,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "425401966817",
+    "uikName": "УИК №631",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1595,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3196,8 +3781,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "425401966818",
+    "uikName": "УИК №632",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2744,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3245,8 +3839,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "425401966819",
+    "uikName": "УИК №633",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 994,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3294,8 +3897,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "425401966820",
+    "uikName": "УИК №634",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3343,8 +3955,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "425401966821",
+    "uikName": "УИК №635",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 395,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3392,8 +4013,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "425401966822",
+    "uikName": "УИК №636",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2582,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3441,8 +4071,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "425401966823",
+    "uikName": "УИК №637",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2155,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3490,8 +4129,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "425401966824",
+    "uikName": "УИК №638",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3539,8 +4187,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "425401966825",
+    "uikName": "УИК №639",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 838,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3588,8 +4245,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "425401966826",
+    "uikName": "УИК №640",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1362,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3637,8 +4303,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "425401966827",
+    "uikName": "УИК №641",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 808,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3686,8 +4361,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "425401966828",
+    "uikName": "УИК №642",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -3735,8 +4419,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "425401966829",
+    "uikName": "УИК №643",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2802,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3784,8 +4477,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "425401966830",
+    "uikName": "УИК №644",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2678,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3833,8 +4535,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "425401966831",
+    "uikName": "УИК №645",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1334,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3882,8 +4593,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "425401966832",
+    "uikName": "УИК №646",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1089,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3931,8 +4651,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "425401966833",
+    "uikName": "УИК №647",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2982,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -3980,8 +4709,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "425401966834",
+    "uikName": "УИК №648",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1662,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4029,8 +4767,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "425401966835",
+    "uikName": "УИК №649",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1400,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4078,8 +4825,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "425401966836",
+    "uikName": "УИК №650",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2051,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4127,8 +4883,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "425401966837",
+    "uikName": "УИК №651",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1210,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4176,8 +4941,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "425401966838",
+    "uikName": "УИК №652",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2153,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4225,8 +4999,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "425401966839",
+    "uikName": "УИК №653",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1977,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4274,8 +5057,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "425401966840",
+    "uikName": "УИК №654",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1665,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4323,8 +5115,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "425401966841",
+    "uikName": "УИК №655",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4372,8 +5173,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "425401966842",
+    "uikName": "УИК №656",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1881,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4421,8 +5231,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "425401966843",
+    "uikName": "УИК №657",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2018,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4470,8 +5289,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "425401966844",
+    "uikName": "УИК №658",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1951,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4519,8 +5347,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "425401966845",
+    "uikName": "УИК №659",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1566,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4568,8 +5405,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "425401966846",
+    "uikName": "УИК №660",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1676,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4617,8 +5463,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "425401966847",
+    "uikName": "УИК №661",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2740,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4666,8 +5521,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "425401966848",
+    "uikName": "УИК №662",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2340,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4715,8 +5579,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "425401966849",
+    "uikName": "УИК №663",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2111,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4764,8 +5637,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "425401966850",
+    "uikName": "УИК №664",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2002,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4813,8 +5695,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "425401966851",
+    "uikName": "УИК №665",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -4862,8 +5753,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "425401966852",
+    "uikName": "УИК №666",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1483,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4911,8 +5811,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "425401966853",
+    "uikName": "УИК №667",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1641,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4960,8 +5869,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "425401966854",
+    "uikName": "УИК №668",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1623,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5009,8 +5927,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "425401966855",
+    "uikName": "УИК №669",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1412,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5058,8 +5985,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "425401966856",
+    "uikName": "УИК №670",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1477,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5107,8 +6043,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "425401966857",
+    "uikName": "УИК №671",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2501,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5156,8 +6101,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "425401966858",
+    "uikName": "УИК №672",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2390,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5205,8 +6159,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "425401966859",
+    "uikName": "УИК №673",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2354,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5254,8 +6217,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "425401966860",
+    "uikName": "УИК №674",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1325,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5303,8 +6275,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "425401966861",
+    "uikName": "УИК №675",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2396,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5352,8 +6333,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "425401966862",
+    "uikName": "УИК №676",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2552,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5401,8 +6391,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "425401966863",
+    "uikName": "УИК №677",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2525,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5450,8 +6449,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "425401966864",
+    "uikName": "УИК №678",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5499,8 +6507,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "425401966865",
+    "uikName": "УИК №679",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2256,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5548,8 +6565,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "425401966866",
+    "uikName": "УИК №680",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2303,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5597,8 +6623,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "425401966867",
+    "uikName": "УИК №681",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1913,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5646,8 +6681,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "425401966868",
+    "uikName": "УИК №682",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1834,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5695,8 +6739,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "425401966869",
+    "uikName": "УИК №683",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2173,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5744,8 +6797,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "425401966870",
+    "uikName": "УИК №684",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2054,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5793,8 +6855,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "425401966871",
+    "uikName": "УИК №685",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2362,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5842,8 +6913,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "425401966872",
+    "uikName": "УИК №686",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2562,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5891,8 +6971,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "425401966873",
+    "uikName": "УИК №687",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2407,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5940,8 +7029,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "425401966874",
+    "uikName": "УИК №688",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1516,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5989,8 +7087,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "425401966875",
+    "uikName": "УИК №689",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6038,8 +7145,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "425401966876",
+    "uikName": "УИК №690",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2460,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6087,8 +7203,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "425401966877",
+    "uikName": "УИК №691",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 592,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6136,8 +7261,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "425401966878",
+    "uikName": "УИК №692",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1728,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6185,8 +7319,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "425401966879",
+    "uikName": "УИК №693",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1835,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6234,8 +7377,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1310,
     "uikTvd": "425401967522",
+    "uikName": "УИК №1310",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 12,
@@ -6283,8 +7435,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1313,
     "uikTvd": "425401967525",
+    "uikName": "УИК №1313",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -6332,8 +7493,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1316,
     "uikTvd": "425401967528",
+    "uikName": "УИК №1316",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -6381,8 +7551,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1317,
     "uikTvd": "425401967529",
+    "uikName": "УИК №1317",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -6430,8 +7609,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1319,
     "uikTvd": "425401967531",
+    "uikName": "УИК №1319",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 26,
       "Число бюллетеней, полученных участковыми комиссиями": 26,
@@ -6479,8 +7667,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1321,
     "uikTvd": "425401967533",
+    "uikName": "УИК №1321",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -6528,8 +7725,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1322,
     "uikTvd": "425401967534",
+    "uikName": "УИК №1322",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -6577,8 +7783,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1324,
     "uikTvd": "425401967536",
+    "uikName": "УИК №1324",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -6626,8 +7841,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1326,
     "uikTvd": "425401969207",
+    "uikName": "УИК №1326",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 4,
       "Число бюллетеней, полученных участковыми комиссиями": 4,
@@ -6675,8 +7899,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1327,
     "uikTvd": "425401967539",
+    "uikName": "УИК №1327",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 89,
@@ -6724,8 +7957,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1328,
     "uikTvd": "425401967540",
+    "uikName": "УИК №1328",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 8,
       "Число бюллетеней, полученных участковыми комиссиями": 8,
@@ -6773,8 +8015,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1330,
     "uikTvd": "425401967542",
+    "uikName": "УИК №1330",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -6822,8 +8073,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1331,
     "uikTvd": "425401967543",
+    "uikName": "УИК №1331",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 18,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -6871,8 +8131,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1332,
     "uikTvd": "425401967544",
+    "uikName": "УИК №1332",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 21,
@@ -6920,8 +8189,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1333,
     "uikTvd": "425401967545",
+    "uikName": "УИК №1333",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 18,
       "Число бюллетеней, полученных участковыми комиссиями": 18,
@@ -6969,8 +8247,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1334,
     "uikTvd": "425401967546",
+    "uikName": "УИК №1334",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 11,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -7018,8 +8305,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1335,
     "uikTvd": "425401967547",
+    "uikName": "УИК №1335",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 17,
       "Число бюллетеней, полученных участковыми комиссиями": 19,
@@ -7067,8 +8363,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1336,
     "uikTvd": "425401967548",
+    "uikName": "УИК №1336",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 15,
@@ -7116,8 +8421,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1337,
     "uikTvd": "425401967549",
+    "uikName": "УИК №1337",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 18,
       "Число бюллетеней, полученных участковыми комиссиями": 18,
@@ -7165,8 +8479,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1338,
     "uikTvd": "425401967550",
+    "uikName": "УИК №1338",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 16,
       "Число бюллетеней, полученных участковыми комиссиями": 18,
@@ -7214,8 +8537,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1339,
     "uikTvd": "425401967551",
+    "uikName": "УИК №1339",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 16,
       "Число бюллетеней, полученных участковыми комиссиями": 16,
@@ -7263,8 +8595,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1340,
     "uikTvd": "425401967552",
+    "uikName": "УИК №1340",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 16,
       "Число бюллетеней, полученных участковыми комиссиями": 18,
@@ -7312,8 +8653,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1341,
     "uikTvd": "425401967553",
+    "uikName": "УИК №1341",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 21,
       "Число бюллетеней, полученных участковыми комиссиями": 23,
@@ -7361,8 +8711,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1342,
     "uikTvd": "425401967554",
+    "uikName": "УИК №1342",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 22,
       "Число бюллетеней, полученных участковыми комиссиями": 24,
@@ -7410,8 +8769,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1343,
     "uikTvd": "425401967555",
+    "uikName": "УИК №1343",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 16,
@@ -7459,8 +8827,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1344,
     "uikTvd": "425401967556",
+    "uikName": "УИК №1344",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 16,
       "Число бюллетеней, полученных участковыми комиссиями": 16,
@@ -7508,8 +8885,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1345,
     "uikTvd": "425401967557",
+    "uikName": "УИК №1345",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 17,
       "Число бюллетеней, полученных участковыми комиссиями": 19,
@@ -7557,8 +8943,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1346,
     "uikTvd": "425401967558",
+    "uikName": "УИК №1346",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -7606,8 +9001,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1347,
     "uikTvd": "425401967559",
+    "uikName": "УИК №1347",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -7655,8 +9059,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1348,
     "uikTvd": "425401967560",
+    "uikName": "УИК №1348",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 27,
@@ -7704,8 +9117,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1349,
     "uikTvd": "425401968546",
+    "uikName": "УИК №1349",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 89,
@@ -7753,8 +9175,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1350,
     "uikTvd": "425401968547",
+    "uikName": "УИК №1350",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 15,
@@ -7802,8 +9233,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1351,
     "uikTvd": "425401968548",
+    "uikName": "УИК №1351",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -7851,8 +9291,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1352,
     "uikTvd": "425401968549",
+    "uikName": "УИК №1352",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 22,
       "Число бюллетеней, полученных участковыми комиссиями": 22,
@@ -7900,8 +9349,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1353,
     "uikTvd": "425401968550",
+    "uikName": "УИК №1353",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -7949,8 +9407,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1354,
     "uikTvd": "425401968551",
+    "uikName": "УИК №1354",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 22,
       "Число бюллетеней, полученных участковыми комиссиями": 22,
@@ -7998,8 +9465,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1355,
     "uikTvd": "425401968552",
+    "uikName": "УИК №1355",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 22,
       "Число бюллетеней, полученных участковыми комиссиями": 22,
@@ -8047,8 +9523,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1356,
     "uikTvd": "425401968553",
+    "uikName": "УИК №1356",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 24,
       "Число бюллетеней, полученных участковыми комиссиями": 24,
@@ -8096,8 +9581,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1357,
     "uikTvd": "425401968554",
+    "uikName": "УИК №1357",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 56,
@@ -8145,8 +9639,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1358,
     "uikTvd": "425401968555",
+    "uikName": "УИК №1358",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -8194,8 +9697,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1359,
     "uikTvd": "425401968556",
+    "uikName": "УИК №1359",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 24,
       "Число бюллетеней, полученных участковыми комиссиями": 24,
@@ -8243,8 +9755,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1361,
     "uikTvd": "425401968558",
+    "uikName": "УИК №1361",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -8292,8 +9813,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1362,
     "uikTvd": "425401968559",
+    "uikName": "УИК №1362",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 22,
       "Число бюллетеней, полученных участковыми комиссиями": 24,
@@ -8341,8 +9871,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1363,
     "uikTvd": "425401968560",
+    "uikName": "УИК №1363",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 29,
       "Число бюллетеней, полученных участковыми комиссиями": 31,
@@ -8390,8 +9929,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1364,
     "uikTvd": "425401968561",
+    "uikName": "УИК №1364",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 19,
@@ -8439,8 +9987,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1365,
     "uikTvd": "425401968562",
+    "uikName": "УИК №1365",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 8,
       "Число бюллетеней, полученных участковыми комиссиями": 8,
@@ -8488,8 +10045,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1366,
     "uikTvd": "425401968563",
+    "uikName": "УИК №1366",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 38,
       "Число бюллетеней, полученных участковыми комиссиями": 38,
@@ -8537,8 +10103,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1367,
     "uikTvd": "425401968973",
+    "uikName": "УИК №1367",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 17,
       "Число бюллетеней, полученных участковыми комиссиями": 17,
@@ -8586,8 +10161,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1368,
     "uikTvd": "425401968974",
+    "uikName": "УИК №1368",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 15,
@@ -8635,8 +10219,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1369,
     "uikTvd": "425401968975",
+    "uikName": "УИК №1369",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 19,
@@ -8684,8 +10277,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1370,
     "uikTvd": "425401968976",
+    "uikName": "УИК №1370",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 11,
       "Число бюллетеней, полученных участковыми комиссиями": 11,
@@ -8733,8 +10335,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1371,
     "uikTvd": "425401968977",
+    "uikName": "УИК №1371",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -8782,8 +10393,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1372,
     "uikTvd": "425401968978",
+    "uikName": "УИК №1372",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 19,
@@ -8831,8 +10451,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1373,
     "uikTvd": "425401968979",
+    "uikName": "УИК №1373",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 81,
@@ -8880,8 +10509,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1374,
     "uikTvd": "425401968980",
+    "uikName": "УИК №1374",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -8929,8 +10567,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1375,
     "uikTvd": "425401968981",
+    "uikName": "УИК №1375",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8978,8 +10625,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1376,
     "uikTvd": "425401968982",
+    "uikName": "УИК №1376",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -9027,8 +10683,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1377,
     "uikTvd": "425401968983",
+    "uikName": "УИК №1377",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -9076,8 +10741,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1378,
     "uikTvd": "425401968984",
+    "uikName": "УИК №1378",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -9125,8 +10799,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1379,
     "uikTvd": "425401968985",
+    "uikName": "УИК №1379",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -9174,8 +10857,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1380,
     "uikTvd": "425401968986",
+    "uikName": "УИК №1380",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -9223,8 +10915,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1381,
     "uikTvd": "425401968987",
+    "uikName": "УИК №1381",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -9272,8 +10973,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1382,
     "uikTvd": "425401968988",
+    "uikName": "УИК №1382",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -9321,8 +11031,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1383,
     "uikTvd": "425401968989",
+    "uikName": "УИК №1383",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -9370,8 +11089,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1384,
     "uikTvd": "425401968990",
+    "uikName": "УИК №1384",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -9419,8 +11147,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1385,
     "uikTvd": "425401968991",
+    "uikName": "УИК №1385",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 30,
       "Число бюллетеней, полученных участковыми комиссиями": 30,
@@ -9468,8 +11205,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1386,
     "uikTvd": "425401968992",
+    "uikName": "УИК №1386",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 29,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -9517,8 +11263,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1387,
     "uikTvd": "425401968993",
+    "uikName": "УИК №1387",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 29,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -9566,8 +11321,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1388,
     "uikTvd": "425401968994",
+    "uikName": "УИК №1388",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 30,
       "Число бюллетеней, полученных участковыми комиссиями": 30,
@@ -9615,8 +11379,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1389,
     "uikTvd": "425401968995",
+    "uikName": "УИК №1389",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 17,
       "Число бюллетеней, полученных участковыми комиссиями": 17,
@@ -9664,8 +11437,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1390,
     "uikTvd": "425401968996",
+    "uikName": "УИК №1390",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -9713,8 +11495,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1391,
     "uikTvd": "425401968997",
+    "uikName": "УИК №1391",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -9762,8 +11553,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1392,
     "uikTvd": "425401968998",
+    "uikName": "УИК №1392",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 17,
       "Число бюллетеней, полученных участковыми комиссиями": 17,
@@ -9811,8 +11611,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1393,
     "uikTvd": "425401968999",
+    "uikName": "УИК №1393",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 79,
@@ -9860,8 +11669,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1394,
     "uikTvd": "425401969000",
+    "uikName": "УИК №1394",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 23,
       "Число бюллетеней, полученных участковыми комиссиями": 23,
@@ -9909,8 +11727,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1395,
     "uikTvd": "425401969001",
+    "uikName": "УИК №1395",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 28,
@@ -9958,8 +11785,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1396,
     "uikTvd": "425401969002",
+    "uikName": "УИК №1396",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 19,
@@ -10007,8 +11843,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1397,
     "uikTvd": "425401969623",
+    "uikName": "УИК №1397",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 23,
       "Число бюллетеней, полученных участковыми комиссиями": 23,
@@ -10056,8 +11901,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1398,
     "uikTvd": "425401969621",
+    "uikName": "УИК №1398",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 23,
       "Число бюллетеней, полученных участковыми комиссиями": 23,
@@ -10105,8 +11959,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "425402366682",
+    "uikName": "УИК №791",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 68,
@@ -10154,8 +12017,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "425402366683",
+    "uikName": "УИК №792",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 66,
@@ -10203,8 +12075,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "425402366684",
+    "uikName": "УИК №793",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 196,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -10252,8 +12133,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "425402366685",
+    "uikName": "УИК №794",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 271,
@@ -10301,8 +12191,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "425402366686",
+    "uikName": "УИК №795",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2379,
       "Число бюллетеней, полученных участковыми комиссиями": 2435,
@@ -10350,8 +12249,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "425402366687",
+    "uikName": "УИК №796",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -10399,8 +12307,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "425402366688",
+    "uikName": "УИК №797",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 779,
       "Число бюллетеней, полученных участковыми комиссиями": 755,
@@ -10448,8 +12365,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "425402366689",
+    "uikName": "УИК №798",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -10497,8 +12423,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "425402366690",
+    "uikName": "УИК №799",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -10546,8 +12481,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "425402366691",
+    "uikName": "УИК №800",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1264,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -10595,8 +12539,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "425402366692",
+    "uikName": "УИК №801",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -10644,8 +12597,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "425402366693",
+    "uikName": "УИК №802",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1055,
       "Число бюллетеней, полученных участковыми комиссиями": 945,
@@ -10693,8 +12655,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "425402366694",
+    "uikName": "УИК №803",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 468,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -10742,8 +12713,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "425402366695",
+    "uikName": "УИК №804",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2213,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -10791,8 +12771,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "425402366696",
+    "uikName": "УИК №805",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -10840,8 +12829,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "425402366697",
+    "uikName": "УИК №806",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 384,
@@ -10889,8 +12887,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "425402366698",
+    "uikName": "УИК №807",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -10938,8 +12945,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "425402366699",
+    "uikName": "УИК №808",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 532,
       "Число бюллетеней, полученных участковыми комиссиями": 515,
@@ -10987,8 +13003,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "425402366700",
+    "uikName": "УИК №809",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 941,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -11036,8 +13061,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "425402366701",
+    "uikName": "УИК №810",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1484,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -11085,8 +13119,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "425402366702",
+    "uikName": "УИК №811",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11134,8 +13177,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "425402366703",
+    "uikName": "УИК №812",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 561,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -11183,8 +13235,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "425402366704",
+    "uikName": "УИК №813",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 507,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -11232,8 +13293,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "425402366705",
+    "uikName": "УИК №814",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 608,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -11281,8 +13351,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 748,
     "uikTvd": "425402266708",
+    "uikName": "УИК №748",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 932,
       "Число бюллетеней, полученных участковыми комиссиями": 927,
@@ -11330,8 +13409,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 749,
     "uikTvd": "425402266709",
+    "uikName": "УИК №749",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1479,
       "Число бюллетеней, полученных участковыми комиссиями": 1449,
@@ -11379,8 +13467,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 750,
     "uikTvd": "425402266710",
+    "uikName": "УИК №750",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1136,
       "Число бюллетеней, полученных участковыми комиссиями": 1092,
@@ -11428,8 +13525,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 751,
     "uikTvd": "425402266711",
+    "uikName": "УИК №751",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 708,
       "Число бюллетеней, полученных участковыми комиссиями": 708,
@@ -11477,8 +13583,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 752,
     "uikTvd": "425402266712",
+    "uikName": "УИК №752",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 812,
       "Число бюллетеней, полученных участковыми комиссиями": 803,
@@ -11526,8 +13641,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 753,
     "uikTvd": "425402266713",
+    "uikName": "УИК №753",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 956,
       "Число бюллетеней, полученных участковыми комиссиями": 946,
@@ -11575,8 +13699,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 754,
     "uikTvd": "425402266714",
+    "uikName": "УИК №754",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1124,
       "Число бюллетеней, полученных участковыми комиссиями": 1097,
@@ -11624,8 +13757,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 755,
     "uikTvd": "425402266715",
+    "uikName": "УИК №755",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1138,
       "Число бюллетеней, полученных участковыми комиссиями": 1127,
@@ -11673,8 +13815,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 756,
     "uikTvd": "425402266716",
+    "uikName": "УИК №756",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1894,
       "Число бюллетеней, полученных участковыми комиссиями": 1863,
@@ -11722,8 +13873,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 757,
     "uikTvd": "425402266717",
+    "uikName": "УИК №757",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1324,
       "Число бюллетеней, полученных участковыми комиссиями": 1309,
@@ -11771,8 +13931,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 758,
     "uikTvd": "425402266718",
+    "uikName": "УИК №758",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1115,
       "Число бюллетеней, полученных участковыми комиссиями": 1095,
@@ -11820,8 +13989,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 759,
     "uikTvd": "425402266719",
+    "uikName": "УИК №759",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 939,
       "Число бюллетеней, полученных участковыми комиссиями": 912,
@@ -11869,8 +14047,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 760,
     "uikTvd": "425402266720",
+    "uikName": "УИК №760",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1710,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -11918,8 +14105,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 761,
     "uikTvd": "425402266721",
+    "uikName": "УИК №761",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1300,
       "Число бюллетеней, полученных участковыми комиссиями": 1293,
@@ -11967,8 +14163,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 762,
     "uikTvd": "425402266722",
+    "uikName": "УИК №762",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 863,
       "Число бюллетеней, полученных участковыми комиссиями": 887,
@@ -12016,8 +14221,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 763,
     "uikTvd": "425402266723",
+    "uikName": "УИК №763",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1727,
@@ -12065,8 +14279,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 764,
     "uikTvd": "425402266724",
+    "uikName": "УИК №764",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1604,
       "Число бюллетеней, полученных участковыми комиссиями": 1563,
@@ -12114,8 +14337,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 765,
     "uikTvd": "425402266725",
+    "uikName": "УИК №765",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1582,
@@ -12163,8 +14395,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 766,
     "uikTvd": "425402266726",
+    "uikName": "УИК №766",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 539,
       "Число бюллетеней, полученных участковыми комиссиями": 523,
@@ -12212,8 +14453,17 @@ export const duma_2003_uik_428_region_25_part_005 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "425402266727",
+    "uikName": "УИК №767",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
+    "district": {
+      "districtNumber": 53,
+      "oikTvd": "100100095857",
+      "oikName": "Уссурийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 716,
       "Число бюллетеней, полученных участковыми комиссиями": 730,

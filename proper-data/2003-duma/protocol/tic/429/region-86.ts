@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066717",
     "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки": 25150,
@@ -73,6 +81,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066718",
     "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 38137,
@@ -141,6 +157,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066719",
     "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "uikCount": 74,
     "accounting": {
       "Число избирателей, включенных в списки": 157460,
@@ -266,6 +290,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066720",
     "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 19281,
@@ -338,6 +370,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066721",
     "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки": 12766,
@@ -397,6 +437,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066722",
     "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 28801,
@@ -461,6 +509,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066723",
     "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "uikCount": 86,
     "accounting": {
       "Число избирателей, включенных в списки": 212269,
@@ -598,6 +654,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066724",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки": 8791,
@@ -657,6 +721,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066725",
     "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 18464,
@@ -722,6 +794,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066726",
     "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 17760,
@@ -786,6 +866,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066727",
     "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 38777,
@@ -854,6 +942,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066728",
     "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 24535,
@@ -927,6 +1023,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066729",
     "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 74360,
@@ -1008,6 +1112,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066730",
     "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 25654,
@@ -1080,6 +1192,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066731",
     "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 42300,
@@ -1151,6 +1271,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066732",
     "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 21679,
@@ -1224,6 +1352,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066733",
     "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 29265,
@@ -1288,6 +1424,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066734",
     "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 33765,
@@ -1354,6 +1498,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066735",
     "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки": 32302,
@@ -1417,6 +1569,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066736",
     "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 11557,
@@ -1493,6 +1653,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066737",
     "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 32242,
@@ -1560,6 +1728,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "286200066738",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки": 23325,
@@ -1620,6 +1796,14 @@ export const duma_2003_tic_429_region_86 = [
     "ballot": "single-member",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 56610,

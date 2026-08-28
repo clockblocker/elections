@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2110,
     "uikTvd": "461402070613",
+    "uikName": "УИК №2110",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1976,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2111,
     "uikTvd": "461402070614",
+    "uikName": "УИК №2111",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1921,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2112,
     "uikTvd": "461402070615",
+    "uikName": "УИК №2112",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2342,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2113,
     "uikTvd": "461402070616",
+    "uikName": "УИК №2113",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1057,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2114,
     "uikTvd": "461402070617",
+    "uikName": "УИК №2114",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2115,
     "uikTvd": "461402070618",
+    "uikName": "УИК №2115",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 96,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2116,
     "uikTvd": "461402070619",
+    "uikName": "УИК №2116",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2004,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2117,
     "uikTvd": "461402070620",
+    "uikName": "УИК №2117",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1389,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2118,
     "uikTvd": "461402070621",
+    "uikName": "УИК №2118",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 607,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2119,
     "uikTvd": "461402070622",
+    "uikName": "УИК №2119",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 691,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2120,
     "uikTvd": "461402070623",
+    "uikName": "УИК №2120",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2121,
     "uikTvd": "461402070624",
+    "uikName": "УИК №2121",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 149,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2122,
     "uikTvd": "461402070625",
+    "uikName": "УИК №2122",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2123,
     "uikTvd": "461402070626",
+    "uikName": "УИК №2123",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 697,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2124,
     "uikTvd": "461402070627",
+    "uikName": "УИК №2124",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 61,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2125,
     "uikTvd": "461402070628",
+    "uikName": "УИК №2125",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2126,
     "uikTvd": "461402070629",
+    "uikName": "УИК №2126",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 151,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2576,
     "uikTvd": "461402070630",
+    "uikName": "УИК №2576",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2578,
     "uikTvd": "461402070631",
+    "uikName": "УИК №2578",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 151,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2579,
     "uikTvd": "461402070632",
+    "uikName": "УИК №2579",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 151,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2025,
     "uikTvd": "961900270541",
+    "uikName": "УИК №2025",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1401,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2026,
     "uikTvd": "961900270542",
+    "uikName": "УИК №2026",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 901,
       "Число бюллетеней, полученных участковыми комиссиями": 889,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2027,
     "uikTvd": "961900270543",
+    "uikName": "УИК №2027",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 404,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2028,
     "uikTvd": "961900270544",
+    "uikName": "УИК №2028",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 627,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2029,
     "uikTvd": "961900270545",
+    "uikName": "УИК №2029",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2030,
     "uikTvd": "961900270546",
+    "uikName": "УИК №2030",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 311,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2031,
     "uikTvd": "961900270547",
+    "uikName": "УИК №2031",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 101,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2032,
     "uikTvd": "961900270548",
+    "uikName": "УИК №2032",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 432,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2033,
     "uikTvd": "961900270549",
+    "uikName": "УИК №2033",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1042,
       "Число бюллетеней, полученных участковыми комиссиями": 1038,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2034,
     "uikTvd": "961900270550",
+    "uikName": "УИК №2034",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 453,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2035,
     "uikTvd": "961900270551",
+    "uikName": "УИК №2035",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 509,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2036,
     "uikTvd": "961900270552",
+    "uikName": "УИК №2036",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2037,
     "uikTvd": "461400271165",
+    "uikName": "УИК №2037",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1514,
       "Число бюллетеней, полученных участковыми комиссиями": 1513,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2038,
     "uikTvd": "961900270554",
+    "uikName": "УИК №2038",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 259,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2039,
     "uikTvd": "961900270555",
+    "uikName": "УИК №2039",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 469,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2040,
     "uikTvd": "961900270556",
+    "uikName": "УИК №2040",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 403,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2041,
     "uikTvd": "961900270557",
+    "uikName": "УИК №2041",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 479,
       "Число бюллетеней, полученных участковыми комиссиями": 477,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2042,
     "uikTvd": "961900270558",
+    "uikName": "УИК №2042",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1112,
       "Число бюллетеней, полученных участковыми комиссиями": 1127,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2043,
     "uikTvd": "961900270559",
+    "uikName": "УИК №2043",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 802,
       "Число бюллетеней, полученных участковыми комиссиями": 806,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2044,
     "uikTvd": "961900270560",
+    "uikName": "УИК №2044",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1113,
       "Число бюллетеней, полученных участковыми комиссиями": 1119,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2045,
     "uikTvd": "961900270561",
+    "uikName": "УИК №2045",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 794,
       "Число бюллетеней, полученных участковыми комиссиями": 795,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2046,
     "uikTvd": "961900270562",
+    "uikName": "УИК №2046",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1907,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2047,
     "uikTvd": "961900270563",
+    "uikName": "УИК №2047",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1389,
       "Число бюллетеней, полученных участковыми комиссиями": 1281,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2048,
     "uikTvd": "961900270564",
+    "uikName": "УИК №2048",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1708,
       "Число бюллетеней, полученных участковыми комиссиями": 1628,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2049,
     "uikTvd": "961900270565",
+    "uikName": "УИК №2049",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1295,
       "Число бюллетеней, полученных участковыми комиссиями": 1238,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2050,
     "uikTvd": "961900270566",
+    "uikName": "УИК №2050",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2051,
     "uikTvd": "961900270567",
+    "uikName": "УИК №2051",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1072,
       "Число бюллетеней, полученных участковыми комиссиями": 1027,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2052,
     "uikTvd": "961900270568",
+    "uikName": "УИК №2052",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 688,
       "Число бюллетеней, полученных участковыми комиссиями": 664,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2053,
     "uikTvd": "961900270569",
+    "uikName": "УИК №2053",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1527,
       "Число бюллетеней, полученных участковыми комиссиями": 1418,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2054,
     "uikTvd": "961900270570",
+    "uikName": "УИК №2054",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1038,
       "Число бюллетеней, полученных участковыми комиссиями": 1036,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2055,
     "uikTvd": "961900270571",
+    "uikName": "УИК №2055",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1141,
       "Число бюллетеней, полученных участковыми комиссиями": 1133,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2056,
     "uikTvd": "961900270572",
+    "uikName": "УИК №2056",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2057,
     "uikTvd": "961900270573",
+    "uikName": "УИК №2057",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2058,
     "uikTvd": "961900270574",
+    "uikName": "УИК №2058",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2059,
     "uikTvd": "961900270575",
+    "uikName": "УИК №2059",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2235,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2060,
     "uikTvd": "961900270576",
+    "uikName": "УИК №2060",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2503,
       "Число бюллетеней, полученных участковыми комиссиями": 2462,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2061,
     "uikTvd": "961900270577",
+    "uikName": "УИК №2061",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2375,
       "Число бюллетеней, полученных участковыми комиссиями": 2291,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2062,
     "uikTvd": "961900270578",
+    "uikName": "УИК №2062",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1214,
       "Число бюллетеней, полученных участковыми комиссиями": 1188,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2063,
     "uikTvd": "961900270579",
+    "uikName": "УИК №2063",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 462,
       "Число бюллетеней, полученных участковыми комиссиями": 447,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2064,
     "uikTvd": "961900270580",
+    "uikName": "УИК №2064",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1765,
       "Число бюллетеней, полученных участковыми комиссиями": 1751,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2065,
     "uikTvd": "961900270581",
+    "uikName": "УИК №2065",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1179,
       "Число бюллетеней, полученных участковыми комиссиями": 1609,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2066,
     "uikTvd": "961900270582",
+    "uikName": "УИК №2066",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 701,
       "Число бюллетеней, полученных участковыми комиссиями": 663,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2067,
     "uikTvd": "961900270583",
+    "uikName": "УИК №2067",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2068,
     "uikTvd": "961900270584",
+    "uikName": "УИК №2068",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2069,
     "uikTvd": "961900270585",
+    "uikName": "УИК №2069",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1330,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2070,
     "uikTvd": "961900270586",
+    "uikName": "УИК №2070",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2071,
     "uikTvd": "961900270587",
+    "uikName": "УИК №2071",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1004,
       "Число бюллетеней, полученных участковыми комиссиями": 945,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2072,
     "uikTvd": "961900270588",
+    "uikName": "УИК №2072",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 457,
       "Число бюллетеней, полученных участковыми комиссиями": 456,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2073,
     "uikTvd": "961900270589",
+    "uikName": "УИК №2073",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 417,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2074,
     "uikTvd": "961900270590",
+    "uikName": "УИК №2074",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 613,
       "Число бюллетеней, полученных участковыми комиссиями": 593,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2075,
     "uikTvd": "961900270591",
+    "uikName": "УИК №2075",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 635,
       "Число бюллетеней, полученных участковыми комиссиями": 627,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2076,
     "uikTvd": "961900270592",
+    "uikName": "УИК №2076",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 219,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2077,
     "uikTvd": "961900270593",
+    "uikName": "УИК №2077",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 743,
       "Число бюллетеней, полученных участковыми комиссиями": 746,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2078,
     "uikTvd": "961900270594",
+    "uikName": "УИК №2078",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1469,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2079,
     "uikTvd": "961900270595",
+    "uikName": "УИК №2079",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 975,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2080,
     "uikTvd": "961900270596",
+    "uikName": "УИК №2080",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1101,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2081,
     "uikTvd": "961900270597",
+    "uikName": "УИК №2081",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2082,
     "uikTvd": "961900270598",
+    "uikName": "УИК №2082",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2083,
     "uikTvd": "961900270599",
+    "uikName": "УИК №2083",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1209,
       "Число бюллетеней, полученных участковыми комиссиями": 1212,
@@ -3645,8 +4356,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2084,
     "uikTvd": "961900270600",
+    "uikName": "УИК №2084",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 831,
       "Число бюллетеней, полученных участковыми комиссиями": 824,
@@ -3691,8 +4411,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2085,
     "uikTvd": "961900270601",
+    "uikName": "УИК №2085",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1246,
       "Число бюллетеней, полученных участковыми комиссиями": 1235,
@@ -3737,8 +4466,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2086,
     "uikTvd": "961900270602",
+    "uikName": "УИК №2086",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1477,
       "Число бюллетеней, полученных участковыми комиссиями": 1412,
@@ -3783,8 +4521,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2087,
     "uikTvd": "961900270603",
+    "uikName": "УИК №2087",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1751,
       "Число бюллетеней, полученных участковыми комиссиями": 1762,
@@ -3829,8 +4576,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2088,
     "uikTvd": "961900270604",
+    "uikName": "УИК №2088",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1820,
       "Число бюллетеней, полученных участковыми комиссиями": 1817,
@@ -3875,8 +4631,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2089,
     "uikTvd": "961900270605",
+    "uikName": "УИК №2089",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1896,
       "Число бюллетеней, полученных участковыми комиссиями": 1883,
@@ -3921,8 +4686,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2090,
     "uikTvd": "961900270606",
+    "uikName": "УИК №2090",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 726,
       "Число бюллетеней, полученных участковыми комиссиями": 723,
@@ -3967,8 +4741,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2091,
     "uikTvd": "961900270607",
+    "uikName": "УИК №2091",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 533,
       "Число бюллетеней, полученных участковыми комиссиями": 532,
@@ -4013,8 +4796,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2092,
     "uikTvd": "961900270608",
+    "uikName": "УИК №2092",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1043,
       "Число бюллетеней, полученных участковыми комиссиями": 1032,
@@ -4059,8 +4851,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2093,
     "uikTvd": "961900270609",
+    "uikName": "УИК №2093",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1349,
       "Число бюллетеней, полученных участковыми комиссиями": 1342,
@@ -4105,8 +4906,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2094,
     "uikTvd": "961900270610",
+    "uikName": "УИК №2094",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -4151,8 +4961,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2426,
     "uikTvd": "961900270611",
+    "uikName": "УИК №2426",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -4197,8 +5016,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2427,
     "uikTvd": "961900270612",
+    "uikName": "УИК №2427",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -4243,8 +5071,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2428,
     "uikTvd": "961900270613",
+    "uikName": "УИК №2428",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 313,
@@ -4289,8 +5126,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2429,
     "uikTvd": "961900270614",
+    "uikName": "УИК №2429",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 194,
@@ -4335,8 +5181,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2430,
     "uikTvd": "961900270615",
+    "uikName": "УИК №2430",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -4381,8 +5236,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2431,
     "uikTvd": "961900270616",
+    "uikName": "УИК №2431",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -4427,8 +5291,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2432,
     "uikTvd": "961900270617",
+    "uikName": "УИК №2432",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -4473,8 +5346,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2433,
     "uikTvd": "961900270539",
+    "uikName": "УИК №2433",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 237,
@@ -4519,8 +5401,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2514,
     "uikTvd": "961900270618",
+    "uikName": "УИК №2514",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2328,
       "Число бюллетеней, полученных участковыми комиссиями": 2315,
@@ -4565,8 +5456,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2585,
     "uikTvd": "961900270619",
+    "uikName": "УИК №2585",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1504,
       "Число бюллетеней, полученных участковыми комиссиями": 1418,
@@ -4611,8 +5511,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1636,
     "uikTvd": "461400170630",
+    "uikName": "УИК №1636",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2296,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4657,8 +5566,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1638,
     "uikTvd": "461400170631",
+    "uikName": "УИК №1638",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1642,
       "Число бюллетеней, полученных участковыми комиссиями": 1496,
@@ -4703,8 +5621,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1993,
     "uikTvd": "461400170632",
+    "uikName": "УИК №1993",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2121,
       "Число бюллетеней, полученных участковыми комиссиями": 1917,
@@ -4749,8 +5676,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1994,
     "uikTvd": "461400170633",
+    "uikName": "УИК №1994",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1232,
       "Число бюллетеней, полученных участковыми комиссиями": 1108,
@@ -4795,8 +5731,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1995,
     "uikTvd": "461400170634",
+    "uikName": "УИК №1995",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2795,
       "Число бюллетеней, полученных участковыми комиссиями": 2561,
@@ -4841,8 +5786,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1996,
     "uikTvd": "461400170635",
+    "uikName": "УИК №1996",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2696,
       "Число бюллетеней, полученных участковыми комиссиями": 2464,
@@ -4887,8 +5841,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1997,
     "uikTvd": "461400170636",
+    "uikName": "УИК №1997",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1279,
       "Число бюллетеней, полученных участковыми комиссиями": 1152,
@@ -4933,8 +5896,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1998,
     "uikTvd": "461400170637",
+    "uikName": "УИК №1998",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2305,
       "Число бюллетеней, полученных участковыми комиссиями": 2082,
@@ -4979,8 +5951,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1999,
     "uikTvd": "461400170638",
+    "uikName": "УИК №1999",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -5025,8 +6006,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2000,
     "uikTvd": "461400170639",
+    "uikName": "УИК №2000",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2103,
       "Число бюллетеней, полученных участковыми комиссиями": 1914,
@@ -5071,8 +6061,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2001,
     "uikTvd": "461400170640",
+    "uikName": "УИК №2001",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2614,
       "Число бюллетеней, полученных участковыми комиссиями": 2359,
@@ -5117,8 +6116,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2002,
     "uikTvd": "461400170641",
+    "uikName": "УИК №2002",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2012,
       "Число бюллетеней, полученных участковыми комиссиями": 1823,
@@ -5163,8 +6171,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2003,
     "uikTvd": "461400170642",
+    "uikName": "УИК №2003",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2072,
       "Число бюллетеней, полученных участковыми комиссиями": 1878,
@@ -5209,8 +6226,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2004,
     "uikTvd": "461400170643",
+    "uikName": "УИК №2004",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1481,
       "Число бюллетеней, полученных участковыми комиссиями": 1344,
@@ -5255,8 +6281,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2005,
     "uikTvd": "461400170644",
+    "uikName": "УИК №2005",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1709,
       "Число бюллетеней, полученных участковыми комиссиями": 1556,
@@ -5301,8 +6336,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2006,
     "uikTvd": "461400170645",
+    "uikName": "УИК №2006",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2151,
       "Число бюллетеней, полученных участковыми комиссиями": 1962,
@@ -5347,8 +6391,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2007,
     "uikTvd": "461400170646",
+    "uikName": "УИК №2007",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1958,
       "Число бюллетеней, полученных участковыми комиссиями": 1782,
@@ -5393,8 +6446,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2008,
     "uikTvd": "461400170647",
+    "uikName": "УИК №2008",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1087,
       "Число бюллетеней, полученных участковыми комиссиями": 985,
@@ -5439,8 +6501,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2009,
     "uikTvd": "461400170648",
+    "uikName": "УИК №2009",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2227,
       "Число бюллетеней, полученных участковыми комиссиями": 2037,
@@ -5485,8 +6556,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2010,
     "uikTvd": "461400170649",
+    "uikName": "УИК №2010",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2156,
       "Число бюллетеней, полученных участковыми комиссиями": 1974,
@@ -5531,8 +6611,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2011,
     "uikTvd": "461400170650",
+    "uikName": "УИК №2011",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1860,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -5577,8 +6666,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2012,
     "uikTvd": "461400170651",
+    "uikName": "УИК №2012",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2019,
       "Число бюллетеней, полученных участковыми комиссиями": 1853,
@@ -5623,8 +6721,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2013,
     "uikTvd": "461400170652",
+    "uikName": "УИК №2013",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2363,
       "Число бюллетеней, полученных участковыми комиссиями": 2132,
@@ -5669,8 +6776,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2014,
     "uikTvd": "461400170653",
+    "uikName": "УИК №2014",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1990,
       "Число бюллетеней, полученных участковыми комиссиями": 1819,
@@ -5715,8 +6831,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2015,
     "uikTvd": "461400170654",
+    "uikName": "УИК №2015",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2610,
       "Число бюллетеней, полученных участковыми комиссиями": 2379,
@@ -5761,8 +6886,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2016,
     "uikTvd": "461400170655",
+    "uikName": "УИК №2016",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1715,
       "Число бюллетеней, полученных участковыми комиссиями": 1555,
@@ -5807,8 +6941,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2017,
     "uikTvd": "461400170656",
+    "uikName": "УИК №2017",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2047,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -5853,8 +6996,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2018,
     "uikTvd": "461400170657",
+    "uikName": "УИК №2018",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1252,
       "Число бюллетеней, полученных участковыми комиссиями": 1156,
@@ -5899,8 +7051,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2019,
     "uikTvd": "461400170658",
+    "uikName": "УИК №2019",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2059,
       "Число бюллетеней, полученных участковыми комиссиями": 1902,
@@ -5945,8 +7106,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2020,
     "uikTvd": "461400170659",
+    "uikName": "УИК №2020",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1393,
       "Число бюллетеней, полученных участковыми комиссиями": 1283,
@@ -5991,8 +7161,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2021,
     "uikTvd": "461400170660",
+    "uikName": "УИК №2021",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -6037,8 +7216,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2024,
     "uikTvd": "461400170661",
+    "uikName": "УИК №2024",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 744,
       "Число бюллетеней, полученных участковыми комиссиями": 677,
@@ -6083,8 +7271,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2444,
     "uikTvd": "461400170662",
+    "uikName": "УИК №2444",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 888,
       "Число бюллетеней, полученных участковыми комиссиями": 819,
@@ -6129,8 +7326,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2524,
     "uikTvd": "461400170663",
+    "uikName": "УИК №2524",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1429,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -6175,8 +7381,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2525,
     "uikTvd": "461400170664",
+    "uikName": "УИК №2525",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1032,
       "Число бюллетеней, полученных участковыми комиссиями": 933,
@@ -6221,8 +7436,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2526,
     "uikTvd": "461400170665",
+    "uikName": "УИК №2526",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1358,
       "Число бюллетеней, полученных участковыми комиссиями": 1228,
@@ -6267,8 +7491,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1780,
     "uikTvd": "461405470788",
+    "uikName": "УИК №1780",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1890,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6313,8 +7546,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1781,
     "uikTvd": "461405470789",
+    "uikName": "УИК №1781",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1845,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6359,8 +7601,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1782,
     "uikTvd": "461405470790",
+    "uikName": "УИК №1782",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2090,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -6405,8 +7656,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1783,
     "uikTvd": "461405470791",
+    "uikName": "УИК №1783",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2324,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6451,8 +7711,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1784,
     "uikTvd": "461405470792",
+    "uikName": "УИК №1784",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1380,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -6497,8 +7766,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1785,
     "uikTvd": "461405470793",
+    "uikName": "УИК №1785",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1694,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6543,8 +7821,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1786,
     "uikTvd": "461405470794",
+    "uikName": "УИК №1786",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -6589,8 +7876,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1787,
     "uikTvd": "461405470795",
+    "uikName": "УИК №1787",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2094,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -6635,8 +7931,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1788,
     "uikTvd": "461405470796",
+    "uikName": "УИК №1788",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2197,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -6681,8 +7986,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1789,
     "uikTvd": "461405470797",
+    "uikName": "УИК №1789",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1946,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -6727,8 +8041,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1790,
     "uikTvd": "461405470798",
+    "uikName": "УИК №1790",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1736,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -6773,8 +8096,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1791,
     "uikTvd": "461405470799",
+    "uikName": "УИК №1791",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2010,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6819,8 +8151,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1792,
     "uikTvd": "461405470800",
+    "uikName": "УИК №1792",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -6865,8 +8206,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1793,
     "uikTvd": "461405470801",
+    "uikName": "УИК №1793",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -6911,8 +8261,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1794,
     "uikTvd": "461405470802",
+    "uikName": "УИК №1794",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -6957,8 +8316,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1795,
     "uikTvd": "461405470803",
+    "uikName": "УИК №1795",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1848,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7003,8 +8371,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1796,
     "uikTvd": "461405470804",
+    "uikName": "УИК №1796",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2038,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7049,8 +8426,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1797,
     "uikTvd": "461405470805",
+    "uikName": "УИК №1797",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2239,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7095,8 +8481,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1798,
     "uikTvd": "461405470806",
+    "uikName": "УИК №1798",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7141,8 +8536,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1799,
     "uikTvd": "461405470807",
+    "uikName": "УИК №1799",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2024,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7187,8 +8591,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1800,
     "uikTvd": "461405470808",
+    "uikName": "УИК №1800",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2191,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -7233,8 +8646,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1801,
     "uikTvd": "461405470809",
+    "uikName": "УИК №1801",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2310,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -7279,8 +8701,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1802,
     "uikTvd": "461405470810",
+    "uikName": "УИК №1802",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2341,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7325,8 +8756,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1803,
     "uikTvd": "461405470811",
+    "uikName": "УИК №1803",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1625,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7371,8 +8811,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1804,
     "uikTvd": "461405470812",
+    "uikName": "УИК №1804",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2038,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7417,8 +8866,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1805,
     "uikTvd": "461405470813",
+    "uikName": "УИК №1805",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1525,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -7463,8 +8921,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1806,
     "uikTvd": "461405470814",
+    "uikName": "УИК №1806",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1699,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7509,8 +8976,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1807,
     "uikTvd": "461405470815",
+    "uikName": "УИК №1807",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1701,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7555,8 +9031,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1808,
     "uikTvd": "461405470816",
+    "uikName": "УИК №1808",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1658,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7601,8 +9086,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1809,
     "uikTvd": "461405470817",
+    "uikName": "УИК №1809",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2065,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -7647,8 +9141,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1810,
     "uikTvd": "461405470818",
+    "uikName": "УИК №1810",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -7693,8 +9196,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1811,
     "uikTvd": "461405470819",
+    "uikName": "УИК №1811",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1796,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -7739,8 +9251,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1812,
     "uikTvd": "461405470820",
+    "uikName": "УИК №1812",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2115,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -7785,8 +9306,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1813,
     "uikTvd": "461405470821",
+    "uikName": "УИК №1813",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7831,8 +9361,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1814,
     "uikTvd": "461405470822",
+    "uikName": "УИК №1814",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1690,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -7877,8 +9416,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1815,
     "uikTvd": "461405470823",
+    "uikName": "УИК №1815",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1823,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -7923,8 +9471,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1816,
     "uikTvd": "461405470824",
+    "uikName": "УИК №1816",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1366,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -7969,8 +9526,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1817,
     "uikTvd": "461405470825",
+    "uikName": "УИК №1817",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1198,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8015,8 +9581,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1818,
     "uikTvd": "461405470826",
+    "uikName": "УИК №1818",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1357,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -8061,8 +9636,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1819,
     "uikTvd": "461405470827",
+    "uikName": "УИК №1819",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1576,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -8107,8 +9691,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1820,
     "uikTvd": "461405470828",
+    "uikName": "УИК №1820",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2279,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -8153,8 +9746,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1821,
     "uikTvd": "461405470829",
+    "uikName": "УИК №1821",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1997,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8199,8 +9801,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1822,
     "uikTvd": "461405470830",
+    "uikName": "УИК №1822",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2328,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8245,8 +9856,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1823,
     "uikTvd": "461405470831",
+    "uikName": "УИК №1823",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -8291,8 +9911,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1824,
     "uikTvd": "461405470832",
+    "uikName": "УИК №1824",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1874,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8337,8 +9966,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1825,
     "uikTvd": "461405470833",
+    "uikName": "УИК №1825",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1709,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -8383,8 +10021,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1826,
     "uikTvd": "461405470834",
+    "uikName": "УИК №1826",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2018,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -8429,8 +10076,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1827,
     "uikTvd": "461405470835",
+    "uikName": "УИК №1827",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8475,8 +10131,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1828,
     "uikTvd": "461405470836",
+    "uikName": "УИК №1828",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1905,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -8521,8 +10186,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1829,
     "uikTvd": "461405470837",
+    "uikName": "УИК №1829",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2430,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8567,8 +10241,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1830,
     "uikTvd": "461405470838",
+    "uikName": "УИК №1830",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2499,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -8613,8 +10296,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1831,
     "uikTvd": "461405470839",
+    "uikName": "УИК №1831",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1854,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8659,8 +10351,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1832,
     "uikTvd": "461405470840",
+    "uikName": "УИК №1832",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1956,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8705,8 +10406,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1833,
     "uikTvd": "461405470841",
+    "uikName": "УИК №1833",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2181,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8751,8 +10461,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1834,
     "uikTvd": "461405470842",
+    "uikName": "УИК №1834",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2516,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8797,8 +10516,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1835,
     "uikTvd": "461405470843",
+    "uikName": "УИК №1835",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2141,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -8843,8 +10571,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1836,
     "uikTvd": "461405470844",
+    "uikName": "УИК №1836",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1862,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8889,8 +10626,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1837,
     "uikTvd": "461405470845",
+    "uikName": "УИК №1837",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2125,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -8935,8 +10681,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1838,
     "uikTvd": "461405470846",
+    "uikName": "УИК №1838",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1377,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -8981,8 +10736,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1839,
     "uikTvd": "461405470847",
+    "uikName": "УИК №1839",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1318,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9027,8 +10791,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1840,
     "uikTvd": "461405470848",
+    "uikName": "УИК №1840",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1801,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -9073,8 +10846,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1841,
     "uikTvd": "461405470849",
+    "uikName": "УИК №1841",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2008,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -9119,8 +10901,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1842,
     "uikTvd": "461405470850",
+    "uikName": "УИК №1842",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1810,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -9165,8 +10956,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1843,
     "uikTvd": "461405470851",
+    "uikName": "УИК №1843",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2382,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -9211,8 +11011,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1844,
     "uikTvd": "461405470852",
+    "uikName": "УИК №1844",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2374,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -9257,8 +11066,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1845,
     "uikTvd": "461405470853",
+    "uikName": "УИК №1845",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1433,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -9303,8 +11121,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1846,
     "uikTvd": "461405470854",
+    "uikName": "УИК №1846",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1620,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9349,8 +11176,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1847,
     "uikTvd": "461405470855",
+    "uikName": "УИК №1847",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2047,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -9395,8 +11231,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1848,
     "uikTvd": "461405470856",
+    "uikName": "УИК №1848",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2490,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9441,8 +11286,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1849,
     "uikTvd": "461405470857",
+    "uikName": "УИК №1849",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1376,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -9487,8 +11341,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1850,
     "uikTvd": "461405470858",
+    "uikName": "УИК №1850",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2422,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9533,8 +11396,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1851,
     "uikTvd": "461405470859",
+    "uikName": "УИК №1851",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2243,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9579,8 +11451,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1852,
     "uikTvd": "461405470860",
+    "uikName": "УИК №1852",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1991,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -9625,8 +11506,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1853,
     "uikTvd": "461405470861",
+    "uikName": "УИК №1853",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1837,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -9671,8 +11561,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1854,
     "uikTvd": "461405470862",
+    "uikName": "УИК №1854",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1707,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9717,8 +11616,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1855,
     "uikTvd": "461405470863",
+    "uikName": "УИК №1855",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -9763,8 +11671,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1856,
     "uikTvd": "461405470864",
+    "uikName": "УИК №1856",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1837,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -9809,8 +11726,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1857,
     "uikTvd": "461405470865",
+    "uikName": "УИК №1857",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1762,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -9855,8 +11781,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1858,
     "uikTvd": "461405470866",
+    "uikName": "УИК №1858",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1815,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9901,8 +11836,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1859,
     "uikTvd": "461405470867",
+    "uikName": "УИК №1859",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -9947,8 +11891,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1860,
     "uikTvd": "461405470868",
+    "uikName": "УИК №1860",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1709,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9993,8 +11946,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1861,
     "uikTvd": "461405470869",
+    "uikName": "УИК №1861",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1422,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -10039,8 +12001,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1862,
     "uikTvd": "461405470870",
+    "uikName": "УИК №1862",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1152,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -10085,8 +12056,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1863,
     "uikTvd": "461405470871",
+    "uikName": "УИК №1863",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1949,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -10131,8 +12111,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1864,
     "uikTvd": "461405470872",
+    "uikName": "УИК №1864",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1986,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10177,8 +12166,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1865,
     "uikTvd": "461405470873",
+    "uikName": "УИК №1865",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2128,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -10223,8 +12221,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1866,
     "uikTvd": "461405470874",
+    "uikName": "УИК №1866",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1973,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -10269,8 +12276,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1867,
     "uikTvd": "461405470875",
+    "uikName": "УИК №1867",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1401,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -10315,8 +12331,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1868,
     "uikTvd": "461405470876",
+    "uikName": "УИК №1868",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1742,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10361,8 +12386,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1869,
     "uikTvd": "461405470877",
+    "uikName": "УИК №1869",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1579,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -10407,8 +12441,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1870,
     "uikTvd": "461405470878",
+    "uikName": "УИК №1870",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1797,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -10453,8 +12496,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1871,
     "uikTvd": "461405470879",
+    "uikName": "УИК №1871",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1708,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -10499,8 +12551,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1872,
     "uikTvd": "461405470880",
+    "uikName": "УИК №1872",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1588,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -10545,8 +12606,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1873,
     "uikTvd": "461405470881",
+    "uikName": "УИК №1873",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1418,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10591,8 +12661,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1874,
     "uikTvd": "461405470882",
+    "uikName": "УИК №1874",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1770,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -10637,8 +12716,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1875,
     "uikTvd": "461405470883",
+    "uikName": "УИК №1875",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1725,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10683,8 +12771,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1876,
     "uikTvd": "461405470884",
+    "uikName": "УИК №1876",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2832,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -10729,8 +12826,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1877,
     "uikTvd": "461405470885",
+    "uikName": "УИК №1877",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2153,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10775,8 +12881,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1878,
     "uikTvd": "461405470886",
+    "uikName": "УИК №1878",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2095,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10821,8 +12936,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1879,
     "uikTvd": "461405470887",
+    "uikName": "УИК №1879",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1325,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -10867,8 +12991,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1880,
     "uikTvd": "461405470888",
+    "uikName": "УИК №1880",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1660,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -10913,8 +13046,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1881,
     "uikTvd": "461405470889",
+    "uikName": "УИК №1881",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1797,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10959,8 +13101,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1882,
     "uikTvd": "461405470890",
+    "uikName": "УИК №1882",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1710,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -11005,8 +13156,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1883,
     "uikTvd": "461405470891",
+    "uikName": "УИК №1883",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1931,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -11051,8 +13211,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1884,
     "uikTvd": "461405470892",
+    "uikName": "УИК №1884",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1778,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11097,8 +13266,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1885,
     "uikTvd": "461405470893",
+    "uikName": "УИК №1885",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1600,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -11143,8 +13321,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1886,
     "uikTvd": "461405470894",
+    "uikName": "УИК №1886",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1616,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -11189,8 +13376,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1887,
     "uikTvd": "461405470895",
+    "uikName": "УИК №1887",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1787,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11235,8 +13431,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2346,
     "uikTvd": "461405470896",
+    "uikName": "УИК №2346",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1518,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -11281,8 +13486,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2347,
     "uikTvd": "461405470897",
+    "uikName": "УИК №2347",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1043,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -11327,8 +13541,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2348,
     "uikTvd": "461405470898",
+    "uikName": "УИК №2348",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1951,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -11373,8 +13596,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2349,
     "uikTvd": "461405470899",
+    "uikName": "УИК №2349",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2136,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11419,8 +13651,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2350,
     "uikTvd": "461405470900",
+    "uikName": "УИК №2350",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2185,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -11465,8 +13706,17 @@ export const duma_2003_uik_428_region_61_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2468,
     "uikTvd": "461405470901",
+    "uikName": "УИК №2468",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1416,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,

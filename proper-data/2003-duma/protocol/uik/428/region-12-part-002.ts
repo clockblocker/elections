@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "412400367306",
+    "uikName": "УИК №225",
     "tikTvd": "212200066620",
     "tikName": "Йошкар-Олинская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "412400367307",
+    "uikName": "УИК №226",
     "tikTvd": "212200066620",
     "tikName": "Йошкар-Олинская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "412400367308",
+    "uikName": "УИК №227",
     "tikTvd": "212200066620",
     "tikName": "Йошкар-Олинская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 880,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "412400466662",
+    "uikName": "УИК №228",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1479,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "412400466663",
+    "uikName": "УИК №229",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1544,
       "Число бюллетеней, полученных участковыми комиссиями": 1508,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "412400466664",
+    "uikName": "УИК №230",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 833,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "412400466665",
+    "uikName": "УИК №231",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "412400466666",
+    "uikName": "УИК №232",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "412400466667",
+    "uikName": "УИК №233",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "412400466668",
+    "uikName": "УИК №234",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "412400466669",
+    "uikName": "УИК №235",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1677,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "412400466670",
+    "uikName": "УИК №236",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "412400466671",
+    "uikName": "УИК №237",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 317,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "412400466672",
+    "uikName": "УИК №238",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 525,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "412400466673",
+    "uikName": "УИК №239",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "412400466674",
+    "uikName": "УИК №240",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "412400466675",
+    "uikName": "УИК №241",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "412400466676",
+    "uikName": "УИК №242",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "412400466677",
+    "uikName": "УИК №243",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "412400466678",
+    "uikName": "УИК №244",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 228,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "412400466679",
+    "uikName": "УИК №245",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "412400466680",
+    "uikName": "УИК №246",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "412400466681",
+    "uikName": "УИК №247",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "412400566634",
+    "uikName": "УИК  248",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 928,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "412400566635",
+    "uikName": "УИК  249",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1344,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "412400566636",
+    "uikName": "УИК  250",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 920,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "412400566637",
+    "uikName": "УИК  251",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1166,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "412400566638",
+    "uikName": "УИК  252",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1297,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "412400566639",
+    "uikName": "УИК  253",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1357,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "412400566640",
+    "uikName": "УИК  254",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1016,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "412400566641",
+    "uikName": "УИК  255",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1120,
       "Число бюллетеней, полученных участковыми комиссиями": 1010,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "412400566642",
+    "uikName": "УИК  256",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1010,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "412400566643",
+    "uikName": "УИК  257",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1060,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "412400566644",
+    "uikName": "УИК  258",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 941,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "412400566645",
+    "uikName": "УИК  259",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1134,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "412400566646",
+    "uikName": "УИК  260",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "412400566647",
+    "uikName": "УИК  261",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 733,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "412400566648",
+    "uikName": "УИК  262",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1080,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "412400566649",
+    "uikName": "УИК  263",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 870,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "412400566650",
+    "uikName": "УИК  264",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1479,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "412400566651",
+    "uikName": "УИК  265",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 892,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "412400766651",
+    "uikName": "УИК  284",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "412400766652",
+    "uikName": "УИК  285",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1642,
       "Число бюллетеней, полученных участковыми комиссиями": 1575,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "412400766653",
+    "uikName": "УИК  286",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "412400766654",
+    "uikName": "УИК  287",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1927,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "412400766655",
+    "uikName": "УИК  288",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "412400766656",
+    "uikName": "УИК  289",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 983,
       "Число бюллетеней, полученных участковыми комиссиями": 875,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "412400766657",
+    "uikName": "УИК  290",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 446,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "412400766658",
+    "uikName": "УИК  291",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 923,
       "Число бюллетеней, полученных участковыми комиссиями": 925,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "412400766659",
+    "uikName": "УИК  292",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "412400766660",
+    "uikName": "УИК  293",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "412400766661",
+    "uikName": "УИК  294",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1390,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "412400766662",
+    "uikName": "УИК  295",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 915,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "412400766665",
+    "uikName": "УИК  296",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 872,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "412400766664",
+    "uikName": "УИК  297",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "412400766666",
+    "uikName": "УИК  298",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1182,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "412400766667",
+    "uikName": "УИК  299",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -2861,8 +3374,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "412400766668",
+    "uikName": "УИК  300",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 590,
       "Число бюллетеней, полученных участковыми комиссиями": 595,
@@ -2911,8 +3433,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "412400766669",
+    "uikName": "УИК  301",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 764,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -2961,8 +3492,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "412400766670",
+    "uikName": "УИК  302",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -3011,8 +3551,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "412400766671",
+    "uikName": "УИК  303",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 656,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -3061,8 +3610,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "412400766672",
+    "uikName": "УИК  304",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 499,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3111,8 +3669,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "412400766673",
+    "uikName": "УИК  305",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 954,
       "Число бюллетеней, полученных участковыми комиссиями": 955,
@@ -3161,8 +3728,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "412400766674",
+    "uikName": "УИК  306",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -3211,8 +3787,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "412400766675",
+    "uikName": "УИК  307",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -3261,8 +3846,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "412400766676",
+    "uikName": "УИК  308",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 533,
       "Число бюллетеней, полученных участковыми комиссиями": 555,
@@ -3311,8 +3905,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "412400766677",
+    "uikName": "УИК  309",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 781,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -3361,8 +3964,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "412400866720",
+    "uikName": "УИК  310",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2361,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -3411,8 +4023,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "412400866721",
+    "uikName": "УИК  311",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2226,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -3461,8 +4082,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "412400866722",
+    "uikName": "УИК  312",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1795,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -3511,8 +4141,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "412400866723",
+    "uikName": "УИК  313",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2196,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -3561,8 +4200,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "412400866724",
+    "uikName": "УИК  314",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1766,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -3611,8 +4259,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "412400866725",
+    "uikName": "УИК  315",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1746,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -3661,8 +4318,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "412400866726",
+    "uikName": "УИК  316",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 475,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -3711,8 +4377,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "412400866727",
+    "uikName": "УИК  317",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1677,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -3761,8 +4436,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "412400866728",
+    "uikName": "УИК  318",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1747,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3811,8 +4495,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "412400866729",
+    "uikName": "УИК  319",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1597,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3861,8 +4554,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "412400866730",
+    "uikName": "УИК  320",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 725,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -3911,8 +4613,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "412400866731",
+    "uikName": "УИК  321",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -3961,8 +4672,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "412400866732",
+    "uikName": "УИК  322",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -4011,8 +4731,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "412400866733",
+    "uikName": "УИК  323",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -4061,8 +4790,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "412400866734",
+    "uikName": "УИК  324",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 166,
@@ -4111,8 +4849,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "412400866735",
+    "uikName": "УИК  325",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1093,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -4161,8 +4908,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "412400866736",
+    "uikName": "УИК  326",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4211,8 +4967,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "412400866737",
+    "uikName": "УИК  327",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2079,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -4261,8 +5026,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "412400866738",
+    "uikName": "УИК  328",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1663,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4311,8 +5085,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "412400866739",
+    "uikName": "УИК  329",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 688,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -4361,8 +5144,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "412400866740",
+    "uikName": "УИК  330",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 894,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -4411,8 +5203,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "412400866741",
+    "uikName": "УИК  331",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 860,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -4461,8 +5262,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "412400866742",
+    "uikName": "УИК  332",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -4511,8 +5321,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "412400866743",
+    "uikName": "УИК  333",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -4561,8 +5380,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "412400866744",
+    "uikName": "УИК  334",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4611,8 +5439,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "412400866745",
+    "uikName": "УИК  335",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -4661,8 +5498,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "412400866746",
+    "uikName": "УИК  336",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -4711,8 +5557,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "412400866747",
+    "uikName": "УИК  337",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -4761,8 +5616,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "412400866748",
+    "uikName": "УИК  338",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 994,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4811,8 +5675,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "412400866749",
+    "uikName": "УИК  339",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1498,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -4861,8 +5734,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "412400866750",
+    "uikName": "УИК  340",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1359,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -4911,8 +5793,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "412400866751",
+    "uikName": "УИК  341",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 943,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -4961,8 +5852,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "412400866752",
+    "uikName": "УИК  342",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2376,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -5011,8 +5911,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "412400866753",
+    "uikName": "УИК  343",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 931,
       "Число бюллетеней, полученных участковыми комиссиями": 928,
@@ -5061,8 +5970,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "412400866754",
+    "uikName": "УИК  344",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 623,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5111,8 +6029,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "412400866755",
+    "uikName": "УИК  345",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1455,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -5161,8 +6088,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "412400866756",
+    "uikName": "УИК  346",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5211,8 +6147,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "412400866757",
+    "uikName": "УИК  347",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 974,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -5261,8 +6206,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "412400866758",
+    "uikName": "УИК  348",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1210,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -5311,8 +6265,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "412400967222",
+    "uikName": "УИК №349",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5361,8 +6324,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "412400967223",
+    "uikName": "УИК №350",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2261,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5411,8 +6383,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "412400967224",
+    "uikName": "УИК №351",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2557,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5461,8 +6442,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "412400967225",
+    "uikName": "УИК №352",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -5511,8 +6501,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "412400967226",
+    "uikName": "УИК №353",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 633,
       "Число бюллетеней, полученных участковыми комиссиями": 636,
@@ -5561,8 +6560,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "412400967227",
+    "uikName": "УИК №354",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 302,
@@ -5611,8 +6619,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "412400967228",
+    "uikName": "УИК №355",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 515,
@@ -5661,8 +6678,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "412400967229",
+    "uikName": "УИК №356",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 878,
       "Число бюллетеней, полученных участковыми комиссиями": 866,
@@ -5711,8 +6737,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "412400967230",
+    "uikName": "УИК №357",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -5761,8 +6796,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "412400967231",
+    "uikName": "УИК №358",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 414,
       "Число бюллетеней, полученных участковыми комиссиями": 407,
@@ -5811,8 +6855,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "412400967232",
+    "uikName": "УИК №359",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -5861,8 +6914,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "412400967233",
+    "uikName": "УИК №360",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 636,
       "Число бюллетеней, полученных участковыми комиссиями": 663,
@@ -5911,8 +6973,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "412400967234",
+    "uikName": "УИК №361",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 308,
@@ -5961,8 +7032,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "412400967235",
+    "uikName": "УИК №362",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 247,
@@ -6011,8 +7091,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "412400967236",
+    "uikName": "УИК №363",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -6061,8 +7150,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "412400967237",
+    "uikName": "УИК №364",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 495,
       "Число бюллетеней, полученных участковыми комиссиями": 505,
@@ -6111,8 +7209,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "412400967238",
+    "uikName": "УИК №365",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 368,
       "Число бюллетеней, полученных участковыми комиссиями": 366,
@@ -6161,8 +7268,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "412400967239",
+    "uikName": "УИК №366",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 311,
@@ -6211,8 +7327,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "412400967240",
+    "uikName": "УИК №367",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 557,
       "Число бюллетеней, полученных участковыми комиссиями": 567,
@@ -6261,8 +7386,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "412400967241",
+    "uikName": "УИК №368",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 893,
       "Число бюллетеней, полученных участковыми комиссиями": 906,
@@ -6311,8 +7445,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "412400967242",
+    "uikName": "УИК №369",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 904,
       "Число бюллетеней, полученных участковыми комиссиями": 894,
@@ -6361,8 +7504,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "412400967243",
+    "uikName": "УИК №370",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -6411,8 +7563,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "412400967244",
+    "uikName": "УИК №371",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -6461,8 +7622,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "412400967245",
+    "uikName": "УИК №372",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 489,
       "Число бюллетеней, полученных участковыми комиссиями": 487,
@@ -6511,8 +7681,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "412400967246",
+    "uikName": "УИК №373",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -6561,8 +7740,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "412400967247",
+    "uikName": "УИК №374",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 291,
@@ -6611,8 +7799,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "412400967248",
+    "uikName": "УИК №375",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -6661,8 +7858,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "412400967249",
+    "uikName": "УИК №376",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -6711,8 +7917,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "412400967250",
+    "uikName": "УИК №377",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 397,
       "Число бюллетеней, полученных участковыми комиссиями": 401,
@@ -6761,8 +7976,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "412400967251",
+    "uikName": "УИК №378",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 288,
@@ -6811,8 +8035,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "412400967252",
+    "uikName": "УИК №379",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 393,
       "Число бюллетеней, полученных участковыми комиссиями": 381,
@@ -6861,8 +8094,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "412400967253",
+    "uikName": "УИК №380",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -6911,8 +8153,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "412400967254",
+    "uikName": "УИК №381",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 505,
       "Число бюллетеней, полученных участковыми комиссиями": 505,
@@ -6961,8 +8212,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "412400967255",
+    "uikName": "УИК №382",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 588,
@@ -7011,8 +8271,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "412400967256",
+    "uikName": "УИК №383",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 662,
       "Число бюллетеней, полученных участковыми комиссиями": 657,
@@ -7061,8 +8330,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "412400967257",
+    "uikName": "УИК №384",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -7111,8 +8389,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "412400967258",
+    "uikName": "УИК №385",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 878,
       "Число бюллетеней, полученных участковыми комиссиями": 873,
@@ -7161,8 +8448,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "412400967259",
+    "uikName": "УИК №386",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -7211,8 +8507,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "412400967260",
+    "uikName": "УИК №387",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 167,
@@ -7261,8 +8566,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "412400967261",
+    "uikName": "УИК №388",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 624,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -7311,8 +8625,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "412400967262",
+    "uikName": "УИК №389",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 416,
@@ -7361,8 +8684,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "412400967263",
+    "uikName": "УИК №390",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -7411,8 +8743,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "412400967264",
+    "uikName": "УИК №391",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 585,
       "Число бюллетеней, полученных участковыми комиссиями": 584,
@@ -7461,8 +8802,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "412400967265",
+    "uikName": "УИК №392",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 433,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -7511,8 +8861,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "412400967266",
+    "uikName": "УИК №393",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 780,
       "Число бюллетеней, полученных участковыми комиссиями": 794,
@@ -7561,8 +8920,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "412401066668",
+    "uikName": "УИК №394",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1558,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -7611,8 +8979,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "412401066669",
+    "uikName": "УИК №395",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1368,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7661,8 +9038,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "412401066670",
+    "uikName": "УИК №396",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1367,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7711,8 +9097,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "412401066671",
+    "uikName": "УИК №397",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1463,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7761,8 +9156,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "412401066672",
+    "uikName": "УИК №398",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 612,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7811,8 +9215,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "412401066673",
+    "uikName": "УИК №399",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 659,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7861,8 +9274,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "412401066674",
+    "uikName": "УИК №400",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -7911,8 +9333,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "412401066675",
+    "uikName": "УИК №401",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -7961,8 +9392,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "412401066676",
+    "uikName": "УИК №402",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -8011,8 +9451,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "412401066677",
+    "uikName": "УИК №403",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8061,8 +9510,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "412401066678",
+    "uikName": "УИК №404",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 879,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -8111,8 +9569,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "412401066679",
+    "uikName": "УИК №405",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -8161,8 +9628,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "412401066680",
+    "uikName": "УИК №406",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1092,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8211,8 +9687,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "412401066681",
+    "uikName": "УИК №407",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 979,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8261,8 +9746,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "412401066682",
+    "uikName": "УИК №408",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 770,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8311,8 +9805,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "412401066683",
+    "uikName": "УИК №409",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8361,8 +9864,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "412401066684",
+    "uikName": "УИК №410",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 521,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8411,8 +9923,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "412401066685",
+    "uikName": "УИК №411",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8461,8 +9982,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "412401167181",
+    "uikName": "УИК №412",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2265,
       "Число бюллетеней, полученных участковыми комиссиями": 2166,
@@ -8511,8 +10041,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "412401167182",
+    "uikName": "УИК №413",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 328,
@@ -8561,8 +10100,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "412401167183",
+    "uikName": "УИК №414",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1904,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -8611,8 +10159,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "412401167184",
+    "uikName": "УИК №415",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 382,
@@ -8661,8 +10218,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "412401167185",
+    "uikName": "УИК №416",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 488,
       "Число бюллетеней, полученных участковыми комиссиями": 491,
@@ -8711,8 +10277,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "412401167186",
+    "uikName": "УИК №417",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 428,
@@ -8761,8 +10336,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "412401167187",
+    "uikName": "УИК №418",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 486,
       "Число бюллетеней, полученных участковыми комиссиями": 489,
@@ -8811,8 +10395,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "412401167188",
+    "uikName": "УИК №419",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 443,
@@ -8861,8 +10454,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "412401167189",
+    "uikName": "УИК №420",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 271,
@@ -8911,8 +10513,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "412401167190",
+    "uikName": "УИК №421",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -8961,8 +10572,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "412401167191",
+    "uikName": "УИК №422",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 911,
       "Число бюллетеней, полученных участковыми комиссиями": 891,
@@ -9011,8 +10631,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "412401167192",
+    "uikName": "УИК №423",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 398,
@@ -9061,8 +10690,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "412401167193",
+    "uikName": "УИК №424",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 601,
@@ -9111,8 +10749,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "412401167194",
+    "uikName": "УИК №425",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -9161,8 +10808,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "412401167195",
+    "uikName": "УИК №426",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 322,
@@ -9211,8 +10867,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "412401167196",
+    "uikName": "УИК №427",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 162,
@@ -9261,8 +10926,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "412401167197",
+    "uikName": "УИК №428",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 435,
@@ -9311,8 +10985,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "412401167198",
+    "uikName": "УИК №429",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 585,
       "Число бюллетеней, полученных участковыми комиссиями": 605,
@@ -9361,8 +11044,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "412401167199",
+    "uikName": "УИК №430",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -9411,8 +11103,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "412401366718",
+    "uikName": "УИК №447",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1213,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9461,8 +11162,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "412401366719",
+    "uikName": "УИК №448",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9511,8 +11221,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "412401366720",
+    "uikName": "УИК №449",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -9561,8 +11280,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "412401366721",
+    "uikName": "УИК №450",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1054,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -9611,8 +11339,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "412401366722",
+    "uikName": "УИК №451",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1674,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9661,8 +11398,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "412401366723",
+    "uikName": "УИК №452",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1862,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9711,8 +11457,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "412401366724",
+    "uikName": "УИК №453",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 466,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9761,8 +11516,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "412401366725",
+    "uikName": "УИК №454",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -9811,8 +11575,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "412401366726",
+    "uikName": "УИК №455",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -9861,8 +11634,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "412401366727",
+    "uikName": "УИК №456",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9911,8 +11693,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "412401366728",
+    "uikName": "УИК №457",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -9961,8 +11752,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "412401366729",
+    "uikName": "УИК №458",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 534,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -10011,8 +11811,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "412401366730",
+    "uikName": "УИК №459",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -10061,8 +11870,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "412401366731",
+    "uikName": "УИК №460",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -10111,8 +11929,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "412401366732",
+    "uikName": "УИК №461",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -10161,8 +11988,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "412401366733",
+    "uikName": "УИК №462",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -10211,8 +12047,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "412401366734",
+    "uikName": "УИК №463",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10261,8 +12106,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "412401366735",
+    "uikName": "УИК №464",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -10311,8 +12165,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "412401366736",
+    "uikName": "УИК №465",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -10361,8 +12224,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "412401366737",
+    "uikName": "УИК №466",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -10411,8 +12283,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "412401366738",
+    "uikName": "УИК №467",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 623,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10461,8 +12342,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "412401366739",
+    "uikName": "УИК №468",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -10511,8 +12401,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "412401366740",
+    "uikName": "УИК №469",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -10561,8 +12460,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "412401366741",
+    "uikName": "УИК №470",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 808,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -10611,8 +12519,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "412401366742",
+    "uikName": "УИК №471",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -10661,8 +12578,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "412401366743",
+    "uikName": "УИК №472",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -10711,8 +12637,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "412401366744",
+    "uikName": "УИК №473",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -10761,8 +12696,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "412401366745",
+    "uikName": "УИК №474",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1083,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -10811,8 +12755,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "412401366746",
+    "uikName": "УИК №475",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -10861,8 +12814,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "412401366747",
+    "uikName": "УИК №476",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -10911,8 +12873,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "412401366748",
+    "uikName": "УИК №477",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 773,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -10961,8 +12932,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "412401366749",
+    "uikName": "УИК №478",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -11011,8 +12991,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "412401366750",
+    "uikName": "УИК №479",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11061,8 +13050,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "412401466666",
+    "uikName": "УИК №480",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1533,
       "Число бюллетеней, полученных участковыми комиссиями": 1516,
@@ -11111,8 +13109,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "412401466667",
+    "uikName": "УИК №481",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2151,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -11161,8 +13168,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "412401466668",
+    "uikName": "УИК №482",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2050,
       "Число бюллетеней, полученных участковыми комиссиями": 1961,
@@ -11211,8 +13227,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "412401466669",
+    "uikName": "УИК №483",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1943,
       "Число бюллетеней, полученных участковыми комиссиями": 1643,
@@ -11261,8 +13286,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "412401466670",
+    "uikName": "УИК №484",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1333,
       "Число бюллетеней, полученных участковыми комиссиями": 1271,
@@ -11311,8 +13345,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "412401466671",
+    "uikName": "УИК №485",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1469,
       "Число бюллетеней, полученных участковыми комиссиями": 1511,
@@ -11361,8 +13404,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "412401466672",
+    "uikName": "УИК №486",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 688,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -11411,8 +13463,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "412401466673",
+    "uikName": "УИК №487",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -11461,8 +13522,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "412401466674",
+    "uikName": "УИК №488",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1442,
       "Число бюллетеней, полученных участковыми комиссиями": 1464,
@@ -11511,8 +13581,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "412401466675",
+    "uikName": "УИК №489",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 318,
@@ -11561,8 +13640,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "412401466676",
+    "uikName": "УИК №490",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 883,
       "Число бюллетеней, полученных участковыми комиссиями": 803,
@@ -11611,8 +13699,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "412401466677",
+    "uikName": "УИК №491",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 752,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -11661,8 +13758,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "412401466678",
+    "uikName": "УИК №492",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 771,
       "Число бюллетеней, полученных участковыми комиссиями": 683,
@@ -11711,8 +13817,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "412401466679",
+    "uikName": "УИК №493",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 592,
@@ -11761,8 +13876,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "412401466680",
+    "uikName": "УИК №494",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 952,
       "Число бюллетеней, полученных участковыми комиссиями": 834,
@@ -11811,8 +13935,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "412401466681",
+    "uikName": "УИК №495",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 645,
       "Число бюллетеней, полученных участковыми комиссиями": 655,
@@ -11861,8 +13994,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "412401466682",
+    "uikName": "УИК №496",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1231,
       "Число бюллетеней, полученных участковыми комиссиями": 1238,
@@ -11911,8 +14053,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "412401466683",
+    "uikName": "УИК №497",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 264,
@@ -11961,8 +14112,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "412401466684",
+    "uikName": "УИК №498",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -12011,8 +14171,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "412401466685",
+    "uikName": "УИК №499",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1235,
       "Число бюллетеней, полученных участковыми комиссиями": 1088,
@@ -12061,8 +14230,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "412401466686",
+    "uikName": "УИК №500",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 388,
       "Число бюллетеней, полученных участковыми комиссиями": 427,
@@ -12111,8 +14289,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "412401466687",
+    "uikName": "УИК №501",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 950,
       "Число бюллетеней, полученных участковыми комиссиями": 946,
@@ -12161,8 +14348,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "412401466688",
+    "uikName": "УИК №502",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 484,
@@ -12211,8 +14407,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "412401466689",
+    "uikName": "УИК №503",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 426,
@@ -12261,8 +14466,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "412401466690",
+    "uikName": "УИК №504",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 604,
@@ -12311,8 +14525,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "412401566676",
+    "uikName": "УИК №505",
     "tikTvd": "212200066632",
     "tikName": "Юринская  ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 922,
       "Число бюллетеней, полученных участковыми комиссиями": 925,
@@ -12361,8 +14584,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "412401566677",
+    "uikName": "УИК №506",
     "tikTvd": "212200066632",
     "tikName": "Юринская  ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1455,
       "Число бюллетеней, полученных участковыми комиссиями": 1465,
@@ -12411,8 +14643,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "412401566678",
+    "uikName": "УИК №507",
     "tikTvd": "212200066632",
     "tikName": "Юринская  ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1152,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -12461,8 +14702,17 @@ export const duma_2003_uik_428_region_12_part_002 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "412401566679",
+    "uikName": "УИК №508",
     "tikTvd": "212200066632",
     "tikName": "Юринская  ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 235,

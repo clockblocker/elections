@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "433401571507",
+    "uikName": "УИК №150",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -65,8 +74,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "433401571508",
+    "uikName": "УИК №151",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1372,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -119,8 +137,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "433401571509",
+    "uikName": "УИК №152",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1779,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -173,8 +200,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "433401571510",
+    "uikName": "УИК №153",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1799,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -227,8 +263,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "433401571511",
+    "uikName": "УИК №154",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1516,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -281,8 +326,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "433401571512",
+    "uikName": "УИК №155",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1230,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -335,8 +389,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "433401571513",
+    "uikName": "УИК №156",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -389,8 +452,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "433401571514",
+    "uikName": "УИК №157",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 710,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -443,8 +515,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "433401571515",
+    "uikName": "УИК №158",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 892,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -497,8 +578,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "433401571516",
+    "uikName": "УИК №159",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 463,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -551,8 +641,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "433401571517",
+    "uikName": "УИК №160",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -605,8 +704,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "433401571518",
+    "uikName": "УИК №161",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -659,8 +767,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "433401571519",
+    "uikName": "УИК №162",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 495,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -713,8 +830,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "433401571520",
+    "uikName": "УИК №163",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 957,
       "Число бюллетеней, полученных участковыми комиссиями": 945,
@@ -767,8 +893,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "433401571521",
+    "uikName": "УИК №164",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 491,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -821,8 +956,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "433401571522",
+    "uikName": "УИК №165",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -875,8 +1019,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "433401571523",
+    "uikName": "УИК №166",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 603,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -929,8 +1082,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "433401571524",
+    "uikName": "УИК №167",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 705,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -983,8 +1145,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "433401571525",
+    "uikName": "УИК №168",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 840,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -1037,8 +1208,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "433401571526",
+    "uikName": "УИК №169",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -1091,8 +1271,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "433401571527",
+    "uikName": "УИК №170",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 909,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -1145,8 +1334,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "433401571528",
+    "uikName": "УИК №171",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1199,8 +1397,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "433401571529",
+    "uikName": "УИК №172",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -1253,8 +1460,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "433401571530",
+    "uikName": "УИК №173",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -1307,8 +1523,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "433401571531",
+    "uikName": "УИК №174",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -1361,8 +1586,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "433401571532",
+    "uikName": "УИК №175",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -1415,8 +1649,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "433401571533",
+    "uikName": "УИК №176",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -1469,8 +1712,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "433401571534",
+    "uikName": "УИК №177",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -1523,8 +1775,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "433401571535",
+    "uikName": "УИК №178",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 156,
@@ -1577,8 +1838,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "433401571536",
+    "uikName": "УИК №179",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2558,
       "Число бюллетеней, полученных участковыми комиссиями": 2425,
@@ -1631,8 +1901,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "433401571537",
+    "uikName": "УИК №180",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 535,
@@ -1685,8 +1964,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "433401571538",
+    "uikName": "УИК №181",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1545,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -1739,8 +2027,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "433401571539",
+    "uikName": "УИК №182",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1677,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -1793,8 +2090,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "433401571540",
+    "uikName": "УИК №183",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1634,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -1847,8 +2153,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "433401571541",
+    "uikName": "УИК №185",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1202,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1901,8 +2216,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "433401571542",
+    "uikName": "УИК №186",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2728,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -1955,8 +2279,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "433401571543",
+    "uikName": "УИК №187",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2741,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -2009,8 +2342,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "433401571544",
+    "uikName": "УИК №188",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1429,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2063,8 +2405,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "433401571545",
+    "uikName": "УИК №189",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1188,
       "Число бюллетеней, полученных участковыми комиссиями": 1175,
@@ -2117,8 +2468,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "433401571546",
+    "uikName": "УИК №190",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1413,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -2171,8 +2531,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "433401571547",
+    "uikName": "УИК №191",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 890,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -2225,8 +2594,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "433401571548",
+    "uikName": "УИК №192",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -2279,8 +2657,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "433401571549",
+    "uikName": "УИК №193",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2658,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2333,8 +2720,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "433401571550",
+    "uikName": "УИК №194",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2554,
       "Число бюллетеней, полученных участковыми комиссиями": 2530,
@@ -2387,8 +2783,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "433401571551",
+    "uikName": "УИК №195",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 607,
@@ -2441,8 +2846,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "433401571552",
+    "uikName": "УИК №196",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -2495,8 +2909,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "433401571553",
+    "uikName": "УИК №197",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 348,
@@ -2549,8 +2972,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "433401571554",
+    "uikName": "УИК №198",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -2603,8 +3035,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "433401571555",
+    "uikName": "УИК №199",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -2657,8 +3098,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "433401571556",
+    "uikName": "УИК №200",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 124,
@@ -2711,8 +3161,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "433401571557",
+    "uikName": "УИК №201",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2765,8 +3224,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "433401571558",
+    "uikName": "УИК №202",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -2819,8 +3287,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "433401571559",
+    "uikName": "УИК №203",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -2873,8 +3350,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "433401571560",
+    "uikName": "УИК №204",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 730,
       "Число бюллетеней, полученных участковыми комиссиями": 705,
@@ -2927,8 +3413,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "433401571561",
+    "uikName": "УИК №205",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2981,8 +3476,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "433401571562",
+    "uikName": "УИК №206",
     "tikTvd": "333300172698",
     "tikName": "Петушинская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2564,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -3035,8 +3539,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "433400971053",
+    "uikName": "УИК №70",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -3089,8 +3602,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "433400971054",
+    "uikName": "УИК №71",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1200,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3143,8 +3665,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "433400971055",
+    "uikName": "УИК №72",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1390,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -3197,8 +3728,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "433400971056",
+    "uikName": "УИК №73",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1117,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -3251,8 +3791,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "433400971057",
+    "uikName": "УИК №74",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1816,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3305,8 +3854,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "433400971058",
+    "uikName": "УИК №75",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1415,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -3359,8 +3917,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "433400971059",
+    "uikName": "УИК №76",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1597,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -3413,8 +3980,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "433400971060",
+    "uikName": "УИК №77",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1331,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -3467,8 +4043,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "433400971061",
+    "uikName": "УИК №78",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 521,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -3521,8 +4106,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "433400971062",
+    "uikName": "УИК №79",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -3575,8 +4169,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "433400971063",
+    "uikName": "УИК №80",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2558,
       "Число бюллетеней, полученных участковыми комиссиями": 2580,
@@ -3629,8 +4232,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "433400971064",
+    "uikName": "УИК №81",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1604,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -3683,8 +4295,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "433400971065",
+    "uikName": "УИК №82",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1622,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -3737,8 +4358,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "433400971066",
+    "uikName": "УИК №83",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2319,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -3791,8 +4421,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "433400971067",
+    "uikName": "УИК №84",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1842,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -3845,8 +4484,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "433400971068",
+    "uikName": "УИК №85",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2046,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -3899,8 +4547,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "433400971069",
+    "uikName": "УИК №86",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1860,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -3953,8 +4610,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "433400971070",
+    "uikName": "УИК №87",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 737,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -4007,8 +4673,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "433400971071",
+    "uikName": "УИК №88",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -4061,8 +4736,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "433400971072",
+    "uikName": "УИК №89",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 949,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -4115,8 +4799,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "433400971073",
+    "uikName": "УИК №90",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -4169,8 +4862,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "433400971074",
+    "uikName": "УИК №91",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4223,8 +4925,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "433400971075",
+    "uikName": "УИК №92",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -4277,8 +4988,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "433400971076",
+    "uikName": "УИК №93",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 730,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -4331,8 +5051,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "433400971077",
+    "uikName": "УИК №94",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -4385,8 +5114,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "433400971078",
+    "uikName": "УИК №95",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 622,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -4439,8 +5177,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "433400971079",
+    "uikName": "УИК №96",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 779,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -4493,8 +5240,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "433400971080",
+    "uikName": "УИК №97",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 757,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -4547,8 +5303,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "433400971081",
+    "uikName": "УИК №98",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -4601,8 +5366,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "433400971082",
+    "uikName": "УИК №99",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 863,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -4655,8 +5429,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "433400971083",
+    "uikName": "УИК №100",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1676,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -4709,8 +5492,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "433400971084",
+    "uikName": "УИК №101",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1034,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -4763,8 +5555,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "433400971085",
+    "uikName": "УИК №102",
     "tikTvd": "333300172699",
     "tikName": "Киржачская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -4817,8 +5618,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "433402871597",
+    "uikName": "УИК №208",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 542,
@@ -4871,8 +5681,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "433402871598",
+    "uikName": "УИК №209",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -4925,8 +5744,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "433402871599",
+    "uikName": "УИК №210",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 685,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -4979,8 +5807,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "433402871888",
+    "uikName": "УИК №211",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 382,
@@ -5033,8 +5870,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "433402871601",
+    "uikName": "УИК №212",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 337,
@@ -5087,8 +5933,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "433402871602",
+    "uikName": "УИК №213",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1107,
       "Число бюллетеней, полученных участковыми комиссиями": 1003,
@@ -5141,8 +5996,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "433402871603",
+    "uikName": "УИК №214",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 607,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -5195,8 +6059,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "433402871604",
+    "uikName": "УИК №215",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1487,
       "Число бюллетеней, полученных участковыми комиссиями": 1326,
@@ -5249,8 +6122,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "433402871605",
+    "uikName": "УИК №216",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 770,
       "Число бюллетеней, полученных участковыми комиссиями": 683,
@@ -5303,8 +6185,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "433402871606",
+    "uikName": "УИК №217",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -5357,8 +6248,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "433402871607",
+    "uikName": "УИК №218",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 294,
@@ -5411,8 +6311,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "433402871608",
+    "uikName": "УИК №219",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 463,
@@ -5465,8 +6374,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "433402871609",
+    "uikName": "УИК №220",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 656,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -5519,8 +6437,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "433402871610",
+    "uikName": "УИК №221",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 491,
       "Число бюллетеней, полученных участковыми комиссиями": 444,
@@ -5573,8 +6500,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "433402871611",
+    "uikName": "УИК №222",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -5627,8 +6563,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "433402871612",
+    "uikName": "УИК №223",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1397,
       "Число бюллетеней, полученных участковыми комиссиями": 1224,
@@ -5681,8 +6626,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "433402871613",
+    "uikName": "УИК №224",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2099,
@@ -5735,8 +6689,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "433402871614",
+    "uikName": "УИК №225",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2875,
       "Число бюллетеней, полученных участковыми комиссиями": 2559,
@@ -5789,8 +6752,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "433402871615",
+    "uikName": "УИК №226",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5843,8 +6815,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "433402871616",
+    "uikName": "УИК №227",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 700,
       "Число бюллетеней, полученных участковыми комиссиями": 692,
@@ -5897,8 +6878,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "433402871617",
+    "uikName": "УИК №228",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -5951,8 +6941,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "433402871618",
+    "uikName": "УИК №229",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 620,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -6005,8 +7004,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "433402871619",
+    "uikName": "УИК №230",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -6059,8 +7067,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "433402871620",
+    "uikName": "УИК №231",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 702,
@@ -6113,8 +7130,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "433402871621",
+    "uikName": "УИК №232",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 312,
@@ -6167,8 +7193,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "433402871622",
+    "uikName": "УИК №233",
     "tikTvd": "333300172700",
     "tikName": "Собинская  ",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -6221,8 +7256,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "433402371366",
+    "uikName": "УИК №334",
     "tikTvd": "333300172701",
     "tikName": "Суздальская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 601,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -6275,8 +7319,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "433402371367",
+    "uikName": "УИК №335",
     "tikTvd": "333300172701",
     "tikName": "Суздальская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1662,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -6329,8 +7382,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "433402371368",
+    "uikName": "УИК №336",
     "tikTvd": "333300172701",
     "tikName": "Суздальская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1281,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -6383,8 +7445,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "433402371369",
+    "uikName": "УИК №337",
     "tikTvd": "333300172701",
     "tikName": "Суздальская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1738,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6437,8 +7508,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "433402371370",
+    "uikName": "УИК №338",
     "tikTvd": "333300172701",
     "tikName": "Суздальская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2134,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -6491,8 +7571,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "433402371371",
+    "uikName": "УИК №339",
     "tikTvd": "333300172701",
     "tikName": "Суздальская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1692,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -6545,8 +7634,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "433402071286",
+    "uikName": "УИК №292",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1700,
       "Число бюллетеней, полученных участковыми комиссиями": 1678,
@@ -6599,8 +7697,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "433402071287",
+    "uikName": "УИК №293",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1738,
       "Число бюллетеней, полученных участковыми комиссиями": 1692,
@@ -6653,8 +7760,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "433402071288",
+    "uikName": "УИК №294",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 834,
       "Число бюллетеней, полученных участковыми комиссиями": 846,
@@ -6707,8 +7823,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "433402071289",
+    "uikName": "УИК №295",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 521,
@@ -6761,8 +7886,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "433402071290",
+    "uikName": "УИК №296",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 573,
@@ -6815,8 +7949,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "433402071291",
+    "uikName": "УИК №297",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -6869,8 +8012,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "433402071292",
+    "uikName": "УИК №298",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 218,
@@ -6923,8 +8075,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "433402071293",
+    "uikName": "УИК №299",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1589,
       "Число бюллетеней, полученных участковыми комиссиями": 1676,
@@ -6977,8 +8138,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "433402071294",
+    "uikName": "УИК №300",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1059,
       "Число бюллетеней, полученных участковыми комиссиями": 1068,
@@ -7031,8 +8201,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "433402071295",
+    "uikName": "УИК №301",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1616,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -7085,8 +8264,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "433402071296",
+    "uikName": "УИК №302",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 416,
       "Число бюллетеней, полученных участковыми комиссиями": 402,
@@ -7139,8 +8327,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "433402071297",
+    "uikName": "УИК №303",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1018,
       "Число бюллетеней, полученных участковыми комиссиями": 1075,
@@ -7193,8 +8390,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "433402071298",
+    "uikName": "УИК №304",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 413,
@@ -7247,8 +8453,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "433402071299",
+    "uikName": "УИК №305",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 1222,
@@ -7301,8 +8516,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "433402071300",
+    "uikName": "УИК №306",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 433,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -7355,8 +8579,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "433402071301",
+    "uikName": "УИК №307",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -7409,8 +8642,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "433402071302",
+    "uikName": "УИК №308",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 691,
       "Число бюллетеней, полученных участковыми комиссиями": 688,
@@ -7463,8 +8705,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "433402071303",
+    "uikName": "УИК №309",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 492,
       "Число бюллетеней, полученных участковыми комиссиями": 469,
@@ -7517,8 +8768,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "433402071304",
+    "uikName": "УИК №310",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 467,
@@ -7571,8 +8831,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "433402071305",
+    "uikName": "УИК №311",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2636,
       "Число бюллетеней, полученных участковыми комиссиями": 2613,
@@ -7625,8 +8894,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "433402071306",
+    "uikName": "УИК №312",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1119,
       "Число бюллетеней, полученных участковыми комиссиями": 1146,
@@ -7679,8 +8957,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "433402071307",
+    "uikName": "УИК №313",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -7733,8 +9020,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "433402071308",
+    "uikName": "УИК №314",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 211,
@@ -7787,8 +9083,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "433402071309",
+    "uikName": "УИК №315",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -7841,8 +9146,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "433402071310",
+    "uikName": "УИК №316",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 542,
       "Число бюллетеней, полученных участковыми комиссиями": 528,
@@ -7895,8 +9209,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "433402071311",
+    "uikName": "УИК №317",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 357,
@@ -7949,8 +9272,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "433402071312",
+    "uikName": "УИК №318",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1845,
       "Число бюллетеней, полученных участковыми комиссиями": 1856,
@@ -8003,8 +9335,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "433402071313",
+    "uikName": "УИК №319",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -8057,8 +9398,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "433402071314",
+    "uikName": "УИК №320",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -8111,8 +9461,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "433402071315",
+    "uikName": "УИК №321",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1615,
       "Число бюллетеней, полученных участковыми комиссиями": 1611,
@@ -8165,8 +9524,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "433402071316",
+    "uikName": "УИК №322",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -8219,8 +9587,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "433402071317",
+    "uikName": "УИК №323",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 259,
@@ -8273,8 +9650,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "433402071318",
+    "uikName": "УИК №324",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -8327,8 +9713,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "433402071319",
+    "uikName": "УИК №325",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1192,
       "Число бюллетеней, полученных участковыми комиссиями": 1183,
@@ -8381,8 +9776,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "433402071320",
+    "uikName": "УИК №326",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 259,
@@ -8435,8 +9839,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "433402071321",
+    "uikName": "УИК №327",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -8489,8 +9902,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "433402071322",
+    "uikName": "УИК №328",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 674,
       "Число бюллетеней, полученных участковыми комиссиями": 659,
@@ -8543,8 +9965,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "433402071323",
+    "uikName": "УИК №329",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 670,
       "Число бюллетеней, полученных участковыми комиссиями": 664,
@@ -8597,8 +10028,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "433402071324",
+    "uikName": "УИК №330",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 457,
       "Число бюллетеней, полученных участковыми комиссиями": 449,
@@ -8651,8 +10091,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "433402071325",
+    "uikName": "УИК №331",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 625,
       "Число бюллетеней, полученных участковыми комиссиями": 643,
@@ -8705,8 +10154,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "433402071326",
+    "uikName": "УИК №332",
     "tikTvd": "333300172702",
     "tikName": "Суздальская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 489,
       "Число бюллетеней, полученных участковыми комиссиями": 495,
@@ -8759,8 +10217,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "433401870835",
+    "uikName": "УИК №235",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2057,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -8813,8 +10280,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "433401870836",
+    "uikName": "УИК №236",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1993,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -8867,8 +10343,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "433401870837",
+    "uikName": "УИК №237",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1928,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -8921,8 +10406,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "433401870838",
+    "uikName": "УИК №238",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1924,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -8975,8 +10469,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "433401870839",
+    "uikName": "УИК №239",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2016,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -9029,8 +10532,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "433401870840",
+    "uikName": "УИК №240",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1849,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -9083,8 +10595,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "433401870841",
+    "uikName": "УИК №241",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1909,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -9137,8 +10658,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "433401870842",
+    "uikName": "УИК №242",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1709,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -9191,8 +10721,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "433401870843",
+    "uikName": "УИК №243",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1750,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -9245,8 +10784,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "433401870844",
+    "uikName": "УИК №244",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -9299,8 +10847,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "433401870845",
+    "uikName": "УИК №245",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1960,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -9353,8 +10910,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "433401870846",
+    "uikName": "УИК №246",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2009,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -9407,8 +10973,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "433401870847",
+    "uikName": "УИК №247",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1945,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9461,8 +11036,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "433401870848",
+    "uikName": "УИК №248",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1812,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -9515,8 +11099,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "433401870849",
+    "uikName": "УИК №249",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1806,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -9569,8 +11162,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "433401870850",
+    "uikName": "УИК №250",
     "tikTvd": "333300172703",
     "tikName": "Собинская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 68,
+      "oikTvd": "100100095653",
+      "oikName": "Владимирский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1938,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -9623,8 +11225,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "433401970410",
+    "uikName": "УИК №556",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1786,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9674,8 +11285,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "433401970411",
+    "uikName": "УИК №557",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -9725,8 +11345,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "433401970412",
+    "uikName": "УИК №558",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1688,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -9776,8 +11405,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "433401970413",
+    "uikName": "УИК №559",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2060,
@@ -9827,8 +11465,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "433401970414",
+    "uikName": "УИК №560",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1892,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -9878,8 +11525,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "433401970415",
+    "uikName": "УИК №561",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1656,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -9929,8 +11585,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "433401970416",
+    "uikName": "УИК №562",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 515,
@@ -9980,8 +11645,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "433401970417",
+    "uikName": "УИК №563",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1096,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10031,8 +11705,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "433401970418",
+    "uikName": "УИК №564",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1868,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10082,8 +11765,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "433401970419",
+    "uikName": "УИК №565",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 475,
@@ -10133,8 +11825,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "433401970420",
+    "uikName": "УИК №566",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1644,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -10184,8 +11885,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "433401970421",
+    "uikName": "УИК №567",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 818,
       "Число бюллетеней, полученных участковыми комиссиями": 745,
@@ -10235,8 +11945,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "433401970422",
+    "uikName": "УИК №568",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 662,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10286,8 +12005,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "433401970423",
+    "uikName": "УИК №569",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1130,
       "Число бюллетеней, полученных участковыми комиссиями": 1015,
@@ -10337,8 +12065,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "433401970424",
+    "uikName": "УИК №570",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -10388,8 +12125,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "433401970425",
+    "uikName": "УИК №571",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 855,
       "Число бюллетеней, полученных участковыми комиссиями": 765,
@@ -10439,8 +12185,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "433401970426",
+    "uikName": "УИК №572",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -10490,8 +12245,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "433401970427",
+    "uikName": "УИК №573",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1127,
       "Число бюллетеней, полученных участковыми комиссиями": 1025,
@@ -10541,8 +12305,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "433401970428",
+    "uikName": "УИК №574",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1143,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -10592,8 +12365,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "433401970429",
+    "uikName": "УИК №575",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -10643,8 +12425,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "433401970430",
+    "uikName": "УИК №576",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -10694,8 +12485,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "433401970431",
+    "uikName": "УИК №577",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -10745,8 +12545,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "433401970432",
+    "uikName": "УИК №578",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -10796,8 +12605,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "433401970433",
+    "uikName": "УИК №579",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -10847,8 +12665,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "433401970434",
+    "uikName": "УИК №580",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 969,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -10898,8 +12725,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "433401970435",
+    "uikName": "УИК №581",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -10949,8 +12785,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "433401970436",
+    "uikName": "УИК №582",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -11000,8 +12845,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "433401970437",
+    "uikName": "УИК №583",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -11051,8 +12905,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "433401970438",
+    "uikName": "УИК №584",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1060,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -11102,8 +12965,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "433401970439",
+    "uikName": "УИК №585",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -11153,8 +13025,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "433401970440",
+    "uikName": "УИК №586",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1414,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -11204,8 +13085,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "433401970441",
+    "uikName": "УИК №587",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1171,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -11255,8 +13145,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "433401970442",
+    "uikName": "УИК №588",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -11306,8 +13205,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "433401970443",
+    "uikName": "УИК №589",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -11357,8 +13265,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "433401970444",
+    "uikName": "УИК №590",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -11408,8 +13325,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "433401970445",
+    "uikName": "УИК №591",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -11459,8 +13385,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "433401970446",
+    "uikName": "УИК №592",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 652,
       "Число бюллетеней, полученных участковыми комиссиями": 585,
@@ -11510,8 +13445,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "433401970447",
+    "uikName": "УИК №593",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -11561,8 +13505,17 @@ export const duma_2003_uik_428_region_33_part_004 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "433401970448",
+    "uikName": "УИК №594",
     "tikTvd": "333300270708",
     "tikName": "Судогодская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 789,
       "Число бюллетеней, полученных участковыми комиссиями": 710,

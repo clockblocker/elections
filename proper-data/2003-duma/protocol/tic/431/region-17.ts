@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066675",
     "tikName": "Ак-Довуракская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки": 5966,
@@ -82,6 +85,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066677",
     "tikName": "Бай-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки": 6120,
@@ -154,6 +160,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066679",
     "tikName": "Барун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки": 6637,
@@ -229,6 +238,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066681",
     "tikName": "Дзун-Хемчикская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 11061,
@@ -308,6 +320,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066683",
     "tikName": "Каа-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 7297,
@@ -389,6 +404,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066685",
     "tikName": "Кызылская городская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 53249,
@@ -485,6 +503,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066687",
     "tikName": "Кызылская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки": 10722,
@@ -562,6 +583,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066689",
     "tikName": "Монгун-Тайгинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в списки": 2963,
@@ -630,6 +654,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066691",
     "tikName": "Овюрская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки": 3985,
@@ -701,6 +728,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066693",
     "tikName": "Пий-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 6952,
@@ -780,6 +810,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066695",
     "tikName": "Сут-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки": 4435,
@@ -852,6 +885,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066697",
     "tikName": "Тандинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки": 7674,
@@ -928,6 +964,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066699",
     "tikName": "Тес-Хемская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки": 4765,
@@ -1000,6 +1039,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066701",
     "tikName": "Тоджинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки": 3426,
@@ -1072,6 +1114,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066703",
     "tikName": "Улуг-Хемская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 9659,
@@ -1150,6 +1195,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066705",
     "tikName": "Чаа-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в списки": 3665,
@@ -1219,6 +1267,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066707",
     "tikName": "Чеди-Хольская ",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки": 4486,
@@ -1290,6 +1341,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200066711",
     "tikName": "Тере-Хольская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в списки": 1149,
@@ -1357,6 +1411,9 @@ export const duma_2003_tic_431_region_17 = [
     "ballot": "party",
     "tikTvd": "217200068936",
     "tikName": "Эрзинская",
+    "regionCode": "17",
+    "regionTvd": "100100095774",
+    "regionName": "Республика Тыва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки": 4422,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2055,
     "uikTvd": "436402070542",
+    "uikName": "УИК №2055",
     "tikTvd": "236200073311",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1169,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2056,
     "uikTvd": "436402070543",
+    "uikName": "УИК №2056",
     "tikTvd": "236200073311",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 573,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2057,
     "uikTvd": "436402070544",
+    "uikName": "УИК №2057",
     "tikTvd": "236200073311",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2058,
     "uikTvd": "436402070545",
+    "uikName": "УИК №2058",
     "tikTvd": "236200073311",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1054,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2059,
     "uikTvd": "436402070546",
+    "uikName": "УИК №2059",
     "tikTvd": "236200073311",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1579,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2060,
     "uikTvd": "436402070547",
+    "uikName": "УИК №2060",
     "tikTvd": "236200073311",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2061,
     "uikTvd": "436402070548",
+    "uikName": "УИК №2061",
     "tikTvd": "236200073311",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1218,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2062,
     "uikTvd": "436402070549",
+    "uikName": "УИК №2062",
     "tikTvd": "236200073311",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 856,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2063,
     "uikTvd": "436402070550",
+    "uikName": "УИК №2063",
     "tikTvd": "236200073311",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 661,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2064,
     "uikTvd": "436402070551",
+    "uikName": "УИК №2064",
     "tikTvd": "236200073311",
     "tikName": "Лискинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1078,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1601,
     "uikTvd": "436401670431",
+    "uikName": "УИК №1601",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2626,
       "Число бюллетеней, полученных участковыми комиссиями": 2490,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1602,
     "uikTvd": "436401670432",
+    "uikName": "УИК №1602",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1942,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1603,
     "uikTvd": "436401670433",
+    "uikName": "УИК №1603",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2350,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1604,
     "uikTvd": "436401670434",
+    "uikName": "УИК №1604",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1649,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1605,
     "uikTvd": "436401670435",
+    "uikName": "УИК №1605",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2373,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1606,
     "uikTvd": "436401670436",
+    "uikName": "УИК №1606",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2434,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1607,
     "uikTvd": "436401670437",
+    "uikName": "УИК №1607",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1589,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1608,
     "uikTvd": "436401670438",
+    "uikName": "УИК №1608",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2309,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1609,
     "uikTvd": "436401670439",
+    "uikName": "УИК №1609",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1610,
     "uikTvd": "436401670440",
+    "uikName": "УИК №1610",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1611,
     "uikTvd": "436401670441",
+    "uikName": "УИК №1611",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2753,
       "Число бюллетеней, полученных участковыми комиссиями": 2880,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1612,
     "uikTvd": "436401670442",
+    "uikName": "УИК №1612",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1337,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1613,
     "uikTvd": "436401670443",
+    "uikName": "УИК №1613",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1493,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1614,
     "uikTvd": "436401670444",
+    "uikName": "УИК №1614",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1664,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1615,
     "uikTvd": "436401670445",
+    "uikName": "УИК №1615",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 886,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1616,
     "uikTvd": "436401670446",
+    "uikName": "УИК №1616",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 505,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1617,
     "uikTvd": "436401670447",
+    "uikName": "УИК №1617",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 612,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1618,
     "uikTvd": "436401670448",
+    "uikName": "УИК №1618",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1619,
     "uikTvd": "436401670449",
+    "uikName": "УИК №1619",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1620,
     "uikTvd": "436401670450",
+    "uikName": "УИК №1620",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 804,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1621,
     "uikTvd": "436401670451",
+    "uikName": "УИК №1621",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1140,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1622,
     "uikTvd": "436401670452",
+    "uikName": "УИК №1622",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1623,
     "uikTvd": "436401670453",
+    "uikName": "УИК №1623",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1624,
     "uikTvd": "436401670454",
+    "uikName": "УИК №1624",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 649,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1625,
     "uikTvd": "436401670455",
+    "uikName": "УИК №1625",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 388,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1626,
     "uikTvd": "436401670456",
+    "uikName": "УИК №1626",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 430,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1627,
     "uikTvd": "436401670457",
+    "uikName": "УИК №1627",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1628,
     "uikTvd": "436401670458",
+    "uikName": "УИК №1628",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1625,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1629,
     "uikTvd": "436401670459",
+    "uikName": "УИК №1629",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2979,
       "Число бюллетеней, полученных участковыми комиссиями": 2990,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1630,
     "uikTvd": "436401670460",
+    "uikName": "УИК №1630",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 449,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1631,
     "uikTvd": "436401670461",
+    "uikName": "УИК №1631",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1080,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1632,
     "uikTvd": "436401670462",
+    "uikName": "УИК №1632",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 859,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1633,
     "uikTvd": "436401670463",
+    "uikName": "УИК №1633",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1455,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1634,
     "uikTvd": "436401670464",
+    "uikName": "УИК №1634",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 849,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1635,
     "uikTvd": "436401670465",
+    "uikName": "УИК №1635",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1572,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1636,
     "uikTvd": "436401670466",
+    "uikName": "УИК №1636",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 486,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1637,
     "uikTvd": "436401670467",
+    "uikName": "УИК №1637",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1638,
     "uikTvd": "436401670468",
+    "uikName": "УИК №1638",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 628,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1639,
     "uikTvd": "436401670469",
+    "uikName": "УИК №1639",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1879,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1640,
     "uikTvd": "436401670470",
+    "uikName": "УИК №1640",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1641,
     "uikTvd": "436401670471",
+    "uikName": "УИК №1641",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1642,
     "uikTvd": "436401670472",
+    "uikName": "УИК №1642",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 833,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1643,
     "uikTvd": "436401670473",
+    "uikName": "УИК №1643",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 776,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1644,
     "uikTvd": "436401670474",
+    "uikName": "УИК №1644",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 501,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1645,
     "uikTvd": "436401670475",
+    "uikName": "УИК №1645",
     "tikTvd": "236200073312",
     "tikName": "Калачеевская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1801,
     "uikTvd": "436401870502",
+    "uikName": "УИК №1801",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1229,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1802,
     "uikTvd": "436401870503",
+    "uikName": "УИК №1802",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1250,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1803,
     "uikTvd": "436401870504",
+    "uikName": "УИК №1803",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1426,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1804,
     "uikTvd": "436401870505",
+    "uikName": "УИК №1804",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1991,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1805,
     "uikTvd": "436401870506",
+    "uikName": "УИК №1805",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1036,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1806,
     "uikTvd": "436401870507",
+    "uikName": "УИК №1806",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1754,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1807,
     "uikTvd": "436401870508",
+    "uikName": "УИК №1807",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1663,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1808,
     "uikTvd": "436401870509",
+    "uikName": "УИК №1808",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1809,
     "uikTvd": "436401870510",
+    "uikName": "УИК №1809",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 592,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1810,
     "uikTvd": "436401870511",
+    "uikName": "УИК №1810",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 501,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1811,
     "uikTvd": "436401870512",
+    "uikName": "УИК №1811",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1812,
     "uikTvd": "436401870513",
+    "uikName": "УИК №1812",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1813,
     "uikTvd": "436401870514",
+    "uikName": "УИК №1813",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 859,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1814,
     "uikTvd": "436401870515",
+    "uikName": "УИК №1814",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1815,
     "uikTvd": "436401870516",
+    "uikName": "УИК №1815",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1816,
     "uikTvd": "436401870517",
+    "uikName": "УИК №1816",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 710,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1817,
     "uikTvd": "436401870518",
+    "uikName": "УИК №1817",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1818,
     "uikTvd": "436401870519",
+    "uikName": "УИК №1818",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1819,
     "uikTvd": "436401870520",
+    "uikName": "УИК №1819",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 411,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1820,
     "uikTvd": "436401870521",
+    "uikName": "УИК №1820",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 769,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1821,
     "uikTvd": "436401870522",
+    "uikName": "УИК №1821",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1180,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1822,
     "uikTvd": "436401870523",
+    "uikName": "УИК №1822",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 677,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1823,
     "uikTvd": "436401870524",
+    "uikName": "УИК №1823",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 699,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1824,
     "uikTvd": "436401870525",
+    "uikName": "УИК №1824",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1370,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1825,
     "uikTvd": "436401870526",
+    "uikName": "УИК №1825",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1826,
     "uikTvd": "436401870527",
+    "uikName": "УИК №1826",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1827,
     "uikTvd": "436401870528",
+    "uikName": "УИК №1827",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 714,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1828,
     "uikTvd": "436401870529",
+    "uikName": "УИК №1828",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1829,
     "uikTvd": "436401870530",
+    "uikName": "УИК №1829",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 421,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1830,
     "uikTvd": "436401870531",
+    "uikName": "УИК №1830",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1123,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1831,
     "uikTvd": "436401870532",
+    "uikName": "УИК №1831",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1133,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1832,
     "uikTvd": "436401870533",
+    "uikName": "УИК №1832",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1833,
     "uikTvd": "436401870534",
+    "uikName": "УИК №1833",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1834,
     "uikTvd": "436401870535",
+    "uikName": "УИК №1834",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1835,
     "uikTvd": "436401870536",
+    "uikName": "УИК №1835",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 494,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1836,
     "uikTvd": "436401870537",
+    "uikName": "УИК №1836",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1837,
     "uikTvd": "436401870538",
+    "uikName": "УИК №1837",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1240,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1838,
     "uikTvd": "436401870539",
+    "uikName": "УИК №1838",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 817,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1839,
     "uikTvd": "436401870540",
+    "uikName": "УИК №1839",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1840,
     "uikTvd": "436401870541",
+    "uikName": "УИК №1840",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1210,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1841,
     "uikTvd": "436401870542",
+    "uikName": "УИК №1841",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1842,
     "uikTvd": "436401870543",
+    "uikName": "УИК №1842",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 687,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1843,
     "uikTvd": "436401870544",
+    "uikName": "УИК №1843",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1844,
     "uikTvd": "436401870545",
+    "uikName": "УИК №1844",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1845,
     "uikTvd": "436401870546",
+    "uikName": "УИК №1845",
     "tikTvd": "236200073313",
     "tikName": "Кантемировская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1701,
     "uikTvd": "436401770502",
+    "uikName": "УИК №1701",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1702,
     "uikTvd": "436401770503",
+    "uikName": "УИК №1702",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1703,
     "uikTvd": "436401770504",
+    "uikName": "УИК №1703",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 704,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1704,
     "uikTvd": "436401770505",
+    "uikName": "УИК №1704",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 519,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1705,
     "uikTvd": "436401770506",
+    "uikName": "УИК №1705",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1706,
     "uikTvd": "436401770507",
+    "uikName": "УИК №1706",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 905,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1707,
     "uikTvd": "436401770508",
+    "uikName": "УИК №1707",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 509,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1708,
     "uikTvd": "436401770509",
+    "uikName": "УИК №1708",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1709,
     "uikTvd": "436401770510",
+    "uikName": "УИК №1709",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 987,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1710,
     "uikTvd": "436401770511",
+    "uikName": "УИК №1710",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1711,
     "uikTvd": "436401770512",
+    "uikName": "УИК №1711",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 585,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1712,
     "uikTvd": "436401770513",
+    "uikName": "УИК №1712",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1713,
     "uikTvd": "436401770514",
+    "uikName": "УИК №1713",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 799,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1714,
     "uikTvd": "436401770515",
+    "uikName": "УИК №1714",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1715,
     "uikTvd": "436401770516",
+    "uikName": "УИК №1715",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1716,
     "uikTvd": "436401770517",
+    "uikName": "УИК №1716",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1717,
     "uikTvd": "436401770518",
+    "uikName": "УИК №1717",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1718,
     "uikTvd": "436401770519",
+    "uikName": "УИК №1718",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 648,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1719,
     "uikTvd": "436401770520",
+    "uikName": "УИК №1719",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1342,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1720,
     "uikTvd": "436401770521",
+    "uikName": "УИК №1720",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1521,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1721,
     "uikTvd": "436401770522",
+    "uikName": "УИК №1721",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1514,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1722,
     "uikTvd": "436401770523",
+    "uikName": "УИК №1722",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1527,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_36_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1723,
     "uikTvd": "436401770524",
+    "uikName": "УИК №1723",
     "tikTvd": "236200073314",
     "tikName": "Каменская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 78,
+      "oikTvd": "100100095658",
+      "oikName": "Павловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1565,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,

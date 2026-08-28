@@ -7,2029 +7,5071 @@ export const duma_2003_uik_to_tik_region_7 = [
   {
     "uikNumber": 1,
     "uikTvd": "407400170397",
+    "uikName": "УИК №1",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "407400170398",
+    "uikName": "УИК №2",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "407400170399",
+    "uikName": "УИК №3",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "407400170400",
+    "uikName": "УИК №4",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "407400170401",
+    "uikName": "УИК №5",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "407400170402",
+    "uikName": "УИК №6",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "407400170403",
+    "uikName": "УИК №7",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "407400170404",
+    "uikName": "УИК №8",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "407400170405",
+    "uikName": "УИК №9",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "407400170406",
+    "uikName": "УИК №10",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "407400170407",
+    "uikName": "УИК №11",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "407400170408",
+    "uikName": "УИК №12",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "407400170409",
+    "uikName": "УИК №13",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "407400170410",
+    "uikName": "УИК №14",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "407400170411",
+    "uikName": "УИК №15",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "407400170412",
+    "uikName": "УИК №16",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "407400170413",
+    "uikName": "УИК №17",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "407400170414",
+    "uikName": "УИК №18",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "407400170415",
+    "uikName": "УИК №19",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "407400170416",
+    "uikName": "УИК №20",
     "tikTvd": "207200071018",
-    "tikName": "Баксанская"
+    "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "407401270374",
+    "uikName": "УИК №21",
     "tikTvd": "207200071019",
-    "tikName": "Баксанская городская"
+    "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "407401270375",
+    "uikName": "УИК №22",
     "tikTvd": "207200071019",
-    "tikName": "Баксанская городская"
+    "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "407401270376",
+    "uikName": "УИК №23",
     "tikTvd": "207200071019",
-    "tikName": "Баксанская городская"
+    "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "407401270377",
+    "uikName": "УИК №24",
     "tikTvd": "207200071019",
-    "tikName": "Баксанская городская"
+    "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "407401270378",
+    "uikName": "УИК №25",
     "tikTvd": "207200071019",
-    "tikName": "Баксанская городская"
+    "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "407401270379",
+    "uikName": "УИК №26",
     "tikTvd": "207200071019",
-    "tikName": "Баксанская городская"
+    "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "407401270380",
+    "uikName": "УИК №27",
     "tikTvd": "207200071019",
-    "tikName": "Баксанская городская"
+    "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "407401270381",
+    "uikName": "УИК №28",
     "tikTvd": "207200071019",
-    "tikName": "Баксанская городская"
+    "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "407401270382",
+    "uikName": "УИК №29",
     "tikTvd": "207200071019",
-    "tikName": "Баксанская городская"
+    "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "407401270383",
+    "uikName": "УИК №30",
     "tikTvd": "207200071019",
-    "tikName": "Баксанская городская"
+    "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "407401270384",
+    "uikName": "УИК №31",
     "tikTvd": "207200071019",
-    "tikName": "Баксанская городская"
+    "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "407400270417",
+    "uikName": "УИК №32",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "407400270418",
+    "uikName": "УИК №33",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "407400270419",
+    "uikName": "УИК №34",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "407400270420",
+    "uikName": "УИК №35",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "407400270421",
+    "uikName": "УИК №36",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "407400270422",
+    "uikName": "УИК №37",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "407400270423",
+    "uikName": "УИК №38",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "407400270424",
+    "uikName": "УИК №39",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "407400270425",
+    "uikName": "УИК №40",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "407400270426",
+    "uikName": "УИК №41",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "407400270427",
+    "uikName": "УИК №42",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "407400270428",
+    "uikName": "УИК №43",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "407400270429",
+    "uikName": "УИК №44",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "407400270430",
+    "uikName": "УИК №45",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "407400270431",
+    "uikName": "УИК №46",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "407400270432",
+    "uikName": "УИК №47",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "407400270433",
+    "uikName": "УИК №48",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "407400270434",
+    "uikName": "УИК №49",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "407400270435",
+    "uikName": "УИК №50",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "407400270436",
+    "uikName": "УИК №51",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "407400270437",
+    "uikName": "УИК №52",
     "tikTvd": "207200071017",
-    "tikName": "Зольская"
+    "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "407401370505",
+    "uikName": "УИК №53",
     "tikTvd": "207200071020",
-    "tikName": "Лескенская"
+    "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "407401370506",
+    "uikName": "УИК №54",
     "tikTvd": "207200071020",
-    "tikName": "Лескенская"
+    "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "407401370507",
+    "uikName": "УИК №55",
     "tikTvd": "207200071020",
-    "tikName": "Лескенская"
+    "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "407401370508",
+    "uikName": "УИК №56",
     "tikTvd": "207200071020",
-    "tikName": "Лескенская"
+    "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "407401370509",
+    "uikName": "УИК №57",
     "tikTvd": "207200071020",
-    "tikName": "Лескенская"
+    "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "407401370510",
+    "uikName": "УИК №58",
     "tikTvd": "207200071020",
-    "tikName": "Лескенская"
+    "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "407401370511",
+    "uikName": "УИК №59",
     "tikTvd": "207200071020",
-    "tikName": "Лескенская"
+    "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "407401370512",
+    "uikName": "УИК №60",
     "tikTvd": "207200071020",
-    "tikName": "Лескенская"
+    "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "407401370513",
+    "uikName": "УИК №61",
     "tikTvd": "207200071020",
-    "tikName": "Лескенская"
+    "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "407401370514",
+    "uikName": "УИК №62",
     "tikTvd": "207200071020",
-    "tikName": "Лескенская"
+    "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "407401370515",
+    "uikName": "УИК №63",
     "tikTvd": "207200071020",
-    "tikName": "Лескенская"
+    "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "407400370365",
+    "uikName": "УИК №64",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "407400370366",
+    "uikName": "УИК №65",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "407400370367",
+    "uikName": "УИК №66",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "407400370368",
+    "uikName": "УИК №67",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "407400370369",
+    "uikName": "УИК №68",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "407400370370",
+    "uikName": "УИК №69",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "407400370371",
+    "uikName": "УИК №70",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "407400370372",
+    "uikName": "УИК №71",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "407400370373",
+    "uikName": "УИК №72",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "407400370374",
+    "uikName": "УИК №73",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "407400370375",
+    "uikName": "УИК №74",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "407400370376",
+    "uikName": "УИК №75",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "407400370377",
+    "uikName": "УИК №76",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "407400370378",
+    "uikName": "УИК №77",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "407400370379",
+    "uikName": "УИК №78",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "407400370380",
+    "uikName": "УИК №79",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "407400370381",
+    "uikName": "УИК №80",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "407400370382",
+    "uikName": "УИК №81",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "407400370383",
+    "uikName": "УИК №82",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "407400370384",
+    "uikName": "УИК №83",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "407400370385",
+    "uikName": "УИК №84",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "407400370386",
+    "uikName": "УИК №85",
     "tikTvd": "207200071015",
-    "tikName": "Майская"
+    "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "407400470482",
+    "uikName": "УИК №86",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "407400470483",
+    "uikName": "УИК №87",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "407400470484",
+    "uikName": "УИК №88",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "407400470485",
+    "uikName": "УИК №89",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "407400470486",
+    "uikName": "УИК №90",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "407400470487",
+    "uikName": "УИК №91",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "407400470488",
+    "uikName": "УИК №92",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "407400470489",
+    "uikName": "УИК №93",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "407400470490",
+    "uikName": "УИК №94",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "407400470491",
+    "uikName": "УИК №95",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "407400470492",
+    "uikName": "УИК №96",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "407400470493",
+    "uikName": "УИК №97",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "407400470494",
+    "uikName": "УИК №98",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "407400470495",
+    "uikName": "УИК №99",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "407400470496",
+    "uikName": "УИК №100",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "407400470497",
+    "uikName": "УИК №101",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "407400470498",
+    "uikName": "УИК №102",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "407400470499",
+    "uikName": "УИК №103",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "407400470500",
+    "uikName": "УИК №104",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "407400470501",
+    "uikName": "УИК №105",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "407400470502",
+    "uikName": "УИК №106",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "407400470503",
+    "uikName": "УИК №107",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "407400470504",
+    "uikName": "УИК №108",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "407400470505",
+    "uikName": "УИК №109",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "407400470506",
+    "uikName": "УИК №110",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "407400470507",
+    "uikName": "УИК №111",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "407400470508",
+    "uikName": "УИК №112",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "407400470509",
+    "uikName": "УИК №113",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "407400470510",
+    "uikName": "УИК №114",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "407400470511",
+    "uikName": "УИК №115",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "407400470512",
+    "uikName": "УИК №116",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "407400470513",
+    "uikName": "УИК №117",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "407400470514",
+    "uikName": "УИК №118",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "407400470515",
+    "uikName": "УИК №119",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "407400470516",
+    "uikName": "УИК №120",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "407400470517",
+    "uikName": "УИК №121",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "407400470518",
+    "uikName": "УИК №122",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "407400470519",
+    "uikName": "УИК №123",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "407400470520",
+    "uikName": "УИК №124",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "407400470521",
+    "uikName": "УИК №125",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "407400470522",
+    "uikName": "УИК №126",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "407400470523",
+    "uikName": "УИК №127",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "407400470524",
+    "uikName": "УИК №128",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "407400470525",
+    "uikName": "УИК №129",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "407400470526",
+    "uikName": "УИК №130",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "407400470527",
+    "uikName": "УИК №131",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "407400470528",
+    "uikName": "УИК №132",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "407400470529",
+    "uikName": "УИК №133",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "407400470530",
+    "uikName": "УИК №134",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "407400470531",
+    "uikName": "УИК №135",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "407400470532",
+    "uikName": "УИК №136",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "407400470533",
+    "uikName": "УИК №137",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "407400470534",
+    "uikName": "УИК №138",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "407400470535",
+    "uikName": "УИК №139",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "407400470536",
+    "uikName": "УИК №140",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "407400470537",
+    "uikName": "УИК №141",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "407400470538",
+    "uikName": "УИК №142",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "407400470539",
+    "uikName": "УИК №143",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "407400470540",
+    "uikName": "УИК №144",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "407400470541",
+    "uikName": "УИК №145",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "407400470542",
+    "uikName": "УИК №146",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "407400470543",
+    "uikName": "УИК №147",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "407400470544",
+    "uikName": "УИК №148",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "407400470545",
+    "uikName": "УИК №149",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "407400470546",
+    "uikName": "УИК №150",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "407400470547",
+    "uikName": "УИК №151",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "407400470548",
+    "uikName": "УИК №152",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "407400470549",
+    "uikName": "УИК №153",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "407400470550",
+    "uikName": "УИК №154",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "407400470551",
+    "uikName": "УИК №155",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "407400470552",
+    "uikName": "УИК №156",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "407400470553",
+    "uikName": "УИК №157",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "407400470554",
+    "uikName": "УИК №158",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "407400470555",
+    "uikName": "УИК №159",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "407400470556",
+    "uikName": "УИК №160",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "407400470557",
+    "uikName": "УИК №161",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "407400470558",
+    "uikName": "УИК №162",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "407400470559",
+    "uikName": "УИК №163",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "407400470560",
+    "uikName": "УИК №164",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "407400470561",
+    "uikName": "УИК №165",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "407400470562",
+    "uikName": "УИК №166",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "407400470563",
+    "uikName": "УИК №167",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "407400470564",
+    "uikName": "УИК №168",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "407400470565",
+    "uikName": "УИК №169",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "407400470566",
+    "uikName": "УИК №170",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "407400470567",
+    "uikName": "УИК №171",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "407400470568",
+    "uikName": "УИК №172",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "407400470569",
+    "uikName": "УИК №173",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "407400470570",
+    "uikName": "УИК №174",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "407400470571",
+    "uikName": "УИК №175",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "407400470572",
+    "uikName": "УИК №176",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "407400470573",
+    "uikName": "УИК №177",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "407400470574",
+    "uikName": "УИК №178",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "407400470575",
+    "uikName": "УИК №179",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "407400470576",
+    "uikName": "УИК №180",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "407400470577",
+    "uikName": "УИК №181",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "407400470578",
+    "uikName": "УИК №182",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "407400470579",
+    "uikName": "УИК №183",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "407400470580",
+    "uikName": "УИК №184",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "407400470581",
+    "uikName": "УИК №185",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "407400470582",
+    "uikName": "УИК №186",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "407400470583",
+    "uikName": "УИК №187",
     "tikTvd": "207200071016",
-    "tikName": "Нальчикская городская"
+    "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "407401170424",
+    "uikName": "УИК №188",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "407401170425",
+    "uikName": "УИК №189",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "407401170426",
+    "uikName": "УИК №190",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "407401170427",
+    "uikName": "УИК №191",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "407401170428",
+    "uikName": "УИК №192",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "407401170429",
+    "uikName": "УИК №193",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "407401170430",
+    "uikName": "УИК №194",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "407401170431",
+    "uikName": "УИК №195",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "407401170432",
+    "uikName": "УИК №196",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "407401170433",
+    "uikName": "УИК №197",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "407401170434",
+    "uikName": "УИК №198",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "407401170435",
+    "uikName": "УИК №199",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "407401170436",
+    "uikName": "УИК №200",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "407401170437",
+    "uikName": "УИК №201",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "407401170438",
+    "uikName": "УИК №202",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "407401170439",
+    "uikName": "УИК №203",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "407401170440",
+    "uikName": "УИК №204",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "407401170441",
+    "uikName": "УИК №205",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "407401170442",
+    "uikName": "УИК №206",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "407401170443",
+    "uikName": "УИК №207",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "407401170444",
+    "uikName": "УИК №208",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "407401170445",
+    "uikName": "УИК №209",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "407401170446",
+    "uikName": "УИК №210",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "407401170447",
+    "uikName": "УИК №211",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "407401170448",
+    "uikName": "УИК №212",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "407401170449",
+    "uikName": "УИК №213",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "407401170450",
+    "uikName": "УИК №214",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "407401170451",
+    "uikName": "УИК №215",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "407401170452",
+    "uikName": "УИК №216",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "407401170453",
+    "uikName": "УИК №217",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "407401170454",
+    "uikName": "УИК №218",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "407401170455",
+    "uikName": "УИК №219",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "407401170456",
+    "uikName": "УИК №220",
     "tikTvd": "207200071008",
-    "tikName": "Прохладненская"
+    "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "407400570353",
+    "uikName": "УИК №221",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "407400570354",
+    "uikName": "УИК №222",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "407400570355",
+    "uikName": "УИК №223",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "407400570356",
+    "uikName": "УИК №224",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "407400570357",
+    "uikName": "УИК №225",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "407400570358",
+    "uikName": "УИК №226",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "407400570359",
+    "uikName": "УИК №227",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "407400570360",
+    "uikName": "УИК №228",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "407400570361",
+    "uikName": "УИК №229",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "407400570362",
+    "uikName": "УИК №230",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "407400570363",
+    "uikName": "УИК №231",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "407400570364",
+    "uikName": "УИК №232",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "407400570365",
+    "uikName": "УИК №233",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "407400570366",
+    "uikName": "УИК №234",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "407400570367",
+    "uikName": "УИК №235",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "407400570368",
+    "uikName": "УИК №236",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "407400570369",
+    "uikName": "УИК №237",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "407400570370",
+    "uikName": "УИК №238",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "407400570371",
+    "uikName": "УИК №239",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "407400570372",
+    "uikName": "УИК №240",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "407400570373",
+    "uikName": "УИК №241",
     "tikTvd": "207200071014",
-    "tikName": "Прохладненская городская"
+    "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "407400670589",
+    "uikName": "УИК №242",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "407400670590",
+    "uikName": "УИК №243",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "407400670591",
+    "uikName": "УИК №244",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "407400670592",
+    "uikName": "УИК №245",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "407400670593",
+    "uikName": "УИК №246",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "407400670594",
+    "uikName": "УИК №247",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "407400670595",
+    "uikName": "УИК №248",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "407400670596",
+    "uikName": "УИК №249",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "407400670597",
+    "uikName": "УИК №250",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "407400670598",
+    "uikName": "УИК №251",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "407400670599",
+    "uikName": "УИК №252",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "407400670600",
+    "uikName": "УИК №253",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "407400670601",
+    "uikName": "УИК №254",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "407400670602",
+    "uikName": "УИК №255",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "407400670603",
+    "uikName": "УИК №256",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "407400670604",
+    "uikName": "УИК №257",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "407400670605",
+    "uikName": "УИК №258",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "407400670606",
+    "uikName": "УИК №259",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "407400670607",
+    "uikName": "УИК №260",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "407400670608",
+    "uikName": "УИК №261",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "407400670609",
+    "uikName": "УИК №262",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "407400670610",
+    "uikName": "УИК №263",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "407400670611",
+    "uikName": "УИК №264",
     "tikTvd": "207200071012",
-    "tikName": "Терская "
+    "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "407400870368",
+    "uikName": "УИК №265",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "407400870369",
+    "uikName": "УИК №266",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "407400870370",
+    "uikName": "УИК №267",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "407400870371",
+    "uikName": "УИК №268",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "407400870372",
+    "uikName": "УИК №269",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "407400870373",
+    "uikName": "УИК №270",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "407400870374",
+    "uikName": "УИК №271",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "407400870375",
+    "uikName": "УИК №272",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "407400870376",
+    "uikName": "УИК №273",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "407400870377",
+    "uikName": "УИК №274",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "407400870378",
+    "uikName": "УИК №275",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "407400870379",
+    "uikName": "УИК №276",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "407400870380",
+    "uikName": "УИК №277",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "407400870381",
+    "uikName": "УИК №278",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "407400870382",
+    "uikName": "УИК №279",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "407400870383",
+    "uikName": "УИК №280",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "407400870384",
+    "uikName": "УИК №281",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "407400870385",
+    "uikName": "УИК №282",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "407400870386",
+    "uikName": "УИК №283",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "407400870387",
+    "uikName": "УИК №284",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "407400870388",
+    "uikName": "УИК №285",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "407400870389",
+    "uikName": "УИК №286",
     "tikTvd": "207200071010",
-    "tikName": "Урванская"
+    "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "407400970403",
+    "uikName": "УИК №287",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "407400970427",
+    "uikName": "УИК №288",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "407400970429",
+    "uikName": "УИК №289",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "407400970431",
+    "uikName": "УИК №290",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "407400970374",
+    "uikName": "УИК №291",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "407400970376",
+    "uikName": "УИК №292",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "407400970433",
+    "uikName": "УИК №293",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "407400970435",
+    "uikName": "УИК №294",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "407400970437",
+    "uikName": "УИК №295",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "407400970439",
+    "uikName": "УИК №296",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "407400970372",
+    "uikName": "УИК №297",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "407400970378",
+    "uikName": "УИК №298",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "407400970380",
+    "uikName": "УИК №299",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "407400970370",
+    "uikName": "УИК №300",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "407400970441",
+    "uikName": "УИК №301",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "407400970425",
+    "uikName": "УИК №302",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "407400970423",
+    "uikName": "УИК №303",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "407400970486",
+    "uikName": "УИК №304",
     "tikTvd": "207200071011",
-    "tikName": "Чегемская"
+    "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "407401070821",
+    "uikName": "УИК №305",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "407401070822",
+    "uikName": "УИК №306",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "407401070823",
+    "uikName": "УИК №307",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "407401070824",
+    "uikName": "УИК №308",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "407401070825",
+    "uikName": "УИК №309",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "407401070826",
+    "uikName": "УИК №310",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "407401070827",
+    "uikName": "УИК №311",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "407401070828",
+    "uikName": "УИК №312",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "407401070829",
+    "uikName": "УИК №313",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "407401070830",
+    "uikName": "УИК №314",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "407401070831",
+    "uikName": "УИК №315",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "407401070832",
+    "uikName": "УИК №316",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "407401070833",
+    "uikName": "УИК №317",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "407401070834",
+    "uikName": "УИК №318",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "407401070835",
+    "uikName": "УИК №319",
     "tikTvd": "207200071009",
-    "tikName": "Черекская"
+    "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "407400770403",
+    "uikName": "УИК  320",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "407400770404",
+    "uikName": "УИК  321",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "407400770405",
+    "uikName": "УИК  322",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "407400770406",
+    "uikName": "УИК  323",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "407400770407",
+    "uikName": "УИК  324",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "407400770408",
+    "uikName": "УИК  325",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "407400770409",
+    "uikName": "УИК  326",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "407400770410",
+    "uikName": "УИК  327",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "407400770411",
+    "uikName": "УИК  328",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "407400770412",
+    "uikName": "УИК  329",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "407400770413",
+    "uikName": "УИК  330",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "407400770414",
+    "uikName": "УИК  331",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "407400770415",
+    "uikName": "УИК  332",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "407400770416",
+    "uikName": "УИК  333",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "407400770417",
+    "uikName": "УИК  334",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "407400770418",
+    "uikName": "УИК  335",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "407400770419",
+    "uikName": "УИК  336",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "407400770420",
+    "uikName": "УИК  337",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "407400770421",
+    "uikName": "УИК  338",
     "tikTvd": "207200071013",
-    "tikName": "Эльбрусская"
+    "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
+    "district": {
+      "districtNumber": 14,
+      "oikTvd": "100100095871",
+      "oikName": "Кабардино-Балкарский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

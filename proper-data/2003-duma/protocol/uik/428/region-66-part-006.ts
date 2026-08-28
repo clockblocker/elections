@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2331,
     "uikTvd": "466403866785",
+    "uikName": "УИК №2331",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 994,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2332,
     "uikTvd": "466403866786",
+    "uikName": "УИК №2332",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1958,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2051,
     "uikTvd": "466403566626",
+    "uikName": "УИК №2051",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1200,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -151,8 +178,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2052,
     "uikTvd": "466403566627",
+    "uikName": "УИК №2052",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1417,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2053,
     "uikTvd": "466403566628",
+    "uikName": "УИК №2053",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1231,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -247,8 +292,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2054,
     "uikTvd": "466403566629",
+    "uikName": "УИК №2054",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1357,
       "Число бюллетеней, полученных участковыми комиссиями": 1210,
@@ -295,8 +349,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2055,
     "uikTvd": "466403566630",
+    "uikName": "УИК №2055",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 860,
       "Число бюллетеней, полученных участковыми комиссиями": 765,
@@ -343,8 +406,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2056,
     "uikTvd": "466403566631",
+    "uikName": "УИК №2056",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2054,
       "Число бюллетеней, полученных участковыми комиссиями": 1745,
@@ -391,8 +463,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2057,
     "uikTvd": "466403566632",
+    "uikName": "УИК №2057",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -439,8 +520,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2058,
     "uikTvd": "466403566633",
+    "uikName": "УИК №2058",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 903,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -487,8 +577,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2059,
     "uikTvd": "466403566634",
+    "uikName": "УИК №2059",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1745,
@@ -535,8 +634,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2060,
     "uikTvd": "466403566635",
+    "uikName": "УИК №2060",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1959,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -583,8 +691,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2061,
     "uikTvd": "466403566636",
+    "uikName": "УИК №2061",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1320,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -631,8 +748,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2062,
     "uikTvd": "466403566637",
+    "uikName": "УИК №2062",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1403,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -679,8 +805,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2063,
     "uikTvd": "466403566638",
+    "uikName": "УИК №2063",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -727,8 +862,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2064,
     "uikTvd": "466403566639",
+    "uikName": "УИК №2064",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1538,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -775,8 +919,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2065,
     "uikTvd": "466403566640",
+    "uikName": "УИК №2065",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1483,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -823,8 +976,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2066,
     "uikTvd": "466403566641",
+    "uikName": "УИК №2066",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 906,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -871,8 +1033,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2067,
     "uikTvd": "466403566642",
+    "uikName": "УИК №2067",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1385,
       "Число бюллетеней, полученных участковыми комиссиями": 1215,
@@ -919,8 +1090,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2068,
     "uikTvd": "466403566643",
+    "uikName": "УИК №2068",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1132,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -967,8 +1147,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2069,
     "uikTvd": "466403566644",
+    "uikName": "УИК №2069",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 750,
       "Число бюллетеней, полученных участковыми комиссиями": 685,
@@ -1015,8 +1204,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2070,
     "uikTvd": "466403566645",
+    "uikName": "УИК №2070",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -1063,8 +1261,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2071,
     "uikTvd": "466403566646",
+    "uikName": "УИК №2071",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1111,8 +1318,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2072,
     "uikTvd": "466403566647",
+    "uikName": "УИК №2072",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1113,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1159,8 +1375,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2073,
     "uikTvd": "466403566648",
+    "uikName": "УИК №2073",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 832,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -1207,8 +1432,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2074,
     "uikTvd": "466403566649",
+    "uikName": "УИК №2074",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1527,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -1255,8 +1489,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2075,
     "uikTvd": "466403566650",
+    "uikName": "УИК №2075",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 978,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -1303,8 +1546,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2076,
     "uikTvd": "466403566651",
+    "uikName": "УИК №2076",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -1351,8 +1603,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2077,
     "uikTvd": "466403566652",
+    "uikName": "УИК №2077",
     "tikTvd": "366300466954",
     "tikName": "Красноуфимская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -1399,8 +1660,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "466405466818",
+    "uikName": "УИК №459",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -1447,8 +1717,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "466405466819",
+    "uikName": "УИК №460",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1035,
       "Число бюллетеней, полученных участковыми комиссиями": 1023,
@@ -1495,8 +1774,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "466405466820",
+    "uikName": "УИК №461",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -1543,8 +1831,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "466405466821",
+    "uikName": "УИК №462",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -1591,8 +1888,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "466405466822",
+    "uikName": "УИК №463",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -1639,8 +1945,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "466405466823",
+    "uikName": "УИК №464",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 409,
@@ -1687,8 +2002,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "466405466824",
+    "uikName": "УИК №465",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -1735,8 +2059,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "466405466825",
+    "uikName": "УИК №466",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 577,
       "Число бюллетеней, полученных участковыми комиссиями": 548,
@@ -1783,8 +2116,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "466405466826",
+    "uikName": "УИК №467",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -1831,8 +2173,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "466405466827",
+    "uikName": "УИК №468",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 473,
       "Число бюллетеней, полученных участковыми комиссиями": 449,
@@ -1879,8 +2230,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "466405466828",
+    "uikName": "УИК №469",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 406,
@@ -1927,8 +2287,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "466405466829",
+    "uikName": "УИК №470",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 368,
       "Число бюллетеней, полученных участковыми комиссиями": 368,
@@ -1975,8 +2344,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "466405466830",
+    "uikName": "УИК №471",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -2023,8 +2401,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "466405466831",
+    "uikName": "УИК №472",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1643,
@@ -2071,8 +2458,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "466405466832",
+    "uikName": "УИК №473",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -2119,8 +2515,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "466405466833",
+    "uikName": "УИК №474",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 373,
@@ -2167,8 +2572,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "466405466834",
+    "uikName": "УИК №475",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -2215,8 +2629,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "466405466835",
+    "uikName": "УИК №476",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 662,
       "Число бюллетеней, полученных участковыми комиссиями": 671,
@@ -2263,8 +2686,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "466405466836",
+    "uikName": "УИК №477",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 347,
@@ -2311,8 +2743,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "466405466837",
+    "uikName": "УИК №478",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 444,
@@ -2359,8 +2800,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "466405466838",
+    "uikName": "УИК №479",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -2407,8 +2857,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "466405466839",
+    "uikName": "УИК №480",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 326,
@@ -2455,8 +2914,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "466405466840",
+    "uikName": "УИК №481",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -2503,8 +2971,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "466405466841",
+    "uikName": "УИК №482",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1812,
       "Число бюллетеней, полученных участковыми комиссиями": 1773,
@@ -2551,8 +3028,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "466405466842",
+    "uikName": "УИК №483",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -2599,8 +3085,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "466405466843",
+    "uikName": "УИК №484",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 326,
@@ -2647,8 +3142,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "466405466844",
+    "uikName": "УИК №485",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -2695,8 +3199,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "466405466845",
+    "uikName": "УИК №486",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 332,
       "Число бюллетеней, полученных участковыми комиссиями": 301,
@@ -2743,8 +3256,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "466405466846",
+    "uikName": "УИК №487",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -2791,8 +3313,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "466405466847",
+    "uikName": "УИК №488",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1128,
       "Число бюллетеней, полученных участковыми комиссиями": 1172,
@@ -2839,8 +3370,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "466405466848",
+    "uikName": "УИК №489",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1032,
       "Число бюллетеней, полученных участковыми комиссиями": 995,
@@ -2887,8 +3427,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "466405466849",
+    "uikName": "УИК №490",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 84,
@@ -2935,8 +3484,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "466405466850",
+    "uikName": "УИК №491",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1576,
       "Число бюллетеней, полученных участковыми комиссиями": 1512,
@@ -2983,8 +3541,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "466405466851",
+    "uikName": "УИК №492",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 933,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -3031,8 +3598,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "466405466852",
+    "uikName": "УИК №493",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 441,
       "Число бюллетеней, полученных участковыми комиссиями": 426,
@@ -3079,8 +3655,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "466405466853",
+    "uikName": "УИК №494",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3127,8 +3712,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "466405466854",
+    "uikName": "УИК №495",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -3175,8 +3769,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "466405466855",
+    "uikName": "УИК №496",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 495,
@@ -3223,8 +3826,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "466405466856",
+    "uikName": "УИК №497",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 334,
@@ -3271,8 +3883,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "466405466857",
+    "uikName": "УИК №498",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 93,
@@ -3319,8 +3940,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "466405466858",
+    "uikName": "УИК №499",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -3367,8 +3997,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "466405466859",
+    "uikName": "УИК №500",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -3415,8 +4054,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "466405466860",
+    "uikName": "УИК №501",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 323,
@@ -3463,8 +4111,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "466405466861",
+    "uikName": "УИК №502",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -3511,8 +4168,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "466405466862",
+    "uikName": "УИК №503",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 782,
       "Число бюллетеней, полученных участковыми комиссиями": 782,
@@ -3559,8 +4225,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "466405466863",
+    "uikName": "УИК №504",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 403,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -3607,8 +4282,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "466405466864",
+    "uikName": "УИК №505",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 573,
@@ -3655,8 +4339,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "466405466865",
+    "uikName": "УИК №506",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3703,8 +4396,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "466405466866",
+    "uikName": "УИК №507",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 501,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -3751,8 +4453,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "466405466867",
+    "uikName": "УИК №508",
     "tikTvd": "366300466955",
     "tikName": "Красноуфимская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 434,
@@ -3799,8 +4510,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2559,
     "uikTvd": "466407166715",
+    "uikName": "УИК №2559",
     "tikTvd": "366300466956",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 799,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -3847,8 +4567,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2560,
     "uikTvd": "466407166716",
+    "uikName": "УИК №2560",
     "tikTvd": "366300466956",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1020,
       "Число бюллетеней, полученных участковыми комиссиями": 1010,
@@ -3895,8 +4624,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2561,
     "uikTvd": "466407166717",
+    "uikName": "УИК №2561",
     "tikTvd": "366300466956",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1305,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -3943,8 +4681,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2562,
     "uikTvd": "466407166718",
+    "uikName": "УИК №2562",
     "tikTvd": "366300466956",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1076,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -3991,8 +4738,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2563,
     "uikTvd": "466407166719",
+    "uikName": "УИК №2563",
     "tikTvd": "366300466956",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1182,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -4039,8 +4795,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2564,
     "uikTvd": "466407166720",
+    "uikName": "УИК №2564",
     "tikTvd": "366300466956",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1227,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4087,8 +4852,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2565,
     "uikTvd": "466407166721",
+    "uikName": "УИК №2565",
     "tikTvd": "366300466956",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1163,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -4135,8 +4909,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2566,
     "uikTvd": "466407166722",
+    "uikName": "УИК №2566",
     "tikTvd": "366300466956",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -4183,8 +4966,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2567,
     "uikTvd": "466407166723",
+    "uikName": "УИК №2567",
     "tikTvd": "366300466956",
     "tikName": "Бисертская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -4231,8 +5023,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "466400368373",
+    "uikName": "УИК  97",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1723,
@@ -4279,8 +5080,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "466400368374",
+    "uikName": "УИК  98",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 654,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -4327,8 +5137,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "466400368375",
+    "uikName": "УИК  99",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1206,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -4375,8 +5194,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "466400368376",
+    "uikName": "УИК  100",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2335,
       "Число бюллетеней, полученных участковыми комиссиями": 2269,
@@ -4423,8 +5251,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "466400368377",
+    "uikName": "УИК  101",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2463,
       "Число бюллетеней, полученных участковыми комиссиями": 2738,
@@ -4471,8 +5308,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "466400368378",
+    "uikName": "УИК  102",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2078,
       "Число бюллетеней, полученных участковыми комиссиями": 2060,
@@ -4519,8 +5365,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "466400368379",
+    "uikName": "УИК  103",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 316,
@@ -4567,8 +5422,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "466400368380",
+    "uikName": "УИК  104",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 630,
       "Число бюллетеней, полученных участковыми комиссиями": 632,
@@ -4615,8 +5479,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "466400368381",
+    "uikName": "УИК  105",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 71,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -4663,8 +5536,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "466400368382",
+    "uikName": "УИК  106",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 68,
@@ -4711,8 +5593,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "466400368383",
+    "uikName": "УИК  107",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -4759,8 +5650,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "466400368384",
+    "uikName": "УИК  108",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -4807,8 +5707,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "466400368385",
+    "uikName": "УИК  109",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -4855,8 +5764,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "466400368386",
+    "uikName": "УИК  110",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 67,
@@ -4903,8 +5821,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "466400368387",
+    "uikName": "УИК  111",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -4951,8 +5878,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "466400368388",
+    "uikName": "УИК  112",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 34,
       "Число бюллетеней, полученных участковыми комиссиями": 34,
@@ -4999,8 +5935,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "466400368389",
+    "uikName": "УИК  113",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -5047,8 +5992,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "466400368390",
+    "uikName": "УИК  114",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 582,
       "Число бюллетеней, полученных участковыми комиссиями": 582,
@@ -5095,8 +6049,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "466400368391",
+    "uikName": "УИК  115",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -5143,8 +6106,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "466400368392",
+    "uikName": "УИК  116",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 506,
@@ -5191,8 +6163,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "466400368393",
+    "uikName": "УИК  117",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -5239,8 +6220,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "466400368394",
+    "uikName": "УИК  118",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 68,
@@ -5287,8 +6277,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "466400368395",
+    "uikName": "УИК  119",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1362,
       "Число бюллетеней, полученных участковыми комиссиями": 1362,
@@ -5335,8 +6334,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "466400368396",
+    "uikName": "УИК  120",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 84,
@@ -5383,8 +6391,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "466400368397",
+    "uikName": "УИК  121",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -5431,8 +6448,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "466400368398",
+    "uikName": "УИК  122",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 197,
@@ -5479,8 +6505,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "466400368399",
+    "uikName": "УИК  123",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 89,
@@ -5527,8 +6562,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "466400368400",
+    "uikName": "УИК  124",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -5575,8 +6619,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "466400368401",
+    "uikName": "УИК  125",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 324,
@@ -5623,8 +6676,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "466400368402",
+    "uikName": "УИК  126",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 634,
       "Число бюллетеней, полученных участковыми комиссиями": 645,
@@ -5671,8 +6733,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "466400368403",
+    "uikName": "УИК  127",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -5719,8 +6790,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "466400368404",
+    "uikName": "УИК  128",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 528,
@@ -5767,8 +6847,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "466400368405",
+    "uikName": "УИК  129",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 859,
       "Число бюллетеней, полученных участковыми комиссиями": 855,
@@ -5815,8 +6904,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "466400368406",
+    "uikName": "УИК  130",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 56,
@@ -5863,8 +6961,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "466400368407",
+    "uikName": "УИК  131",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 67,
@@ -5911,8 +7018,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "466400368408",
+    "uikName": "УИК  132",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -5959,8 +7075,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "466400368409",
+    "uikName": "УИК  133",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1202,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6007,8 +7132,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "466400368410",
+    "uikName": "УИК  134",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 213,
@@ -6055,8 +7189,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "466400368411",
+    "uikName": "УИК  135",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -6103,8 +7246,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "466400368412",
+    "uikName": "УИК  136",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 86,
@@ -6151,8 +7303,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "466400368413",
+    "uikName": "УИК  137",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 802,
       "Число бюллетеней, полученных участковыми комиссиями": 802,
@@ -6199,8 +7360,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "466400368414",
+    "uikName": "УИК  138",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -6247,8 +7417,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "466400368415",
+    "uikName": "УИК  139",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 303,
@@ -6295,8 +7474,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "466400368416",
+    "uikName": "УИК  140",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -6343,8 +7531,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "466400368417",
+    "uikName": "УИК  141",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 277,
@@ -6391,8 +7588,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "466400368418",
+    "uikName": "УИК  142",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 614,
@@ -6439,8 +7645,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "466400368419",
+    "uikName": "УИК  143",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 58,
@@ -6487,8 +7702,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "466400368420",
+    "uikName": "УИК  144",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 68,
@@ -6535,8 +7759,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "466400368421",
+    "uikName": "УИК  145",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 702,
       "Число бюллетеней, полученных участковыми комиссиями": 701,
@@ -6583,8 +7816,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "466400368422",
+    "uikName": "УИК  146",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -6631,8 +7873,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "466400368423",
+    "uikName": "УИК  147",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 242,
@@ -6679,8 +7930,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "466400368424",
+    "uikName": "УИК  148",
     "tikTvd": "366300466957",
     "tikName": "Артинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -6727,8 +7987,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1177,
     "uikTvd": "466401166794",
+    "uikName": "УИК  1177",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2774,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6775,8 +8044,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1178,
     "uikTvd": "466401166795",
+    "uikName": "УИК  1178",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2712,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6823,8 +8101,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1179,
     "uikTvd": "466401166796",
+    "uikName": "УИК  1179",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1175,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6871,8 +8158,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1180,
     "uikTvd": "466401166797",
+    "uikName": "УИК  1180",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2037,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6919,8 +8215,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1181,
     "uikTvd": "466401166798",
+    "uikName": "УИК  1181",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2157,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6967,8 +8272,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1182,
     "uikTvd": "466401166799",
+    "uikName": "УИК  1182",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2566,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7015,8 +8329,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1183,
     "uikTvd": "466401166800",
+    "uikName": "УИК  1183",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2167,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7063,8 +8386,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1184,
     "uikTvd": "466401166801",
+    "uikName": "УИК  1184",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1820,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7111,8 +8443,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1185,
     "uikTvd": "466401166802",
+    "uikName": "УИК  1185",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1258,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7159,8 +8500,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1186,
     "uikTvd": "466401166803",
+    "uikName": "УИК  1186",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2648,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7207,8 +8557,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1187,
     "uikTvd": "466401166804",
+    "uikName": "УИК  1187",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2919,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7255,8 +8614,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1188,
     "uikTvd": "466401166805",
+    "uikName": "УИК  1188",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2629,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7303,8 +8671,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1189,
     "uikTvd": "466401166806",
+    "uikName": "УИК  1189",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7351,8 +8728,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1190,
     "uikTvd": "466401166807",
+    "uikName": "УИК  1190",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1217,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7399,8 +8785,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1191,
     "uikTvd": "466401166808",
+    "uikName": "УИК  1191",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2103,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7447,8 +8842,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1192,
     "uikTvd": "466401166809",
+    "uikName": "УИК  1192",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1471,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7495,8 +8899,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1193,
     "uikTvd": "466401166810",
+    "uikName": "УИК  1193",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3017,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -7543,8 +8956,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1194,
     "uikTvd": "466401166811",
+    "uikName": "УИК  1194",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1747,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7591,8 +9013,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1195,
     "uikTvd": "466401166812",
+    "uikName": "УИК  1195",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2606,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7639,8 +9070,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1196,
     "uikTvd": "466401166813",
+    "uikName": "УИК  1196",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1041,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7687,8 +9127,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1197,
     "uikTvd": "466401166814",
+    "uikName": "УИК  1197",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -7735,8 +9184,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1198,
     "uikTvd": "466401166815",
+    "uikName": "УИК  1198",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2058,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7783,8 +9241,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1199,
     "uikTvd": "466401166816",
+    "uikName": "УИК  1199",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 599,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7831,8 +9298,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1200,
     "uikTvd": "466401166817",
+    "uikName": "УИК  1200",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1322,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7879,8 +9355,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1201,
     "uikTvd": "466401166818",
+    "uikName": "УИК  1201",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 627,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7927,8 +9412,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1202,
     "uikTvd": "466401166819",
+    "uikName": "УИК  1202",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1844,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7975,8 +9469,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1203,
     "uikTvd": "466401166820",
+    "uikName": "УИК  1203",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -8023,8 +9526,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1204,
     "uikTvd": "466401166821",
+    "uikName": "УИК  1204",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1693,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8071,8 +9583,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1205,
     "uikTvd": "466401166822",
+    "uikName": "УИК  1205",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -8119,8 +9640,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1206,
     "uikTvd": "466401166823",
+    "uikName": "УИК  1206",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8167,8 +9697,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1207,
     "uikTvd": "466401166824",
+    "uikName": "УИК  1207",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -8215,8 +9754,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1208,
     "uikTvd": "466401166825",
+    "uikName": "УИК  1208",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -8263,8 +9811,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1209,
     "uikTvd": "466401166826",
+    "uikName": "УИК  1209",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 988,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -8311,8 +9868,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1210,
     "uikTvd": "466401166827",
+    "uikName": "УИК  1210",
     "tikTvd": "366300466959",
     "tikName": "Верхнепышминская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8359,8 +9925,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2410,
     "uikTvd": "466404866621",
+    "uikName": "УИК  2410",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 822,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8407,8 +9982,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2411,
     "uikTvd": "466404866622",
+    "uikName": "УИК  2411",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1548,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8455,8 +10039,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2412,
     "uikTvd": "466404866623",
+    "uikName": "УИК  2412",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2218,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8503,8 +10096,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2413,
     "uikTvd": "466404866624",
+    "uikName": "УИК  2413",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2733,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8551,8 +10153,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2414,
     "uikTvd": "466404866625",
+    "uikName": "УИК  2414",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1874,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8599,8 +10210,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2415,
     "uikTvd": "466404866626",
+    "uikName": "УИК  2415",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1856,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8647,8 +10267,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2416,
     "uikTvd": "466404866627",
+    "uikName": "УИК  2416",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1180,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8695,8 +10324,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2417,
     "uikTvd": "466404866628",
+    "uikName": "УИК  2417",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1773,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8743,8 +10381,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2418,
     "uikTvd": "466404866629",
+    "uikName": "УИК  2418",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1738,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8791,8 +10438,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2419,
     "uikTvd": "466404866630",
+    "uikName": "УИК  2419",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1674,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8839,8 +10495,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2420,
     "uikTvd": "466404866631",
+    "uikName": "УИК  2420",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1688,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8887,8 +10552,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2421,
     "uikTvd": "466404866632",
+    "uikName": "УИК  2421",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8935,8 +10609,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2422,
     "uikTvd": "466404866633",
+    "uikName": "УИК  2422",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1712,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8983,8 +10666,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2423,
     "uikTvd": "466404866634",
+    "uikName": "УИК  2423",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1338,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -9031,8 +10723,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2424,
     "uikTvd": "466404866635",
+    "uikName": "УИК  2424",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2444,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9079,8 +10780,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2425,
     "uikTvd": "466404866636",
+    "uikName": "УИК  2425",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2436,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9127,8 +10837,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2426,
     "uikTvd": "466404866637",
+    "uikName": "УИК  2426",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1738,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9175,8 +10894,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2427,
     "uikTvd": "466404866638",
+    "uikName": "УИК  2427",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2493,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9223,8 +10951,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2428,
     "uikTvd": "466404866639",
+    "uikName": "УИК  2428",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9271,8 +11008,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2429,
     "uikTvd": "466404866640",
+    "uikName": "УИК  2429",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9319,8 +11065,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2430,
     "uikTvd": "466404866641",
+    "uikName": "УИК  2430",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2115,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9367,8 +11122,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2431,
     "uikTvd": "466404866642",
+    "uikName": "УИК  2431",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9415,8 +11179,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2432,
     "uikTvd": "466404866643",
+    "uikName": "УИК  2432",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1942,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9463,8 +11236,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2433,
     "uikTvd": "466404866644",
+    "uikName": "УИК  2433",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1789,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9511,8 +11293,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2434,
     "uikTvd": "466404866645",
+    "uikName": "УИК  2434",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2253,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9559,8 +11350,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2435,
     "uikTvd": "466404866646",
+    "uikName": "УИК  2435",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1228,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9607,8 +11407,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2436,
     "uikTvd": "466404866647",
+    "uikName": "УИК  2436",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1353,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -9655,8 +11464,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2437,
     "uikTvd": "466404866648",
+    "uikName": "УИК  2437",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1232,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9703,8 +11521,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2438,
     "uikTvd": "466404866649",
+    "uikName": "УИК  2438",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -9751,8 +11578,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2439,
     "uikTvd": "466404866650",
+    "uikName": "УИК  2439",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1117,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -9799,8 +11635,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2440,
     "uikTvd": "466404866651",
+    "uikName": "УИК  2440",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9847,8 +11692,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2441,
     "uikTvd": "466404866652",
+    "uikName": "УИК  2441",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -9895,8 +11749,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2442,
     "uikTvd": "466404866653",
+    "uikName": "УИК  2442",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 727,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -9943,8 +11806,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2443,
     "uikTvd": "466404866654",
+    "uikName": "УИК  2443",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 731,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -9991,8 +11863,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2444,
     "uikTvd": "466404866655",
+    "uikName": "УИК  2444",
     "tikTvd": "366300466962",
     "tikName": "Полевская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1400,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10039,8 +11920,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "466400566739",
+    "uikName": "УИК №151",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1927,
       "Число бюллетеней, полученных участковыми комиссиями": 2017,
@@ -10087,8 +11977,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "466400566740",
+    "uikName": "УИК №152",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1914,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10135,8 +12034,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "466400566741",
+    "uikName": "УИК №153",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -10183,8 +12091,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "466400566742",
+    "uikName": "УИК №154",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -10231,8 +12148,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "466400566743",
+    "uikName": "УИК №155",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10279,8 +12205,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "466400566744",
+    "uikName": "УИК №156",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -10327,8 +12262,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "466400566745",
+    "uikName": "УИК №157",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10375,8 +12319,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "466400566746",
+    "uikName": "УИК №158",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 894,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -10423,8 +12376,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "466400566747",
+    "uikName": "УИК №159",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -10471,8 +12433,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "466400566748",
+    "uikName": "УИК №160",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -10519,8 +12490,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "466400566749",
+    "uikName": "УИК №161",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -10567,8 +12547,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "466400566750",
+    "uikName": "УИК №162",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 468,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -10615,8 +12604,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "466400566751",
+    "uikName": "УИК №163",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -10663,8 +12661,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "466400566752",
+    "uikName": "УИК №164",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -10711,8 +12718,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "466400566753",
+    "uikName": "УИК №165",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -10759,8 +12775,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "466400566754",
+    "uikName": "УИК №166",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 794,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -10807,8 +12832,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "466400566755",
+    "uikName": "УИК №167",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -10855,8 +12889,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "466400566756",
+    "uikName": "УИК №168",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 81,
@@ -10903,8 +12946,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "466400566757",
+    "uikName": "УИК №169",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 61,
@@ -10951,8 +13003,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "466400566758",
+    "uikName": "УИК №170",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 194,
@@ -10999,8 +13060,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "466400566759",
+    "uikName": "УИК №171",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 603,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -11047,8 +13117,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "466400566760",
+    "uikName": "УИК №172",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -11095,8 +13174,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "466400566761",
+    "uikName": "УИК №173",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -11143,8 +13231,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "466400566762",
+    "uikName": "УИК №174",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 489,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -11191,8 +13288,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "466400566763",
+    "uikName": "УИК №175",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -11239,8 +13345,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "466400566764",
+    "uikName": "УИК №176",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -11287,8 +13402,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "466400566765",
+    "uikName": "УИК №177",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -11335,8 +13459,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "466400566766",
+    "uikName": "УИК №178",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -11383,8 +13516,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "466400566767",
+    "uikName": "УИК №179",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -11431,8 +13573,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "466400566768",
+    "uikName": "УИК №180",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -11479,8 +13630,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "466400566769",
+    "uikName": "УИК №181",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -11527,8 +13687,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "466400566770",
+    "uikName": "УИК №182",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -11575,8 +13744,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "466400566771",
+    "uikName": "УИК №183",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 926,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -11623,8 +13801,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "466400566772",
+    "uikName": "УИК №184",
     "tikTvd": "366300466963",
     "tikName": "Ачитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1653,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11671,8 +13858,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2602,
     "uikTvd": "466408266669",
+    "uikName": "УИК №2602",
     "tikTvd": "366300466964",
     "tikName": "Староуткинская поселковая ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2468,
       "Число бюллетеней, полученных участковыми комиссиями": 2698,
@@ -11719,8 +13915,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "466403966737",
+    "uikName": "УИК №550",
     "tikTvd": "366300466965",
     "tikName": "Нижнесергинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 914,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -11767,8 +13972,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "466403966738",
+    "uikName": "УИК №551",
     "tikTvd": "366300466965",
     "tikName": "Нижнесергинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -11815,8 +14029,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "466403966739",
+    "uikName": "УИК №552",
     "tikTvd": "366300466965",
     "tikName": "Нижнесергинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -11863,8 +14086,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "466403966740",
+    "uikName": "УИК №553",
     "tikTvd": "366300466965",
     "tikName": "Нижнесергинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1564,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11911,8 +14143,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "466403966741",
+    "uikName": "УИК №554",
     "tikTvd": "366300466965",
     "tikName": "Нижнесергинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1444,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -11959,8 +14200,17 @@ export const duma_2003_uik_428_region_66_part_006 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "466403966742",
+    "uikName": "УИК №555",
     "tikTvd": "366300466965",
     "tikName": "Нижнесергинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 166,
+      "oikTvd": "100100095923",
+      "oikName": "Первоуральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 766,
       "Число бюллетеней, полученных участковыми комиссиями": 760,

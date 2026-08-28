@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "440401670345",
+    "uikName": "УИК  449",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 863,
       "Число бюллетеней, полученных участковыми комиссиями": 803,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "440401670346",
+    "uikName": "УИК  450",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 509,
       "Число бюллетеней, полученных участковыми комиссиями": 472,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "440401670347",
+    "uikName": "УИК  451",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 500,
       "Число бюллетеней, полученных участковыми комиссиями": 508,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "440401670348",
+    "uikName": "УИК  452",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "440401670349",
+    "uikName": "УИК  453",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "440401670350",
+    "uikName": "УИК  454",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1010,
       "Число бюллетеней, полученных участковыми комиссиями": 934,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "440401670351",
+    "uikName": "УИК  455",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 327,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "440401670352",
+    "uikName": "УИК  456",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "440401670353",
+    "uikName": "УИК  457",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2820,
       "Число бюллетеней, полученных участковыми комиссиями": 2861,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "440401670354",
+    "uikName": "УИК  458",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 333,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "440401670355",
+    "uikName": "УИК  459",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 703,
       "Число бюллетеней, полученных участковыми комиссиями": 694,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "440401670356",
+    "uikName": "УИК  460",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1247,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "440401670357",
+    "uikName": "УИК  461",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 894,
       "Число бюллетеней, полученных участковыми комиссиями": 843,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "440401670358",
+    "uikName": "УИК  462",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 339,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "440401670359",
+    "uikName": "УИК  463",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 814,
       "Число бюллетеней, полученных участковыми комиссиями": 769,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "440401670361",
+    "uikName": "УИК  464",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "440401670362",
+    "uikName": "УИК  465",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 386,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "440401670363",
+    "uikName": "УИК  466",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 272,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "440401670364",
+    "uikName": "УИК  467",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1122,
       "Число бюллетеней, полученных участковыми комиссиями": 1069,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "440401670365",
+    "uikName": "УИК  468",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 302,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "440401670366",
+    "uikName": "УИК  469",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 426,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "440401670367",
+    "uikName": "УИК  470",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 483,
       "Число бюллетеней, полученных участковыми комиссиями": 456,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "440401670368",
+    "uikName": "УИК  471",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2051,
       "Число бюллетеней, полученных участковыми комиссиями": 1921,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "440401670369",
+    "uikName": "УИК  472",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2255,
       "Число бюллетеней, полученных участковыми комиссиями": 2156,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "440401670370",
+    "uikName": "УИК  473",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2055,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "440401670371",
+    "uikName": "УИК  474",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1730,
       "Число бюллетеней, полученных участковыми комиссиями": 1624,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "440401670372",
+    "uikName": "УИК  475",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2120,
       "Число бюллетеней, полученных участковыми комиссиями": 1968,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "440401670373",
+    "uikName": "УИК  476",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1301,
       "Число бюллетеней, полученных участковыми комиссиями": 1135,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "440401670374",
+    "uikName": "УИК  477",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1358,
       "Число бюллетеней, полученных участковыми комиссиями": 1253,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "440401670375",
+    "uikName": "УИК  478",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2169,
       "Число бюллетеней, полученных участковыми комиссиями": 1901,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "440401670376",
+    "uikName": "УИК  479",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2043,
       "Число бюллетеней, полученных участковыми комиссиями": 2268,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "440401670377",
+    "uikName": "УИК  480",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2432,
       "Число бюллетеней, полученных участковыми комиссиями": 2268,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "440401670378",
+    "uikName": "УИК  481",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2967,
       "Число бюллетеней, полученных участковыми комиссиями": 2695,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "440401670379",
+    "uikName": "УИК  482",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2383,
       "Число бюллетеней, полученных участковыми комиссиями": 2166,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "440401670380",
+    "uikName": "УИК  483",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1393,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "440401670381",
+    "uikName": "УИК  484",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 967,
       "Число бюллетеней, полученных участковыми комиссиями": 812,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "440401670382",
+    "uikName": "УИК  485",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1874,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "440401670383",
+    "uikName": "УИК  486",
     "tikTvd": "240200070689",
     "tikName": "Малоярославецкая",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2317,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "440401270481",
+    "uikName": "УИК  327",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2620,
       "Число бюллетеней, полученных участковыми комиссиями": 2526,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "440401270364",
+    "uikName": "УИК  328",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2359,
       "Число бюллетеней, полученных участковыми комиссиями": 2225,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "440401270365",
+    "uikName": "УИК  329",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1382,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "440401270482",
+    "uikName": "УИК  330",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2227,
       "Число бюллетеней, полученных участковыми комиссиями": 2148,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "440401270483",
+    "uikName": "УИК  331",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1345,
       "Число бюллетеней, полученных участковыми комиссиями": 1306,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "440401270484",
+    "uikName": "УИК  332",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 772,
       "Число бюллетеней, полученных участковыми комиссиями": 759,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "440401270485",
+    "uikName": "УИК  333",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1828,
       "Число бюллетеней, полученных участковыми комиссиями": 1729,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "440401270486",
+    "uikName": "УИК  334",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1447,
       "Число бюллетеней, полученных участковыми комиссиями": 1423,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "440401270487",
+    "uikName": "УИК  335",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2390,
       "Число бюллетеней, полученных участковыми комиссиями": 2343,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "440401270488",
+    "uikName": "УИК  336",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2742,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "440401270489",
+    "uikName": "УИК  337",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1598,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "440401270490",
+    "uikName": "УИК  338",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1935,
       "Число бюллетеней, полученных участковыми комиссиями": 1903,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "440401270491",
+    "uikName": "УИК  339",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2440,
       "Число бюллетеней, полученных участковыми комиссиями": 2322,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "440401270492",
+    "uikName": "УИК  340",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 416,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "440401270493",
+    "uikName": "УИК  341",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 393,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "440401270494",
+    "uikName": "УИК  342",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "440401270495",
+    "uikName": "УИК  343",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 248,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "440401270496",
+    "uikName": "УИК  344",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 221,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "440401270497",
+    "uikName": "УИК  345",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "440401270498",
+    "uikName": "УИК  346",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 263,
@@ -2737,8 +3259,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "440401270499",
+    "uikName": "УИК  347",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -2784,8 +3315,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "440401270500",
+    "uikName": "УИК  348",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -2831,8 +3371,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "440401270501",
+    "uikName": "УИК  349",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -2878,8 +3427,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "440401270502",
+    "uikName": "УИК  350",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 763,
       "Число бюллетеней, полученных участковыми комиссиями": 751,
@@ -2925,8 +3483,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "440401270503",
+    "uikName": "УИК  351",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 397,
       "Число бюллетеней, полученных участковыми комиссиями": 402,
@@ -2972,8 +3539,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "440401270504",
+    "uikName": "УИК  352",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "440401270505",
+    "uikName": "УИК  353",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 368,
@@ -3066,8 +3651,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "440401270506",
+    "uikName": "УИК  354",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -3113,8 +3707,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "440401270507",
+    "uikName": "УИК  355",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 333,
@@ -3160,8 +3763,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "440401270508",
+    "uikName": "УИК  356",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2091,
       "Число бюллетеней, полученных участковыми комиссиями": 1748,
@@ -3207,8 +3819,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "440401270509",
+    "uikName": "УИК  357",
     "tikTvd": "240200070691",
     "tikName": "Кировская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1833,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -3254,8 +3875,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "440401470361",
+    "uikName": "УИК  395",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2953,
       "Число бюллетеней, полученных участковыми комиссиями": 3012,
@@ -3301,8 +3931,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "440401470362",
+    "uikName": "УИК  396",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 417,
@@ -3348,8 +3987,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "440401470363",
+    "uikName": "УИК  397",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 373,
@@ -3395,8 +4043,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "440401470364",
+    "uikName": "УИК  398",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 336,
@@ -3442,8 +4099,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "440401470365",
+    "uikName": "УИК  399",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -3489,8 +4155,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "440401470366",
+    "uikName": "УИК  400",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 264,
@@ -3536,8 +4211,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "440401470367",
+    "uikName": "УИК  401",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -3583,8 +4267,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "440401470368",
+    "uikName": "УИК  402",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 146,
@@ -3630,8 +4323,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "440401470369",
+    "uikName": "УИК  403",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 397,
@@ -3677,8 +4379,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "440401470370",
+    "uikName": "УИК  404",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -3724,8 +4435,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "440401470371",
+    "uikName": "УИК  405",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -3771,8 +4491,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "440401470372",
+    "uikName": "УИК  406",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 337,
@@ -3818,8 +4547,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "440401470373",
+    "uikName": "УИК  407",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 334,
@@ -3865,8 +4603,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "440401470374",
+    "uikName": "УИК  408",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 148,
@@ -3912,8 +4659,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "440401470375",
+    "uikName": "УИК  409",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -3959,8 +4715,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "440401470376",
+    "uikName": "УИК  410",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -4006,8 +4771,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "440401470377",
+    "uikName": "УИК  411",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 279,
@@ -4053,8 +4827,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "440401470378",
+    "uikName": "УИК  412",
     "tikTvd": "240200070692",
     "tikName": "Куйбышевская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 371,
@@ -4100,8 +4883,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "440402870395",
+    "uikName": "УИК  718",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2392,
       "Число бюллетеней, полученных участковыми комиссиями": 2158,
@@ -4147,8 +4939,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "440402870396",
+    "uikName": "УИК  719",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2545,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -4194,8 +4995,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "440402870397",
+    "uikName": "УИК  720",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1488,
       "Число бюллетеней, полученных участковыми комиссиями": 1296,
@@ -4241,8 +5051,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "440402870398",
+    "uikName": "УИК  721",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 384,
@@ -4288,8 +5107,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "440402870399",
+    "uikName": "УИК  722",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -4335,8 +5163,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "440402870400",
+    "uikName": "УИК  723",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -4382,8 +5219,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "440402870401",
+    "uikName": "УИК  724",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 405,
@@ -4429,8 +5275,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "440402870402",
+    "uikName": "УИК  725",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 344,
@@ -4476,8 +5331,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "440402870403",
+    "uikName": "УИК  726",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -4523,8 +5387,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "440402870404",
+    "uikName": "УИК  727",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4570,8 +5443,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "440402870405",
+    "uikName": "УИК  728",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 333,
@@ -4617,8 +5499,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "440402870406",
+    "uikName": "УИК  729",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 234,
@@ -4664,8 +5555,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "440402870407",
+    "uikName": "УИК  730",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 369,
@@ -4711,8 +5611,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "440402870408",
+    "uikName": "УИК  731",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 492,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -4758,8 +5667,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "440402870409",
+    "uikName": "УИК  732",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 156,
@@ -4805,8 +5723,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "440402870410",
+    "uikName": "УИК  733",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 194,
@@ -4852,8 +5779,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "440402870411",
+    "uikName": "УИК  734",
     "tikTvd": "240200070694",
     "tikName": "Юхновская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 842,
       "Число бюллетеней, полученных участковыми комиссиями": 761,
@@ -4899,8 +5835,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "440402370456",
+    "uikName": "УИК №616",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1454,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4946,8 +5891,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "440402370457",
+    "uikName": "УИК №617",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1453,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4993,8 +5947,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "440402370458",
+    "uikName": "УИК №618",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1762,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5040,8 +6003,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "440402370459",
+    "uikName": "УИК №619",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1984,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5087,8 +6059,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "440402370460",
+    "uikName": "УИК №620",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1646,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5134,8 +6115,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "440402370461",
+    "uikName": "УИК №621",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2074,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5181,8 +6171,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "440402370462",
+    "uikName": "УИК №622",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2602,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5228,8 +6227,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "440402370463",
+    "uikName": "УИК №623",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1676,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5275,8 +6283,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "440402370464",
+    "uikName": "УИК №624",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -5322,8 +6339,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "440402370465",
+    "uikName": "УИК №625",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -5369,8 +6395,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "440402370466",
+    "uikName": "УИК №626",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -5416,8 +6451,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "440402370467",
+    "uikName": "УИК №627",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -5463,8 +6507,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "440402370468",
+    "uikName": "УИК №628",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -5510,8 +6563,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "440402370469",
+    "uikName": "УИК №629",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -5557,8 +6619,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "440402370470",
+    "uikName": "УИК №630",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 324,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5604,8 +6675,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "440402370471",
+    "uikName": "УИК №631",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 455,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -5651,8 +6731,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "440402370472",
+    "uikName": "УИК №632",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -5698,8 +6787,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "440402370473",
+    "uikName": "УИК №633",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -5745,8 +6843,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "440402370474",
+    "uikName": "УИК №634",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5792,8 +6899,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "440402370475",
+    "uikName": "УИК №635",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -5839,8 +6955,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "440402370476",
+    "uikName": "УИК №636",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 646,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5886,8 +7011,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "440402370477",
+    "uikName": "УИК №637",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5933,8 +7067,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "440402370478",
+    "uikName": "УИК №638",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -5980,8 +7123,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "440402370479",
+    "uikName": "УИК №639",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -6027,8 +7179,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "440402370480",
+    "uikName": "УИК №640",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -6074,8 +7235,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "440402370481",
+    "uikName": "УИК №641",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 848,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -6121,8 +7291,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "440402370482",
+    "uikName": "УИК №642",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -6168,8 +7347,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "440402370483",
+    "uikName": "УИК №643",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6215,8 +7403,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "440402370484",
+    "uikName": "УИК №644",
     "tikTvd": "240200070697",
     "tikName": "Сухиничская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6262,8 +7459,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "440402270436",
+    "uikName": "УИК  601",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2298,
       "Число бюллетеней, полученных участковыми комиссиями": 2114,
@@ -6309,8 +7515,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "440402270437",
+    "uikName": "УИК  602",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2170,
       "Число бюллетеней, полученных участковыми комиссиями": 2008,
@@ -6356,8 +7571,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "440402270438",
+    "uikName": "УИК  603",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 317,
@@ -6403,8 +7627,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "440402270439",
+    "uikName": "УИК  604",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -6450,8 +7683,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "440402270440",
+    "uikName": "УИК  605",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 218,
@@ -6497,8 +7739,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "440402270441",
+    "uikName": "УИК  606",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -6544,8 +7795,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "440402270442",
+    "uikName": "УИК  607",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 449,
@@ -6591,8 +7851,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "440402270443",
+    "uikName": "УИК  608",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -6638,8 +7907,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "440402270444",
+    "uikName": "УИК  609",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -6685,8 +7963,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "440402270445",
+    "uikName": "УИК  610",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -6732,8 +8019,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "440402270446",
+    "uikName": "УИК  611",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 303,
@@ -6779,8 +8075,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "440402270447",
+    "uikName": "УИК  612",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 281,
@@ -6826,8 +8131,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "440402270448",
+    "uikName": "УИК  613",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -6873,8 +8187,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "440402270449",
+    "uikName": "УИК  614",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -6920,8 +8243,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "440402270450",
+    "uikName": "УИК  615",
     "tikTvd": "240200070699",
     "tikName": "Спас-Деменская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 681,
       "Число бюллетеней, полученных участковыми комиссиями": 636,
@@ -6967,8 +8299,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "440401970390",
+    "uikName": "УИК  523",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -7014,8 +8355,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "440401970391",
+    "uikName": "УИК  524",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7061,8 +8411,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "440401970392",
+    "uikName": "УИК  525",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -7108,8 +8467,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "440401970393",
+    "uikName": "УИК  526",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -7155,8 +8523,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "440401970394",
+    "uikName": "УИК  527",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -7202,8 +8579,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "440401970395",
+    "uikName": "УИК  528",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -7249,8 +8635,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "440401970396",
+    "uikName": "УИК  529",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -7296,8 +8691,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "440401970397",
+    "uikName": "УИК  530",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -7343,8 +8747,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "440401970398",
+    "uikName": "УИК  531",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -7390,8 +8803,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "440401970399",
+    "uikName": "УИК  532",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -7437,8 +8859,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "440401970400",
+    "uikName": "УИК  533",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7484,8 +8915,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "440401970401",
+    "uikName": "УИК  534",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -7531,8 +8971,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "440401970402",
+    "uikName": "УИК  535",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -7578,8 +9027,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "440401970403",
+    "uikName": "УИК  536",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -7625,8 +9083,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "440401970404",
+    "uikName": "УИК  537",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -7672,8 +9139,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "440401970405",
+    "uikName": "УИК  538",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -7719,8 +9195,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "440401970406",
+    "uikName": "УИК  539",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -7766,8 +9251,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "440401970407",
+    "uikName": "УИК  540",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -7813,8 +9307,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "440401970408",
+    "uikName": "УИК  541",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -7860,8 +9363,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "440401970409",
+    "uikName": "УИК  542",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1756,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7907,8 +9419,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "440401970410",
+    "uikName": "УИК  543",
     "tikTvd": "240200070702",
     "tikName": "Мосальская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 86,
+      "oikTvd": "100100095668",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1680,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -7954,8 +9475,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "440400170329",
+    "uikName": "УИК  1",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -8010,8 +9540,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "440400170330",
+    "uikName": "УИК  2",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -8066,8 +9605,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "440400170331",
+    "uikName": "УИК  3",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2332,
       "Число бюллетеней, полученных участковыми комиссиями": 2151,
@@ -8122,8 +9670,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "440400170332",
+    "uikName": "УИК  4",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1027,
       "Число бюллетеней, полученных участковыми комиссиями": 944,
@@ -8178,8 +9735,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "440400170333",
+    "uikName": "УИК  5",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 474,
@@ -8234,8 +9800,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "440400170334",
+    "uikName": "УИК  6",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -8290,8 +9865,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "440400170335",
+    "uikName": "УИК  7",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -8346,8 +9930,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "440400170336",
+    "uikName": "УИК  8",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 584,
       "Число бюллетеней, полученных участковыми комиссиями": 547,
@@ -8402,8 +9995,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "440400170337",
+    "uikName": "УИК  9",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -8458,8 +10060,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "440400170338",
+    "uikName": "УИК  10",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -8514,8 +10125,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "440400170339",
+    "uikName": "УИК  11",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 584,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -8570,8 +10190,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "440400170340",
+    "uikName": "УИК  12",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -8626,8 +10255,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "440400170341",
+    "uikName": "УИК  13",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 146,
@@ -8682,8 +10320,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "440400170342",
+    "uikName": "УИК  14",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 385,
       "Число бюллетеней, полученных участковыми комиссиями": 366,
@@ -8738,8 +10385,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "440400170343",
+    "uikName": "УИК  15",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -8794,8 +10450,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "440400170344",
+    "uikName": "УИК  16",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 348,
@@ -8850,8 +10515,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "440400170345",
+    "uikName": "УИК  17",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -8906,8 +10580,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "440400170346",
+    "uikName": "УИК  18",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -8962,8 +10645,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "440400170347",
+    "uikName": "УИК  19",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -9018,8 +10710,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "440400170348",
+    "uikName": "УИК  20",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3017,
       "Число бюллетеней, полученных участковыми комиссиями": 2849,
@@ -9074,8 +10775,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "440400170349",
+    "uikName": "УИК  21",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3177,
       "Число бюллетеней, полученных участковыми комиссиями": 2991,
@@ -9130,8 +10840,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "440400170350",
+    "uikName": "УИК  22",
     "tikTvd": "240200070703",
     "tikName": "Бабынинская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2574,
       "Число бюллетеней, полученных участковыми комиссиями": 2416,
@@ -9186,8 +10905,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "440401070396",
+    "uikName": "УИК  241",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2562,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9242,8 +10970,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "440401070397",
+    "uikName": "УИК  242",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2773,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9298,8 +11035,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "440401070398",
+    "uikName": "УИК  243",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2709,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9354,8 +11100,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "440401070399",
+    "uikName": "УИК  244",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2603,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9410,8 +11165,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "440401070400",
+    "uikName": "УИК  245",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2652,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9466,8 +11230,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "440401070401",
+    "uikName": "УИК  246",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2635,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9522,8 +11295,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "440401070402",
+    "uikName": "УИК  247",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2022,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9578,8 +11360,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "440401070403",
+    "uikName": "УИК  248",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2308,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -9634,8 +11425,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "440401070404",
+    "uikName": "УИК  249",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2644,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9690,8 +11490,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "440401070405",
+    "uikName": "УИК  250",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2848,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9746,8 +11555,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "440401070406",
+    "uikName": "УИК  251",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2934,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9802,8 +11620,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "440401070407",
+    "uikName": "УИК  252",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2810,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9858,8 +11685,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "440401070408",
+    "uikName": "УИК  253",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 727,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -9914,8 +11750,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "440401070409",
+    "uikName": "УИК  254",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1242,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9970,8 +11815,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "440401070410",
+    "uikName": "УИК  255",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2414,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10026,8 +11880,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "440401070411",
+    "uikName": "УИК  256",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2454,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10082,8 +11945,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "440401070412",
+    "uikName": "УИК  257",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2448,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10138,8 +12010,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "440401070413",
+    "uikName": "УИК  258",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2290,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -10194,8 +12075,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "440401070414",
+    "uikName": "УИК  259",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2881,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10250,8 +12140,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "440401070415",
+    "uikName": "УИК  260",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2635,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10306,8 +12205,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "440401070416",
+    "uikName": "УИК  261",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2548,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10362,8 +12270,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "440401070417",
+    "uikName": "УИК  262",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1071,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10418,8 +12335,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "440401070418",
+    "uikName": "УИК  263",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1886,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10474,8 +12400,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "440401070419",
+    "uikName": "УИК  264",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1628,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -10530,8 +12465,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "440401070420",
+    "uikName": "УИК  265",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1707,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -10586,8 +12530,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "440401070421",
+    "uikName": "УИК  266",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1724,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10642,8 +12595,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "440401070422",
+    "uikName": "УИК  267",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2752,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10698,8 +12660,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "440401070423",
+    "uikName": "УИК  268",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1905,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10754,8 +12725,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "440401070424",
+    "uikName": "УИК  269",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1752,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -10810,8 +12790,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "440401070425",
+    "uikName": "УИК  270",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10866,8 +12855,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "440401070426",
+    "uikName": "УИК  271",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2575,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10922,8 +12920,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "440401070427",
+    "uikName": "УИК  272",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2224,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10978,8 +12985,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "440401070428",
+    "uikName": "УИК  273",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2246,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11034,8 +13050,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "440401070429",
+    "uikName": "УИК  274",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2896,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -11090,8 +13115,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "440401070430",
+    "uikName": "УИК  275",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2525,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11146,8 +13180,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "440401070431",
+    "uikName": "УИК  276",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2608,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11202,8 +13245,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "440401070432",
+    "uikName": "УИК  277",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2933,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -11258,8 +13310,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "440401070433",
+    "uikName": "УИК  278",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1403,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -11314,8 +13375,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "440401070434",
+    "uikName": "УИК  279",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 923,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -11370,8 +13440,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "440401070435",
+    "uikName": "УИК  280",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 499,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11426,8 +13505,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "440401070436",
+    "uikName": "УИК  281",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -11482,8 +13570,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "440401070437",
+    "uikName": "УИК  282",
     "tikTvd": "240200070704",
     "tikName": "Калуга, Московская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -11538,8 +13635,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "440401170375",
+    "uikName": "УИК  283",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2688,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11594,8 +13700,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "440401170376",
+    "uikName": "УИК  284",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2916,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11650,8 +13765,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "440401170377",
+    "uikName": "УИК  285",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2379,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11706,8 +13830,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "440401170378",
+    "uikName": "УИК  286",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2289,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11762,8 +13895,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "440401170379",
+    "uikName": "УИК  287",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2045,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11818,8 +13960,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "440401170380",
+    "uikName": "УИК  288",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1763,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11874,8 +14025,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "440401170381",
+    "uikName": "УИК  289",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2283,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11930,8 +14090,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "440401170382",
+    "uikName": "УИК  290",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2819,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11986,8 +14155,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "440401170383",
+    "uikName": "УИК  291",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -12042,8 +14220,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "440401170384",
+    "uikName": "УИК  292",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1482,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -12098,8 +14285,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "440401170385",
+    "uikName": "УИК  293",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1480,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -12154,8 +14350,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "440401170386",
+    "uikName": "УИК  294",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 872,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -12210,8 +14415,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "440401170387",
+    "uikName": "УИК  295",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2259,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12266,8 +14480,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "440401170388",
+    "uikName": "УИК  296",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -12322,8 +14545,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "440401170389",
+    "uikName": "УИК  297",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -12378,8 +14610,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "440401170390",
+    "uikName": "УИК  298",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2032,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -12434,8 +14675,17 @@ export const duma_2003_uik_428_region_40_part_002 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "440401170391",
+    "uikName": "УИК  299",
     "tikTvd": "240200070705",
     "tikName": "Калуга, Октябрьская",
+    "regionCode": "40",
+    "regionTvd": "100100095667",
+    "regionName": "Калужская область",
+    "district": {
+      "districtNumber": 87,
+      "oikTvd": "100100095669",
+      "oikName": "Калужский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2223,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "401400170695",
+    "uikName": "УИК  1",
     "tikTvd": "201200072303",
     "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2411,
       "Число бюллетеней, полученных участковыми комиссиями": 2133,
@@ -65,8 +74,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "401400170694",
+    "uikName": "УИК  2",
     "tikTvd": "201200072303",
     "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2687,
       "Число бюллетеней, полученных участковыми комиссиями": 2355,
@@ -119,8 +137,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "401400170693",
+    "uikName": "УИК  3",
     "tikTvd": "201200072303",
     "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2751,
       "Число бюллетеней, полученных участковыми комиссиями": 2461,
@@ -173,8 +200,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "401400170692",
+    "uikName": "УИК  4",
     "tikTvd": "201200072303",
     "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1898,
       "Число бюллетеней, полученных участковыми комиссиями": 1739,
@@ -227,8 +263,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "401400170690",
+    "uikName": "УИК  5",
     "tikTvd": "201200072303",
     "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 742,
       "Число бюллетеней, полученных участковыми комиссиями": 666,
@@ -281,8 +326,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "401400170691",
+    "uikName": "УИК  6",
     "tikTvd": "201200072303",
     "tikName": "Адыгейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 993,
       "Число бюллетеней, полученных участковыми комиссиями": 891,
@@ -335,8 +389,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "401400870960",
+    "uikName": "УИК №245",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 522,
       "Число бюллетеней, полученных участковыми комиссиями": 519,
@@ -389,8 +452,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "401400870961",
+    "uikName": "УИК №246",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 748,
       "Число бюллетеней, полученных участковыми комиссиями": 752,
@@ -443,8 +515,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "401400870962",
+    "uikName": "УИК №247",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -497,8 +578,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "401400870963",
+    "uikName": "УИК №248",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1050,
       "Число бюллетеней, полученных участковыми комиссиями": 1037,
@@ -551,8 +641,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "401400870964",
+    "uikName": "УИК №249",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 844,
       "Число бюллетеней, полученных участковыми комиссиями": 834,
@@ -605,8 +704,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "401400870965",
+    "uikName": "УИК №250",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 412,
       "Число бюллетеней, полученных участковыми комиссиями": 408,
@@ -659,8 +767,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "401400870966",
+    "uikName": "УИК №251",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 812,
       "Число бюллетеней, полученных участковыми комиссиями": 818,
@@ -713,8 +830,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "401400870967",
+    "uikName": "УИК №252",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -767,8 +893,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "401400870968",
+    "uikName": "УИК №253",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -821,8 +956,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "401400870969",
+    "uikName": "УИК №254",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1856,
       "Число бюллетеней, полученных участковыми комиссиями": 1859,
@@ -875,8 +1019,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "401400870970",
+    "uikName": "УИК №255",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1323,
       "Число бюллетеней, полученных участковыми комиссиями": 1311,
@@ -929,8 +1082,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "401400870971",
+    "uikName": "УИК №256",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 299,
@@ -983,8 +1145,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "401400870972",
+    "uikName": "УИК №257",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1530,
       "Число бюллетеней, полученных участковыми комиссиями": 1542,
@@ -1037,8 +1208,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "401400870973",
+    "uikName": "УИК №258",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 898,
       "Число бюллетеней, полученных участковыми комиссиями": 889,
@@ -1091,8 +1271,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "401400870974",
+    "uikName": "УИК №259",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 850,
       "Число бюллетеней, полученных участковыми комиссиями": 837,
@@ -1145,8 +1334,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "401400870975",
+    "uikName": "УИК №260",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 705,
       "Число бюллетеней, полученных участковыми комиссиями": 701,
@@ -1199,8 +1397,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "401400870976",
+    "uikName": "УИК №261",
     "tikTvd": "201200072304",
     "tikName": "Шовгеновская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 798,
       "Число бюллетеней, полученных участковыми комиссиями": 798,
@@ -1253,8 +1460,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "401400771242",
+    "uikName": "УИК №185",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1584,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1307,8 +1523,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "401400771243",
+    "uikName": "УИК №186",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1840,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1361,8 +1586,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "401400771244",
+    "uikName": "УИК №187",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2151,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1415,8 +1649,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "401400771245",
+    "uikName": "УИК №188",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 732,
       "Число бюллетеней, полученных участковыми комиссиями": 721,
@@ -1469,8 +1712,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "401400771246",
+    "uikName": "УИК №189",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 486,
       "Число бюллетеней, полученных участковыми комиссиями": 491,
@@ -1523,8 +1775,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "401400771247",
+    "uikName": "УИК №190",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 247,
@@ -1577,8 +1838,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "401400771248",
+    "uikName": "УИК №191",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1631,8 +1901,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "401400771249",
+    "uikName": "УИК №192",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1691,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1685,8 +1964,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "401400771250",
+    "uikName": "УИК №193",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2118,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1739,8 +2027,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "401400771251",
+    "uikName": "УИК №194",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1706,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1793,8 +2090,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "401400771252",
+    "uikName": "УИК №195",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2152,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1847,8 +2153,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "401400771253",
+    "uikName": "УИК №196",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1680,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1901,8 +2216,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "401400771254",
+    "uikName": "УИК №197",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1056,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1955,8 +2279,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "401400771255",
+    "uikName": "УИК №198",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1030,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2009,8 +2342,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "401400771256",
+    "uikName": "УИК №199",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -2063,8 +2405,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "401400771257",
+    "uikName": "УИК №200",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -2117,8 +2468,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "401400771258",
+    "uikName": "УИК №201",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 595,
       "Число бюллетеней, полученных участковыми комиссиями": 578,
@@ -2171,8 +2531,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "401400771259",
+    "uikName": "УИК №202",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 307,
@@ -2225,8 +2594,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "401400771260",
+    "uikName": "УИК №203",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1221,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2279,8 +2657,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "401400771261",
+    "uikName": "УИК №204",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2112,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2333,8 +2720,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "401400771262",
+    "uikName": "УИК №205",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1881,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2387,8 +2783,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "401400771263",
+    "uikName": "УИК №206",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1748,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2441,8 +2846,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "401400771264",
+    "uikName": "УИК №207",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2084,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2495,8 +2909,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "401400771265",
+    "uikName": "УИК №208",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2147,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2549,8 +2972,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "401400771266",
+    "uikName": "УИК №209",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2080,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2603,8 +3035,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "401400771267",
+    "uikName": "УИК №210",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1733,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2657,8 +3098,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "401400771268",
+    "uikName": "УИК №211",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1901,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2711,8 +3161,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "401400771269",
+    "uikName": "УИК №212",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1872,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2765,8 +3224,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "401400771270",
+    "uikName": "УИК №213",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 881,
       "Число бюллетеней, полученных участковыми комиссиями": 859,
@@ -2819,8 +3287,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "401400771271",
+    "uikName": "УИК №214",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -2873,8 +3350,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "401400771272",
+    "uikName": "УИК №215",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1985,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2927,8 +3413,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "401400771273",
+    "uikName": "УИК №216",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 969,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -2981,8 +3476,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "401400771274",
+    "uikName": "УИК №217",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 532,
@@ -3035,8 +3539,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "401400771275",
+    "uikName": "УИК №218",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 267,
@@ -3089,8 +3602,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "401400771276",
+    "uikName": "УИК №219",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1560,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3143,8 +3665,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "401400771277",
+    "uikName": "УИК №220",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1193,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3197,8 +3728,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "401400771278",
+    "uikName": "УИК №221",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 485,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -3251,8 +3791,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "401400771279",
+    "uikName": "УИК №222",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -3305,8 +3854,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "401400771280",
+    "uikName": "УИК №223",
     "tikTvd": "201200072305",
     "tikName": "Тахтамукайская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 306,
@@ -3359,8 +3917,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "401400671082",
+    "uikName": "УИК №75",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2084,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3413,8 +3980,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "401400671083",
+    "uikName": "УИК №76",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2184,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3467,8 +4043,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "401400671084",
+    "uikName": "УИК №77",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1992,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -3521,8 +4106,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "401400671085",
+    "uikName": "УИК №78",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2660,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3575,8 +4169,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "401400671086",
+    "uikName": "УИК №79",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 634,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3629,8 +4232,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "401400671087",
+    "uikName": "УИК №80",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1176,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -3683,8 +4295,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "401400671088",
+    "uikName": "УИК №81",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1085,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3737,8 +4358,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "401400671089",
+    "uikName": "УИК №82",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1578,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3791,8 +4421,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "401400671090",
+    "uikName": "УИК №83",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1132,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3845,8 +4484,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "401400671091",
+    "uikName": "УИК №84",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 412,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -3899,8 +4547,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "401400671092",
+    "uikName": "УИК №85",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1305,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3953,8 +4610,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "401400671093",
+    "uikName": "УИК №86",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -4007,8 +4673,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "401400671094",
+    "uikName": "УИК №87",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -4061,8 +4736,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "401400671095",
+    "uikName": "УИК №88",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1185,
       "Число бюллетеней, полученных участковыми комиссиями": 1099,
@@ -4115,8 +4799,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "401400671096",
+    "uikName": "УИК №89",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1699,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4169,8 +4862,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "401400671097",
+    "uikName": "УИК №90",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1690,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4223,8 +4925,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "401400671098",
+    "uikName": "УИК №91",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1521,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4277,8 +4988,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "401400671099",
+    "uikName": "УИК №92",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4331,8 +5051,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "401400671100",
+    "uikName": "УИК №93",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1119,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -4385,8 +5114,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "401400671101",
+    "uikName": "УИК №94",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -4439,8 +5177,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "401400671102",
+    "uikName": "УИК №95",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4493,8 +5240,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "401400671103",
+    "uikName": "УИК №96",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 649,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4547,8 +5303,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "401400671104",
+    "uikName": "УИК №97",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4601,8 +5366,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "401400671105",
+    "uikName": "УИК №98",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -4655,8 +5429,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "401400671106",
+    "uikName": "УИК №99",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2404,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4709,8 +5492,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "401400671107",
+    "uikName": "УИК №100",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1973,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4763,8 +5555,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "401400671108",
+    "uikName": "УИК №101",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4817,8 +5618,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "401400671109",
+    "uikName": "УИК №102",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 726,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -4871,8 +5681,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "401400671110",
+    "uikName": "УИК №103",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 985,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -4925,8 +5744,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "401400671111",
+    "uikName": "УИК №104",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 953,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -4979,8 +5807,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "401400671112",
+    "uikName": "УИК №105",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -5033,8 +5870,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "401400671113",
+    "uikName": "УИК №106",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -5087,8 +5933,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "401400671114",
+    "uikName": "УИК №107",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1179,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -5141,8 +5996,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "401400671115",
+    "uikName": "УИК №108",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1254,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -5195,8 +6059,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "401400671116",
+    "uikName": "УИК №109",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -5249,8 +6122,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "401400671117",
+    "uikName": "УИК №110",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 571,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -5303,8 +6185,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "401400671118",
+    "uikName": "УИК №111",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5357,8 +6248,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "401400671119",
+    "uikName": "УИК №112",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1168,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -5411,8 +6311,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "401400671120",
+    "uikName": "УИК №113",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1342,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5465,8 +6374,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "401400671121",
+    "uikName": "УИК №114",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1406,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5519,8 +6437,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "401400671122",
+    "uikName": "УИК №115",
     "tikTvd": "201200072306",
     "tikName": "Майкопская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -5573,8 +6500,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "401400571231",
+    "uikName": "УИК  116",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2031,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5627,8 +6563,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "401400571232",
+    "uikName": "УИК  117",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2739,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5681,8 +6626,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "401400571233",
+    "uikName": "УИК  118",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1880,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -5735,8 +6689,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "401400570824",
+    "uikName": "УИК  119",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2251,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5789,8 +6752,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "401400570826",
+    "uikName": "УИК №120",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2192,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5843,8 +6815,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "401400570827",
+    "uikName": "УИК №121",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2025,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5897,8 +6878,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "401400570828",
+    "uikName": "УИК №122",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1728,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5951,8 +6941,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "401400570829",
+    "uikName": "УИК №123",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2610,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6005,8 +7004,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "401400570958",
+    "uikName": "УИК  124",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2865,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6059,8 +7067,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "401400570959",
+    "uikName": "УИК  125",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2107,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6113,8 +7130,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "401400570830",
+    "uikName": "УИК №126",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2620,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6167,8 +7193,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "401400570884",
+    "uikName": "УИК №127",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2298,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6221,8 +7256,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "401400570885",
+    "uikName": "УИК №128",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1783,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6275,8 +7319,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "401400570886",
+    "uikName": "УИК №129",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2536,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6329,8 +7382,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "401400570887",
+    "uikName": "УИК №130",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1742,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6383,8 +7445,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "401400570888",
+    "uikName": "УИК №131",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1694,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6437,8 +7508,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "401400570889",
+    "uikName": "УИК №132",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1867,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6491,8 +7571,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "401400570890",
+    "uikName": "УИК №133",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6545,8 +7634,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "401400570891",
+    "uikName": "УИК №134",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6599,8 +7697,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "401400570892",
+    "uikName": "УИК №135",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1713,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6653,8 +7760,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "401400570893",
+    "uikName": "УИК №136",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1886,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6707,8 +7823,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "401400570894",
+    "uikName": "УИК №137",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6761,8 +7886,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "401400570895",
+    "uikName": "УИК №138",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2848,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -6815,8 +7949,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "401400570896",
+    "uikName": "УИК №139",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2605,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6869,8 +8012,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "401400570897",
+    "uikName": "УИК №140",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -6923,8 +8075,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "401400570898",
+    "uikName": "УИК №141",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2189,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6977,8 +8138,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "401400570899",
+    "uikName": "УИК №142",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2855,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7031,8 +8201,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "401400570900",
+    "uikName": "УИК №143",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1714,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7085,8 +8264,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "401400570901",
+    "uikName": "УИК №144",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1604,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -7139,8 +8327,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "401400570902",
+    "uikName": "УИК №145",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1712,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7193,8 +8390,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "401400570903",
+    "uikName": "УИК №146",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1784,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7247,8 +8453,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "401400570904",
+    "uikName": "УИК №147",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1816,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7301,8 +8516,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "401400570905",
+    "uikName": "УИК №148",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1489,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7355,8 +8579,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "401400570906",
+    "uikName": "УИК №149",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1798,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7409,8 +8642,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "401400570907",
+    "uikName": "УИК №150",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1562,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7463,8 +8705,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "401400570908",
+    "uikName": "УИК №151",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3031,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -7517,8 +8768,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "401400570909",
+    "uikName": "УИК №152",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1826,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -7571,8 +8831,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "401400570910",
+    "uikName": "УИК №153",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2283,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7625,8 +8894,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "401400570911",
+    "uikName": "УИК №154",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2119,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -7679,8 +8957,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "401400570912",
+    "uikName": "УИК №155",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1333,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7733,8 +9020,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "401400570913",
+    "uikName": "УИК №156",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1917,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7787,8 +9083,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "401400570914",
+    "uikName": "УИК №157",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1925,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7841,8 +9146,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "401400570915",
+    "uikName": "УИК №158",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7895,8 +9209,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "401400570916",
+    "uikName": "УИК №159",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2468,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -7949,8 +9272,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "401400570917",
+    "uikName": "УИК №160",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1726,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8003,8 +9335,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "401400570918",
+    "uikName": "УИК №161",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2668,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8057,8 +9398,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "401400570919",
+    "uikName": "УИК №162",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8111,8 +9461,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "401400570920",
+    "uikName": "УИК №163",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8165,8 +9524,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "401400570921",
+    "uikName": "УИК №164",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -8219,8 +9587,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "401400570922",
+    "uikName": "УИК №165",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1901,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8273,8 +9650,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "401400570923",
+    "uikName": "УИК №166",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1968,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8327,8 +9713,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "401400570924",
+    "uikName": "УИК №167",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1221,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8381,8 +9776,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "401400570925",
+    "uikName": "УИК №168",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2409,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8435,8 +9839,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "401400570926",
+    "uikName": "УИК №169",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2696,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8489,8 +9902,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "401400570927",
+    "uikName": "УИК №170",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2023,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8543,8 +9965,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "401400570928",
+    "uikName": "УИК №171",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2048,
       "Число бюллетеней, полученных участковыми комиссиями": 2023,
@@ -8597,8 +10028,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "401400570929",
+    "uikName": "УИК №172",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1832,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -8651,8 +10091,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "401400570930",
+    "uikName": "УИК №173",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2446,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -8705,8 +10154,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "401400570931",
+    "uikName": "УИК №174",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 500,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8759,8 +10217,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "401400570932",
+    "uikName": "УИК №175",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8813,8 +10280,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "401400570933",
+    "uikName": "УИК №176",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2884,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -8867,8 +10343,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "401400570947",
+    "uikName": "УИК №177",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8921,8 +10406,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "401400570948",
+    "uikName": "УИК №178",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 953,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -8975,8 +10469,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "401400570949",
+    "uikName": "УИК №179",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -9029,8 +10532,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "401400570950",
+    "uikName": "УИК №180",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1095,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -9083,8 +10595,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "401400570951",
+    "uikName": "УИК №181",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -9137,8 +10658,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "401400570952",
+    "uikName": "УИК №182",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -9191,8 +10721,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "401400570953",
+    "uikName": "УИК №183",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 404,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -9245,8 +10784,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "401400570954",
+    "uikName": "УИК №184",
     "tikTvd": "201200072307",
     "tikName": "Майкопская городская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 332,
       "Число бюллетеней, полученных участковыми комиссиями": 257,
@@ -9299,8 +10847,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "401400471864",
+    "uikName": "УИК №54",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1458,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -9353,8 +10910,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "401400471865",
+    "uikName": "УИК №55",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -9407,8 +10973,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "401400471866",
+    "uikName": "УИК №56",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 848,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -9461,8 +11036,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "401400471867",
+    "uikName": "УИК №57",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2047,
       "Число бюллетеней, полученных участковыми комиссиями": 2032,
@@ -9515,8 +11099,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "401400471868",
+    "uikName": "УИК №58",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2369,
       "Число бюллетеней, полученных участковыми комиссиями": 2295,
@@ -9569,8 +11162,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "401400471869",
+    "uikName": "УИК №59",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1929,
       "Число бюллетеней, полученных участковыми комиссиями": 1901,
@@ -9623,8 +11225,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "401400471870",
+    "uikName": "УИК №60",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1014,
       "Число бюллетеней, полученных участковыми комиссиями": 1014,
@@ -9677,8 +11288,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "401400471871",
+    "uikName": "УИК №61",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 991,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -9731,8 +11351,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "401400471872",
+    "uikName": "УИК №62",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2140,
       "Число бюллетеней, полученных участковыми комиссиями": 2135,
@@ -9785,8 +11414,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "401400471873",
+    "uikName": "УИК №63",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -9839,8 +11477,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "401400471874",
+    "uikName": "УИК №64",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 717,
       "Число бюллетеней, полученных участковыми комиссиями": 715,
@@ -9893,8 +11540,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "401400471875",
+    "uikName": "УИК №65",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 537,
@@ -9947,8 +11603,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "401400471876",
+    "uikName": "УИК №66",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -10001,8 +11666,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "401400471877",
+    "uikName": "УИК №67",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -10055,8 +11729,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "401400471878",
+    "uikName": "УИК №68",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -10109,8 +11792,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "401400471879",
+    "uikName": "УИК №69",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 762,
       "Число бюллетеней, полученных участковыми комиссиями": 754,
@@ -10163,8 +11855,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "401400471880",
+    "uikName": "УИК №70",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 479,
       "Число бюллетеней, полученных участковыми комиссиями": 477,
@@ -10217,8 +11918,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "401400471881",
+    "uikName": "УИК №71",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1210,
       "Число бюллетеней, полученных участковыми комиссиями": 1215,
@@ -10271,8 +11981,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "401400471882",
+    "uikName": "УИК №72",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 590,
       "Число бюллетеней, полученных участковыми комиссиями": 595,
@@ -10325,8 +12044,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "401400471883",
+    "uikName": "УИК №73",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -10379,8 +12107,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "401400471884",
+    "uikName": "УИК №74",
     "tikTvd": "201200072308",
     "tikName": "Красногвардейская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1266,
       "Число бюллетеней, полученных участковыми комиссиями": 1265,
@@ -10433,8 +12170,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "401400272062",
+    "uikName": "УИК №7",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2491,
       "Число бюллетеней, полученных участковыми комиссиями": 2506,
@@ -10487,8 +12233,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "401400272063",
+    "uikName": "УИК №8",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1804,
       "Число бюллетеней, полученных участковыми комиссиями": 1799,
@@ -10541,8 +12296,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "401400272064",
+    "uikName": "УИК №9",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2250,
       "Число бюллетеней, полученных участковыми комиссиями": 2272,
@@ -10595,8 +12359,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "401400272065",
+    "uikName": "УИК №10",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2052,
       "Число бюллетеней, полученных участковыми комиссиями": 1927,
@@ -10649,8 +12422,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "401400272066",
+    "uikName": "УИК №11",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1898,
       "Число бюллетеней, полученных участковыми комиссиями": 1907,
@@ -10703,8 +12485,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "401400272067",
+    "uikName": "УИК №12",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1266,
       "Число бюллетеней, полученных участковыми комиссиями": 1298,
@@ -10757,8 +12548,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "401400272068",
+    "uikName": "УИК №13",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 981,
       "Число бюллетеней, полученных участковыми комиссиями": 996,
@@ -10811,8 +12611,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "401400272069",
+    "uikName": "УИК №14",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1297,
       "Число бюллетеней, полученных участковыми комиссиями": 1315,
@@ -10865,8 +12674,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "401400272070",
+    "uikName": "УИК №15",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1068,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -10919,8 +12737,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "401400272071",
+    "uikName": "УИК №16",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 415,
       "Число бюллетеней, полученных участковыми комиссиями": 427,
@@ -10973,8 +12800,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "401400272072",
+    "uikName": "УИК №17",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 837,
       "Число бюллетеней, полученных участковыми комиссиями": 844,
@@ -11027,8 +12863,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "401400272073",
+    "uikName": "УИК №18",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 179,
@@ -11081,8 +12926,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "401400272074",
+    "uikName": "УИК №19",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 99,
@@ -11135,8 +12989,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "401400272075",
+    "uikName": "УИК №20",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 466,
       "Число бюллетеней, полученных участковыми комиссиями": 1005,
@@ -11189,8 +13052,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "401400272076",
+    "uikName": "УИК №21",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1162,
       "Число бюллетеней, полученных участковыми комиссиями": 1183,
@@ -11243,8 +13115,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "401400272077",
+    "uikName": "УИК №22",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1158,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -11297,8 +13178,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "401400272078",
+    "uikName": "УИК №23",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 713,
       "Число бюллетеней, полученных участковыми комиссиями": 726,
@@ -11351,8 +13241,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "401400272079",
+    "uikName": "УИК №24",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 832,
       "Число бюллетеней, полученных участковыми комиссиями": 826,
@@ -11405,8 +13304,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "401400272080",
+    "uikName": "УИК №25",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -11459,8 +13367,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "401400272081",
+    "uikName": "УИК №26",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1130,
       "Число бюллетеней, полученных участковыми комиссиями": 1144,
@@ -11513,8 +13430,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "401400272082",
+    "uikName": "УИК №27",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 171,
@@ -11567,8 +13493,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "401400272083",
+    "uikName": "УИК №28",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 725,
       "Число бюллетеней, полученных участковыми комиссиями": 722,
@@ -11621,8 +13556,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "401400272084",
+    "uikName": "УИК №29",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -11675,8 +13619,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "401400272085",
+    "uikName": "УИК №30",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 606,
@@ -11729,8 +13682,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "401400272086",
+    "uikName": "УИК №31",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1514,
       "Число бюллетеней, полученных участковыми комиссиями": 1516,
@@ -11783,8 +13745,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "401400272087",
+    "uikName": "УИК №32",
     "tikTvd": "201200072309",
     "tikName": "Гиагинская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -11837,8 +13808,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "401400370466",
+    "uikName": "УИК №33",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2065,
       "Число бюллетеней, полученных участковыми комиссиями": 2075,
@@ -11891,8 +13871,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "401400370467",
+    "uikName": "УИК №34",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -11945,8 +13934,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "401400370468",
+    "uikName": "УИК №35",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -11999,8 +13997,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "401400370469",
+    "uikName": "УИК №36",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 441,
@@ -12053,8 +14060,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "401400370470",
+    "uikName": "УИК №37",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2022,
       "Число бюллетеней, полученных участковыми комиссиями": 2043,
@@ -12107,8 +14123,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "401400370471",
+    "uikName": "УИК №38",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 526,
       "Число бюллетеней, полученных участковыми комиссиями": 529,
@@ -12161,8 +14186,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "401400370472",
+    "uikName": "УИК №39",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1038,
       "Число бюллетеней, полученных участковыми комиссиями": 1053,
@@ -12215,8 +14249,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "401400370473",
+    "uikName": "УИК №40",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1259,
       "Число бюллетеней, полученных участковыми комиссиями": 1258,
@@ -12269,8 +14312,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "401400370474",
+    "uikName": "УИК №41",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -12323,8 +14375,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "401400370475",
+    "uikName": "УИК №42",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1832,
       "Число бюллетеней, полученных участковыми комиссиями": 1914,
@@ -12377,8 +14438,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "401400370476",
+    "uikName": "УИК №43",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1363,
       "Число бюллетеней, полученных участковыми комиссиями": 1368,
@@ -12431,8 +14501,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "401400370477",
+    "uikName": "УИК №44",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1015,
       "Число бюллетеней, полученных участковыми комиссиями": 1018,
@@ -12485,8 +14564,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "401400370478",
+    "uikName": "УИК №45",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 774,
       "Число бюллетеней, полученных участковыми комиссиями": 801,
@@ -12539,8 +14627,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "401400370479",
+    "uikName": "УИК №46",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2865,
       "Число бюллетеней, полученных участковыми комиссиями": 2818,
@@ -12593,8 +14690,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "401400370480",
+    "uikName": "УИК №47",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2840,
       "Число бюллетеней, полученных участковыми комиссиями": 2851,
@@ -12647,8 +14753,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "401400370481",
+    "uikName": "УИК №48",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1340,
       "Число бюллетеней, полученных участковыми комиссиями": 1355,
@@ -12701,8 +14816,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "401400370482",
+    "uikName": "УИК №49",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -12755,8 +14879,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "401400370483",
+    "uikName": "УИК №50",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 893,
       "Число бюллетеней, полученных участковыми комиссиями": 904,
@@ -12809,8 +14942,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "401400370484",
+    "uikName": "УИК №51",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 529,
       "Число бюллетеней, полученных участковыми комиссиями": 532,
@@ -12863,8 +15005,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "401400370485",
+    "uikName": "УИК №52",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 643,
@@ -12917,8 +15068,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "401400370464",
+    "uikName": "УИК №53",
     "tikTvd": "201200072310",
     "tikName": "Кошехабльская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 544,
@@ -12971,8 +15131,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "401400971006",
+    "uikName": "УИК №224",
     "tikTvd": "201200072311",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1210,
       "Число бюллетеней, полученных участковыми комиссиями": 1194,
@@ -13025,8 +15194,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "401400971007",
+    "uikName": "УИК №225",
     "tikTvd": "201200072311",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1262,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -13079,8 +15257,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "401400971008",
+    "uikName": "УИК №226",
     "tikTvd": "201200072311",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -13133,8 +15320,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "401400971009",
+    "uikName": "УИК №227",
     "tikTvd": "201200072311",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -13187,8 +15383,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "401400971010",
+    "uikName": "УИК №228",
     "tikTvd": "201200072311",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -13241,8 +15446,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "401400971011",
+    "uikName": "УИК №229",
     "tikTvd": "201200072311",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -13295,8 +15509,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "401400971012",
+    "uikName": "УИК №230",
     "tikTvd": "201200072311",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 581,
       "Число бюллетеней, полученных участковыми комиссиями": 579,
@@ -13349,8 +15572,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "401400971013",
+    "uikName": "УИК №231",
     "tikTvd": "201200072311",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1148,
       "Число бюллетеней, полученных участковыми комиссиями": 1128,
@@ -13403,8 +15635,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "401400971014",
+    "uikName": "УИК №232",
     "tikTvd": "201200072311",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2437,
       "Число бюллетеней, полученных участковыми комиссиями": 2381,
@@ -13457,8 +15698,17 @@ export const duma_2003_uik_428_region_1_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "401400971015",
+    "uikName": "УИК №233",
     "tikTvd": "201200072311",
     "tikName": "Теучежская",
+    "regionCode": "1",
+    "regionTvd": "100100095717",
+    "regionName": "Республика Адыгея (Адыгея)",
+    "district": {
+      "districtNumber": 1,
+      "oikTvd": "100100095718",
+      "oikName": "Адыгейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 370,

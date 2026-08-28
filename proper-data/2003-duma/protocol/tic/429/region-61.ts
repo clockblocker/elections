@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070523",
     "tikName": "Новочеркасская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100095910",
+      "oikName": "Белокалитвинский"
+    },
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в списки": 141613,
@@ -127,6 +135,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070531",
     "tikName": "Зерноградская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100095910",
+      "oikName": "Белокалитвинский"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в списки": 50889,
@@ -238,6 +254,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070533",
     "tikName": "Константиновская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100095910",
+      "oikName": "Белокалитвинский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 26858,
@@ -319,6 +343,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070541",
     "tikName": "Волгодонская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки": 135637,
@@ -421,6 +453,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070543",
     "tikName": "Веселовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 19116,
@@ -493,6 +533,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070545",
     "tikName": "Волгодонская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 22133,
@@ -568,6 +616,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070547",
     "tikName": "Дубовская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 17284,
@@ -637,6 +693,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070549",
     "tikName": "Заветинская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 11025,
@@ -698,6 +762,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070551",
     "tikName": "Зимовниковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 27547,
@@ -776,6 +848,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070553",
     "tikName": "Мартыновская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 27685,
@@ -869,6 +949,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070555",
     "tikName": "Орловская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки": 30328,
@@ -961,6 +1049,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070557",
     "tikName": "Песчанокопская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 25744,
@@ -1032,6 +1128,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070559",
     "tikName": "Пролетарская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 25779,
@@ -1106,6 +1210,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070561",
     "tikName": "Ремонтненская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 14683,
@@ -1172,6 +1284,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070563",
     "tikName": "ТИК города Сальска и Сальского района",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки": 86500,
@@ -1280,6 +1400,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070565",
     "tikName": "Целинская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 27356,
@@ -1356,6 +1484,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "261200070567",
     "tikName": "Цимлянская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 143,
+      "oikTvd": "100100095911",
+      "oikName": "Волгодонский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 28569,
@@ -1432,6 +1568,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300170372",
     "tikName": "Егорлыкская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100095910",
+      "oikName": "Белокалитвинский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 27781,
@@ -1504,6 +1648,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300171309",
     "tikName": "Семикаракорская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100095910",
+      "oikName": "Белокалитвинский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 40717,
@@ -1592,6 +1744,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300171418",
     "tikName": "Белокалитвинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100095910",
+      "oikName": "Белокалитвинский"
+    },
     "uikCount": 74,
     "accounting": {
       "Число избирателей, включенных в списки": 90976,
@@ -1715,6 +1875,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300171470",
     "tikName": "Усть-Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100095910",
+      "oikName": "Белокалитвинский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 23975,
@@ -1787,6 +1955,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300171488",
     "tikName": "Багаевская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100095910",
+      "oikName": "Белокалитвинский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 26964,
@@ -1861,6 +2037,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300171530",
     "tikName": "Октябрьская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 142,
+      "oikTvd": "100100095910",
+      "oikName": "Белокалитвинский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки": 56582,
@@ -1959,6 +2143,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370360",
     "tikName": "Донецкая",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 40785,
@@ -2031,6 +2223,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370362",
     "tikName": "Каменск-Шахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 75131,
@@ -2121,6 +2321,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370376",
     "tikName": "Боковская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 12608,
@@ -2194,6 +2402,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370380",
     "tikName": "Верхнедонская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 18358,
@@ -2284,6 +2500,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370382",
     "tikName": "Кашарская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки": 20535,
@@ -2368,6 +2592,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370383",
     "tikName": "Миллеровская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки": 56634,
@@ -2475,6 +2707,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370384",
     "tikName": "Милютинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 13511,
@@ -2544,6 +2784,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370385",
     "tikName": "Морозовская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки": 34554,
@@ -2635,6 +2883,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370386",
     "tikName": "Обливская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 15163,
@@ -2705,6 +2961,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370392",
     "tikName": "Советская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 5545,
@@ -2765,6 +3029,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370393",
     "tikName": "Тарасовская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в списки": 23495,
@@ -2864,6 +3136,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370394",
     "tikName": "Тацинская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 31659,
@@ -2944,6 +3224,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 30356,
@@ -3034,6 +3322,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 22151,
@@ -3117,6 +3413,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки": 40723,
@@ -3215,6 +3519,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки": 93837,
@@ -3312,6 +3624,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки": 119870,
@@ -3418,6 +3738,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300470434",
     "tikName": " г.Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в списки": 148517,
@@ -3531,6 +3859,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300470435",
     "tikName": "Батайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 79878,
@@ -3618,6 +3954,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300470436",
     "tikName": "Аксайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в списки": 67327,
@@ -3727,6 +4071,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300571235",
     "tikName": "Мясниковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100095914",
+      "oikName": "Ростовский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 28239,
@@ -3801,6 +4153,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300571237",
     "tikName": "г. Ростов-на-Дону, Советская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100095914",
+      "oikName": "Ростовский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки": 119005,
@@ -3904,6 +4264,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300571239",
     "tikName": "г.Ростов-на-Дону, Железнодорожная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100095914",
+      "oikName": "Ростовский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 67707,
@@ -3986,6 +4354,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300571241",
     "tikName": "г. Ростов-на-Дону, Ленинская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100095914",
+      "oikName": "Ростовский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 53078,
@@ -4064,6 +4440,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300571243",
     "tikName": "г.Ростов-на-Дону, Кировская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100095914",
+      "oikName": "Ростовский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 55290,
@@ -4142,6 +4526,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300571245",
     "tikName": "г.Ростова-на-Дону, Октябрьская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 146,
+      "oikTvd": "100100095914",
+      "oikName": "Ростовский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки": 111121,
@@ -4243,6 +4635,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300670394",
     "tikName": "Неклиновская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "uikCount": 78,
     "accounting": {
       "Число избирателей, включенных в списки": 64762,
@@ -4368,6 +4768,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300670395",
     "tikName": "Матвеево-Курганская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки": 35443,
@@ -4450,6 +4858,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300670396",
     "tikName": "Кагальницкая ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки": 23285,
@@ -4532,6 +4948,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300670397",
     "tikName": "Азовская районная",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "uikCount": 80,
     "accounting": {
       "Число избирателей, включенных в списки": 68141,
@@ -4659,6 +5083,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300670398",
     "tikName": "Азовская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 63020,
@@ -4742,6 +5174,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300670437",
     "tikName": "Таганрогская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 147,
+      "oikTvd": "100100095915",
+      "oikName": "Таганрогский"
+    },
     "uikCount": 122,
     "accounting": {
       "Число избирателей, включенных в списки": 224950,
@@ -4911,6 +5351,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300771780",
     "tikName": "Шахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "uikCount": 95,
     "accounting": {
       "Число избирателей, включенных в списки": 185679,
@@ -5056,6 +5504,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300771784",
     "tikName": "Гуковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 59681,
@@ -5147,6 +5603,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300771785",
     "tikName": "Зверевская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 22191,
@@ -5209,6 +5673,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300771786",
     "tikName": "Красносулинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки": 62951,
@@ -5316,6 +5788,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300771787",
     "tikName": "Куйбышевская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 12271,
@@ -5382,6 +5862,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300771788",
     "tikName": "Новошахтинская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки": 79589,
@@ -5487,6 +5975,14 @@ export const duma_2003_tic_429_region_61 = [
     "ballot": "single-member",
     "tikTvd": "361300771789",
     "tikName": "Родионово-Несветайская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 148,
+      "oikTvd": "100100095916",
+      "oikName": "Шахтинский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 17802,

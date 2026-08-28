@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "459400166924",
+    "uikName": "УИК №101",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 648,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "459400166925",
+    "uikName": "УИК №102",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 754,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "459400166926",
+    "uikName": "УИК №103",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 567,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "459400166927",
+    "uikName": "УИК №104",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "459400166928",
+    "uikName": "УИК №105",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2138,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "459400166929",
+    "uikName": "УИК №106",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1621,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "459400166930",
+    "uikName": "УИК №107",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "459400166931",
+    "uikName": "УИК №108",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2177,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "459400166932",
+    "uikName": "УИК №109",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2212,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "459400166933",
+    "uikName": "УИК №110",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 724,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "459400166934",
+    "uikName": "УИК №111",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2013,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "459400166935",
+    "uikName": "УИК №112",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "459400166936",
+    "uikName": "УИК №113",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2477,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "459400166937",
+    "uikName": "УИК №114",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1641,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "459400166938",
+    "uikName": "УИК №115",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "459400166939",
+    "uikName": "УИК №116",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1656,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "459400166940",
+    "uikName": "УИК №117",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 852,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "459400166941",
+    "uikName": "УИК №118",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "459400166942",
+    "uikName": "УИК №119",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1594,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "459400166943",
+    "uikName": "УИК №120",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "459400166944",
+    "uikName": "УИК №121",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "459400166945",
+    "uikName": "УИК №122",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "459400166946",
+    "uikName": "УИК №123",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "459400166947",
+    "uikName": "УИК №124",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "459400166948",
+    "uikName": "УИК №125",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "459400166949",
+    "uikName": "УИК №126",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "459400166950",
+    "uikName": "УИК №127",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4701,
     "uikTvd": "459404766671",
+    "uikName": "УИК №4701",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 583,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4702,
     "uikTvd": "459404766672",
+    "uikName": "УИК №4702",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 501,
       "Число бюллетеней, полученных участковыми комиссиями": 511,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4703,
     "uikTvd": "459404766673",
+    "uikName": "УИК №4703",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4704,
     "uikTvd": "459404766674",
+    "uikName": "УИК №4704",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 452,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4705,
     "uikTvd": "459404766675",
+    "uikName": "УИК №4705",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 593,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4706,
     "uikTvd": "459404766676",
+    "uikName": "УИК №4706",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4707,
     "uikTvd": "459404766677",
+    "uikName": "УИК №4707",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1102,
       "Число бюллетеней, полученных участковыми комиссиями": 1131,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4708,
     "uikTvd": "459404766678",
+    "uikName": "УИК №4708",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 466,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4709,
     "uikTvd": "459404766679",
+    "uikName": "УИК №4709",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4710,
     "uikTvd": "459404766680",
+    "uikName": "УИК №4710",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 1038,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4711,
     "uikTvd": "459404766681",
+    "uikName": "УИК №4711",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 484,
       "Число бюллетеней, полученных участковыми комиссиями": 436,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4712,
     "uikTvd": "459404766682",
+    "uikName": "УИК №4712",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1387,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4713,
     "uikTvd": "459404766683",
+    "uikName": "УИК №4713",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1245,
       "Число бюллетеней, полученных участковыми комиссиями": 1139,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4714,
     "uikTvd": "459404766684",
+    "uikName": "УИК №4714",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4715,
     "uikTvd": "459404766685",
+    "uikName": "УИК №4715",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 657,
       "Число бюллетеней, полученных участковыми комиссиями": 686,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4716,
     "uikTvd": "459404766686",
+    "uikName": "УИК №4716",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 726,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4717,
     "uikTvd": "459404766689",
+    "uikName": "УИК  4717",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4401,
     "uikTvd": "459404470421",
+    "uikName": "УИК №4401",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1052,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4402,
     "uikTvd": "459404470422",
+    "uikName": "УИК №4402",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 816,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4403,
     "uikTvd": "459404470423",
+    "uikName": "УИК №4403",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1446,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4404,
     "uikTvd": "459404470424",
+    "uikName": "УИК №4404",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1044,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4405,
     "uikTvd": "459404470425",
+    "uikName": "УИК №4405",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1818,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4406,
     "uikTvd": "459404470426",
+    "uikName": "УИК №4406",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4407,
     "uikTvd": "459404470427",
+    "uikName": "УИК №4407",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2196,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4408,
     "uikTvd": "459404470428",
+    "uikName": "УИК №4408",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1153,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4409,
     "uikTvd": "459404470429",
+    "uikName": "УИК №4409",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1262,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4410,
     "uikTvd": "459404470430",
+    "uikName": "УИК №4410",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1024,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4411,
     "uikTvd": "459404470431",
+    "uikName": "УИК №4411",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 584,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4412,
     "uikTvd": "459404470432",
+    "uikName": "УИК №4412",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2079,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4413,
     "uikTvd": "459404470433",
+    "uikName": "УИК №4413",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1934,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4414,
     "uikTvd": "459404470434",
+    "uikName": "УИК №4414",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4415,
     "uikTvd": "459404470435",
+    "uikName": "УИК №4415",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2597,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4416,
     "uikTvd": "459404470436",
+    "uikName": "УИК №4416",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2262,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4417,
     "uikTvd": "459404470437",
+    "uikName": "УИК №4417",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2846,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4418,
     "uikTvd": "459404470438",
+    "uikName": "УИК №4418",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2419,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4419,
     "uikTvd": "459404470439",
+    "uikName": "УИК №4419",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1961,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4420,
     "uikTvd": "459404470440",
+    "uikName": "УИК №4420",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2684,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4421,
     "uikTvd": "459404470441",
+    "uikName": "УИК №4421",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2301,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4422,
     "uikTvd": "459404470442",
+    "uikName": "УИК №4422",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1975,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4423,
     "uikTvd": "459404470443",
+    "uikName": "УИК №4423",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2119,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4424,
     "uikTvd": "459404470444",
+    "uikName": "УИК №4424",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 559,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4425,
     "uikTvd": "459404470445",
+    "uikName": "УИК №4425",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4426,
     "uikTvd": "459404470446",
+    "uikName": "УИК №4426",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1793,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4427,
     "uikTvd": "459404470447",
+    "uikName": "УИК №4427",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1770,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4428,
     "uikTvd": "459404470448",
+    "uikName": "УИК №4428",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4429,
     "uikTvd": "459404470449",
+    "uikName": "УИК №4429",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1006,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4430,
     "uikTvd": "459404470450",
+    "uikName": "УИК №4430",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4431,
     "uikTvd": "459404470451",
+    "uikName": "УИК №4431",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4432,
     "uikTvd": "459404470452",
+    "uikName": "УИК №4432",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4433,
     "uikTvd": "459404470453",
+    "uikName": "УИК №4433",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4434,
     "uikTvd": "459404470454",
+    "uikName": "УИК №4434",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 603,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4435,
     "uikTvd": "459404470455",
+    "uikName": "УИК №4435",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -3645,8 +4356,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4436,
     "uikTvd": "459404470456",
+    "uikName": "УИК №4436",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -3691,8 +4411,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4437,
     "uikTvd": "459404470457",
+    "uikName": "УИК №4437",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 612,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -3737,8 +4466,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4438,
     "uikTvd": "459404470458",
+    "uikName": "УИК №4438",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 977,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3783,8 +4521,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4439,
     "uikTvd": "459404470459",
+    "uikName": "УИК №4439",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -3829,8 +4576,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4440,
     "uikTvd": "459404470460",
+    "uikName": "УИК №4440",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -3875,8 +4631,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4441,
     "uikTvd": "459404470461",
+    "uikName": "УИК №4441",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -3921,8 +4686,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4442,
     "uikTvd": "459404470462",
+    "uikName": "УИК №4442",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -3967,8 +4741,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4443,
     "uikTvd": "459404470463",
+    "uikName": "УИК №4443",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 949,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4013,8 +4796,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4444,
     "uikTvd": "459404470464",
+    "uikName": "УИК №4444",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -4059,8 +4851,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4445,
     "uikTvd": "459404470465",
+    "uikName": "УИК №4445",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4105,8 +4906,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4446,
     "uikTvd": "459404470466",
+    "uikName": "УИК №4446",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -4151,8 +4961,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4447,
     "uikTvd": "459404470467",
+    "uikName": "УИК №4447",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -4197,8 +5016,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4448,
     "uikTvd": "459404470468",
+    "uikName": "УИК №4448",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 545,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4243,8 +5071,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4449,
     "uikTvd": "459404470469",
+    "uikName": "УИК №4449",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 696,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -4289,8 +5126,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4450,
     "uikTvd": "459404470470",
+    "uikName": "УИК №4450",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -4335,8 +5181,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4451,
     "uikTvd": "459404470471",
+    "uikName": "УИК №4451",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1242,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4381,8 +5236,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4201,
     "uikTvd": "459404266621",
+    "uikName": "УИК  4201",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1739,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4427,8 +5291,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4202,
     "uikTvd": "459404266622",
+    "uikName": "УИК  4202",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2450,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4473,8 +5346,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4203,
     "uikTvd": "459404266623",
+    "uikName": "УИК  4203",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1411,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4519,8 +5401,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4204,
     "uikTvd": "459404266658",
+    "uikName": "УИК №4204",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 735,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -4565,8 +5456,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4205,
     "uikTvd": "459404266659",
+    "uikName": "УИК №4205",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -4611,8 +5511,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4206,
     "uikTvd": "459404266660",
+    "uikName": "УИК №4206",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -4657,8 +5566,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4207,
     "uikTvd": "459404266661",
+    "uikName": "УИК №4207",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -4703,8 +5621,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4208,
     "uikTvd": "459404266662",
+    "uikName": "УИК №4208",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4749,8 +5676,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4209,
     "uikTvd": "459404266663",
+    "uikName": "УИК №4209",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4795,8 +5731,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4210,
     "uikTvd": "459404266664",
+    "uikName": "УИК №4210",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -4841,8 +5786,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4211,
     "uikTvd": "459404266665",
+    "uikName": "УИК №4211",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -4887,8 +5841,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4213,
     "uikTvd": "459404266667",
+    "uikName": "УИК №4213",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1282,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4933,8 +5896,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4214,
     "uikTvd": "459404266668",
+    "uikName": "УИК №4214",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4979,8 +5951,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4215,
     "uikTvd": "459404266669",
+    "uikName": "УИК №4215",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -5025,8 +6006,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4216,
     "uikTvd": "459404266670",
+    "uikName": "УИК №4216",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5071,8 +6061,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4217,
     "uikTvd": "459404266671",
+    "uikName": "УИК №4217",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -5117,8 +6116,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4218,
     "uikTvd": "459404266672",
+    "uikName": "УИК №4218",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5163,8 +6171,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4219,
     "uikTvd": "459404266673",
+    "uikName": "УИК №4219",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5209,8 +6226,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4220,
     "uikTvd": "459404266674",
+    "uikName": "УИК №4220",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -5255,8 +6281,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4221,
     "uikTvd": "459404266675",
+    "uikName": "УИК №4221",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 748,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5301,8 +6336,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4222,
     "uikTvd": "459404266676",
+    "uikName": "УИК №4222",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5347,8 +6391,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4223,
     "uikTvd": "459404266677",
+    "uikName": "УИК №4223",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5393,8 +6446,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4224,
     "uikTvd": "459404266678",
+    "uikName": "УИК №4224",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -5439,8 +6501,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4225,
     "uikTvd": "459404266679",
+    "uikName": "УИК №4225",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -5485,8 +6556,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4226,
     "uikTvd": "459404266680",
+    "uikName": "УИК №4226",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5531,8 +6611,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4227,
     "uikTvd": "459404266681",
+    "uikName": "УИК №4227",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5577,8 +6666,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4228,
     "uikTvd": "459404266682",
+    "uikName": "УИК №4228",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 710,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -5623,8 +6721,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4229,
     "uikTvd": "459404266683",
+    "uikName": "УИК №4229",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5669,8 +6776,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4230,
     "uikTvd": "459404266684",
+    "uikName": "УИК №4230",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5715,8 +6831,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4231,
     "uikTvd": "459404266685",
+    "uikName": "УИК №4231",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 317,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5761,8 +6886,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4232,
     "uikTvd": "459404266686",
+    "uikName": "УИК №4232",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 478,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5807,8 +6941,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4233,
     "uikTvd": "459404266687",
+    "uikName": "УИК №4233",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 62,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -5853,8 +6996,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4234,
     "uikTvd": "459404266688",
+    "uikName": "УИК №4234",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -5899,8 +7051,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3901,
     "uikTvd": "459403966609",
+    "uikName": "УИК №3901",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1096,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -5945,8 +7106,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3902,
     "uikTvd": "459403966610",
+    "uikName": "УИК №3902",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -5991,8 +7161,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3903,
     "uikTvd": "459403966611",
+    "uikName": "УИК №3903",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 542,
       "Число бюллетеней, полученных участковыми комиссиями": 529,
@@ -6037,8 +7216,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3904,
     "uikTvd": "459403966612",
+    "uikName": "УИК №3904",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -6083,8 +7271,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3905,
     "uikTvd": "459403966613",
+    "uikName": "УИК №3905",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1022,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -6129,8 +7326,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3906,
     "uikTvd": "459403966614",
+    "uikName": "УИК №3906",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 990,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -6175,8 +7381,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3907,
     "uikTvd": "459403966615",
+    "uikName": "УИК №3907",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 963,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -6221,8 +7436,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3908,
     "uikTvd": "459403966616",
+    "uikName": "УИК №3908",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 629,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -6267,8 +7491,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3909,
     "uikTvd": "459403966617",
+    "uikName": "УИК №3909",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -6313,8 +7546,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3910,
     "uikTvd": "459403966618",
+    "uikName": "УИК №3910",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1458,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -6359,8 +7601,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3911,
     "uikTvd": "459403966619",
+    "uikName": "УИК №3911",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -6405,8 +7656,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3912,
     "uikTvd": "459403966620",
+    "uikName": "УИК №3912",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -6451,8 +7711,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3913,
     "uikTvd": "459403966621",
+    "uikName": "УИК №3913",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6497,8 +7766,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3914,
     "uikTvd": "459403966622",
+    "uikName": "УИК №3914",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -6543,8 +7821,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3915,
     "uikTvd": "459403966623",
+    "uikName": "УИК №3915",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -6589,8 +7876,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3916,
     "uikTvd": "459403966624",
+    "uikName": "УИК №3916",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -6635,8 +7931,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3917,
     "uikTvd": "459403966625",
+    "uikName": "УИК №3917",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 516,
@@ -6681,8 +7986,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3918,
     "uikTvd": "459403966626",
+    "uikName": "УИК №3918",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -6727,8 +8041,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3919,
     "uikTvd": "459403966627",
+    "uikName": "УИК №3919",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -6773,8 +8096,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3601,
     "uikTvd": "459403666731",
+    "uikName": "УИК №3601",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1187,
       "Число бюллетеней, полученных участковыми комиссиями": 1178,
@@ -6819,8 +8151,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3602,
     "uikTvd": "459403666736",
+    "uikName": "УИК №3602",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1060,
       "Число бюллетеней, полученных участковыми комиссиями": 1024,
@@ -6865,8 +8206,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3603,
     "uikTvd": "459403666737",
+    "uikName": "УИК №3603",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2414,
       "Число бюллетеней, полученных участковыми комиссиями": 2320,
@@ -6911,8 +8261,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3604,
     "uikTvd": "459403666738",
+    "uikName": "УИК №3604",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2496,
       "Число бюллетеней, полученных участковыми комиссиями": 2451,
@@ -6957,8 +8316,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3605,
     "uikTvd": "459403666739",
+    "uikName": "УИК №3605",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2701,
       "Число бюллетеней, полученных участковыми комиссиями": 2603,
@@ -7003,8 +8371,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3606,
     "uikTvd": "459403666740",
+    "uikName": "УИК №3606",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1975,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7049,8 +8426,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3607,
     "uikTvd": "459403666741",
+    "uikName": "УИК №3607",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2759,
       "Число бюллетеней, полученных участковыми комиссиями": 2769,
@@ -7095,8 +8481,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3608,
     "uikTvd": "459403666742",
+    "uikName": "УИК №3608",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2765,
       "Число бюллетеней, полученных участковыми комиссиями": 2754,
@@ -7141,8 +8536,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3609,
     "uikTvd": "459403666743",
+    "uikName": "УИК №3609",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1297,
       "Число бюллетеней, полученных участковыми комиссиями": 2013,
@@ -7187,8 +8591,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3610,
     "uikTvd": "459403666744",
+    "uikName": "УИК №3610",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2595,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -7233,8 +8646,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3611,
     "uikTvd": "459403666745",
+    "uikName": "УИК №3611",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2181,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7279,8 +8701,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3612,
     "uikTvd": "459403666746",
+    "uikName": "УИК №3612",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2822,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7325,8 +8756,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3613,
     "uikTvd": "459403666747",
+    "uikName": "УИК №3613",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1963,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -7371,8 +8811,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3614,
     "uikTvd": "459403666748",
+    "uikName": "УИК №3614",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2647,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7417,8 +8866,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3615,
     "uikTvd": "459403666749",
+    "uikName": "УИК №3615",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2020,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7463,8 +8921,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3616,
     "uikTvd": "459403666750",
+    "uikName": "УИК №3616",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1629,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7509,8 +8976,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3617,
     "uikTvd": "459403666751",
+    "uikName": "УИК №3617",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 897,
       "Число бюллетеней, полученных участковыми комиссиями": 871,
@@ -7555,8 +9031,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3618,
     "uikTvd": "459403666752",
+    "uikName": "УИК №3618",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2510,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7601,8 +9086,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3619,
     "uikTvd": "459403666753",
+    "uikName": "УИК №3619",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -7647,8 +9141,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3620,
     "uikTvd": "459403666754",
+    "uikName": "УИК №3620",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2949,
       "Число бюллетеней, полученных участковыми комиссиями": 2950,
@@ -7693,8 +9196,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3621,
     "uikTvd": "459403666755",
+    "uikName": "УИК №3621",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 669,
       "Число бюллетеней, полученных участковыми комиссиями": 619,
@@ -7739,8 +9251,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3622,
     "uikTvd": "459403666756",
+    "uikName": "УИК №3622",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2094,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7785,8 +9306,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3623,
     "uikTvd": "459403666757",
+    "uikName": "УИК №3623",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2299,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7831,8 +9361,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3624,
     "uikTvd": "459403666758",
+    "uikName": "УИК №3624",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2764,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -7877,8 +9416,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3625,
     "uikTvd": "459403666759",
+    "uikName": "УИК №3625",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2554,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7923,8 +9471,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3626,
     "uikTvd": "459403666760",
+    "uikName": "УИК №3626",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 914,
       "Число бюллетеней, полученных участковыми комиссиями": 867,
@@ -7969,8 +9526,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3627,
     "uikTvd": "459403666761",
+    "uikName": "УИК №3627",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2488,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -8015,8 +9581,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3628,
     "uikTvd": "459403666762",
+    "uikName": "УИК №3628",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 887,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -8061,8 +9636,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3629,
     "uikTvd": "459403666763",
+    "uikName": "УИК №3629",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1266,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8107,8 +9691,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3630,
     "uikTvd": "459403666764",
+    "uikName": "УИК №3630",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2783,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -8153,8 +9746,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3631,
     "uikTvd": "459403666765",
+    "uikName": "УИК №3631",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2530,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8199,8 +9801,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3632,
     "uikTvd": "459403666956",
+    "uikName": "УИК  3632",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2375,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8245,8 +9856,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3633,
     "uikTvd": "459403666766",
+    "uikName": "УИК №3633",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2642,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8291,8 +9911,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3634,
     "uikTvd": "459403666767",
+    "uikName": "УИК №3634",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1949,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -8337,8 +9966,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3635,
     "uikTvd": "459403666768",
+    "uikName": "УИК №3635",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 835,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8383,8 +10021,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3636,
     "uikTvd": "459403666769",
+    "uikName": "УИК №3636",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 998,
       "Число бюллетеней, полученных участковыми комиссиями": 974,
@@ -8429,8 +10076,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3637,
     "uikTvd": "459403666770",
+    "uikName": "УИК №3637",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1009,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8475,8 +10131,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3638,
     "uikTvd": "459403666771",
+    "uikName": "УИК №3638",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8521,8 +10186,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3639,
     "uikTvd": "459403666772",
+    "uikName": "УИК №3639",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 500,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8567,8 +10241,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3640,
     "uikTvd": "459403666773",
+    "uikName": "УИК №3640",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -8613,8 +10296,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1601,
     "uikTvd": "459401666801",
+    "uikName": "УИК  1601",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -8659,8 +10351,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1602,
     "uikTvd": "459401666869",
+    "uikName": "УИК  1602",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1839,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8705,8 +10406,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1603,
     "uikTvd": "459401666803",
+    "uikName": "УИК  1603",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1846,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -8751,8 +10461,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1604,
     "uikTvd": "459401666804",
+    "uikName": "УИК  1604",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1347,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -8797,8 +10516,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1605,
     "uikTvd": "459401666805",
+    "uikName": "УИК  1605",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1490,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -8843,8 +10571,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1606,
     "uikTvd": "459401666806",
+    "uikName": "УИК  1606",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2066,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -8889,8 +10626,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1607,
     "uikTvd": "459401666807",
+    "uikName": "УИК  1607",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1768,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -8935,8 +10681,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1608,
     "uikTvd": "459401666808",
+    "uikName": "УИК  1608",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -8981,8 +10736,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1609,
     "uikTvd": "459401666809",
+    "uikName": "УИК  1609",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -9027,8 +10791,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1610,
     "uikTvd": "459401666810",
+    "uikName": "УИК  1610",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1161,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -9073,8 +10846,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1611,
     "uikTvd": "459401666811",
+    "uikName": "УИК  1611",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -9119,8 +10901,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1612,
     "uikTvd": "459401666812",
+    "uikName": "УИК  1612",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -9165,8 +10956,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1613,
     "uikTvd": "459401666813",
+    "uikName": "УИК  1613",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -9211,8 +11011,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1614,
     "uikTvd": "459401666814",
+    "uikName": "УИК  1614",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 741,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -9257,8 +11066,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1615,
     "uikTvd": "459401666815",
+    "uikName": "УИК  1615",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9303,8 +11121,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1616,
     "uikTvd": "459401666816",
+    "uikName": "УИК  1616",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -9349,8 +11176,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1617,
     "uikTvd": "459401666817",
+    "uikName": "УИК  1617",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 660,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -9395,8 +11231,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1618,
     "uikTvd": "459401666818",
+    "uikName": "УИК  1618",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 71,
@@ -9441,8 +11286,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1619,
     "uikTvd": "459401666819",
+    "uikName": "УИК  1619",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 534,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -9487,8 +11341,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1620,
     "uikTvd": "459401666820",
+    "uikName": "УИК  1620",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -9533,8 +11396,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1621,
     "uikTvd": "459401666821",
+    "uikName": "УИК  1621",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -9579,8 +11451,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1622,
     "uikTvd": "459401666822",
+    "uikName": "УИК  1622",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 84,
@@ -9625,8 +11506,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1623,
     "uikTvd": "459401666823",
+    "uikName": "УИК  1623",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -9671,8 +11561,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1624,
     "uikTvd": "459401666824",
+    "uikName": "УИК  1624",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -9717,8 +11616,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1625,
     "uikTvd": "459401666825",
+    "uikName": "УИК  1625",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -9763,8 +11671,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1626,
     "uikTvd": "459401666826",
+    "uikName": "УИК  1626",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -9809,8 +11726,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1627,
     "uikTvd": "459401666827",
+    "uikName": "УИК  1627",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -9855,8 +11781,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1628,
     "uikTvd": "459401666828",
+    "uikName": "УИК  1628",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9901,8 +11836,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1629,
     "uikTvd": "459401666829",
+    "uikName": "УИК  1629",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 31,
       "Число бюллетеней, полученных участковыми комиссиями": 41,
@@ -9947,8 +11891,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1630,
     "uikTvd": "459401666830",
+    "uikName": "УИК  1630",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -9993,8 +11946,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1631,
     "uikTvd": "459401666831",
+    "uikName": "УИК  1631",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 162,
@@ -10039,8 +12001,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1632,
     "uikTvd": "459401666832",
+    "uikName": "УИК  1632",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -10085,8 +12056,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1633,
     "uikTvd": "459401666833",
+    "uikName": "УИК  1633",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -10131,8 +12111,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1634,
     "uikTvd": "459401666834",
+    "uikName": "УИК  1634",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -10177,8 +12166,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1635,
     "uikTvd": "459401666835",
+    "uikName": "УИК  1635",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -10223,8 +12221,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1636,
     "uikTvd": "459401666836",
+    "uikName": "УИК  1636",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 772,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -10269,8 +12276,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1401,
     "uikTvd": "459401466683",
+    "uikName": "УИК  1401",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1086,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -10315,8 +12331,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1402,
     "uikTvd": "459401466684",
+    "uikName": "УИК  1402",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2015,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -10361,8 +12386,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1403,
     "uikTvd": "459401466685",
+    "uikName": "УИК  1403",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2147,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -10407,8 +12441,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1404,
     "uikTvd": "459401466686",
+    "uikName": "УИК  1404",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1334,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -10453,8 +12496,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1405,
     "uikTvd": "459401466687",
+    "uikName": "УИК  1405",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1803,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10499,8 +12551,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1406,
     "uikTvd": "459401466688",
+    "uikName": "УИК  1406",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1466,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10545,8 +12606,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1407,
     "uikTvd": "459401466689",
+    "uikName": "УИК  1407",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1954,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10591,8 +12661,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1408,
     "uikTvd": "459401466690",
+    "uikName": "УИК  1408",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 679,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10637,8 +12716,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1409,
     "uikTvd": "459401466691",
+    "uikName": "УИК  1409",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 671,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -10683,8 +12771,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1410,
     "uikTvd": "459401466692",
+    "uikName": "УИК  1410",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 492,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -10729,8 +12826,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1412,
     "uikTvd": "459401466694",
+    "uikName": "УИК  1412",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 867,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -10775,8 +12881,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1413,
     "uikTvd": "459401466695",
+    "uikName": "УИК  1413",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 676,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10821,8 +12936,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1414,
     "uikTvd": "459401466696",
+    "uikName": "УИК  1414",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 565,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -10867,8 +12991,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1415,
     "uikTvd": "459401466697",
+    "uikName": "УИК  1415",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2355,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -10913,8 +13046,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1416,
     "uikTvd": "459401466698",
+    "uikName": "УИК  1416",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -10959,8 +13101,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1417,
     "uikTvd": "459401466699",
+    "uikName": "УИК  1417",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1541,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -11005,8 +13156,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1418,
     "uikTvd": "459401466700",
+    "uikName": "УИК  1418",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1680,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11051,8 +13211,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1419,
     "uikTvd": "459401466701",
+    "uikName": "УИК  1419",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1774,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11097,8 +13266,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1420,
     "uikTvd": "459401466702",
+    "uikName": "УИК  1420",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1744,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -11143,8 +13321,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "459401066690",
+    "uikName": "УИК №1001",
     "tikTvd": "259200072731",
     "tikName": "Добрянская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2047,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -11189,8 +13376,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "459401066691",
+    "uikName": "УИК №1002",
     "tikTvd": "259200072731",
     "tikName": "Добрянская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2293,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11235,8 +13431,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "459401066692",
+    "uikName": "УИК №1003",
     "tikTvd": "259200072731",
     "tikName": "Добрянская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1856,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11281,8 +13486,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "459401066693",
+    "uikName": "УИК №1004",
     "tikTvd": "259200072731",
     "tikName": "Добрянская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2433,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11327,8 +13541,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "459401066694",
+    "uikName": "УИК №1005",
     "tikTvd": "259200072731",
     "tikName": "Добрянская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -11373,8 +13596,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "459401066695",
+    "uikName": "УИК №1006",
     "tikTvd": "259200072731",
     "tikName": "Добрянская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2163,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11419,8 +13651,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "459401066696",
+    "uikName": "УИК №1007",
     "tikTvd": "259200072731",
     "tikName": "Добрянская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2540,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11465,8 +13706,17 @@ export const duma_2003_uik_428_region_59_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "459401066697",
+    "uikName": "УИК №1008",
     "tikTvd": "259200072731",
     "tikName": "Добрянская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 137,
+      "oikTvd": "100100095748",
+      "oikName": "Березниковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2220,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,

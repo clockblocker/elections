@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066598",
     "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 48630,
@@ -88,6 +96,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066599",
     "tikName": "Волжская  ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 18298,
@@ -164,6 +180,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066616",
     "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 22470,
@@ -258,6 +282,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066617",
     "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 34795,
@@ -345,6 +377,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066620",
     "tikName": "Йошкар-Олинская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 123,
     "accounting": {
       "Число избирателей, включенных в списки": 227484,
@@ -519,6 +559,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 10573,
@@ -590,6 +638,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 18910,
@@ -659,6 +715,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 18655,
@@ -736,6 +800,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 41189,
@@ -826,6 +898,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 25204,
@@ -922,6 +1002,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 14025,
@@ -991,6 +1079,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 11525,
@@ -1061,6 +1157,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 18483,
@@ -1145,6 +1249,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 23660,
@@ -1221,6 +1333,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066632",
     "tikName": "Юринская  ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 9139,
@@ -1295,6 +1415,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200066634",
     "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 12333,
@@ -1364,6 +1492,14 @@ export const duma_2003_tic_429_region_12 = [
     "ballot": "single-member",
     "tikTvd": "212200067946",
     "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
+    "district": {
+      "districtNumber": 19,
+      "oikTvd": "100100095755",
+      "oikName": "Марийский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 13369,

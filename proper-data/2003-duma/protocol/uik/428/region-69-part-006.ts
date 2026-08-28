@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1145,
     "uikTvd": "469403570572",
+    "uikName": "УИК №1145",
     "tikTvd": "369300270517",
     "tikName": "Тверь, Московская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1183,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -67,8 +76,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1146,
     "uikTvd": "469403570573",
+    "uikName": "УИК №1146",
     "tikTvd": "369300270517",
     "tikName": "Тверь, Московская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1783,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -123,8 +141,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1147,
     "uikTvd": "469403570574",
+    "uikName": "УИК №1147",
     "tikTvd": "369300270517",
     "tikName": "Тверь, Московская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 18,
       "Число бюллетеней, полученных участковыми комиссиями": 16,
@@ -179,8 +206,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1148,
     "uikTvd": "469403570575",
+    "uikName": "УИК №1148",
     "tikTvd": "369300270517",
     "tikName": "Тверь, Московская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -235,8 +271,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1149,
     "uikTvd": "469403570576",
+    "uikName": "УИК №1149",
     "tikTvd": "369300270517",
     "tikName": "Тверь, Московская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 32,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -291,8 +336,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1150,
     "uikTvd": "469403570577",
+    "uikName": "УИК №1150",
     "tikTvd": "369300270517",
     "tikName": "Тверь, Московская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -347,8 +401,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1151,
     "uikTvd": "469403570578",
+    "uikName": "УИК №1151",
     "tikTvd": "369300270517",
     "tikName": "Тверь, Московская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 124,
@@ -403,8 +466,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1152,
     "uikTvd": "469403570579",
+    "uikName": "УИК №1152",
     "tikTvd": "369300270517",
     "tikName": "Тверь, Московская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 904,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -459,8 +531,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1153,
     "uikTvd": "469403670563",
+    "uikName": "УИК  1153",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2653,
       "Число бюллетеней, полученных участковыми комиссиями": 2392,
@@ -515,8 +596,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1154,
     "uikTvd": "469403670564",
+    "uikName": "УИК  1154",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2545,
       "Число бюллетеней, полученных участковыми комиссиями": 2287,
@@ -571,8 +661,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1155,
     "uikTvd": "469403670565",
+    "uikName": "УИК  1155",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2360,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -627,8 +726,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1156,
     "uikTvd": "469403670566",
+    "uikName": "УИК  1156",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2741,
       "Число бюллетеней, полученных участковыми комиссиями": 2466,
@@ -683,8 +791,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1157,
     "uikTvd": "469403670567",
+    "uikName": "УИК  1157",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1812,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -739,8 +856,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1158,
     "uikTvd": "469403670568",
+    "uikName": "УИК  1158",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2239,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -795,8 +921,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1159,
     "uikTvd": "469403670569",
+    "uikName": "УИК  1159",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2411,
       "Число бюллетеней, полученных участковыми комиссиями": 2166,
@@ -851,8 +986,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1160,
     "uikTvd": "469403670570",
+    "uikName": "УИК  1160",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2277,
       "Число бюллетеней, полученных участковыми комиссиями": 2066,
@@ -907,8 +1051,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1161,
     "uikTvd": "469403670571",
+    "uikName": "УИК  1161",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2833,
       "Число бюллетеней, полученных участковыми комиссиями": 2565,
@@ -963,8 +1116,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1162,
     "uikTvd": "469403670572",
+    "uikName": "УИК  1162",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2666,
       "Число бюллетеней, полученных участковыми комиссиями": 2277,
@@ -1019,8 +1181,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1163,
     "uikTvd": "469403670573",
+    "uikName": "УИК  1163",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1302,
       "Число бюллетеней, полученных участковыми комиссиями": 1193,
@@ -1075,8 +1246,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1164,
     "uikTvd": "469403670574",
+    "uikName": "УИК  1164",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1430,
       "Число бюллетеней, полученных участковыми комиссиями": 1264,
@@ -1131,8 +1311,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1165,
     "uikTvd": "469403670575",
+    "uikName": "УИК  1165",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2360,
       "Число бюллетеней, полученных участковыми комиссиями": 2084,
@@ -1187,8 +1376,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1166,
     "uikTvd": "469403670576",
+    "uikName": "УИК  1166",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1867,
       "Число бюллетеней, полученных участковыми комиссиями": 1678,
@@ -1243,8 +1441,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1167,
     "uikTvd": "469403670577",
+    "uikName": "УИК  1167",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2300,
       "Число бюллетеней, полученных участковыми комиссиями": 2088,
@@ -1299,8 +1506,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1168,
     "uikTvd": "469403670578",
+    "uikName": "УИК  1168",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2324,
       "Число бюллетеней, полученных участковыми комиссиями": 2096,
@@ -1355,8 +1571,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1169,
     "uikTvd": "469403670579",
+    "uikName": "УИК  1169",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2284,
       "Число бюллетеней, полученных участковыми комиссиями": 2057,
@@ -1411,8 +1636,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1170,
     "uikTvd": "469403670580",
+    "uikName": "УИК  1170",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2597,
       "Число бюллетеней, полученных участковыми комиссиями": 2325,
@@ -1467,8 +1701,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1171,
     "uikTvd": "469403670581",
+    "uikName": "УИК  1171",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2489,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -1523,8 +1766,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1172,
     "uikTvd": "469403670582",
+    "uikName": "УИК  1172",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2627,
       "Число бюллетеней, полученных участковыми комиссиями": 2318,
@@ -1579,8 +1831,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1173,
     "uikTvd": "469403670583",
+    "uikName": "УИК  1173",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1635,8 +1896,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1174,
     "uikTvd": "469403670584",
+    "uikName": "УИК  1174",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2324,
       "Число бюллетеней, полученных участковыми комиссиями": 2082,
@@ -1691,8 +1961,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1175,
     "uikTvd": "469403670585",
+    "uikName": "УИК  1175",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2743,
       "Число бюллетеней, полученных участковыми комиссиями": 2553,
@@ -1747,8 +2026,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1176,
     "uikTvd": "469403670586",
+    "uikName": "УИК  1176",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2544,
       "Число бюллетеней, полученных участковыми комиссиями": 2305,
@@ -1803,8 +2091,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1177,
     "uikTvd": "469403670587",
+    "uikName": "УИК  1177",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2380,
       "Число бюллетеней, полученных участковыми комиссиями": 2158,
@@ -1859,8 +2156,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1178,
     "uikTvd": "469403670601",
+    "uikName": "УИК  1178",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2214,
       "Число бюллетеней, полученных участковыми комиссиями": 1991,
@@ -1915,8 +2221,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1179,
     "uikTvd": "469403670588",
+    "uikName": "УИК  1179",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1848,
       "Число бюллетеней, полученных участковыми комиссиями": 1561,
@@ -1971,8 +2286,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1180,
     "uikTvd": "469403670589",
+    "uikName": "УИК  1180",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1829,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -2027,8 +2351,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1181,
     "uikTvd": "469403670590",
+    "uikName": "УИК  1181",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1495,
       "Число бюллетеней, полученных участковыми комиссиями": 1353,
@@ -2083,8 +2416,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1182,
     "uikTvd": "469403670591",
+    "uikName": "УИК  1182",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2681,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -2139,8 +2481,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1183,
     "uikTvd": "469403670592",
+    "uikName": "УИК  1183",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2370,
       "Число бюллетеней, полученных участковыми комиссиями": 2113,
@@ -2195,8 +2546,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1184,
     "uikTvd": "469403670593",
+    "uikName": "УИК  1184",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2744,
       "Число бюллетеней, полученных участковыми комиссиями": 2454,
@@ -2251,8 +2611,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1185,
     "uikTvd": "469403670594",
+    "uikName": "УИК  1185",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2391,
       "Число бюллетеней, полученных участковыми комиссиями": 2162,
@@ -2307,8 +2676,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1186,
     "uikTvd": "469403670595",
+    "uikName": "УИК  1186",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2364,
       "Число бюллетеней, полученных участковыми комиссиями": 2126,
@@ -2363,8 +2741,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1187,
     "uikTvd": "469403670596",
+    "uikName": "УИК  1187",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 298,
@@ -2419,8 +2806,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1188,
     "uikTvd": "469403670597",
+    "uikName": "УИК  1188",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2475,8 +2871,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1189,
     "uikTvd": "469403670598",
+    "uikName": "УИК  1189",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -2531,8 +2936,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1190,
     "uikTvd": "469403670599",
+    "uikName": "УИК  1190",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -2587,8 +3001,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1191,
     "uikTvd": "469403670600",
+    "uikName": "УИК  1191",
     "tikTvd": "369300270519",
     "tikName": "Тверь, Пролетарская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -2643,8 +3066,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1192,
     "uikTvd": "469403770529",
+    "uikName": "УИК №1192",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2536,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2699,8 +3131,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1193,
     "uikTvd": "469403770530",
+    "uikName": "УИК №1193",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2578,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2755,8 +3196,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1194,
     "uikTvd": "469403770531",
+    "uikName": "УИК №1194",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2300,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2811,8 +3261,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1195,
     "uikTvd": "469403770532",
+    "uikName": "УИК №1195",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1023,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2867,8 +3326,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1196,
     "uikTvd": "469403770533",
+    "uikName": "УИК №1196",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1554,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2923,8 +3391,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1197,
     "uikTvd": "469403770534",
+    "uikName": "УИК №1197",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1845,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2979,8 +3456,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1198,
     "uikTvd": "469403770535",
+    "uikName": "УИК №1198",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3035,8 +3521,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1199,
     "uikTvd": "469403770536",
+    "uikName": "УИК №1199",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1759,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3091,8 +3586,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1200,
     "uikTvd": "469403770537",
+    "uikName": "УИК №1200",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2129,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3147,8 +3651,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1201,
     "uikTvd": "469403770538",
+    "uikName": "УИК №1201",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2251,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3203,8 +3716,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1202,
     "uikTvd": "469403770539",
+    "uikName": "УИК №1202",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2071,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3259,8 +3781,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1203,
     "uikTvd": "469403770540",
+    "uikName": "УИК №1203",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2012,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3315,8 +3846,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1204,
     "uikTvd": "469403770541",
+    "uikName": "УИК №1204",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2387,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3371,8 +3911,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1205,
     "uikTvd": "469403770542",
+    "uikName": "УИК №1205",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3427,8 +3976,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1206,
     "uikTvd": "469403770543",
+    "uikName": "УИК №1206",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2381,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3483,8 +4041,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1207,
     "uikTvd": "469403770544",
+    "uikName": "УИК №1207",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2162,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3539,8 +4106,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1208,
     "uikTvd": "469403770545",
+    "uikName": "УИК №1208",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2162,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3595,8 +4171,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1209,
     "uikTvd": "469403770546",
+    "uikName": "УИК №1209",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2667,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3651,8 +4236,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1210,
     "uikTvd": "469403770547",
+    "uikName": "УИК №1210",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2191,
       "Число бюллетеней, полученных участковыми комиссиями": 2099,
@@ -3707,8 +4301,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1211,
     "uikTvd": "469403770548",
+    "uikName": "УИК №1211",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1870,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3763,8 +4366,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1212,
     "uikTvd": "469403770549",
+    "uikName": "УИК №1212",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2648,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3819,8 +4431,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1213,
     "uikTvd": "469403770550",
+    "uikName": "УИК №1213",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2755,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3875,8 +4496,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1214,
     "uikTvd": "469403770551",
+    "uikName": "УИК №1214",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1897,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3931,8 +4561,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1215,
     "uikTvd": "469403770552",
+    "uikName": "УИК №1215",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -3987,8 +4626,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1216,
     "uikTvd": "469403770553",
+    "uikName": "УИК №1216",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 64,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -4043,8 +4691,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1217,
     "uikTvd": "469403770554",
+    "uikName": "УИК №1217",
     "tikTvd": "369300270523",
     "tikName": "Тверь, Центральная",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 31,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -4099,8 +4756,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1276,
     "uikTvd": "469403970651",
+    "uikName": "УИК №1276",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 793,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -4155,8 +4821,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1277,
     "uikTvd": "469403970652",
+    "uikName": "УИК №1277",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 704,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -4211,8 +4886,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1278,
     "uikTvd": "469403970653",
+    "uikName": "УИК №1278",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 738,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4267,8 +4951,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1279,
     "uikTvd": "469403970654",
+    "uikName": "УИК №1279",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -4323,8 +5016,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1280,
     "uikTvd": "469403970655",
+    "uikName": "УИК №1280",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 748,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -4379,8 +5081,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1281,
     "uikTvd": "469403970656",
+    "uikName": "УИК №1281",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 812,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -4435,8 +5146,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1282,
     "uikTvd": "469403970657",
+    "uikName": "УИК №1282",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4491,8 +5211,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1283,
     "uikTvd": "469403970658",
+    "uikName": "УИК №1283",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -4547,8 +5276,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1284,
     "uikTvd": "469403970659",
+    "uikName": "УИК №1284",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 778,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -4603,8 +5341,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1285,
     "uikTvd": "469403970660",
+    "uikName": "УИК №1285",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 871,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -4659,8 +5406,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1286,
     "uikTvd": "469403970661",
+    "uikName": "УИК №1286",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 861,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -4715,8 +5471,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1287,
     "uikTvd": "469403970662",
+    "uikName": "УИК №1287",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 803,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -4771,8 +5536,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1288,
     "uikTvd": "469403970663",
+    "uikName": "УИК №1288",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 908,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -4827,8 +5601,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1289,
     "uikTvd": "469403970664",
+    "uikName": "УИК №1289",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4883,8 +5666,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1290,
     "uikTvd": "469403970665",
+    "uikName": "УИК №1290",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 754,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -4939,8 +5731,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1291,
     "uikTvd": "469403970666",
+    "uikName": "УИК №1291",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4995,8 +5796,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1292,
     "uikTvd": "469403970667",
+    "uikName": "УИК №1292",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 505,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5051,8 +5861,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1293,
     "uikTvd": "469403970668",
+    "uikName": "УИК №1293",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -5107,8 +5926,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1294,
     "uikTvd": "469403970669",
+    "uikName": "УИК №1294",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -5163,8 +5991,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1295,
     "uikTvd": "469403970670",
+    "uikName": "УИК №1295",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -5219,8 +6056,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1296,
     "uikTvd": "469403970671",
+    "uikName": "УИК №1296",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 499,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -5275,8 +6121,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1297,
     "uikTvd": "469403970672",
+    "uikName": "УИК №1297",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 332,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -5331,8 +6186,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1298,
     "uikTvd": "469403970673",
+    "uikName": "УИК №1298",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -5387,8 +6251,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1299,
     "uikTvd": "469403970674",
+    "uikName": "УИК №1299",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -5443,8 +6316,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1300,
     "uikTvd": "469403970675",
+    "uikName": "УИК №1300",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -5499,8 +6381,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1301,
     "uikTvd": "469403970676",
+    "uikName": "УИК №1301",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -5555,8 +6446,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1302,
     "uikTvd": "469403970677",
+    "uikName": "УИК №1302",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -5611,8 +6511,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1303,
     "uikTvd": "469403970678",
+    "uikName": "УИК №1303",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5667,8 +6576,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1304,
     "uikTvd": "469403970679",
+    "uikName": "УИК №1304",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -5723,8 +6641,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1305,
     "uikTvd": "469403970680",
+    "uikName": "УИК №1305",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 702,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5779,8 +6706,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1306,
     "uikTvd": "469403970681",
+    "uikName": "УИК №1306",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -5835,8 +6771,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1307,
     "uikTvd": "469403970682",
+    "uikName": "УИК №1307",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -5891,8 +6836,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1308,
     "uikTvd": "469403970683",
+    "uikName": "УИК №1308",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -5947,8 +6901,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1309,
     "uikTvd": "469403970684",
+    "uikName": "УИК №1309",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 97,
@@ -6003,8 +6966,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1310,
     "uikTvd": "469403970685",
+    "uikName": "УИК №1310",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 451,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -6059,8 +7031,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1311,
     "uikTvd": "469403970686",
+    "uikName": "УИК №1311",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 84,
@@ -6115,8 +7096,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1312,
     "uikTvd": "469403970687",
+    "uikName": "УИК №1312",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -6171,8 +7161,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1313,
     "uikTvd": "469403970688",
+    "uikName": "УИК №1313",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 709,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -6227,8 +7226,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1314,
     "uikTvd": "469403970689",
+    "uikName": "УИК №1314",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 559,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -6283,8 +7291,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1315,
     "uikTvd": "469403970690",
+    "uikName": "УИК №1315",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -6339,8 +7356,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1316,
     "uikTvd": "469403970691",
+    "uikName": "УИК №1316",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -6395,8 +7421,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1317,
     "uikTvd": "469403970692",
+    "uikName": "УИК №1317",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -6451,8 +7486,17 @@ export const duma_2003_uik_428_region_69_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1318,
     "uikTvd": "469403970648",
+    "uikName": "УИК №1318",
     "tikTvd": "369300270527",
     "tikName": "Торопецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 173,
+      "oikTvd": "100100095773",
+      "oikName": "Тверской"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 190,

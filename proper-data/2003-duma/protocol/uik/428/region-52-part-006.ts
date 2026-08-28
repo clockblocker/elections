@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1443,
     "uikTvd": "452403670473",
+    "uikName": "УИК №1443",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -66,8 +75,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1444,
     "uikTvd": "452403670474",
+    "uikName": "УИК №1444",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2347,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -121,8 +139,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1445,
     "uikTvd": "452403670475",
+    "uikName": "УИК №1445",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2399,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -176,8 +203,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1446,
     "uikTvd": "452403670476",
+    "uikName": "УИК №1446",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1681,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -231,8 +267,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1447,
     "uikTvd": "452403670477",
+    "uikName": "УИК №1447",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2659,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -286,8 +331,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1448,
     "uikTvd": "452403670478",
+    "uikName": "УИК №1448",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2816,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -341,8 +395,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1449,
     "uikTvd": "452403670479",
+    "uikName": "УИК №1449",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2232,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -396,8 +459,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1450,
     "uikTvd": "452403670480",
+    "uikName": "УИК №1450",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1849,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -451,8 +523,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1451,
     "uikTvd": "452403670481",
+    "uikName": "УИК №1451",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1648,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -506,8 +587,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1452,
     "uikTvd": "452403670482",
+    "uikName": "УИК №1452",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1984,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -561,8 +651,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1453,
     "uikTvd": "452403670483",
+    "uikName": "УИК №1453",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1290,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -616,8 +715,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1454,
     "uikTvd": "452403670484",
+    "uikName": "УИК №1454",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1130,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -671,8 +779,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1455,
     "uikTvd": "452403670485",
+    "uikName": "УИК №1455",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1260,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -726,8 +843,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1456,
     "uikTvd": "452403670486",
+    "uikName": "УИК №1456",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1392,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -781,8 +907,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1457,
     "uikTvd": "452403670487",
+    "uikName": "УИК №1457",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1373,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -836,8 +971,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1458,
     "uikTvd": "452403670488",
+    "uikName": "УИК №1458",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2128,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -891,8 +1035,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1459,
     "uikTvd": "452403670489",
+    "uikName": "УИК №1459",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1621,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -946,8 +1099,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1460,
     "uikTvd": "452403670490",
+    "uikName": "УИК №1460",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1503,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1001,8 +1163,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1461,
     "uikTvd": "452403670491",
+    "uikName": "УИК №1461",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2194,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1056,8 +1227,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1462,
     "uikTvd": "452403670492",
+    "uikName": "УИК №1462",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1423,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1111,8 +1291,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1463,
     "uikTvd": "452403670493",
+    "uikName": "УИК №1463",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1876,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1166,8 +1355,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1464,
     "uikTvd": "452403670494",
+    "uikName": "УИК №1464",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1693,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1221,8 +1419,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1465,
     "uikTvd": "452403670495",
+    "uikName": "УИК №1465",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1528,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1276,8 +1483,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1466,
     "uikTvd": "452403670496",
+    "uikName": "УИК №1466",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1211,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1331,8 +1547,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1467,
     "uikTvd": "452403670497",
+    "uikName": "УИК №1467",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1874,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1386,8 +1611,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1468,
     "uikTvd": "452403670498",
+    "uikName": "УИК №1468",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1647,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1441,8 +1675,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1469,
     "uikTvd": "452403670499",
+    "uikName": "УИК №1469",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1946,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1496,8 +1739,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1470,
     "uikTvd": "452403670500",
+    "uikName": "УИК №1470",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2571,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1551,8 +1803,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1471,
     "uikTvd": "452403670501",
+    "uikName": "УИК №1471",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2452,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1606,8 +1867,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1472,
     "uikTvd": "452403670502",
+    "uikName": "УИК №1472",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2556,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1661,8 +1931,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1473,
     "uikTvd": "452403670503",
+    "uikName": "УИК №1473",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2688,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1716,8 +1995,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1474,
     "uikTvd": "452403670504",
+    "uikName": "УИК №1474",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2464,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1771,8 +2059,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1475,
     "uikTvd": "452403670505",
+    "uikName": "УИК №1475",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2671,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1826,8 +2123,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1476,
     "uikTvd": "452403670506",
+    "uikName": "УИК №1476",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2585,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1881,8 +2187,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1477,
     "uikTvd": "452403670507",
+    "uikName": "УИК №1477",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2002,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1936,8 +2251,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1478,
     "uikTvd": "452403670508",
+    "uikName": "УИК №1478",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2380,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1991,8 +2315,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1479,
     "uikTvd": "452403670509",
+    "uikName": "УИК №1479",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2041,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2046,8 +2379,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1480,
     "uikTvd": "452403670510",
+    "uikName": "УИК №1480",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1965,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2101,8 +2443,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1481,
     "uikTvd": "452403670511",
+    "uikName": "УИК №1481",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1843,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2156,8 +2507,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1482,
     "uikTvd": "452403670512",
+    "uikName": "УИК №1482",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1941,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2211,8 +2571,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1483,
     "uikTvd": "452403670513",
+    "uikName": "УИК №1483",
     "tikTvd": "352300470370",
     "tikName": "Нижний Новгород, Канавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1751,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2266,8 +2635,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1614,
     "uikTvd": "452403972157",
+    "uikName": "УИК №1614",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2131,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2321,8 +2699,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1615,
     "uikTvd": "452403972159",
+    "uikName": "УИК №1615",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1083,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -2376,8 +2763,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1616,
     "uikTvd": "452403972160",
+    "uikName": "УИК №1616",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2221,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -2431,8 +2827,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1617,
     "uikTvd": "452403972161",
+    "uikName": "УИК №1617",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2068,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2486,8 +2891,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1618,
     "uikTvd": "452403972162",
+    "uikName": "УИК №1618",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -2541,8 +2955,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1619,
     "uikTvd": "452403972163",
+    "uikName": "УИК №1619",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1343,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2596,8 +3019,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1620,
     "uikTvd": "452403972164",
+    "uikName": "УИК №1620",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2065,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -2651,8 +3083,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1621,
     "uikTvd": "452403972165",
+    "uikName": "УИК №1621",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1197,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2706,8 +3147,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1622,
     "uikTvd": "452403972166",
+    "uikName": "УИК №1622",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -2761,8 +3211,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1623,
     "uikTvd": "452403972167",
+    "uikName": "УИК №1623",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1898,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -2816,8 +3275,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1624,
     "uikTvd": "452403972168",
+    "uikName": "УИК №1624",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1946,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -2871,8 +3339,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1625,
     "uikTvd": "452403972169",
+    "uikName": "УИК №1625",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2385,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -2926,8 +3403,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1626,
     "uikTvd": "452403972170",
+    "uikName": "УИК №1626",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1792,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -2981,8 +3467,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1627,
     "uikTvd": "452403972171",
+    "uikName": "УИК №1627",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2521,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3036,8 +3531,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1628,
     "uikTvd": "452403972172",
+    "uikName": "УИК №1628",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1918,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3091,8 +3595,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1629,
     "uikTvd": "452403972173",
+    "uikName": "УИК №1629",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1672,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -3146,8 +3659,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1630,
     "uikTvd": "452403972174",
+    "uikName": "УИК №1630",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2612,
       "Число бюллетеней, полученных участковыми комиссиями": 2390,
@@ -3201,8 +3723,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1631,
     "uikTvd": "452403972175",
+    "uikName": "УИК №1631",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1767,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -3256,8 +3787,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1632,
     "uikTvd": "452403972176",
+    "uikName": "УИК №1632",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1796,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -3311,8 +3851,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1633,
     "uikTvd": "452403972177",
+    "uikName": "УИК №1633",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2015,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -3366,8 +3915,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1634,
     "uikTvd": "452403972178",
+    "uikName": "УИК №1634",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 620,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -3421,8 +3979,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1635,
     "uikTvd": "452403972179",
+    "uikName": "УИК №1635",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2012,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -3476,8 +4043,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1636,
     "uikTvd": "452403972180",
+    "uikName": "УИК №1636",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1977,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -3531,8 +4107,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1637,
     "uikTvd": "452403972181",
+    "uikName": "УИК №1637",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2011,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -3586,8 +4171,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1638,
     "uikTvd": "452403972182",
+    "uikName": "УИК №1638",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2822,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -3641,8 +4235,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1639,
     "uikTvd": "452403972183",
+    "uikName": "УИК №1639",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2198,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3696,8 +4299,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1640,
     "uikTvd": "452403972184",
+    "uikName": "УИК №1640",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2035,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -3751,8 +4363,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1641,
     "uikTvd": "452403972185",
+    "uikName": "УИК №1641",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1918,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -3806,8 +4427,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1642,
     "uikTvd": "452403972186",
+    "uikName": "УИК №1642",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1611,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -3861,8 +4491,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1643,
     "uikTvd": "452403972187",
+    "uikName": "УИК №1643",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2678,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3916,8 +4555,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1644,
     "uikTvd": "452403972188",
+    "uikName": "УИК №1644",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2354,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -3971,8 +4619,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1645,
     "uikTvd": "452403972189",
+    "uikName": "УИК №1645",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4026,8 +4683,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1646,
     "uikTvd": "452403972190",
+    "uikName": "УИК №1646",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2224,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -4081,8 +4747,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1647,
     "uikTvd": "452403972191",
+    "uikName": "УИК №1647",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2733,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -4136,8 +4811,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1648,
     "uikTvd": "452403972192",
+    "uikName": "УИК №1648",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2785,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -4191,8 +4875,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1649,
     "uikTvd": "452403972193",
+    "uikName": "УИК №1649",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2744,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4246,8 +4939,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1650,
     "uikTvd": "452403972194",
+    "uikName": "УИК №1650",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1755,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -4301,8 +5003,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1651,
     "uikTvd": "452403972195",
+    "uikName": "УИК №1651",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2837,
       "Число бюллетеней, полученных участковыми комиссиями": 2580,
@@ -4356,8 +5067,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1652,
     "uikTvd": "452403972196",
+    "uikName": "УИК №1652",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1247,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -4411,8 +5131,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1653,
     "uikTvd": "452403972197",
+    "uikName": "УИК №1653",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2226,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -4466,8 +5195,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1654,
     "uikTvd": "452403972198",
+    "uikName": "УИК №1654",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2405,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -4521,8 +5259,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1655,
     "uikTvd": "452403972199",
+    "uikName": "УИК №1655",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2590,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -4576,8 +5323,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1656,
     "uikTvd": "452403972200",
+    "uikName": "УИК №1656",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2299,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -4631,8 +5387,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1657,
     "uikTvd": "452403972201",
+    "uikName": "УИК №1657",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -4686,8 +5451,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1658,
     "uikTvd": "452403972202",
+    "uikName": "УИК №1658",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2590,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -4741,8 +5515,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1659,
     "uikTvd": "452403972203",
+    "uikName": "УИК №1659",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2894,
       "Число бюллетеней, полученных участковыми комиссиями": 2630,
@@ -4796,8 +5579,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1660,
     "uikTvd": "452403972204",
+    "uikName": "УИК №1660",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2777,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -4851,8 +5643,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1661,
     "uikTvd": "452403972205",
+    "uikName": "УИК №1661",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2576,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -4906,8 +5707,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1662,
     "uikTvd": "452403972206",
+    "uikName": "УИК №1662",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1163,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -4961,8 +5771,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1663,
     "uikTvd": "452403972207",
+    "uikName": "УИК №1663",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1202,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -5016,8 +5835,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1664,
     "uikTvd": "452403972208",
+    "uikName": "УИК №1664",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5071,8 +5899,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1665,
     "uikTvd": "452403972209",
+    "uikName": "УИК №1665",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2328,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -5126,8 +5963,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1666,
     "uikTvd": "452403972210",
+    "uikName": "УИК №1666",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2498,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -5181,8 +6027,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2501,
     "uikTvd": "452403972949",
+    "uikName": "УИК №2501",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 12,
@@ -5236,8 +6091,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2502,
     "uikTvd": "452403972950",
+    "uikName": "УИК №2502",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 12,
@@ -5291,8 +6155,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2503,
     "uikTvd": "452403972951",
+    "uikName": "УИК №2503",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -5346,8 +6219,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2504,
     "uikTvd": "452403972952",
+    "uikName": "УИК №2504",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 11,
       "Число бюллетеней, полученных участковыми комиссиями": 11,
@@ -5401,8 +6283,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2505,
     "uikTvd": "452403972953",
+    "uikName": "УИК №2505",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 15,
@@ -5456,8 +6347,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2506,
     "uikTvd": "452403972954",
+    "uikName": "УИК №2506",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -5511,8 +6411,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2507,
     "uikTvd": "452403972955",
+    "uikName": "УИК №2507",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -5566,8 +6475,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2508,
     "uikTvd": "452403972956",
+    "uikName": "УИК №2508",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 12,
@@ -5621,8 +6539,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2509,
     "uikTvd": "452403972957",
+    "uikName": "УИК №2509",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 11,
       "Число бюллетеней, полученных участковыми комиссиями": 11,
@@ -5676,8 +6603,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2510,
     "uikTvd": "452403972958",
+    "uikName": "УИК №2510",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -5731,8 +6667,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2511,
     "uikTvd": "452403972959",
+    "uikName": "УИК №2511",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 15,
@@ -5786,8 +6731,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2512,
     "uikTvd": "452403972960",
+    "uikName": "УИК №2512",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 12,
@@ -5841,8 +6795,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2513,
     "uikTvd": "452403972961",
+    "uikName": "УИК №2513",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -5896,8 +6859,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2514,
     "uikTvd": "452403972962",
+    "uikName": "УИК №2514",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -5951,8 +6923,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2515,
     "uikTvd": "452403972963",
+    "uikName": "УИК №2515",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -6006,8 +6987,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2516,
     "uikTvd": "452403972964",
+    "uikName": "УИК №2516",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 12,
@@ -6061,8 +7051,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2517,
     "uikTvd": "452403972965",
+    "uikName": "УИК №2517",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -6116,8 +7115,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2518,
     "uikTvd": "452403972966",
+    "uikName": "УИК №2518",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 15,
@@ -6171,8 +7179,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2519,
     "uikTvd": "452403972967",
+    "uikName": "УИК №2519",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -6226,8 +7243,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2520,
     "uikTvd": "452403972968",
+    "uikName": "УИК №2520",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -6281,8 +7307,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2521,
     "uikTvd": "452403972969",
+    "uikName": "УИК №2521",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -6336,8 +7371,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2522,
     "uikTvd": "452403972970",
+    "uikName": "УИК №2522",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -6391,8 +7435,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2523,
     "uikTvd": "452403972971",
+    "uikName": "УИК №2523",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -6446,8 +7499,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2524,
     "uikTvd": "452403972972",
+    "uikName": "УИК №2524",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -6501,8 +7563,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2525,
     "uikTvd": "452403972973",
+    "uikName": "УИК №2525",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -6556,8 +7627,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2526,
     "uikTvd": "452403972974",
+    "uikName": "УИК №2526",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 12,
@@ -6611,8 +7691,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2527,
     "uikTvd": "452403972975",
+    "uikName": "УИК №2527",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 12,
@@ -6666,8 +7755,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2528,
     "uikTvd": "452403972976",
+    "uikName": "УИК №2528",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -6721,8 +7819,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2529,
     "uikTvd": "452403972977",
+    "uikName": "УИК №2529",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -6776,8 +7883,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2530,
     "uikTvd": "452403972978",
+    "uikName": "УИК №2530",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -6831,8 +7947,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2531,
     "uikTvd": "452403972979",
+    "uikName": "УИК №2531",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -6886,8 +8011,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2532,
     "uikTvd": "452403972980",
+    "uikName": "УИК №2532",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -6941,8 +8075,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2533,
     "uikTvd": "452403972981",
+    "uikName": "УИК №2533",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 12,
@@ -6996,8 +8139,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2534,
     "uikTvd": "452403972982",
+    "uikName": "УИК №2534",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -7051,8 +8203,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2535,
     "uikTvd": "452403972983",
+    "uikName": "УИК №2535",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 15,
@@ -7106,8 +8267,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2536,
     "uikTvd": "452403972984",
+    "uikName": "УИК №2536",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 15,
@@ -7161,8 +8331,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2537,
     "uikTvd": "452403972985",
+    "uikName": "УИК №2537",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -7216,8 +8395,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2538,
     "uikTvd": "452403972986",
+    "uikName": "УИК №2538",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 12,
@@ -7271,8 +8459,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2539,
     "uikTvd": "452403972987",
+    "uikName": "УИК №2539",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -7326,8 +8523,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2540,
     "uikTvd": "452403972988",
+    "uikName": "УИК №2540",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -7381,8 +8587,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2541,
     "uikTvd": "452403972989",
+    "uikName": "УИК №2541",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -7436,8 +8651,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2542,
     "uikTvd": "452403972990",
+    "uikName": "УИК №2542",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -7491,8 +8715,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2543,
     "uikTvd": "452403972991",
+    "uikName": "УИК №2543",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -7546,8 +8779,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2544,
     "uikTvd": "452403972992",
+    "uikName": "УИК №2544",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -7601,8 +8843,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2545,
     "uikTvd": "452403972993",
+    "uikName": "УИК №2545",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -7656,8 +8907,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2546,
     "uikTvd": "452403972994",
+    "uikName": "УИК №2546",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -7711,8 +8971,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2547,
     "uikTvd": "452403972995",
+    "uikName": "УИК №2547",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -7766,8 +9035,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2548,
     "uikTvd": "452403972996",
+    "uikName": "УИК №2548",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -7821,8 +9099,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2549,
     "uikTvd": "452403972997",
+    "uikName": "УИК №2549",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -7876,8 +9163,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2550,
     "uikTvd": "452403972998",
+    "uikName": "УИК №2550",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 13,
@@ -7931,8 +9227,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2551,
     "uikTvd": "452403972999",
+    "uikName": "УИК №2551",
     "tikTvd": "352300470371",
     "tikName": "Нижний Новгород, Нижегородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 15,
@@ -7986,8 +9291,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1772,
     "uikTvd": "452404270490",
+    "uikName": "УИК №1772",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1465,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8041,8 +9355,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1773,
     "uikTvd": "452404270492",
+    "uikName": "УИК №1773",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1839,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8096,8 +9419,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1774,
     "uikTvd": "452404270493",
+    "uikName": "УИК №1774",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1418,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8151,8 +9483,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1775,
     "uikTvd": "452404270494",
+    "uikName": "УИК №1775",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2273,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8206,8 +9547,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1776,
     "uikTvd": "452404270495",
+    "uikName": "УИК №1776",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2710,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8261,8 +9611,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1777,
     "uikTvd": "452404270496",
+    "uikName": "УИК №1777",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2131,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8316,8 +9675,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1778,
     "uikTvd": "452404270497",
+    "uikName": "УИК №1778",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2564,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8371,8 +9739,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1779,
     "uikTvd": "452404270498",
+    "uikName": "УИК №1779",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1969,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8426,8 +9803,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1780,
     "uikTvd": "452404270499",
+    "uikName": "УИК №1780",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1941,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8481,8 +9867,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1781,
     "uikTvd": "452404270500",
+    "uikName": "УИК №1781",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2349,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8536,8 +9931,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1782,
     "uikTvd": "452404270501",
+    "uikName": "УИК №1782",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2904,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8591,8 +9995,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1783,
     "uikTvd": "452404270502",
+    "uikName": "УИК №1783",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2575,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8646,8 +10059,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1784,
     "uikTvd": "452404270503",
+    "uikName": "УИК №1784",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1960,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8701,8 +10123,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1785,
     "uikTvd": "452404270504",
+    "uikName": "УИК №1785",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2034,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8756,8 +10187,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1786,
     "uikTvd": "452404270505",
+    "uikName": "УИК №1786",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1804,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8811,8 +10251,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1787,
     "uikTvd": "452404270506",
+    "uikName": "УИК №1787",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1666,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8866,8 +10315,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1788,
     "uikTvd": "452404270507",
+    "uikName": "УИК №1788",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2406,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8921,8 +10379,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1789,
     "uikTvd": "452404270508",
+    "uikName": "УИК №1789",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1678,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8976,8 +10443,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1790,
     "uikTvd": "452404270509",
+    "uikName": "УИК №1790",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2437,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9031,8 +10507,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1791,
     "uikTvd": "452404270510",
+    "uikName": "УИК №1791",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2138,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9086,8 +10571,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1792,
     "uikTvd": "452404270511",
+    "uikName": "УИК №1792",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2228,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9141,8 +10635,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1793,
     "uikTvd": "452404270512",
+    "uikName": "УИК №1793",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2441,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9196,8 +10699,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1794,
     "uikTvd": "452404270513",
+    "uikName": "УИК №1794",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1809,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9251,8 +10763,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1795,
     "uikTvd": "452404270514",
+    "uikName": "УИК №1795",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1841,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9306,8 +10827,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1796,
     "uikTvd": "452404270515",
+    "uikName": "УИК №1796",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1981,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9361,8 +10891,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1797,
     "uikTvd": "452404270516",
+    "uikName": "УИК №1797",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1864,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9416,8 +10955,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1798,
     "uikTvd": "452404270517",
+    "uikName": "УИК №1798",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1919,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9471,8 +11019,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1799,
     "uikTvd": "452404270518",
+    "uikName": "УИК №1799",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1675,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9526,8 +11083,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1800,
     "uikTvd": "452404270519",
+    "uikName": "УИК №1800",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2033,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9581,8 +11147,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1801,
     "uikTvd": "452404270520",
+    "uikName": "УИК №1801",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1594,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9636,8 +11211,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1802,
     "uikTvd": "452404270521",
+    "uikName": "УИК №1802",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1316,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9691,8 +11275,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1803,
     "uikTvd": "452404270522",
+    "uikName": "УИК №1803",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1704,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9746,8 +11339,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1804,
     "uikTvd": "452404270523",
+    "uikName": "УИК №1804",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2654,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9801,8 +11403,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1805,
     "uikTvd": "452404270524",
+    "uikName": "УИК №1805",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2142,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9856,8 +11467,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1806,
     "uikTvd": "452404270525",
+    "uikName": "УИК №1806",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2787,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9911,8 +11531,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1807,
     "uikTvd": "452404270526",
+    "uikName": "УИК №1807",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2571,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9966,8 +11595,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1808,
     "uikTvd": "452404270527",
+    "uikName": "УИК №1808",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2395,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10021,8 +11659,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1809,
     "uikTvd": "452404270528",
+    "uikName": "УИК №1809",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2590,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10076,8 +11723,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1810,
     "uikTvd": "452404270529",
+    "uikName": "УИК №1810",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2268,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10131,8 +11787,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1811,
     "uikTvd": "452404270530",
+    "uikName": "УИК №1811",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3903,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -10186,8 +11851,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1812,
     "uikTvd": "452404270531",
+    "uikName": "УИК №1812",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1635,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10241,8 +11915,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1813,
     "uikTvd": "452404270532",
+    "uikName": "УИК №1813",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1510,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10296,8 +11979,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1814,
     "uikTvd": "452404270533",
+    "uikName": "УИК №1814",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2258,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10351,8 +12043,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1815,
     "uikTvd": "452404270534",
+    "uikName": "УИК №1815",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2036,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10406,8 +12107,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1816,
     "uikTvd": "452404270535",
+    "uikName": "УИК №1816",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1809,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10461,8 +12171,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1817,
     "uikTvd": "452404270536",
+    "uikName": "УИК №1817",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1754,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10516,8 +12235,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1818,
     "uikTvd": "452404270537",
+    "uikName": "УИК №1818",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1800,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10571,8 +12299,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1819,
     "uikTvd": "452404270538",
+    "uikName": "УИК №1819",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2416,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10626,8 +12363,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1820,
     "uikTvd": "452404270539",
+    "uikName": "УИК №1820",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2140,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10681,8 +12427,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1821,
     "uikTvd": "452404270540",
+    "uikName": "УИК №1821",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2077,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10736,8 +12491,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1822,
     "uikTvd": "452404270541",
+    "uikName": "УИК №1822",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1993,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10791,8 +12555,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1823,
     "uikTvd": "452404270542",
+    "uikName": "УИК №1823",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2458,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10846,8 +12619,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1824,
     "uikTvd": "452404270543",
+    "uikName": "УИК №1824",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10901,8 +12683,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1825,
     "uikTvd": "452404270544",
+    "uikName": "УИК №1825",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1930,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10956,8 +12747,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1826,
     "uikTvd": "452404270545",
+    "uikName": "УИК №1826",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2444,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11011,8 +12811,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1827,
     "uikTvd": "452404270546",
+    "uikName": "УИК №1827",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2487,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11066,8 +12875,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1828,
     "uikTvd": "452404270547",
+    "uikName": "УИК №1828",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2067,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11121,8 +12939,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1829,
     "uikTvd": "452404270548",
+    "uikName": "УИК №1829",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11176,8 +13003,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1830,
     "uikTvd": "452404270549",
+    "uikName": "УИК №1830",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11231,8 +13067,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1831,
     "uikTvd": "452404270550",
+    "uikName": "УИК №1831",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2720,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11286,8 +13131,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1832,
     "uikTvd": "452404270551",
+    "uikName": "УИК №1832",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2947,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11341,8 +13195,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1833,
     "uikTvd": "452404270552",
+    "uikName": "УИК №1833",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2686,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11396,8 +13259,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1834,
     "uikTvd": "452404270553",
+    "uikName": "УИК №1834",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2256,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11451,8 +13323,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1835,
     "uikTvd": "452404270554",
+    "uikName": "УИК №1835",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2730,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11506,8 +13387,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1836,
     "uikTvd": "452404270555",
+    "uikName": "УИК №1836",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11561,8 +13451,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1837,
     "uikTvd": "452404270556",
+    "uikName": "УИК №1837",
     "tikTvd": "352300470372",
     "tikName": "Нижний Новгород, Сормовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 120,
+      "oikTvd": "100100095829",
+      "oikName": "Канавинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1811,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11616,8 +13515,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "452400470372",
+    "uikName": "УИК №154",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2767,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11664,8 +13572,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "452400470373",
+    "uikName": "УИК №155",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2670,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -11712,8 +13629,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "452400470374",
+    "uikName": "УИК №156",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2600,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -11760,8 +13686,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "452400470375",
+    "uikName": "УИК №157",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2843,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11808,8 +13743,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "452400470376",
+    "uikName": "УИК №158",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1295,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11856,8 +13800,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "452400470377",
+    "uikName": "УИК №159",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1519,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11904,8 +13857,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "452400470378",
+    "uikName": "УИК №160",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2805,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -11952,8 +13914,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "452400470379",
+    "uikName": "УИК №161",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2741,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -12000,8 +13971,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "452400470380",
+    "uikName": "УИК №162",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1930,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -12048,8 +14028,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "452400470381",
+    "uikName": "УИК №163",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1134,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -12096,8 +14085,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "452400470382",
+    "uikName": "УИК №164",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2836,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -12144,8 +14142,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "452400470383",
+    "uikName": "УИК №165",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2585,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -12192,8 +14199,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "452400470384",
+    "uikName": "УИК №166",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2832,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -12240,8 +14256,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "452400470385",
+    "uikName": "УИК №167",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2707,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -12288,8 +14313,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "452400470386",
+    "uikName": "УИК №168",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2707,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -12336,8 +14370,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "452400470387",
+    "uikName": "УИК №169",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2882,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -12384,8 +14427,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "452400470388",
+    "uikName": "УИК №170",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2707,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -12432,8 +14484,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "452400470389",
+    "uikName": "УИК №171",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2791,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -12480,8 +14541,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "452400470390",
+    "uikName": "УИК №172",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2786,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -12528,8 +14598,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "452400470391",
+    "uikName": "УИК №173",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1640,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -12576,8 +14655,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "452400470392",
+    "uikName": "УИК №174",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1489,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -12624,8 +14712,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "452400470393",
+    "uikName": "УИК №175",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1647,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -12672,8 +14769,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "452400470394",
+    "uikName": "УИК №176",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1571,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -12720,8 +14826,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "452400470395",
+    "uikName": "УИК №177",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1120,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -12768,8 +14883,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "452400470396",
+    "uikName": "УИК №178",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1717,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -12816,8 +14940,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "452400470397",
+    "uikName": "УИК №179",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1827,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -12864,8 +14997,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "452400470398",
+    "uikName": "УИК №180",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 644,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -12912,8 +15054,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "452400470399",
+    "uikName": "УИК №181",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1376,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -12960,8 +15111,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "452400470400",
+    "uikName": "УИК №182",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1019,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -13008,8 +15168,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "452400470401",
+    "uikName": "УИК №183",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2464,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -13056,8 +15225,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "452400470402",
+    "uikName": "УИК №184",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -13104,8 +15282,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "452400470403",
+    "uikName": "УИК №185",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -13152,8 +15339,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "452400470404",
+    "uikName": "УИК №186",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1214,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -13200,8 +15396,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "452400470405",
+    "uikName": "УИК №187",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 906,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -13248,8 +15453,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "452400470406",
+    "uikName": "УИК №188",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -13296,8 +15510,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "452400470407",
+    "uikName": "УИК №189",
     "tikTvd": "352300570473",
     "tikName": "Балахнинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1125,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -13344,8 +15567,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "452401170491",
+    "uikName": "УИК №423",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2424,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -13392,8 +15624,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "452401170492",
+    "uikName": "УИК №424",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1091,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -13440,8 +15681,17 @@ export const duma_2003_uik_428_region_52_part_006 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "452401170493",
+    "uikName": "УИК №425",
     "tikTvd": "352300570474",
     "tikName": "Варнавинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 122,
+      "oikTvd": "100100095831",
+      "oikName": "Семеновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 230,

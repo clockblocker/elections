@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_8_part_002 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "408401370415",
+    "uikName": "УИК №251",
     "tikTvd": "208200066634",
     "tikName": "Яшкульская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 341,
@@ -63,8 +72,17 @@ export const duma_2003_uik_428_region_8_part_002 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "408401370417",
+    "uikName": "УИК №252",
     "tikTvd": "208200066634",
     "tikName": "Яшкульская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 580,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -115,8 +133,17 @@ export const duma_2003_uik_428_region_8_part_002 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "408401370419",
+    "uikName": "УИК №253",
     "tikTvd": "208200066634",
     "tikName": "Яшкульская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -167,8 +194,17 @@ export const duma_2003_uik_428_region_8_part_002 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "408401370421",
+    "uikName": "УИК №254",
     "tikTvd": "208200066634",
     "tikName": "Яшкульская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -219,8 +255,17 @@ export const duma_2003_uik_428_region_8_part_002 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "408401370423",
+    "uikName": "УИК №255",
     "tikTvd": "208200066634",
     "tikName": "Яшкульская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 708,
       "Число бюллетеней, полученных участковыми комиссиями": 716,
@@ -271,8 +316,17 @@ export const duma_2003_uik_428_region_8_part_002 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "408401370425",
+    "uikName": "УИК №256",
     "tikTvd": "208200066634",
     "tikName": "Яшкульская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1232,
       "Число бюллетеней, полученных участковыми комиссиями": 1227,
@@ -323,8 +377,17 @@ export const duma_2003_uik_428_region_8_part_002 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "408401370427",
+    "uikName": "УИК №257",
     "tikTvd": "208200066634",
     "tikName": "Яшкульская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1169,
       "Число бюллетеней, полученных участковыми комиссиями": 1175,
@@ -375,8 +438,17 @@ export const duma_2003_uik_428_region_8_part_002 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "408401370499",
+    "uikName": "УИК №258",
     "tikTvd": "208200066634",
     "tikName": "Яшкульская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1457,
       "Число бюллетеней, полученных участковыми комиссиями": 1449,

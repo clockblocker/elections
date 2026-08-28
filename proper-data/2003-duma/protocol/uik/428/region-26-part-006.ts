@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "426401570552",
+    "uikName": "УИК №613",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -67,8 +76,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "426401570553",
+    "uikName": "УИК №614",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 550,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -123,8 +141,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "426401570554",
+    "uikName": "УИК №615",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -179,8 +206,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "426401570555",
+    "uikName": "УИК №616",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -235,8 +271,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "426401570556",
+    "uikName": "УИК №617",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 847,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -291,8 +336,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "426401570557",
+    "uikName": "УИК №618",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -347,8 +401,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "426401570558",
+    "uikName": "УИК №619",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -403,8 +466,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "426401570559",
+    "uikName": "УИК №620",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1160,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -459,8 +531,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "426401570560",
+    "uikName": "УИК №621",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1180,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -515,8 +596,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "426401570561",
+    "uikName": "УИК №622",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1614,
       "Число бюллетеней, полученных участковыми комиссиями": 1465,
@@ -571,8 +661,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "426401570562",
+    "uikName": "УИК №623",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -627,8 +726,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "426401570563",
+    "uikName": "УИК №624",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1187,
       "Число бюллетеней, полученных участковыми комиссиями": 1075,
@@ -683,8 +791,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "426401570564",
+    "uikName": "УИК №625",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 606,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -739,8 +856,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "426401570565",
+    "uikName": "УИК №626",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -795,8 +921,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "426401570566",
+    "uikName": "УИК №627",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1714,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -851,8 +986,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "426401570567",
+    "uikName": "УИК №628",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1740,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -907,8 +1051,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "426401570568",
+    "uikName": "УИК №629",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 986,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -963,8 +1116,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "426401570569",
+    "uikName": "УИК №630",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -1019,8 +1181,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "426401570570",
+    "uikName": "УИК №631",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -1075,8 +1246,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "426401570571",
+    "uikName": "УИК №632",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -1131,8 +1311,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "426401570572",
+    "uikName": "УИК №633",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1187,8 +1376,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "426401570573",
+    "uikName": "УИК №634",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 449,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -1243,8 +1441,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "426401570574",
+    "uikName": "УИК №635",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -1299,8 +1506,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "426401570575",
+    "uikName": "УИК №636",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -1355,8 +1571,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "426401570576",
+    "uikName": "УИК №637",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1411,8 +1636,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "426401570577",
+    "uikName": "УИК №638",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 957,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -1467,8 +1701,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "426401570578",
+    "uikName": "УИК №639",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -1523,8 +1766,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "426401570579",
+    "uikName": "УИК №640",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1579,8 +1831,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "426401570580",
+    "uikName": "УИК №641",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1475,
@@ -1635,8 +1896,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "426401570581",
+    "uikName": "УИК №642",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 675,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -1691,8 +1961,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "426401570582",
+    "uikName": "УИК №643",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2106,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -1747,8 +2026,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "426401570583",
+    "uikName": "УИК №644",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 619,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1803,8 +2091,17 @@ export const duma_2003_uik_428_region_26_part_006 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "426401570584",
+    "uikName": "УИК №645",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1062,
       "Число бюллетеней, полученных участковыми комиссиями": 960,

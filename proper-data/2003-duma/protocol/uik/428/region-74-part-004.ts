@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "474404266839",
+    "uikName": "УИК №637",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1827,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -64,8 +73,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "474404266840",
+    "uikName": "УИК №638",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2049,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -117,8 +135,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "474404266841",
+    "uikName": "УИК №639",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1818,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -170,8 +197,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "474404266842",
+    "uikName": "УИК №640",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1538,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -223,8 +259,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "474404266843",
+    "uikName": "УИК №641",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1869,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -276,8 +321,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "474404266844",
+    "uikName": "УИК №642",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2207,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -329,8 +383,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "474404266845",
+    "uikName": "УИК №643",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1701,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -382,8 +445,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "474404266846",
+    "uikName": "УИК №644",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1490,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -435,8 +507,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "474404266847",
+    "uikName": "УИК №645",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2122,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -488,8 +569,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "474404266848",
+    "uikName": "УИК №646",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 958,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -541,8 +631,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "474404266849",
+    "uikName": "УИК №647",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 822,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -594,8 +693,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "474404266850",
+    "uikName": "УИК №648",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2571,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -647,8 +755,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "474404266851",
+    "uikName": "УИК №649",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2571,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -700,8 +817,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "474404266852",
+    "uikName": "УИК №650",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1992,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -753,8 +879,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "474404266853",
+    "uikName": "УИК №651",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1994,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -806,8 +941,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "474404266854",
+    "uikName": "УИК №652",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1700,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -859,8 +1003,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "474404266855",
+    "uikName": "УИК №653",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2167,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -912,8 +1065,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "474404266856",
+    "uikName": "УИК №654",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -965,8 +1127,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "474404266857",
+    "uikName": "УИК №655",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1667,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1018,8 +1189,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "474404266858",
+    "uikName": "УИК №656",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1071,8 +1251,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "474404266859",
+    "uikName": "УИК №657",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -1124,8 +1313,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 774,
     "uikTvd": "474404766752",
+    "uikName": "УИК №774",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2380,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -1177,8 +1375,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 775,
     "uikTvd": "474404766753",
+    "uikName": "УИК №775",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2702,
       "Число бюллетеней, полученных участковыми комиссиями": 2440,
@@ -1230,8 +1437,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "474404766754",
+    "uikName": "УИК №776",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2664,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -1283,8 +1499,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "474404766755",
+    "uikName": "УИК №777",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1037,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1336,8 +1561,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "474404766756",
+    "uikName": "УИК №778",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1171,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -1389,8 +1623,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "474404766757",
+    "uikName": "УИК №779",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1573,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -1442,8 +1685,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "474404766758",
+    "uikName": "УИК №780",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1868,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -1495,8 +1747,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "474404766759",
+    "uikName": "УИК №781",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -1548,8 +1809,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "474404766760",
+    "uikName": "УИК №782",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2207,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -1601,8 +1871,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "474404766761",
+    "uikName": "УИК №783",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1792,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -1654,8 +1933,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "474404766762",
+    "uikName": "УИК №784",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1254,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -1707,8 +1995,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "474404766763",
+    "uikName": "УИК №785",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1571,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -1760,8 +2057,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "474404766764",
+    "uikName": "УИК №786",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1651,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1813,8 +2119,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "474404766765",
+    "uikName": "УИК №787",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1769,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1866,8 +2181,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "474404766766",
+    "uikName": "УИК №788",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1418,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -1919,8 +2243,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "474404766767",
+    "uikName": "УИК №789",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1105,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -1972,8 +2305,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "474404766768",
+    "uikName": "УИК №790",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1075,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -2025,8 +2367,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "474404766769",
+    "uikName": "УИК №791",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1321,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2078,8 +2429,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "474404766770",
+    "uikName": "УИК №792",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1562,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2131,8 +2491,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "474404766771",
+    "uikName": "УИК №793",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1491,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2184,8 +2553,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "474404766772",
+    "uikName": "УИК №794",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1275,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -2237,8 +2615,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "474404766773",
+    "uikName": "УИК №795",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1655,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -2290,8 +2677,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "474404766774",
+    "uikName": "УИК №796",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1435,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -2343,8 +2739,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "474404766775",
+    "uikName": "УИК №797",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1667,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2396,8 +2801,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "474404766776",
+    "uikName": "УИК №798",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2229,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -2449,8 +2863,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "474404766777",
+    "uikName": "УИК №799",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2379,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2502,8 +2925,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "474404766778",
+    "uikName": "УИК №800",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2016,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2555,8 +2987,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "474404766779",
+    "uikName": "УИК №801",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2261,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -2608,8 +3049,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "474404766780",
+    "uikName": "УИК №802",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2305,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -2661,8 +3111,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "474404766781",
+    "uikName": "УИК №803",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1476,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -2714,8 +3173,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "474404766782",
+    "uikName": "УИК №804",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1084,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -2767,8 +3235,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "474404766783",
+    "uikName": "УИК №805",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2284,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -2820,8 +3297,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "474404766784",
+    "uikName": "УИК №806",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2088,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -2873,8 +3359,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "474404766785",
+    "uikName": "УИК №807",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1838,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -2926,8 +3421,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "474404766786",
+    "uikName": "УИК №808",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1430,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -2979,8 +3483,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "474404766787",
+    "uikName": "УИК №809",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -3032,8 +3545,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "474404766788",
+    "uikName": "УИК №810",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1721,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -3085,8 +3607,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "474404766789",
+    "uikName": "УИК №811",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1160,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -3138,8 +3669,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "474404766790",
+    "uikName": "УИК №812",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1902,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3191,8 +3731,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "474404766791",
+    "uikName": "УИК №813",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1332,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -3244,8 +3793,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "474404766792",
+    "uikName": "УИК №814",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3297,8 +3855,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "474404766793",
+    "uikName": "УИК №815",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3350,8 +3917,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1120,
     "uikTvd": "474402466687",
+    "uikName": "УИК №1120",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2637,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3398,8 +3974,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1121,
     "uikTvd": "474402466689",
+    "uikName": "УИК №1121",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2709,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3446,8 +4031,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1122,
     "uikTvd": "474402466702",
+    "uikName": "УИК №1122",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2698,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3494,8 +4088,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1123,
     "uikTvd": "474402466703",
+    "uikName": "УИК №1123",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1516,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -3542,8 +4145,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1124,
     "uikTvd": "474402466704",
+    "uikName": "УИК №1124",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 630,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3590,8 +4202,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1125,
     "uikTvd": "474402466705",
+    "uikName": "УИК №1125",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 96,
@@ -3638,8 +4259,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1126,
     "uikTvd": "474402466706",
+    "uikName": "УИК №1126",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -3686,8 +4316,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1127,
     "uikTvd": "474402466707",
+    "uikName": "УИК №1127",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 326,
@@ -3734,8 +4373,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1128,
     "uikTvd": "474402466708",
+    "uikName": "УИК №1128",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2455,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3782,8 +4430,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1129,
     "uikTvd": "474402466709",
+    "uikName": "УИК №1129",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2475,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -3830,8 +4487,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1130,
     "uikTvd": "474402466710",
+    "uikName": "УИК №1130",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2700,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3878,8 +4544,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1131,
     "uikTvd": "474402466711",
+    "uikName": "УИК №1131",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2806,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -3926,8 +4601,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1132,
     "uikTvd": "474402466712",
+    "uikName": "УИК №1132",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2154,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3974,8 +4658,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1133,
     "uikTvd": "474402466713",
+    "uikName": "УИК №1133",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4022,8 +4715,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1134,
     "uikTvd": "474402466714",
+    "uikName": "УИК №1134",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2748,
       "Число бюллетеней, полученных участковыми комиссиями": 2578,
@@ -4070,8 +4772,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1135,
     "uikTvd": "474402466715",
+    "uikName": "УИК №1135",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2589,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4118,8 +4829,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1136,
     "uikTvd": "474402466716",
+    "uikName": "УИК №1136",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2522,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4166,8 +4886,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1137,
     "uikTvd": "474402466717",
+    "uikName": "УИК №1137",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1193,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -4214,8 +4943,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1138,
     "uikTvd": "474402466718",
+    "uikName": "УИК №1138",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1271,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -4262,8 +5000,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 919,
     "uikTvd": "474401466725",
+    "uikName": "УИК №919",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1256,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4310,8 +5057,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 920,
     "uikTvd": "474401466726",
+    "uikName": "УИК №920",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1173,
       "Число бюллетеней, полученных участковыми комиссиями": 1193,
@@ -4358,8 +5114,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 921,
     "uikTvd": "474401466727",
+    "uikName": "УИК №921",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1840,
       "Число бюллетеней, полученных участковыми комиссиями": 1834,
@@ -4406,8 +5171,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 922,
     "uikTvd": "474401466728",
+    "uikName": "УИК №922",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1773,
       "Число бюллетеней, полученных участковыми комиссиями": 1841,
@@ -4454,8 +5228,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 923,
     "uikTvd": "474401466729",
+    "uikName": "УИК №923",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1732,
       "Число бюллетеней, полученных участковыми комиссиями": 1807,
@@ -4502,8 +5285,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 924,
     "uikTvd": "474401466730",
+    "uikName": "УИК №924",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 720,
       "Число бюллетеней, полученных участковыми комиссиями": 724,
@@ -4550,8 +5342,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 925,
     "uikTvd": "474401466731",
+    "uikName": "УИК №925",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1153,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -4598,8 +5399,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 926,
     "uikTvd": "474401466732",
+    "uikName": "УИК №926",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -4646,8 +5456,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 927,
     "uikTvd": "474401466733",
+    "uikName": "УИК №927",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1343,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -4694,8 +5513,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 928,
     "uikTvd": "474401466734",
+    "uikName": "УИК №928",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 822,
       "Число бюллетеней, полученных участковыми комиссиями": 819,
@@ -4742,8 +5570,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "474401466735",
+    "uikName": "УИК №929",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 513,
@@ -4790,8 +5627,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "474401466736",
+    "uikName": "УИК №930",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 494,
       "Число бюллетеней, полученных участковыми комиссиями": 1243,
@@ -4838,8 +5684,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "474401466737",
+    "uikName": "УИК №931",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -4886,8 +5741,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "474401466738",
+    "uikName": "УИК №932",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1232,
       "Число бюллетеней, полученных участковыми комиссиями": 1284,
@@ -4934,8 +5798,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "474401466739",
+    "uikName": "УИК №933",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 834,
       "Число бюллетеней, полученных участковыми комиссиями": 856,
@@ -4982,8 +5855,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "474401466740",
+    "uikName": "УИК №934",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2177,
       "Число бюллетеней, полученных участковыми комиссиями": 2208,
@@ -5030,8 +5912,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "474401466741",
+    "uikName": "УИК №935",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 89,
@@ -5078,8 +5969,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "474401466742",
+    "uikName": "УИК №936",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -5126,8 +6026,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "474401466743",
+    "uikName": "УИК №937",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 171,
@@ -5174,8 +6083,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "474401466744",
+    "uikName": "УИК №938",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 604,
@@ -5222,8 +6140,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 939,
     "uikTvd": "474401466745",
+    "uikName": "УИК №939",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 699,
       "Число бюллетеней, полученных участковыми комиссиями": 787,
@@ -5270,8 +6197,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 940,
     "uikTvd": "474401466746",
+    "uikName": "УИК №940",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 706,
       "Число бюллетеней, полученных участковыми комиссиями": 798,
@@ -5318,8 +6254,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 941,
     "uikTvd": "474401466747",
+    "uikName": "УИК №941",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 799,
@@ -5366,8 +6311,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 942,
     "uikTvd": "474401466748",
+    "uikName": "УИК №942",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 271,
@@ -5414,8 +6368,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 943,
     "uikTvd": "474401466749",
+    "uikName": "УИК №943",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -5462,8 +6425,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 944,
     "uikTvd": "474401466750",
+    "uikName": "УИК №944",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -5510,8 +6482,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 945,
     "uikTvd": "474401466751",
+    "uikName": "УИК №945",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 960,
       "Число бюллетеней, полученных участковыми комиссиями": 946,
@@ -5558,8 +6539,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 946,
     "uikTvd": "474401466752",
+    "uikName": "УИК №946",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1215,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -5606,8 +6596,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 947,
     "uikTvd": "474401466753",
+    "uikName": "УИК №947",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -5654,8 +6653,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 948,
     "uikTvd": "474401466754",
+    "uikName": "УИК №948",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -5702,8 +6710,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 949,
     "uikTvd": "474401466755",
+    "uikName": "УИК №949",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -5750,8 +6767,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 950,
     "uikTvd": "474401466756",
+    "uikName": "УИК №950",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -5798,8 +6824,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 951,
     "uikTvd": "474401466757",
+    "uikName": "УИК №951",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 629,
       "Число бюллетеней, полученных участковыми комиссиями": 667,
@@ -5846,8 +6881,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 952,
     "uikTvd": "474401466758",
+    "uikName": "УИК №952",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 321,
@@ -5894,8 +6938,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 953,
     "uikTvd": "474401466759",
+    "uikName": "УИК №953",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -5942,8 +6995,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 954,
     "uikTvd": "474401466760",
+    "uikName": "УИК №954",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -5990,8 +7052,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 955,
     "uikTvd": "474401466761",
+    "uikName": "УИК №955",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1242,
@@ -6038,8 +7109,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 956,
     "uikTvd": "474401466762",
+    "uikName": "УИК №956",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1448,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -6086,8 +7166,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 957,
     "uikTvd": "474401466763",
+    "uikName": "УИК №957",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -6134,8 +7223,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 958,
     "uikTvd": "474401466764",
+    "uikName": "УИК №958",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -6182,8 +7280,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 959,
     "uikTvd": "474401466765",
+    "uikName": "УИК №959",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 249,
@@ -6230,8 +7337,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 960,
     "uikTvd": "474401466766",
+    "uikName": "УИК №960",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 714,
@@ -6278,8 +7394,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 961,
     "uikTvd": "474401466767",
+    "uikName": "УИК №961",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 271,
@@ -6326,8 +7451,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 962,
     "uikTvd": "474401466768",
+    "uikName": "УИК №962",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 283,
@@ -6374,8 +7508,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1251,
     "uikTvd": "474401566688",
+    "uikName": "УИК №1251",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1724,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6422,8 +7565,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1252,
     "uikTvd": "474401566689",
+    "uikName": "УИК №1252",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2631,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6470,8 +7622,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1253,
     "uikTvd": "474401566690",
+    "uikName": "УИК №1253",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1458,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6518,8 +7679,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1254,
     "uikTvd": "474401566691",
+    "uikName": "УИК №1254",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1938,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6566,8 +7736,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1255,
     "uikTvd": "474401566692",
+    "uikName": "УИК №1255",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2985,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -6614,8 +7793,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1256,
     "uikTvd": "474401566693",
+    "uikName": "УИК №1256",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1726,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6662,8 +7850,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1257,
     "uikTvd": "474401566694",
+    "uikName": "УИК №1257",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2938,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -6710,8 +7907,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1258,
     "uikTvd": "474401566686",
+    "uikName": "УИК №1258",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2744,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6758,8 +7964,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1259,
     "uikTvd": "474401566695",
+    "uikName": "УИК №1259",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2931,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -6806,8 +8021,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1260,
     "uikTvd": "474401566696",
+    "uikName": "УИК №1260",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2914,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -6854,8 +8078,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1261,
     "uikTvd": "474401566697",
+    "uikName": "УИК №1261",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3012,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -6902,8 +8135,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1262,
     "uikTvd": "474401566698",
+    "uikName": "УИК №1262",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2802,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -6950,8 +8192,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1263,
     "uikTvd": "474401566699",
+    "uikName": "УИК №1263",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2891,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -6998,8 +8249,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1264,
     "uikTvd": "474401566700",
+    "uikName": "УИК №1264",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2983,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -7046,8 +8306,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1265,
     "uikTvd": "474401566701",
+    "uikName": "УИК №1265",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2936,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7094,8 +8363,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1266,
     "uikTvd": "474401566702",
+    "uikName": "УИК №1266",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1309,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7142,8 +8420,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1267,
     "uikTvd": "474401566703",
+    "uikName": "УИК №1267",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -7190,8 +8477,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1268,
     "uikTvd": "474401566704",
+    "uikName": "УИК №1268",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -7238,8 +8534,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "474400766773",
+    "uikName": "УИК №874",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1648,
       "Число бюллетеней, полученных участковыми комиссиями": 1614,
@@ -7286,8 +8591,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "474400766774",
+    "uikName": "УИК №875",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1913,
       "Число бюллетеней, полученных участковыми комиссиями": 1785,
@@ -7334,8 +8648,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "474400766775",
+    "uikName": "УИК №876",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 828,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -7382,8 +8705,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "474400766776",
+    "uikName": "УИК №877",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 593,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -7430,8 +8762,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "474400766777",
+    "uikName": "УИК №878",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1421,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -7478,8 +8819,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "474400766778",
+    "uikName": "УИК №879",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1752,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -7526,8 +8876,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "474400766779",
+    "uikName": "УИК №880",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1507,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -7574,8 +8933,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "474400766780",
+    "uikName": "УИК №881",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1927,
       "Число бюллетеней, полученных участковыми комиссиями": 1755,
@@ -7622,8 +8990,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "474400766781",
+    "uikName": "УИК №882",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1823,
       "Число бюллетеней, полученных участковыми комиссиями": 1855,
@@ -7670,8 +9047,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "474400766782",
+    "uikName": "УИК №883",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1498,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -7718,8 +9104,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "474400766783",
+    "uikName": "УИК №884",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1714,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -7766,8 +9161,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "474400766784",
+    "uikName": "УИК №885",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1148,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -7814,8 +9218,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "474400766785",
+    "uikName": "УИК №886",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -7862,8 +9275,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "474400766786",
+    "uikName": "УИК №887",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1059,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -7910,8 +9332,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "474400766787",
+    "uikName": "УИК №888",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 806,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -7958,8 +9389,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "474400766788",
+    "uikName": "УИК №889",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 912,
       "Число бюллетеней, полученных участковыми комиссиями": 995,
@@ -8006,8 +9446,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "474400766789",
+    "uikName": "УИК №890",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1175,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -8054,8 +9503,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "474400766790",
+    "uikName": "УИК №891",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2037,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -8102,8 +9560,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "474400766791",
+    "uikName": "УИК №892",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 659,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -8150,8 +9617,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "474400766792",
+    "uikName": "УИК №893",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -8198,8 +9674,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "474400766793",
+    "uikName": "УИК №894",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 612,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -8246,8 +9731,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "474400766794",
+    "uikName": "УИК №895",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -8294,8 +9788,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "474400766795",
+    "uikName": "УИК №896",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1055,
       "Число бюллетеней, полученных участковыми комиссиями": 1010,
@@ -8342,8 +9845,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "474400766796",
+    "uikName": "УИК №897",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 934,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -8390,8 +9902,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "474400766797",
+    "uikName": "УИК №898",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 211,
@@ -8438,8 +9959,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "474400766798",
+    "uikName": "УИК №899",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 228,
@@ -8486,8 +10016,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "474400766799",
+    "uikName": "УИК №900",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -8534,8 +10073,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "474400766800",
+    "uikName": "УИК №901",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -8582,8 +10130,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "474400766801",
+    "uikName": "УИК №902",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -8630,8 +10187,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "474400766802",
+    "uikName": "УИК №903",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -8678,8 +10244,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 963,
     "uikTvd": "474401666718",
+    "uikName": "УИК №963",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1337,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -8726,8 +10301,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 964,
     "uikTvd": "474401666720",
+    "uikName": "УИК №964",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1103,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -8774,8 +10358,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 965,
     "uikTvd": "474401666721",
+    "uikName": "УИК №965",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1080,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -8822,8 +10415,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 966,
     "uikTvd": "474401666722",
+    "uikName": "УИК №966",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1302,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -8870,8 +10472,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 967,
     "uikTvd": "474401666723",
+    "uikName": "УИК №967",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 504,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -8918,8 +10529,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 968,
     "uikTvd": "474401666724",
+    "uikName": "УИК №968",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1238,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -8966,8 +10586,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 969,
     "uikTvd": "474401666725",
+    "uikName": "УИК №969",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1229,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9014,8 +10643,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 970,
     "uikTvd": "474401666726",
+    "uikName": "УИК №970",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1281,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -9062,8 +10700,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 971,
     "uikTvd": "474401666727",
+    "uikName": "УИК №971",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -9110,8 +10757,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 972,
     "uikTvd": "474401666728",
+    "uikName": "УИК №972",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 529,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -9158,8 +10814,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 973,
     "uikTvd": "474401666729",
+    "uikName": "УИК №973",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1262,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -9206,8 +10871,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 974,
     "uikTvd": "474401666730",
+    "uikName": "УИК №974",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 611,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -9254,8 +10928,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 975,
     "uikTvd": "474401666731",
+    "uikName": "УИК №975",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -9302,8 +10985,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 976,
     "uikTvd": "474401666732",
+    "uikName": "УИК №976",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1850,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -9350,8 +11042,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 977,
     "uikTvd": "474401666733",
+    "uikName": "УИК №977",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1397,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -9398,8 +11099,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 978,
     "uikTvd": "474401666734",
+    "uikName": "УИК №978",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9446,8 +11156,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 979,
     "uikTvd": "474401666735",
+    "uikName": "УИК №979",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1354,
       "Число бюллетеней, полученных участковыми комиссиями": 1210,
@@ -9494,8 +11213,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 980,
     "uikTvd": "474401666736",
+    "uikName": "УИК №980",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1852,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -9542,8 +11270,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 981,
     "uikTvd": "474401666737",
+    "uikName": "УИК №981",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1255,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -9590,8 +11327,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 982,
     "uikTvd": "474401666738",
+    "uikName": "УИК №982",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1336,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -9638,8 +11384,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 983,
     "uikTvd": "474401666739",
+    "uikName": "УИК №983",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1955,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -9686,8 +11441,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 984,
     "uikTvd": "474401666740",
+    "uikName": "УИК №984",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -9734,8 +11498,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 985,
     "uikTvd": "474401666741",
+    "uikName": "УИК №985",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1324,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -9782,8 +11555,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 986,
     "uikTvd": "474401666742",
+    "uikName": "УИК №986",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1098,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -9830,8 +11612,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 987,
     "uikTvd": "474401666743",
+    "uikName": "УИК №987",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -9878,8 +11669,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 988,
     "uikTvd": "474401666744",
+    "uikName": "УИК №988",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -9926,8 +11726,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 989,
     "uikTvd": "474401666745",
+    "uikName": "УИК №989",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -9974,8 +11783,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 990,
     "uikTvd": "474401666746",
+    "uikName": "УИК №990",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 549,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -10022,8 +11840,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 991,
     "uikTvd": "474401666747",
+    "uikName": "УИК №991",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -10070,8 +11897,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 992,
     "uikTvd": "474401666748",
+    "uikName": "УИК №992",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -10118,8 +11954,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 993,
     "uikTvd": "474401666749",
+    "uikName": "УИК №993",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -10166,8 +12011,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 994,
     "uikTvd": "474401666750",
+    "uikName": "УИК №994",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -10214,8 +12068,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 995,
     "uikTvd": "474401666751",
+    "uikName": "УИК №995",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -10262,8 +12125,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 996,
     "uikTvd": "474401666752",
+    "uikName": "УИК №996",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -10310,8 +12182,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 997,
     "uikTvd": "474401666753",
+    "uikName": "УИК №997",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -10358,8 +12239,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "474401766660",
+    "uikName": "УИК №904",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1651,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -10406,8 +12296,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "474401766661",
+    "uikName": "УИК №905",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1526,
       "Число бюллетеней, полученных участковыми комиссиями": 1405,
@@ -10454,8 +12353,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "474401766662",
+    "uikName": "УИК №906",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1790,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -10502,8 +12410,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "474401766663",
+    "uikName": "УИК №907",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -10550,8 +12467,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "474401766664",
+    "uikName": "УИК №908",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1743,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -10598,8 +12524,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "474401766665",
+    "uikName": "УИК №909",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1543,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -10646,8 +12581,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "474401766666",
+    "uikName": "УИК №910",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1968,
       "Число бюллетеней, полученных участковыми комиссиями": 1795,
@@ -10694,8 +12638,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "474401766667",
+    "uikName": "УИК №911",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1809,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -10742,8 +12695,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "474401766668",
+    "uikName": "УИК №912",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1911,
       "Число бюллетеней, полученных участковыми комиссиями": 1725,
@@ -10790,8 +12752,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 913,
     "uikTvd": "474401766669",
+    "uikName": "УИК №913",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1816,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -10838,8 +12809,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "474401766670",
+    "uikName": "УИК №914",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1984,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10886,8 +12866,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "474401766671",
+    "uikName": "УИК №915",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2289,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -10934,8 +12923,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "474401766672",
+    "uikName": "УИК №916",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2322,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -10982,8 +12980,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 917,
     "uikTvd": "474401766673",
+    "uikName": "УИК №917",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1928,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -11030,8 +13037,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 918,
     "uikTvd": "474401766674",
+    "uikName": "УИК №918",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1693,
       "Число бюллетеней, полученных участковыми комиссиями": 1575,
@@ -11078,8 +13094,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 998,
     "uikTvd": "474402166667",
+    "uikName": "УИК  998",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 878,
       "Число бюллетеней, полученных участковыми комиссиями": 871,
@@ -11126,8 +13151,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 999,
     "uikTvd": "474402166669",
+    "uikName": "УИК  999",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 473,
@@ -11174,8 +13208,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1000,
     "uikTvd": "474402166670",
+    "uikName": "УИК  1000",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -11222,8 +13265,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "474402166671",
+    "uikName": "УИК  1001",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1152,
       "Число бюллетеней, полученных участковыми комиссиями": 1125,
@@ -11270,8 +13322,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "474402166682",
+    "uikName": "УИК  1002",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -11318,8 +13379,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "474402166683",
+    "uikName": "УИК  1003",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 187,
@@ -11366,8 +13436,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "474402166684",
+    "uikName": "УИК  1004",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -11414,8 +13493,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "474402166685",
+    "uikName": "УИК  1005",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 308,
@@ -11462,8 +13550,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "474402166686",
+    "uikName": "УИК  1006",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1601,
       "Число бюллетеней, полученных участковыми комиссиями": 1638,
@@ -11510,8 +13607,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "474402166687",
+    "uikName": "УИК  1007",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 933,
       "Число бюллетеней, полученных участковыми комиссиями": 954,
@@ -11558,8 +13664,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "474402166688",
+    "uikName": "УИК  1008",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 259,
@@ -11606,8 +13721,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "474402166689",
+    "uikName": "УИК  1009",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -11654,8 +13778,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "474402166690",
+    "uikName": "УИК  1010",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -11702,8 +13835,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "474402166691",
+    "uikName": "УИК  1011",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -11750,8 +13892,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "474402166692",
+    "uikName": "УИК  1012",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -11798,8 +13949,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "474402166693",
+    "uikName": "УИК  1013",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -11846,8 +14006,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "474402166694",
+    "uikName": "УИК  1014",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1048,
       "Число бюллетеней, полученных участковыми комиссиями": 1037,
@@ -11894,8 +14063,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "474402166695",
+    "uikName": "УИК  1015",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1188,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11942,8 +14120,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "474402166696",
+    "uikName": "УИК  1016",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1031,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -11990,8 +14177,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "474402166697",
+    "uikName": "УИК  1017",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 273,
@@ -12038,8 +14234,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "474402166698",
+    "uikName": "УИК  1018",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 339,
@@ -12086,8 +14291,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "474402166699",
+    "uikName": "УИК  1019",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 146,
@@ -12134,8 +14348,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "474402166700",
+    "uikName": "УИК  1020",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 401,
@@ -12182,8 +14405,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1021,
     "uikTvd": "474402166701",
+    "uikName": "УИК  1021",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1356,
       "Число бюллетеней, полученных участковыми комиссиями": 1355,
@@ -12230,8 +14462,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1022,
     "uikTvd": "474402166702",
+    "uikName": "УИК  1022",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -12278,8 +14519,17 @@ export const duma_2003_uik_428_region_74_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1023,
     "uikTvd": "474402166703",
+    "uikName": "УИК  1023",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 145,

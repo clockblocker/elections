@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "463401770787",
+    "uikName": "УИК №768",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 276,
@@ -62,8 +71,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 769,
     "uikTvd": "463401770788",
+    "uikName": "УИК №769",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 838,
       "Число бюллетеней, полученных участковыми комиссиями": 822,
@@ -113,8 +131,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 770,
     "uikTvd": "463401770789",
+    "uikName": "УИК №770",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -164,8 +191,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 771,
     "uikTvd": "463401770790",
+    "uikName": "УИК №771",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -215,8 +251,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 772,
     "uikTvd": "463401770791",
+    "uikName": "УИК №772",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 129,
@@ -266,8 +311,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 773,
     "uikTvd": "463401770792",
+    "uikName": "УИК №773",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -317,8 +371,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 774,
     "uikTvd": "463401770793",
+    "uikName": "УИК №774",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 432,
@@ -368,8 +431,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 775,
     "uikTvd": "463401770794",
+    "uikName": "УИК №775",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 481,
@@ -419,8 +491,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "463401770795",
+    "uikName": "УИК №776",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 432,
@@ -470,8 +551,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "463401770796",
+    "uikName": "УИК №777",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1282,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -521,8 +611,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "463401770797",
+    "uikName": "УИК №778",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 221,
@@ -572,8 +671,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "463401770798",
+    "uikName": "УИК №779",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 89,
@@ -623,8 +731,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "463401770799",
+    "uikName": "УИК №780",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 161,
@@ -674,8 +791,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "463401770800",
+    "uikName": "УИК №781",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -725,8 +851,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "463401770801",
+    "uikName": "УИК №782",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -776,8 +911,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "463401770802",
+    "uikName": "УИК №783",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 374,
@@ -827,8 +971,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "463401770803",
+    "uikName": "УИК №784",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -878,8 +1031,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "463401770804",
+    "uikName": "УИК №785",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 213,
@@ -929,8 +1091,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "463401770805",
+    "uikName": "УИК №786",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 491,
@@ -980,8 +1151,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "463400870372",
+    "uikName": "УИК №721",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1098,
       "Число бюллетеней, полученных участковыми комиссиями": 1268,
@@ -1031,8 +1211,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "463400870373",
+    "uikName": "УИК №722",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1176,
       "Число бюллетеней, полученных участковыми комиссиями": 1246,
@@ -1082,8 +1271,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "463400870374",
+    "uikName": "УИК №723",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -1133,8 +1331,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "463400870375",
+    "uikName": "УИК №724",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 521,
       "Число бюллетеней, полученных участковыми комиссиями": 565,
@@ -1184,8 +1391,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "463400870376",
+    "uikName": "УИК №725",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -1235,8 +1451,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "463400870377",
+    "uikName": "УИК №726",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 694,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -1286,8 +1511,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "463400870378",
+    "uikName": "УИК №727",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -1337,8 +1571,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "463400870379",
+    "uikName": "УИК №728",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 476,
       "Число бюллетеней, полученных участковыми комиссиями": 472,
@@ -1388,8 +1631,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "463400870380",
+    "uikName": "УИК №729",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 64,
@@ -1439,8 +1691,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "463400870381",
+    "uikName": "УИК №730",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -1490,8 +1751,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "463400870382",
+    "uikName": "УИК №731",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 668,
       "Число бюллетеней, полученных участковыми комиссиями": 694,
@@ -1541,8 +1811,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "463400870383",
+    "uikName": "УИК №732",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -1592,8 +1871,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "463400870384",
+    "uikName": "УИК №733",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -1643,8 +1931,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "463400870385",
+    "uikName": "УИК №734",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -1694,8 +1991,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "463400870386",
+    "uikName": "УИК №735",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 317,
@@ -1745,8 +2051,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 736,
     "uikTvd": "463400870387",
+    "uikName": "УИК №736",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -1796,8 +2111,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 737,
     "uikTvd": "463400870388",
+    "uikName": "УИК №737",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -1847,8 +2171,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 942,
     "uikTvd": "463403370335",
+    "uikName": "УИК  942",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2217,
@@ -1900,8 +2233,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 943,
     "uikTvd": "463403370336",
+    "uikName": "УИК  943",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2062,
       "Число бюллетеней, полученных участковыми комиссиями": 2065,
@@ -1953,8 +2295,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 944,
     "uikTvd": "463403370337",
+    "uikName": "УИК  944",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2679,
       "Число бюллетеней, полученных участковыми комиссиями": 2657,
@@ -2006,8 +2357,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 945,
     "uikTvd": "463403370338",
+    "uikName": "УИК  945",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2230,
       "Число бюллетеней, полученных участковыми комиссиями": 2184,
@@ -2059,8 +2419,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 946,
     "uikTvd": "463403370339",
+    "uikName": "УИК  946",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2496,
       "Число бюллетеней, полученных участковыми комиссиями": 2476,
@@ -2112,8 +2481,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 947,
     "uikTvd": "463403370340",
+    "uikName": "УИК  947",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2129,
       "Число бюллетеней, полученных участковыми комиссиями": 2189,
@@ -2165,8 +2543,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 948,
     "uikTvd": "463403370341",
+    "uikName": "УИК  948",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2313,
       "Число бюллетеней, полученных участковыми комиссиями": 2267,
@@ -2218,8 +2605,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 949,
     "uikTvd": "463403370344",
+    "uikName": "УИК  949",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2262,
       "Число бюллетеней, полученных участковыми комиссиями": 2294,
@@ -2271,8 +2667,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 950,
     "uikTvd": "463403370345",
+    "uikName": "УИК  950",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2341,
       "Число бюллетеней, полученных участковыми комиссиями": 2241,
@@ -2324,8 +2729,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 951,
     "uikTvd": "463403370346",
+    "uikName": "УИК  951",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 2289,
@@ -2377,8 +2791,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 952,
     "uikTvd": "463403370347",
+    "uikName": "УИК  952",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1866,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -2430,8 +2853,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 953,
     "uikTvd": "463403370348",
+    "uikName": "УИК  953",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2822,
       "Число бюллетеней, полученных участковыми комиссиями": 2755,
@@ -2483,8 +2915,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 954,
     "uikTvd": "463403370349",
+    "uikName": "УИК  954",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2463,
       "Число бюллетеней, полученных участковыми комиссиями": 2447,
@@ -2536,8 +2977,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 955,
     "uikTvd": "463403370350",
+    "uikName": "УИК  955",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2194,
       "Число бюллетеней, полученных участковыми комиссиями": 2174,
@@ -2589,8 +3039,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 956,
     "uikTvd": "463403370351",
+    "uikName": "УИК  956",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2570,
       "Число бюллетеней, полученных участковыми комиссиями": 2528,
@@ -2642,8 +3101,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 957,
     "uikTvd": "463403370352",
+    "uikName": "УИК  957",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2421,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -2695,8 +3163,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 958,
     "uikTvd": "463403370353",
+    "uikName": "УИК  958",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1578,
       "Число бюллетеней, полученных участковыми комиссиями": 1508,
@@ -2748,8 +3225,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 959,
     "uikTvd": "463403370354",
+    "uikName": "УИК  959",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2500,
       "Число бюллетеней, полученных участковыми комиссиями": 2464,
@@ -2801,8 +3287,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 960,
     "uikTvd": "463403370355",
+    "uikName": "УИК  960",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2562,
       "Число бюллетеней, полученных участковыми комиссиями": 2494,
@@ -2854,8 +3349,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 961,
     "uikTvd": "463403370356",
+    "uikName": "УИК  961",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2421,
       "Число бюллетеней, полученных участковыми комиссиями": 2389,
@@ -2907,8 +3411,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 962,
     "uikTvd": "463403370357",
+    "uikName": "УИК  962",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2969,
       "Число бюллетеней, полученных участковыми комиссиями": 2881,
@@ -2960,8 +3473,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 963,
     "uikTvd": "463403370358",
+    "uikName": "УИК  963",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3040,
       "Число бюллетеней, полученных участковыми комиссиями": 2985,
@@ -3013,8 +3535,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 964,
     "uikTvd": "463403370359",
+    "uikName": "УИК  964",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2047,
       "Число бюллетеней, полученных участковыми комиссиями": 2024,
@@ -3066,8 +3597,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 965,
     "uikTvd": "463403370360",
+    "uikName": "УИК  965",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1956,
       "Число бюллетеней, полученных участковыми комиссиями": 1927,
@@ -3119,8 +3659,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 966,
     "uikTvd": "463403370361",
+    "uikName": "УИК  966",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2401,
       "Число бюллетеней, полученных участковыми комиссиями": 2394,
@@ -3172,8 +3721,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 967,
     "uikTvd": "463403370362",
+    "uikName": "УИК  967",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2094,
       "Число бюллетеней, полученных участковыми комиссиями": 2067,
@@ -3225,8 +3783,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 968,
     "uikTvd": "463403370363",
+    "uikName": "УИК  968",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3020,
       "Число бюллетеней, полученных участковыми комиссиями": 2713,
@@ -3278,8 +3845,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 969,
     "uikTvd": "463403370364",
+    "uikName": "УИК  969",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2869,
       "Число бюллетеней, полученных участковыми комиссиями": 2876,
@@ -3331,8 +3907,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 970,
     "uikTvd": "463403370365",
+    "uikName": "УИК  970",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2351,
       "Число бюллетеней, полученных участковыми комиссиями": 2336,
@@ -3384,8 +3969,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 971,
     "uikTvd": "463403370366",
+    "uikName": "УИК  971",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2840,
       "Число бюллетеней, полученных участковыми комиссиями": 2835,
@@ -3437,8 +4031,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 972,
     "uikTvd": "463403370367",
+    "uikName": "УИК  972",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -3490,8 +4093,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 973,
     "uikTvd": "463403370368",
+    "uikName": "УИК  973",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2283,
       "Число бюллетеней, полученных участковыми комиссиями": 2228,
@@ -3543,8 +4155,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 974,
     "uikTvd": "463403370369",
+    "uikName": "УИК  974",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2686,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -3596,8 +4217,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 975,
     "uikTvd": "463403370370",
+    "uikName": "УИК  975",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2640,
       "Число бюллетеней, полученных участковыми комиссиями": 2758,
@@ -3649,8 +4279,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 976,
     "uikTvd": "463403370371",
+    "uikName": "УИК  976",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2676,
       "Число бюллетеней, полученных участковыми комиссиями": 2668,
@@ -3702,8 +4341,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 977,
     "uikTvd": "463403370372",
+    "uikName": "УИК  977",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2449,
       "Число бюллетеней, полученных участковыми комиссиями": 2468,
@@ -3755,8 +4403,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 978,
     "uikTvd": "463403370373",
+    "uikName": "УИК  978",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2825,
       "Число бюллетеней, полученных участковыми комиссиями": 2816,
@@ -3808,8 +4465,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 979,
     "uikTvd": "463403370374",
+    "uikName": "УИК  979",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2813,
       "Число бюллетеней, полученных участковыми комиссиями": 2827,
@@ -3861,8 +4527,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 980,
     "uikTvd": "463403370375",
+    "uikName": "УИК  980",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1368,
       "Число бюллетеней, полученных участковыми комиссиями": 1348,
@@ -3914,8 +4589,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 981,
     "uikTvd": "463403370376",
+    "uikName": "УИК  981",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2787,
       "Число бюллетеней, полученных участковыми комиссиями": 2737,
@@ -3967,8 +4651,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 982,
     "uikTvd": "463403370377",
+    "uikName": "УИК  982",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2775,
       "Число бюллетеней, полученных участковыми комиссиями": 2735,
@@ -4020,8 +4713,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 983,
     "uikTvd": "463403370378",
+    "uikName": "УИК  983",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1159,
       "Число бюллетеней, полученных участковыми комиссиями": 1127,
@@ -4073,8 +4775,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 984,
     "uikTvd": "463403370379",
+    "uikName": "УИК  984",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 799,
@@ -4126,8 +4837,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 985,
     "uikTvd": "463403370380",
+    "uikName": "УИК  985",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 786,
       "Число бюллетеней, полученных участковыми комиссиями": 799,
@@ -4179,8 +4899,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 986,
     "uikTvd": "463403370381",
+    "uikName": "УИК  986",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -4232,8 +4961,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 987,
     "uikTvd": "463403370382",
+    "uikName": "УИК  987",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -4285,8 +5023,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 988,
     "uikTvd": "463403370383",
+    "uikName": "УИК  988",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2691,
       "Число бюллетеней, полученных участковыми комиссиями": 2712,
@@ -4338,8 +5085,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 989,
     "uikTvd": "463403370384",
+    "uikName": "УИК  989",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2743,
       "Число бюллетеней, полученных участковыми комиссиями": 2725,
@@ -4391,8 +5147,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 990,
     "uikTvd": "463403370385",
+    "uikName": "УИК  990",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2893,
       "Число бюллетеней, полученных участковыми комиссиями": 2813,
@@ -4444,8 +5209,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 991,
     "uikTvd": "463403370386",
+    "uikName": "УИК  991",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2055,
       "Число бюллетеней, полученных участковыми комиссиями": 2033,
@@ -4497,8 +5271,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 992,
     "uikTvd": "463403370387",
+    "uikName": "УИК  992",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2289,
       "Число бюллетеней, полученных участковыми комиссиями": 2267,
@@ -4550,8 +5333,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 993,
     "uikTvd": "463403370388",
+    "uikName": "УИК  993",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2753,
       "Число бюллетеней, полученных участковыми комиссиями": 2729,
@@ -4603,8 +5395,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 994,
     "uikTvd": "463403370389",
+    "uikName": "УИК  994",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2684,
       "Число бюллетеней, полученных участковыми комиссиями": 2651,
@@ -4656,8 +5457,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 995,
     "uikTvd": "463403370390",
+    "uikName": "УИК  995",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2324,
       "Число бюллетеней, полученных участковыми комиссиями": 2324,
@@ -4709,8 +5519,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 996,
     "uikTvd": "463403370391",
+    "uikName": "УИК  996",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2626,
       "Число бюллетеней, полученных участковыми комиссиями": 2583,
@@ -4762,8 +5581,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 997,
     "uikTvd": "463403370392",
+    "uikName": "УИК  997",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2167,
       "Число бюллетеней, полученных участковыми комиссиями": 2216,
@@ -4815,8 +5643,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 998,
     "uikTvd": "463403370393",
+    "uikName": "УИК  998",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2204,
       "Число бюллетеней, полученных участковыми комиссиями": 2184,
@@ -4868,8 +5705,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 999,
     "uikTvd": "463403370394",
+    "uikName": "УИК  999",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2332,
       "Число бюллетеней, полученных участковыми комиссиями": 2321,
@@ -4921,8 +5767,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1000,
     "uikTvd": "463403370395",
+    "uikName": "УИК  1000",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2395,
       "Число бюллетеней, полученных участковыми комиссиями": 2366,
@@ -4974,8 +5829,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "463403370396",
+    "uikName": "УИК  1001",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2341,
       "Число бюллетеней, полученных участковыми комиссиями": 2459,
@@ -5027,8 +5891,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "463403270351",
+    "uikName": "УИК №929",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1925,
       "Число бюллетеней, полученных участковыми комиссиями": 1904,
@@ -5080,8 +5953,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "463403270352",
+    "uikName": "УИК №930",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1772,
       "Число бюллетеней, полученных участковыми комиссиями": 1498,
@@ -5133,8 +6015,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "463403270353",
+    "uikName": "УИК №931",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 2335,
@@ -5186,8 +6077,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "463403270354",
+    "uikName": "УИК №932",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1654,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -5239,8 +6139,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "463403270355",
+    "uikName": "УИК №933",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2113,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -5292,8 +6201,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "463403270356",
+    "uikName": "УИК №934",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1944,
       "Число бюллетеней, полученных участковыми комиссиями": 1909,
@@ -5345,8 +6263,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "463403270357",
+    "uikName": "УИК №935",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1938,
       "Число бюллетеней, полученных участковыми комиссиями": 1922,
@@ -5398,8 +6325,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "463403270358",
+    "uikName": "УИК №936",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2497,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -5451,8 +6387,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "463403270359",
+    "uikName": "УИК №937",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1969,
       "Число бюллетеней, полученных участковыми комиссиями": 1941,
@@ -5504,8 +6449,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "463403270360",
+    "uikName": "УИК №938",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1929,
       "Число бюллетеней, полученных участковыми комиссиями": 1906,
@@ -5557,8 +6511,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 939,
     "uikTvd": "463403270361",
+    "uikName": "УИК №939",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1752,
@@ -5610,8 +6573,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 940,
     "uikTvd": "463403270362",
+    "uikName": "УИК №940",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1738,
       "Число бюллетеней, полученных участковыми комиссиями": 1729,
@@ -5663,8 +6635,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 941,
     "uikTvd": "463403270363",
+    "uikName": "УИК №941",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1203,
       "Число бюллетеней, полученных участковыми комиссиями": 1156,
@@ -5716,8 +6697,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "463403070638",
+    "uikName": "УИК №887",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2326,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5769,8 +6759,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "463403070639",
+    "uikName": "УИК №888",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2416,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5822,8 +6821,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "463403070640",
+    "uikName": "УИК №889",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2158,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -5875,8 +6883,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "463403070641",
+    "uikName": "УИК №890",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2148,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -5928,8 +6945,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "463403070642",
+    "uikName": "УИК №891",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2266,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5981,8 +7007,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "463403070643",
+    "uikName": "УИК №892",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2041,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -6034,8 +7069,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "463403070644",
+    "uikName": "УИК №893",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2380,
       "Число бюллетеней, полученных участковыми комиссиями": 2090,
@@ -6087,8 +7131,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "463403070645",
+    "uikName": "УИК №894",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2538,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -6140,8 +7193,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "463403070646",
+    "uikName": "УИК №895",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -6193,8 +7255,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "463403070647",
+    "uikName": "УИК №896",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2548,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -6246,8 +7317,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "463403070648",
+    "uikName": "УИК №897",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2821,
       "Число бюллетеней, полученных участковыми комиссиями": 2530,
@@ -6299,8 +7379,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "463403070649",
+    "uikName": "УИК №898",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2561,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -6352,8 +7441,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "463403070650",
+    "uikName": "УИК №899",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2309,
       "Число бюллетеней, полученных участковыми комиссиями": 2090,
@@ -6405,8 +7503,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "463403070651",
+    "uikName": "УИК №900",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2434,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -6458,8 +7565,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "463403070652",
+    "uikName": "УИК №901",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2269,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6511,8 +7627,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "463403070653",
+    "uikName": "УИК №902",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2109,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -6564,8 +7689,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "463403070654",
+    "uikName": "УИК №903",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2814,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -6617,8 +7751,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "463403070655",
+    "uikName": "УИК №904",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2188,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -6670,8 +7813,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "463403070656",
+    "uikName": "УИК №905",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2288,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -6723,8 +7875,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "463403070657",
+    "uikName": "УИК №906",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2369,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -6776,8 +7937,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "463403070658",
+    "uikName": "УИК №907",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2134,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -6829,8 +7999,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "463403070659",
+    "uikName": "УИК №908",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2589,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -6882,8 +8061,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "463403070660",
+    "uikName": "УИК №909",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2458,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -6935,8 +8123,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "463403070661",
+    "uikName": "УИК №910",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2952,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -6988,8 +8185,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "463403070662",
+    "uikName": "УИК №911",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -7041,8 +8247,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "463403070663",
+    "uikName": "УИК №912",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2120,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -7094,8 +8309,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 913,
     "uikTvd": "463403070664",
+    "uikName": "УИК №913",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2180,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -7147,8 +8371,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "463403070665",
+    "uikName": "УИК №914",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2798,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -7200,8 +8433,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "463403070666",
+    "uikName": "УИК №915",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2331,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -7253,8 +8495,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "463403070667",
+    "uikName": "УИК №916",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2604,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -7306,8 +8557,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 917,
     "uikTvd": "463403070668",
+    "uikName": "УИК №917",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7359,8 +8619,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 918,
     "uikTvd": "463403070669",
+    "uikName": "УИК №918",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2101,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -7412,8 +8681,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 919,
     "uikTvd": "463403070670",
+    "uikName": "УИК №919",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1962,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -7465,8 +8743,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 920,
     "uikTvd": "463403070671",
+    "uikName": "УИК №920",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1939,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -7518,8 +8805,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 921,
     "uikTvd": "463403070672",
+    "uikName": "УИК №921",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2635,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -7571,8 +8867,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 922,
     "uikTvd": "463403070673",
+    "uikName": "УИК №922",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2536,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -7624,8 +8929,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 923,
     "uikTvd": "463403070674",
+    "uikName": "УИК №923",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7677,8 +8991,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 924,
     "uikTvd": "463403070675",
+    "uikName": "УИК №924",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2721,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -7730,8 +9053,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 925,
     "uikTvd": "463403070676",
+    "uikName": "УИК №925",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2487,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -7783,8 +9115,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 926,
     "uikTvd": "463403070677",
+    "uikName": "УИК №926",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3073,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -7836,8 +9177,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 927,
     "uikTvd": "463403070678",
+    "uikName": "УИК №927",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 18,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7889,8 +9239,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 928,
     "uikTvd": "463403070679",
+    "uikName": "УИК №928",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 30,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7942,8 +9301,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 863,
     "uikTvd": "463402970399",
+    "uikName": "УИК №863",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2444,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -7995,8 +9363,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 864,
     "uikTvd": "463402970400",
+    "uikName": "УИК №864",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2066,
       "Число бюллетеней, полученных участковыми комиссиями": 1859,
@@ -8048,8 +9425,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 865,
     "uikTvd": "463402970401",
+    "uikName": "УИК №865",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2156,
       "Число бюллетеней, полученных участковыми комиссиями": 1885,
@@ -8101,8 +9487,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 866,
     "uikTvd": "463402970402",
+    "uikName": "УИК №866",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2310,
       "Число бюллетеней, полученных участковыми комиссиями": 2027,
@@ -8154,8 +9549,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 867,
     "uikTvd": "463402970403",
+    "uikName": "УИК №867",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1732,
       "Число бюллетеней, полученных участковыми комиссиями": 1475,
@@ -8207,8 +9611,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 868,
     "uikTvd": "463402970404",
+    "uikName": "УИК №868",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2465,
       "Число бюллетеней, полученных участковыми комиссиями": 2187,
@@ -8260,8 +9673,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 869,
     "uikTvd": "463402970405",
+    "uikName": "УИК №869",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2804,
       "Число бюллетеней, полученных участковыми комиссиями": 2484,
@@ -8313,8 +9735,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "463402970406",
+    "uikName": "УИК №870",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1993,
       "Число бюллетеней, полученных участковыми комиссиями": 1795,
@@ -8366,8 +9797,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "463402970407",
+    "uikName": "УИК №871",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1845,
       "Число бюллетеней, полученных участковыми комиссиями": 1656,
@@ -8419,8 +9859,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "463402970408",
+    "uikName": "УИК №872",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2564,
       "Число бюллетеней, полученных участковыми комиссиями": 2228,
@@ -8472,8 +9921,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "463402970409",
+    "uikName": "УИК №873",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2546,
       "Число бюллетеней, полученных участковыми комиссиями": 2194,
@@ -8525,8 +9983,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "463402970410",
+    "uikName": "УИК №874",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2261,
       "Число бюллетеней, полученных участковыми комиссиями": 2049,
@@ -8578,8 +10045,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "463402970411",
+    "uikName": "УИК №875",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1852,
@@ -8631,8 +10107,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "463402970412",
+    "uikName": "УИК №876",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2371,
       "Число бюллетеней, полученных участковыми комиссиями": 2067,
@@ -8684,8 +10169,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "463402970413",
+    "uikName": "УИК №877",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2105,
       "Число бюллетеней, полученных участковыми комиссиями": 1885,
@@ -8737,8 +10231,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "463402970414",
+    "uikName": "УИК №878",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2564,
       "Число бюллетеней, полученных участковыми комиссиями": 2252,
@@ -8790,8 +10293,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "463402970415",
+    "uikName": "УИК №879",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2473,
       "Число бюллетеней, полученных участковыми комиссиями": 2239,
@@ -8843,8 +10355,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "463402970416",
+    "uikName": "УИК №880",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2322,
       "Число бюллетеней, полученных участковыми комиссиями": 2039,
@@ -8896,8 +10417,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "463402970417",
+    "uikName": "УИК №881",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2045,
@@ -8949,8 +10479,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "463402970418",
+    "uikName": "УИК №882",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2433,
       "Число бюллетеней, полученных участковыми комиссиями": 2169,
@@ -9002,8 +10541,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "463402970419",
+    "uikName": "УИК №883",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2592,
       "Число бюллетеней, полученных участковыми комиссиями": 2367,
@@ -9055,8 +10603,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "463402970420",
+    "uikName": "УИК №884",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2469,
       "Число бюллетеней, полученных участковыми комиссиями": 2151,
@@ -9108,8 +10665,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "463402970421",
+    "uikName": "УИК №885",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2489,
       "Число бюллетеней, полученных участковыми комиссиями": 2225,
@@ -9161,8 +10727,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "463402970422",
+    "uikName": "УИК №886",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2447,
       "Число бюллетеней, полученных участковыми комиссиями": 2196,
@@ -9214,8 +10789,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 831,
     "uikTvd": "463402870387",
+    "uikName": "УИК №831",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2285,
@@ -9267,8 +10851,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 832,
     "uikTvd": "463402870388",
+    "uikName": "УИК №832",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2540,
       "Число бюллетеней, полученных участковыми комиссиями": 2340,
@@ -9320,8 +10913,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 833,
     "uikTvd": "463402870389",
+    "uikName": "УИК №833",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1986,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -9373,8 +10975,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 834,
     "uikTvd": "463402870390",
+    "uikName": "УИК №834",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 2195,
@@ -9426,8 +11037,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 835,
     "uikTvd": "463402870391",
+    "uikName": "УИК №835",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1846,
       "Число бюллетеней, полученных участковыми комиссиями": 1835,
@@ -9479,8 +11099,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 836,
     "uikTvd": "463402870392",
+    "uikName": "УИК №836",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1704,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -9532,8 +11161,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 837,
     "uikTvd": "463402870393",
+    "uikName": "УИК №837",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1741,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -9585,8 +11223,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 838,
     "uikTvd": "463402870394",
+    "uikName": "УИК №838",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -9638,8 +11285,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 839,
     "uikTvd": "463402870395",
+    "uikName": "УИК №839",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2303,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -9691,8 +11347,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 840,
     "uikTvd": "463402870396",
+    "uikName": "УИК №840",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2269,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -9744,8 +11409,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 841,
     "uikTvd": "463402870397",
+    "uikName": "УИК №841",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 950,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -9797,8 +11471,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 842,
     "uikTvd": "463402870398",
+    "uikName": "УИК №842",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 414,
@@ -9850,8 +11533,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 843,
     "uikTvd": "463402870399",
+    "uikName": "УИК №843",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1807,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -9903,8 +11595,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 844,
     "uikTvd": "463402870400",
+    "uikName": "УИК №844",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1827,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9956,8 +11657,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 845,
     "uikTvd": "463402870401",
+    "uikName": "УИК №845",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2446,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -10009,8 +11719,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 846,
     "uikTvd": "463402870402",
+    "uikName": "УИК №846",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1585,
       "Число бюллетеней, полученных участковыми комиссиями": 1627,
@@ -10062,8 +11781,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 847,
     "uikTvd": "463402870403",
+    "uikName": "УИК №847",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1036,
       "Число бюллетеней, полученных участковыми комиссиями": 1034,
@@ -10115,8 +11843,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 848,
     "uikTvd": "463402870404",
+    "uikName": "УИК №848",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1335,
       "Число бюллетеней, полученных участковыми комиссиями": 1374,
@@ -10168,8 +11905,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 849,
     "uikTvd": "463402870405",
+    "uikName": "УИК №849",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2126,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10221,8 +11967,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 850,
     "uikTvd": "463402870406",
+    "uikName": "УИК №850",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2582,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -10274,8 +12029,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 851,
     "uikTvd": "463402870407",
+    "uikName": "УИК №851",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2318,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -10327,8 +12091,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 852,
     "uikTvd": "463402870408",
+    "uikName": "УИК №852",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2905,
       "Число бюллетеней, полученных участковыми комиссиями": 2632,
@@ -10380,8 +12153,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 853,
     "uikTvd": "463402870409",
+    "uikName": "УИК №853",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 2090,
@@ -10433,8 +12215,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 854,
     "uikTvd": "463402870410",
+    "uikName": "УИК №854",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2682,
       "Число бюллетеней, полученных участковыми комиссиями": 2754,
@@ -10486,8 +12277,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 855,
     "uikTvd": "463402870411",
+    "uikName": "УИК №855",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2242,
       "Число бюллетеней, полученных участковыми комиссиями": 2264,
@@ -10539,8 +12339,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 856,
     "uikTvd": "463402870412",
+    "uikName": "УИК №856",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2035,
       "Число бюллетеней, полученных участковыми комиссиями": 1899,
@@ -10592,8 +12401,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 857,
     "uikTvd": "463402870413",
+    "uikName": "УИК №857",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2326,
       "Число бюллетеней, полученных участковыми комиссиями": 2198,
@@ -10645,8 +12463,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 858,
     "uikTvd": "463402870414",
+    "uikName": "УИК №858",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -10698,8 +12525,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 859,
     "uikTvd": "463402870415",
+    "uikName": "УИК №859",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2460,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -10751,8 +12587,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 860,
     "uikTvd": "463402870416",
+    "uikName": "УИК №860",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1858,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -10804,8 +12649,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 861,
     "uikTvd": "463402870417",
+    "uikName": "УИК №861",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -10857,8 +12711,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 862,
     "uikTvd": "463402870418",
+    "uikName": "УИК №862",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1608,
       "Число бюллетеней, полученных участковыми комиссиями": 1595,
@@ -10910,8 +12773,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "463402570634",
+    "uikName": "УИК №787",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1433,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10963,8 +12835,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "463402570635",
+    "uikName": "УИК №788",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1067,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11016,8 +12897,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "463402570636",
+    "uikName": "УИК №789",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1507,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11069,8 +12959,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "463402570637",
+    "uikName": "УИК №790",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2041,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11122,8 +13021,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "463402570638",
+    "uikName": "УИК №791",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1947,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11175,8 +13083,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "463402570639",
+    "uikName": "УИК №792",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1739,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11228,8 +13145,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "463402570640",
+    "uikName": "УИК №793",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2201,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11281,8 +13207,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "463402570641",
+    "uikName": "УИК №794",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1971,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11334,8 +13269,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "463402570642",
+    "uikName": "УИК №795",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1412,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11387,8 +13331,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "463402570643",
+    "uikName": "УИК №796",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2268,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11440,8 +13393,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "463402570644",
+    "uikName": "УИК №797",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2076,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11493,8 +13455,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "463402570645",
+    "uikName": "УИК №798",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1812,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11546,8 +13517,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "463402570646",
+    "uikName": "УИК №799",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2012,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11599,8 +13579,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "463402570647",
+    "uikName": "УИК №800",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2230,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11652,8 +13641,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "463402570648",
+    "uikName": "УИК №801",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2359,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11705,8 +13703,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "463402570649",
+    "uikName": "УИК №802",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11758,8 +13765,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "463402570650",
+    "uikName": "УИК №803",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1704,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11811,8 +13827,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "463402570651",
+    "uikName": "УИК №804",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1213,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -11864,8 +13889,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "463402570652",
+    "uikName": "УИК №805",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1863,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11917,8 +13951,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "463402570653",
+    "uikName": "УИК №806",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1556,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11970,8 +14013,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "463402570654",
+    "uikName": "УИК №807",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2626,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -12023,8 +14075,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "463402570655",
+    "uikName": "УИК №808",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2426,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -12076,8 +14137,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "463402570656",
+    "uikName": "УИК №809",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2028,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12129,8 +14199,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "463402570657",
+    "uikName": "УИК №810",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2289,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -12182,8 +14261,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "463402570658",
+    "uikName": "УИК №811",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2160,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12235,8 +14323,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "463402570659",
+    "uikName": "УИК №812",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1752,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -12288,8 +14385,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "463402570660",
+    "uikName": "УИК №813",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1647,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -12341,8 +14447,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "463402570661",
+    "uikName": "УИК №814",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1595,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -12394,8 +14509,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "463402570662",
+    "uikName": "УИК №815",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1241,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -12447,8 +14571,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "463402570663",
+    "uikName": "УИК №816",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -12500,8 +14633,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "463402570664",
+    "uikName": "УИК №817",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1563,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -12553,8 +14695,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "463402570665",
+    "uikName": "УИК №818",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1774,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -12606,8 +14757,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "463402570666",
+    "uikName": "УИК №819",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1472,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -12659,8 +14819,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "463402570667",
+    "uikName": "УИК №820",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1309,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -12712,8 +14881,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "463402570668",
+    "uikName": "УИК №821",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1529,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -12765,8 +14943,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "463402570669",
+    "uikName": "УИК №822",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1512,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -12818,8 +15005,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "463402570670",
+    "uikName": "УИК №823",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2612,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -12871,8 +15067,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 824,
     "uikTvd": "463402570671",
+    "uikName": "УИК №824",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1577,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -12924,8 +15129,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 825,
     "uikTvd": "463402570672",
+    "uikName": "УИК №825",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1396,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -12977,8 +15191,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 826,
     "uikTvd": "463402570673",
+    "uikName": "УИК №826",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2061,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -13030,8 +15253,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 827,
     "uikTvd": "463402570674",
+    "uikName": "УИК №827",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2004,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -13083,8 +15315,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 828,
     "uikTvd": "463402570675",
+    "uikName": "УИК №828",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1590,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -13136,8 +15377,17 @@ export const duma_2003_uik_428_region_63_part_004 = [
     "ballot": "single-member",
     "uikNumber": 829,
     "uikTvd": "463402570676",
+    "uikName": "УИК №829",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2306,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,

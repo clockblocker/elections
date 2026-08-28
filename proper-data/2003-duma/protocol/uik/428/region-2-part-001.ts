@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "404401166851",
+    "uikName": "УИК №220",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -63,8 +72,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "404401166853",
+    "uikName": "УИК №221",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -115,8 +133,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "404401166855",
+    "uikName": "УИК №222",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 426,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -167,8 +194,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "404401166857",
+    "uikName": "УИК №223",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -219,8 +255,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "404401166858",
+    "uikName": "УИК №224",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 534,
@@ -271,8 +316,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "404401166859",
+    "uikName": "УИК №225",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 581,
       "Число бюллетеней, полученных участковыми комиссиями": 578,
@@ -323,8 +377,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "404401166860",
+    "uikName": "УИК №226",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -375,8 +438,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "404401166861",
+    "uikName": "УИК №227",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -427,8 +499,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "404401166862",
+    "uikName": "УИК №228",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 267,
@@ -479,8 +560,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "404401166863",
+    "uikName": "УИК №229",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1340,
       "Число бюллетеней, полученных участковыми комиссиями": 1302,
@@ -531,8 +621,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "404401166864",
+    "uikName": "УИК №230",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 419,
@@ -583,8 +682,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "404401166865",
+    "uikName": "УИК №231",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -635,8 +743,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "404401166866",
+    "uikName": "УИК №232",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 64,
       "Число бюллетеней, полученных участковыми комиссиями": 66,
@@ -687,8 +804,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "404401166867",
+    "uikName": "УИК №233",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1860,
       "Число бюллетеней, полученных участковыми комиссиями": 1892,
@@ -739,8 +865,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "404401166868",
+    "uikName": "УИК №234",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1906,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -791,8 +926,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "404401166869",
+    "uikName": "УИК №235",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -843,8 +987,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "404401166870",
+    "uikName": "УИК №236",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 430,
       "Число бюллетеней, полученных участковыми комиссиями": 417,
@@ -895,8 +1048,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "404401166871",
+    "uikName": "УИК №237",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 59,
@@ -947,8 +1109,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "404401166872",
+    "uikName": "УИК №238",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -999,8 +1170,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "404401166873",
+    "uikName": "УИК №239",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -1051,8 +1231,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "404401166849",
+    "uikName": "УИК №240",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -1103,8 +1292,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "404401166847",
+    "uikName": "УИК №241",
     "tikTvd": "204200066841",
     "tikName": "Шебалинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 149,
@@ -1155,8 +1353,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "404401066718",
+    "uikName": "УИК №204",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 458,
@@ -1207,8 +1414,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "404401066719",
+    "uikName": "УИК №205",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 582,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -1259,8 +1475,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "404401066720",
+    "uikName": "УИК №206",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 518,
@@ -1311,8 +1536,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "404401066721",
+    "uikName": "УИК №207",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -1363,8 +1597,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "404401066722",
+    "uikName": "УИК №208",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -1415,8 +1658,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "404401066723",
+    "uikName": "УИК №209",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 246,
@@ -1467,8 +1719,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "404401066724",
+    "uikName": "УИК №210",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 656,
       "Число бюллетеней, полученных участковыми комиссиями": 636,
@@ -1519,8 +1780,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "404401066725",
+    "uikName": "УИК №211",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 667,
       "Число бюллетеней, полученных участковыми комиссиями": 651,
@@ -1571,8 +1841,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "404401066726",
+    "uikName": "УИК №212",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 349,
@@ -1623,8 +1902,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "404401066727",
+    "uikName": "УИК №213",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1083,
       "Число бюллетеней, полученных участковыми комиссиями": 1094,
@@ -1675,8 +1963,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "404401066728",
+    "uikName": "УИК №214",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -1727,8 +2024,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "404401066729",
+    "uikName": "УИК №215",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -1779,8 +2085,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "404401066730",
+    "uikName": "УИК №216",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 416,
       "Число бюллетеней, полученных участковыми комиссиями": 412,
@@ -1831,8 +2146,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "404401066731",
+    "uikName": "УИК №217",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 431,
@@ -1883,8 +2207,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "404401066732",
+    "uikName": "УИК №218",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 134,
@@ -1935,8 +2268,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "404401066733",
+    "uikName": "УИК №219",
     "tikTvd": "204200066842",
     "tikName": "Чойская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -1987,8 +2329,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "404400966765",
+    "uikName": "УИК №182",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 154,
@@ -2039,8 +2390,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "404400966766",
+    "uikName": "УИК №183",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 166,
@@ -2091,8 +2451,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "404400966767",
+    "uikName": "УИК №184",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -2143,8 +2512,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "404400966768",
+    "uikName": "УИК №185",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 124,
@@ -2195,8 +2573,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "404400966769",
+    "uikName": "УИК №186",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 124,
@@ -2247,8 +2634,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "404400966770",
+    "uikName": "УИК №187",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -2299,8 +2695,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "404400966771",
+    "uikName": "УИК №188",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 483,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -2351,8 +2756,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "404400966772",
+    "uikName": "УИК №189",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -2403,8 +2817,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "404400966773",
+    "uikName": "УИК №190",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 449,
       "Число бюллетеней, полученных участковыми комиссиями": 449,
@@ -2455,8 +2878,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "404400966774",
+    "uikName": "УИК №191",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2507,8 +2939,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "404400966775",
+    "uikName": "УИК №192",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 475,
@@ -2559,8 +3000,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "404400966776",
+    "uikName": "УИК №193",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 339,
@@ -2611,8 +3061,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "404400966777",
+    "uikName": "УИК №194",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -2663,8 +3122,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "404400966778",
+    "uikName": "УИК №195",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -2715,8 +3183,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "404400966779",
+    "uikName": "УИК №196",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2767,8 +3244,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "404400966780",
+    "uikName": "УИК №197",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 274,
@@ -2819,8 +3305,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "404400966781",
+    "uikName": "УИК №198",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 263,
@@ -2871,8 +3366,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "404400966782",
+    "uikName": "УИК №199",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 73,
@@ -2923,8 +3427,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "404400966783",
+    "uikName": "УИК №200",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 79,
@@ -2975,8 +3488,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "404400966784",
+    "uikName": "УИК №201",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 323,
@@ -3027,8 +3549,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "404400966785",
+    "uikName": "УИК №202",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 398,
@@ -3079,8 +3610,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "404400966786",
+    "uikName": "УИК №203",
     "tikTvd": "204200066843",
     "tikName": "Чемальская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -3131,8 +3671,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "404400866718",
+    "uikName": "УИК №152",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 418,
@@ -3183,8 +3732,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "404400866719",
+    "uikName": "УИК №153",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 515,
@@ -3235,8 +3793,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "404400866720",
+    "uikName": "УИК №154",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 339,
@@ -3287,8 +3854,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "404400866721",
+    "uikName": "УИК №155",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 246,
@@ -3339,8 +3915,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "404400866722",
+    "uikName": "УИК №156",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -3391,8 +3976,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "404400866723",
+    "uikName": "УИК №157",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 644,
       "Число бюллетеней, полученных участковыми комиссиями": 642,
@@ -3443,8 +4037,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "404400866724",
+    "uikName": "УИК №158",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -3495,8 +4098,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "404400866725",
+    "uikName": "УИК №159",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 221,
@@ -3547,8 +4159,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "404400866726",
+    "uikName": "УИК №160",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 889,
       "Число бюллетеней, полученных участковыми комиссиями": 868,
@@ -3599,8 +4220,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "404400866727",
+    "uikName": "УИК №161",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1807,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -3651,8 +4281,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "404400866728",
+    "uikName": "УИК №162",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -3703,8 +4342,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "404400866729",
+    "uikName": "УИК №163",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -3755,8 +4403,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "404400866730",
+    "uikName": "УИК №164",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3807,8 +4464,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "404400866731",
+    "uikName": "УИК №165",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 462,
@@ -3859,8 +4525,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "404400866732",
+    "uikName": "УИК №166",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 207,
@@ -3911,8 +4586,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "404400866733",
+    "uikName": "УИК №167",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 263,
@@ -3963,8 +4647,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "404400866734",
+    "uikName": "УИК №168",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -4015,8 +4708,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "404400866735",
+    "uikName": "УИК №169",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -4067,8 +4769,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "404400866736",
+    "uikName": "УИК №170",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 161,
@@ -4119,8 +4830,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "404400866737",
+    "uikName": "УИК №171",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 269,
@@ -4171,8 +4891,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "404400866738",
+    "uikName": "УИК №172",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 628,
       "Число бюллетеней, полученных участковыми комиссиями": 604,
@@ -4223,8 +4952,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "404400866739",
+    "uikName": "УИК №173",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -4275,8 +5013,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "404400866740",
+    "uikName": "УИК №174",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -4327,8 +5074,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "404400866741",
+    "uikName": "УИК №175",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -4379,8 +5135,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "404400866742",
+    "uikName": "УИК №176",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -4431,8 +5196,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "404400866743",
+    "uikName": "УИК №177",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4483,8 +5257,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "404400866744",
+    "uikName": "УИК №178",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 688,
       "Число бюллетеней, полученных участковыми комиссиями": 673,
@@ -4535,8 +5318,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "404400866745",
+    "uikName": "УИК №179",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 712,
       "Число бюллетеней, полученных участковыми комиссиями": 703,
@@ -4587,8 +5379,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "404400866746",
+    "uikName": "УИК №180",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -4639,8 +5440,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "404400866716",
+    "uikName": "УИК №181",
     "tikTvd": "204200066844",
     "tikName": "Усть-Коксинская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -4691,8 +5501,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "404400766702",
+    "uikName": "УИК №128",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -4743,8 +5562,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "404400766703",
+    "uikName": "УИК №129",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -4795,8 +5623,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "404400766704",
+    "uikName": "УИК №130",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 364,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -4847,8 +5684,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "404400766705",
+    "uikName": "УИК №131",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -4899,8 +5745,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "404400766706",
+    "uikName": "УИК №132",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -4951,8 +5806,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "404400766707",
+    "uikName": "УИК №133",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -5003,8 +5867,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "404400766708",
+    "uikName": "УИК №134",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -5055,8 +5928,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "404400766709",
+    "uikName": "УИК №135",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -5107,8 +5989,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "404400766710",
+    "uikName": "УИК №136",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -5159,8 +6050,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "404400766711",
+    "uikName": "УИК №137",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2442,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5211,8 +6111,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "404400766712",
+    "uikName": "УИК №138",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -5263,8 +6172,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "404400766713",
+    "uikName": "УИК №139",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 729,
       "Число бюллетеней, полученных участковыми комиссиями": 725,
@@ -5315,8 +6233,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "404400766714",
+    "uikName": "УИК №140",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1025,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -5367,8 +6294,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "404400766715",
+    "uikName": "УИК №141",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -5419,8 +6355,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "404400766716",
+    "uikName": "УИК №142",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -5471,8 +6416,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "404400766717",
+    "uikName": "УИК №143",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1112,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -5523,8 +6477,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "404400766718",
+    "uikName": "УИК №144",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -5575,8 +6538,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "404400766719",
+    "uikName": "УИК №145",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 344,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -5627,8 +6599,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "404400766720",
+    "uikName": "УИК №146",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -5679,8 +6660,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "404400766721",
+    "uikName": "УИК №147",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5731,8 +6721,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "404400766722",
+    "uikName": "УИК №148",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -5783,8 +6782,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "404400766723",
+    "uikName": "УИК №149",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -5835,8 +6843,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "404400766724",
+    "uikName": "УИК №150",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5887,8 +6904,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "404400766725",
+    "uikName": "УИК №151",
     "tikTvd": "204200066845",
     "tikName": "Усть-Канская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -5939,8 +6965,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "404400666714",
+    "uikName": "УИК №117",
     "tikTvd": "204200066846",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -5991,8 +7026,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "404400666715",
+    "uikName": "УИК №118",
     "tikTvd": "204200066846",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -6043,8 +7087,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "404400666716",
+    "uikName": "УИК №119",
     "tikTvd": "204200066846",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -6095,8 +7148,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "404400666717",
+    "uikName": "УИК №120",
     "tikTvd": "204200066846",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 821,
       "Число бюллетеней, полученных участковыми комиссиями": 865,
@@ -6147,8 +7209,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "404400666718",
+    "uikName": "УИК №121",
     "tikTvd": "204200066846",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -6199,8 +7270,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "404400666719",
+    "uikName": "УИК №122",
     "tikTvd": "204200066846",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 535,
@@ -6251,8 +7331,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "404400666720",
+    "uikName": "УИК №123",
     "tikTvd": "204200066846",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -6303,8 +7392,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "404400666721",
+    "uikName": "УИК №124",
     "tikTvd": "204200066846",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2219,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -6355,8 +7453,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "404400666722",
+    "uikName": "УИК №125",
     "tikTvd": "204200066846",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 434,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -6407,8 +7514,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "404400666723",
+    "uikName": "УИК №126",
     "tikTvd": "204200066846",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1562,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -6459,8 +7575,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "404400666724",
+    "uikName": "УИК №127",
     "tikTvd": "204200066846",
     "tikName": "Улаганская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -6511,8 +7636,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "404400566785",
+    "uikName": "УИК №95",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 549,
@@ -6563,8 +7697,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "404400566786",
+    "uikName": "УИК №96",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -6615,8 +7758,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "404400566787",
+    "uikName": "УИК №97",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1735,
       "Число бюллетеней, полученных участковыми комиссиями": 1664,
@@ -6667,8 +7819,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "404400566788",
+    "uikName": "УИК №98",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2229,
       "Число бюллетеней, полученных участковыми комиссиями": 2092,
@@ -6719,8 +7880,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "404400566789",
+    "uikName": "УИК №99",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 154,
@@ -6771,8 +7941,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "404400566790",
+    "uikName": "УИК №100",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -6823,8 +8002,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "404400566791",
+    "uikName": "УИК №101",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -6875,8 +8063,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "404400566792",
+    "uikName": "УИК №102",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 398,
@@ -6927,8 +8124,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "404400566793",
+    "uikName": "УИК №103",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 577,
       "Число бюллетеней, полученных участковыми комиссиями": 568,
@@ -6979,8 +8185,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "404400566794",
+    "uikName": "УИК №104",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 146,
@@ -7031,8 +8246,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "404400566795",
+    "uikName": "УИК №105",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -7083,8 +8307,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "404400566796",
+    "uikName": "УИК №106",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 134,
@@ -7135,8 +8368,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "404400566797",
+    "uikName": "УИК №107",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1013,
       "Число бюллетеней, полученных участковыми комиссиями": 985,
@@ -7187,8 +8429,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "404400566798",
+    "uikName": "УИК №108",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 359,
@@ -7239,8 +8490,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "404400566799",
+    "uikName": "УИК №109",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 423,
@@ -7291,8 +8551,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "404400566800",
+    "uikName": "УИК №110",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 96,
@@ -7343,8 +8612,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "404400566801",
+    "uikName": "УИК №111",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -7395,8 +8673,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "404400566802",
+    "uikName": "УИК №112",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 40,
       "Число бюллетеней, полученных участковыми комиссиями": 41,
@@ -7447,8 +8734,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "404400566803",
+    "uikName": "УИК №113",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 151,
@@ -7499,8 +8795,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "404400566804",
+    "uikName": "УИК №114",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 51,
       "Число бюллетеней, полученных участковыми комиссиями": 49,
@@ -7551,8 +8856,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "404400566805",
+    "uikName": "УИК №115",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -7603,8 +8917,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "404400566806",
+    "uikName": "УИК №116",
     "tikTvd": "204200066847",
     "tikName": "Турочакская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 321,
@@ -7655,8 +8978,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "404400466674",
+    "uikName": "УИК  69",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -7707,8 +9039,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "404400466675",
+    "uikName": "УИК  70",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -7759,8 +9100,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "404400466676",
+    "uikName": "УИК  71",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -7811,8 +9161,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "404400466677",
+    "uikName": "УИК  72",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 486,
       "Число бюллетеней, полученных участковыми комиссиями": 484,
@@ -7863,8 +9222,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "404400466678",
+    "uikName": "УИК  73",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -7915,8 +9283,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "404400466679",
+    "uikName": "УИК  74",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 166,
@@ -7967,8 +9344,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "404400466680",
+    "uikName": "УИК  75",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 421,
@@ -8019,8 +9405,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "404400466681",
+    "uikName": "УИК  76",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 257,
@@ -8071,8 +9466,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "404400466682",
+    "uikName": "УИК  77",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -8123,8 +9527,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "404400466683",
+    "uikName": "УИК  78",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1798,
       "Число бюллетеней, полученных участковыми комиссиями": 1751,
@@ -8175,8 +9588,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "404400466684",
+    "uikName": "УИК  79",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1875,
       "Число бюллетеней, полученных участковыми комиссиями": 1843,
@@ -8227,8 +9649,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "404400466685",
+    "uikName": "УИК  80",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 523,
@@ -8279,8 +9710,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "404400466686",
+    "uikName": "УИК  81",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 362,
@@ -8331,8 +9771,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "404400466687",
+    "uikName": "УИК  82",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 537,
@@ -8383,8 +9832,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "404400466688",
+    "uikName": "УИК  83",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -8435,8 +9893,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "404400466689",
+    "uikName": "УИК  84",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -8487,8 +9954,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "404400466690",
+    "uikName": "УИК  85",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -8539,8 +10015,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "404400466691",
+    "uikName": "УИК  86",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -8591,8 +10076,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "404400466692",
+    "uikName": "УИК  87",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 59,
@@ -8643,8 +10137,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "404400466693",
+    "uikName": "УИК  88",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -8695,8 +10198,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "404400466694",
+    "uikName": "УИК  89",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 259,
@@ -8747,8 +10259,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "404400466695",
+    "uikName": "УИК  90",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 460,
       "Число бюллетеней, полученных участковыми комиссиями": 456,
@@ -8799,8 +10320,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "404400466696",
+    "uikName": "УИК  91",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8851,8 +10381,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "404400466697",
+    "uikName": "УИК  92",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -8903,8 +10442,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "404400466698",
+    "uikName": "УИК  93",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 593,
@@ -8955,8 +10503,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "404400466699",
+    "uikName": "УИК  94",
     "tikTvd": "204200066848",
     "tikName": "Онгудайская  ",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 154,
@@ -9007,8 +10564,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "404400366864",
+    "uikName": "УИК №40",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1153,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -9059,8 +10625,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "404400366865",
+    "uikName": "УИК №41",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1151,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -9111,8 +10686,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "404400366866",
+    "uikName": "УИК №42",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 931,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -9163,8 +10747,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "404400366867",
+    "uikName": "УИК №43",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1023,
       "Число бюллетеней, полученных участковыми комиссиями": 985,
@@ -9215,8 +10808,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "404400366868",
+    "uikName": "УИК №44",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 824,
       "Число бюллетеней, полученных участковыми комиссиями": 815,
@@ -9267,8 +10869,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "404400366869",
+    "uikName": "УИК №45",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1117,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9319,8 +10930,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "404400366870",
+    "uikName": "УИК №46",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 912,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -9371,8 +10991,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "404400366871",
+    "uikName": "УИК №47",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 616,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -9423,8 +11052,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "404400366872",
+    "uikName": "УИК №48",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 871,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -9475,8 +11113,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "404400366873",
+    "uikName": "УИК №49",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -9527,8 +11174,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "404400366874",
+    "uikName": "УИК №50",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 474,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -9579,8 +11235,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "404400366875",
+    "uikName": "УИК №51",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 535,
@@ -9631,8 +11296,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "404400366876",
+    "uikName": "УИК №52",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -9683,8 +11357,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "404400366877",
+    "uikName": "УИК №53",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -9735,8 +11418,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "404400366878",
+    "uikName": "УИК №54",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 895,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -9787,8 +11479,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "404400366879",
+    "uikName": "УИК №55",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 731,
       "Число бюллетеней, полученных участковыми комиссиями": 655,
@@ -9839,8 +11540,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "404400366880",
+    "uikName": "УИК №56",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -9891,8 +11601,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "404400366881",
+    "uikName": "УИК №57",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -9943,8 +11662,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "404400366882",
+    "uikName": "УИК №58",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -9995,8 +11723,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "404400366883",
+    "uikName": "УИК №59",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -10047,8 +11784,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "404400366884",
+    "uikName": "УИК №60",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -10099,8 +11845,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "404400366885",
+    "uikName": "УИК №61",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1101,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -10151,8 +11906,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "404400366886",
+    "uikName": "УИК №62",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1054,
       "Число бюллетеней, полученных участковыми комиссиями": 1025,
@@ -10203,8 +11967,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "404400366887",
+    "uikName": "УИК №63",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 475,
@@ -10255,8 +12028,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "404400366888",
+    "uikName": "УИК №64",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -10307,8 +12089,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "404400366889",
+    "uikName": "УИК №65",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -10359,8 +12150,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "404400366890",
+    "uikName": "УИК №66",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -10411,8 +12211,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "404400366891",
+    "uikName": "УИК №67",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -10463,8 +12272,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "404400366892",
+    "uikName": "УИК №68",
     "tikTvd": "204200066849",
     "tikName": "Майминская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1014,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10515,8 +12333,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "404400266680",
+    "uikName": "УИК №24",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -10567,8 +12394,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "404400266681",
+    "uikName": "УИК №25",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 497,
       "Число бюллетеней, полученных участковыми комиссиями": 486,
@@ -10619,8 +12455,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "404400266682",
+    "uikName": "УИК №26",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -10671,8 +12516,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "404400266683",
+    "uikName": "УИК №27",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 660,
       "Число бюллетеней, полученных участковыми комиссиями": 646,
@@ -10723,8 +12577,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "404400266684",
+    "uikName": "УИК №28",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 426,
       "Число бюллетеней, полученных участковыми комиссиями": 416,
@@ -10775,8 +12638,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "404400266685",
+    "uikName": "УИК №29",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 655,
       "Число бюллетеней, полученных участковыми комиссиями": 636,
@@ -10827,8 +12699,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "404400266686",
+    "uikName": "УИК №30",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 578,
@@ -10879,8 +12760,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "404400266687",
+    "uikName": "УИК №31",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1441,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -10931,8 +12821,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "404400266688",
+    "uikName": "УИК №32",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1421,
       "Число бюллетеней, полученных участковыми комиссиями": 1396,
@@ -10983,8 +12882,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "404400266689",
+    "uikName": "УИК №33",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 435,
@@ -11035,8 +12943,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "404400266690",
+    "uikName": "УИК №34",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 843,
       "Число бюллетеней, полученных участковыми комиссиями": 835,
@@ -11087,8 +13004,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "404400266691",
+    "uikName": "УИК №35",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 946,
       "Число бюллетеней, полученных участковыми комиссиями": 958,
@@ -11139,8 +13065,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "404400266692",
+    "uikName": "УИК №36",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 698,
       "Число бюллетеней, полученных участковыми комиссиями": 707,
@@ -11191,8 +13126,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "404400266693",
+    "uikName": "УИК №37",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -11243,8 +13187,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "404400266694",
+    "uikName": "УИК №38",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 847,
       "Число бюллетеней, полученных участковыми комиссиями": 846,
@@ -11295,8 +13248,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "404400266695",
+    "uikName": "УИК №39",
     "tikTvd": "204200066850",
     "tikName": "Кош-Агачская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -11347,8 +13309,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "404400166742",
+    "uikName": "УИК №1",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1911,
       "Число бюллетеней, полученных участковыми комиссиями": 1794,
@@ -11399,8 +13370,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "404400166743",
+    "uikName": "УИК №2",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1787,
       "Число бюллетеней, полученных участковыми комиссиями": 1751,
@@ -11451,8 +13431,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "404400166744",
+    "uikName": "УИК №3",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1496,
       "Число бюллетеней, полученных участковыми комиссиями": 1513,
@@ -11503,8 +13492,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "404400166745",
+    "uikName": "УИК №4",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1450,
       "Число бюллетеней, полученных участковыми комиссиями": 1389,
@@ -11555,8 +13553,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "404400166746",
+    "uikName": "УИК №5",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1975,
       "Число бюллетеней, полученных участковыми комиссиями": 1797,
@@ -11607,8 +13614,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "404400166747",
+    "uikName": "УИК №6",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1780,
       "Число бюллетеней, полученных участковыми комиссиями": 1704,
@@ -11659,8 +13675,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "404400166748",
+    "uikName": "УИК №7",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1569,
       "Число бюллетеней, полученных участковыми комиссиями": 1518,
@@ -11711,8 +13736,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "404400166749",
+    "uikName": "УИК №8",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1953,
       "Число бюллетеней, полученных участковыми комиссиями": 1831,
@@ -11763,8 +13797,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "404400166750",
+    "uikName": "УИК №9",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2141,
       "Число бюллетеней, полученных участковыми комиссиями": 1978,
@@ -11815,8 +13858,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "404400166751",
+    "uikName": "УИК №10",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1910,
       "Число бюллетеней, полученных участковыми комиссиями": 1804,
@@ -11867,8 +13919,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "404400166752",
+    "uikName": "УИК №11",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1746,
       "Число бюллетеней, полученных участковыми комиссиями": 1641,
@@ -11919,8 +13980,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "404400166753",
+    "uikName": "УИК №12",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1936,
       "Число бюллетеней, полученных участковыми комиссиями": 1801,
@@ -11971,8 +14041,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "404400166754",
+    "uikName": "УИК №13",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1851,
       "Число бюллетеней, полученных участковыми комиссиями": 1737,
@@ -12023,8 +14102,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "404400166755",
+    "uikName": "УИК №14",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2166,
       "Число бюллетеней, полученных участковыми комиссиями": 1958,
@@ -12075,8 +14163,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "404400166756",
+    "uikName": "УИК №15",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1854,
       "Число бюллетеней, полученных участковыми комиссиями": 1527,
@@ -12127,8 +14224,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "404400166757",
+    "uikName": "УИК №16",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1211,
       "Число бюллетеней, полученных участковыми комиссиями": 1115,
@@ -12179,8 +14285,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "404400166758",
+    "uikName": "УИК №17",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1829,
       "Число бюллетеней, полученных участковыми комиссиями": 1716,
@@ -12231,8 +14346,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "404400166759",
+    "uikName": "УИК №18",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1532,
       "Число бюллетеней, полученных участковыми комиссиями": 1428,
@@ -12283,8 +14407,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "404400166760",
+    "uikName": "УИК №19",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1653,
       "Число бюллетеней, полученных участковыми комиссиями": 1566,
@@ -12335,8 +14468,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "404400166761",
+    "uikName": "УИК №20",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1655,
       "Число бюллетеней, полученных участковыми комиссиями": 1575,
@@ -12387,8 +14529,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "404400166762",
+    "uikName": "УИК №21",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1643,
       "Число бюллетеней, полученных участковыми комиссиями": 1527,
@@ -12439,8 +14590,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "404400166763",
+    "uikName": "УИК №22",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 582,
       "Число бюллетеней, полученных участковыми комиссиями": 513,
@@ -12491,8 +14651,17 @@ export const duma_2003_uik_428_region_2_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "404400166764",
+    "uikName": "УИК №23",
     "tikTvd": "204200066851",
     "tikName": "Горно-Алтайская городская",
+    "regionCode": "2",
+    "regionTvd": "100100095858",
+    "regionName": "Республика Алтай",
+    "district": {
+      "districtNumber": 2,
+      "oikTvd": "100100095859",
+      "oikName": "Горно-Алтайский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 421,
       "Число бюллетеней, полученных участковыми комиссиями": 500,

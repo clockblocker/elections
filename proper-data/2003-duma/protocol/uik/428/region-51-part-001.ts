@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "451402270392",
+    "uikName": "УИК №302",
     "tikTvd": "251200068356",
     "tikName": "Видяевская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1637,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "451402270393",
+    "uikName": "УИК №303",
     "tikTvd": "251200068356",
     "tikName": "Видяевская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1584,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "451402270394",
+    "uikName": "УИК №304",
     "tikTvd": "251200068356",
     "tikName": "Видяевская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1636,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "451401570399",
+    "uikName": "УИК  180",
     "tikTvd": "251200068357",
     "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2256,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "451401570400",
+    "uikName": "УИК  181",
     "tikTvd": "251200068357",
     "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2883,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "451401570401",
+    "uikName": "УИК  182",
     "tikTvd": "251200068357",
     "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2244,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "451401570402",
+    "uikName": "УИК  183",
     "tikTvd": "251200068357",
     "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "451401770441",
+    "uikName": "УИК №396",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2726,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "451401770442",
+    "uikName": "УИК №397",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1128,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "451401770443",
+    "uikName": "УИК №398",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 846,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "451401770444",
+    "uikName": "УИК №399",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2028,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "451401770445",
+    "uikName": "УИК №400",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1636,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "451401770446",
+    "uikName": "УИК №401",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1357,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "451401770447",
+    "uikName": "УИК №402",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 561,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "451401770448",
+    "uikName": "УИК №403",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1251,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "451401770449",
+    "uikName": "УИК №404",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 645,
       "Число бюллетеней, полученных участковыми комиссиями": 516,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "451401770450",
+    "uikName": "УИК №405",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1307,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "451401770451",
+    "uikName": "УИК №406",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2242,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "451401770452",
+    "uikName": "УИК №407",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "451401770453",
+    "uikName": "УИК №408",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "451401470447",
+    "uikName": "УИК №363",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1927,
       "Число бюллетеней, полученных участковыми комиссиями": 1674,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "451401470448",
+    "uikName": "УИК №364",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1435,
       "Число бюллетеней, полученных участковыми комиссиями": 1261,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "451401470449",
+    "uikName": "УИК №365",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2173,
       "Число бюллетеней, полученных участковыми комиссиями": 1927,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "451401470450",
+    "uikName": "УИК №366",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1679,
       "Число бюллетеней, полученных участковыми комиссиями": 1481,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "451401470451",
+    "uikName": "УИК №367",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1967,
       "Число бюллетеней, полученных участковыми комиссиями": 1737,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "451401470452",
+    "uikName": "УИК №368",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1660,
       "Число бюллетеней, полученных участковыми комиссиями": 1461,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "451401470453",
+    "uikName": "УИК №369",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1463,
       "Число бюллетеней, полученных участковыми комиссиями": 1287,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "451401470454",
+    "uikName": "УИК №370",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 816,
       "Число бюллетеней, полученных участковыми комиссиями": 655,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "451401470455",
+    "uikName": "УИК №371",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 61,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "451401470456",
+    "uikName": "УИК №372",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1559,
       "Число бюллетеней, полученных участковыми комиссиями": 1345,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "451401470457",
+    "uikName": "УИК №373",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1339,
       "Число бюллетеней, полученных участковыми комиссиями": 1175,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "451401470458",
+    "uikName": "УИК №374",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1465,
       "Число бюллетеней, полученных участковыми комиссиями": 1228,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "451401470459",
+    "uikName": "УИК №375",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2316,
       "Число бюллетеней, полученных участковыми комиссиями": 2007,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "451401470460",
+    "uikName": "УИК №376",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2382,
       "Число бюллетеней, полученных участковыми комиссиями": 1937,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "451401470461",
+    "uikName": "УИК №377",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1325,
       "Число бюллетеней, полученных участковыми комиссиями": 1143,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "451401470462",
+    "uikName": "УИК №378",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1404,
       "Число бюллетеней, полученных участковыми комиссиями": 1219,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "451401470463",
+    "uikName": "УИК №379",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1435,
       "Число бюллетеней, полученных участковыми комиссиями": 1249,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "451401470464",
+    "uikName": "УИК №380",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1572,
       "Число бюллетеней, полученных участковыми комиссиями": 1372,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "451401470465",
+    "uikName": "УИК №381",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 37,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "451401470466",
+    "uikName": "УИК №382",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "451401470467",
+    "uikName": "УИК №383",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 646,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "451401470468",
+    "uikName": "УИК №384",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 242,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "451401470469",
+    "uikName": "УИК №385",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 940,
       "Число бюллетеней, полученных участковыми комиссиями": 808,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "451401470470",
+    "uikName": "УИК №386",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 863,
       "Число бюллетеней, полученных участковыми комиссиями": 704,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "451401470471",
+    "uikName": "УИК №387",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1324,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "451401470472",
+    "uikName": "УИК №388",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1474,
       "Число бюллетеней, полученных участковыми комиссиями": 1237,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "451401470473",
+    "uikName": "УИК №389",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "451401470474",
+    "uikName": "УИК №390",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 870,
       "Число бюллетеней, полученных участковыми комиссиями": 744,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "451401470475",
+    "uikName": "УИК №391",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "451401470476",
+    "uikName": "УИК №392",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "451400370461",
+    "uikName": "УИК №232",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1769,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "451400370462",
+    "uikName": "УИК №233",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1842,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "451400370463",
+    "uikName": "УИК №234",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1966,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "451400370464",
+    "uikName": "УИК №235",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1942,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "451400370465",
+    "uikName": "УИК №236",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "451400370466",
+    "uikName": "УИК №237",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2143,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "451400370467",
+    "uikName": "УИК №238",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2086,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "451400370468",
+    "uikName": "УИК №239",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "451400370469",
+    "uikName": "УИК №240",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2280,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "451400370470",
+    "uikName": "УИК №241",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2274,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "451400370471",
+    "uikName": "УИК №242",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "451400370472",
+    "uikName": "УИК №243",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2354,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "451400370473",
+    "uikName": "УИК №244",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2250,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "451400370474",
+    "uikName": "УИК №245",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "451400370475",
+    "uikName": "УИК №246",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1445,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "451400370476",
+    "uikName": "УИК №247",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1286,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "451401970433",
+    "uikName": "УИК  469",
     "tikTvd": "251200068361",
     "tikName": "Снежногорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1269,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "451401970434",
+    "uikName": "УИК  470",
     "tikTvd": "251200068361",
     "tikName": "Снежногорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1372,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "451401970435",
+    "uikName": "УИК  471",
     "tikTvd": "251200068361",
     "tikName": "Снежногорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1264,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "451401970436",
+    "uikName": "УИК  472",
     "tikTvd": "251200068361",
     "tikName": "Снежногорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2064,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "451401970437",
+    "uikName": "УИК  473",
     "tikTvd": "251200068361",
     "tikName": "Снежногорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2030,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "451401970438",
+    "uikName": "УИК  474",
     "tikTvd": "251200068361",
     "tikName": "Снежногорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2209,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "451402070468",
+    "uikName": "УИК №421",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2940,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "451402070469",
+    "uikName": "УИК №422",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2792,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "451402070470",
+    "uikName": "УИК №423",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3267,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "451402070471",
+    "uikName": "УИК №424",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3182,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "451402070472",
+    "uikName": "УИК №425",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2738,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "451402070473",
+    "uikName": "УИК №426",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2496,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "451402070474",
+    "uikName": "УИК №427",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2280,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "451402070475",
+    "uikName": "УИК №428",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2058,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "451402070476",
+    "uikName": "УИК №429",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1335,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "451402070477",
+    "uikName": "УИК №430",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2740,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "451402070478",
+    "uikName": "УИК №431",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2737,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "451402070479",
+    "uikName": "УИК №432",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2719,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "451402070480",
+    "uikName": "УИК №433",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2773,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "451402070481",
+    "uikName": "УИК №434",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2762,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "451402070482",
+    "uikName": "УИК №435",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2166,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "451402070483",
+    "uikName": "УИК №436",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1537,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "451402070484",
+    "uikName": "УИК №437",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1742,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "451402070485",
+    "uikName": "УИК №438",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2880,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "451402070486",
+    "uikName": "УИК №439",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 554,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "451402070487",
+    "uikName": "УИК №440",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1667,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "451402070488",
+    "uikName": "УИК №441",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2268,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 442,
     "uikTvd": "451402070489",
+    "uikName": "УИК №442",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2001,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 443,
     "uikTvd": "451402070490",
+    "uikName": "УИК №443",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 444,
     "uikTvd": "451402070491",
+    "uikName": "УИК №444",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2588,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 445,
     "uikTvd": "451402070492",
+    "uikName": "УИК №445",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1049,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 446,
     "uikTvd": "451402070493",
+    "uikName": "УИК №446",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 980,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "451402070494",
+    "uikName": "УИК №447",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2350,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "451402070495",
+    "uikName": "УИК №448",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "451402070496",
+    "uikName": "УИК №449",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 818,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "451402070497",
+    "uikName": "УИК №450",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "451402070498",
+    "uikName": "УИК №451",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "451402070499",
+    "uikName": "УИК №452",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "451401670343",
+    "uikName": "УИК №409",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1463,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "451401670344",
+    "uikName": "УИК №410",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1450,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "451401670345",
+    "uikName": "УИК №411",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1349,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "451401670346",
+    "uikName": "УИК №412",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1374,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "451401670347",
+    "uikName": "УИК №413",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1391,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "451401670348",
+    "uikName": "УИК №414",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1589,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "451401670349",
+    "uikName": "УИК №415",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1554,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "451401670350",
+    "uikName": "УИК №416",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1598,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "451401670351",
+    "uikName": "УИК №417",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1506,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "451401670352",
+    "uikName": "УИК №418",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 856,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "451401670353",
+    "uikName": "УИК №419",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "451401670354",
+    "uikName": "УИК №420",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1011,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "451400170363",
+    "uikName": "УИК №154",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1938,
       "Число бюллетеней, полученных участковыми комиссиями": 1942,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "451400170365",
+    "uikName": "УИК №155",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1653,
       "Число бюллетеней, полученных участковыми комиссиями": 1621,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "451400170366",
+    "uikName": "УИК №156",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2191,
       "Число бюллетеней, полученных участковыми комиссиями": 2177,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "451400170367",
+    "uikName": "УИК №157",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1605,
       "Число бюллетеней, полученных участковыми комиссиями": 1611,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "451400170368",
+    "uikName": "УИК №158",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1565,
       "Число бюллетеней, полученных участковыми комиссиями": 1543,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "451400170369",
+    "uikName": "УИК №159",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1977,
       "Число бюллетеней, полученных участковыми комиссиями": 1968,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "451400170370",
+    "uikName": "УИК №160",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2135,
       "Число бюллетеней, полученных участковыми комиссиями": 2161,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "451400170371",
+    "uikName": "УИК №161",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2669,
       "Число бюллетеней, полученных участковыми комиссиями": 2691,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "451400170372",
+    "uikName": "УИК №162",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2358,
       "Число бюллетеней, полученных участковыми комиссиями": 2374,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "451400170373",
+    "uikName": "УИК №163",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2253,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "451400170374",
+    "uikName": "УИК №164",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1996,
       "Число бюллетеней, полученных участковыми комиссиями": 1993,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "451400170375",
+    "uikName": "УИК №165",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1305,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "451400170376",
+    "uikName": "УИК №166",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2158,
       "Число бюллетеней, полученных участковыми комиссиями": 2151,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "451400170377",
+    "uikName": "УИК №167",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2646,
       "Число бюллетеней, полученных участковыми комиссиями": 2657,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "451400170378",
+    "uikName": "УИК №168",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2121,
       "Число бюллетеней, полученных участковыми комиссиями": 2123,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "451400170379",
+    "uikName": "УИК №169",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2609,
       "Число бюллетеней, полученных участковыми комиссиями": 2615,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "451400170380",
+    "uikName": "УИК №170",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1668,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "451400170381",
+    "uikName": "УИК №171",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 471,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "451400170382",
+    "uikName": "УИК №172",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2837,
       "Число бюллетеней, полученных участковыми комиссиями": 2815,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "451400170383",
+    "uikName": "УИК №173",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2508,
       "Число бюллетеней, полученных участковыми комиссиями": 2509,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "451400170384",
+    "uikName": "УИК №174",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3087,
       "Число бюллетеней, полученных участковыми комиссиями": 3091,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "451400170385",
+    "uikName": "УИК №175",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1753,
       "Число бюллетеней, полученных участковыми комиссиями": 1768,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "451400170386",
+    "uikName": "УИК №176",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2166,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "451400170387",
+    "uikName": "УИК №177",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1834,
       "Число бюллетеней, полученных участковыми комиссиями": 1838,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "451400170388",
+    "uikName": "УИК №178",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1620,
       "Число бюллетеней, полученных участковыми комиссиями": 1617,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "451400170361",
+    "uikName": "УИК №179",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2869,
       "Число бюллетеней, полученных участковыми комиссиями": 2867,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "451400270789",
+    "uikName": "УИК №186",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1763,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "451400270790",
+    "uikName": "УИК №187",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2364,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "451400270791",
+    "uikName": "УИК №188",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2497,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "451400270792",
+    "uikName": "УИК №189",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2207,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "451400270793",
+    "uikName": "УИК №190",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1443,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "451400270794",
+    "uikName": "УИК №191",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1078,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "451400270795",
+    "uikName": "УИК №192",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "451400270796",
+    "uikName": "УИК №193",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2483,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "451400270797",
+    "uikName": "УИК №194",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1687,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "451400270798",
+    "uikName": "УИК №195",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "451400270799",
+    "uikName": "УИК №196",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "451400270800",
+    "uikName": "УИК №197",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 566,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "451400270801",
+    "uikName": "УИК №198",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1777,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "451400270802",
+    "uikName": "УИК №199",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "451400270803",
+    "uikName": "УИК №200",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2157,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "451400270804",
+    "uikName": "УИК №201",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "451400270805",
+    "uikName": "УИК №202",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "451400270806",
+    "uikName": "УИК №203",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1048,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "451400270807",
+    "uikName": "УИК №204",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 686,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "451400270808",
+    "uikName": "УИК №205",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 592,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "451400270809",
+    "uikName": "УИК №206",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "451400270810",
+    "uikName": "УИК №207",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2183,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "451400270811",
+    "uikName": "УИК №208",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2034,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "451400270812",
+    "uikName": "УИК №209",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1629,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "451400270813",
+    "uikName": "УИК №210",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 48,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "451400270814",
+    "uikName": "УИК №211",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 561,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "451400270815",
+    "uikName": "УИК №212",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 732,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "451400270816",
+    "uikName": "УИК №213",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "451400270817",
+    "uikName": "УИК №214",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 724,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "451400270818",
+    "uikName": "УИК №215",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 888,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "451400270819",
+    "uikName": "УИК №216",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1101,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "451400270820",
+    "uikName": "УИК №217",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 804,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "451400270821",
+    "uikName": "УИК №218",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2079,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "451400270822",
+    "uikName": "УИК №219",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1706,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "451400270823",
+    "uikName": "УИК №220",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "451400270824",
+    "uikName": "УИК №221",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "451400270825",
+    "uikName": "УИК №222",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1066,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "451400270826",
+    "uikName": "УИК №223",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "451400270827",
+    "uikName": "УИК №224",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "451400270828",
+    "uikName": "УИК №225",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "451400270829",
+    "uikName": "УИК №226",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "451400270830",
+    "uikName": "УИК №227",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 625,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "451400870435",
+    "uikName": "УИК  315",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2760,
       "Число бюллетеней, полученных участковыми комиссиями": 2745,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "451400870436",
+    "uikName": "УИК  316",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2698,
       "Число бюллетеней, полученных участковыми комиссиями": 2634,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "451400870437",
+    "uikName": "УИК  317",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2563,
       "Число бюллетеней, полученных участковыми комиссиями": 2507,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "451400870438",
+    "uikName": "УИК  318",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2418,
       "Число бюллетеней, полученных участковыми комиссиями": 2435,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "451400870439",
+    "uikName": "УИК  319",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2418,
       "Число бюллетеней, полученных участковыми комиссиями": 2382,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "451400870440",
+    "uikName": "УИК  320",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1037,
       "Число бюллетеней, полученных участковыми комиссиями": 1033,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "451400870441",
+    "uikName": "УИК  321",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1013,
       "Число бюллетеней, полученных участковыми комиссиями": 1041,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "451400870442",
+    "uikName": "УИК  322",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1545,
       "Число бюллетеней, полученных участковыми комиссиями": 1502,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "451400870443",
+    "uikName": "УИК  323",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1220,
       "Число бюллетеней, полученных участковыми комиссиями": 1232,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "451400870444",
+    "uikName": "УИК  324",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1752,
       "Число бюллетеней, полученных участковыми комиссиями": 1936,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "451400870445",
+    "uikName": "УИК  325",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2084,
       "Число бюллетеней, полученных участковыми комиссиями": 2107,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "451400870446",
+    "uikName": "УИК  326",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2397,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "451400870447",
+    "uikName": "УИК  327",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2355,
       "Число бюллетеней, полученных участковыми комиссиями": 2424,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "451400870448",
+    "uikName": "УИК  328",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1969,
       "Число бюллетеней, полученных участковыми комиссиями": 1973,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "451400870492",
+    "uikName": "УИК  329",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "451400870449",
+    "uikName": "УИК  330",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2036,
       "Число бюллетеней, полученных участковыми комиссиями": 2068,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "451400870450",
+    "uikName": "УИК  331",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1908,
       "Число бюллетеней, полученных участковыми комиссиями": 1915,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "451400870451",
+    "uikName": "УИК  332",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1137,
       "Число бюллетеней, полученных участковыми комиссиями": 1084,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "451400870452",
+    "uikName": "УИК  333",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1521,
       "Число бюллетеней, полученных участковыми комиссиями": 1475,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "451400870453",
+    "uikName": "УИК  334",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2633,
       "Число бюллетеней, полученных участковыми комиссиями": 2630,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "451400870454",
+    "uikName": "УИК  335",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2070,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "451400870455",
+    "uikName": "УИК  336",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1639,
       "Число бюллетеней, полученных участковыми комиссиями": 1632,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "451400870456",
+    "uikName": "УИК  337",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 942,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "451400870457",
+    "uikName": "УИК  338",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 71,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "451400870458",
+    "uikName": "УИК  339",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "451400870459",
+    "uikName": "УИК  340",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2126,
       "Число бюллетеней, полученных участковыми комиссиями": 2079,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "451400770312",
+    "uikName": "УИК  361",
     "tikTvd": "251200068368",
     "tikName": "Островнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1246,
       "Число бюллетеней, полученных участковыми комиссиями": 1226,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "451400770313",
+    "uikName": "УИК  362",
     "tikTvd": "251200068368",
     "tikName": "Островнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2374,
       "Число бюллетеней, полученных участковыми комиссиями": 2388,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "451401267065",
+    "uikName": "УИК №1",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2096,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "451401267101",
+    "uikName": "УИК №2",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2040,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "451401267102",
+    "uikName": "УИК №3",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "451401267103",
+    "uikName": "УИК №4",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2420,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "451401267104",
+    "uikName": "УИК №5",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1783,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "451401267105",
+    "uikName": "УИК №6",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1838,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "451401267106",
+    "uikName": "УИК №7",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2038,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "451401267107",
+    "uikName": "УИК №8",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1972,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "451401267108",
+    "uikName": "УИК №9",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2008,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "451401267109",
+    "uikName": "УИК №10",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1960,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "451401267110",
+    "uikName": "УИК №11",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1667,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "451401267111",
+    "uikName": "УИК №12",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1671,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "451401267112",
+    "uikName": "УИК №13",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1589,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "451401267113",
+    "uikName": "УИК №14",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2021,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "451401267114",
+    "uikName": "УИК №15",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2008,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "451401267115",
+    "uikName": "УИК №16",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1894,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "451401267116",
+    "uikName": "УИК №17",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "451401267117",
+    "uikName": "УИК №18",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2264,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "451401267118",
+    "uikName": "УИК №19",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2117,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "451401267119",
+    "uikName": "УИК №20",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2130,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "451401267120",
+    "uikName": "УИК №21",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1382,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "451401267121",
+    "uikName": "УИК №22",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1443,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "451401267122",
+    "uikName": "УИК №23",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1363,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "451401267123",
+    "uikName": "УИК №24",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2210,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "451401267124",
+    "uikName": "УИК №25",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2239,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "451401267125",
+    "uikName": "УИК №26",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2447,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "451401267126",
+    "uikName": "УИК №27",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1772,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "451401267127",
+    "uikName": "УИК №28",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1427,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "451401267128",
+    "uikName": "УИК №29",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1821,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "451401267129",
+    "uikName": "УИК №30",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1843,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "451401267130",
+    "uikName": "УИК №31",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2406,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "451401267131",
+    "uikName": "УИК №32",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2173,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "451401267132",
+    "uikName": "УИК №33",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2482,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "451401267133",
+    "uikName": "УИК №34",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1535,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "451401267134",
+    "uikName": "УИК №35",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1859,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "451401267135",
+    "uikName": "УИК №36",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "451401267136",
+    "uikName": "УИК №37",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1904,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_51_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "451401267137",
+    "uikName": "УИК №38",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
+    "district": {
+      "districtNumber": 116,
+      "oikTvd": "100100095901",
+      "oikName": "Мурманский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1737,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,

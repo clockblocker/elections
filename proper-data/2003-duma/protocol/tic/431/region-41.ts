@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_41 = [
     "ballot": "party",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
     "uikCount": 119,
     "accounting": {
       "Число избирателей, внесенных в списки": 4412,
@@ -195,6 +198,9 @@ export const duma_2003_tic_431_region_41 = [
     "ballot": "party",
     "tikTvd": "241200066963",
     "tikName": "Усть-Камчатская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки": 12337,
@@ -269,6 +275,9 @@ export const duma_2003_tic_431_region_41 = [
     "ballot": "party",
     "tikTvd": "241200066964",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в списки": 6861,
@@ -342,6 +351,9 @@ export const duma_2003_tic_431_region_41 = [
     "ballot": "party",
     "tikTvd": "241200066965",
     "tikName": "Соболевская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в списки": 2397,
@@ -411,6 +423,9 @@ export const duma_2003_tic_431_region_41 = [
     "ballot": "party",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
     "uikCount": 91,
     "accounting": {
       "Число избирателей, внесенных в списки": 155831,
@@ -567,6 +582,9 @@ export const duma_2003_tic_431_region_41 = [
     "ballot": "party",
     "tikTvd": "241200066967",
     "tikName": "Мильковская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки": 9288,
@@ -642,6 +660,9 @@ export const duma_2003_tic_431_region_41 = [
     "ballot": "party",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 51979,
@@ -743,6 +764,9 @@ export const duma_2003_tic_431_region_41 = [
     "ballot": "party",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 19546,
@@ -821,6 +845,9 @@ export const duma_2003_tic_431_region_41 = [
     "ballot": "party",
     "tikTvd": "241200066970",
     "tikName": "Вулканная поселковая    ",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в списки": 1334,
@@ -887,6 +914,9 @@ export const duma_2003_tic_431_region_41 = [
     "ballot": "party",
     "tikTvd": "241200066971",
     "tikName": "Алеутская ",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в списки": 589,
@@ -953,6 +983,9 @@ export const duma_2003_tic_431_region_41 = [
     "ballot": "party",
     "tikTvd": "241200066972",
     "tikName": "Быстринская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в списки": 2052,

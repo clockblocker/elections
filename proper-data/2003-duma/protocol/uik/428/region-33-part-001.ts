@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "433401370338",
+    "uikName": "УИК  929",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2415,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -62,8 +71,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "433401370340",
+    "uikName": "УИК  930",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2400,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -113,8 +131,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "433401370341",
+    "uikName": "УИК  931",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2383,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -164,8 +191,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "433401370342",
+    "uikName": "УИК  932",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2198,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -215,8 +251,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "433401370343",
+    "uikName": "УИК  933",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2444,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -266,8 +311,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "433401370344",
+    "uikName": "УИК  934",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2403,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -317,8 +371,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "433401370345",
+    "uikName": "УИК  935",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 571,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -368,8 +431,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "433401370346",
+    "uikName": "УИК  936",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -419,8 +491,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "433401370347",
+    "uikName": "УИК  937",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -470,8 +551,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "433401370348",
+    "uikName": "УИК  938",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -521,8 +611,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 939,
     "uikTvd": "433401370349",
+    "uikName": "УИК  939",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -572,8 +671,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 940,
     "uikTvd": "433401370350",
+    "uikName": "УИК  940",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -623,8 +731,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 941,
     "uikTvd": "433401370351",
+    "uikName": "УИК  941",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -674,8 +791,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 942,
     "uikTvd": "433401370352",
+    "uikName": "УИК  942",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 303,
@@ -725,8 +851,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 943,
     "uikTvd": "433401370353",
+    "uikName": "УИК  943",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -776,8 +911,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 944,
     "uikTvd": "433401370354",
+    "uikName": "УИК  944",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -827,8 +971,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 945,
     "uikTvd": "433401370355",
+    "uikName": "УИК  945",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1091,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -878,8 +1031,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 946,
     "uikTvd": "433401370356",
+    "uikName": "УИК  946",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -929,8 +1091,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 947,
     "uikTvd": "433401370357",
+    "uikName": "УИК  947",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -980,8 +1151,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 948,
     "uikTvd": "433401370358",
+    "uikName": "УИК  948",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 338,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -1031,8 +1211,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 949,
     "uikTvd": "433401370359",
+    "uikName": "УИК  949",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1082,8 +1271,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 950,
     "uikTvd": "433401370360",
+    "uikName": "УИК  950",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1133,8 +1331,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 951,
     "uikTvd": "433401370361",
+    "uikName": "УИК  951",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -1184,8 +1391,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 952,
     "uikTvd": "433401370362",
+    "uikName": "УИК  952",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -1235,8 +1451,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 953,
     "uikTvd": "433401370363",
+    "uikName": "УИК  953",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -1286,8 +1511,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 954,
     "uikTvd": "433401370364",
+    "uikName": "УИК  954",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 403,
@@ -1337,8 +1571,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 955,
     "uikTvd": "433401370365",
+    "uikName": "УИК  955",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -1388,8 +1631,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 956,
     "uikTvd": "433401370366",
+    "uikName": "УИК  956",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -1439,8 +1691,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 957,
     "uikTvd": "433401370367",
+    "uikName": "УИК  957",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -1490,8 +1751,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 958,
     "uikTvd": "433401370368",
+    "uikName": "УИК  958",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 187,
@@ -1541,8 +1811,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 959,
     "uikTvd": "433401370369",
+    "uikName": "УИК  959",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 360,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1592,8 +1871,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 960,
     "uikTvd": "433401370370",
+    "uikName": "УИК  960",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1093,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1643,8 +1931,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 961,
     "uikTvd": "433401370371",
+    "uikName": "УИК  961",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -1694,8 +1991,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 962,
     "uikTvd": "433401370411",
+    "uikName": "УИК  962",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -1745,8 +2051,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 963,
     "uikTvd": "433401370373",
+    "uikName": "УИК  963",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -1796,8 +2111,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 964,
     "uikTvd": "433401370374",
+    "uikName": "УИК  964",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -1847,8 +2171,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 965,
     "uikTvd": "433401370375",
+    "uikName": "УИК  965",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -1898,8 +2231,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 966,
     "uikTvd": "433401370376",
+    "uikName": "УИК  966",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 826,
       "Число бюллетеней, полученных участковыми комиссиями": 741,
@@ -1949,8 +2291,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 967,
     "uikTvd": "433401370377",
+    "uikName": "УИК  967",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -2000,8 +2351,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 968,
     "uikTvd": "433401370378",
+    "uikName": "УИК  968",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -2051,8 +2411,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 969,
     "uikTvd": "433401370379",
+    "uikName": "УИК  969",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2102,8 +2471,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 970,
     "uikTvd": "433401370380",
+    "uikName": "УИК  970",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 532,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2153,8 +2531,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 971,
     "uikTvd": "433401370381",
+    "uikName": "УИК  971",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 707,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -2204,8 +2591,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 972,
     "uikTvd": "433401370382",
+    "uikName": "УИК  972",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 775,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -2255,8 +2651,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 973,
     "uikTvd": "433401370383",
+    "uikName": "УИК  973",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -2306,8 +2711,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 974,
     "uikTvd": "433401370384",
+    "uikName": "УИК  974",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -2357,8 +2771,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 975,
     "uikTvd": "433401370385",
+    "uikName": "УИК  975",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -2408,8 +2831,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 976,
     "uikTvd": "433401370386",
+    "uikName": "УИК  976",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -2459,8 +2891,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 977,
     "uikTvd": "433401370387",
+    "uikName": "УИК  977",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 713,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -2510,8 +2951,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 978,
     "uikTvd": "433401370388",
+    "uikName": "УИК  978",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -2561,8 +3011,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 979,
     "uikTvd": "433401370389",
+    "uikName": "УИК  979",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -2612,8 +3071,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 980,
     "uikTvd": "433401370390",
+    "uikName": "УИК  980",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -2663,8 +3131,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 981,
     "uikTvd": "433401370391",
+    "uikName": "УИК  981",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -2714,8 +3191,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 982,
     "uikTvd": "433401370392",
+    "uikName": "УИК  982",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -2765,8 +3251,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 983,
     "uikTvd": "433401370393",
+    "uikName": "УИК  983",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -2816,8 +3311,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 984,
     "uikTvd": "433401370394",
+    "uikName": "УИК  984",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -2867,8 +3371,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 985,
     "uikTvd": "433401370395",
+    "uikName": "УИК  985",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2918,8 +3431,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 986,
     "uikTvd": "433401370396",
+    "uikName": "УИК  986",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 694,
       "Число бюллетеней, полученных участковыми комиссиями": 602,
@@ -2969,8 +3491,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 987,
     "uikTvd": "433401370397",
+    "uikName": "УИК  987",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -3020,8 +3551,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 988,
     "uikTvd": "433401370403",
+    "uikName": "УИК  988",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -3071,8 +3611,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 989,
     "uikTvd": "433401370405",
+    "uikName": "УИК  989",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -3122,8 +3671,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 990,
     "uikTvd": "433401370406",
+    "uikName": "УИК  990",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -3173,8 +3731,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 991,
     "uikTvd": "433401370407",
+    "uikName": "УИК  991",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -3224,8 +3791,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 992,
     "uikTvd": "433401370408",
+    "uikName": "УИК  992",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -3275,8 +3851,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 993,
     "uikTvd": "433401370409",
+    "uikName": "УИК  993",
     "tikTvd": "233200071065",
     "tikName": "Меленковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -3326,8 +3911,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "433401170477",
+    "uikName": "УИК №629",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -3377,8 +3971,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "433401170478",
+    "uikName": "УИК №630",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3428,8 +4031,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "433401170479",
+    "uikName": "УИК №631",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3479,8 +4091,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "433401170480",
+    "uikName": "УИК №632",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1743,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3530,8 +4151,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "433401170481",
+    "uikName": "УИК №633",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 944,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3581,8 +4211,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "433401170482",
+    "uikName": "УИК №634",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2715,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -3632,8 +4271,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "433401170483",
+    "uikName": "УИК №635",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3683,8 +4331,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "433401170484",
+    "uikName": "УИК №636",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3734,8 +4391,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "433401170485",
+    "uikName": "УИК №637",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 411,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3785,8 +4451,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "433401170486",
+    "uikName": "УИК №638",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3836,8 +4511,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "433401170487",
+    "uikName": "УИК №639",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 826,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3887,8 +4571,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "433401170488",
+    "uikName": "УИК №640",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3938,8 +4631,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "433401170489",
+    "uikName": "УИК №641",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3989,8 +4691,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "433401170490",
+    "uikName": "УИК №642",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1035,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4040,8 +4751,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "433401170491",
+    "uikName": "УИК №643",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -4091,8 +4811,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "433401170492",
+    "uikName": "УИК №644",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4142,8 +4871,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "433401170493",
+    "uikName": "УИК №645",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 744,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4193,8 +4931,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "433401170494",
+    "uikName": "УИК №646",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4244,8 +4991,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "433401170495",
+    "uikName": "УИК №647",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4295,8 +5051,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "433401170496",
+    "uikName": "УИК №648",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1226,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4346,8 +5111,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "433401170497",
+    "uikName": "УИК №649",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4397,8 +5171,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "433401170498",
+    "uikName": "УИК №650",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -4448,8 +5231,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "433401170499",
+    "uikName": "УИК №651",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 412,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4499,8 +5291,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "433401170500",
+    "uikName": "УИК №652",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 403,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4550,8 +5351,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "433401170501",
+    "uikName": "УИК №653",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 654,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -4601,8 +5411,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "433401170502",
+    "uikName": "УИК №654",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 897,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -4652,8 +5471,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "433401170503",
+    "uikName": "УИК №655",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 446,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4703,8 +5531,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "433401170504",
+    "uikName": "УИК №656",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 761,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -4754,8 +5591,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "433401170505",
+    "uikName": "УИК №657",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 494,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -4805,8 +5651,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "433401170506",
+    "uikName": "УИК №658",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1013,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4856,8 +5711,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "433401170507",
+    "uikName": "УИК №659",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 630,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4907,8 +5771,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "433401170508",
+    "uikName": "УИК №660",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1367,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4958,8 +5831,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "433401170509",
+    "uikName": "УИК №661",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1613,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5009,8 +5891,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "433401170510",
+    "uikName": "УИК №662",
     "tikTvd": "233200071066",
     "tikName": "Ковровская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1643,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5060,8 +5951,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "433401070492",
+    "uikName": "УИК №664",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 726,
       "Число бюллетеней, полученных участковыми комиссиями": 674,
@@ -5111,8 +6011,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "433401070493",
+    "uikName": "УИК №665",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1400,
       "Число бюллетеней, полученных участковыми комиссиями": 1313,
@@ -5162,8 +6071,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "433401070494",
+    "uikName": "УИК №666",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1762,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -5213,8 +6131,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "433401070495",
+    "uikName": "УИК №667",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2723,
       "Число бюллетеней, полученных участковыми комиссиями": 1845,
@@ -5264,8 +6191,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "433401070496",
+    "uikName": "УИК №668",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 853,
       "Число бюллетеней, полученных участковыми комиссиями": 787,
@@ -5315,8 +6251,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "433401070497",
+    "uikName": "УИК №669",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2030,
       "Число бюллетеней, полученных участковыми комиссиями": 1857,
@@ -5366,8 +6311,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "433401070498",
+    "uikName": "УИК №670",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1954,
       "Число бюллетеней, полученных участковыми комиссиями": 1824,
@@ -5417,8 +6371,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "433401070499",
+    "uikName": "УИК №671",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2023,
       "Число бюллетеней, полученных участковыми комиссиями": 1825,
@@ -5468,8 +6431,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "433401070500",
+    "uikName": "УИК №672",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2503,
       "Число бюллетеней, полученных участковыми комиссиями": 2352,
@@ -5519,8 +6491,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "433401070501",
+    "uikName": "УИК №673",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 483,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5570,8 +6551,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "433401070502",
+    "uikName": "УИК №674",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1716,
       "Число бюллетеней, полученных участковыми комиссиями": 1625,
@@ -5621,8 +6611,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "433401070503",
+    "uikName": "УИК №675",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1723,
       "Число бюллетеней, полученных участковыми комиссиями": 1612,
@@ -5672,8 +6671,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "433401070504",
+    "uikName": "УИК №676",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 941,
       "Число бюллетеней, полученных участковыми комиссиями": 873,
@@ -5723,8 +6731,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "433401070505",
+    "uikName": "УИК №677",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1256,
       "Число бюллетеней, полученных участковыми комиссиями": 1154,
@@ -5774,8 +6791,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "433401070506",
+    "uikName": "УИК №678",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2261,
       "Число бюллетеней, полученных участковыми комиссиями": 2138,
@@ -5825,8 +6851,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "433401070507",
+    "uikName": "УИК №679",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1677,
       "Число бюллетеней, полученных участковыми комиссиями": 1572,
@@ -5876,8 +6911,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "433401070508",
+    "uikName": "УИК №680",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1925,
       "Число бюллетеней, полученных участковыми комиссиями": 1791,
@@ -5927,8 +6971,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "433401070509",
+    "uikName": "УИК №681",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1916,
       "Число бюллетеней, полученных участковыми комиссиями": 1821,
@@ -5978,8 +7031,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "433401070510",
+    "uikName": "УИК №682",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1704,
       "Число бюллетеней, полученных участковыми комиссиями": 1618,
@@ -6029,8 +7091,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "433401070511",
+    "uikName": "УИК №683",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1710,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -6080,8 +7151,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "433401070512",
+    "uikName": "УИК №684",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2238,
       "Число бюллетеней, полученных участковыми комиссиями": 2106,
@@ -6131,8 +7211,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "433401070513",
+    "uikName": "УИК №685",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2453,
       "Число бюллетеней, полученных участковыми комиссиями": 2327,
@@ -6182,8 +7271,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "433401070514",
+    "uikName": "УИК №686",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2195,
       "Число бюллетеней, полученных участковыми комиссиями": 2088,
@@ -6233,8 +7331,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "433401070515",
+    "uikName": "УИК №687",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2246,
       "Число бюллетеней, полученных участковыми комиссиями": 2137,
@@ -6284,8 +7391,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "433401070516",
+    "uikName": "УИК №688",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1961,
       "Число бюллетеней, полученных участковыми комиссиями": 1854,
@@ -6335,8 +7451,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "433401070517",
+    "uikName": "УИК №689",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1763,
       "Число бюллетеней, полученных участковыми комиссиями": 1685,
@@ -6386,8 +7511,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "433401070518",
+    "uikName": "УИК №690",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2022,
       "Число бюллетеней, полученных участковыми комиссиями": 1918,
@@ -6437,8 +7571,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "433401070519",
+    "uikName": "УИК №691",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2682,
       "Число бюллетеней, полученных участковыми комиссиями": 2493,
@@ -6488,8 +7631,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "433401070520",
+    "uikName": "УИК №692",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2559,
       "Число бюллетеней, полученных участковыми комиссиями": 2414,
@@ -6539,8 +7691,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "433401070521",
+    "uikName": "УИК №693",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2471,
       "Число бюллетеней, полученных участковыми комиссиями": 2314,
@@ -6590,8 +7751,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "433401070522",
+    "uikName": "УИК №694",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1952,
       "Число бюллетеней, полученных участковыми комиссиями": 1832,
@@ -6641,8 +7811,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "433401070523",
+    "uikName": "УИК №695",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1747,
       "Число бюллетеней, полученных участковыми комиссиями": 1661,
@@ -6692,8 +7871,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "433401070524",
+    "uikName": "УИК №696",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2119,
       "Число бюллетеней, полученных участковыми комиссиями": 1988,
@@ -6743,8 +7931,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "433401070525",
+    "uikName": "УИК №697",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1897,
       "Число бюллетеней, полученных участковыми комиссиями": 1789,
@@ -6794,8 +7991,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "433401070526",
+    "uikName": "УИК №698",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2934,
       "Число бюллетеней, полученных участковыми комиссиями": 2786,
@@ -6845,8 +8051,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "433401070527",
+    "uikName": "УИК №699",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1992,
       "Число бюллетеней, полученных участковыми комиссиями": 1862,
@@ -6896,8 +8111,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "433401070528",
+    "uikName": "УИК №700",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2509,
       "Число бюллетеней, полученных участковыми комиссиями": 2442,
@@ -6947,8 +8171,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "433401070529",
+    "uikName": "УИК №701",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2912,
       "Число бюллетеней, полученных участковыми комиссиями": 2496,
@@ -6998,8 +8231,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "433401070530",
+    "uikName": "УИК №702",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2067,
       "Число бюллетеней, полученных участковыми комиссиями": 1911,
@@ -7049,8 +8291,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "433401070531",
+    "uikName": "УИК №703",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1377,
       "Число бюллетеней, полученных участковыми комиссиями": 1306,
@@ -7100,8 +8351,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "433401070532",
+    "uikName": "УИК №704",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2341,
       "Число бюллетеней, полученных участковыми комиссиями": 2222,
@@ -7151,8 +8411,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "433401070533",
+    "uikName": "УИК №705",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2624,
       "Число бюллетеней, полученных участковыми комиссиями": 2431,
@@ -7202,8 +8471,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "433401070534",
+    "uikName": "УИК №706",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1696,
       "Число бюллетеней, полученных участковыми комиссиями": 1611,
@@ -7253,8 +8531,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "433401070535",
+    "uikName": "УИК №707",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2499,
       "Число бюллетеней, полученных участковыми комиссиями": 2671,
@@ -7304,8 +8591,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "433401070536",
+    "uikName": "УИК №708",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1354,
       "Число бюллетеней, полученных участковыми комиссиями": 1313,
@@ -7355,8 +8651,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "433401070537",
+    "uikName": "УИК №709",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2098,
       "Число бюллетеней, полученных участковыми комиссиями": 1972,
@@ -7406,8 +8711,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "433401070538",
+    "uikName": "УИК №710",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 2019,
@@ -7457,8 +8771,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "433401070539",
+    "uikName": "УИК №711",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1999,
       "Число бюллетеней, полученных участковыми комиссиями": 1861,
@@ -7508,8 +8831,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "433401070540",
+    "uikName": "УИК №712",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 1933,
@@ -7559,8 +8891,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "433401070541",
+    "uikName": "УИК №713",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1935,
       "Число бюллетеней, полученных участковыми комиссиями": 1888,
@@ -7610,8 +8951,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "433401070542",
+    "uikName": "УИК №714",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2716,
       "Число бюллетеней, полученных участковыми комиссиями": 2545,
@@ -7661,8 +9011,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "433401070543",
+    "uikName": "УИК №715",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2580,
       "Число бюллетеней, полученных участковыми комиссиями": 2364,
@@ -7712,8 +9071,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "433401070544",
+    "uikName": "УИК №716",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1711,
       "Число бюллетеней, полученных участковыми комиссиями": 1592,
@@ -7763,8 +9131,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "433401070545",
+    "uikName": "УИК №717",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1941,
       "Число бюллетеней, полученных участковыми комиссиями": 1848,
@@ -7814,8 +9191,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "433401070546",
+    "uikName": "УИК №718",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2315,
       "Число бюллетеней, полученных участковыми комиссиями": 2158,
@@ -7865,8 +9251,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "433401070547",
+    "uikName": "УИК №719",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1330,
       "Число бюллетеней, полученных участковыми комиссиями": 1238,
@@ -7916,8 +9311,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "433401070548",
+    "uikName": "УИК №720",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1179,
       "Число бюллетеней, полученных участковыми комиссиями": 1126,
@@ -7967,8 +9371,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "433401070549",
+    "uikName": "УИК №721",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2535,
       "Число бюллетеней, полученных участковыми комиссиями": 2286,
@@ -8018,8 +9431,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "433401070550",
+    "uikName": "УИК №722",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2442,
       "Число бюллетеней, полученных участковыми комиссиями": 2223,
@@ -8069,8 +9491,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "433401070551",
+    "uikName": "УИК №723",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1892,
@@ -8120,8 +9551,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "433401070552",
+    "uikName": "УИК №724",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1697,
       "Число бюллетеней, полученных участковыми комиссиями": 1609,
@@ -8171,8 +9611,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "433401070553",
+    "uikName": "УИК №725",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1519,
       "Число бюллетеней, полученных участковыми комиссиями": 1429,
@@ -8222,8 +9671,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "433401070554",
+    "uikName": "УИК №726",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 814,
       "Число бюллетеней, полученных участковыми комиссиями": 738,
@@ -8273,8 +9731,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "433401070555",
+    "uikName": "УИК №727",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8324,8 +9791,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "433401070556",
+    "uikName": "УИК №728",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -8375,8 +9851,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "433401070557",
+    "uikName": "УИК №729",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -8426,8 +9911,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "433401070558",
+    "uikName": "УИК №730",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 32,
       "Число бюллетеней, полученных участковыми комиссиями": 36,
@@ -8477,8 +9971,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "433401070559",
+    "uikName": "УИК №731",
     "tikTvd": "233200071067",
     "tikName": "Ковровская городская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2852,
       "Число бюллетеней, полученных участковыми комиссиями": 2148,
@@ -8528,8 +10031,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "433400870409",
+    "uikName": "УИК №596",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1901,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -8579,8 +10091,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "433400870410",
+    "uikName": "УИК №597",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1814,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8630,8 +10151,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "433400870411",
+    "uikName": "УИК №598",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1798,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -8681,8 +10211,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "433400870412",
+    "uikName": "УИК №599",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1893,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -8732,8 +10271,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "433400870413",
+    "uikName": "УИК №600",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1825,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8783,8 +10331,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "433400870414",
+    "uikName": "УИК №601",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8834,8 +10391,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "433400870415",
+    "uikName": "УИК №602",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1785,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -8885,8 +10451,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "433400870416",
+    "uikName": "УИК №603",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1819,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8936,8 +10511,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "433400870417",
+    "uikName": "УИК №604",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -8987,8 +10571,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "433400870418",
+    "uikName": "УИК №605",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -9038,8 +10631,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "433400870419",
+    "uikName": "УИК №606",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1284,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -9089,8 +10691,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "433400870420",
+    "uikName": "УИК №607",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1028,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -9140,8 +10751,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "433400870421",
+    "uikName": "УИК №608",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1303,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -9191,8 +10811,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "433400870422",
+    "uikName": "УИК №609",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9242,8 +10871,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "433400870423",
+    "uikName": "УИК №610",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 552,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -9293,8 +10931,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "433400870424",
+    "uikName": "УИК №611",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 556,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -9344,8 +10991,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "433400870425",
+    "uikName": "УИК №612",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -9395,8 +11051,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "433400870426",
+    "uikName": "УИК №613",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9446,8 +11111,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "433400870427",
+    "uikName": "УИК №614",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -9497,8 +11171,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "433400870428",
+    "uikName": "УИК №615",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9548,8 +11231,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "433400870429",
+    "uikName": "УИК №616",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -9599,8 +11291,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "433400870430",
+    "uikName": "УИК №617",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1129,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9650,8 +11351,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "433400870431",
+    "uikName": "УИК №618",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 557,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -9701,8 +11411,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "433400870432",
+    "uikName": "УИК №619",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 962,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -9752,8 +11471,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "433400870433",
+    "uikName": "УИК №620",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 778,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -9803,8 +11531,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "433400870434",
+    "uikName": "УИК №621",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9854,8 +11591,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "433400870435",
+    "uikName": "УИК №622",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9905,8 +11651,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "433400870436",
+    "uikName": "УИК №623",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -9956,8 +11711,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "433400870437",
+    "uikName": "УИК №624",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -10007,8 +11771,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "433400870438",
+    "uikName": "УИК №625",
     "tikTvd": "233200071068",
     "tikName": "Камешковская",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 683,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -10058,8 +11831,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "433400770565",
+    "uikName": "УИК №472",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 343,
@@ -10109,8 +11891,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "433400770566",
+    "uikName": "УИК №473",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 455,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -10160,8 +11951,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "433400770567",
+    "uikName": "УИК №474",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -10211,8 +12011,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "433400770568",
+    "uikName": "УИК №475",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 638,
       "Число бюллетеней, полученных участковыми комиссиями": 604,
@@ -10262,8 +12071,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "433400770569",
+    "uikName": "УИК №476",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 926,
       "Число бюллетеней, полученных участковыми комиссиями": 858,
@@ -10313,8 +12131,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "433400770570",
+    "uikName": "УИК №477",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -10364,8 +12191,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "433400770571",
+    "uikName": "УИК №478",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -10415,8 +12251,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "433400770572",
+    "uikName": "УИК №479",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 900,
       "Число бюллетеней, полученных участковыми комиссиями": 849,
@@ -10466,8 +12311,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "433400770573",
+    "uikName": "УИК №480",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 815,
       "Число бюллетеней, полученных участковыми комиссиями": 767,
@@ -10517,8 +12371,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "433400770574",
+    "uikName": "УИК №481",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -10568,8 +12431,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "433400770575",
+    "uikName": "УИК №482",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 433,
@@ -10619,8 +12491,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "433400770576",
+    "uikName": "УИК №483",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 681,
       "Число бюллетеней, полученных участковыми комиссиями": 638,
@@ -10670,8 +12551,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "433400770577",
+    "uikName": "УИК №484",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 755,
       "Число бюллетеней, полученных участковыми комиссиями": 713,
@@ -10721,8 +12611,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "433400770578",
+    "uikName": "УИК №485",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 368,
@@ -10772,8 +12671,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "433400770579",
+    "uikName": "УИК №486",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -10823,8 +12731,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "433400770580",
+    "uikName": "УИК №487",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 639,
       "Число бюллетеней, полученных участковыми комиссиями": 598,
@@ -10874,8 +12791,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "433400770581",
+    "uikName": "УИК №488",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -10925,8 +12851,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "433400770582",
+    "uikName": "УИК №489",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 297,
@@ -10976,8 +12911,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "433400770583",
+    "uikName": "УИК №490",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -11027,8 +12971,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "433400770584",
+    "uikName": "УИК №491",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 717,
       "Число бюллетеней, полученных участковыми комиссиями": 684,
@@ -11078,8 +13031,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "433400770585",
+    "uikName": "УИК №492",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -11129,8 +13091,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "433400770586",
+    "uikName": "УИК №493",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 544,
@@ -11180,8 +13151,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "433400770587",
+    "uikName": "УИК №494",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -11231,8 +13211,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "433400770588",
+    "uikName": "УИК №495",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 414,
@@ -11282,8 +13271,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "433400770589",
+    "uikName": "УИК №496",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 565,
       "Число бюллетеней, полученных участковыми комиссиями": 536,
@@ -11333,8 +13331,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "433400770590",
+    "uikName": "УИК №497",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 382,
@@ -11384,8 +13391,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "433400770591",
+    "uikName": "УИК №498",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 701,
       "Число бюллетеней, полученных участковыми комиссиями": 681,
@@ -11435,8 +13451,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "433400770592",
+    "uikName": "УИК №499",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -11486,8 +13511,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "433400770593",
+    "uikName": "УИК №500",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -11537,8 +13571,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "433400770594",
+    "uikName": "УИК №501",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -11588,8 +13631,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "433400770595",
+    "uikName": "УИК №502",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -11639,8 +13691,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "433400770596",
+    "uikName": "УИК №503",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 540,
       "Число бюллетеней, полученных участковыми комиссиями": 513,
@@ -11690,8 +13751,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "433400770597",
+    "uikName": "УИК №504",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -11741,8 +13811,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "433400770598",
+    "uikName": "УИК №505",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 154,
@@ -11792,8 +13871,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "433400770599",
+    "uikName": "УИК №506",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 648,
       "Число бюллетеней, полученных участковыми комиссиями": 607,
@@ -11843,8 +13931,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "433400770600",
+    "uikName": "УИК №507",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -11894,8 +13991,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "433400770806",
+    "uikName": "УИК №508",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1544,
       "Число бюллетеней, полученных участковыми комиссиями": 1448,
@@ -11945,8 +14051,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "433400770601",
+    "uikName": "УИК №509",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1661,
@@ -11996,8 +14111,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "433400770876",
+    "uikName": "УИК №510",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1570,
       "Число бюллетеней, полученных участковыми комиссиями": 1493,
@@ -12047,8 +14171,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "433400770602",
+    "uikName": "УИК №511",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2545,
       "Число бюллетеней, полученных участковыми комиссиями": 2433,
@@ -12098,8 +14231,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "433400770603",
+    "uikName": "УИК №512",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 431,
@@ -12149,8 +14291,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "433400770604",
+    "uikName": "УИК №513",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1689,
       "Число бюллетеней, полученных участковыми комиссиями": 1606,
@@ -12200,8 +14351,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "433400770605",
+    "uikName": "УИК №514",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1767,
       "Число бюллетеней, полученных участковыми комиссиями": 1685,
@@ -12251,8 +14411,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "433400770606",
+    "uikName": "УИК №515",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2830,
       "Число бюллетеней, полученных участковыми комиссиями": 2492,
@@ -12302,8 +14471,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "433400770607",
+    "uikName": "УИК №516",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2921,
       "Число бюллетеней, полученных участковыми комиссиями": 2589,
@@ -12353,8 +14531,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "433400770608",
+    "uikName": "УИК №517",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1963,
       "Число бюллетеней, полученных участковыми комиссиями": 1879,
@@ -12404,8 +14591,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "433400770609",
+    "uikName": "УИК №518",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2058,
       "Число бюллетеней, полученных участковыми комиссиями": 2001,
@@ -12455,8 +14651,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "433400770610",
+    "uikName": "УИК №519",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1512,
       "Число бюллетеней, полученных участковыми комиссиями": 1431,
@@ -12506,8 +14711,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "433400770611",
+    "uikName": "УИК №520",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 472,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -12557,8 +14771,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "433400770612",
+    "uikName": "УИК №521",
     "tikTvd": "233200071069",
     "tikName": "Гусь-Хрустальная",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 422,
@@ -12608,8 +14831,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "433400671837",
+    "uikName": "УИК №796",
     "tikTvd": "233200071071",
     "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1437,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -12659,8 +14891,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "433400671838",
+    "uikName": "УИК №797",
     "tikTvd": "233200071071",
     "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1266,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -12710,8 +14951,17 @@ export const duma_2003_uik_428_region_33_part_001 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "433400671839",
+    "uikName": "УИК №798",
     "tikTvd": "233200071071",
     "tikName": "Гороховецкая",
+    "regionCode": "33",
+    "regionTvd": "100100095652",
+    "regionName": "Владимирская область",
+    "district": {
+      "districtNumber": 69,
+      "oikTvd": "100100095654",
+      "oikName": "Ковровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1016,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,

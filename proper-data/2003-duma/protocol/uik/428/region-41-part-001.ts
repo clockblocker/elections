@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "441401167563",
+    "uikName": "УИК №176",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 27,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -63,8 +72,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "441401167564",
+    "uikName": "УИК №177",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 27,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -115,8 +133,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "441401167565",
+    "uikName": "УИК №178",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 26,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -167,8 +194,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "441401167566",
+    "uikName": "УИК №179",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 27,
       "Число бюллетеней, полученных участковыми комиссиями": 27,
@@ -219,8 +255,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "441401167567",
+    "uikName": "УИК №180",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 27,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -271,8 +316,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "441401167568",
+    "uikName": "УИК №181",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -323,8 +377,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "441401167569",
+    "uikName": "УИК №182",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -375,8 +438,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "441401167570",
+    "uikName": "УИК №183",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 27,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -427,8 +499,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "441401167571",
+    "uikName": "УИК №184",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -479,8 +560,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "441401167572",
+    "uikName": "УИК №185",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 27,
       "Число бюллетеней, полученных участковыми комиссиями": 27,
@@ -531,8 +621,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "441401167573",
+    "uikName": "УИК №186",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 26,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -583,8 +682,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "441401167575",
+    "uikName": "УИК №188",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -635,8 +743,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "441401167577",
+    "uikName": "УИК №190",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -687,8 +804,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "441401167578",
+    "uikName": "УИК №191",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -739,8 +865,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "441401167579",
+    "uikName": "УИК №192",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 53,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -791,8 +926,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "441401167580",
+    "uikName": "УИК №193",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 54,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -843,8 +987,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "441401167581",
+    "uikName": "УИК №194",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 30,
       "Число бюллетеней, полученных участковыми комиссиями": 32,
@@ -895,8 +1048,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "441401167582",
+    "uikName": "УИК №195",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 24,
       "Число бюллетеней, полученных участковыми комиссиями": 30,
@@ -947,8 +1109,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "441401167583",
+    "uikName": "УИК №196",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 29,
       "Число бюллетеней, полученных участковыми комиссиями": 32,
@@ -999,8 +1170,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "441401167584",
+    "uikName": "УИК №197",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 18,
@@ -1051,8 +1231,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "441401167586",
+    "uikName": "УИК №199",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 18,
@@ -1103,8 +1292,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "441401167588",
+    "uikName": "УИК №201",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -1155,8 +1353,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "441401167589",
+    "uikName": "УИК №202",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 29,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -1207,8 +1414,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "441401167590",
+    "uikName": "УИК №203",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 4,
       "Число бюллетеней, полученных участковыми комиссиями": 4,
@@ -1259,8 +1475,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "441401167591",
+    "uikName": "УИК №204",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 16,
       "Число бюллетеней, полученных участковыми комиссиями": 16,
@@ -1311,8 +1536,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "441401167592",
+    "uikName": "УИК №205",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 21,
       "Число бюллетеней, полученных участковыми комиссиями": 23,
@@ -1363,8 +1597,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "441401167593",
+    "uikName": "УИК №206",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 16,
       "Число бюллетеней, полученных участковыми комиссиями": 16,
@@ -1415,8 +1658,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "441401167594",
+    "uikName": "УИК №207",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 28,
@@ -1467,8 +1719,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "441401167598",
+    "uikName": "УИК №211",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 31,
       "Число бюллетеней, полученных участковыми комиссиями": 36,
@@ -1519,8 +1780,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "441401167600",
+    "uikName": "УИК №213",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 47,
       "Число бюллетеней, полученных участковыми комиссиями": 56,
@@ -1571,8 +1841,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "441401167604",
+    "uikName": "УИК №217",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 23,
       "Число бюллетеней, полученных участковыми комиссиями": 23,
@@ -1623,8 +1902,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "441401167605",
+    "uikName": "УИК №218",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 47,
       "Число бюллетеней, полученных участковыми комиссиями": 54,
@@ -1675,8 +1963,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "441401167606",
+    "uikName": "УИК №219",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 21,
@@ -1727,8 +2024,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "441401167607",
+    "uikName": "УИК №220",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 21,
@@ -1779,8 +2085,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "441401167608",
+    "uikName": "УИК №221",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 12,
       "Число бюллетеней, полученных участковыми комиссиями": 18,
@@ -1831,8 +2146,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "441401167609",
+    "uikName": "УИК №222",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 62,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -1883,8 +2207,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "441401167610",
+    "uikName": "УИК №223",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 59,
@@ -1935,8 +2268,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "441401167611",
+    "uikName": "УИК №224",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 28,
@@ -1987,8 +2329,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "441401167612",
+    "uikName": "УИК №225",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -2039,8 +2390,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "441401167613",
+    "uikName": "УИК №226",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 17,
       "Число бюллетеней, полученных участковыми комиссиями": 19,
@@ -2091,8 +2451,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "441401167615",
+    "uikName": "УИК №228",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 18,
       "Число бюллетеней, полученных участковыми комиссиями": 24,
@@ -2143,8 +2512,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "441401167616",
+    "uikName": "УИК №229",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -2195,8 +2573,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "441401167617",
+    "uikName": "УИК №230",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -2247,8 +2634,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "441401167618",
+    "uikName": "УИК №231",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 38,
       "Число бюллетеней, полученных участковыми комиссиями": 43,
@@ -2299,8 +2695,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "441401167619",
+    "uikName": "УИК №232",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 30,
@@ -2351,8 +2756,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "441401167620",
+    "uikName": "УИК №233",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 30,
       "Число бюллетеней, полученных участковыми комиссиями": 32,
@@ -2403,8 +2817,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "441401167621",
+    "uikName": "УИК №234",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 18,
@@ -2455,8 +2878,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "441401167622",
+    "uikName": "УИК №235",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 16,
       "Число бюллетеней, полученных участковыми комиссиями": 18,
@@ -2507,8 +2939,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "441401167624",
+    "uikName": "УИК №237",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -2559,8 +3000,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "441401167625",
+    "uikName": "УИК №238",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -2611,8 +3061,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "441401167627",
+    "uikName": "УИК №240",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 41,
       "Число бюллетеней, полученных участковыми комиссиями": 46,
@@ -2663,8 +3122,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "441401167628",
+    "uikName": "УИК №241",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 28,
@@ -2715,8 +3183,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "441401167629",
+    "uikName": "УИК №242",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 27,
       "Число бюллетеней, полученных участковыми комиссиями": 31,
@@ -2767,8 +3244,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "441401167632",
+    "uikName": "УИК №245",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -2819,8 +3305,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "441401167633",
+    "uikName": "УИК №246",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -2871,8 +3366,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "441401167634",
+    "uikName": "УИК №247",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -2923,8 +3427,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "441401167635",
+    "uikName": "УИК №248",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 81,
@@ -2975,8 +3488,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "441401167636",
+    "uikName": "УИК №249",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -3027,8 +3549,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "441401167638",
+    "uikName": "УИК №251",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 11,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -3079,8 +3610,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "441401167639",
+    "uikName": "УИК №252",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 10,
       "Число бюллетеней, полученных участковыми комиссиями": 46,
@@ -3131,8 +3671,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "441401167641",
+    "uikName": "УИК №254",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -3183,8 +3732,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "441401167642",
+    "uikName": "УИК №255",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 53,
       "Число бюллетеней, полученных участковыми комиссиями": 58,
@@ -3235,8 +3793,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "441401167643",
+    "uikName": "УИК №256",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 28,
@@ -3287,8 +3854,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "441401167644",
+    "uikName": "УИК №257",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -3339,8 +3915,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "441401167646",
+    "uikName": "УИК №259",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 13,
       "Число бюллетеней, полученных участковыми комиссиями": 17,
@@ -3391,8 +3976,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "441401167650",
+    "uikName": "УИК №263",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 26,
       "Число бюллетеней, полученных участковыми комиссиями": 26,
@@ -3443,8 +4037,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "441401167651",
+    "uikName": "УИК №264",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 21,
       "Число бюллетеней, полученных участковыми комиссиями": 21,
@@ -3495,8 +4098,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "441401167654",
+    "uikName": "УИК №267",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 29,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -3547,8 +4159,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "441401167659",
+    "uikName": "УИК №272",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 26,
@@ -3599,8 +4220,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "441401167660",
+    "uikName": "УИК №273",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 24,
       "Число бюллетеней, полученных участковыми комиссиями": 26,
@@ -3651,8 +4281,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "441401167661",
+    "uikName": "УИК №274",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 31,
       "Число бюллетеней, полученных участковыми комиссиями": 42,
@@ -3703,8 +4342,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "441401167662",
+    "uikName": "УИК №275",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 24,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -3755,8 +4403,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "441401167667",
+    "uikName": "УИК №280",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 26,
       "Число бюллетеней, полученных участковыми комиссиями": 26,
@@ -3807,8 +4464,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "441401167668",
+    "uikName": "УИК №281",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 23,
       "Число бюллетеней, полученных участковыми комиссиями": 26,
@@ -3859,8 +4525,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "441401167672",
+    "uikName": "УИК №285",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 34,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -3911,8 +4586,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "441401167675",
+    "uikName": "УИК №288",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 26,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -3963,8 +4647,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "441401167681",
+    "uikName": "УИК №294",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 28,
@@ -4015,8 +4708,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "441401167682",
+    "uikName": "УИК №295",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 28,
@@ -4067,8 +4769,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "441401167685",
+    "uikName": "УИК №298",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 76,
@@ -4119,8 +4830,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "441401167686",
+    "uikName": "УИК №299",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -4171,8 +4891,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "441401167687",
+    "uikName": "УИК №300",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 19,
@@ -4223,8 +4952,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "441401167688",
+    "uikName": "УИК №301",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 22,
       "Число бюллетеней, полученных участковыми комиссиями": 22,
@@ -4275,8 +5013,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "441401167689",
+    "uikName": "УИК №302",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -4327,8 +5074,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "441401167690",
+    "uikName": "УИК №303",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 29,
       "Число бюллетеней, полученных участковыми комиссиями": 32,
@@ -4379,8 +5135,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "441401167691",
+    "uikName": "УИК №304",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 32,
@@ -4431,8 +5196,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "441401167692",
+    "uikName": "УИК №305",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 24,
@@ -4483,8 +5257,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "441401167693",
+    "uikName": "УИК №306",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 21,
       "Число бюллетеней, полученных участковыми комиссиями": 24,
@@ -4535,8 +5318,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "441401167694",
+    "uikName": "УИК №307",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 24,
@@ -4587,8 +5379,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "441401167695",
+    "uikName": "УИК №308",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -4639,8 +5440,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "441401167698",
+    "uikName": "УИК №311",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 34,
@@ -4691,8 +5501,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "441401167700",
+    "uikName": "УИК №313",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 23,
       "Число бюллетеней, полученных участковыми комиссиями": 32,
@@ -4743,8 +5562,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "441401167701",
+    "uikName": "УИК №314",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 29,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -4795,8 +5623,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "441401167702",
+    "uikName": "УИК №315",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 28,
@@ -4847,8 +5684,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "441401167703",
+    "uikName": "УИК №316",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -4899,8 +5745,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "441401167704",
+    "uikName": "УИК №317",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 9,
       "Число бюллетеней, полученных участковыми комиссиями": 9,
@@ -4951,8 +5806,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "441401167796",
+    "uikName": "УИК №321",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 37,
       "Число бюллетеней, полученных участковыми комиссиями": 52,
@@ -5003,8 +5867,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "441401167837",
+    "uikName": "УИК №322",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -5055,8 +5928,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "441401167838",
+    "uikName": "УИК №323",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -5107,8 +5989,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "441401167839",
+    "uikName": "УИК №324",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 24,
       "Число бюллетеней, полученных участковыми комиссиями": 27,
@@ -5159,8 +6050,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "441401167840",
+    "uikName": "УИК №325",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -5211,8 +6111,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "441401167841",
+    "uikName": "УИК №326",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 89,
@@ -5263,8 +6172,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "441401167842",
+    "uikName": "УИК №327",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 58,
@@ -5315,8 +6233,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "441401167843",
+    "uikName": "УИК №328",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 21,
       "Число бюллетеней, полученных участковыми комиссиями": 22,
@@ -5367,8 +6294,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "441401167845",
+    "uikName": "УИК №330",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 23,
       "Число бюллетеней, полученных участковыми комиссиями": 23,
@@ -5419,8 +6355,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "441401167848",
+    "uikName": "УИК №333",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 19,
@@ -5471,8 +6416,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "441401167851",
+    "uikName": "УИК №336",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -5523,8 +6477,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "441401167852",
+    "uikName": "УИК №337",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 18,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -5575,8 +6538,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "441401167853",
+    "uikName": "УИК №338",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 10,
       "Число бюллетеней, полученных участковыми комиссиями": 12,
@@ -5627,8 +6599,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "441401167856",
+    "uikName": "УИК №341",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -5679,8 +6660,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "441401167857",
+    "uikName": "УИК №342",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 18,
       "Число бюллетеней, полученных участковыми комиссиями": 21,
@@ -5731,8 +6721,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "441401167858",
+    "uikName": "УИК №343",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1,
       "Число бюллетеней, полученных участковыми комиссиями": 1,
@@ -5783,8 +6782,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "441401167859",
+    "uikName": "УИК №344",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 7,
       "Число бюллетеней, полученных участковыми комиссиями": 7,
@@ -5835,8 +6843,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "441401167860",
+    "uikName": "УИК №345",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 32,
@@ -5887,8 +6904,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "441401167861",
+    "uikName": "УИК №346",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 57,
@@ -5939,8 +6965,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "441401167865",
+    "uikName": "УИК №350",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 80,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -5991,8 +7026,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "441401167872",
+    "uikName": "УИК №357",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 26,
       "Число бюллетеней, полученных участковыми комиссиями": 29,
@@ -6043,8 +7087,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "441401167874",
+    "uikName": "УИК №359",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 47,
       "Число бюллетеней, полученных участковыми комиссиями": 47,
@@ -6095,8 +7148,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "441401167875",
+    "uikName": "УИК №360",
     "tikTvd": "241200066962",
     "tikName": "Петропавловск-Камчатская городская (судовая)",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 33,
       "Число бюллетеней, полученных участковыми комиссиями": 33,
@@ -6147,8 +7209,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "441401066711",
+    "uikName": "УИК №164",
     "tikTvd": "241200066963",
     "tikName": "Усть-Камчатская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1393,
       "Число бюллетеней, полученных участковыми комиссиями": 1246,
@@ -6199,8 +7270,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "441401066712",
+    "uikName": "УИК №165",
     "tikTvd": "241200066963",
     "tikName": "Усть-Камчатская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -6251,8 +7331,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "441401066713",
+    "uikName": "УИК №166",
     "tikTvd": "241200066963",
     "tikName": "Усть-Камчатская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1128,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6303,8 +7392,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "441401066714",
+    "uikName": "УИК №167",
     "tikTvd": "241200066963",
     "tikName": "Усть-Камчатская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2596,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6355,8 +7453,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "441401066715",
+    "uikName": "УИК №168",
     "tikTvd": "241200066963",
     "tikName": "Усть-Камчатская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1343,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6407,8 +7514,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "441401066716",
+    "uikName": "УИК №169",
     "tikTvd": "241200066963",
     "tikName": "Усть-Камчатская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -6459,8 +7575,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "441401066717",
+    "uikName": "УИК №170",
     "tikTvd": "241200066963",
     "tikName": "Усть-Камчатская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2361,
       "Число бюллетеней, полученных участковыми комиссиями": 2313,
@@ -6511,8 +7636,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "441401066718",
+    "uikName": "УИК №171",
     "tikTvd": "241200066963",
     "tikName": "Усть-Камчатская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2132,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -6563,8 +7697,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "441401066719",
+    "uikName": "УИК №172",
     "tikTvd": "241200066963",
     "tikName": "Усть-Камчатская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 763,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -6615,8 +7758,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "441400966670",
+    "uikName": "УИК №150",
     "tikTvd": "241200066964",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 96,
@@ -6667,8 +7819,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "441400966671",
+    "uikName": "УИК №151",
     "tikTvd": "241200066964",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 47,
       "Число бюллетеней, полученных участковыми комиссиями": 46,
@@ -6719,8 +7880,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "441400966672",
+    "uikName": "УИК №152",
     "tikTvd": "241200066964",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1498,
       "Число бюллетеней, полученных участковыми комиссиями": 1476,
@@ -6771,8 +7941,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "441400966673",
+    "uikName": "УИК №153",
     "tikTvd": "241200066964",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 556,
@@ -6823,8 +8002,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "441400966674",
+    "uikName": "УИК №154",
     "tikTvd": "241200066964",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1421,
       "Число бюллетеней, полученных участковыми комиссиями": 1447,
@@ -6875,8 +8063,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "441400966675",
+    "uikName": "УИК №155",
     "tikTvd": "241200066964",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1780,
       "Число бюллетеней, полученных участковыми комиссиями": 1733,
@@ -6927,8 +8124,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "441400966676",
+    "uikName": "УИК №156",
     "tikTvd": "241200066964",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 714,
@@ -6979,8 +8185,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "441400966677",
+    "uikName": "УИК №157",
     "tikTvd": "241200066964",
     "tikName": "Усть-Большерецкая",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 748,
       "Число бюллетеней, полученных участковыми комиссиями": 756,
@@ -7031,8 +8246,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "441400866687",
+    "uikName": "УИК №160",
     "tikTvd": "241200066965",
     "tikName": "Соболевская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1474,
       "Число бюллетеней, полученных участковыми комиссиями": 1468,
@@ -7083,8 +8307,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "441400866688",
+    "uikName": "УИК №161",
     "tikTvd": "241200066965",
     "tikName": "Соболевская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 434,
@@ -7135,8 +8368,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "441400866689",
+    "uikName": "УИК №162",
     "tikTvd": "241200066965",
     "tikName": "Соболевская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 394,
@@ -7187,8 +8429,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "441400866690",
+    "uikName": "УИК №163",
     "tikTvd": "241200066965",
     "tikName": "Соболевская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -7239,8 +8490,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "441400766777",
+    "uikName": "УИК №1",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2261,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -7291,8 +8551,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "441400766778",
+    "uikName": "УИК №2",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 2065,
@@ -7343,8 +8612,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "441400766779",
+    "uikName": "УИК №3",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2303,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -7395,8 +8673,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "441400766780",
+    "uikName": "УИК №4",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -7447,8 +8734,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "441400766781",
+    "uikName": "УИК №5",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2028,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -7499,8 +8795,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "441400766782",
+    "uikName": "УИК №6",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2429,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -7551,8 +8856,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "441400766783",
+    "uikName": "УИК №7",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1078,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -7603,8 +8917,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "441400766784",
+    "uikName": "УИК №8",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2266,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -7655,8 +8978,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "441400766785",
+    "uikName": "УИК №9",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2860,
       "Число бюллетеней, полученных участковыми комиссиями": 2755,
@@ -7707,8 +9039,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "441400766786",
+    "uikName": "УИК №10",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2393,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -7759,8 +9100,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "441400766787",
+    "uikName": "УИК №11",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2923,
       "Число бюллетеней, полученных участковыми комиссиями": 2760,
@@ -7811,8 +9161,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "441400766788",
+    "uikName": "УИК №12",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2371,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -7863,8 +9222,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "441400766789",
+    "uikName": "УИК №13",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2027,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -7915,8 +9283,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "441400766790",
+    "uikName": "УИК №14",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2042,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -7967,8 +9344,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "441400766791",
+    "uikName": "УИК №15",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1313,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -8019,8 +9405,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "441400766792",
+    "uikName": "УИК №16",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1883,
       "Число бюллетеней, полученных участковыми комиссиями": 1845,
@@ -8071,8 +9466,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "441400766793",
+    "uikName": "УИК №17",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2022,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -8123,8 +9527,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "441400766794",
+    "uikName": "УИК №18",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2969,
       "Число бюллетеней, полученных участковыми комиссиями": 2890,
@@ -8175,8 +9588,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "441400766795",
+    "uikName": "УИК №19",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -8227,8 +9649,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "441400766796",
+    "uikName": "УИК №20",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2026,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -8279,8 +9710,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "441400766797",
+    "uikName": "УИК №21",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1418,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -8331,8 +9771,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "441400766798",
+    "uikName": "УИК №22",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1163,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -8383,8 +9832,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "441400766799",
+    "uikName": "УИК №23",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2935,
       "Число бюллетеней, полученных участковыми комиссиями": 2340,
@@ -8435,8 +9893,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "441400766800",
+    "uikName": "УИК №24",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1044,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -8487,8 +9954,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "441400766801",
+    "uikName": "УИК №25",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1059,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -8539,8 +10015,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "441400766802",
+    "uikName": "УИК №26",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2563,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -8591,8 +10076,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "441400766803",
+    "uikName": "УИК №27",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -8643,8 +10137,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "441400766804",
+    "uikName": "УИК №28",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 671,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -8695,8 +10198,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "441400766805",
+    "uikName": "УИК №29",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 622,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8747,8 +10259,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "441400766806",
+    "uikName": "УИК №30",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2223,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8799,8 +10320,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "441400766807",
+    "uikName": "УИК №31",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2717,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -8851,8 +10381,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "441400766808",
+    "uikName": "УИК №32",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2605,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8903,8 +10442,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "441400766809",
+    "uikName": "УИК №33",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2609,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -8955,8 +10503,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "441400766810",
+    "uikName": "УИК №34",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2487,
       "Число бюллетеней, полученных участковыми комиссиями": 2455,
@@ -9007,8 +10564,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "441400766811",
+    "uikName": "УИК №35",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1938,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -9059,8 +10625,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "441400766812",
+    "uikName": "УИК №36",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2798,
       "Число бюллетеней, полученных участковыми комиссиями": 2770,
@@ -9111,8 +10686,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "441400766813",
+    "uikName": "УИК №37",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1051,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -9163,8 +10747,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "441400766814",
+    "uikName": "УИК №38",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2443,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -9215,8 +10808,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "441400766815",
+    "uikName": "УИК №39",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2534,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -9267,8 +10869,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "441400766816",
+    "uikName": "УИК №40",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2909,
       "Число бюллетеней, полученных участковыми комиссиями": 2890,
@@ -9319,8 +10930,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "441400766817",
+    "uikName": "УИК №41",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2471,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -9371,8 +10991,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "441400766818",
+    "uikName": "УИК №42",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2475,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -9423,8 +11052,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "441400766819",
+    "uikName": "УИК №43",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2542,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9475,8 +11113,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "441400766820",
+    "uikName": "УИК №44",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9527,8 +11174,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "441400766821",
+    "uikName": "УИК №45",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1754,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -9579,8 +11235,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "441400766822",
+    "uikName": "УИК №46",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2410,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -9631,8 +11296,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "441400766823",
+    "uikName": "УИК №47",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2347,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9683,8 +11357,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "441400766824",
+    "uikName": "УИК №48",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2205,
       "Число бюллетеней, полученных участковыми комиссиями": 2175,
@@ -9735,8 +11418,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "441400766825",
+    "uikName": "УИК №49",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2714,
       "Число бюллетеней, полученных участковыми комиссиями": 2640,
@@ -9787,8 +11479,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "441400766826",
+    "uikName": "УИК №50",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2789,
       "Число бюллетеней, полученных участковыми комиссиями": 2840,
@@ -9839,8 +11540,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "441400766827",
+    "uikName": "УИК №51",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -9891,8 +11601,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "441400766828",
+    "uikName": "УИК №52",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2442,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -9943,8 +11662,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "441400766829",
+    "uikName": "УИК №53",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2584,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -9995,8 +11723,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "441400766830",
+    "uikName": "УИК №54",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2136,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -10047,8 +11784,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "441400766831",
+    "uikName": "УИК №55",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1163,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -10099,8 +11845,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "441400766832",
+    "uikName": "УИК №56",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1906,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -10151,8 +11906,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "441400766833",
+    "uikName": "УИК №57",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1664,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -10203,8 +11967,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "441400766834",
+    "uikName": "УИК №58",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1954,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -10255,8 +12028,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "441400766835",
+    "uikName": "УИК №59",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1804,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -10307,8 +12089,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "441400766836",
+    "uikName": "УИК №60",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2826,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -10359,8 +12150,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "441400766837",
+    "uikName": "УИК №61",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2894,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10411,8 +12211,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "441400766838",
+    "uikName": "УИК №62",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2004,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -10463,8 +12272,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "441400766839",
+    "uikName": "УИК №63",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2678,
       "Число бюллетеней, полученных участковыми комиссиями": 2630,
@@ -10515,8 +12333,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "441400766840",
+    "uikName": "УИК №64",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2416,
       "Число бюллетеней, полученных участковыми комиссиями": 2385,
@@ -10567,8 +12394,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "441400766841",
+    "uikName": "УИК №65",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2460,
       "Число бюллетеней, полученных участковыми комиссиями": 2445,
@@ -10619,8 +12455,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "441400766842",
+    "uikName": "УИК №66",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -10671,8 +12516,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "441400766843",
+    "uikName": "УИК №67",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2860,
       "Число бюллетеней, полученных участковыми комиссиями": 2840,
@@ -10723,8 +12577,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "441400766844",
+    "uikName": "УИК №68",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2893,
       "Число бюллетеней, полученных участковыми комиссиями": 2870,
@@ -10775,8 +12638,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "441400766876",
+    "uikName": "УИК №69",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1823,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10827,8 +12699,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "441400766845",
+    "uikName": "УИК №70",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1717,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10879,8 +12760,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "441400766846",
+    "uikName": "УИК №71",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1133,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -10931,8 +12821,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "441400766847",
+    "uikName": "УИК №72",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -10983,8 +12882,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "441400766848",
+    "uikName": "УИК №73",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11035,8 +12943,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "441400766849",
+    "uikName": "УИК №74",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -11087,8 +13004,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "441400766850",
+    "uikName": "УИК №75",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -11139,8 +13065,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "441400766851",
+    "uikName": "УИК №76",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -11191,8 +13126,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "441400766852",
+    "uikName": "УИК №77",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11243,8 +13187,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "441400766853",
+    "uikName": "УИК №78",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -11295,8 +13248,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "441400766854",
+    "uikName": "УИК №79",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -11347,8 +13309,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "441400766855",
+    "uikName": "УИК №80",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -11399,8 +13370,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "441400766856",
+    "uikName": "УИК №81",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -11451,8 +13431,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "441400766857",
+    "uikName": "УИК №82",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 529,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -11503,8 +13492,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "441400766858",
+    "uikName": "УИК №83",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 466,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -11555,8 +13553,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "441400766859",
+    "uikName": "УИК №84",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 627,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -11607,8 +13614,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "441400766860",
+    "uikName": "УИК №85",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 687,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11659,8 +13675,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "441400766861",
+    "uikName": "УИК №86",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -11711,8 +13736,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "441400766862",
+    "uikName": "УИК №87",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -11763,8 +13797,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "441400766863",
+    "uikName": "УИК №88",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11815,8 +13858,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "441400766864",
+    "uikName": "УИК №89",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -11867,8 +13919,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "441400767147",
+    "uikName": "УИК №174",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 14,
@@ -11919,8 +13980,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "441400767148",
+    "uikName": "УИК №175",
     "tikTvd": "241200066966",
     "tikName": "Петропавловск-Камчатская городская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 8,
       "Число бюллетеней, полученных участковыми комиссиями": 8,
@@ -11971,8 +14041,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "441400566842",
+    "uikName": "УИК №140",
     "tikTvd": "241200066967",
     "tikName": "Мильковская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 113,
@@ -12023,8 +14102,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "441400566843",
+    "uikName": "УИК №141",
     "tikTvd": "241200066967",
     "tikName": "Мильковская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 526,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -12075,8 +14163,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "441400566844",
+    "uikName": "УИК №142",
     "tikTvd": "241200066967",
     "tikName": "Мильковская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1807,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -12127,8 +14224,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "441400566845",
+    "uikName": "УИК №143",
     "tikTvd": "241200066967",
     "tikName": "Мильковская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1729,
       "Число бюллетеней, полученных участковыми комиссиями": 1762,
@@ -12179,8 +14285,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "441400566846",
+    "uikName": "УИК №144",
     "tikTvd": "241200066967",
     "tikName": "Мильковская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -12231,8 +14346,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "441400566847",
+    "uikName": "УИК №145",
     "tikTvd": "241200066967",
     "tikName": "Мильковская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1814,
       "Число бюллетеней, полученных участковыми комиссиями": 1746,
@@ -12283,8 +14407,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "441400566848",
+    "uikName": "УИК №146",
     "tikTvd": "241200066967",
     "tikName": "Мильковская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 271,
@@ -12335,8 +14468,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "441400566849",
+    "uikName": "УИК №147",
     "tikTvd": "241200066967",
     "tikName": "Мильковская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 93,
@@ -12387,8 +14529,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "441400566850",
+    "uikName": "УИК №148",
     "tikTvd": "241200066967",
     "tikName": "Мильковская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 671,
       "Число бюллетеней, полученных участковыми комиссиями": 657,
@@ -12439,8 +14590,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "441400566840",
+    "uikName": "УИК №149",
     "tikTvd": "241200066967",
     "tikName": "Мильковская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 358,
@@ -12491,8 +14651,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "441400466704",
+    "uikName": "УИК №104",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2830,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -12543,8 +14712,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "441400466705",
+    "uikName": "УИК №105",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 847,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -12595,8 +14773,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "441400466706",
+    "uikName": "УИК №106",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -12647,8 +14834,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "441400466707",
+    "uikName": "УИК №107",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -12699,8 +14895,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "441400466708",
+    "uikName": "УИК №108",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2900,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -12751,8 +14956,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "441400466709",
+    "uikName": "УИК №109",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3111,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -12803,8 +15017,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "441400466710",
+    "uikName": "УИК №110",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2151,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -12855,8 +15078,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "441400466711",
+    "uikName": "УИК №111",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 794,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -12907,8 +15139,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "441400466712",
+    "uikName": "УИК №112",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 745,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -12959,8 +15200,17 @@ export const duma_2003_uik_428_region_41_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "441400466713",
+    "uikName": "УИК №113",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1846,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,

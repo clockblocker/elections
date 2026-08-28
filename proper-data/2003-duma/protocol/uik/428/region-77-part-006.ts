@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 747,
     "uikTvd": "477406470443",
+    "uikName": "УИК №747",
     "tikTvd": "377300670401",
     "tikName": "Район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2324,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 748,
     "uikTvd": "477406470444",
+    "uikName": "УИК №748",
     "tikTvd": "377300670401",
     "tikName": "Район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2597,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 749,
     "uikTvd": "477406470445",
+    "uikName": "УИК №749",
     "tikTvd": "377300670401",
     "tikName": "Район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2575,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 750,
     "uikTvd": "477406470446",
+    "uikName": "УИК №750",
     "tikTvd": "377300670401",
     "tikName": "Район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "477406870456",
+    "uikName": "УИК №776",
     "tikTvd": "377300670402",
     "tikName": "Район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1895,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "477406870457",
+    "uikName": "УИК №777",
     "tikTvd": "377300670402",
     "tikName": "Район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2570,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "477406870458",
+    "uikName": "УИК №778",
     "tikTvd": "377300670402",
     "tikName": "Район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1801,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "477406970465",
+    "uikName": "УИК №808",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2762,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "477406970466",
+    "uikName": "УИК №809",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2544,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "477406970467",
+    "uikName": "УИК №810",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2721,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "477406970468",
+    "uikName": "УИК №811",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2550,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "477406970469",
+    "uikName": "УИК №812",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2770,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "477406970470",
+    "uikName": "УИК №813",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2610,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "477406970471",
+    "uikName": "УИК №814",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2660,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "477406970472",
+    "uikName": "УИК №815",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2690,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "477406970473",
+    "uikName": "УИК №816",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2385,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "477406970474",
+    "uikName": "УИК №817",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1712,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "477406970475",
+    "uikName": "УИК №818",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2567,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "477406970476",
+    "uikName": "УИК №819",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1913,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "477406970477",
+    "uikName": "УИК №820",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2304,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "477406970478",
+    "uikName": "УИК №821",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2420,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "477406970479",
+    "uikName": "УИК №822",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2412,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "477406970480",
+    "uikName": "УИК №823",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2504,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 824,
     "uikTvd": "477406970481",
+    "uikName": "УИК №824",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2262,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 825,
     "uikTvd": "477406970482",
+    "uikName": "УИК №825",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2729,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 826,
     "uikTvd": "477406970483",
+    "uikName": "УИК №826",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2822,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "477405770447",
+    "uikName": "УИК №560",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2637,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "477405770448",
+    "uikName": "УИК №561",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2552,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "477405770449",
+    "uikName": "УИК №562",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2362,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "477405770450",
+    "uikName": "УИК №563",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2833,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "477405770451",
+    "uikName": "УИК №564",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2837,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "477405770452",
+    "uikName": "УИК №565",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2627,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "477405770453",
+    "uikName": "УИК №566",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2147,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "477405770454",
+    "uikName": "УИК №567",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2722,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "477405770455",
+    "uikName": "УИК №568",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "477405770456",
+    "uikName": "УИК №569",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2640,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "477405770457",
+    "uikName": "УИК №570",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2092,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "477405770458",
+    "uikName": "УИК №571",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2298,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "477405770459",
+    "uikName": "УИК №572",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2723,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "477405770460",
+    "uikName": "УИК №573",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1783,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "477405770461",
+    "uikName": "УИК №574",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2005,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "477405770462",
+    "uikName": "УИК №575",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "477405770463",
+    "uikName": "УИК №576",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2491,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "477405770464",
+    "uikName": "УИК №577",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "477405770465",
+    "uikName": "УИК №578",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2077,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "477405770466",
+    "uikName": "УИК №579",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2094,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "477405770467",
+    "uikName": "УИК №580",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2331,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "477405770468",
+    "uikName": "УИК №581",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2438,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "477405770469",
+    "uikName": "УИК №582",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2271,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "477405770470",
+    "uikName": "УИК №583",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2489,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "477405770471",
+    "uikName": "УИК №584",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2605,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "477405770472",
+    "uikName": "УИК №585",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2291,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "477405770473",
+    "uikName": "УИК №586",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2471,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "477405770474",
+    "uikName": "УИК №587",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2388,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "477405770475",
+    "uikName": "УИК №588",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1475,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "477405770476",
+    "uikName": "УИК №589",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2837,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "477405770477",
+    "uikName": "УИК №590",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2500,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "477405770478",
+    "uikName": "УИК №591",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2591,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2737,8 +3259,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "477405770479",
+    "uikName": "УИК №592",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2410,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2784,8 +3315,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "477405770480",
+    "uikName": "УИК №593",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2745,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2831,8 +3371,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "477405770481",
+    "uikName": "УИК №594",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2621,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2878,8 +3427,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "477405770482",
+    "uikName": "УИК №595",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2375,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2925,8 +3483,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "477405770483",
+    "uikName": "УИК №596",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2574,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2972,8 +3539,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "477405770484",
+    "uikName": "УИК №597",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2571,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "477405770485",
+    "uikName": "УИК №598",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2614,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3066,8 +3651,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "477405770486",
+    "uikName": "УИК №599",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1705,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3113,8 +3707,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "477405770487",
+    "uikName": "УИК №600",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2493,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3160,8 +3763,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "477405770488",
+    "uikName": "УИК №601",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2565,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3207,8 +3819,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "477405770489",
+    "uikName": "УИК №602",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2280,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3254,8 +3875,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 3069,
     "uikTvd": "477405770490",
+    "uikName": "УИК  3069",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3301,8 +3931,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5008,
     "uikTvd": "477405772034",
+    "uikName": "УИК  5008",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -3348,8 +3987,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5028,
     "uikTvd": "477405772035",
+    "uikName": "УИК  5028",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3395,8 +4043,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5029,
     "uikTvd": "477405772036",
+    "uikName": "УИК  5029",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 830,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -3442,8 +4099,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5042,
     "uikTvd": "477405772037",
+    "uikName": "УИК  5042",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 249,
@@ -3489,8 +4155,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5054,
     "uikTvd": "477405772038",
+    "uikName": "УИК  5054",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -3536,8 +4211,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5055,
     "uikTvd": "477405772039",
+    "uikName": "УИК  5055",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -3583,8 +4267,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5056,
     "uikTvd": "477405772040",
+    "uikName": "УИК  5056",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 30,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -3630,8 +4323,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5057,
     "uikTvd": "477405772041",
+    "uikName": "УИК  5057",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 975,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -3677,8 +4379,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5075,
     "uikTvd": "477405772042",
+    "uikName": "УИК  5075",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -3724,8 +4435,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5104,
     "uikTvd": "477405772043",
+    "uikName": "УИК  5104",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 601,
@@ -3771,8 +4491,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5106,
     "uikTvd": "477405772044",
+    "uikName": "УИК  5106",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -3818,8 +4547,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5152,
     "uikTvd": "477405772045",
+    "uikName": "УИК  5152",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2802,
       "Число бюллетеней, полученных участковыми комиссиями": 13000,
@@ -3865,8 +4603,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5153,
     "uikTvd": "477405772046",
+    "uikName": "УИК  5153",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2728,
       "Число бюллетеней, полученных участковыми комиссиями": 13000,
@@ -3912,8 +4659,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5154,
     "uikTvd": "477405772047",
+    "uikName": "УИК  5154",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1375,
       "Число бюллетеней, полученных участковыми комиссиями": 5580,
@@ -3959,8 +4715,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5155,
     "uikTvd": "477405772048",
+    "uikName": "УИК  5155",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1132,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4006,8 +4771,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5163,
     "uikTvd": "477405772050",
+    "uikName": "УИК  5163",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4053,8 +4827,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5167,
     "uikTvd": "477405772051",
+    "uikName": "УИК  5167",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -4100,8 +4883,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5199,
     "uikTvd": "477405772052",
+    "uikName": "УИК  5199",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 58,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4147,8 +4939,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5200,
     "uikTvd": "477405772053",
+    "uikName": "УИК  5200",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -4194,8 +4995,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5229,
     "uikTvd": "477405772049",
+    "uikName": "УИК  5229",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 3600,
@@ -4241,8 +5051,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 5356,
     "uikTvd": "477405772054",
+    "uikName": "УИК  5356",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 51,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4288,8 +5107,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "477406770497",
+    "uikName": "УИК №779",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2669,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4335,8 +5163,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "477406770498",
+    "uikName": "УИК №780",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2702,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4382,8 +5219,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "477406770499",
+    "uikName": "УИК №781",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2635,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4429,8 +5275,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "477406770500",
+    "uikName": "УИК №782",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2690,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4476,8 +5331,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "477406770501",
+    "uikName": "УИК №783",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2665,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4523,8 +5387,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "477406770502",
+    "uikName": "УИК №784",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2106,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4570,8 +5443,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "477406770503",
+    "uikName": "УИК №785",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1889,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4617,8 +5499,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "477406770504",
+    "uikName": "УИК №786",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2680,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4664,8 +5555,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "477406770505",
+    "uikName": "УИК №787",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2206,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4711,8 +5611,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "477406770506",
+    "uikName": "УИК №788",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2696,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4758,8 +5667,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "477406770507",
+    "uikName": "УИК №789",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2134,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4805,8 +5723,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "477406770508",
+    "uikName": "УИК №790",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2412,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4852,8 +5779,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "477406770509",
+    "uikName": "УИК №791",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1959,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4899,8 +5835,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "477406770510",
+    "uikName": "УИК №792",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2724,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4946,8 +5891,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "477406770511",
+    "uikName": "УИК №793",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4993,8 +5947,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "477406770512",
+    "uikName": "УИК №794",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2280,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5040,8 +6003,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "477406770513",
+    "uikName": "УИК №795",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1490,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5087,8 +6059,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "477406770514",
+    "uikName": "УИК №796",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1761,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5134,8 +6115,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "477406770515",
+    "uikName": "УИК №797",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2759,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5181,8 +6171,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "477406770516",
+    "uikName": "УИК №798",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2676,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5228,8 +6227,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "477406770517",
+    "uikName": "УИК №799",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2303,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5275,8 +6283,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "477406770518",
+    "uikName": "УИК №800",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2596,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5322,8 +6339,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "477406770519",
+    "uikName": "УИК №801",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2332,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5369,8 +6395,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "477406770520",
+    "uikName": "УИК №802",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2289,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5416,8 +6451,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "477406770521",
+    "uikName": "УИК №803",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2503,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5463,8 +6507,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "477406770522",
+    "uikName": "УИК №804",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2090,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5510,8 +6563,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "477406770523",
+    "uikName": "УИК №805",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2376,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5557,8 +6619,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "477406770524",
+    "uikName": "УИК №806",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2276,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5604,8 +6675,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "477406770525",
+    "uikName": "УИК №807",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 196,
+      "oikTvd": "100100095695",
+      "oikName": "Медведковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2169,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5651,8 +6731,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1564,
     "uikTvd": "477411370545",
+    "uikName": "УИК №1564",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2211,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5698,8 +6787,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1565,
     "uikTvd": "477411370546",
+    "uikName": "УИК №1565",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2396,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5745,8 +6843,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1566,
     "uikTvd": "477411370547",
+    "uikName": "УИК №1566",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2173,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5792,8 +6899,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1567,
     "uikTvd": "477411370548",
+    "uikName": "УИК №1567",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5839,8 +6955,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1568,
     "uikTvd": "477411370549",
+    "uikName": "УИК №1568",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5886,8 +7011,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1569,
     "uikTvd": "477411370550",
+    "uikName": "УИК №1569",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2153,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5933,8 +7067,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1570,
     "uikTvd": "477411370551",
+    "uikName": "УИК №1570",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2053,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5980,8 +7123,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1571,
     "uikTvd": "477411370552",
+    "uikName": "УИК №1571",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2518,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6027,8 +7179,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1572,
     "uikTvd": "477411370553",
+    "uikName": "УИК №1572",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2470,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -6074,8 +7235,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1573,
     "uikTvd": "477411370554",
+    "uikName": "УИК №1573",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2119,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6121,8 +7291,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1574,
     "uikTvd": "477411370555",
+    "uikName": "УИК №1574",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1669,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -6168,8 +7347,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1575,
     "uikTvd": "477411370556",
+    "uikName": "УИК №1575",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1639,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -6215,8 +7403,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1576,
     "uikTvd": "477411370557",
+    "uikName": "УИК №1576",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1648,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6262,8 +7459,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1577,
     "uikTvd": "477411370558",
+    "uikName": "УИК №1577",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2338,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6309,8 +7515,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1578,
     "uikTvd": "477411370559",
+    "uikName": "УИК №1578",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2554,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6356,8 +7571,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1579,
     "uikTvd": "477411370560",
+    "uikName": "УИК №1579",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1967,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6403,8 +7627,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1580,
     "uikTvd": "477411370561",
+    "uikName": "УИК №1580",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2142,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6450,8 +7683,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1581,
     "uikTvd": "477411370562",
+    "uikName": "УИК №1581",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2119,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6497,8 +7739,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1582,
     "uikTvd": "477411370563",
+    "uikName": "УИК №1582",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2715,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6544,8 +7795,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1583,
     "uikTvd": "477411370564",
+    "uikName": "УИК №1583",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2196,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6591,8 +7851,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1584,
     "uikTvd": "477411370565",
+    "uikName": "УИК №1584",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1199,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -6638,8 +7907,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1585,
     "uikTvd": "477411370566",
+    "uikName": "УИК №1585",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2366,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -6685,8 +7963,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1586,
     "uikTvd": "477411370567",
+    "uikName": "УИК №1586",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2845,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6732,8 +8019,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1587,
     "uikTvd": "477411370568",
+    "uikName": "УИК №1587",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2002,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6779,8 +8075,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1588,
     "uikTvd": "477411370569",
+    "uikName": "УИК №1588",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2441,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6826,8 +8131,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1589,
     "uikTvd": "477411370570",
+    "uikName": "УИК №1589",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2354,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6873,8 +8187,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1590,
     "uikTvd": "477411370571",
+    "uikName": "УИК №1590",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2071,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6920,8 +8243,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1591,
     "uikTvd": "477411370572",
+    "uikName": "УИК №1591",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1825,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6967,8 +8299,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1592,
     "uikTvd": "477411370573",
+    "uikName": "УИК №1592",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2236,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7014,8 +8355,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1593,
     "uikTvd": "477411370574",
+    "uikName": "УИК №1593",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2790,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7061,8 +8411,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1594,
     "uikTvd": "477411370575",
+    "uikName": "УИК №1594",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1765,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7108,8 +8467,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1595,
     "uikTvd": "477411370576",
+    "uikName": "УИК №1595",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2168,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7155,8 +8523,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1596,
     "uikTvd": "477411370577",
+    "uikName": "УИК №1596",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1739,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7202,8 +8579,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1597,
     "uikTvd": "477411370578",
+    "uikName": "УИК №1597",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2844,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7249,8 +8635,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1598,
     "uikTvd": "477411370579",
+    "uikName": "УИК №1598",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2553,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7296,8 +8691,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1599,
     "uikTvd": "477411370580",
+    "uikName": "УИК №1599",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2788,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7343,8 +8747,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1600,
     "uikTvd": "477411370581",
+    "uikName": "УИК №1600",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 995,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7390,8 +8803,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1601,
     "uikTvd": "477411370582",
+    "uikName": "УИК №1601",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2905,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7437,8 +8859,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1624,
     "uikTvd": "477411570343",
+    "uikName": "УИК  1624",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2109,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7484,8 +8915,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1625,
     "uikTvd": "477411570344",
+    "uikName": "УИК  1625",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2127,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7531,8 +8971,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1626,
     "uikTvd": "477411570345",
+    "uikName": "УИК  1626",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2561,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7578,8 +9027,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1627,
     "uikTvd": "477411570346",
+    "uikName": "УИК  1627",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2083,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7625,8 +9083,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1628,
     "uikTvd": "477411570347",
+    "uikName": "УИК  1628",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2818,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7672,8 +9139,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1629,
     "uikTvd": "477411570341",
+    "uikName": "УИК  1629",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2685,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7719,8 +9195,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1630,
     "uikTvd": "477411570342",
+    "uikName": "УИК  1630",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2353,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7766,8 +9251,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1631,
     "uikTvd": "477411570348",
+    "uikName": "УИК  1631",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2429,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7813,8 +9307,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1632,
     "uikTvd": "477411570349",
+    "uikName": "УИК  1632",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7860,8 +9363,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1633,
     "uikTvd": "477411570350",
+    "uikName": "УИК  1633",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2330,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7907,8 +9419,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1634,
     "uikTvd": "477411570351",
+    "uikName": "УИК  1634",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2165,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7954,8 +9475,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1635,
     "uikTvd": "477411570352",
+    "uikName": "УИК  1635",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2370,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8001,8 +9531,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1636,
     "uikTvd": "477411570353",
+    "uikName": "УИК  1636",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2040,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8048,8 +9587,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1637,
     "uikTvd": "477411570354",
+    "uikName": "УИК  1637",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2151,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8095,8 +9643,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1638,
     "uikTvd": "477411570355",
+    "uikName": "УИК  1638",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2822,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8142,8 +9699,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1639,
     "uikTvd": "477411570356",
+    "uikName": "УИК  1639",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8189,8 +9755,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1640,
     "uikTvd": "477411570357",
+    "uikName": "УИК  1640",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2291,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8236,8 +9811,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1641,
     "uikTvd": "477411570358",
+    "uikName": "УИК  1641",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2001,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8283,8 +9867,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1642,
     "uikTvd": "477411570359",
+    "uikName": "УИК  1642",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2062,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8330,8 +9923,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1643,
     "uikTvd": "477411570360",
+    "uikName": "УИК  1643",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2584,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8377,8 +9979,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1644,
     "uikTvd": "477411570361",
+    "uikName": "УИК  1644",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2799,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8424,8 +10035,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1645,
     "uikTvd": "477411570362",
+    "uikName": "УИК  1645",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2614,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8471,8 +10091,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1646,
     "uikTvd": "477411570363",
+    "uikName": "УИК  1646",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2506,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8518,8 +10147,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1647,
     "uikTvd": "477411570364",
+    "uikName": "УИК  1647",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2291,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8565,8 +10203,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1648,
     "uikTvd": "477411570365",
+    "uikName": "УИК  1648",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2396,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8612,8 +10259,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1649,
     "uikTvd": "477411570366",
+    "uikName": "УИК  1649",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1559,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8659,8 +10315,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1691,
     "uikTvd": "477411970579",
+    "uikName": "УИК №1691",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2434,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8706,8 +10371,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1692,
     "uikTvd": "477411970580",
+    "uikName": "УИК №1692",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8753,8 +10427,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1693,
     "uikTvd": "477411970581",
+    "uikName": "УИК №1693",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8800,8 +10483,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1694,
     "uikTvd": "477411970582",
+    "uikName": "УИК №1694",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2540,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8847,8 +10539,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1695,
     "uikTvd": "477411970583",
+    "uikName": "УИК №1695",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2454,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8894,8 +10595,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1696,
     "uikTvd": "477411970584",
+    "uikName": "УИК №1696",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8941,8 +10651,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1697,
     "uikTvd": "477411970585",
+    "uikName": "УИК №1697",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2605,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8988,8 +10707,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1698,
     "uikTvd": "477411970586",
+    "uikName": "УИК №1698",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2504,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9035,8 +10763,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1699,
     "uikTvd": "477411970587",
+    "uikName": "УИК №1699",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2715,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9082,8 +10819,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1700,
     "uikTvd": "477411970588",
+    "uikName": "УИК №1700",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2196,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9129,8 +10875,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1701,
     "uikTvd": "477411970589",
+    "uikName": "УИК №1701",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2688,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9176,8 +10931,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1702,
     "uikTvd": "477411970590",
+    "uikName": "УИК №1702",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2152,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9223,8 +10987,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1703,
     "uikTvd": "477411970591",
+    "uikName": "УИК №1703",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2151,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9270,8 +11043,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1704,
     "uikTvd": "477411970592",
+    "uikName": "УИК №1704",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2471,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9317,8 +11099,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1705,
     "uikTvd": "477411970593",
+    "uikName": "УИК №1705",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2766,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -9364,8 +11155,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1706,
     "uikTvd": "477411970594",
+    "uikName": "УИК №1706",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2887,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -9411,8 +11211,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1707,
     "uikTvd": "477411970595",
+    "uikName": "УИК №1707",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2735,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9458,8 +11267,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1708,
     "uikTvd": "477411970596",
+    "uikName": "УИК №1708",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2427,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9505,8 +11323,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1709,
     "uikTvd": "477411970597",
+    "uikName": "УИК №1709",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2462,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9552,8 +11379,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1710,
     "uikTvd": "477411970598",
+    "uikName": "УИК №1710",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2207,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9599,8 +11435,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1711,
     "uikTvd": "477411970599",
+    "uikName": "УИК №1711",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2821,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9646,8 +11491,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1712,
     "uikTvd": "477411970600",
+    "uikName": "УИК №1712",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2803,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -9693,8 +11547,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1713,
     "uikTvd": "477411970601",
+    "uikName": "УИК №1713",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2829,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -9740,8 +11603,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1714,
     "uikTvd": "477411970602",
+    "uikName": "УИК №1714",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2680,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9787,8 +11659,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1715,
     "uikTvd": "477411970603",
+    "uikName": "УИК №1715",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2730,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9834,8 +11715,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1716,
     "uikTvd": "477411970604",
+    "uikName": "УИК №1716",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9881,8 +11771,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1717,
     "uikTvd": "477411970605",
+    "uikName": "УИК №1717",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2763,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -9928,8 +11827,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1718,
     "uikTvd": "477411970606",
+    "uikName": "УИК №1718",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2366,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9975,8 +11883,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1719,
     "uikTvd": "477411970607",
+    "uikName": "УИК №1719",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2601,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10022,8 +11939,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1720,
     "uikTvd": "477411970608",
+    "uikName": "УИК №1720",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2616,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10069,8 +11995,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1721,
     "uikTvd": "477411970609",
+    "uikName": "УИК №1721",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2223,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10116,8 +12051,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 3142,
     "uikTvd": "477411970613",
+    "uikName": "УИК №3142",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -10163,8 +12107,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1722,
     "uikTvd": "477412070590",
+    "uikName": "УИК №1722",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2309,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10210,8 +12163,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1723,
     "uikTvd": "477412070591",
+    "uikName": "УИК №1723",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2035,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10257,8 +12219,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1724,
     "uikTvd": "477412070592",
+    "uikName": "УИК №1724",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2188,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10304,8 +12275,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1725,
     "uikTvd": "477412070593",
+    "uikName": "УИК №1725",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2509,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10351,8 +12331,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1726,
     "uikTvd": "477412070594",
+    "uikName": "УИК №1726",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10398,8 +12387,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1727,
     "uikTvd": "477412070595",
+    "uikName": "УИК №1727",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2477,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10445,8 +12443,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1728,
     "uikTvd": "477412070596",
+    "uikName": "УИК №1728",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2707,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10492,8 +12499,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1729,
     "uikTvd": "477412070597",
+    "uikName": "УИК №1729",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2790,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10539,8 +12555,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1730,
     "uikTvd": "477412070598",
+    "uikName": "УИК №1730",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2407,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10586,8 +12611,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1731,
     "uikTvd": "477412070599",
+    "uikName": "УИК №1731",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2390,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10633,8 +12667,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1732,
     "uikTvd": "477412070600",
+    "uikName": "УИК №1732",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2470,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10680,8 +12723,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1733,
     "uikTvd": "477412070601",
+    "uikName": "УИК №1733",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2473,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10727,8 +12779,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1734,
     "uikTvd": "477412070602",
+    "uikName": "УИК №1734",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2448,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10774,8 +12835,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1735,
     "uikTvd": "477412070603",
+    "uikName": "УИК №1735",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2842,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10821,8 +12891,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1736,
     "uikTvd": "477412070604",
+    "uikName": "УИК №1736",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2670,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10868,8 +12947,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1737,
     "uikTvd": "477412070605",
+    "uikName": "УИК №1737",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1642,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10915,8 +13003,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1738,
     "uikTvd": "477412070606",
+    "uikName": "УИК №1738",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2661,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10962,8 +13059,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 3143,
     "uikTvd": "477412070607",
+    "uikName": "УИК №3143",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 6,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -11009,8 +13115,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 3144,
     "uikTvd": "477412070608",
+    "uikName": "УИК №3144",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 39,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11056,8 +13171,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 3145,
     "uikTvd": "477412070609",
+    "uikName": "УИК №3145",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 8,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11103,8 +13227,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 3146,
     "uikTvd": "477412070610",
+    "uikName": "УИК №3146",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 6,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -11150,8 +13283,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 3147,
     "uikTvd": "477412070611",
+    "uikName": "УИК №3147",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 6,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11197,8 +13339,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1813,
     "uikTvd": "477412470560",
+    "uikName": "УИК №1813",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2709,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11244,8 +13395,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1814,
     "uikTvd": "477412470561",
+    "uikName": "УИК №1814",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2787,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -11291,8 +13451,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1815,
     "uikTvd": "477412470562",
+    "uikName": "УИК №1815",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2664,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11338,8 +13507,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1816,
     "uikTvd": "477412470563",
+    "uikName": "УИК №1816",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11385,8 +13563,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1817,
     "uikTvd": "477412470564",
+    "uikName": "УИК №1817",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2142,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11432,8 +13619,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1818,
     "uikTvd": "477412470565",
+    "uikName": "УИК №1818",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2115,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11479,8 +13675,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1819,
     "uikTvd": "477412470566",
+    "uikName": "УИК №1819",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2594,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11526,8 +13731,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1820,
     "uikTvd": "477412470567",
+    "uikName": "УИК №1820",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2217,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -11573,8 +13787,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1821,
     "uikTvd": "477412470568",
+    "uikName": "УИК №1821",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2583,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11620,8 +13843,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1822,
     "uikTvd": "477412470569",
+    "uikName": "УИК №1822",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2324,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -11667,8 +13899,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1823,
     "uikTvd": "477412470570",
+    "uikName": "УИК №1823",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2525,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -11714,8 +13955,17 @@ export const duma_2003_uik_428_region_77_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1824,
     "uikTvd": "477412470571",
+    "uikName": "УИК №1824",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,

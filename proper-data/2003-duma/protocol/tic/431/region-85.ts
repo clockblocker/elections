@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_85 = [
     "ballot": "party",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 18348,
@@ -115,6 +118,9 @@ export const duma_2003_tic_431_region_85 = [
     "ballot": "party",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 8497,
@@ -205,6 +211,9 @@ export const duma_2003_tic_431_region_85 = [
     "ballot": "party",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 16193,
@@ -307,6 +316,9 @@ export const duma_2003_tic_431_region_85 = [
     "ballot": "party",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 10648,
@@ -401,6 +413,9 @@ export const duma_2003_tic_431_region_85 = [
     "ballot": "party",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 12139,
@@ -494,6 +509,9 @@ export const duma_2003_tic_431_region_85 = [
     "ballot": "party",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки": 20279,

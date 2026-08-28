@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070637",
     "tikName": "Калининград, Ленинградская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки": 122205,
@@ -129,6 +132,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070638",
     "tikName": "Калининград, Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в списки": 54843,
@@ -268,6 +274,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070639",
     "tikName": "Гусевская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 26717,
@@ -355,6 +364,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070640",
     "tikName": "Гвардейская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 23724,
@@ -440,6 +452,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070641",
     "tikName": "Зеленоградская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 24530,
@@ -528,6 +543,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070642",
     "tikName": "Гурьевская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 35455,
@@ -624,6 +642,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070643",
     "tikName": "Багратионовская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 32491,
@@ -714,6 +735,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 30226,
@@ -795,6 +819,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 11780,
@@ -879,6 +906,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 13739,
@@ -958,6 +988,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 15470,
@@ -1038,6 +1071,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070648",
     "tikName": "Пионерская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 8,
     "accounting": {
       "Число избирателей, внесенных в списки": 10678,
@@ -1111,6 +1147,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 63760,
@@ -1202,6 +1241,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 16577,
@@ -1287,6 +1329,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 12691,
@@ -1368,6 +1413,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 9983,
@@ -1446,6 +1494,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 67115,
@@ -1539,6 +1590,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 34096,
@@ -1617,6 +1671,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 46628,
@@ -1722,6 +1779,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 34270,
@@ -1808,6 +1868,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070657",
     "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 15211,
@@ -1893,6 +1956,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070658",
     "tikName": "Светловская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 22185,
@@ -1973,6 +2039,9 @@ export const duma_2003_tic_431_region_39 = [
     "ballot": "party",
     "tikTvd": "239200070659",
     "tikName": "Светлогорская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки": 17263,

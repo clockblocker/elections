@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "409400970493",
+    "uikName": "УИК №228",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1309,
       "Число бюллетеней, полученных участковыми комиссиями": 1273,
@@ -75,8 +84,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "409400970494",
+    "uikName": "УИК №229",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1574,
       "Число бюллетеней, полученных участковыми комиссиями": 1537,
@@ -139,8 +157,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "409400970495",
+    "uikName": "УИК №230",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1545,
       "Число бюллетеней, полученных участковыми комиссиями": 1497,
@@ -203,8 +230,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "409400970496",
+    "uikName": "УИК №231",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2243,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -267,8 +303,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "409400970497",
+    "uikName": "УИК №232",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2080,
       "Число бюллетеней, полученных участковыми комиссиями": 2006,
@@ -331,8 +376,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "409400970498",
+    "uikName": "УИК №233",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1475,
       "Число бюллетеней, полученных участковыми комиссиями": 1431,
@@ -395,8 +449,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "409400970499",
+    "uikName": "УИК №234",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1462,
       "Число бюллетеней, полученных участковыми комиссиями": 1419,
@@ -459,8 +522,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "409400970500",
+    "uikName": "УИК №235",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1882,
       "Число бюллетеней, полученных участковыми комиссиями": 1812,
@@ -523,8 +595,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "409400970501",
+    "uikName": "УИК №236",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1767,
       "Число бюллетеней, полученных участковыми комиссиями": 1709,
@@ -587,8 +668,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "409400970502",
+    "uikName": "УИК №237",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 975,
       "Число бюллетеней, полученных участковыми комиссиями": 941,
@@ -651,8 +741,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "409400970503",
+    "uikName": "УИК №238",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -715,8 +814,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "409400970504",
+    "uikName": "УИК №239",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -779,8 +887,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "409400970505",
+    "uikName": "УИК №240",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -843,8 +960,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "409400970506",
+    "uikName": "УИК №241",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1251,
       "Число бюллетеней, полученных участковыми комиссиями": 1212,
@@ -907,8 +1033,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "409400970507",
+    "uikName": "УИК №242",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -971,8 +1106,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "409400970508",
+    "uikName": "УИК №243",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2230,
       "Число бюллетеней, полученных участковыми комиссиями": 2145,
@@ -1035,8 +1179,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "409400970509",
+    "uikName": "УИК №244",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 867,
       "Число бюллетеней, полученных участковыми комиссиями": 851,
@@ -1099,8 +1252,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "409401070393",
+    "uikName": "УИК  1",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1726,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -1163,8 +1325,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "409401070394",
+    "uikName": "УИК  2",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2158,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -1227,8 +1398,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "409401070395",
+    "uikName": "УИК  3",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1917,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1291,8 +1471,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "409401070396",
+    "uikName": "УИК  4",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1527,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -1355,8 +1544,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "409401070397",
+    "uikName": "УИК  5",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1659,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -1419,8 +1617,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "409401070398",
+    "uikName": "УИК  6",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -1483,8 +1690,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "409401070399",
+    "uikName": "УИК  7",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2266,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -1547,8 +1763,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "409401070400",
+    "uikName": "УИК  8",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1434,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -1611,8 +1836,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "409401070401",
+    "uikName": "УИК  9",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1151,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1675,8 +1909,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "409401070402",
+    "uikName": "УИК  10",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 817,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -1739,8 +1982,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "409401070403",
+    "uikName": "УИК  11",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1915,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -1803,8 +2055,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "409401070404",
+    "uikName": "УИК  12",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2707,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1867,8 +2128,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "409401070405",
+    "uikName": "УИК  13",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1351,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1931,8 +2201,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "409401070406",
+    "uikName": "УИК  14",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1797,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1995,8 +2274,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "409401070407",
+    "uikName": "УИК  15",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1458,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -2059,8 +2347,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "409401070408",
+    "uikName": "УИК  16",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 525,
@@ -2123,8 +2420,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "409401070409",
+    "uikName": "УИК  17",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1707,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -2187,8 +2493,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "409401070410",
+    "uikName": "УИК  18",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1109,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2251,8 +2566,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "409401070411",
+    "uikName": "УИК  19",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1340,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -2315,8 +2639,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "409401070412",
+    "uikName": "УИК  20",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1126,
       "Число бюллетеней, полученных участковыми комиссиями": 975,
@@ -2379,8 +2712,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "409401070413",
+    "uikName": "УИК  21",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1420,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -2443,8 +2785,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "409401070414",
+    "uikName": "УИК  22",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1286,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -2507,8 +2858,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "409401070415",
+    "uikName": "УИК  23",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1085,
       "Число бюллетеней, полученных участковыми комиссиями": 958,
@@ -2571,8 +2931,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "409401070416",
+    "uikName": "УИК  24",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -2635,8 +3004,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "409401070417",
+    "uikName": "УИК  25",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1580,
       "Число бюллетеней, полученных участковыми комиссиями": 1365,
@@ -2699,8 +3077,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "409401070418",
+    "uikName": "УИК  26",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2168,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -2763,8 +3150,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "409401070419",
+    "uikName": "УИК  27",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1608,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2827,8 +3223,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "409401070420",
+    "uikName": "УИК  28",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2027,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -2891,8 +3296,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "409401070421",
+    "uikName": "УИК  29",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1511,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2955,8 +3369,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "409401070422",
+    "uikName": "УИК  30",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1037,
       "Число бюллетеней, полученных участковыми комиссиями": 945,
@@ -3019,8 +3442,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "409401070423",
+    "uikName": "УИК  31",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 897,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -3083,8 +3515,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "409401070424",
+    "uikName": "УИК  32",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2653,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -3147,8 +3588,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "409401070425",
+    "uikName": "УИК  33",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2293,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -3211,8 +3661,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "409401070426",
+    "uikName": "УИК  34",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 985,
       "Число бюллетеней, полученных участковыми комиссиями": 885,
@@ -3275,8 +3734,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "409401070427",
+    "uikName": "УИК  35",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1854,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -3339,8 +3807,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "409401070428",
+    "uikName": "УИК  36",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1524,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -3403,8 +3880,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "409401070429",
+    "uikName": "УИК  37",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1088,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -3467,8 +3953,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "409401070430",
+    "uikName": "УИК  38",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1294,
       "Число бюллетеней, полученных участковыми комиссиями": 1075,
@@ -3531,8 +4026,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "409401070431",
+    "uikName": "УИК  39",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1524,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -3595,8 +4099,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "409401070432",
+    "uikName": "УИК  40",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 862,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -3659,8 +4172,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "409401070433",
+    "uikName": "УИК  41",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1465,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3723,8 +4245,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "409401070434",
+    "uikName": "УИК  42",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 951,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -3787,8 +4318,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "409401070435",
+    "uikName": "УИК  43",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1242,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -3851,8 +4391,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "409401070436",
+    "uikName": "УИК  44",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2134,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3915,8 +4464,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "409401070437",
+    "uikName": "УИК  45",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2098,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -3979,8 +4537,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "409401070438",
+    "uikName": "УИК  46",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1192,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -4043,8 +4610,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "409401070439",
+    "uikName": "УИК  47",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1766,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -4107,8 +4683,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "409401070440",
+    "uikName": "УИК  48",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2777,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4171,8 +4756,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "409401070441",
+    "uikName": "УИК  49",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1418,
       "Число бюллетеней, полученных участковыми комиссиями": 1275,
@@ -4235,8 +4829,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "409401070442",
+    "uikName": "УИК  50",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3134,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -4299,8 +4902,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "409401070443",
+    "uikName": "УИК  51",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1622,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -4363,8 +4975,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "409401070444",
+    "uikName": "УИК  52",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4427,8 +5048,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "409400870447",
+    "uikName": "УИК  204",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1622,
       "Число бюллетеней, полученных участковыми комиссиями": 1551,
@@ -4491,8 +5121,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "409400870448",
+    "uikName": "УИК  205",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1982,
       "Число бюллетеней, полученных участковыми комиссиями": 1894,
@@ -4555,8 +5194,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "409400870449",
+    "uikName": "УИК  206",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 973,
       "Число бюллетеней, полученных участковыми комиссиями": 895,
@@ -4619,8 +5267,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "409400870450",
+    "uikName": "УИК  207",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 840,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -4683,8 +5340,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "409400870451",
+    "uikName": "УИК  208",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1860,
       "Число бюллетеней, полученных участковыми комиссиями": 1773,
@@ -4747,8 +5413,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "409400870452",
+    "uikName": "УИК  209",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1602,
       "Число бюллетеней, полученных участковыми комиссиями": 1515,
@@ -4811,8 +5486,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "409400870453",
+    "uikName": "УИК  210",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1196,
       "Число бюллетеней, полученных участковыми комиссиями": 1127,
@@ -4875,8 +5559,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "409400870454",
+    "uikName": "УИК  211",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2143,
       "Число бюллетеней, полученных участковыми комиссиями": 2038,
@@ -4939,8 +5632,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "409400870455",
+    "uikName": "УИК  212",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1418,
       "Число бюллетеней, полученных участковыми комиссиями": 1381,
@@ -5003,8 +5705,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "409400870456",
+    "uikName": "УИК  213",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1823,
       "Число бюллетеней, полученных участковыми комиссиями": 1732,
@@ -5067,8 +5778,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "409400870457",
+    "uikName": "УИК  214",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1654,
       "Число бюллетеней, полученных участковыми комиссиями": 1837,
@@ -5131,8 +5851,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "409400870458",
+    "uikName": "УИК  215",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1462,
       "Число бюллетеней, полученных участковыми комиссиями": 1376,
@@ -5195,8 +5924,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "409400870459",
+    "uikName": "УИК  216",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1186,
       "Число бюллетеней, полученных участковыми комиссиями": 1116,
@@ -5259,8 +5997,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "409400870460",
+    "uikName": "УИК  217",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 878,
       "Число бюллетеней, полученных участковыми комиссиями": 821,
@@ -5323,8 +6070,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "409400870461",
+    "uikName": "УИК  218",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 497,
       "Число бюллетеней, полученных участковыми комиссиями": 466,
@@ -5387,8 +6143,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "409400870462",
+    "uikName": "УИК  219",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 917,
       "Число бюллетеней, полученных участковыми комиссиями": 871,
@@ -5451,8 +6216,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "409400870463",
+    "uikName": "УИК  220",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 672,
       "Число бюллетеней, полученных участковыми комиссиями": 629,
@@ -5515,8 +6289,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "409400870464",
+    "uikName": "УИК  221",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2698,
       "Число бюллетеней, полученных участковыми комиссиями": 2603,
@@ -5579,8 +6362,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "409400870465",
+    "uikName": "УИК  222",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1178,
       "Число бюллетеней, полученных участковыми комиссиями": 1578,
@@ -5643,8 +6435,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "409400870466",
+    "uikName": "УИК  223",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1771,
       "Число бюллетеней, полученных участковыми комиссиями": 1686,
@@ -5707,8 +6508,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "409400870467",
+    "uikName": "УИК  224",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1236,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -5771,8 +6581,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "409400870468",
+    "uikName": "УИК  225",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1484,
       "Число бюллетеней, полученных участковыми комиссиями": 1402,
@@ -5835,8 +6654,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "409400870469",
+    "uikName": "УИК  226",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2096,
@@ -5899,8 +6727,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "409400870470",
+    "uikName": "УИК  227",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 418,
@@ -5963,8 +6800,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "409400770583",
+    "uikName": "УИК №187",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 412,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6027,8 +6873,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "409400770584",
+    "uikName": "УИК №188",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 948,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -6091,8 +6946,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "409400770585",
+    "uikName": "УИК №189",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2065,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -6155,8 +7019,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "409400770586",
+    "uikName": "УИК №190",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 484,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -6219,8 +7092,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "409400770587",
+    "uikName": "УИК №191",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1020,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -6283,8 +7165,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "409400770588",
+    "uikName": "УИК №192",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 446,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -6347,8 +7238,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "409400770589",
+    "uikName": "УИК №193",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 905,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -6411,8 +7311,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "409400770590",
+    "uikName": "УИК №194",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2040,
       "Число бюллетеней, полученных участковыми комиссиями": 1966,
@@ -6475,8 +7384,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "409400770591",
+    "uikName": "УИК №195",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1680,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6539,8 +7457,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "409400770592",
+    "uikName": "УИК №196",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 509,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -6603,8 +7530,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "409400770593",
+    "uikName": "УИК №197",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -6667,8 +7603,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "409400770594",
+    "uikName": "УИК №198",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 491,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -6731,8 +7676,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "409400770595",
+    "uikName": "УИК №199",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1430,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -6795,8 +7749,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "409400770596",
+    "uikName": "УИК №200",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1487,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -6859,8 +7822,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "409400770597",
+    "uikName": "УИК №201",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -6923,8 +7895,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "409400770598",
+    "uikName": "УИК №202",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 57,
@@ -6987,8 +7968,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "409400770599",
+    "uikName": "УИК №203",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 624,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7051,8 +8041,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "409400670359",
+    "uikName": "УИК №163",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2434,
       "Число бюллетеней, полученных участковыми комиссиями": 2320,
@@ -7115,8 +8114,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "409400670360",
+    "uikName": "УИК №164",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -7179,8 +8187,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "409400670361",
+    "uikName": "УИК №165",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -7243,8 +8260,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "409400670362",
+    "uikName": "УИК №166",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 663,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -7307,8 +8333,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "409400670363",
+    "uikName": "УИК №167",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -7371,8 +8406,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "409400670364",
+    "uikName": "УИК №168",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 893,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -7435,8 +8479,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "409400670365",
+    "uikName": "УИК №169",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1260,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7499,8 +8552,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "409400670366",
+    "uikName": "УИК №170",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -7563,8 +8625,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "409400670367",
+    "uikName": "УИК №171",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -7627,8 +8698,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "409400670368",
+    "uikName": "УИК №172",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -7691,8 +8771,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "409400670369",
+    "uikName": "УИК №173",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 805,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -7755,8 +8844,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "409400670370",
+    "uikName": "УИК №174",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1134,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -7819,8 +8917,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "409400670371",
+    "uikName": "УИК №175",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -7883,8 +8990,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "409400670372",
+    "uikName": "УИК №176",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -7947,8 +9063,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "409400670373",
+    "uikName": "УИК №177",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -8011,8 +9136,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "409400670374",
+    "uikName": "УИК №178",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1022,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8075,8 +9209,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "409400670375",
+    "uikName": "УИК №179",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 652,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -8139,8 +9282,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "409400670376",
+    "uikName": "УИК №180",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 833,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8203,8 +9355,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "409400670377",
+    "uikName": "УИК №181",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1237,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -8267,8 +9428,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "409400670378",
+    "uikName": "УИК №182",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2554,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -8331,8 +9501,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "409400670379",
+    "uikName": "УИК №183",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -8395,8 +9574,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "409400670380",
+    "uikName": "УИК №184",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2429,
       "Число бюллетеней, полученных участковыми комиссиями": 2320,
@@ -8459,8 +9647,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "409400670381",
+    "uikName": "УИК №185",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2819,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -8523,8 +9720,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "409400670382",
+    "uikName": "УИК №186",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3302,
       "Число бюллетеней, полученных участковыми комиссиями": 3160,
@@ -8587,8 +9793,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "409400570393",
+    "uikName": "УИК №146",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 369,
@@ -8651,8 +9866,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "409400570394",
+    "uikName": "УИК №147",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 268,
@@ -8715,8 +9939,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "409400570395",
+    "uikName": "УИК №148",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2396,
       "Число бюллетеней, полученных участковыми комиссиями": 2244,
@@ -8779,8 +10012,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "409400570396",
+    "uikName": "УИК №149",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1685,
       "Число бюллетеней, полученных участковыми комиссиями": 1586,
@@ -8843,8 +10085,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "409400570397",
+    "uikName": "УИК №150",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1112,
       "Число бюллетеней, полученных участковыми комиссиями": 1055,
@@ -8907,8 +10158,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "409400570398",
+    "uikName": "УИК №151",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1924,
       "Число бюллетеней, полученных участковыми комиссиями": 1804,
@@ -8971,8 +10231,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "409400570399",
+    "uikName": "УИК №152",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1213,
       "Число бюллетеней, полученных участковыми комиссиями": 1139,
@@ -9035,8 +10304,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "409400570400",
+    "uikName": "УИК №153",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2270,
       "Число бюллетеней, полученных участковыми комиссиями": 2158,
@@ -9099,8 +10377,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "409400570401",
+    "uikName": "УИК №154",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 893,
       "Число бюллетеней, полученных участковыми комиссиями": 2039,
@@ -9163,8 +10450,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "409400570402",
+    "uikName": "УИК №155",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2748,
       "Число бюллетеней, полученных участковыми комиссиями": 2611,
@@ -9227,8 +10523,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "409400570403",
+    "uikName": "УИК №156",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1326,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -9291,8 +10596,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "409400570404",
+    "uikName": "УИК №157",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2357,
       "Число бюллетеней, полученных участковыми комиссиями": 2237,
@@ -9355,8 +10669,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "409400570405",
+    "uikName": "УИК №158",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1999,
       "Число бюллетеней, полученных участковыми комиссиями": 1908,
@@ -9419,8 +10742,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "409400570406",
+    "uikName": "УИК №159",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2156,
       "Число бюллетеней, полученных участковыми комиссиями": 2053,
@@ -9483,8 +10815,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "409400570407",
+    "uikName": "УИК №160",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 550,
       "Число бюллетеней, полученных участковыми комиссиями": 522,
@@ -9547,8 +10888,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "409400570408",
+    "uikName": "УИК №161",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1309,
       "Число бюллетеней, полученных участковыми комиссиями": 1244,
@@ -9611,8 +10961,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "409400570409",
+    "uikName": "УИК №162",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 979,
       "Число бюллетеней, полученных участковыми комиссиями": 984,
@@ -9675,8 +11034,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "409400270456",
+    "uikName": "УИК №93",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1058,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -9739,8 +11107,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "409400270458",
+    "uikName": "УИК №94",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1608,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -9803,8 +11180,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "409400270460",
+    "uikName": "УИК №95",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1697,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -9867,8 +11253,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "409400270462",
+    "uikName": "УИК №96",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9931,8 +11326,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "409400270464",
+    "uikName": "УИК №97",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2302,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -9995,8 +11399,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "409400270466",
+    "uikName": "УИК №98",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1866,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10059,8 +11472,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "409400270467",
+    "uikName": "УИК №99",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1068,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10123,8 +11545,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "409400270468",
+    "uikName": "УИК №100",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1207,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -10187,8 +11618,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "409400270469",
+    "uikName": "УИК №101",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1911,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -10251,8 +11691,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "409400270470",
+    "uikName": "УИК №102",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -10315,8 +11764,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "409400270471",
+    "uikName": "УИК №103",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -10379,8 +11837,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "409400270472",
+    "uikName": "УИК №104",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1808,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -10443,8 +11910,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "409400270473",
+    "uikName": "УИК №105",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 932,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -10507,8 +11983,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "409400270474",
+    "uikName": "УИК №106",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1159,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10571,8 +12056,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "409400270475",
+    "uikName": "УИК №107",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1231,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10635,8 +12129,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "409400270476",
+    "uikName": "УИК №108",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -10699,8 +12202,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "409400270477",
+    "uikName": "УИК №109",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10763,8 +12275,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "409400270478",
+    "uikName": "УИК №110",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1108,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -10827,8 +12348,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "409400270479",
+    "uikName": "УИК №111",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1205,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -10891,8 +12421,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "409400270480",
+    "uikName": "УИК №112",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1105,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10955,8 +12494,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "409400270481",
+    "uikName": "УИК №113",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1241,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11019,8 +12567,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "409400270482",
+    "uikName": "УИК №114",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -11083,8 +12640,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "409400270483",
+    "uikName": "УИК №115",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1185,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -11147,8 +12713,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "409400270484",
+    "uikName": "УИК №116",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1153,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -11211,8 +12786,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "409400270485",
+    "uikName": "УИК №117",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 767,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -11275,8 +12859,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "409400270486",
+    "uikName": "УИК №118",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 393,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -11339,8 +12932,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "409400270487",
+    "uikName": "УИК №119",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1281,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11403,8 +13005,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "409400270488",
+    "uikName": "УИК №120",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -11467,8 +13078,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "409400270489",
+    "uikName": "УИК №121",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -11531,8 +13151,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "409400270490",
+    "uikName": "УИК №122",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -11595,8 +13224,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "409400270491",
+    "uikName": "УИК №123",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11659,8 +13297,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "409400270492",
+    "uikName": "УИК №124",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1319,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -11723,8 +13370,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "409400270493",
+    "uikName": "УИК №125",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1267,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11787,8 +13443,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "409400270494",
+    "uikName": "УИК №126",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1323,
       "Число бюллетеней, полученных участковыми комиссиями": 1195,
@@ -11851,8 +13516,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "409400270495",
+    "uikName": "УИК №127",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -11915,8 +13589,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "409400270496",
+    "uikName": "УИК №128",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 735,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -11979,8 +13662,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "409400270454",
+    "uikName": "УИК №129",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 922,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -12043,8 +13735,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "409400370605",
+    "uikName": "УИК №130",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 823,
@@ -12107,8 +13808,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "409400370606",
+    "uikName": "УИК №131",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 863,
       "Число бюллетеней, полученных участковыми комиссиями": 807,
@@ -12171,8 +13881,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "409400370607",
+    "uikName": "УИК №132",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 416,
@@ -12235,8 +13954,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "409400370608",
+    "uikName": "УИК №133",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1601,
       "Число бюллетеней, полученных участковыми комиссиями": 1522,
@@ -12299,8 +14027,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "409400370609",
+    "uikName": "УИК №134",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 667,
       "Число бюллетеней, полученных участковыми комиссиями": 634,
@@ -12363,8 +14100,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "409400370610",
+    "uikName": "УИК №135",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -12427,8 +14173,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "409400370611",
+    "uikName": "УИК №136",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 770,
       "Число бюллетеней, полученных участковыми комиссиями": 722,
@@ -12491,8 +14246,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "409400370612",
+    "uikName": "УИК №137",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1552,
       "Число бюллетеней, полученных участковыми комиссиями": 1465,
@@ -12555,8 +14319,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "409400370613",
+    "uikName": "УИК №138",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1771,
       "Число бюллетеней, полученных участковыми комиссиями": 1641,
@@ -12619,8 +14392,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "409400370614",
+    "uikName": "УИК №139",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 253,
@@ -12683,8 +14465,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "409400370615",
+    "uikName": "УИК №140",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1028,
       "Число бюллетеней, полученных участковыми комиссиями": 983,
@@ -12747,8 +14538,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "409400370616",
+    "uikName": "УИК №141",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1692,
       "Число бюллетеней, полученных участковыми комиссиями": 1586,
@@ -12811,8 +14611,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "409400370617",
+    "uikName": "УИК №142",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -12875,8 +14684,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "409400370618",
+    "uikName": "УИК №143",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1074,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -12939,8 +14757,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "409400370619",
+    "uikName": "УИК №144",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2991,
       "Число бюллетеней, полученных участковыми комиссиями": 2846,
@@ -13003,8 +14830,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "409400370620",
+    "uikName": "УИК №145",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2210,
       "Число бюллетеней, полученных участковыми комиссиями": 2082,
@@ -13067,8 +14903,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "409400470423",
+    "uikName": "УИК №53",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -13131,8 +14976,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "409400470424",
+    "uikName": "УИК №54",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1917,
       "Число бюллетеней, полученных участковыми комиссиями": 1715,
@@ -13195,8 +15049,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "409400470425",
+    "uikName": "УИК №55",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2142,
       "Число бюллетеней, полученных участковыми комиссиями": 1918,
@@ -13259,8 +15122,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "409400470426",
+    "uikName": "УИК №56",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1926,
       "Число бюллетеней, полученных участковыми комиссиями": 1724,
@@ -13323,8 +15195,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "409400470427",
+    "uikName": "УИК №57",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1809,
       "Число бюллетеней, полученных участковыми комиссиями": 1625,
@@ -13387,8 +15268,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "409400470428",
+    "uikName": "УИК №58",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 356,
@@ -13451,8 +15341,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "409400470429",
+    "uikName": "УИК №59",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 922,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -13515,8 +15414,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "409400470430",
+    "uikName": "УИК №60",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 693,
       "Число бюллетеней, полученных участковыми комиссиями": 624,
@@ -13579,8 +15487,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "409400470431",
+    "uikName": "УИК №61",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 884,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -13643,8 +15560,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "409400470432",
+    "uikName": "УИК №62",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2735,
       "Число бюллетеней, полученных участковыми комиссиями": 2409,
@@ -13707,8 +15633,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "409400470433",
+    "uikName": "УИК №63",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2356,
       "Число бюллетеней, полученных участковыми комиссиями": 2123,
@@ -13771,8 +15706,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "409400470434",
+    "uikName": "УИК №64",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1358,
       "Число бюллетеней, полученных участковыми комиссиями": 1211,
@@ -13835,8 +15779,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "409400470435",
+    "uikName": "УИК №65",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 687,
       "Число бюллетеней, полученных участковыми комиссиями": 622,
@@ -13899,8 +15852,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "409400470436",
+    "uikName": "УИК №66",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -13963,8 +15925,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "409400470437",
+    "uikName": "УИК №67",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1000,
       "Число бюллетеней, полученных участковыми комиссиями": 884,
@@ -14027,8 +15998,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "409400470438",
+    "uikName": "УИК №68",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1123,
       "Число бюллетеней, полученных участковыми комиссиями": 1009,
@@ -14091,8 +16071,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "409400470439",
+    "uikName": "УИК №69",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1228,
       "Число бюллетеней, полученных участковыми комиссиями": 1095,
@@ -14155,8 +16144,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "409400470440",
+    "uikName": "УИК №70",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1358,
       "Число бюллетеней, полученных участковыми комиссиями": 1148,
@@ -14219,8 +16217,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "409400170431",
+    "uikName": "УИК №71",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2668,
       "Число бюллетеней, полученных участковыми комиссиями": 2580,
@@ -14283,8 +16290,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "409400170432",
+    "uikName": "УИК №72",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1069,
       "Число бюллетеней, полученных участковыми комиссиями": 1024,
@@ -14347,8 +16363,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "409400170433",
+    "uikName": "УИК №73",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2897,
       "Число бюллетеней, полученных участковыми комиссиями": 2827,
@@ -14411,8 +16436,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "409400170434",
+    "uikName": "УИК №74",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -14475,8 +16509,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "409400170435",
+    "uikName": "УИК №75",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 557,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -14539,8 +16582,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "409400170436",
+    "uikName": "УИК №76",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 402,
@@ -14603,8 +16655,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "409400170437",
+    "uikName": "УИК №77",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -14667,8 +16728,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "409400170438",
+    "uikName": "УИК №78",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -14731,8 +16801,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "409400170439",
+    "uikName": "УИК №79",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1449,
@@ -14795,8 +16874,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "409400170440",
+    "uikName": "УИК №80",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -14859,8 +16947,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "409400170441",
+    "uikName": "УИК №81",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1005,
       "Число бюллетеней, полученных участковыми комиссиями": 953,
@@ -14923,8 +17020,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "409400170442",
+    "uikName": "УИК №82",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 924,
       "Число бюллетеней, полученных участковыми комиссиями": 883,
@@ -14987,8 +17093,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "409400170443",
+    "uikName": "УИК №83",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2306,
       "Число бюллетеней, полученных участковыми комиссиями": 2206,
@@ -15051,8 +17166,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "409400170444",
+    "uikName": "УИК №84",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1705,
       "Число бюллетеней, полученных участковыми комиссиями": 1645,
@@ -15115,8 +17239,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "409400170445",
+    "uikName": "УИК №85",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -15179,8 +17312,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "409400170446",
+    "uikName": "УИК №86",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -15243,8 +17385,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "409400170447",
+    "uikName": "УИК №87",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -15307,8 +17458,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "409400170448",
+    "uikName": "УИК №88",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 874,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -15371,8 +17531,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "409400170449",
+    "uikName": "УИК №89",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -15435,8 +17604,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "409400170450",
+    "uikName": "УИК №90",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1341,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -15499,8 +17677,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "409400170451",
+    "uikName": "УИК №91",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -15563,8 +17750,17 @@ export const duma_2003_uik_428_region_9_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "409400170452",
+    "uikName": "УИК №92",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
+    "district": {
+      "districtNumber": 16,
+      "oikTvd": "100100095806",
+      "oikName": "Карачаево-Черкесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 265,

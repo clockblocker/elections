@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1762,
     "uikTvd": "402400866818",
+    "uikName": "УИК №1762",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 417,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1763,
     "uikTvd": "402400866819",
+    "uikName": "УИК №1763",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 332,
       "Число бюллетеней, полученных участковыми комиссиями": 333,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1764,
     "uikTvd": "402400866820",
+    "uikName": "УИК №1764",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 700,
       "Число бюллетеней, полученных участковыми комиссиями": 716,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1765,
     "uikTvd": "402400866821",
+    "uikName": "УИК №1765",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1766,
     "uikTvd": "402400866822",
+    "uikName": "УИК №1766",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1767,
     "uikTvd": "402400866823",
+    "uikName": "УИК №1767",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1768,
     "uikTvd": "402400866824",
+    "uikName": "УИК №1768",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1769,
     "uikTvd": "402400866825",
+    "uikName": "УИК №1769",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1770,
     "uikTvd": "402400866826",
+    "uikName": "УИК №1770",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 219,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1771,
     "uikTvd": "402400866827",
+    "uikName": "УИК №1771",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1772,
     "uikTvd": "402400866828",
+    "uikName": "УИК №1772",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1773,
     "uikTvd": "402400866829",
+    "uikName": "УИК №1773",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1774,
     "uikTvd": "402400866830",
+    "uikName": "УИК №1774",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 793,
       "Число бюллетеней, полученных участковыми комиссиями": 848,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1775,
     "uikTvd": "402400866831",
+    "uikName": "УИК №1775",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 386,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1776,
     "uikTvd": "402400866832",
+    "uikName": "УИК №1776",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 423,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1777,
     "uikTvd": "402400866833",
+    "uikName": "УИК №1777",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 789,
       "Число бюллетеней, полученных участковыми комиссиями": 828,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1778,
     "uikTvd": "402400866834",
+    "uikName": "УИК №1778",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1779,
     "uikTvd": "402400866835",
+    "uikName": "УИК №1779",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 357,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1780,
     "uikTvd": "402400866836",
+    "uikName": "УИК №1780",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 357,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1781,
     "uikTvd": "402400866837",
+    "uikName": "УИК №1781",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 349,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1782,
     "uikTvd": "402400866838",
+    "uikName": "УИК №1782",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 599,
       "Число бюллетеней, полученных участковыми комиссиями": 624,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1783,
     "uikTvd": "402400866839",
+    "uikName": "УИК №1783",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 582,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1784,
     "uikTvd": "402400866840",
+    "uikName": "УИК №1784",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1785,
     "uikTvd": "402400866841",
+    "uikName": "УИК №1785",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1786,
     "uikTvd": "402400866842",
+    "uikName": "УИК №1786",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 326,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1787,
     "uikTvd": "402400866843",
+    "uikName": "УИК №1787",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 353,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1788,
     "uikTvd": "402400866844",
+    "uikName": "УИК №1788",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 864,
       "Число бюллетеней, полученных участковыми комиссиями": 899,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1789,
     "uikTvd": "402400866845",
+    "uikName": "УИК №1789",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1790,
     "uikTvd": "402400866846",
+    "uikName": "УИК №1790",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1791,
     "uikTvd": "402400866847",
+    "uikName": "УИК №1791",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 487,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1792,
     "uikTvd": "402400866848",
+    "uikName": "УИК №1792",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 404,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1793,
     "uikTvd": "402400866849",
+    "uikName": "УИК №1793",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1794,
     "uikTvd": "402400866850",
+    "uikName": "УИК №1794",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1795,
     "uikTvd": "402400866851",
+    "uikName": "УИК №1795",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1796,
     "uikTvd": "402400866852",
+    "uikName": "УИК №1796",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 167,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1797,
     "uikTvd": "402400866798",
+    "uikName": "УИК №1797",
     "tikTvd": "202200066858",
     "tikName": "Бакалинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "402400266761",
+    "uikName": "УИК №415",
     "tikTvd": "202200066859",
     "tikName": "Агидельская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1893,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "402400266762",
+    "uikName": "УИК №416",
     "tikTvd": "202200066859",
     "tikName": "Агидельская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2718,
       "Число бюллетеней, полученных участковыми комиссиями": 2663,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "402400266763",
+    "uikName": "УИК №417",
     "tikTvd": "202200066859",
     "tikName": "Агидельская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2764,
       "Число бюллетеней, полученных участковыми комиссиями": 2701,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "402400266764",
+    "uikName": "УИК №418",
     "tikTvd": "202200066859",
     "tikName": "Агидельская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2372,
       "Число бюллетеней, полученных участковыми комиссиями": 2316,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "402400266765",
+    "uikName": "УИК №419",
     "tikTvd": "202200066859",
     "tikName": "Агидельская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2641,
       "Число бюллетеней, полученных участковыми комиссиями": 2640,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "402404266790",
+    "uikName": "УИК №1003",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2442,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "402404266791",
+    "uikName": "УИК №1004",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2203,
       "Число бюллетеней, полученных участковыми комиссиями": 1981,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "402404266792",
+    "uikName": "УИК №1005",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2133,
       "Число бюллетеней, полученных участковыми комиссиями": 2090,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "402404266793",
+    "uikName": "УИК №1006",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1932,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "402404266794",
+    "uikName": "УИК №1007",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2022,
       "Число бюллетеней, полученных участковыми комиссиями": 1962,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "402404266795",
+    "uikName": "УИК №1008",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2086,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "402404266796",
+    "uikName": "УИК №1009",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2224,
       "Число бюллетеней, полученных участковыми комиссиями": 2133,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "402404266797",
+    "uikName": "УИК №1010",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 2151,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "402404266798",
+    "uikName": "УИК №1011",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1984,
       "Число бюллетеней, полученных участковыми комиссиями": 1876,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "402404266799",
+    "uikName": "УИК №1012",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2159,
       "Число бюллетеней, полученных участковыми комиссиями": 1983,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "402404266800",
+    "uikName": "УИК №1013",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2271,
       "Число бюллетеней, полученных участковыми комиссиями": 2063,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "402404266801",
+    "uikName": "УИК №1014",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1918,
       "Число бюллетеней, полученных участковыми комиссиями": 1893,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "402404266802",
+    "uikName": "УИК №1015",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1642,
       "Число бюллетеней, полученных участковыми комиссиями": 2105,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "402404266803",
+    "uikName": "УИК №1016",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2041,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "402404266804",
+    "uikName": "УИК №1017",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2243,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "402404266805",
+    "uikName": "УИК №1018",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 2295,
@@ -2861,8 +3374,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "402404266806",
+    "uikName": "УИК №1019",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2298,
@@ -2911,8 +3433,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "402404266807",
+    "uikName": "УИК №1020",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2315,
       "Число бюллетеней, полученных участковыми комиссиями": 2283,
@@ -2961,8 +3492,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1021,
     "uikTvd": "402404266808",
+    "uikName": "УИК №1021",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2135,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3011,8 +3551,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1022,
     "uikTvd": "402404266809",
+    "uikName": "УИК №1022",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2240,
       "Число бюллетеней, полученных участковыми комиссиями": 2191,
@@ -3061,8 +3610,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1023,
     "uikTvd": "402404266810",
+    "uikName": "УИК №1023",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -3111,8 +3669,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1024,
     "uikTvd": "402404266811",
+    "uikName": "УИК №1024",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3161,8 +3728,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1025,
     "uikTvd": "402404266812",
+    "uikName": "УИК №1025",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1934,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3211,8 +3787,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1026,
     "uikTvd": "402404266813",
+    "uikName": "УИК №1026",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -3261,8 +3846,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1027,
     "uikTvd": "402404266814",
+    "uikName": "УИК №1027",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2186,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3311,8 +3905,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1028,
     "uikTvd": "402404266815",
+    "uikName": "УИК №1028",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2340,
       "Число бюллетеней, полученных участковыми комиссиями": 2083,
@@ -3361,8 +3964,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1029,
     "uikTvd": "402404266816",
+    "uikName": "УИК №1029",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2636,
       "Число бюллетеней, полученных участковыми комиссиями": 2124,
@@ -3411,8 +4023,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1030,
     "uikTvd": "402404266817",
+    "uikName": "УИК №1030",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2218,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -3461,8 +4082,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1031,
     "uikTvd": "402404266818",
+    "uikName": "УИК №1031",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2214,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -3511,8 +4141,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1032,
     "uikTvd": "402404266819",
+    "uikName": "УИК №1032",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2390,
       "Число бюллетеней, полученных участковыми комиссиями": 2302,
@@ -3561,8 +4200,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1033,
     "uikTvd": "402404266820",
+    "uikName": "УИК №1033",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2055,
@@ -3611,8 +4259,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1034,
     "uikTvd": "402404266821",
+    "uikName": "УИК №1034",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2435,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -3661,8 +4318,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1035,
     "uikTvd": "402404266822",
+    "uikName": "УИК №1035",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2276,
@@ -3711,8 +4377,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1036,
     "uikTvd": "402404266823",
+    "uikName": "УИК №1036",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -3761,8 +4436,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1037,
     "uikTvd": "402404266824",
+    "uikName": "УИК №1037",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2426,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3811,8 +4495,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1038,
     "uikTvd": "402404266825",
+    "uikName": "УИК №1038",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1863,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -3861,8 +4554,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1039,
     "uikTvd": "402404266826",
+    "uikName": "УИК №1039",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -3911,8 +4613,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1040,
     "uikTvd": "402404266827",
+    "uikName": "УИК №1040",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 264,
@@ -3961,8 +4672,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1041,
     "uikTvd": "402404266828",
+    "uikName": "УИК №1041",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2243,
       "Число бюллетеней, полученных участковыми комиссиями": 2216,
@@ -4011,8 +4731,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1042,
     "uikTvd": "402404266829",
+    "uikName": "УИК №1042",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2096,
       "Число бюллетеней, полученных участковыми комиссиями": 2069,
@@ -4061,8 +4790,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1043,
     "uikTvd": "402404266830",
+    "uikName": "УИК №1043",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1796,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -4111,8 +4849,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1044,
     "uikTvd": "402404266831",
+    "uikName": "УИК №1044",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 2075,
@@ -4161,8 +4908,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1045,
     "uikTvd": "402404266832",
+    "uikName": "УИК №1045",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2871,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4211,8 +4967,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1046,
     "uikTvd": "402404266833",
+    "uikName": "УИК №1046",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2040,
       "Число бюллетеней, полученных участковыми комиссиями": 2035,
@@ -4261,8 +5026,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1047,
     "uikTvd": "402404266834",
+    "uikName": "УИК №1047",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1936,
       "Число бюллетеней, полученных участковыми комиссиями": 1889,
@@ -4311,8 +5085,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1048,
     "uikTvd": "402404266835",
+    "uikName": "УИК №1048",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1982,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -4361,8 +5144,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1049,
     "uikTvd": "402404266836",
+    "uikName": "УИК №1049",
     "tikTvd": "202200066860",
     "tikName": "Нефтекамская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2660,
       "Число бюллетеней, полученных участковыми комиссиями": 2299,
@@ -4411,8 +5203,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "402407066707",
+    "uikName": "УИК №648",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1819,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4461,8 +5262,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "402407066708",
+    "uikName": "УИК №649",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1870,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4511,8 +5321,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "402407066709",
+    "uikName": "УИК №650",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2575,
       "Число бюллетеней, полученных участковыми комиссиями": 2440,
@@ -4561,8 +5380,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "402407066710",
+    "uikName": "УИК №651",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1584,
       "Число бюллетеней, полученных участковыми комиссиями": 1449,
@@ -4611,8 +5439,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "402407066711",
+    "uikName": "УИК №652",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2563,
       "Число бюллетеней, полученных участковыми комиссиями": 2388,
@@ -4661,8 +5498,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "402407066712",
+    "uikName": "УИК №653",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1644,
@@ -4711,8 +5557,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "402407066713",
+    "uikName": "УИК №654",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2686,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -4761,8 +5616,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "402407066714",
+    "uikName": "УИК №655",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1033,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -4811,8 +5675,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "402407066715",
+    "uikName": "УИК №656",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1881,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4861,8 +5734,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "402407066716",
+    "uikName": "УИК №657",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1606,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -4911,8 +5793,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "402407066717",
+    "uikName": "УИК №658",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2889,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -4961,8 +5852,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "402407066718",
+    "uikName": "УИК №659",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2157,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -5011,8 +5911,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "402407066719",
+    "uikName": "УИК №660",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2986,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5061,8 +5970,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "402407066720",
+    "uikName": "УИК №661",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1097,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -5111,8 +6029,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "402407066721",
+    "uikName": "УИК №662",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 560,
       "Число бюллетеней, полученных участковыми комиссиями": 512,
@@ -5161,8 +6088,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "402407066722",
+    "uikName": "УИК №663",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 554,
       "Число бюллетеней, полученных участковыми комиссиями": 563,
@@ -5211,8 +6147,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "402407066723",
+    "uikName": "УИК №664",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 401,
@@ -5261,8 +6206,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "402407066724",
+    "uikName": "УИК №665",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 388,
       "Число бюллетеней, полученных участковыми комиссиями": 378,
@@ -5311,8 +6265,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "402407066725",
+    "uikName": "УИК №666",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -5361,8 +6324,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "402407066726",
+    "uikName": "УИК №667",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 872,
       "Число бюллетеней, полученных участковыми комиссиями": 812,
@@ -5411,8 +6383,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "402407066727",
+    "uikName": "УИК №668",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 343,
@@ -5461,8 +6442,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "402407066728",
+    "uikName": "УИК №669",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -5511,8 +6501,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "402407066729",
+    "uikName": "УИК №670",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -5561,8 +6560,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "402407066730",
+    "uikName": "УИК №671",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 789,
       "Число бюллетеней, полученных участковыми комиссиями": 793,
@@ -5611,8 +6619,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "402407066731",
+    "uikName": "УИК №672",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 101,
@@ -5661,8 +6678,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "402407066732",
+    "uikName": "УИК №673",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -5711,8 +6737,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "402407066733",
+    "uikName": "УИК №674",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -5761,8 +6796,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "402407066734",
+    "uikName": "УИК №675",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 356,
@@ -5811,8 +6855,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "402407066735",
+    "uikName": "УИК №676",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -5861,8 +6914,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "402407066736",
+    "uikName": "УИК №677",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 508,
@@ -5911,8 +6973,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "402407066737",
+    "uikName": "УИК №678",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 608,
       "Число бюллетеней, полученных участковыми комиссиями": 794,
@@ -5961,8 +7032,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "402407066738",
+    "uikName": "УИК №679",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1149,
       "Число бюллетеней, полученных участковыми комиссиями": 1098,
@@ -6011,8 +7091,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "402407066739",
+    "uikName": "УИК №680",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 382,
@@ -6061,8 +7150,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "402407066740",
+    "uikName": "УИК №681",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 464,
@@ -6111,8 +7209,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "402407066741",
+    "uikName": "УИК №682",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -6161,8 +7268,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "402407066742",
+    "uikName": "УИК №683",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 134,
@@ -6211,8 +7327,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "402407066743",
+    "uikName": "УИК №684",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 924,
       "Число бюллетеней, полученных участковыми комиссиями": 941,
@@ -6261,8 +7386,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "402407066744",
+    "uikName": "УИК №685",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 715,
       "Число бюллетеней, полученных участковыми комиссиями": 695,
@@ -6311,8 +7445,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "402407066745",
+    "uikName": "УИК №686",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -6361,8 +7504,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "402407066746",
+    "uikName": "УИК №687",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 521,
@@ -6411,8 +7563,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "402407066747",
+    "uikName": "УИК №688",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -6461,8 +7622,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "402407066748",
+    "uikName": "УИК №689",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 389,
@@ -6511,8 +7681,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "402407066749",
+    "uikName": "УИК №690",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -6561,8 +7740,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "402407066750",
+    "uikName": "УИК №691",
     "tikTvd": "202200066861",
     "tikName": "Бирская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -6611,8 +7799,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "402401666947",
+    "uikName": "УИК №692",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 972,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -6661,8 +7858,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "402401666948",
+    "uikName": "УИК №693",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 540,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -6711,8 +7917,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "402401666949",
+    "uikName": "УИК №694",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 786,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -6761,8 +7976,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "402401666950",
+    "uikName": "УИК №695",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1019,
       "Число бюллетеней, полученных участковыми комиссиями": 975,
@@ -6811,8 +8035,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "402401666951",
+    "uikName": "УИК №696",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1045,
       "Число бюллетеней, полученных участковыми комиссиями": 975,
@@ -6861,8 +8094,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "402401666952",
+    "uikName": "УИК №697",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 968,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -6911,8 +8153,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "402401666953",
+    "uikName": "УИК №698",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -6961,8 +8212,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "402401666954",
+    "uikName": "УИК №699",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 911,
       "Число бюллетеней, полученных участковыми комиссиями": 855,
@@ -7011,8 +8271,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "402401666955",
+    "uikName": "УИК №700",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 817,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -7061,8 +8330,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "402401666956",
+    "uikName": "УИК №701",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1821,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -7111,8 +8389,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "402401666957",
+    "uikName": "УИК №702",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 835,
       "Число бюллетеней, полученных участковыми комиссиями": 815,
@@ -7161,8 +8448,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "402401666958",
+    "uikName": "УИК №703",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 932,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -7211,8 +8507,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "402401666959",
+    "uikName": "УИК №704",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1877,
       "Число бюллетеней, полученных участковыми комиссиями": 1775,
@@ -7261,8 +8566,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "402401666960",
+    "uikName": "УИК №705",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1718,
       "Число бюллетеней, полученных участковыми комиссиями": 1675,
@@ -7311,8 +8625,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "402401666961",
+    "uikName": "УИК №706",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1837,
       "Число бюллетеней, полученных участковыми комиссиями": 1775,
@@ -7361,8 +8684,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "402401666962",
+    "uikName": "УИК №707",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2601,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -7411,8 +8743,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "402401666963",
+    "uikName": "УИК №708",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1772,
       "Число бюллетеней, полученных участковыми комиссиями": 1675,
@@ -7461,8 +8802,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "402401666964",
+    "uikName": "УИК №709",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2092,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -7511,8 +8861,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "402401666965",
+    "uikName": "УИК №710",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 403,
@@ -7561,8 +8920,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "402401666966",
+    "uikName": "УИК №711",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -7611,8 +8979,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "402401666967",
+    "uikName": "УИК №712",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 763,
       "Число бюллетеней, полученных участковыми комиссиями": 758,
@@ -7661,8 +9038,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "402401666968",
+    "uikName": "УИК №713",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -7711,8 +9097,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "402401666969",
+    "uikName": "УИК №714",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -7761,8 +9156,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "402401666970",
+    "uikName": "УИК №715",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 419,
@@ -7811,8 +9215,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "402401666971",
+    "uikName": "УИК №716",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -7861,8 +9274,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "402401666972",
+    "uikName": "УИК №717",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -7911,8 +9333,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "402401666973",
+    "uikName": "УИК №718",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -7961,8 +9392,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "402401666974",
+    "uikName": "УИК №719",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 331,
@@ -8011,8 +9451,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "402401666975",
+    "uikName": "УИК №720",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -8061,8 +9510,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "402401666976",
+    "uikName": "УИК №721",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -8111,8 +9569,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "402401666977",
+    "uikName": "УИК №722",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1074,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -8161,8 +9628,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "402401666978",
+    "uikName": "УИК №723",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -8211,8 +9687,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "402401666979",
+    "uikName": "УИК №724",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -8261,8 +9746,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "402401666980",
+    "uikName": "УИК №725",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 387,
@@ -8311,8 +9805,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "402401666981",
+    "uikName": "УИК №726",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -8361,8 +9864,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "402401666982",
+    "uikName": "УИК №727",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -8411,8 +9923,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "402401666983",
+    "uikName": "УИК №728",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 373,
@@ -8461,8 +9982,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "402401666984",
+    "uikName": "УИК №729",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -8511,8 +10041,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "402401666985",
+    "uikName": "УИК №730",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 540,
       "Число бюллетеней, полученных участковыми комиссиями": 526,
@@ -8561,8 +10100,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "402401666986",
+    "uikName": "УИК №731",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 247,
@@ -8611,8 +10159,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "402401666987",
+    "uikName": "УИК №732",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 419,
@@ -8661,8 +10218,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "402401666988",
+    "uikName": "УИК №733",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1713,
       "Число бюллетеней, полученных участковыми комиссиями": 1627,
@@ -8711,8 +10277,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "402401666989",
+    "uikName": "УИК №734",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 766,
       "Число бюллетеней, полученных участковыми комиссиями": 772,
@@ -8761,8 +10336,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "402401666990",
+    "uikName": "УИК №735",
     "tikTvd": "202200066862",
     "tikName": "Благовещенская городская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 434,
@@ -8811,8 +10395,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "402402366745",
+    "uikName": "УИК №782",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2365,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -8861,8 +10454,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "402402366746",
+    "uikName": "УИК №783",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2109,
       "Число бюллетеней, полученных участковыми комиссиями": 2069,
@@ -8911,8 +10513,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "402402366747",
+    "uikName": "УИК №784",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2204,
       "Число бюллетеней, полученных участковыми комиссиями": 2191,
@@ -8961,8 +10572,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "402402366748",
+    "uikName": "УИК №785",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2256,
       "Число бюллетеней, полученных участковыми комиссиями": 2285,
@@ -9011,8 +10631,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "402402366749",
+    "uikName": "УИК №786",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2370,
       "Число бюллетеней, полученных участковыми комиссиями": 2404,
@@ -9061,8 +10690,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "402402366750",
+    "uikName": "УИК №787",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2330,
       "Число бюллетеней, полученных участковыми комиссиями": 2311,
@@ -9111,8 +10749,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "402402366751",
+    "uikName": "УИК №788",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 2116,
@@ -9161,8 +10808,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "402402366752",
+    "uikName": "УИК №789",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1677,
       "Число бюллетеней, полученных участковыми комиссиями": 1475,
@@ -9211,8 +10867,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "402402366753",
+    "uikName": "УИК №790",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1860,
       "Число бюллетеней, полученных участковыми комиссиями": 1891,
@@ -9261,8 +10926,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "402402366754",
+    "uikName": "УИК №791",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2758,
       "Число бюллетеней, полученных участковыми комиссиями": 2592,
@@ -9311,8 +10985,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "402402366755",
+    "uikName": "УИК №792",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 24,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -9361,8 +11044,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "402402366756",
+    "uikName": "УИК №793",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -9411,8 +11103,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "402402366757",
+    "uikName": "УИК №794",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1501,
       "Число бюллетеней, полученных участковыми комиссиями": 1524,
@@ -9461,8 +11162,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "402402366758",
+    "uikName": "УИК №795",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1475,
       "Число бюллетеней, полученных участковыми комиссиями": 1447,
@@ -9511,8 +11221,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "402402366759",
+    "uikName": "УИК №796",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 762,
       "Число бюллетеней, полученных участковыми комиссиями": 771,
@@ -9561,8 +11280,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "402402366760",
+    "uikName": "УИК №797",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 405,
@@ -9611,8 +11339,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "402402366761",
+    "uikName": "УИК №798",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 594,
       "Число бюллетеней, полученных участковыми комиссиями": 606,
@@ -9661,8 +11398,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "402402366762",
+    "uikName": "УИК №799",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 404,
@@ -9711,8 +11457,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "402402366763",
+    "uikName": "УИК №800",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 404,
@@ -9761,8 +11516,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "402402366764",
+    "uikName": "УИК №801",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -9811,8 +11575,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "402402366765",
+    "uikName": "УИК №802",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 548,
@@ -9861,8 +11634,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "402402366766",
+    "uikName": "УИК №803",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 244,
@@ -9911,8 +11693,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "402402366767",
+    "uikName": "УИК №804",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -9961,8 +11752,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "402402366768",
+    "uikName": "УИК №805",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 444,
@@ -10011,8 +11811,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "402402366769",
+    "uikName": "УИК №806",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 556,
       "Число бюллетеней, полученных участковыми комиссиями": 546,
@@ -10061,8 +11870,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "402402366770",
+    "uikName": "УИК №807",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -10111,8 +11929,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "402402366771",
+    "uikName": "УИК №808",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 484,
       "Число бюллетеней, полученных участковыми комиссиями": 485,
@@ -10161,8 +11988,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "402402366772",
+    "uikName": "УИК №809",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -10211,8 +12047,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "402402366773",
+    "uikName": "УИК №810",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 532,
       "Число бюллетеней, полученных участковыми комиссиями": 533,
@@ -10261,8 +12106,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "402402366774",
+    "uikName": "УИК №811",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 322,
@@ -10311,8 +12165,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "402402366775",
+    "uikName": "УИК №812",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1428,
       "Число бюллетеней, полученных участковыми комиссиями": 1405,
@@ -10361,8 +12224,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "402402366776",
+    "uikName": "УИК №813",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 441,
@@ -10411,8 +12283,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "402402366777",
+    "uikName": "УИК №814",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 452,
@@ -10461,8 +12342,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "402402366778",
+    "uikName": "УИК №815",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 494,
       "Число бюллетеней, полученных участковыми комиссиями": 503,
@@ -10511,8 +12401,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "402402366779",
+    "uikName": "УИК №816",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 952,
       "Число бюллетеней, полученных участковыми комиссиями": 913,
@@ -10561,8 +12460,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "402402366780",
+    "uikName": "УИК №817",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -10611,8 +12519,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "402402366781",
+    "uikName": "УИК №818",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 194,
@@ -10661,8 +12578,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "402402366782",
+    "uikName": "УИК №819",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 374,
@@ -10711,8 +12637,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "402402366783",
+    "uikName": "УИК №820",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 332,
       "Число бюллетеней, полученных участковыми комиссиями": 332,
@@ -10761,8 +12696,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "402402366784",
+    "uikName": "УИК №821",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 416,
       "Число бюллетеней, полученных участковыми комиссиями": 413,
@@ -10811,8 +12755,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "402402366785",
+    "uikName": "УИК №822",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 72,
@@ -10861,8 +12814,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "402402366786",
+    "uikName": "УИК №823",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1544,
       "Число бюллетеней, полученных участковыми комиссиями": 1552,
@@ -10911,8 +12873,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 824,
     "uikTvd": "402402366787",
+    "uikName": "УИК №824",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -10961,8 +12932,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 825,
     "uikTvd": "402402366788",
+    "uikName": "УИК №825",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -11011,8 +12991,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 826,
     "uikTvd": "402402366789",
+    "uikName": "УИК №826",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 612,
       "Число бюллетеней, полученных участковыми комиссиями": 616,
@@ -11061,8 +13050,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 827,
     "uikTvd": "402402366802",
+    "uikName": "УИК №827",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 706,
       "Число бюллетеней, полученных участковыми комиссиями": 721,
@@ -11111,8 +13109,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 828,
     "uikTvd": "402402366790",
+    "uikName": "УИК №828",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 671,
       "Число бюллетеней, полученных участковыми комиссиями": 634,
@@ -11161,8 +13168,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 829,
     "uikTvd": "402402366791",
+    "uikName": "УИК №829",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 426,
@@ -11211,8 +13227,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 830,
     "uikTvd": "402402366792",
+    "uikName": "УИК №830",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 417,
@@ -11261,8 +13286,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 831,
     "uikTvd": "402402366793",
+    "uikName": "УИК №831",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 643,
@@ -11311,8 +13345,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 832,
     "uikTvd": "402402366794",
+    "uikName": "УИК №832",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 460,
       "Число бюллетеней, полученных участковыми комиссиями": 474,
@@ -11361,8 +13404,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 833,
     "uikTvd": "402402366795",
+    "uikName": "УИК №833",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 434,
       "Число бюллетеней, полученных участковыми комиссиями": 513,
@@ -11411,8 +13463,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 834,
     "uikTvd": "402402366796",
+    "uikName": "УИК №834",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -11461,8 +13522,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 835,
     "uikTvd": "402402366797",
+    "uikName": "УИК №835",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 344,
@@ -11511,8 +13581,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 836,
     "uikTvd": "402402366798",
+    "uikName": "УИК №836",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1218,
       "Число бюллетеней, полученных участковыми комиссиями": 1232,
@@ -11561,8 +13640,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 837,
     "uikTvd": "402402366799",
+    "uikName": "УИК №837",
     "tikTvd": "202200066863",
     "tikName": "Дюртюлинская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -11611,8 +13699,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2370,
     "uikTvd": "402402866770",
+    "uikName": "УИК №2370",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 426,
@@ -11661,8 +13758,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2371,
     "uikTvd": "402402866771",
+    "uikName": "УИК №2371",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -11711,8 +13817,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2372,
     "uikTvd": "402402866772",
+    "uikName": "УИК №2372",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 239,
@@ -11761,8 +13876,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2373,
     "uikTvd": "402402866773",
+    "uikName": "УИК №2373",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 555,
@@ -11811,8 +13935,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2374,
     "uikTvd": "402402866774",
+    "uikName": "УИК №2374",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 244,
@@ -11861,8 +13994,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2375,
     "uikTvd": "402402866775",
+    "uikName": "УИК №2375",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -11911,8 +14053,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2376,
     "uikTvd": "402402866776",
+    "uikName": "УИК №2376",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 546,
@@ -11961,8 +14112,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2377,
     "uikTvd": "402402866777",
+    "uikName": "УИК №2377",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -12011,8 +14171,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2378,
     "uikTvd": "402402866778",
+    "uikName": "УИК №2378",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 409,
@@ -12061,8 +14230,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2379,
     "uikTvd": "402402866779",
+    "uikName": "УИК №2379",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 321,
@@ -12111,8 +14289,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2380,
     "uikTvd": "402402866780",
+    "uikName": "УИК №2380",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 97,
@@ -12161,8 +14348,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2381,
     "uikTvd": "402402866781",
+    "uikName": "УИК №2381",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 358,
@@ -12211,8 +14407,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2382,
     "uikTvd": "402402866782",
+    "uikName": "УИК №2382",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 211,
@@ -12261,8 +14466,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2383,
     "uikTvd": "402402866783",
+    "uikName": "УИК №2383",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 268,
@@ -12311,8 +14525,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2384,
     "uikTvd": "402402866784",
+    "uikName": "УИК №2384",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 418,
@@ -12361,8 +14584,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2385,
     "uikTvd": "402402866785",
+    "uikName": "УИК №2385",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 608,
@@ -12411,8 +14643,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2386,
     "uikTvd": "402402866786",
+    "uikName": "УИК №2386",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -12461,8 +14702,17 @@ export const duma_2003_uik_428_region_3_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2387,
     "uikTvd": "402402866787",
+    "uikName": "УИК №2387",
     "tikTvd": "202200066864",
     "tikName": "Илишевская",
+    "regionCode": "3",
+    "regionTvd": "100100095719",
+    "regionName": "Республика Башкортостан",
+    "district": {
+      "districtNumber": 6,
+      "oikTvd": "100100095723",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 110,

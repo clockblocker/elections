@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4917,
     "uikTvd": "423404775451",
+    "uikName": "УИК №4917",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1518,
       "Число бюллетеней, полученных участковыми комиссиями": 1465,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4918,
     "uikTvd": "423404775452",
+    "uikName": "УИК №4918",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 835,
       "Число бюллетеней, полученных участковыми комиссиями": 869,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4919,
     "uikTvd": "423404775453",
+    "uikName": "УИК №4919",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2244,
       "Число бюллетеней, полученных участковыми комиссиями": 2191,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4920,
     "uikTvd": "423404775454",
+    "uikName": "УИК №4920",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1527,
       "Число бюллетеней, полученных участковыми комиссиями": 1594,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4921,
     "uikTvd": "423404775455",
+    "uikName": "УИК №4921",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1706,
       "Число бюллетеней, полученных участковыми комиссиями": 1737,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4922,
     "uikTvd": "423404775456",
+    "uikName": "УИК №4922",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1355,
       "Число бюллетеней, полученных участковыми комиссиями": 1429,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4923,
     "uikTvd": "423404775457",
+    "uikName": "УИК №4923",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1024,
       "Число бюллетеней, полученных участковыми комиссиями": 1024,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4924,
     "uikTvd": "423404775458",
+    "uikName": "УИК №4924",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2045,
       "Число бюллетеней, полученных участковыми комиссиями": 1958,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4925,
     "uikTvd": "423404775459",
+    "uikName": "УИК №4925",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1015,
       "Число бюллетеней, полученных участковыми комиссиями": 1061,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4926,
     "uikTvd": "423404775460",
+    "uikName": "УИК №4926",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2335,
       "Число бюллетеней, полученных участковыми комиссиями": 2429,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4927,
     "uikTvd": "423404775461",
+    "uikName": "УИК №4927",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2178,
       "Число бюллетеней, полученных участковыми комиссиями": 2191,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4928,
     "uikTvd": "423404775462",
+    "uikName": "УИК №4928",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1700,
       "Число бюллетеней, полученных участковыми комиссиями": 1594,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4929,
     "uikTvd": "423404775463",
+    "uikName": "УИК №4929",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1286,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4930,
     "uikTvd": "423404775464",
+    "uikName": "УИК №4930",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1354,
       "Число бюллетеней, полученных участковыми комиссиями": 1402,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4931,
     "uikTvd": "423404775465",
+    "uikName": "УИК №4931",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2368,
       "Число бюллетеней, полученных участковыми комиссиями": 2432,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4932,
     "uikTvd": "423404775466",
+    "uikName": "УИК №4932",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1363,
       "Число бюллетеней, полученных участковыми комиссиями": 1429,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4933,
     "uikTvd": "423404775467",
+    "uikName": "УИК №4933",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2124,
       "Число бюллетеней, полученных участковыми комиссиями": 2184,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4934,
     "uikTvd": "423404775468",
+    "uikName": "УИК №4934",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2205,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4935,
     "uikTvd": "423404775469",
+    "uikName": "УИК №4935",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1781,
       "Число бюллетеней, полученных участковыми комиссиями": 1683,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4936,
     "uikTvd": "423404775470",
+    "uikName": "УИК №4936",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1784,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4937,
     "uikTvd": "423404775471",
+    "uikName": "УИК №4937",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1138,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4938,
     "uikTvd": "423404775472",
+    "uikName": "УИК №4938",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2025,
       "Число бюллетеней, полученных участковыми комиссиями": 1854,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4939,
     "uikTvd": "423404775473",
+    "uikName": "УИК №4939",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1142,
       "Число бюллетеней, полученных участковыми комиссиями": 1237,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4940,
     "uikTvd": "423404775474",
+    "uikName": "УИК №4940",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 884,
       "Число бюллетеней, полученных участковыми комиссиями": 922,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4941,
     "uikTvd": "423404775475",
+    "uikName": "УИК №4941",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1588,
       "Число бюллетеней, полученных участковыми комиссиями": 1687,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4942,
     "uikTvd": "423404775476",
+    "uikName": "УИК №4942",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1114,
       "Число бюллетеней, полученных участковыми комиссиями": 1131,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4943,
     "uikTvd": "423404775477",
+    "uikName": "УИК №4943",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2010,
       "Число бюллетеней, полученных участковыми комиссиями": 1993,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4944,
     "uikTvd": "423404775478",
+    "uikName": "УИК №4944",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1799,
       "Число бюллетеней, полученных участковыми комиссиями": 1886,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4945,
     "uikTvd": "423404775479",
+    "uikName": "УИК №4945",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 975,
       "Число бюллетеней, полученных участковыми комиссиями": 1012,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4946,
     "uikTvd": "423404775480",
+    "uikName": "УИК №4946",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 219,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4947,
     "uikTvd": "423404775481",
+    "uikName": "УИК №4947",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 618,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4948,
     "uikTvd": "423404775482",
+    "uikName": "УИК №4948",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2559,
       "Число бюллетеней, полученных участковыми комиссиями": 2459,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4949,
     "uikTvd": "423404775483",
+    "uikName": "УИК №4949",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2415,
       "Число бюллетеней, полученных участковыми комиссиями": 2361,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4950,
     "uikTvd": "423404775484",
+    "uikName": "УИК №4950",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2086,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4951,
     "uikTvd": "423404775485",
+    "uikName": "УИК №4951",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 841,
       "Число бюллетеней, полученных участковыми комиссиями": 853,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4952,
     "uikTvd": "423404775486",
+    "uikName": "УИК №4952",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1533,
       "Число бюллетеней, полученных участковыми комиссиями": 1491,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4953,
     "uikTvd": "423404775487",
+    "uikName": "УИК №4953",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1147,
       "Число бюллетеней, полученных участковыми комиссиями": 1234,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4954,
     "uikTvd": "423404775623",
+    "uikName": "УИК №4954",
     "tikTvd": "223200070398",
     "tikName": "Темрюкская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1617,
       "Число бюллетеней, полученных участковыми комиссиями": 1657,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4201,
     "uikTvd": "423404070481",
+    "uikName": "УИК  4201",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2519,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4202,
     "uikTvd": "423404070482",
+    "uikName": "УИК  4202",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2228,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4203,
     "uikTvd": "423404070483",
+    "uikName": "УИК  4203",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2068,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4204,
     "uikTvd": "423404070484",
+    "uikName": "УИК  4204",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1325,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4205,
     "uikTvd": "423404070485",
+    "uikName": "УИК  4205",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4206,
     "uikTvd": "423404070486",
+    "uikName": "УИК  4206",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1769,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4207,
     "uikTvd": "423404070487",
+    "uikName": "УИК  4207",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2714,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4208,
     "uikTvd": "423404070488",
+    "uikName": "УИК  4208",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2932,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4209,
     "uikTvd": "423404070489",
+    "uikName": "УИК  4209",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2376,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4210,
     "uikTvd": "423404070490",
+    "uikName": "УИК  4210",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2144,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4211,
     "uikTvd": "423404070491",
+    "uikName": "УИК  4211",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2721,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4212,
     "uikTvd": "423404070492",
+    "uikName": "УИК  4212",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4213,
     "uikTvd": "423404070493",
+    "uikName": "УИК  4213",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1553,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4214,
     "uikTvd": "423404070494",
+    "uikName": "УИК  4214",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1577,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4215,
     "uikTvd": "423404070495",
+    "uikName": "УИК  4215",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2816,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4216,
     "uikTvd": "423404070496",
+    "uikName": "УИК  4216",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2615,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4217,
     "uikTvd": "423404070497",
+    "uikName": "УИК  4217",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2246,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4218,
     "uikTvd": "423404070498",
+    "uikName": "УИК  4218",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2366,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4219,
     "uikTvd": "423404070499",
+    "uikName": "УИК  4219",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4220,
     "uikTvd": "423404070500",
+    "uikName": "УИК  4220",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1831,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4221,
     "uikTvd": "423404070501",
+    "uikName": "УИК  4221",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2351,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4222,
     "uikTvd": "423404070502",
+    "uikName": "УИК  4222",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4223,
     "uikTvd": "423404070503",
+    "uikName": "УИК  4223",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1285,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4224,
     "uikTvd": "423404070504",
+    "uikName": "УИК  4224",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2790,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4225,
     "uikTvd": "423404070505",
+    "uikName": "УИК  4225",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1529,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4226,
     "uikTvd": "423404070506",
+    "uikName": "УИК  4226",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1390,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4227,
     "uikTvd": "423404070507",
+    "uikName": "УИК  4227",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2666,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4228,
     "uikTvd": "423404070508",
+    "uikName": "УИК  4228",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4229,
     "uikTvd": "423404070509",
+    "uikName": "УИК  4229",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1153,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4230,
     "uikTvd": "423404070510",
+    "uikName": "УИК  4230",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2053,
       "Число бюллетеней, полученных участковыми комиссиями": 2060,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4231,
     "uikTvd": "423404070511",
+    "uikName": "УИК  4231",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4232,
     "uikTvd": "423404070512",
+    "uikName": "УИК  4232",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4233,
     "uikTvd": "423404070513",
+    "uikName": "УИК  4233",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 708,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4234,
     "uikTvd": "423404070514",
+    "uikName": "УИК  4234",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4235,
     "uikTvd": "423404070515",
+    "uikName": "УИК  4235",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2880,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4236,
     "uikTvd": "423404070516",
+    "uikName": "УИК  4236",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 657,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4237,
     "uikTvd": "423404070517",
+    "uikName": "УИК  4237",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 716,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4238,
     "uikTvd": "423404070518",
+    "uikName": "УИК  4238",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1327,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4239,
     "uikTvd": "423404070519",
+    "uikName": "УИК  4239",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2293,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4240,
     "uikTvd": "423404070520",
+    "uikName": "УИК  4240",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1840,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4241,
     "uikTvd": "423404070521",
+    "uikName": "УИК  4241",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1790,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4242,
     "uikTvd": "423404070522",
+    "uikName": "УИК  4242",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1972,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4243,
     "uikTvd": "423404070523",
+    "uikName": "УИК  4243",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1716,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4244,
     "uikTvd": "423404070524",
+    "uikName": "УИК  4244",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 742,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4245,
     "uikTvd": "423404070525",
+    "uikName": "УИК  4245",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4246,
     "uikTvd": "423404070526",
+    "uikName": "УИК  4246",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2642,
       "Число бюллетеней, полученных участковыми комиссиями": 2580,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4247,
     "uikTvd": "423404070527",
+    "uikName": "УИК  4247",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1265,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4248,
     "uikTvd": "423404070528",
+    "uikName": "УИК  4248",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1332,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4249,
     "uikTvd": "423404070529",
+    "uikName": "УИК  4249",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2058,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4250,
     "uikTvd": "423404070530",
+    "uikName": "УИК  4250",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 982,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4251,
     "uikTvd": "423404070531",
+    "uikName": "УИК  4251",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1169,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4252,
     "uikTvd": "423404070532",
+    "uikName": "УИК  4252",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1240,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4253,
     "uikTvd": "423404070533",
+    "uikName": "УИК  4253",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1347,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4254,
     "uikTvd": "423404070534",
+    "uikName": "УИК  4254",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1285,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4255,
     "uikTvd": "423404070535",
+    "uikName": "УИК  4255",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1447,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4256,
     "uikTvd": "423404070536",
+    "uikName": "УИК  4256",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1111,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4257,
     "uikTvd": "423404070537",
+    "uikName": "УИК  4257",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 641,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4258,
     "uikTvd": "423404070538",
+    "uikName": "УИК  4258",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4259,
     "uikTvd": "423404070539",
+    "uikName": "УИК  4259",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 496,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 4260,
     "uikTvd": "423404070540",
+    "uikName": "УИК  4260",
     "tikTvd": "223200070399",
     "tikName": "Славянская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 448,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2601,
     "uikTvd": "423402470482",
+    "uikName": "УИК  2601",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2648,
       "Число бюллетеней, полученных участковыми комиссиями": 2469,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2602,
     "uikTvd": "423402470483",
+    "uikName": "УИК  2602",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1809,
       "Число бюллетеней, полученных участковыми комиссиями": 1755,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2603,
     "uikTvd": "423402470484",
+    "uikName": "УИК  2603",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2450,
       "Число бюллетеней, полученных участковыми комиссиями": 2347,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2604,
     "uikTvd": "423402470485",
+    "uikName": "УИК  2604",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2271,
       "Число бюллетеней, полученных участковыми комиссиями": 2158,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2605,
     "uikTvd": "423402470486",
+    "uikName": "УИК  2605",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2139,
       "Число бюллетеней, полученных участковыми комиссиями": 2014,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2606,
     "uikTvd": "423402470487",
+    "uikName": "УИК  2606",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 273,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2607,
     "uikTvd": "423402470488",
+    "uikName": "УИК  2607",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2972,
       "Число бюллетеней, полученных участковыми комиссиями": 2822,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2608,
     "uikTvd": "423402470489",
+    "uikName": "УИК  2608",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1424,
       "Число бюллетеней, полученных участковыми комиссиями": 1343,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2609,
     "uikTvd": "423402470490",
+    "uikName": "УИК  2609",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2083,
       "Число бюллетеней, полученных участковыми комиссиями": 1983,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2610,
     "uikTvd": "423402470491",
+    "uikName": "УИК  2610",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2798,
       "Число бюллетеней, полученных участковыми комиссиями": 2642,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2611,
     "uikTvd": "423402470492",
+    "uikName": "УИК  2611",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2596,
       "Число бюллетеней, полученных участковыми комиссиями": 2433,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2612,
     "uikTvd": "423402470493",
+    "uikName": "УИК  2612",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2482,
       "Число бюллетеней, полученных участковыми комиссиями": 2363,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2613,
     "uikTvd": "423402470494",
+    "uikName": "УИК  2613",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2659,
       "Число бюллетеней, полученных участковыми комиссиями": 2543,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2614,
     "uikTvd": "423402470504",
+    "uikName": "УИК  2614",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2887,
       "Число бюллетеней, полученных участковыми комиссиями": 2714,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2615,
     "uikTvd": "423402470506",
+    "uikName": "УИК  2615",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1921,
       "Число бюллетеней, полученных участковыми комиссиями": 1809,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2616,
     "uikTvd": "423402470507",
+    "uikName": "УИК  2616",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2734,
       "Число бюллетеней, полученных участковыми комиссиями": 2601,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2617,
     "uikTvd": "423402470508",
+    "uikName": "УИК  2617",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2060,
       "Число бюллетеней, полученных участковыми комиссиями": 1909,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2618,
     "uikTvd": "423402470509",
+    "uikName": "УИК  2618",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1734,
       "Число бюллетеней, полученных участковыми комиссиями": 1646,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2619,
     "uikTvd": "423402470510",
+    "uikName": "УИК  2619",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2846,
       "Число бюллетеней, полученных участковыми комиссиями": 2612,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2620,
     "uikTvd": "423402470511",
+    "uikName": "УИК  2620",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2147,
       "Число бюллетеней, полученных участковыми комиссиями": 2048,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2621,
     "uikTvd": "423402470512",
+    "uikName": "УИК  2621",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2695,
       "Число бюллетеней, полученных участковыми комиссиями": 2657,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2622,
     "uikTvd": "423402470513",
+    "uikName": "УИК  2622",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2132,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2623,
     "uikTvd": "423402470514",
+    "uikName": "УИК  2623",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2624,
     "uikTvd": "423402470515",
+    "uikName": "УИК  2624",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1662,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2625,
     "uikTvd": "423402470516",
+    "uikName": "УИК  2625",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2080,
       "Число бюллетеней, полученных участковыми комиссиями": 1995,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2626,
     "uikTvd": "423402470517",
+    "uikName": "УИК  2626",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 661,
       "Число бюллетеней, полученных участковыми комиссиями": 632,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2627,
     "uikTvd": "423402470518",
+    "uikName": "УИК  2627",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 594,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2628,
     "uikTvd": "423402470519",
+    "uikName": "УИК  2628",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1103,
       "Число бюллетеней, полученных участковыми комиссиями": 1048,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2629,
     "uikTvd": "423402470520",
+    "uikName": "УИК  2629",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2630,
     "uikTvd": "423402470521",
+    "uikName": "УИК  2630",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 714,
       "Число бюллетеней, полученных участковыми комиссиями": 707,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2631,
     "uikTvd": "423402470522",
+    "uikName": "УИК  2631",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2632,
     "uikTvd": "423402470523",
+    "uikName": "УИК  2632",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 2069,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2633,
     "uikTvd": "423402470524",
+    "uikName": "УИК  2633",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2634,
     "uikTvd": "423402470525",
+    "uikName": "УИК  2634",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 196,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2635,
     "uikTvd": "423402470526",
+    "uikName": "УИК  2635",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 521,
       "Число бюллетеней, полученных участковыми комиссиями": 509,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2636,
     "uikTvd": "423402470527",
+    "uikName": "УИК  2636",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2419,
       "Число бюллетеней, полученных участковыми комиссиями": 2302,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2637,
     "uikTvd": "423402470528",
+    "uikName": "УИК  2637",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2329,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2638,
     "uikTvd": "423402470563",
+    "uikName": "УИК  2638",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 1941,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2639,
     "uikTvd": "423402470564",
+    "uikName": "УИК  2639",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2691,
       "Число бюллетеней, полученных участковыми комиссиями": 2535,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2640,
     "uikTvd": "423402470565",
+    "uikName": "УИК  2640",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 462,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2641,
     "uikTvd": "423402470566",
+    "uikName": "УИК  2641",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 828,
       "Число бюллетеней, полученных участковыми комиссиями": 814,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2642,
     "uikTvd": "423402470567",
+    "uikName": "УИК  2642",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2303,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2643,
     "uikTvd": "423402470542",
+    "uikName": "УИК  2643",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1108,
       "Число бюллетеней, полученных участковыми комиссиями": 1059,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2644,
     "uikTvd": "423402470543",
+    "uikName": "УИК  2644",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 209,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2645,
     "uikTvd": "423402470544",
+    "uikName": "УИК  2645",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2646,
     "uikTvd": "423402470545",
+    "uikName": "УИК  2646",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1778,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2647,
     "uikTvd": "423402470546",
+    "uikName": "УИК  2647",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 539,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2648,
     "uikTvd": "423402470547",
+    "uikName": "УИК  2648",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2028,
       "Число бюллетеней, полученных участковыми комиссиями": 1949,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2649,
     "uikTvd": "423402470548",
+    "uikName": "УИК  2649",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2643,
       "Число бюллетеней, полученных участковыми комиссиями": 2528,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2650,
     "uikTvd": "423402470549",
+    "uikName": "УИК  2650",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1423,
       "Число бюллетеней, полученных участковыми комиссиями": 1419,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2651,
     "uikTvd": "423402470550",
+    "uikName": "УИК  2651",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1472,
       "Число бюллетеней, полученных участковыми комиссиями": 1421,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2652,
     "uikTvd": "423402470551",
+    "uikName": "УИК  2652",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2036,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2653,
     "uikTvd": "423402470552",
+    "uikName": "УИК  2653",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2892,
       "Число бюллетеней, полученных участковыми комиссиями": 2789,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2654,
     "uikTvd": "423402470553",
+    "uikName": "УИК  2654",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2655,
     "uikTvd": "423402470554",
+    "uikName": "УИК  2655",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 281,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2656,
     "uikTvd": "423402470555",
+    "uikName": "УИК  2656",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 644,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2657,
     "uikTvd": "423402470556",
+    "uikName": "УИК  2657",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 382,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2658,
     "uikTvd": "423402470557",
+    "uikName": "УИК  2658",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 474,
       "Число бюллетеней, полученных участковыми комиссиями": 464,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2659,
     "uikTvd": "423402470558",
+    "uikName": "УИК  2659",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 660,
       "Число бюллетеней, полученных участковыми комиссиями": 652,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2660,
     "uikTvd": "423402470559",
+    "uikName": "УИК  2660",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 543,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2661,
     "uikTvd": "423402470560",
+    "uikName": "УИК  2661",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2380,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2662,
     "uikTvd": "423402470561",
+    "uikName": "УИК  2662",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2649,
       "Число бюллетеней, полученных участковыми комиссиями": 2534,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 2663,
     "uikTvd": "423402470562",
+    "uikName": "УИК  2663",
     "tikTvd": "223200070400",
     "tikName": "Крымская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1168,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "423402670693",
+    "uikName": "УИК №201",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2464,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "423402670694",
+    "uikName": "УИК №202",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3784,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "423402670695",
+    "uikName": "УИК №203",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3085,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "423402670696",
+    "uikName": "УИК №204",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2750,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "423402670697",
+    "uikName": "УИК №205",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1928,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "423402670698",
+    "uikName": "УИК №206",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1270,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "423402670699",
+    "uikName": "УИК №207",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2443,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "423402670700",
+    "uikName": "УИК №208",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1394,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "423402670701",
+    "uikName": "УИК №209",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1681,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "423402670702",
+    "uikName": "УИК №210",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2698,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "423402670703",
+    "uikName": "УИК №211",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1999,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "423402670704",
+    "uikName": "УИК №212",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2423,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "423402670705",
+    "uikName": "УИК №213",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1429,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "423402670706",
+    "uikName": "УИК №214",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2590,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "423402670707",
+    "uikName": "УИК №215",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1901,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "423402670708",
+    "uikName": "УИК №216",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "423402670709",
+    "uikName": "УИК №217",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2433,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "423402670710",
+    "uikName": "УИК №218",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 344,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "423402670711",
+    "uikName": "УИК №219",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "423402670712",
+    "uikName": "УИК №220",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1345,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "423402670713",
+    "uikName": "УИК №221",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2556,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "423402670714",
+    "uikName": "УИК №222",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1861,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "423402670715",
+    "uikName": "УИК №223",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1695,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "423402670716",
+    "uikName": "УИК №224",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 927,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "423402670717",
+    "uikName": "УИК №225",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1656,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "423402670718",
+    "uikName": "УИК №226",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1424,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "423402670719",
+    "uikName": "УИК №227",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "423402670720",
+    "uikName": "УИК №228",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "423402670721",
+    "uikName": "УИК №229",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 714,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "423402670722",
+    "uikName": "УИК №230",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1762,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "423402670723",
+    "uikName": "УИК №231",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2727,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "423402670724",
+    "uikName": "УИК №232",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2267,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "423402670725",
+    "uikName": "УИК №233",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2348,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "423402670726",
+    "uikName": "УИК №234",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1124,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "423402670727",
+    "uikName": "УИК №235",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "423402670728",
+    "uikName": "УИК №236",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2245,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "423402670729",
+    "uikName": "УИК №237",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 808,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "423402670730",
+    "uikName": "УИК №238",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 655,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "423402670731",
+    "uikName": "УИК №239",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2719,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "423402670732",
+    "uikName": "УИК №240",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1997,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "423402670733",
+    "uikName": "УИК №241",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2479,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "423402670734",
+    "uikName": "УИК №242",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1538,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "423402670735",
+    "uikName": "УИК №243",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 388,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "423402670736",
+    "uikName": "УИК №244",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1445,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "423402670737",
+    "uikName": "УИК №245",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1022,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "423402670738",
+    "uikName": "УИК №246",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 630,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "423402670739",
+    "uikName": "УИК №247",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "423402670740",
+    "uikName": "УИК №248",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "423402670741",
+    "uikName": "УИК №249",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2617,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "423402670742",
+    "uikName": "УИК №250",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1175,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "423402670743",
+    "uikName": "УИК №251",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 506,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "423402670744",
+    "uikName": "УИК №252",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2039,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "423402670745",
+    "uikName": "УИК №253",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 707,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "423402670746",
+    "uikName": "УИК №254",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 721,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "423402670747",
+    "uikName": "УИК №255",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 667,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "423402670748",
+    "uikName": "УИК №256",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "423402670749",
+    "uikName": "УИК №257",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1199,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "423402670750",
+    "uikName": "УИК №258",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2477,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "423402670751",
+    "uikName": "УИК №259",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1895,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "423402670752",
+    "uikName": "УИК №260",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1399,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "423402670753",
+    "uikName": "УИК №261",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1671,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "423402670754",
+    "uikName": "УИК №262",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 584,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "423402670755",
+    "uikName": "УИК №263",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1472,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "423402670756",
+    "uikName": "УИК №264",
     "tikTvd": "223200070401",
     "tikName": "Анапская курортная",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1297,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "423400170422",
+    "uikName": "УИК  101",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2964,
       "Число бюллетеней, полученных участковыми комиссиями": 2664,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "423400170477",
+    "uikName": "УИК  102",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 2371,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "423400170478",
+    "uikName": "УИК  103",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2127,
       "Число бюллетеней, полученных участковыми комиссиями": 1884,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "423400170479",
+    "uikName": "УИК  104",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1556,
       "Число бюллетеней, полученных участковыми комиссиями": 1407,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "423400170480",
+    "uikName": "УИК  105",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2382,
       "Число бюллетеней, полученных участковыми комиссиями": 2157,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "423400170481",
+    "uikName": "УИК  106",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2877,
       "Число бюллетеней, полученных участковыми комиссиями": 2648,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "423400170482",
+    "uikName": "УИК  107",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2830,
       "Число бюллетеней, полученных участковыми комиссиями": 2542,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "423400170483",
+    "uikName": "УИК  108",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2917,
       "Число бюллетеней, полученных участковыми комиссиями": 2624,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "423400170484",
+    "uikName": "УИК  109",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2355,
       "Число бюллетеней, полученных участковыми комиссиями": 2128,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "423400170485",
+    "uikName": "УИК  110",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2871,
       "Число бюллетеней, полученных участковыми комиссиями": 2637,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "423400170486",
+    "uikName": "УИК  111",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 326,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "423400170487",
+    "uikName": "УИК  112",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 311,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "423400170488",
+    "uikName": "УИК  113",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2733,
       "Число бюллетеней, полученных участковыми комиссиями": 2439,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "423400170489",
+    "uikName": "УИК  114",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 749,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "423400170490",
+    "uikName": "УИК  115",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 478,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "423400170491",
+    "uikName": "УИК  116",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 860,
       "Число бюллетеней, полученных участковыми комиссиями": 776,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "423400170492",
+    "uikName": "УИК  117",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2593,
       "Число бюллетеней, полученных участковыми комиссиями": 2276,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "423400170493",
+    "uikName": "УИК  118",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2676,
       "Число бюллетеней, полученных участковыми комиссиями": 2372,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "423400170494",
+    "uikName": "УИК  119",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2372,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "423400170495",
+    "uikName": "УИК  120",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1860,
       "Число бюллетеней, полученных участковыми комиссиями": 1685,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "423400170496",
+    "uikName": "УИК  121",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2634,
       "Число бюллетеней, полученных участковыми комиссиями": 2378,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "423400170497",
+    "uikName": "УИК  122",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2866,
       "Число бюллетеней, полученных участковыми комиссиями": 2646,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "423400170498",
+    "uikName": "УИК  123",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1712,
       "Число бюллетеней, полученных участковыми комиссиями": 1567,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "423400170499",
+    "uikName": "УИК  124",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1843,
       "Число бюллетеней, полученных участковыми комиссиями": 1746,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_23_part_007 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "423400170500",
+    "uikName": "УИК  125",
     "tikTvd": "223200070402",
     "tikName": "Абинская",
+    "regionCode": "23",
+    "regionTvd": "100100095675",
+    "regionName": "Краснодарский край",
+    "district": {
+      "districtNumber": 44,
+      "oikTvd": "100100095681",
+      "oikName": "Крымский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2154,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "486402066674",
+    "uikName": "УИК №551",
     "tikTvd": "286200066737",
     "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2728,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "486402066675",
+    "uikName": "УИК №552",
     "tikTvd": "286200066737",
     "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "486402066676",
+    "uikName": "УИК №553",
     "tikTvd": "286200066737",
     "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1941,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "486402066677",
+    "uikName": "УИК №554",
     "tikTvd": "286200066737",
     "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 790,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "486402166695",
+    "uikName": "УИК №499",
     "tikTvd": "286200066738",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2338,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "486402166696",
+    "uikName": "УИК №500",
     "tikTvd": "286200066738",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2074,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "486402166697",
+    "uikName": "УИК №501",
     "tikTvd": "286200066738",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2902,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "486402166698",
+    "uikName": "УИК №502",
     "tikTvd": "286200066738",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2167,
       "Число бюллетеней, полученных участковыми комиссиями": 2009,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "486402166699",
+    "uikName": "УИК №503",
     "tikTvd": "286200066738",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1952,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "486402166700",
+    "uikName": "УИК №504",
     "tikTvd": "286200066738",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2169,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "486402166701",
+    "uikName": "УИК №505",
     "tikTvd": "286200066738",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1985,
       "Число бюллетеней, полученных участковыми комиссиями": 1784,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "486402166702",
+    "uikName": "УИК №506",
     "tikTvd": "286200066738",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2206,
       "Число бюллетеней, полученных участковыми комиссиями": 2063,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "486402166703",
+    "uikName": "УИК №507",
     "tikTvd": "286200066738",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "486402166704",
+    "uikName": "УИК №508",
     "tikTvd": "286200066738",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2420,
       "Число бюллетеней, полученных участковыми комиссиями": 2306,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "486402166705",
+    "uikName": "УИК №509",
     "tikTvd": "286200066738",
     "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 962,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "486401666732",
+    "uikName": "УИК №239",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2760,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "486401666733",
+    "uikName": "УИК №240",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "486401666734",
+    "uikName": "УИК №241",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1294,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "486401666735",
+    "uikName": "УИК №242",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1321,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "486401666736",
+    "uikName": "УИК №243",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1241,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "486401666737",
+    "uikName": "УИК №244",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1123,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "486401666738",
+    "uikName": "УИК №245",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "486401666739",
+    "uikName": "УИК №246",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1402,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "486401666740",
+    "uikName": "УИК №247",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1315,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "486401666741",
+    "uikName": "УИК №248",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1618,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "486401666742",
+    "uikName": "УИК №249",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1951,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "486401666743",
+    "uikName": "УИК №250",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2018,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "486401666744",
+    "uikName": "УИК №251",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2739,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "486401666745",
+    "uikName": "УИК №252",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1823,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "486401666746",
+    "uikName": "УИК №253",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "486401666747",
+    "uikName": "УИК №254",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1549,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "486401666748",
+    "uikName": "УИК №255",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "486401666749",
+    "uikName": "УИК №256",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 953,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "486401666750",
+    "uikName": "УИК №257",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2718,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "486401666751",
+    "uikName": "УИК №258",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2038,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "486401666752",
+    "uikName": "УИК №259",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "486401666753",
+    "uikName": "УИК №260",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1305,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "486401666754",
+    "uikName": "УИК №261",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1886,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "486401666755",
+    "uikName": "УИК №262",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1166,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "486401666756",
+    "uikName": "УИК №263",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2206,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "486401666757",
+    "uikName": "УИК №264",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1866,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "486401666758",
+    "uikName": "УИК №265",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1747,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "486401666759",
+    "uikName": "УИК №266",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1691,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "486401666760",
+    "uikName": "УИК №267",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2626,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "486401666761",
+    "uikName": "УИК №268",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2680,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "486401666762",
+    "uikName": "УИК №269",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1588,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "486401666763",
+    "uikName": "УИК №270",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "486401666764",
+    "uikName": "УИК №271",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 506,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "486401666765",
+    "uikName": "УИК №272",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "486401666766",
+    "uikName": "УИК №273",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "486401666767",
+    "uikName": "УИК №274",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "486401666768",
+    "uikName": "УИК №275",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1654,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "486401666769",
+    "uikName": "УИК №276",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_86_part_003 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "486401666770",
+    "uikName": "УИК №277",
     "tikTvd": "386300267050",
     "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 220,

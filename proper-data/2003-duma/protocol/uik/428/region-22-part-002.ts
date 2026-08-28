@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "422400266761",
+    "uikName": "УИК №567",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 222,
@@ -62,8 +71,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "422400266762",
+    "uikName": "УИК №568",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -113,8 +131,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "422400266763",
+    "uikName": "УИК №569",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 261,
@@ -164,8 +191,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "422400266764",
+    "uikName": "УИК №570",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 293,
@@ -215,8 +251,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "422400266765",
+    "uikName": "УИК №571",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -266,8 +311,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "422400266766",
+    "uikName": "УИК №572",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 261,
@@ -317,8 +371,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "422400266767",
+    "uikName": "УИК №573",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 877,
       "Число бюллетеней, полученных участковыми комиссиями": 787,
@@ -368,8 +431,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "422400266768",
+    "uikName": "УИК №574",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 881,
       "Число бюллетеней, полученных участковыми комиссиями": 792,
@@ -419,8 +491,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "422400266769",
+    "uikName": "УИК №575",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 64,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -470,8 +551,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "422400266770",
+    "uikName": "УИК №576",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 432,
@@ -521,8 +611,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "422400266771",
+    "uikName": "УИК №577",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 353,
@@ -572,8 +671,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "422401066757",
+    "uikName": "УИК №267",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2309,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -623,8 +731,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "422401066758",
+    "uikName": "УИК №268",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2217,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -674,8 +791,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "422401066759",
+    "uikName": "УИК №269",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1835,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -725,8 +851,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "422401066760",
+    "uikName": "УИК №270",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 986,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -776,8 +911,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "422401066761",
+    "uikName": "УИК №271",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1106,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -827,8 +971,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "422401066762",
+    "uikName": "УИК №272",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -878,8 +1031,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "422401066763",
+    "uikName": "УИК №273",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2112,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -929,8 +1091,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "422401066764",
+    "uikName": "УИК №274",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2134,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -980,8 +1151,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "422401066765",
+    "uikName": "УИК №275",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1703,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -1031,8 +1211,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "422401066766",
+    "uikName": "УИК №276",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1551,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -1082,8 +1271,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "422401066767",
+    "uikName": "УИК №277",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1552,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1133,8 +1331,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "422401066768",
+    "uikName": "УИК №278",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1165,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -1184,8 +1391,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "422401066769",
+    "uikName": "УИК №279",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2270,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -1235,8 +1451,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "422401066770",
+    "uikName": "УИК №280",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1144,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -1286,8 +1511,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "422401066771",
+    "uikName": "УИК №281",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1429,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -1337,8 +1571,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "422401066772",
+    "uikName": "УИК №282",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1709,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -1388,8 +1631,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "422401066773",
+    "uikName": "УИК №283",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2209,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -1439,8 +1691,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "422401066774",
+    "uikName": "УИК №284",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1868,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -1490,8 +1751,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "422401066775",
+    "uikName": "УИК №285",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2378,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -1541,8 +1811,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "422401066776",
+    "uikName": "УИК №286",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1963,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -1592,8 +1871,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "422401066777",
+    "uikName": "УИК №287",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1238,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -1643,8 +1931,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "422401066778",
+    "uikName": "УИК №288",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1363,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1694,8 +1991,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "422401066779",
+    "uikName": "УИК №289",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -1745,8 +2051,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "422401066780",
+    "uikName": "УИК №290",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2227,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -1796,8 +2111,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "422401066781",
+    "uikName": "УИК №291",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1833,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -1847,8 +2171,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "422401066782",
+    "uikName": "УИК №292",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -1898,8 +2231,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "422401066783",
+    "uikName": "УИК №293",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -1949,8 +2291,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "422401066784",
+    "uikName": "УИК №294",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1786,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -2000,8 +2351,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "422401066785",
+    "uikName": "УИК №295",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1000,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -2051,8 +2411,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "422401066786",
+    "uikName": "УИК №296",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1777,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -2102,8 +2471,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "422401066787",
+    "uikName": "УИК №297",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2488,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -2153,8 +2531,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "422401066788",
+    "uikName": "УИК №298",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1411,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -2204,8 +2591,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "422401066789",
+    "uikName": "УИК №299",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1641,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -2255,8 +2651,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "422401066790",
+    "uikName": "УИК №300",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 867,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -2306,8 +2711,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "422401066791",
+    "uikName": "УИК №301",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1547,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -2357,8 +2771,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "422401066792",
+    "uikName": "УИК №302",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1673,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2408,8 +2831,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "422401066793",
+    "uikName": "УИК №303",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1173,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -2459,8 +2891,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "422401066794",
+    "uikName": "УИК №304",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1233,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -2510,8 +2951,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "422401066795",
+    "uikName": "УИК №305",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1716,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -2561,8 +3011,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "422401066796",
+    "uikName": "УИК №306",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1465,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -2612,8 +3071,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "422401066797",
+    "uikName": "УИК №307",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1540,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -2663,8 +3131,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "422401066798",
+    "uikName": "УИК №308",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1796,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -2714,8 +3191,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "422401066799",
+    "uikName": "УИК №309",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1875,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -2765,8 +3251,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "422401066800",
+    "uikName": "УИК №310",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1700,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -2816,8 +3311,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "422401066801",
+    "uikName": "УИК №311",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1561,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -2867,8 +3371,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "422401066802",
+    "uikName": "УИК №312",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1330,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -2918,8 +3431,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "422401066803",
+    "uikName": "УИК №313",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1259,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -2969,8 +3491,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "422401066804",
+    "uikName": "УИК №314",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2634,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -3020,8 +3551,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "422401066805",
+    "uikName": "УИК №315",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2777,
       "Число бюллетеней, полученных участковыми комиссиями": 2490,
@@ -3071,8 +3611,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "422401066806",
+    "uikName": "УИК №316",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2483,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -3122,8 +3671,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "422401066807",
+    "uikName": "УИК №317",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1918,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -3173,8 +3731,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "422401066808",
+    "uikName": "УИК №318",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1309,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -3224,8 +3791,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "422401066809",
+    "uikName": "УИК №319",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2487,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -3275,8 +3851,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "422401066810",
+    "uikName": "УИК №320",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -3326,8 +3911,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "422401166738",
+    "uikName": "УИК №321",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1039,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -3377,8 +3971,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "422401166739",
+    "uikName": "УИК №322",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 994,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -3428,8 +4031,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "422401166740",
+    "uikName": "УИК №323",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1471,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3479,8 +4091,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "422401166741",
+    "uikName": "УИК №324",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1529,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -3530,8 +4151,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "422401166742",
+    "uikName": "УИК №325",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 958,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -3581,8 +4211,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "422401166743",
+    "uikName": "УИК №326",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1278,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -3632,8 +4271,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "422401166744",
+    "uikName": "УИК №327",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2664,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -3683,8 +4331,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "422401166745",
+    "uikName": "УИК №328",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2768,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -3734,8 +4391,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "422401166746",
+    "uikName": "УИК №329",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2514,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -3785,8 +4451,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "422401166747",
+    "uikName": "УИК №330",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1766,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -3836,8 +4511,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "422401166748",
+    "uikName": "УИК №331",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1925,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -3887,8 +4571,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "422401166749",
+    "uikName": "УИК №332",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -3938,8 +4631,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "422401166750",
+    "uikName": "УИК №333",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1178,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -3989,8 +4691,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "422401166751",
+    "uikName": "УИК №334",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1575,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4040,8 +4751,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "422401166752",
+    "uikName": "УИК №335",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1707,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -4091,8 +4811,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "422401166753",
+    "uikName": "УИК №336",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1513,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -4142,8 +4871,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "422401166754",
+    "uikName": "УИК №337",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2253,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -4193,8 +4931,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "422401166755",
+    "uikName": "УИК №338",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1715,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -4244,8 +4991,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "422401166756",
+    "uikName": "УИК №339",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1369,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -4295,8 +5051,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "422401166757",
+    "uikName": "УИК №340",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2474,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -4346,8 +5111,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "422401166758",
+    "uikName": "УИК №341",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1530,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -4397,8 +5171,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "422401166759",
+    "uikName": "УИК №342",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1557,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -4448,8 +5231,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "422401166760",
+    "uikName": "УИК №343",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2589,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -4499,8 +5291,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "422401166761",
+    "uikName": "УИК №344",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -4550,8 +5351,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "422401166762",
+    "uikName": "УИК №345",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2086,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -4601,8 +5411,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "422401166763",
+    "uikName": "УИК №346",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1294,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -4652,8 +5471,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "422401166764",
+    "uikName": "УИК №347",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2759,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -4703,8 +5531,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "422401166765",
+    "uikName": "УИК №348",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2296,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4754,8 +5591,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "422401166766",
+    "uikName": "УИК №349",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1721,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -4805,8 +5651,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "422401166767",
+    "uikName": "УИК №350",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2366,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -4856,8 +5711,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "422401166768",
+    "uikName": "УИК №351",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2295,
       "Число бюллетеней, полученных участковыми комиссиями": 2060,
@@ -4907,8 +5771,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "422401166769",
+    "uikName": "УИК №352",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2614,
       "Число бюллетеней, полученных участковыми комиссиями": 2340,
@@ -4958,8 +5831,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "422401166770",
+    "uikName": "УИК №353",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2643,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -5009,8 +5891,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "422401166771",
+    "uikName": "УИК №354",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2278,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -5060,8 +5951,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "422401166772",
+    "uikName": "УИК №355",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2226,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5111,8 +6011,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "422401166773",
+    "uikName": "УИК №356",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1582,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -5162,8 +6071,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "422401166774",
+    "uikName": "УИК №357",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2552,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5213,8 +6131,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "422401166775",
+    "uikName": "УИК №358",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1672,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -5264,8 +6191,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "422401166776",
+    "uikName": "УИК №359",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2676,
       "Число бюллетеней, полученных участковыми комиссиями": 2390,
@@ -5315,8 +6251,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "422401166777",
+    "uikName": "УИК №360",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2649,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -5366,8 +6311,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "422401166778",
+    "uikName": "УИК №361",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2714,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -5417,8 +6371,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "422401166779",
+    "uikName": "УИК №362",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2696,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -5468,8 +6431,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "422401166780",
+    "uikName": "УИК №363",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2686,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5519,8 +6491,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "422401166781",
+    "uikName": "УИК №364",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1882,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5570,8 +6551,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "422401166782",
+    "uikName": "УИК №365",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1827,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -5621,8 +6611,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "422401166783",
+    "uikName": "УИК №366",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1845,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -5672,8 +6671,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "422401166784",
+    "uikName": "УИК №367",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1869,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5723,8 +6731,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "422401266662",
+    "uikName": "УИК  594",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 705,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -5774,8 +6791,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "422401266663",
+    "uikName": "УИК  595",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 788,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -5825,8 +6851,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "422401266664",
+    "uikName": "УИК  596",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -5876,8 +6911,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "422401266665",
+    "uikName": "УИК  597",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2357,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5927,8 +6971,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "422401266666",
+    "uikName": "УИК  598",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -5978,8 +7031,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "422401266667",
+    "uikName": "УИК  599",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1247,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -6029,8 +7091,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "422401266668",
+    "uikName": "УИК  600",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 799,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -6080,8 +7151,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "422401266669",
+    "uikName": "УИК  601",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -6131,8 +7211,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "422401266670",
+    "uikName": "УИК  602",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -6182,8 +7271,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "422401266671",
+    "uikName": "УИК  603",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 754,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -6233,8 +7331,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "422401266672",
+    "uikName": "УИК  604",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1617,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -6284,8 +7391,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "422401266673",
+    "uikName": "УИК  605",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -6335,8 +7451,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "422401266674",
+    "uikName": "УИК  606",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1819,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -6386,8 +7511,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "422401266675",
+    "uikName": "УИК  607",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6437,8 +7571,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "422401266676",
+    "uikName": "УИК  608",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1544,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -6488,8 +7631,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "422401266677",
+    "uikName": "УИК  609",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -6539,8 +7691,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "422401266678",
+    "uikName": "УИК  610",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -6590,8 +7751,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "422401266679",
+    "uikName": "УИК  611",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1168,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -6641,8 +7811,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "422401266680",
+    "uikName": "УИК  612",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -6692,8 +7871,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "422401266681",
+    "uikName": "УИК  613",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 430,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -6743,8 +7931,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "422401266682",
+    "uikName": "УИК  614",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -6794,8 +7991,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "422401266683",
+    "uikName": "УИК  615",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2010,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -6845,8 +8051,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "422401266684",
+    "uikName": "УИК  616",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2101,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -6896,8 +8111,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "422401266685",
+    "uikName": "УИК  617",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2409,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -6947,8 +8171,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "422401266686",
+    "uikName": "УИК  618",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -6998,8 +8231,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "422401266687",
+    "uikName": "УИК  619",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1055,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -7049,8 +8291,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "422401266688",
+    "uikName": "УИК  620",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -7100,8 +8351,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "422401266689",
+    "uikName": "УИК  621",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -7151,8 +8411,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "422401266690",
+    "uikName": "УИК  622",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -7202,8 +8471,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "422401266691",
+    "uikName": "УИК  623",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -7253,8 +8531,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "422401266692",
+    "uikName": "УИК  624",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 924,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -7304,8 +8591,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "422401266694",
+    "uikName": "УИК  625",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1101,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -7355,8 +8651,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "422401266693",
+    "uikName": "УИК  626",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 113,
@@ -7406,8 +8711,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "422401866697",
+    "uikName": "УИК №713",
     "tikTvd": "322300266684",
     "tikName": "Ельцовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2652,
       "Число бюллетеней, полученных участковыми комиссиями": 2669,
@@ -7457,8 +8771,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "422401866698",
+    "uikName": "УИК №714",
     "tikTvd": "322300266684",
     "tikName": "Ельцовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1362,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7508,8 +8831,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "422401866699",
+    "uikName": "УИК №715",
     "tikTvd": "322300266684",
     "tikName": "Ельцовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -7559,8 +8891,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "422401866700",
+    "uikName": "УИК №716",
     "tikTvd": "322300266684",
     "tikName": "Ельцовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 441,
       "Число бюллетеней, полученных участковыми комиссиями": 443,
@@ -7610,8 +8951,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "422401866701",
+    "uikName": "УИК №717",
     "tikTvd": "322300266684",
     "tikName": "Ельцовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 799,
       "Число бюллетеней, полученных участковыми комиссиями": 782,
@@ -7661,8 +9011,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "422401866702",
+    "uikName": "УИК №718",
     "tikTvd": "322300266684",
     "tikName": "Ельцовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 154,
@@ -7712,8 +9071,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "422401866703",
+    "uikName": "УИК №719",
     "tikTvd": "322300266684",
     "tikName": "Ельцовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -7763,8 +9131,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "422402066661",
+    "uikName": "УИК №735",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 418,
@@ -7814,8 +9191,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 736,
     "uikTvd": "422402066663",
+    "uikName": "УИК №736",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 219,
@@ -7865,8 +9251,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 737,
     "uikTvd": "422402066665",
+    "uikName": "УИК №737",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 717,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -7916,8 +9311,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 738,
     "uikTvd": "422402066667",
+    "uikName": "УИК №738",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 149,
@@ -7967,8 +9371,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 739,
     "uikTvd": "422402066669",
+    "uikName": "УИК №739",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -8018,8 +9431,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 740,
     "uikTvd": "422402066671",
+    "uikName": "УИК №740",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 536,
@@ -8069,8 +9491,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 741,
     "uikTvd": "422402066673",
+    "uikName": "УИК №741",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -8120,8 +9551,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 742,
     "uikTvd": "422402066675",
+    "uikName": "УИК №742",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1172,
       "Число бюллетеней, полученных участковыми комиссиями": 1003,
@@ -8171,8 +9611,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 743,
     "uikTvd": "422402066677",
+    "uikName": "УИК №743",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1186,
       "Число бюллетеней, полученных участковыми комиссиями": 1151,
@@ -8222,8 +9671,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 744,
     "uikTvd": "422402066679",
+    "uikName": "УИК №744",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1636,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -8273,8 +9731,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 745,
     "uikTvd": "422402066681",
+    "uikName": "УИК №745",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1680,
       "Число бюллетеней, полученных участковыми комиссиями": 1623,
@@ -8324,8 +9791,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 746,
     "uikTvd": "422402066683",
+    "uikName": "УИК №746",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 433,
@@ -8375,8 +9851,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 747,
     "uikTvd": "422402066685",
+    "uikName": "УИК №747",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 229,
@@ -8426,8 +9911,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 748,
     "uikTvd": "422402066687",
+    "uikName": "УИК №748",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 717,
       "Число бюллетеней, полученных участковыми комиссиями": 712,
@@ -8477,8 +9971,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 749,
     "uikTvd": "422402066689",
+    "uikName": "УИК №749",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 884,
       "Число бюллетеней, полученных участковыми комиссиями": 932,
@@ -8528,8 +10031,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 750,
     "uikTvd": "422402066691",
+    "uikName": "УИК №750",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -8579,8 +10091,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 751,
     "uikTvd": "422402066693",
+    "uikName": "УИК №751",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 516,
@@ -8630,8 +10151,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 752,
     "uikTvd": "422402066695",
+    "uikName": "УИК №752",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 279,
@@ -8681,8 +10211,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 753,
     "uikTvd": "422402066697",
+    "uikName": "УИК №753",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 989,
       "Число бюллетеней, полученных участковыми комиссиями": 1021,
@@ -8732,8 +10271,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 754,
     "uikTvd": "422402066699",
+    "uikName": "УИК №754",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -8783,8 +10331,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 755,
     "uikTvd": "422402066701",
+    "uikName": "УИК №755",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -8834,8 +10391,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 756,
     "uikTvd": "422402066703",
+    "uikName": "УИК №756",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 820,
       "Число бюллетеней, полученных участковыми комиссиями": 836,
@@ -8885,8 +10451,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 757,
     "uikTvd": "422402066705",
+    "uikName": "УИК №757",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 68,
@@ -8936,8 +10511,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 758,
     "uikTvd": "422407266868",
+    "uikName": "УИК №758",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 656,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -8987,8 +10571,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 759,
     "uikTvd": "422407266869",
+    "uikName": "УИК №759",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 607,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -9038,8 +10631,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 760,
     "uikTvd": "422407266870",
+    "uikName": "УИК №760",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -9089,8 +10691,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 761,
     "uikTvd": "422407266871",
+    "uikName": "УИК №761",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -9140,8 +10751,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 762,
     "uikTvd": "422407266872",
+    "uikName": "УИК №762",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -9191,8 +10811,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 763,
     "uikTvd": "422407266873",
+    "uikName": "УИК №763",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -9242,8 +10871,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 764,
     "uikTvd": "422407266874",
+    "uikName": "УИК №764",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -9293,8 +10931,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 765,
     "uikTvd": "422407266875",
+    "uikName": "УИК №765",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -9344,8 +10991,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 766,
     "uikTvd": "422407266876",
+    "uikName": "УИК №766",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 595,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -9395,8 +11051,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "422407266877",
+    "uikName": "УИК №767",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1411,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -9446,8 +11111,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "422407266878",
+    "uikName": "УИК №768",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -9497,8 +11171,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 769,
     "uikTvd": "422407266879",
+    "uikName": "УИК №769",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -9548,8 +11231,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 770,
     "uikTvd": "422407266880",
+    "uikName": "УИК №770",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -9599,8 +11291,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 771,
     "uikTvd": "422407266881",
+    "uikName": "УИК №771",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -9650,8 +11351,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 772,
     "uikTvd": "422407266882",
+    "uikName": "УИК №772",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -9701,8 +11411,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 773,
     "uikTvd": "422407266883",
+    "uikName": "УИК №773",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -9752,8 +11471,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 774,
     "uikTvd": "422407266884",
+    "uikName": "УИК №774",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -9803,8 +11531,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 775,
     "uikTvd": "422407266885",
+    "uikName": "УИК №775",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 574,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -9854,8 +11591,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "422407266886",
+    "uikName": "УИК №776",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -9905,8 +11651,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "422407266887",
+    "uikName": "УИК №777",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -9956,8 +11711,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "422407266888",
+    "uikName": "УИК №778",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -10007,8 +11771,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "422407266889",
+    "uikName": "УИК №779",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 646,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -10058,8 +11831,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "422407266890",
+    "uikName": "УИК №780",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -10109,8 +11891,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "422407266891",
+    "uikName": "УИК №781",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 816,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -10160,8 +11951,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "422407266892",
+    "uikName": "УИК №782",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -10211,8 +12011,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "422407266893",
+    "uikName": "УИК №783",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -10262,8 +12071,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "422407266894",
+    "uikName": "УИК №784",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -10313,8 +12131,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "422407266895",
+    "uikName": "УИК №785",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 385,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -10364,8 +12191,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "422407266896",
+    "uikName": "УИК №786",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -10415,8 +12251,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "422407266897",
+    "uikName": "УИК №787",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -10466,8 +12311,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "422407266898",
+    "uikName": "УИК №788",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 560,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -10517,8 +12371,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "422407266899",
+    "uikName": "УИК №789",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -10568,8 +12431,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "422407266900",
+    "uikName": "УИК №790",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -10619,8 +12491,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "422407266901",
+    "uikName": "УИК №791",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 996,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10670,8 +12551,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "422407266902",
+    "uikName": "УИК №792",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -10721,8 +12611,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "422407266903",
+    "uikName": "УИК №793",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1235,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -10772,8 +12671,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "422407266904",
+    "uikName": "УИК №794",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 991,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -10823,8 +12731,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "422407266905",
+    "uikName": "УИК №795",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 57,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -10874,8 +12791,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "422407266906",
+    "uikName": "УИК №796",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -10925,8 +12851,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "422407266907",
+    "uikName": "УИК №797",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -10976,8 +12911,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "422407266908",
+    "uikName": "УИК №798",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -11027,8 +12971,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "422407266909",
+    "uikName": "УИК №799",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -11078,8 +13031,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "422407266910",
+    "uikName": "УИК №800",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -11129,8 +13091,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "422402166742",
+    "uikName": "УИК №368",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2888,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11180,8 +13151,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "422402166743",
+    "uikName": "УИК №369",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2797,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11231,8 +13211,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "422402166744",
+    "uikName": "УИК №370",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2840,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11282,8 +13271,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "422402166745",
+    "uikName": "УИК №371",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2861,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11333,8 +13331,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "422402166746",
+    "uikName": "УИК №372",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2341,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11384,8 +13391,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "422402166747",
+    "uikName": "УИК №373",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1994,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11435,8 +13451,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "422402166748",
+    "uikName": "УИК №374",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2817,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11486,8 +13511,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "422402166749",
+    "uikName": "УИК №375",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2970,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -11537,8 +13571,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "422402166750",
+    "uikName": "УИК №376",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2591,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11588,8 +13631,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "422402166751",
+    "uikName": "УИК №377",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2139,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11639,8 +13691,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "422402166752",
+    "uikName": "УИК №378",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11690,8 +13751,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "422402166753",
+    "uikName": "УИК №379",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1936,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11741,8 +13811,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "422402166754",
+    "uikName": "УИК №380",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1456,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11792,8 +13871,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "422402166755",
+    "uikName": "УИК №381",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1636,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11843,8 +13931,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "422402166756",
+    "uikName": "УИК №382",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2210,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11894,8 +13991,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "422402166757",
+    "uikName": "УИК №383",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1949,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11945,8 +14051,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "422402166758",
+    "uikName": "УИК №384",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2817,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11996,8 +14111,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "422402166759",
+    "uikName": "УИК №385",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 925,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -12047,8 +14171,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 923,
     "uikTvd": "422402866776",
+    "uikName": "УИК №923",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 984,
       "Число бюллетеней, полученных участковыми комиссиями": 983,
@@ -12098,8 +14231,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 924,
     "uikTvd": "422402866778",
+    "uikName": "УИК №924",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 97,
@@ -12149,8 +14291,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 925,
     "uikTvd": "422402866780",
+    "uikName": "УИК №925",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1486,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -12200,8 +14351,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 926,
     "uikTvd": "422402866782",
+    "uikName": "УИК №926",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -12251,8 +14411,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 927,
     "uikTvd": "422402866784",
+    "uikName": "УИК №927",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 267,
@@ -12302,8 +14471,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 928,
     "uikTvd": "422402866786",
+    "uikName": "УИК №928",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -12353,8 +14531,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "422402866788",
+    "uikName": "УИК №929",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1158,
       "Число бюллетеней, полученных участковыми комиссиями": 1153,
@@ -12404,8 +14591,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "422402866790",
+    "uikName": "УИК №930",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 113,
@@ -12455,8 +14651,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "422402866792",
+    "uikName": "УИК №931",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12506,8 +14711,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "422402866794",
+    "uikName": "УИК №932",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1685,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -12557,8 +14771,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "422402866796",
+    "uikName": "УИК №933",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -12608,8 +14831,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "422402866798",
+    "uikName": "УИК №934",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -12659,8 +14891,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "422402866800",
+    "uikName": "УИК №935",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 41,
       "Число бюллетеней, полученных участковыми комиссиями": 41,
@@ -12710,8 +14951,17 @@ export const duma_2003_uik_428_region_22_part_002 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "422402866802",
+    "uikName": "УИК №936",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 127,

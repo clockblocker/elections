@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070660",
     "tikName": "Сердобска городская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 33846,
@@ -83,6 +91,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070661",
     "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 15114,
@@ -163,6 +179,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070662",
     "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 31475,
@@ -252,6 +276,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070663",
     "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки": 41288,
@@ -338,6 +370,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070664",
     "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 9149,
@@ -408,6 +448,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070665",
     "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки": 12562,
@@ -487,6 +535,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070666",
     "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 18361,
@@ -575,6 +631,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070667",
     "tikName": "Кузнецкая городская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки": 72375,
@@ -660,6 +724,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070668",
     "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 21407,
@@ -733,6 +805,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070669",
     "tikName": "Кондольская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 7976,
@@ -801,6 +881,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070670",
     "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 11499,
@@ -873,6 +961,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070671",
     "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 13655,
@@ -944,6 +1040,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070672",
     "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 31021,
@@ -1033,6 +1137,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070673",
     "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 15950,
@@ -1117,6 +1229,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070674",
     "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 17514,
@@ -1193,6 +1313,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070675",
     "tikName": "Пензенская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 32974,
@@ -1281,6 +1409,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070676",
     "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки": 80902,
@@ -1366,6 +1502,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "258200070677",
     "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 136,
+      "oikTvd": "100100095764",
+      "oikName": "Первомайский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки": 102905,
@@ -1468,6 +1612,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300170983",
     "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 84225,
@@ -1554,6 +1706,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300170985",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 70,
     "accounting": {
       "Число избирателей, включенных в списки": 149649,
@@ -1671,6 +1831,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300170987",
     "tikName": "Каменская городская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 33501,
@@ -1735,6 +1903,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300170989",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 51854,
@@ -1809,6 +1985,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки": 19928,
@@ -1893,6 +2077,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 10244,
@@ -1960,6 +2152,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 15114,
@@ -2029,6 +2229,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки": 26382,
@@ -2120,6 +2328,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки": 33280,
@@ -2204,6 +2420,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 8882,
@@ -2274,6 +2498,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 24096,
@@ -2355,6 +2587,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 10123,
@@ -2427,6 +2667,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 18940,
@@ -2517,6 +2765,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300171009",
     "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 23650,
@@ -2603,6 +2859,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300171011",
     "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 10663,
@@ -2682,6 +2946,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300171013",
     "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки": 36380,
@@ -2776,6 +3048,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300171015",
     "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 14764,
@@ -2848,6 +3128,14 @@ export const duma_2003_tic_429_region_58 = [
     "ballot": "single-member",
     "tikTvd": "358300171017",
     "tikName": "Тамалинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 15200,

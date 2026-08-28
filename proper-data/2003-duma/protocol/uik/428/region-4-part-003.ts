@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "403401066720",
+    "uikName": "УИК №325",
     "tikTvd": "203200066976",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 62,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "403401066721",
+    "uikName": "УИК №326",
     "tikTvd": "203200066976",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "403401066722",
+    "uikName": "УИК №327",
     "tikTvd": "203200066976",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "403401066723",
+    "uikName": "УИК №328",
     "tikTvd": "203200066976",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "403401066724",
+    "uikName": "УИК №329",
     "tikTvd": "203200066976",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 560,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "403401066725",
+    "uikName": "УИК №330",
     "tikTvd": "203200066976",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "403401066726",
+    "uikName": "УИК №331",
     "tikTvd": "203200066976",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "403401066727",
+    "uikName": "УИК №332",
     "tikTvd": "203200066976",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 705,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "403401066728",
+    "uikName": "УИК №333",
     "tikTvd": "203200066976",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 477,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "403401066729",
+    "uikName": "УИК №334",
     "tikTvd": "203200066976",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 403,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "403401066730",
+    "uikName": "УИК №335",
     "tikTvd": "203200066976",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "403401066731",
+    "uikName": "УИК №336",
     "tikTvd": "203200066976",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 794,
       "Число бюллетеней, полученных участковыми комиссиями": 769,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "403401066710",
+    "uikName": "УИК №337",
     "tikTvd": "203200066976",
     "tikName": "Кижингинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "403400966899",
+    "uikName": "УИК №245",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 457,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "403400966900",
+    "uikName": "УИК №246",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "403400966755",
+    "uikName": "УИК №247",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "403400966756",
+    "uikName": "УИК №248",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1034,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "403400966827",
+    "uikName": "УИК №249",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "403400966828",
+    "uikName": "УИК №250",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "403400966829",
+    "uikName": "УИК №251",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 504,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "403400966830",
+    "uikName": "УИК №252",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "403400966831",
+    "uikName": "УИК №253",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "403400966832",
+    "uikName": "УИК №254",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 430,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "403400966833",
+    "uikName": "УИК №255",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "403400966834",
+    "uikName": "УИК №256",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "403400966835",
+    "uikName": "УИК №257",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "403400966836",
+    "uikName": "УИК №258",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "403400966837",
+    "uikName": "УИК №259",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "403400966838",
+    "uikName": "УИК №260",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "403400966839",
+    "uikName": "УИК №261",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "403400966840",
+    "uikName": "УИК №262",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "403400966841",
+    "uikName": "УИК №263",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "403400966842",
+    "uikName": "УИК №264",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 827,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "403400966843",
+    "uikName": "УИК №265",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 636,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "403400966844",
+    "uikName": "УИК №266",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "403400966845",
+    "uikName": "УИК №267",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "403400966846",
+    "uikName": "УИК №268",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1447,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "403400966847",
+    "uikName": "УИК №269",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2056,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "403400966848",
+    "uikName": "УИК №270",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1593,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "403400966849",
+    "uikName": "УИК №271",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1770,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "403400966850",
+    "uikName": "УИК №272",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1806,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "403400966851",
+    "uikName": "УИК №273",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1491,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "403400966852",
+    "uikName": "УИК №274",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1173,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "403400966853",
+    "uikName": "УИК №275",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "403400966854",
+    "uikName": "УИК №276",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "403400966855",
+    "uikName": "УИК №277",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 338,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "403400966856",
+    "uikName": "УИК №278",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "403400966857",
+    "uikName": "УИК №279",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 621,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "403400966858",
+    "uikName": "УИК №280",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 667,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "403400966859",
+    "uikName": "УИК №281",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1020,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "403400966860",
+    "uikName": "УИК №282",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 986,
       "Число бюллетеней, полученных участковыми комиссиями": 933,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "403400966861",
+    "uikName": "УИК №283",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 834,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "403400966862",
+    "uikName": "УИК №284",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "403400966863",
+    "uikName": "УИК №285",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "403400966864",
+    "uikName": "УИК №286",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "403400966865",
+    "uikName": "УИК №287",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "403400966866",
+    "uikName": "УИК №288",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 434,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "403400966867",
+    "uikName": "УИК №289",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "403400966868",
+    "uikName": "УИК №290",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "403400966869",
+    "uikName": "УИК №291",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "403400966870",
+    "uikName": "УИК №292",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "403400966871",
+    "uikName": "УИК №293",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1183,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "403400966872",
+    "uikName": "УИК №294",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1252,
       "Число бюллетеней, полученных участковыми комиссиями": 1165,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "403400966873",
+    "uikName": "УИК №295",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1483,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "403400966874",
+    "uikName": "УИК №296",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1791,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "403400966875",
+    "uikName": "УИК №297",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 654,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "403400966876",
+    "uikName": "УИК №298",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "403400966877",
+    "uikName": "УИК №299",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "403400966878",
+    "uikName": "УИК №300",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 572,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "403400966879",
+    "uikName": "УИК №301",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "403400966880",
+    "uikName": "УИК №302",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "403400966881",
+    "uikName": "УИК №303",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "403400966882",
+    "uikName": "УИК №304",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "403400966883",
+    "uikName": "УИК №305",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1084,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "403400966884",
+    "uikName": "УИК №306",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1140,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "403400966885",
+    "uikName": "УИК №307",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1240,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "403400966886",
+    "uikName": "УИК №308",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 998,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "403400966887",
+    "uikName": "УИК №309",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "403400966888",
+    "uikName": "УИК №310",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "403400966889",
+    "uikName": "УИК №311",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "403400966890",
+    "uikName": "УИК №312",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 676,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "403400966891",
+    "uikName": "УИК №313",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "403400966892",
+    "uikName": "УИК №314",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 751,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "403400966893",
+    "uikName": "УИК №315",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "403400966894",
+    "uikName": "УИК №316",
     "tikTvd": "203200066977",
     "tikName": "Кабанская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1348,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "403400866825",
+    "uikName": "УИК №221",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "403400866862",
+    "uikName": "УИК №222",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1492,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "403400866863",
+    "uikName": "УИК №223",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1472,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "403400866864",
+    "uikName": "УИК №224",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "403400866865",
+    "uikName": "УИК №225",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 946,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "403400866866",
+    "uikName": "УИК №226",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 816,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "403400866867",
+    "uikName": "УИК №227",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 814,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "403400866868",
+    "uikName": "УИК №228",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 631,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "403400866869",
+    "uikName": "УИК №229",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "403400866870",
+    "uikName": "УИК №230",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "403400866871",
+    "uikName": "УИК №231",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1311,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "403400866872",
+    "uikName": "УИК №232",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 885,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "403400866873",
+    "uikName": "УИК №233",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1181,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "403400866874",
+    "uikName": "УИК №234",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1328,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "403400866875",
+    "uikName": "УИК №235",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "403400866876",
+    "uikName": "УИК №236",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "403400866877",
+    "uikName": "УИК №237",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "403400866878",
+    "uikName": "УИК №238",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 529,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "403400866879",
+    "uikName": "УИК №239",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 526,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "403400866880",
+    "uikName": "УИК №240",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 704,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "403400866881",
+    "uikName": "УИК №241",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 922,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "403400866882",
+    "uikName": "УИК №242",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1153,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "403400866883",
+    "uikName": "УИК №243",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 446,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "403400866884",
+    "uikName": "УИК №244",
     "tikTvd": "203200066978",
     "tikName": "Иволгинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "403400766701",
+    "uikName": "УИК  190",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 293,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "403400766702",
+    "uikName": "УИК  191",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 454,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "403400766703",
+    "uikName": "УИК  192",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1106,
       "Число бюллетеней, полученных участковыми комиссиями": 1041,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "403400766704",
+    "uikName": "УИК  193",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "403400766705",
+    "uikName": "УИК  194",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 428,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "403400766706",
+    "uikName": "УИК  195",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "403400766707",
+    "uikName": "УИК  196",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "403400766708",
+    "uikName": "УИК  197",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 496,
       "Число бюллетеней, полученных участковыми комиссиями": 493,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "403400766709",
+    "uikName": "УИК  198",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "403400766710",
+    "uikName": "УИК  199",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 461,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "403400766711",
+    "uikName": "УИК  200",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 662,
       "Число бюллетеней, полученных участковыми комиссиями": 659,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "403400766712",
+    "uikName": "УИК  201",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 331,
       "Число бюллетеней, полученных участковыми комиссиями": 334,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "403400766713",
+    "uikName": "УИК  202",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 176,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "403400766714",
+    "uikName": "УИК  203",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 419,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "403400766715",
+    "uikName": "УИК  204",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 912,
       "Число бюллетеней, полученных участковыми комиссиями": 928,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "403400766716",
+    "uikName": "УИК  205",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "403400766717",
+    "uikName": "УИК  206",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 574,
       "Число бюллетеней, полученных участковыми комиссиями": 567,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "403400766718",
+    "uikName": "УИК  207",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 521,
       "Число бюллетеней, полученных участковыми комиссиями": 515,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "403400766719",
+    "uikName": "УИК  208",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "403400766720",
+    "uikName": "УИК  209",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 770,
       "Число бюллетеней, полученных участковыми комиссиями": 764,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "403400766721",
+    "uikName": "УИК  210",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 710,
       "Число бюллетеней, полученных участковыми комиссиями": 702,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "403400766722",
+    "uikName": "УИК  211",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 242,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "403400766723",
+    "uikName": "УИК  212",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 774,
       "Число бюллетеней, полученных участковыми комиссиями": 796,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "403400766724",
+    "uikName": "УИК  213",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 877,
       "Число бюллетеней, полученных участковыми комиссиями": 874,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "403400766725",
+    "uikName": "УИК  214",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1421,
       "Число бюллетеней, полученных участковыми комиссиями": 1376,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "403400766726",
+    "uikName": "УИК  215",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1575,
       "Число бюллетеней, полученных участковыми комиссиями": 1526,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "403400766727",
+    "uikName": "УИК  216",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1553,
       "Число бюллетеней, полученных участковыми комиссиями": 1514,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "403400766728",
+    "uikName": "УИК  217",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1216,
       "Число бюллетеней, полученных участковыми комиссиями": 1229,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "403400766729",
+    "uikName": "УИК  218",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1169,
       "Число бюллетеней, полученных участковыми комиссиями": 1143,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "403400766730",
+    "uikName": "УИК  219",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 561,
       "Число бюллетеней, полученных участковыми комиссиями": 563,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "403400766731",
+    "uikName": "УИК  220",
     "tikTvd": "203200066979",
     "tikName": "Закаменская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1122,
       "Число бюллетеней, полученных участковыми комиссиями": 1031,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "403400666782",
+    "uikName": "УИК №149",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2091,
       "Число бюллетеней, полученных участковыми комиссиями": 2009,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "403400666783",
+    "uikName": "УИК №150",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1770,
       "Число бюллетеней, полученных участковыми комиссиями": 1697,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "403400666784",
+    "uikName": "УИК №151",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 468,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "403400666785",
+    "uikName": "УИК №152",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1427,
       "Число бюллетеней, полученных участковыми комиссиями": 1395,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "403400666786",
+    "uikName": "УИК №153",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2310,
       "Число бюллетеней, полученных участковыми комиссиями": 2233,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "403400666787",
+    "uikName": "УИК №154",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 923,
       "Число бюллетеней, полученных участковыми комиссиями": 913,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "403400666788",
+    "uikName": "УИК №155",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 676,
       "Число бюллетеней, полученных участковыми комиссиями": 676,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "403400666789",
+    "uikName": "УИК №156",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1209,
       "Число бюллетеней, полученных участковыми комиссиями": 1196,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "403400666790",
+    "uikName": "УИК №157",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 64,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "403400666791",
+    "uikName": "УИК №158",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 995,
       "Число бюллетеней, полученных участковыми комиссиями": 968,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "403400666792",
+    "uikName": "УИК №159",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 646,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "403400666793",
+    "uikName": "УИК №160",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1958,
       "Число бюллетеней, полученных участковыми комиссиями": 1907,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "403400666794",
+    "uikName": "УИК №161",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2142,
       "Число бюллетеней, полученных участковыми комиссиями": 2078,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "403400666795",
+    "uikName": "УИК №162",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 313,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "403400666796",
+    "uikName": "УИК №163",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 312,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "403400666797",
+    "uikName": "УИК №164",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1598,
       "Число бюллетеней, полученных участковыми комиссиями": 1592,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "403400666798",
+    "uikName": "УИК №165",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1966,
       "Число бюллетеней, полученных участковыми комиссиями": 1959,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "403400666799",
+    "uikName": "УИК №166",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1966,
       "Число бюллетеней, полученных участковыми комиссиями": 1933,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "403400666800",
+    "uikName": "УИК №167",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 910,
       "Число бюллетеней, полученных участковыми комиссиями": 915,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "403400666801",
+    "uikName": "УИК №168",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1598,
       "Число бюллетеней, полученных участковыми комиссиями": 1607,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "403400666802",
+    "uikName": "УИК №169",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 472,
       "Число бюллетеней, полученных участковыми комиссиями": 476,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "403400666803",
+    "uikName": "УИК №170",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 449,
       "Число бюллетеней, полученных участковыми комиссиями": 444,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "403400666804",
+    "uikName": "УИК №171",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "403400666805",
+    "uikName": "УИК №172",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "403400666806",
+    "uikName": "УИК №173",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "403400666807",
+    "uikName": "УИК №174",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 533,
       "Число бюллетеней, полученных участковыми комиссиями": 531,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "403400666808",
+    "uikName": "УИК №175",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "403400666809",
+    "uikName": "УИК №176",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 894,
       "Число бюллетеней, полученных участковыми комиссиями": 886,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "403400666810",
+    "uikName": "УИК №177",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1138,
       "Число бюллетеней, полученных участковыми комиссиями": 1096,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "403400666811",
+    "uikName": "УИК №178",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 735,
       "Число бюллетеней, полученных участковыми комиссиями": 734,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "403400666812",
+    "uikName": "УИК №179",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 67,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "403400666813",
+    "uikName": "УИК №180",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 997,
       "Число бюллетеней, полученных участковыми комиссиями": 988,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "403400666814",
+    "uikName": "УИК №181",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 693,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "403400666815",
+    "uikName": "УИК №182",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 379,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "403400666816",
+    "uikName": "УИК №183",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 677,
       "Число бюллетеней, полученных участковыми комиссиями": 688,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "403400666817",
+    "uikName": "УИК №184",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 453,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "403400666818",
+    "uikName": "УИК №185",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 477,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "403400666819",
+    "uikName": "УИК №186",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1452,
       "Число бюллетеней, полученных участковыми комиссиями": 1434,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "403400666820",
+    "uikName": "УИК №187",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "403400666821",
+    "uikName": "УИК №188",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 662,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "403400666822",
+    "uikName": "УИК №189",
     "tikTvd": "203200066980",
     "tikName": "Заиграевская ",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 780,
       "Число бюллетеней, полученных участковыми комиссиями": 733,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "403400566756",
+    "uikName": "УИК №123",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 799,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "403400566757",
+    "uikName": "УИК №124",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "403400566758",
+    "uikName": "УИК №125",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 594,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "403400566759",
+    "uikName": "УИК №126",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "403400566760",
+    "uikName": "УИК №127",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "403400566761",
+    "uikName": "УИК №128",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "403400566762",
+    "uikName": "УИК №129",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "403400566763",
+    "uikName": "УИК №130",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 39,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "403400566764",
+    "uikName": "УИК №131",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "403400566765",
+    "uikName": "УИК №132",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 313,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "403400567917",
+    "uikName": "УИК  133",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 72,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "403400567918",
+    "uikName": "УИК  134",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "403400567919",
+    "uikName": "УИК  135",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 830,
       "Число бюллетеней, полученных участковыми комиссиями": 852,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "403400567920",
+    "uikName": "УИК  136",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 788,
       "Число бюллетеней, полученных участковыми комиссиями": 823,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "403400567921",
+    "uikName": "УИК  137",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 680,
       "Число бюллетеней, полученных участковыми комиссиями": 802,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "403400567932",
+    "uikName": "УИК  138",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 774,
       "Число бюллетеней, полученных участковыми комиссиями": 765,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "403400567922",
+    "uikName": "УИК  139",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 833,
       "Число бюллетеней, полученных участковыми комиссиями": 833,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "403400567923",
+    "uikName": "УИК  140",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "403400567924",
+    "uikName": "УИК  141",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "403400567925",
+    "uikName": "УИК  142",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "403400567926",
+    "uikName": "УИК  143",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 916,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "403400567927",
+    "uikName": "УИК  144",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "403400567928",
+    "uikName": "УИК  145",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "403400567929",
+    "uikName": "УИК  146",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 575,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "403400567930",
+    "uikName": "УИК  147",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 868,
       "Число бюллетеней, полученных участковыми комиссиями": 875,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "403400567931",
+    "uikName": "УИК  148",
     "tikTvd": "203200066981",
     "tikName": "Еравнинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "403400466799",
+    "uikName": "УИК №88",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 294,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "403400466800",
+    "uikName": "УИК №89",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 328,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "403400466801",
+    "uikName": "УИК №90",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "403400466802",
+    "uikName": "УИК №91",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 231,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "403400466803",
+    "uikName": "УИК №92",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1070,
       "Число бюллетеней, полученных участковыми комиссиями": 1068,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "403400466804",
+    "uikName": "УИК №93",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "403400466805",
+    "uikName": "УИК №94",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 603,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "403400466806",
+    "uikName": "УИК №95",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 413,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "403400466807",
+    "uikName": "УИК №96",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "403400466808",
+    "uikName": "УИК №97",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "403400466809",
+    "uikName": "УИК №98",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 544,
       "Число бюллетеней, полученных участковыми комиссиями": 543,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "403400466810",
+    "uikName": "УИК №99",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 521,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "403400466811",
+    "uikName": "УИК №100",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 268,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "403400466812",
+    "uikName": "УИК №101",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 537,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "403400466813",
+    "uikName": "УИК №102",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "403400466814",
+    "uikName": "УИК №103",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 472,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "403400466815",
+    "uikName": "УИК №104",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1565,
       "Число бюллетеней, полученных участковыми комиссиями": 1582,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "403400466816",
+    "uikName": "УИК №105",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1440,
       "Число бюллетеней, полученных участковыми комиссиями": 1378,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "403400466817",
+    "uikName": "УИК №106",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1264,
       "Число бюллетеней, полученных участковыми комиссиями": 1252,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "403400466818",
+    "uikName": "УИК №107",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1249,
       "Число бюллетеней, полученных участковыми комиссиями": 1207,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "403400466819",
+    "uikName": "УИК №108",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "403400466820",
+    "uikName": "УИК №109",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 896,
       "Число бюллетеней, полученных участковыми комиссиями": 885,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "403400466821",
+    "uikName": "УИК №110",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 497,
       "Число бюллетеней, полученных участковыми комиссиями": 491,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "403400466822",
+    "uikName": "УИК №111",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 909,
       "Число бюллетеней, полученных участковыми комиссиями": 903,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "403400466823",
+    "uikName": "УИК №112",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "403400466824",
+    "uikName": "УИК №113",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 259,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "403400466825",
+    "uikName": "УИК №114",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 772,
       "Число бюллетеней, полученных участковыми комиссиями": 775,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "403400466826",
+    "uikName": "УИК №115",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 246,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "403400466827",
+    "uikName": "УИК №116",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1584,
       "Число бюллетеней, полученных участковыми комиссиями": 1575,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "403400466828",
+    "uikName": "УИК №117",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2015,
       "Число бюллетеней, полученных участковыми комиссиями": 1782,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "403400466829",
+    "uikName": "УИК №118",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 494,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "403400466830",
+    "uikName": "УИК №119",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 500,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "403400466831",
+    "uikName": "УИК №120",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "403400466832",
+    "uikName": "УИК №121",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 374,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "403400466833",
+    "uikName": "УИК №122",
     "tikTvd": "203200066982",
     "tikName": "Джидинская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 608,
       "Число бюллетеней, полученных участковыми комиссиями": 626,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "403400366905",
+    "uikName": "УИК №50",
     "tikTvd": "203200066983",
     "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 924,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "403400366906",
+    "uikName": "УИК №51",
     "tikTvd": "203200066983",
     "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 909,
       "Число бюллетеней, полученных участковыми комиссиями": 897,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "403400366907",
+    "uikName": "УИК №52",
     "tikTvd": "203200066983",
     "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1001,
       "Число бюллетеней, полученных участковыми комиссиями": 997,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "403400366908",
+    "uikName": "УИК №53",
     "tikTvd": "203200066983",
     "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 837,
       "Число бюллетеней, полученных участковыми комиссиями": 814,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "403400366909",
+    "uikName": "УИК №54",
     "tikTvd": "203200066983",
     "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 715,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "403400366910",
+    "uikName": "УИК №55",
     "tikTvd": "203200066983",
     "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 601,
       "Число бюллетеней, полученных участковыми комиссиями": 587,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "403400366911",
+    "uikName": "УИК №56",
     "tikTvd": "203200066983",
     "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1254,
       "Число бюллетеней, полученных участковыми комиссиями": 1249,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_4_part_003 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "403400366912",
+    "uikName": "УИК №57",
     "tikTvd": "203200066983",
     "tikName": "Бичурская",
+    "regionCode": "4",
+    "regionTvd": "100100095726",
+    "regionName": "Республика Бурятия",
+    "district": {
+      "districtNumber": 9,
+      "oikTvd": "100100095727",
+      "oikName": "Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1324,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,

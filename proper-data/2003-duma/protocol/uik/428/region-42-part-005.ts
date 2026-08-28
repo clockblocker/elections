@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "442402066804",
+    "uikName": "УИК №641",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1620,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "442402066805",
+    "uikName": "УИК №642",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2475,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "442402066806",
+    "uikName": "УИК №643",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "442402066807",
+    "uikName": "УИК №644",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2466,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "442402066808",
+    "uikName": "УИК №645",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2554,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "442402066809",
+    "uikName": "УИК №646",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2503,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "442402066810",
+    "uikName": "УИК №647",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2378,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "442402066811",
+    "uikName": "УИК №648",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2427,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "442402066812",
+    "uikName": "УИК №649",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2240,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "442402066813",
+    "uikName": "УИК №650",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2466,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "442402066814",
+    "uikName": "УИК №651",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2362,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "442402066815",
+    "uikName": "УИК №652",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2503,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "442402066816",
+    "uikName": "УИК №653",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2336,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "442402066817",
+    "uikName": "УИК №654",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1935,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "442402066818",
+    "uikName": "УИК №655",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "442402066819",
+    "uikName": "УИК №656",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1138,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "442402066820",
+    "uikName": "УИК №657",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1450,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "442402066821",
+    "uikName": "УИК №658",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1655,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "442402066822",
+    "uikName": "УИК №659",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1342,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "442402066823",
+    "uikName": "УИК №660",
     "tikTvd": "342300367330",
     "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2026,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "442402166786",
+    "uikName": "УИК №683",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2229,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "442402166787",
+    "uikName": "УИК №684",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "442402166788",
+    "uikName": "УИК №685",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "442402166789",
+    "uikName": "УИК №686",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2132,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "442402166790",
+    "uikName": "УИК №687",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2585,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "442402166791",
+    "uikName": "УИК №688",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2545,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "442402166792",
+    "uikName": "УИК №689",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2512,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "442402166793",
+    "uikName": "УИК №690",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2268,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "442402166794",
+    "uikName": "УИК №691",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2880,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "442402166795",
+    "uikName": "УИК №692",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1654,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "442402166796",
+    "uikName": "УИК №693",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2482,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "442402166797",
+    "uikName": "УИК №694",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2081,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "442402166798",
+    "uikName": "УИК №695",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2228,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "442402166799",
+    "uikName": "УИК №696",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "442402166800",
+    "uikName": "УИК №697",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2035,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "442402166801",
+    "uikName": "УИК №698",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "442402166802",
+    "uikName": "УИК №699",
     "tikTvd": "342300367331",
     "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "442402266791",
+    "uikName": "УИК №700",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1357,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "442402266792",
+    "uikName": "УИК №701",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1132,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "442402266793",
+    "uikName": "УИК №702",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1091,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "442402266794",
+    "uikName": "УИК №703",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "442402266795",
+    "uikName": "УИК №704",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2197,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "442402266796",
+    "uikName": "УИК №705",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2050,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "442402266797",
+    "uikName": "УИК №706",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1606,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "442402266798",
+    "uikName": "УИК №707",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1970,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "442402266799",
+    "uikName": "УИК №708",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1399,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "442402266800",
+    "uikName": "УИК №709",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 753,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "442402266801",
+    "uikName": "УИК №710",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 673,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "442402266802",
+    "uikName": "УИК №711",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "442402266803",
+    "uikName": "УИК №712",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1596,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "442402266804",
+    "uikName": "УИК №713",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1508,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "442402266805",
+    "uikName": "УИК №714",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1770,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "442402266806",
+    "uikName": "УИК №715",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2393,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "442402266807",
+    "uikName": "УИК №716",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2086,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "442402266808",
+    "uikName": "УИК №717",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 996,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "442402266809",
+    "uikName": "УИК №718",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1470,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "442402266810",
+    "uikName": "УИК №719",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2526,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "442402266811",
+    "uikName": "УИК №720",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1109,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "442402266812",
+    "uikName": "УИК №721",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1934,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "442402266813",
+    "uikName": "УИК №722",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2327,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "442402266814",
+    "uikName": "УИК №723",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1836,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "442402266815",
+    "uikName": "УИК №724",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2892,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "442402266816",
+    "uikName": "УИК №725",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "442402266817",
+    "uikName": "УИК №726",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1655,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "442402266818",
+    "uikName": "УИК №727",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "442402266819",
+    "uikName": "УИК №728",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1906,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "442402266820",
+    "uikName": "УИК №729",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2066,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "442402266821",
+    "uikName": "УИК №730",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1863,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "442402266822",
+    "uikName": "УИК №731",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1964,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "442402266823",
+    "uikName": "УИК №732",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "442402266824",
+    "uikName": "УИК №733",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 688,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "442402266825",
+    "uikName": "УИК №734",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "442402266826",
+    "uikName": "УИК №735",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2389,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 736,
     "uikTvd": "442402266827",
+    "uikName": "УИК №736",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1246,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1323,
     "uikTvd": "442402266828",
+    "uikName": "УИК №1323",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1854,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1324,
     "uikTvd": "442402266829",
+    "uikName": "УИК №1324",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1325,
     "uikTvd": "442402266830",
+    "uikName": "УИК №1325",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1326,
     "uikTvd": "442402266831",
+    "uikName": "УИК №1326",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 820,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1359,
     "uikTvd": "442402266832",
+    "uikName": "УИК №1359",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -3645,8 +4356,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1360,
     "uikTvd": "442402266833",
+    "uikName": "УИК №1360",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -3691,8 +4411,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1361,
     "uikTvd": "442402266834",
+    "uikName": "УИК №1361",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3737,8 +4466,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1362,
     "uikTvd": "442402266835",
+    "uikName": "УИК №1362",
     "tikTvd": "342300367332",
     "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3783,8 +4521,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "442404766731",
+    "uikName": "УИК №661",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2205,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3829,8 +4576,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "442404766732",
+    "uikName": "УИК №662",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2025,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3875,8 +4631,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "442404766733",
+    "uikName": "УИК №663",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2662,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3921,8 +4686,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "442404766734",
+    "uikName": "УИК №664",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2479,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3967,8 +4741,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "442404766735",
+    "uikName": "УИК №665",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2004,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4013,8 +4796,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "442404766736",
+    "uikName": "УИК №666",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2408,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4059,8 +4851,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "442404766737",
+    "uikName": "УИК №667",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2597,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4105,8 +4906,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "442404766738",
+    "uikName": "УИК №668",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2780,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4151,8 +4961,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "442404766739",
+    "uikName": "УИК №669",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2504,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4197,8 +5016,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "442404766740",
+    "uikName": "УИК №670",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1838,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4243,8 +5071,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "442404766741",
+    "uikName": "УИК №671",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2633,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4289,8 +5126,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "442404766742",
+    "uikName": "УИК №672",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1850,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4335,8 +5181,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "442404766743",
+    "uikName": "УИК №673",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1734,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4381,8 +5236,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "442404766744",
+    "uikName": "УИК №674",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2008,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4427,8 +5291,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "442404766745",
+    "uikName": "УИК №675",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1534,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4473,8 +5346,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "442404766746",
+    "uikName": "УИК №676",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1985,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4519,8 +5401,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "442404766747",
+    "uikName": "УИК №677",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2590,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4565,8 +5456,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "442404766748",
+    "uikName": "УИК №678",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2593,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4611,8 +5511,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "442404766749",
+    "uikName": "УИК №679",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2739,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4657,8 +5566,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "442404766750",
+    "uikName": "УИК №680",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2825,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4703,8 +5621,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "442404766751",
+    "uikName": "УИК №681",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2959,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4749,8 +5676,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "442404766752",
+    "uikName": "УИК №682",
     "tikTvd": "342300367333",
     "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4795,8 +5731,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "442402366825",
+    "uikName": "УИК №794",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1167,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4841,8 +5786,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "442402366826",
+    "uikName": "УИК №795",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 504,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -4887,8 +5841,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "442402366827",
+    "uikName": "УИК №796",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1646,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4933,8 +5896,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "442402366828",
+    "uikName": "УИК №797",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 678,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4979,8 +5951,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "442402366829",
+    "uikName": "УИК №798",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1519,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5025,8 +6006,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "442402366830",
+    "uikName": "УИК №799",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1788,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5071,8 +6061,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "442402366831",
+    "uikName": "УИК №800",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2564,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5117,8 +6116,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "442402366832",
+    "uikName": "УИК №801",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2844,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5163,8 +6171,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "442402366833",
+    "uikName": "УИК №802",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1601,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5209,8 +6226,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "442402366834",
+    "uikName": "УИК №803",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3078,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5255,8 +6281,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "442402366835",
+    "uikName": "УИК №804",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1990,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5301,8 +6336,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "442402366836",
+    "uikName": "УИК №805",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2356,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5347,8 +6391,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "442402366837",
+    "uikName": "УИК №806",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2510,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5393,8 +6446,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "442402366838",
+    "uikName": "УИК №807",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2666,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5439,8 +6501,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "442402366839",
+    "uikName": "УИК №808",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1547,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5485,8 +6556,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "442402366840",
+    "uikName": "УИК №809",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1875,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5531,8 +6611,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "442402366841",
+    "uikName": "УИК №810",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2273,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5577,8 +6666,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "442402366842",
+    "uikName": "УИК №811",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1420,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5623,8 +6721,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "442402366843",
+    "uikName": "УИК №812",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 851,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -5669,8 +6776,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "442402366844",
+    "uikName": "УИК №813",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1605,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5715,8 +6831,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "442402366845",
+    "uikName": "УИК №814",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1674,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5761,8 +6886,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "442402366846",
+    "uikName": "УИК №815",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2417,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5807,8 +6941,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "442402366847",
+    "uikName": "УИК №816",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2149,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5853,8 +6996,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "442402366848",
+    "uikName": "УИК №817",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2875,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5899,8 +7051,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "442402366849",
+    "uikName": "УИК №818",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2566,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5945,8 +7106,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "442402366850",
+    "uikName": "УИК №819",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2949,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5991,8 +7161,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "442402366851",
+    "uikName": "УИК №820",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2859,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6037,8 +7216,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "442402366852",
+    "uikName": "УИК №821",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2886,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6083,8 +7271,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "442402366853",
+    "uikName": "УИК №822",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3197,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -6129,8 +7326,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "442402366854",
+    "uikName": "УИК №823",
     "tikTvd": "342300367334",
     "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 822,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -6175,8 +7381,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 737,
     "uikTvd": "442402466942",
+    "uikName": "УИК №737",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2363,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6221,8 +7436,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 738,
     "uikTvd": "442402466796",
+    "uikName": "УИК №738",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2180,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6267,8 +7491,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 739,
     "uikTvd": "442402466797",
+    "uikName": "УИК №739",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2518,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6313,8 +7546,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 740,
     "uikTvd": "442402466798",
+    "uikName": "УИК №740",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2815,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6359,8 +7601,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 741,
     "uikTvd": "442402466799",
+    "uikName": "УИК №741",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2637,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6405,8 +7656,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 742,
     "uikTvd": "442402466800",
+    "uikName": "УИК №742",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2872,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6451,8 +7711,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 743,
     "uikTvd": "442402466801",
+    "uikName": "УИК №743",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2858,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6497,8 +7766,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 744,
     "uikTvd": "442402466802",
+    "uikName": "УИК №744",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2511,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6543,8 +7821,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 745,
     "uikTvd": "442402466803",
+    "uikName": "УИК №745",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2252,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6589,8 +7876,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 746,
     "uikTvd": "442402466804",
+    "uikName": "УИК №746",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2931,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6635,8 +7931,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 747,
     "uikTvd": "442402466805",
+    "uikName": "УИК №747",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2551,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6681,8 +7986,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 748,
     "uikTvd": "442402466806",
+    "uikName": "УИК №748",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2474,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6727,8 +8041,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 749,
     "uikTvd": "442402466807",
+    "uikName": "УИК №749",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2190,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6773,8 +8096,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 750,
     "uikTvd": "442402466808",
+    "uikName": "УИК №750",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1938,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6819,8 +8151,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 751,
     "uikTvd": "442402466809",
+    "uikName": "УИК №751",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2450,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6865,8 +8206,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 752,
     "uikTvd": "442402466810",
+    "uikName": "УИК №752",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1712,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6911,8 +8261,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 753,
     "uikTvd": "442402466811",
+    "uikName": "УИК №753",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2313,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6957,8 +8316,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 754,
     "uikTvd": "442402466812",
+    "uikName": "УИК №754",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2629,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7003,8 +8371,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 755,
     "uikTvd": "442402466813",
+    "uikName": "УИК №755",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1987,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7049,8 +8426,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 756,
     "uikTvd": "442402466814",
+    "uikName": "УИК №756",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1832,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7095,8 +8481,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 757,
     "uikTvd": "442402466815",
+    "uikName": "УИК №757",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7141,8 +8536,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 758,
     "uikTvd": "442402466816",
+    "uikName": "УИК №758",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2389,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7187,8 +8591,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 759,
     "uikTvd": "442402466817",
+    "uikName": "УИК №759",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2086,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7233,8 +8646,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 760,
     "uikTvd": "442402466818",
+    "uikName": "УИК №760",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1455,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7279,8 +8701,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 761,
     "uikTvd": "442402466819",
+    "uikName": "УИК №761",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1903,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7325,8 +8756,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 762,
     "uikTvd": "442402466820",
+    "uikName": "УИК №762",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2509,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7371,8 +8811,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 763,
     "uikTvd": "442402466821",
+    "uikName": "УИК №763",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2515,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7417,8 +8866,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 764,
     "uikTvd": "442402466822",
+    "uikName": "УИК №764",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2841,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7463,8 +8921,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 765,
     "uikTvd": "442402466823",
+    "uikName": "УИК №765",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2500,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7509,8 +8976,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 766,
     "uikTvd": "442402466824",
+    "uikName": "УИК №766",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2670,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7555,8 +9031,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "442402466825",
+    "uikName": "УИК №767",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2434,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7601,8 +9086,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "442402466826",
+    "uikName": "УИК №768",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2106,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7647,8 +9141,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 769,
     "uikTvd": "442402466827",
+    "uikName": "УИК №769",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2659,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7693,8 +9196,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 770,
     "uikTvd": "442402466828",
+    "uikName": "УИК №770",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2552,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7739,8 +9251,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 771,
     "uikTvd": "442402466829",
+    "uikName": "УИК №771",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2545,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7785,8 +9306,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 772,
     "uikTvd": "442402466830",
+    "uikName": "УИК №772",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2565,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7831,8 +9361,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 773,
     "uikTvd": "442402466831",
+    "uikName": "УИК №773",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2368,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7877,8 +9416,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 774,
     "uikTvd": "442402466832",
+    "uikName": "УИК №774",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2744,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7923,8 +9471,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 775,
     "uikTvd": "442402466833",
+    "uikName": "УИК №775",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2603,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7969,8 +9526,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "442402466834",
+    "uikName": "УИК №776",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1702,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8015,8 +9581,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "442402466835",
+    "uikName": "УИК №777",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1979,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8061,8 +9636,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "442402466836",
+    "uikName": "УИК №778",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2165,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8107,8 +9691,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "442402466837",
+    "uikName": "УИК №779",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8153,8 +9746,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "442402466838",
+    "uikName": "УИК №780",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2160,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8199,8 +9801,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "442402466839",
+    "uikName": "УИК №781",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2554,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8245,8 +9856,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "442402466840",
+    "uikName": "УИК №782",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2405,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8291,8 +9911,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "442402466841",
+    "uikName": "УИК №783",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2304,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8337,8 +9966,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "442402466842",
+    "uikName": "УИК №784",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2240,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8383,8 +10021,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "442402466843",
+    "uikName": "УИК №785",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2220,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8429,8 +10076,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "442402466844",
+    "uikName": "УИК №786",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2746,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8475,8 +10131,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "442402466845",
+    "uikName": "УИК №787",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2447,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8521,8 +10186,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "442402466846",
+    "uikName": "УИК №788",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2459,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8567,8 +10241,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "442402466847",
+    "uikName": "УИК №789",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2098,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8613,8 +10296,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "442402466848",
+    "uikName": "УИК №790",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1950,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8659,8 +10351,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "442402466849",
+    "uikName": "УИК №791",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2495,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8705,8 +10406,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "442402466850",
+    "uikName": "УИК №792",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2309,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8751,8 +10461,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "442402466851",
+    "uikName": "УИК №793",
     "tikTvd": "342300367335",
     "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2728,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8797,8 +10516,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 824,
     "uikTvd": "442402666701",
+    "uikName": "УИК  824",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2795,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8843,8 +10571,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 825,
     "uikTvd": "442402666702",
+    "uikName": "УИК  825",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2712,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8889,8 +10626,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 826,
     "uikTvd": "442402666703",
+    "uikName": "УИК  826",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2633,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8935,8 +10681,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 827,
     "uikTvd": "442402666704",
+    "uikName": "УИК  827",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2604,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8981,8 +10736,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 828,
     "uikTvd": "442402666705",
+    "uikName": "УИК  828",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2652,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9027,8 +10791,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 829,
     "uikTvd": "442402666706",
+    "uikName": "УИК  829",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2567,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9073,8 +10846,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 830,
     "uikTvd": "442402666707",
+    "uikName": "УИК  830",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2635,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9119,8 +10901,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 831,
     "uikTvd": "442402666708",
+    "uikName": "УИК  831",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1130,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9165,8 +10956,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 832,
     "uikTvd": "442402666709",
+    "uikName": "УИК  832",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1469,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9211,8 +11011,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 833,
     "uikTvd": "442402666710",
+    "uikName": "УИК  833",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -9257,8 +11066,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 834,
     "uikTvd": "442402666711",
+    "uikName": "УИК  834",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1723,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9303,8 +11121,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 835,
     "uikTvd": "442402666712",
+    "uikName": "УИК  835",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 960,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -9349,8 +11176,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 836,
     "uikTvd": "442402666713",
+    "uikName": "УИК  836",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1567,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9395,8 +11231,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 837,
     "uikTvd": "442402666714",
+    "uikName": "УИК  837",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2514,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9441,8 +11286,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 838,
     "uikTvd": "442402666715",
+    "uikName": "УИК  838",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1567,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9487,8 +11341,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 839,
     "uikTvd": "442402666716",
+    "uikName": "УИК  839",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1019,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -9533,8 +11396,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 840,
     "uikTvd": "442402666717",
+    "uikName": "УИК  840",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1705,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9579,8 +11451,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 841,
     "uikTvd": "442402666718",
+    "uikName": "УИК  841",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1045,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -9625,8 +11506,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 842,
     "uikTvd": "442402666719",
+    "uikName": "УИК  842",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9671,8 +11561,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 843,
     "uikTvd": "442402666720",
+    "uikName": "УИК  843",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 653,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -9717,8 +11616,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 844,
     "uikTvd": "442402666721",
+    "uikName": "УИК  844",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2158,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9763,8 +11671,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 845,
     "uikTvd": "442402666722",
+    "uikName": "УИК  845",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 580,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9809,8 +11726,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 846,
     "uikTvd": "442402666723",
+    "uikName": "УИК  846",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9855,8 +11781,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 847,
     "uikTvd": "442402666724",
+    "uikName": "УИК  847",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1408,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -9901,8 +11836,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 848,
     "uikTvd": "442402666725",
+    "uikName": "УИК  848",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2326,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9947,8 +11891,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 849,
     "uikTvd": "442402666726",
+    "uikName": "УИК  849",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 793,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -9993,8 +11946,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 850,
     "uikTvd": "442402666727",
+    "uikName": "УИК  850",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1809,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10039,8 +12001,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 851,
     "uikTvd": "442402666728",
+    "uikName": "УИК  851",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2776,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10085,8 +12056,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 852,
     "uikTvd": "442402666729",
+    "uikName": "УИК  852",
     "tikTvd": "342300367336",
     "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2708,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10131,8 +12111,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1162,
     "uikTvd": "442404266801",
+    "uikName": "УИК  1162",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 903,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -10176,8 +12165,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1163,
     "uikTvd": "442404266802",
+    "uikName": "УИК  1163",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1020,
       "Число бюллетеней, полученных участковыми комиссиями": 1025,
@@ -10221,8 +12219,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1164,
     "uikTvd": "442404266803",
+    "uikName": "УИК  1164",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -10266,8 +12273,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1165,
     "uikTvd": "442404266804",
+    "uikName": "УИК  1165",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 731,
       "Число бюллетеней, полученных участковыми комиссиями": 754,
@@ -10311,8 +12327,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1166,
     "uikTvd": "442404266805",
+    "uikName": "УИК  1166",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -10356,8 +12381,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1167,
     "uikTvd": "442404266806",
+    "uikName": "УИК  1167",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 837,
@@ -10401,8 +12435,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1168,
     "uikTvd": "442404266807",
+    "uikName": "УИК  1168",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10446,8 +12489,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1169,
     "uikTvd": "442404266808",
+    "uikName": "УИК  1169",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 744,
       "Число бюллетеней, полученных участковыми комиссиями": 736,
@@ -10491,8 +12543,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1170,
     "uikTvd": "442404266809",
+    "uikName": "УИК  1170",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 387,
@@ -10536,8 +12597,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1171,
     "uikTvd": "442404266810",
+    "uikName": "УИК  1171",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 221,
@@ -10581,8 +12651,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1172,
     "uikTvd": "442404266811",
+    "uikName": "УИК  1172",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -10626,8 +12705,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1173,
     "uikTvd": "442404266812",
+    "uikName": "УИК  1173",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 368,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -10671,8 +12759,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1174,
     "uikTvd": "442404266813",
+    "uikName": "УИК  1174",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -10716,8 +12813,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1175,
     "uikTvd": "442404266814",
+    "uikName": "УИК  1175",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -10761,8 +12867,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1176,
     "uikTvd": "442404266815",
+    "uikName": "УИК  1176",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 818,
       "Число бюллетеней, полученных участковыми комиссиями": 785,
@@ -10806,8 +12921,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1177,
     "uikTvd": "442404266816",
+    "uikName": "УИК  1177",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -10851,8 +12975,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1178,
     "uikTvd": "442404266817",
+    "uikName": "УИК  1178",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 456,
@@ -10896,8 +13029,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1179,
     "uikTvd": "442404266818",
+    "uikName": "УИК  1179",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 80,
       "Число бюллетеней, полученных участковыми комиссиями": 81,
@@ -10941,8 +13083,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1180,
     "uikTvd": "442404266819",
+    "uikName": "УИК  1180",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -10986,8 +13137,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1181,
     "uikTvd": "442404266820",
+    "uikName": "УИК  1181",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 113,
@@ -11031,8 +13191,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1182,
     "uikTvd": "442404266821",
+    "uikName": "УИК  1182",
     "tikTvd": "342300467001",
     "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -11076,8 +13245,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "442400567701",
+    "uikName": "УИК  157",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1158,
       "Число бюллетеней, полученных участковыми комиссиями": 1184,
@@ -11121,8 +13299,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "442400567702",
+    "uikName": "УИК  158",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 748,
       "Число бюллетеней, полученных участковыми комиссиями": 752,
@@ -11166,8 +13353,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "442400567703",
+    "uikName": "УИК  159",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 697,
       "Число бюллетеней, полученных участковыми комиссиями": 1393,
@@ -11211,8 +13407,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "442400567704",
+    "uikName": "УИК  160",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1241,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -11256,8 +13461,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "442400567705",
+    "uikName": "УИК  161",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1588,
       "Число бюллетеней, полученных участковыми комиссиями": 1656,
@@ -11301,8 +13515,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "442400567706",
+    "uikName": "УИК  162",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 884,
       "Число бюллетеней, полученных участковыми комиссиями": 908,
@@ -11346,8 +13569,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "442400567707",
+    "uikName": "УИК  163",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2029,
       "Число бюллетеней, полученных участковыми комиссиями": 1978,
@@ -11391,8 +13623,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "442400567708",
+    "uikName": "УИК  164",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1538,
       "Число бюллетеней, полученных участковыми комиссиями": 1621,
@@ -11436,8 +13677,17 @@ export const duma_2003_uik_428_region_42_part_005 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "442400567709",
+    "uikName": "УИК  165",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1220,
       "Число бюллетеней, полученных участковыми комиссиями": 1210,

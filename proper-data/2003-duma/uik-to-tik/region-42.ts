@@ -7,10093 +7,25231 @@ export const duma_2003_uik_to_tik_region_42 = [
   {
     "uikNumber": 1,
     "uikTvd": "442400166783",
+    "uikName": "УИК №1",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "442400166784",
+    "uikName": "УИК №2",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "442400166785",
+    "uikName": "УИК №3",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "442400166786",
+    "uikName": "УИК №4",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "442400166787",
+    "uikName": "УИК №5",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "442400166788",
+    "uikName": "УИК №6",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "442400166789",
+    "uikName": "УИК №7",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "442400166790",
+    "uikName": "УИК №8",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "442400166791",
+    "uikName": "УИК №9",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "442400166792",
+    "uikName": "УИК №10",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "442400166793",
+    "uikName": "УИК №11",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "442400166794",
+    "uikName": "УИК №12",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "442400166795",
+    "uikName": "УИК №13",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "442400166796",
+    "uikName": "УИК №14",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "442400166797",
+    "uikName": "УИК №15",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "442400166798",
+    "uikName": "УИК №16",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "442400166799",
+    "uikName": "УИК №17",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "442400166800",
+    "uikName": "УИК №18",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "442400166801",
+    "uikName": "УИК №19",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "442400166802",
+    "uikName": "УИК №20",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "442400166803",
+    "uikName": "УИК №21",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "442400166804",
+    "uikName": "УИК №22",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "442400166805",
+    "uikName": "УИК №23",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "442400166806",
+    "uikName": "УИК №24",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "442400166807",
+    "uikName": "УИК №25",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "442400166808",
+    "uikName": "УИК №26",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "442400166809",
+    "uikName": "УИК №27",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "442400166810",
+    "uikName": "УИК №28",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "442400166811",
+    "uikName": "УИК №29",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "442400166812",
+    "uikName": "УИК №30",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "442400166813",
+    "uikName": "УИК №31",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "442400166814",
+    "uikName": "УИК №32",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "442400166815",
+    "uikName": "УИК №33",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "442400166816",
+    "uikName": "УИК №34",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "442400166817",
+    "uikName": "УИК №35",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "442400166818",
+    "uikName": "УИК №36",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "442400166819",
+    "uikName": "УИК №37",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "442400166820",
+    "uikName": "УИК №38",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "442400166821",
+    "uikName": "УИК №39",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "442400166822",
+    "uikName": "УИК №40",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "442400166823",
+    "uikName": "УИК №41",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "442400166824",
+    "uikName": "УИК №42",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "442400166825",
+    "uikName": "УИК №43",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "442400166826",
+    "uikName": "УИК №44",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "442400166827",
+    "uikName": "УИК №45",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "442400166828",
+    "uikName": "УИК №46",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "442400166829",
+    "uikName": "УИК №47",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "442400166830",
+    "uikName": "УИК №48",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "442400166831",
+    "uikName": "УИК №49",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "442400166832",
+    "uikName": "УИК №50",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "442400166833",
+    "uikName": "УИК №51",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "442400166834",
+    "uikName": "УИК №52",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "442400166835",
+    "uikName": "УИК №53",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "442400166836",
+    "uikName": "УИК №54",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "442400166837",
+    "uikName": "УИК №55",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "442400166838",
+    "uikName": "УИК №56",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "442400166839",
+    "uikName": "УИК №57",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "442400166840",
+    "uikName": "УИК №58",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "442400166841",
+    "uikName": "УИК №59",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "442400166842",
+    "uikName": "УИК №60",
     "tikTvd": "342300167380",
-    "tikName": "Анжеро-Судженская городская"
+    "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "442400267374",
+    "uikName": "УИК  61",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "442400267376",
+    "uikName": "УИК  62",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "442400267377",
+    "uikName": "УИК  63",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "442400267378",
+    "uikName": "УИК  64",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "442400267379",
+    "uikName": "УИК  65",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "442400267380",
+    "uikName": "УИК  66",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "442400267381",
+    "uikName": "УИК  67",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "442400267382",
+    "uikName": "УИК  68",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "442400267383",
+    "uikName": "УИК  69",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "442400267384",
+    "uikName": "УИК  70",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "442400267385",
+    "uikName": "УИК  71",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "442400267386",
+    "uikName": "УИК  72",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "442400267387",
+    "uikName": "УИК  73",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "442400267388",
+    "uikName": "УИК  74",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "442400267389",
+    "uikName": "УИК  75",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "442400267390",
+    "uikName": "УИК  76",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "442400267391",
+    "uikName": "УИК  77",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "442400267392",
+    "uikName": "УИК  78",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "442400267393",
+    "uikName": "УИК  79",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "442400267394",
+    "uikName": "УИК  80",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "442400267395",
+    "uikName": "УИК  81",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "442400267396",
+    "uikName": "УИК  82",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "442400267397",
+    "uikName": "УИК  83",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "442400267398",
+    "uikName": "УИК  84",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "442400267399",
+    "uikName": "УИК  85",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "442400267400",
+    "uikName": "УИК  86",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "442400267401",
+    "uikName": "УИК  87",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "442400267402",
+    "uikName": "УИК  88",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "442400267403",
+    "uikName": "УИК  89",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "442400267404",
+    "uikName": "УИК  90",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "442400267405",
+    "uikName": "УИК  91",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "442400267406",
+    "uikName": "УИК  92",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "442400267407",
+    "uikName": "УИК  93",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "442400267408",
+    "uikName": "УИК  94",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "442400267409",
+    "uikName": "УИК  95",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "442400267410",
+    "uikName": "УИК  96",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "442400267411",
+    "uikName": "УИК  97",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "442400267412",
+    "uikName": "УИК  98",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "442400267413",
+    "uikName": "УИК  99",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "442400267414",
+    "uikName": "УИК  100",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "442400267415",
+    "uikName": "УИК  101",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "442400267416",
+    "uikName": "УИК  102",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "442400267417",
+    "uikName": "УИК  103",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "442400267418",
+    "uikName": "УИК  104",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "442400267419",
+    "uikName": "УИК  105",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "442400267420",
+    "uikName": "УИК  106",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "442400267421",
+    "uikName": "УИК  107",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "442400267422",
+    "uikName": "УИК  108",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "442400267423",
+    "uikName": "УИК  109",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "442400267424",
+    "uikName": "УИК  110",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "442400267425",
+    "uikName": "УИК  111",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "442400267426",
+    "uikName": "УИК  112",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "442400267427",
+    "uikName": "УИК  113",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "442400267428",
+    "uikName": "УИК  114",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "442400267429",
+    "uikName": "УИК  115",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "442400267430",
+    "uikName": "УИК  116",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "442400267431",
+    "uikName": "УИК  117",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "442400267432",
+    "uikName": "УИК  118",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "442400267433",
+    "uikName": "УИК  119",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "442400267434",
+    "uikName": "УИК  120",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "442400267435",
+    "uikName": "УИК  121",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "442400267436",
+    "uikName": "УИК  122",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "442400267437",
+    "uikName": "УИК  123",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "442400267438",
+    "uikName": "УИК  124",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "442400267439",
+    "uikName": "УИК  125",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "442400267440",
+    "uikName": "УИК  126",
     "tikTvd": "342300267475",
-    "tikName": "Беловская городская"
+    "tikName": "Беловская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "442400466874",
+    "uikName": "УИК №127",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "442400466875",
+    "uikName": "УИК №128",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "442400466876",
+    "uikName": "УИК №129",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "442400466877",
+    "uikName": "УИК №130",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "442400466878",
+    "uikName": "УИК №131",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "442400466879",
+    "uikName": "УИК №132",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "442400466880",
+    "uikName": "УИК №133",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "442400466881",
+    "uikName": "УИК №134",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "442400466882",
+    "uikName": "УИК №135",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "442400466883",
+    "uikName": "УИК №136",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "442400466884",
+    "uikName": "УИК №137",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "442400466885",
+    "uikName": "УИК №138",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "442400466886",
+    "uikName": "УИК №139",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "442400466887",
+    "uikName": "УИК №140",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "442400466888",
+    "uikName": "УИК №141",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "442400466889",
+    "uikName": "УИК №142",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "442400466890",
+    "uikName": "УИК №143",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "442400466891",
+    "uikName": "УИК №144",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "442400466892",
+    "uikName": "УИК №145",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "442400466893",
+    "uikName": "УИК №146",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "442400466894",
+    "uikName": "УИК №147",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "442400466895",
+    "uikName": "УИК №148",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "442400466896",
+    "uikName": "УИК №149",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "442400466897",
+    "uikName": "УИК №150",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "442400466898",
+    "uikName": "УИК №151",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "442400466899",
+    "uikName": "УИК №152",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "442400466900",
+    "uikName": "УИК №153",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "442400466901",
+    "uikName": "УИК №154",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "442400466902",
+    "uikName": "УИК №155",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "442400466903",
+    "uikName": "УИК №156",
     "tikTvd": "342300167381",
-    "tikName": "Березовская городская"
+    "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "442400567701",
+    "uikName": "УИК  157",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "442400567702",
+    "uikName": "УИК  158",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "442400567703",
+    "uikName": "УИК  159",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "442400567704",
+    "uikName": "УИК  160",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "442400567705",
+    "uikName": "УИК  161",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "442400567706",
+    "uikName": "УИК  162",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "442400567707",
+    "uikName": "УИК  163",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "442400567708",
+    "uikName": "УИК  164",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "442400567709",
+    "uikName": "УИК  165",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "442400567710",
+    "uikName": "УИК  166",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "442400567711",
+    "uikName": "УИК  167",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "442400567712",
+    "uikName": "УИК  168",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "442400567713",
+    "uikName": "УИК  169",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "442400567714",
+    "uikName": "УИК  170",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "442400567715",
+    "uikName": "УИК  171",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "442400567716",
+    "uikName": "УИК  172",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "442400567717",
+    "uikName": "УИК  173",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "442400567718",
+    "uikName": "УИК  174",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "442400567719",
+    "uikName": "УИК  175",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "442400567720",
+    "uikName": "УИК  176",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "442400567721",
+    "uikName": "УИК  177",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "442400567722",
+    "uikName": "УИК  178",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "442400567723",
+    "uikName": "УИК  179",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "442400567724",
+    "uikName": "УИК  180",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "442400567725",
+    "uikName": "УИК  181",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "442400567726",
+    "uikName": "УИК  182",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "442400567727",
+    "uikName": "УИК  183",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "442400567728",
+    "uikName": "УИК  184",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "442400567729",
+    "uikName": "УИК  185",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "442400567730",
+    "uikName": "УИК  186",
     "tikTvd": "342300467002",
-    "tikName": "Гурьевская городская"
+    "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "442400767483",
+    "uikName": "УИК №187",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "442400767484",
+    "uikName": "УИК №188",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "442400767485",
+    "uikName": "УИК №189",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "442400767486",
+    "uikName": "УИК №190",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "442400767487",
+    "uikName": "УИК №191",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "442400767488",
+    "uikName": "УИК №192",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "442400767489",
+    "uikName": "УИК №193",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "442400767490",
+    "uikName": "УИК №194",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "442400767491",
+    "uikName": "УИК №195",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "442400767492",
+    "uikName": "УИК №196",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "442400767493",
+    "uikName": "УИК №197",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "442400767494",
+    "uikName": "УИК №198",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "442400767495",
+    "uikName": "УИК №199",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "442400767496",
+    "uikName": "УИК №200",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "442400767497",
+    "uikName": "УИК №201",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "442400767498",
+    "uikName": "УИК №202",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "442400767499",
+    "uikName": "УИК №203",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "442400767500",
+    "uikName": "УИК №204",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "442400767501",
+    "uikName": "УИК №205",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "442400767502",
+    "uikName": "УИК №206",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "442400767503",
+    "uikName": "УИК №207",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "442400767504",
+    "uikName": "УИК №208",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "442400767505",
+    "uikName": "УИК №209",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "442400767506",
+    "uikName": "УИК №210",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "442400767507",
+    "uikName": "УИК №211",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "442400767508",
+    "uikName": "УИК №212",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "442400767509",
+    "uikName": "УИК №213",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "442400767510",
+    "uikName": "УИК №214",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "442400767511",
+    "uikName": "УИК №215",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "442400767512",
+    "uikName": "УИК №216",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "442400767513",
+    "uikName": "УИК №217",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "442400767514",
+    "uikName": "УИК №218",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "442400767515",
+    "uikName": "УИК №219",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "442400767516",
+    "uikName": "УИК №220",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "442400767517",
+    "uikName": "УИК №221",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "442400767518",
+    "uikName": "УИК №222",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "442400767519",
+    "uikName": "УИК №223",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "442400767520",
+    "uikName": "УИК №224",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "442400767521",
+    "uikName": "УИК №225",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "442400767522",
+    "uikName": "УИК №226",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "442400767523",
+    "uikName": "УИК №227",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "442400767524",
+    "uikName": "УИК №228",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "442400767525",
+    "uikName": "УИК №229",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "442400767526",
+    "uikName": "УИК №230",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "442400767527",
+    "uikName": "УИК №231",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "442400767528",
+    "uikName": "УИК №232",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "442400767529",
+    "uikName": "УИК №233",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "442400767530",
+    "uikName": "УИК №234",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "442400767481",
+    "uikName": "УИК №235",
     "tikTvd": "342300167382",
-    "tikName": "Кемерово, Заводская"
+    "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "442400866824",
+    "uikName": "УИК №236",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "442400866825",
+    "uikName": "УИК №237",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "442400866826",
+    "uikName": "УИК №238",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "442400866827",
+    "uikName": "УИК №239",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "442400866828",
+    "uikName": "УИК №240",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "442400866829",
+    "uikName": "УИК №241",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "442400866830",
+    "uikName": "УИК №242",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "442400866831",
+    "uikName": "УИК №243",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "442400866832",
+    "uikName": "УИК №244",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "442400866833",
+    "uikName": "УИК №245",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "442400866834",
+    "uikName": "УИК №246",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "442400866835",
+    "uikName": "УИК №247",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "442400866836",
+    "uikName": "УИК №248",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "442400866837",
+    "uikName": "УИК №249",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "442400866838",
+    "uikName": "УИК №250",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "442400866839",
+    "uikName": "УИК №251",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "442400866840",
+    "uikName": "УИК №252",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "442400866841",
+    "uikName": "УИК №253",
     "tikTvd": "342300167383",
-    "tikName": "Кемерово, Кировская"
+    "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "442400966985",
+    "uikName": "УИК №254",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "442400966986",
+    "uikName": "УИК №255",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "442400966987",
+    "uikName": "УИК №256",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "442400966988",
+    "uikName": "УИК №257",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "442400966989",
+    "uikName": "УИК №258",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "442400966990",
+    "uikName": "УИК №259",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "442400966991",
+    "uikName": "УИК №260",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "442400966992",
+    "uikName": "УИК №261",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "442400966993",
+    "uikName": "УИК №262",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "442400966994",
+    "uikName": "УИК №263",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "442400966995",
+    "uikName": "УИК №264",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "442400966996",
+    "uikName": "УИК №265",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "442400966997",
+    "uikName": "УИК №266",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "442400966998",
+    "uikName": "УИК №267",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "442400966999",
+    "uikName": "УИК №268",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "442400967000",
+    "uikName": "УИК №269",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "442400967001",
+    "uikName": "УИК №270",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "442400967002",
+    "uikName": "УИК №271",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "442400967003",
+    "uikName": "УИК №272",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "442400967004",
+    "uikName": "УИК №273",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "442400967005",
+    "uikName": "УИК №274",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "442400967006",
+    "uikName": "УИК №275",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "442400967007",
+    "uikName": "УИК №276",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "442400967008",
+    "uikName": "УИК №277",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "442400967009",
+    "uikName": "УИК №278",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "442400967010",
+    "uikName": "УИК №279",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "442400967011",
+    "uikName": "УИК №280",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "442400967012",
+    "uikName": "УИК №281",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "442400967013",
+    "uikName": "УИК №282",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "442400967014",
+    "uikName": "УИК №283",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "442400967015",
+    "uikName": "УИК №284",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "442400967016",
+    "uikName": "УИК №285",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "442400967017",
+    "uikName": "УИК №286",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "442400967018",
+    "uikName": "УИК №287",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "442400967019",
+    "uikName": "УИК №288",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "442400967020",
+    "uikName": "УИК №289",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "442400967021",
+    "uikName": "УИК №290",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "442400967022",
+    "uikName": "УИК №291",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "442400967023",
+    "uikName": "УИК №292",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "442400967024",
+    "uikName": "УИК №293",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "442400967025",
+    "uikName": "УИК №294",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "442400967026",
+    "uikName": "УИК №295",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "442400967027",
+    "uikName": "УИК №296",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "442400967028",
+    "uikName": "УИК №297",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "442400967029",
+    "uikName": "УИК №298",
     "tikTvd": "342300167384",
-    "tikName": "Кемерово, Ленинская"
+    "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "442401166777",
+    "uikName": "УИК №299",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "442401166781",
+    "uikName": "УИК №300",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "442401166782",
+    "uikName": "УИК №301",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "442401166783",
+    "uikName": "УИК №302",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "442401166784",
+    "uikName": "УИК №303",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "442401166785",
+    "uikName": "УИК №304",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "442401166786",
+    "uikName": "УИК №305",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "442401166787",
+    "uikName": "УИК №306",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "442401166788",
+    "uikName": "УИК №307",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "442401166789",
+    "uikName": "УИК №308",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "442401166790",
+    "uikName": "УИК №309",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "442401166791",
+    "uikName": "УИК №310",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "442401166792",
+    "uikName": "УИК №311",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "442401166793",
+    "uikName": "УИК №312",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "442401166794",
+    "uikName": "УИК №313",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "442401166795",
+    "uikName": "УИК №314",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "442401166796",
+    "uikName": "УИК №315",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "442401166797",
+    "uikName": "УИК №316",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "442401166798",
+    "uikName": "УИК №317",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "442401166799",
+    "uikName": "УИК №318",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "442401166800",
+    "uikName": "УИК №319",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "442401166801",
+    "uikName": "УИК №320",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "442401166802",
+    "uikName": "УИК №321",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "442401166803",
+    "uikName": "УИК №322",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "442401166804",
+    "uikName": "УИК №323",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "442401166805",
+    "uikName": "УИК №324",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "442401166806",
+    "uikName": "УИК №325",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "442401166807",
+    "uikName": "УИК №326",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "442401166808",
+    "uikName": "УИК №327",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "442401166809",
+    "uikName": "УИК №328",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "442401166810",
+    "uikName": "УИК №329",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "442401166811",
+    "uikName": "УИК №330",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "442401166812",
+    "uikName": "УИК №331",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "442401166813",
+    "uikName": "УИК №332",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "442401166814",
+    "uikName": "УИК №333",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "442401166815",
+    "uikName": "УИК №334",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "442401166816",
+    "uikName": "УИК №335",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "442401166817",
+    "uikName": "УИК №336",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "442401166818",
+    "uikName": "УИК №337",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "442401166819",
+    "uikName": "УИК №338",
     "tikTvd": "342300167386",
-    "tikName": "Кемерово, Центральная"
+    "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "442401066794",
+    "uikName": "УИК №339",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "442401066795",
+    "uikName": "УИК №340",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "442401066796",
+    "uikName": "УИК №341",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "442401066797",
+    "uikName": "УИК №342",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "442401066798",
+    "uikName": "УИК №343",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "442401066799",
+    "uikName": "УИК №344",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "442401066800",
+    "uikName": "УИК №345",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "442401066801",
+    "uikName": "УИК №346",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "442401066802",
+    "uikName": "УИК №347",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "442401066803",
+    "uikName": "УИК №348",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "442401066804",
+    "uikName": "УИК №349",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "442401066805",
+    "uikName": "УИК №350",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "442401066806",
+    "uikName": "УИК №351",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "442401066807",
+    "uikName": "УИК №352",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "442401066808",
+    "uikName": "УИК №353",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "442401066809",
+    "uikName": "УИК №354",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "442401066810",
+    "uikName": "УИК №355",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "442401066811",
+    "uikName": "УИК №356",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "442401066812",
+    "uikName": "УИК №357",
     "tikTvd": "342300167385",
-    "tikName": "Кемерово, Рудничная"
+    "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "442404866712",
+    "uikName": "УИК №358",
     "tikTvd": "342300167379",
-    "tikName": "Кемерово, Кедровская"
+    "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "442404866713",
+    "uikName": "УИК №359",
     "tikTvd": "342300167379",
-    "tikName": "Кемерово, Кедровская"
+    "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "442404866714",
+    "uikName": "УИК №360",
     "tikTvd": "342300167379",
-    "tikName": "Кемерово, Кедровская"
+    "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "442404866715",
+    "uikName": "УИК №361",
     "tikTvd": "342300167379",
-    "tikName": "Кемерово, Кедровская"
+    "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "442404866716",
+    "uikName": "УИК №362",
     "tikTvd": "342300167379",
-    "tikName": "Кемерово, Кедровская"
+    "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "442404866717",
+    "uikName": "УИК №363",
     "tikTvd": "342300167379",
-    "tikName": "Кемерово, Кедровская"
+    "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "442404866718",
+    "uikName": "УИК №364",
     "tikTvd": "342300167379",
-    "tikName": "Кемерово, Кедровская"
+    "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "442404866719",
+    "uikName": "УИК №365",
     "tikTvd": "342300167379",
-    "tikName": "Кемерово, Кедровская"
+    "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "442401366850",
+    "uikName": "УИК №366",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "442401366851",
+    "uikName": "УИК №367",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "442401366852",
+    "uikName": "УИК №368",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "442401366853",
+    "uikName": "УИК №369",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "442401366854",
+    "uikName": "УИК №370",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "442401366855",
+    "uikName": "УИК №371",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "442401366856",
+    "uikName": "УИК №372",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "442401366857",
+    "uikName": "УИК №373",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "442401366858",
+    "uikName": "УИК №374",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "442401366859",
+    "uikName": "УИК №375",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "442401366860",
+    "uikName": "УИК №376",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "442401366861",
+    "uikName": "УИК №377",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "442401366862",
+    "uikName": "УИК №378",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "442401366863",
+    "uikName": "УИК №379",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "442401366864",
+    "uikName": "УИК №380",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "442401366865",
+    "uikName": "УИК №381",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "442401366866",
+    "uikName": "УИК №382",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "442401366867",
+    "uikName": "УИК №383",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "442401366868",
+    "uikName": "УИК №384",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "442401366869",
+    "uikName": "УИК №385",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "442401366870",
+    "uikName": "УИК №386",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "442401366871",
+    "uikName": "УИК №387",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "442401366872",
+    "uikName": "УИК №388",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "442401366873",
+    "uikName": "УИК №389",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "442401366874",
+    "uikName": "УИК №390",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "442401366875",
+    "uikName": "УИК №391",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "442401366876",
+    "uikName": "УИК №392",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "442401366877",
+    "uikName": "УИК №393",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "442401366878",
+    "uikName": "УИК №394",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "442401366879",
+    "uikName": "УИК №395",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "442401366880",
+    "uikName": "УИК №396",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "442401366881",
+    "uikName": "УИК №397",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "442401366882",
+    "uikName": "УИК №398",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "442401366883",
+    "uikName": "УИК №399",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "442401366884",
+    "uikName": "УИК №400",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "442401366885",
+    "uikName": "УИК №401",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "442401366886",
+    "uikName": "УИК №402",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "442401366887",
+    "uikName": "УИК №403",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "442401366888",
+    "uikName": "УИК №404",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "442401366889",
+    "uikName": "УИК №405",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "442401366890",
+    "uikName": "УИК №406",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "442401366891",
+    "uikName": "УИК №407",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "442401366892",
+    "uikName": "УИК №408",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "442401366893",
+    "uikName": "УИК №409",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "442401366894",
+    "uikName": "УИК №410",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "442401366895",
+    "uikName": "УИК №411",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "442401366896",
+    "uikName": "УИК №412",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "442401366897",
+    "uikName": "УИК №413",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "442401366898",
+    "uikName": "УИК №414",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "442401366899",
+    "uikName": "УИК №415",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "442401366900",
+    "uikName": "УИК №416",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "442401366901",
+    "uikName": "УИК №417",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "442401366902",
+    "uikName": "УИК №418",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "442401366903",
+    "uikName": "УИК №419",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "442401366904",
+    "uikName": "УИК №420",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "442401366905",
+    "uikName": "УИК №421",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "442401366906",
+    "uikName": "УИК №422",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "442401366907",
+    "uikName": "УИК №423",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "442401366908",
+    "uikName": "УИК №424",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "442401366909",
+    "uikName": "УИК №425",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "442401366910",
+    "uikName": "УИК №426",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "442401366911",
+    "uikName": "УИК №427",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "442401366912",
+    "uikName": "УИК №428",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "442401366913",
+    "uikName": "УИК №429",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "442401366914",
+    "uikName": "УИК №430",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "442401366915",
+    "uikName": "УИК №431",
     "tikTvd": "342300467003",
-    "tikName": "Киселевская городская"
+    "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "442401666765",
+    "uikName": "УИК №432",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "442401666766",
+    "uikName": "УИК №433",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "442401666767",
+    "uikName": "УИК №434",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "442401666768",
+    "uikName": "УИК №435",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "442401666769",
+    "uikName": "УИК №436",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "442401666770",
+    "uikName": "УИК №437",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "442401666771",
+    "uikName": "УИК №438",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "442401666772",
+    "uikName": "УИК №439",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "442401666773",
+    "uikName": "УИК №440",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "442401666774",
+    "uikName": "УИК №441",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "442401666775",
+    "uikName": "УИК №442",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "442401666776",
+    "uikName": "УИК №443",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "442401666777",
+    "uikName": "УИК №444",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "442401666778",
+    "uikName": "УИК №445",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "442401666779",
+    "uikName": "УИК №446",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "442401666780",
+    "uikName": "УИК №447",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "442401666781",
+    "uikName": "УИК №448",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "442401666782",
+    "uikName": "УИК №449",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "442401666783",
+    "uikName": "УИК №450",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "442401666784",
+    "uikName": "УИК №451",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "442401666785",
+    "uikName": "УИК №452",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "442401666786",
+    "uikName": "УИК №453",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "442401666787",
+    "uikName": "УИК №454",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "442401666788",
+    "uikName": "УИК №455",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "442401666789",
+    "uikName": "УИК №456",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "442401666790",
+    "uikName": "УИК №457",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "442401666791",
+    "uikName": "УИК №458",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "442401666792",
+    "uikName": "УИК №459",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "442401666793",
+    "uikName": "УИК №460",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "442401666794",
+    "uikName": "УИК №461",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "442401666795",
+    "uikName": "УИК №462",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "442401666796",
+    "uikName": "УИК №463",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "442401666797",
+    "uikName": "УИК №464",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "442401666798",
+    "uikName": "УИК №465",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "442401666799",
+    "uikName": "УИК №466",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "442401666800",
+    "uikName": "УИК №467",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "442401666801",
+    "uikName": "УИК №468",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "442401666802",
+    "uikName": "УИК №469",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "442401666803",
+    "uikName": "УИК №470",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "442401666804",
+    "uikName": "УИК №471",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "442401666805",
+    "uikName": "УИК №472",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "442401666806",
+    "uikName": "УИК №473",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "442401666807",
+    "uikName": "УИК №474",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "442401666808",
+    "uikName": "УИК №475",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "442401666809",
+    "uikName": "УИК №476",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "442401666810",
+    "uikName": "УИК №477",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "442401666811",
+    "uikName": "УИК №478",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "442401666812",
+    "uikName": "УИК №479",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "442401666813",
+    "uikName": "УИК №480",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "442401666814",
+    "uikName": "УИК №481",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "442401666815",
+    "uikName": "УИК №482",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "442401666816",
+    "uikName": "УИК №483",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "442401666817",
+    "uikName": "УИК №484",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "442401666818",
+    "uikName": "УИК №485",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "442401666819",
+    "uikName": "УИК №486",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "442401666820",
+    "uikName": "УИК №487",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "442401666821",
+    "uikName": "УИК №488",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "442401666822",
+    "uikName": "УИК №489",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "442401666823",
+    "uikName": "УИК №490",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "442401666824",
+    "uikName": "УИК №491",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "442401666825",
+    "uikName": "УИК №492",
     "tikTvd": "342300267476",
-    "tikName": "Ленинск-Кузнецкая городская"
+    "tikName": "Ленинск-Кузнецкая городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "442401766825",
+    "uikName": "УИК №493",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "442401766826",
+    "uikName": "УИК №494",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "442401766827",
+    "uikName": "УИК №495",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "442401766828",
+    "uikName": "УИК №496",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "442401766829",
+    "uikName": "УИК №497",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "442401766830",
+    "uikName": "УИК №498",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "442401766831",
+    "uikName": "УИК №499",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "442401766832",
+    "uikName": "УИК №500",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "442401766833",
+    "uikName": "УИК №501",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "442401766834",
+    "uikName": "УИК №502",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "442401766835",
+    "uikName": "УИК №503",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "442401766836",
+    "uikName": "УИК №504",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "442401766837",
+    "uikName": "УИК №505",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "442401766838",
+    "uikName": "УИК №506",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "442401766839",
+    "uikName": "УИК №507",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "442401766840",
+    "uikName": "УИК №508",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "442401766841",
+    "uikName": "УИК №509",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "442401766842",
+    "uikName": "УИК №510",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "442401766843",
+    "uikName": "УИК №511",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "442401766844",
+    "uikName": "УИК №512",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "442401766845",
+    "uikName": "УИК №513",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "442401766846",
+    "uikName": "УИК №514",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "442401766847",
+    "uikName": "УИК №515",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "442401766848",
+    "uikName": "УИК №516",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "442401766849",
+    "uikName": "УИК №517",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "442401766850",
+    "uikName": "УИК №518",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "442401766851",
+    "uikName": "УИК №519",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "442401766852",
+    "uikName": "УИК №520",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "442401766853",
+    "uikName": "УИК №521",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "442401766854",
+    "uikName": "УИК №522",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "442401766855",
+    "uikName": "УИК №523",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "442401766856",
+    "uikName": "УИК №524",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "442401766857",
+    "uikName": "УИК №525",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "442401766858",
+    "uikName": "УИК №526",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "442401766859",
+    "uikName": "УИК №527",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "442401766860",
+    "uikName": "УИК №528",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "442401766861",
+    "uikName": "УИК №529",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "442401766862",
+    "uikName": "УИК №530",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "442401766863",
+    "uikName": "УИК №531",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "442401766864",
+    "uikName": "УИК №532",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "442401766865",
+    "uikName": "УИК №533",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "442401766866",
+    "uikName": "УИК №534",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "442401766867",
+    "uikName": "УИК №535",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "442401766868",
+    "uikName": "УИК №536",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "442401766869",
+    "uikName": "УИК №537",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "442401766870",
+    "uikName": "УИК №538",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "442401766871",
+    "uikName": "УИК №539",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "442401766872",
+    "uikName": "УИК №540",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "442401766873",
+    "uikName": "УИК №541",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "442401766874",
+    "uikName": "УИК №542",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "442401766875",
+    "uikName": "УИК №543",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "442401766876",
+    "uikName": "УИК №544",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "442401766877",
+    "uikName": "УИК №545",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "442401766878",
+    "uikName": "УИК №546",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "442401766879",
+    "uikName": "УИК №547",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "442401766880",
+    "uikName": "УИК №548",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "442401766881",
+    "uikName": "УИК №549",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "442401766882",
+    "uikName": "УИК №550",
     "tikTvd": "342300267478",
-    "tikName": "Мариинская городская"
+    "tikName": "Мариинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "442401866808",
+    "uikName": "УИК №551",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "442401866857",
+    "uikName": "УИК №552",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "442401866858",
+    "uikName": "УИК №553",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "442401866859",
+    "uikName": "УИК №554",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "442401866860",
+    "uikName": "УИК №555",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "442401866861",
+    "uikName": "УИК №556",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "442401866862",
+    "uikName": "УИК №557",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "442401866863",
+    "uikName": "УИК №558",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "442401866864",
+    "uikName": "УИК №559",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "442401866865",
+    "uikName": "УИК №560",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "442401866866",
+    "uikName": "УИК №561",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "442401866867",
+    "uikName": "УИК №562",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "442401866868",
+    "uikName": "УИК №563",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "442401866869",
+    "uikName": "УИК №564",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "442401866870",
+    "uikName": "УИК №565",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "442401866871",
+    "uikName": "УИК №566",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "442401866872",
+    "uikName": "УИК №567",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "442401866873",
+    "uikName": "УИК №568",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "442401866874",
+    "uikName": "УИК №569",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "442401866875",
+    "uikName": "УИК №570",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "442401866876",
+    "uikName": "УИК №571",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "442401866877",
+    "uikName": "УИК №572",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "442401866878",
+    "uikName": "УИК №573",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "442401866879",
+    "uikName": "УИК №574",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "442401866880",
+    "uikName": "УИК №575",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "442401866881",
+    "uikName": "УИК №576",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "442401866882",
+    "uikName": "УИК №577",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "442401866883",
+    "uikName": "УИК №578",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "442401866884",
+    "uikName": "УИК №579",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "442401866885",
+    "uikName": "УИК №580",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "442401866886",
+    "uikName": "УИК №581",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "442401866887",
+    "uikName": "УИК №582",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "442401866888",
+    "uikName": "УИК №583",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "442401866889",
+    "uikName": "УИК №584",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "442401866890",
+    "uikName": "УИК №585",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "442401866891",
+    "uikName": "УИК №586",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "442401866892",
+    "uikName": "УИК №587",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "442401866893",
+    "uikName": "УИК №588",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "442401866894",
+    "uikName": "УИК №589",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "442401866895",
+    "uikName": "УИК №590",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "442401866896",
+    "uikName": "УИК №591",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "442401866897",
+    "uikName": "УИК №592",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "442401866898",
+    "uikName": "УИК №593",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "442401866899",
+    "uikName": "УИК №594",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "442401866900",
+    "uikName": "УИК №595",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "442401866901",
+    "uikName": "УИК №596",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "442401866902",
+    "uikName": "УИК №597",
     "tikTvd": "342300467004",
-    "tikName": "Междуреченская городская"
+    "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "442401966709",
+    "uikName": "УИК №598",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "442401966710",
+    "uikName": "УИК №599",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "442401966711",
+    "uikName": "УИК №600",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "442401966712",
+    "uikName": "УИК №601",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "442401966713",
+    "uikName": "УИК №602",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "442401966714",
+    "uikName": "УИК №603",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "442401966715",
+    "uikName": "УИК №604",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "442401966716",
+    "uikName": "УИК №605",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "442401966717",
+    "uikName": "УИК №606",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "442401966718",
+    "uikName": "УИК №607",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "442401966719",
+    "uikName": "УИК №608",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "442401966720",
+    "uikName": "УИК №609",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "442401966721",
+    "uikName": "УИК №610",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "442401966722",
+    "uikName": "УИК №611",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "442401966723",
+    "uikName": "УИК №612",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "442401966724",
+    "uikName": "УИК №613",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "442401966725",
+    "uikName": "УИК №614",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "442401966726",
+    "uikName": "УИК №615",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "442401966727",
+    "uikName": "УИК №616",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "442401966728",
+    "uikName": "УИК №617",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "442401966729",
+    "uikName": "УИК №618",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "442401966730",
+    "uikName": "УИК №619",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "442401966731",
+    "uikName": "УИК №620",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "442401966732",
+    "uikName": "УИК №621",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "442401966733",
+    "uikName": "УИК №622",
     "tikTvd": "342300467005",
-    "tikName": "Мысковская городская"
+    "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "442402066786",
+    "uikName": "УИК №623",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "442402066787",
+    "uikName": "УИК №624",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "442402066788",
+    "uikName": "УИК №625",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "442402066789",
+    "uikName": "УИК №626",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "442402066790",
+    "uikName": "УИК №627",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "442402066791",
+    "uikName": "УИК №628",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "442402066792",
+    "uikName": "УИК №629",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "442402066793",
+    "uikName": "УИК №630",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "442402066794",
+    "uikName": "УИК №631",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "442402066795",
+    "uikName": "УИК №632",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "442402066796",
+    "uikName": "УИК №633",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "442402066797",
+    "uikName": "УИК №634",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "442402066798",
+    "uikName": "УИК №635",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "442402066799",
+    "uikName": "УИК №636",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "442402066800",
+    "uikName": "УИК №637",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "442402066801",
+    "uikName": "УИК №638",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "442402066802",
+    "uikName": "УИК №639",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "442402066803",
+    "uikName": "УИК №640",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "442402066804",
+    "uikName": "УИК №641",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "442402066805",
+    "uikName": "УИК №642",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "442402066806",
+    "uikName": "УИК №643",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "442402066807",
+    "uikName": "УИК №644",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "442402066808",
+    "uikName": "УИК №645",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "442402066809",
+    "uikName": "УИК №646",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "442402066810",
+    "uikName": "УИК №647",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "442402066811",
+    "uikName": "УИК №648",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "442402066812",
+    "uikName": "УИК №649",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "442402066813",
+    "uikName": "УИК №650",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "442402066814",
+    "uikName": "УИК №651",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "442402066815",
+    "uikName": "УИК №652",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "442402066816",
+    "uikName": "УИК №653",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "442402066817",
+    "uikName": "УИК №654",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "442402066818",
+    "uikName": "УИК №655",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "442402066819",
+    "uikName": "УИК №656",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "442402066820",
+    "uikName": "УИК №657",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "442402066821",
+    "uikName": "УИК №658",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "442402066822",
+    "uikName": "УИК №659",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "442402066823",
+    "uikName": "УИК №660",
     "tikTvd": "342300367330",
-    "tikName": "Новокузнецк, Заводская"
+    "tikName": "Новокузнецк, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "442404766731",
+    "uikName": "УИК №661",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "442404766732",
+    "uikName": "УИК №662",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "442404766733",
+    "uikName": "УИК №663",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "442404766734",
+    "uikName": "УИК №664",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "442404766735",
+    "uikName": "УИК №665",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "442404766736",
+    "uikName": "УИК №666",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "442404766737",
+    "uikName": "УИК №667",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "442404766738",
+    "uikName": "УИК №668",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "442404766739",
+    "uikName": "УИК №669",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "442404766740",
+    "uikName": "УИК №670",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "442404766741",
+    "uikName": "УИК №671",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "442404766742",
+    "uikName": "УИК №672",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "442404766743",
+    "uikName": "УИК №673",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "442404766744",
+    "uikName": "УИК №674",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "442404766745",
+    "uikName": "УИК №675",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "442404766746",
+    "uikName": "УИК №676",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "442404766747",
+    "uikName": "УИК №677",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "442404766748",
+    "uikName": "УИК №678",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "442404766749",
+    "uikName": "УИК №679",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "442404766750",
+    "uikName": "УИК №680",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "442404766751",
+    "uikName": "УИК №681",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "442404766752",
+    "uikName": "УИК №682",
     "tikTvd": "342300367333",
-    "tikName": "Новокузнецк, Новоильинская"
+    "tikName": "Новокузнецк, Новоильинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "442402166786",
+    "uikName": "УИК №683",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "442402166787",
+    "uikName": "УИК №684",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "442402166788",
+    "uikName": "УИК №685",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "442402166789",
+    "uikName": "УИК №686",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "442402166790",
+    "uikName": "УИК №687",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "442402166791",
+    "uikName": "УИК №688",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "442402166792",
+    "uikName": "УИК №689",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "442402166793",
+    "uikName": "УИК №690",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "442402166794",
+    "uikName": "УИК №691",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "442402166795",
+    "uikName": "УИК №692",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "442402166796",
+    "uikName": "УИК №693",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "442402166797",
+    "uikName": "УИК №694",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "442402166798",
+    "uikName": "УИК №695",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "442402166799",
+    "uikName": "УИК №696",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "442402166800",
+    "uikName": "УИК №697",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "442402166801",
+    "uikName": "УИК №698",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "442402166802",
+    "uikName": "УИК №699",
     "tikTvd": "342300367331",
-    "tikName": "Новокузнецк, Кузнецкая"
+    "tikName": "Новокузнецк, Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "442402266791",
+    "uikName": "УИК №700",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "442402266792",
+    "uikName": "УИК №701",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "442402266793",
+    "uikName": "УИК №702",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "442402266794",
+    "uikName": "УИК №703",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "442402266795",
+    "uikName": "УИК №704",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "442402266796",
+    "uikName": "УИК №705",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "442402266797",
+    "uikName": "УИК №706",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "442402266798",
+    "uikName": "УИК №707",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "442402266799",
+    "uikName": "УИК №708",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "442402266800",
+    "uikName": "УИК №709",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "442402266801",
+    "uikName": "УИК №710",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "442402266802",
+    "uikName": "УИК №711",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "442402266803",
+    "uikName": "УИК №712",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "442402266804",
+    "uikName": "УИК №713",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "442402266805",
+    "uikName": "УИК №714",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "442402266806",
+    "uikName": "УИК №715",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "442402266807",
+    "uikName": "УИК №716",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "442402266808",
+    "uikName": "УИК №717",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "442402266809",
+    "uikName": "УИК №718",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "442402266810",
+    "uikName": "УИК №719",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "442402266811",
+    "uikName": "УИК №720",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "442402266812",
+    "uikName": "УИК №721",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "442402266813",
+    "uikName": "УИК №722",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "442402266814",
+    "uikName": "УИК №723",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "442402266815",
+    "uikName": "УИК №724",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "442402266816",
+    "uikName": "УИК №725",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "442402266817",
+    "uikName": "УИК №726",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "442402266818",
+    "uikName": "УИК №727",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "442402266819",
+    "uikName": "УИК №728",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "442402266820",
+    "uikName": "УИК №729",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "442402266821",
+    "uikName": "УИК №730",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "442402266822",
+    "uikName": "УИК №731",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "442402266823",
+    "uikName": "УИК №732",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "442402266824",
+    "uikName": "УИК №733",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "442402266825",
+    "uikName": "УИК №734",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "442402266826",
+    "uikName": "УИК №735",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "442402266827",
+    "uikName": "УИК №736",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "442402466942",
+    "uikName": "УИК №737",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "442402466796",
+    "uikName": "УИК №738",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "442402466797",
+    "uikName": "УИК №739",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "442402466798",
+    "uikName": "УИК №740",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "442402466799",
+    "uikName": "УИК №741",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "442402466800",
+    "uikName": "УИК №742",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "442402466801",
+    "uikName": "УИК №743",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "442402466802",
+    "uikName": "УИК №744",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "442402466803",
+    "uikName": "УИК №745",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "442402466804",
+    "uikName": "УИК №746",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "442402466805",
+    "uikName": "УИК №747",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "442402466806",
+    "uikName": "УИК №748",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "442402466807",
+    "uikName": "УИК №749",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "442402466808",
+    "uikName": "УИК №750",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "442402466809",
+    "uikName": "УИК №751",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "442402466810",
+    "uikName": "УИК №752",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "442402466811",
+    "uikName": "УИК №753",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "442402466812",
+    "uikName": "УИК №754",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "442402466813",
+    "uikName": "УИК №755",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "442402466814",
+    "uikName": "УИК №756",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "442402466815",
+    "uikName": "УИК №757",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "442402466816",
+    "uikName": "УИК №758",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "442402466817",
+    "uikName": "УИК №759",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "442402466818",
+    "uikName": "УИК №760",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "442402466819",
+    "uikName": "УИК №761",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "442402466820",
+    "uikName": "УИК №762",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "442402466821",
+    "uikName": "УИК №763",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "442402466822",
+    "uikName": "УИК №764",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "442402466823",
+    "uikName": "УИК №765",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "442402466824",
+    "uikName": "УИК №766",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "442402466825",
+    "uikName": "УИК №767",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "442402466826",
+    "uikName": "УИК №768",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "442402466827",
+    "uikName": "УИК №769",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "442402466828",
+    "uikName": "УИК №770",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "442402466829",
+    "uikName": "УИК №771",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "442402466830",
+    "uikName": "УИК №772",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "442402466831",
+    "uikName": "УИК №773",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "442402466832",
+    "uikName": "УИК №774",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "442402466833",
+    "uikName": "УИК №775",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "442402466834",
+    "uikName": "УИК №776",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "442402466835",
+    "uikName": "УИК №777",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "442402466836",
+    "uikName": "УИК №778",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "442402466837",
+    "uikName": "УИК №779",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "442402466838",
+    "uikName": "УИК №780",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "442402466839",
+    "uikName": "УИК №781",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "442402466840",
+    "uikName": "УИК №782",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "442402466841",
+    "uikName": "УИК №783",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "442402466842",
+    "uikName": "УИК №784",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "442402466843",
+    "uikName": "УИК №785",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "442402466844",
+    "uikName": "УИК №786",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "442402466845",
+    "uikName": "УИК №787",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "442402466846",
+    "uikName": "УИК №788",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "442402466847",
+    "uikName": "УИК №789",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "442402466848",
+    "uikName": "УИК №790",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "442402466849",
+    "uikName": "УИК №791",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "442402466850",
+    "uikName": "УИК №792",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "442402466851",
+    "uikName": "УИК №793",
     "tikTvd": "342300367335",
-    "tikName": "Новокузнецк, Центральная"
+    "tikName": "Новокузнецк, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "442402366825",
+    "uikName": "УИК №794",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "442402366826",
+    "uikName": "УИК №795",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "442402366827",
+    "uikName": "УИК №796",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "442402366828",
+    "uikName": "УИК №797",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "442402366829",
+    "uikName": "УИК №798",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "442402366830",
+    "uikName": "УИК №799",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "442402366831",
+    "uikName": "УИК №800",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "442402366832",
+    "uikName": "УИК №801",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "442402366833",
+    "uikName": "УИК №802",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "442402366834",
+    "uikName": "УИК №803",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "442402366835",
+    "uikName": "УИК №804",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "442402366836",
+    "uikName": "УИК №805",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "442402366837",
+    "uikName": "УИК №806",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "442402366838",
+    "uikName": "УИК №807",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "442402366839",
+    "uikName": "УИК №808",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "442402366840",
+    "uikName": "УИК №809",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "442402366841",
+    "uikName": "УИК №810",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "442402366842",
+    "uikName": "УИК №811",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "442402366843",
+    "uikName": "УИК №812",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "442402366844",
+    "uikName": "УИК №813",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "442402366845",
+    "uikName": "УИК №814",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "442402366846",
+    "uikName": "УИК №815",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "442402366847",
+    "uikName": "УИК №816",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "442402366848",
+    "uikName": "УИК №817",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "442402366849",
+    "uikName": "УИК №818",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "442402366850",
+    "uikName": "УИК №819",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "442402366851",
+    "uikName": "УИК №820",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "442402366852",
+    "uikName": "УИК №821",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "442402366853",
+    "uikName": "УИК №822",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "442402366854",
+    "uikName": "УИК №823",
     "tikTvd": "342300367334",
-    "tikName": "Новокузнецк, Орджоникидзевская"
+    "tikName": "Новокузнецк, Орджоникидзевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "442402666701",
+    "uikName": "УИК  824",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "442402666702",
+    "uikName": "УИК  825",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "442402666703",
+    "uikName": "УИК  826",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "442402666704",
+    "uikName": "УИК  827",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "442402666705",
+    "uikName": "УИК  828",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "442402666706",
+    "uikName": "УИК  829",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "442402666707",
+    "uikName": "УИК  830",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "442402666708",
+    "uikName": "УИК  831",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "442402666709",
+    "uikName": "УИК  832",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "442402666710",
+    "uikName": "УИК  833",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "442402666711",
+    "uikName": "УИК  834",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "442402666712",
+    "uikName": "УИК  835",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "442402666713",
+    "uikName": "УИК  836",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "442402666714",
+    "uikName": "УИК  837",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "442402666715",
+    "uikName": "УИК  838",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "442402666716",
+    "uikName": "УИК  839",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "442402666717",
+    "uikName": "УИК  840",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "442402666718",
+    "uikName": "УИК  841",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "442402666719",
+    "uikName": "УИК  842",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "442402666720",
+    "uikName": "УИК  843",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "442402666721",
+    "uikName": "УИК  844",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "442402666722",
+    "uikName": "УИК  845",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "442402666723",
+    "uikName": "УИК  846",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "442402666724",
+    "uikName": "УИК  847",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "442402666725",
+    "uikName": "УИК  848",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "442402666726",
+    "uikName": "УИК  849",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "442402666727",
+    "uikName": "УИК  850",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "442402666728",
+    "uikName": "УИК  851",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "442402666729",
+    "uikName": "УИК  852",
     "tikTvd": "342300367336",
-    "tikName": "Осинниковская городская"
+    "tikName": "Осинниковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "442402967261",
+    "uikName": "УИК №853",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "442402967262",
+    "uikName": "УИК №854",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "442402967263",
+    "uikName": "УИК №855",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "442402967264",
+    "uikName": "УИК №856",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "442402967265",
+    "uikName": "УИК №857",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "442402967266",
+    "uikName": "УИК №858",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "442402967267",
+    "uikName": "УИК №859",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "442402967268",
+    "uikName": "УИК №860",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "442402967269",
+    "uikName": "УИК №861",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "442402967270",
+    "uikName": "УИК №862",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "442402967271",
+    "uikName": "УИК №863",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "442402967272",
+    "uikName": "УИК №864",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "442402967273",
+    "uikName": "УИК №865",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "442402967274",
+    "uikName": "УИК №866",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "442402967275",
+    "uikName": "УИК №867",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "442402967276",
+    "uikName": "УИК №868",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "442402967277",
+    "uikName": "УИК №869",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "442402967278",
+    "uikName": "УИК №870",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "442402967279",
+    "uikName": "УИК №871",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "442402967280",
+    "uikName": "УИК №872",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "442402967281",
+    "uikName": "УИК №873",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "442402967282",
+    "uikName": "УИК №874",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "442402967283",
+    "uikName": "УИК №875",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "442402967284",
+    "uikName": "УИК №876",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "442402967285",
+    "uikName": "УИК №877",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "442402967286",
+    "uikName": "УИК №878",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "442402967287",
+    "uikName": "УИК №879",
     "tikTvd": "342300467007",
-    "tikName": "Прокопьевск, Рудничная"
+    "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "442403066867",
+    "uikName": "УИК №880",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "442403066868",
+    "uikName": "УИК №881",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "442403066869",
+    "uikName": "УИК №882",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "442403066870",
+    "uikName": "УИК №883",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "442403066871",
+    "uikName": "УИК №884",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "442403066872",
+    "uikName": "УИК №885",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "442403066873",
+    "uikName": "УИК №886",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "442403066874",
+    "uikName": "УИК №887",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "442403066875",
+    "uikName": "УИК №888",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "442403066876",
+    "uikName": "УИК №889",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "442403066877",
+    "uikName": "УИК №890",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "442403066878",
+    "uikName": "УИК №891",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "442403066879",
+    "uikName": "УИК №892",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "442403066880",
+    "uikName": "УИК №893",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "442403066881",
+    "uikName": "УИК №894",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "442403066882",
+    "uikName": "УИК №895",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "442403066883",
+    "uikName": "УИК №896",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "442403066884",
+    "uikName": "УИК №897",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "442403066885",
+    "uikName": "УИК №898",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "442403066886",
+    "uikName": "УИК №899",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "442403066887",
+    "uikName": "УИК №900",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "442403066888",
+    "uikName": "УИК №901",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "442403066889",
+    "uikName": "УИК №902",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "442403066890",
+    "uikName": "УИК №903",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "442403066891",
+    "uikName": "УИК №904",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "442403066892",
+    "uikName": "УИК №905",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "442403066893",
+    "uikName": "УИК №906",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "442403066894",
+    "uikName": "УИК №907",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "442403066895",
+    "uikName": "УИК №908",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "442403066896",
+    "uikName": "УИК №909",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "442403066897",
+    "uikName": "УИК №910",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "442403066898",
+    "uikName": "УИК №911",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "442403066899",
+    "uikName": "УИК №912",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "442403066900",
+    "uikName": "УИК №913",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "442403066901",
+    "uikName": "УИК №914",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "442403066902",
+    "uikName": "УИК №915",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "442403066903",
+    "uikName": "УИК №916",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "442403066904",
+    "uikName": "УИК №917",
     "tikTvd": "342300467008",
-    "tikName": "Прокопьевск, Центральная"
+    "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "442402866844",
+    "uikName": "УИК №918",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "442402866845",
+    "uikName": "УИК №919",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "442402866846",
+    "uikName": "УИК №920",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "442402866847",
+    "uikName": "УИК №921",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "442402866848",
+    "uikName": "УИК №922",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "442402866849",
+    "uikName": "УИК №923",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "442402866850",
+    "uikName": "УИК №924",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "442402866851",
+    "uikName": "УИК №925",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "442402866852",
+    "uikName": "УИК №926",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "442402866853",
+    "uikName": "УИК №927",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "442402866854",
+    "uikName": "УИК №928",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "442402866855",
+    "uikName": "УИК №929",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "442402866856",
+    "uikName": "УИК №930",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "442402866857",
+    "uikName": "УИК №931",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "442402866858",
+    "uikName": "УИК №932",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "442402866859",
+    "uikName": "УИК №933",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "442402866860",
+    "uikName": "УИК №934",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "442402866861",
+    "uikName": "УИК №935",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "442402866862",
+    "uikName": "УИК №936",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "442402866863",
+    "uikName": "УИК №937",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "442402866864",
+    "uikName": "УИК №938",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "442402866865",
+    "uikName": "УИК №939",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "442402866866",
+    "uikName": "УИК №940",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "442402866867",
+    "uikName": "УИК №941",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "442402866868",
+    "uikName": "УИК №942",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "442402866869",
+    "uikName": "УИК №943",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "442402866870",
+    "uikName": "УИК №944",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "442402866871",
+    "uikName": "УИК №945",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "442402866872",
+    "uikName": "УИК №946",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "442402866873",
+    "uikName": "УИК №947",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "442402866874",
+    "uikName": "УИК №948",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "442402866875",
+    "uikName": "УИК №949",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "442402866876",
+    "uikName": "УИК №950",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "442402866877",
+    "uikName": "УИК №951",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "442402866878",
+    "uikName": "УИК №952",
     "tikTvd": "342300467006",
-    "tikName": "Прокопьевск, Зенковская"
+    "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "442403366774",
+    "uikName": "УИК №953",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "442403366775",
+    "uikName": "УИК №954",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "442403366776",
+    "uikName": "УИК №955",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "442403366777",
+    "uikName": "УИК №956",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "442403366778",
+    "uikName": "УИК №957",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "442403366779",
+    "uikName": "УИК №958",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "442403366780",
+    "uikName": "УИК №959",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "442403366781",
+    "uikName": "УИК №960",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "442403366782",
+    "uikName": "УИК №961",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "442403366783",
+    "uikName": "УИК №962",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "442403366784",
+    "uikName": "УИК №963",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "442403366785",
+    "uikName": "УИК №964",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "442403366786",
+    "uikName": "УИК №965",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "442403366787",
+    "uikName": "УИК №966",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "442403366788",
+    "uikName": "УИК №967",
     "tikTvd": "342300267479",
-    "tikName": "Тайгинская городская"
+    "tikName": "Тайгинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "442403466680",
+    "uikName": "УИК  968",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "442403466681",
+    "uikName": "УИК  969",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "442403466682",
+    "uikName": "УИК  970",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "442403466683",
+    "uikName": "УИК  971",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "442403466684",
+    "uikName": "УИК  972",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "442403466685",
+    "uikName": "УИК  973",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "442403466686",
+    "uikName": "УИК  974",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "442403466687",
+    "uikName": "УИК  975",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "442403466688",
+    "uikName": "УИК  976",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "442403466689",
+    "uikName": "УИК  977",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "442403466690",
+    "uikName": "УИК  978",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "442403466691",
+    "uikName": "УИК  979",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "442403466692",
+    "uikName": "УИК  980",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "442403466693",
+    "uikName": "УИК  981",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "442403466694",
+    "uikName": "УИК  982",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "442403466695",
+    "uikName": "УИК  983",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "442403466696",
+    "uikName": "УИК  984",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "442403466697",
+    "uikName": "УИК  985",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "442403466698",
+    "uikName": "УИК  986",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "442403466699",
+    "uikName": "УИК  987",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "442403466700",
+    "uikName": "УИК  988",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "442403466701",
+    "uikName": "УИК  989",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "442403466702",
+    "uikName": "УИК  990",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "442403466703",
+    "uikName": "УИК  991",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "442403466704",
+    "uikName": "УИК  992",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "442403466705",
+    "uikName": "УИК  993",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "442403466706",
+    "uikName": "УИК  994",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "442403466707",
+    "uikName": "УИК  995",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "442403466708",
+    "uikName": "УИК  996",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "442403466709",
+    "uikName": "УИК  997",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "442403466710",
+    "uikName": "УИК  998",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "442403466711",
+    "uikName": "УИК  999",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "442403466712",
+    "uikName": "УИК  1000",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "442403466713",
+    "uikName": "УИК  1001",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "442403466714",
+    "uikName": "УИК  1002",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "442403466715",
+    "uikName": "УИК  1003",
     "tikTvd": "342300467011",
-    "tikName": "Таштагольская городская"
+    "tikName": "Таштагольская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "442404566813",
+    "uikName": "УИК №1004",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "442404566814",
+    "uikName": "УИК №1005",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "442404566815",
+    "uikName": "УИК №1006",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "442404566816",
+    "uikName": "УИК №1007",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "442404566817",
+    "uikName": "УИК №1008",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "442404566818",
+    "uikName": "УИК №1009",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "442404566819",
+    "uikName": "УИК №1010",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "442404566820",
+    "uikName": "УИК №1011",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "442404566821",
+    "uikName": "УИК №1012",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "442404566822",
+    "uikName": "УИК №1013",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "442404566823",
+    "uikName": "УИК №1014",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "442404566824",
+    "uikName": "УИК №1015",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "442404566825",
+    "uikName": "УИК №1016",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "442404566826",
+    "uikName": "УИК №1017",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "442404566827",
+    "uikName": "УИК №1018",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "442404566828",
+    "uikName": "УИК №1019",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "442404566829",
+    "uikName": "УИК №1020",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "442404566830",
+    "uikName": "УИК №1021",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "442404566831",
+    "uikName": "УИК №1022",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "442404566832",
+    "uikName": "УИК №1023",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "442404566833",
+    "uikName": "УИК №1024",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "442404566834",
+    "uikName": "УИК №1025",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "442404566835",
+    "uikName": "УИК №1026",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "442404566836",
+    "uikName": "УИК №1027",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "442404566837",
+    "uikName": "УИК №1028",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "442404566838",
+    "uikName": "УИК №1029",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "442404566839",
+    "uikName": "УИК №1030",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "442404566840",
+    "uikName": "УИК №1031",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "442404566841",
+    "uikName": "УИК №1032",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "442404566842",
+    "uikName": "УИК №1033",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "442404566843",
+    "uikName": "УИК №1034",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "442404566844",
+    "uikName": "УИК №1035",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "442404566845",
+    "uikName": "УИК №1036",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "442404566846",
+    "uikName": "УИК №1037",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "442404566847",
+    "uikName": "УИК №1038",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "442404566848",
+    "uikName": "УИК №1039",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "442404566849",
+    "uikName": "УИК №1040",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "442404566850",
+    "uikName": "УИК №1041",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "442404566851",
+    "uikName": "УИК №1042",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "442404566852",
+    "uikName": "УИК №1043",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "442404566853",
+    "uikName": "УИК №1044",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "442404566854",
+    "uikName": "УИК №1045",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "442404566855",
+    "uikName": "УИК №1046",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "442404566856",
+    "uikName": "УИК №1047",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "442404566857",
+    "uikName": "УИК №1048",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "442404566858",
+    "uikName": "УИК №1049",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "442404566859",
+    "uikName": "УИК №1050",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "442404566860",
+    "uikName": "УИК №1051",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "442404566861",
+    "uikName": "УИК №1052",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "442404566862",
+    "uikName": "УИК №1053",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "442404566863",
+    "uikName": "УИК №1054",
     "tikTvd": "342300267480",
-    "tikName": "Топкинская городская"
+    "tikName": "Топкинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "442403966711",
+    "uikName": "УИК №1055",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "442403966755",
+    "uikName": "УИК №1056",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "442403966756",
+    "uikName": "УИК №1057",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "442403966757",
+    "uikName": "УИК №1058",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "442403966758",
+    "uikName": "УИК №1059",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "442403966759",
+    "uikName": "УИК №1060",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "442403966760",
+    "uikName": "УИК №1061",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "442403966761",
+    "uikName": "УИК №1062",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "442403966762",
+    "uikName": "УИК №1063",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "442403966763",
+    "uikName": "УИК №1064",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "442403966764",
+    "uikName": "УИК №1065",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "442403966765",
+    "uikName": "УИК №1066",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "442403966766",
+    "uikName": "УИК №1067",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "442403966767",
+    "uikName": "УИК №1068",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "442403966768",
+    "uikName": "УИК №1069",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "442403966769",
+    "uikName": "УИК №1070",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "442403966770",
+    "uikName": "УИК №1071",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "442403966771",
+    "uikName": "УИК №1072",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "442403966772",
+    "uikName": "УИК №1073",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "442403966773",
+    "uikName": "УИК №1074",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "442403966774",
+    "uikName": "УИК №1075",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "442403966775",
+    "uikName": "УИК №1076",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "442403966776",
+    "uikName": "УИК №1077",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "442403966777",
+    "uikName": "УИК №1078",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "442403966778",
+    "uikName": "УИК №1079",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "442403966779",
+    "uikName": "УИК №1080",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "442403966780",
+    "uikName": "УИК №1081",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "442403966781",
+    "uikName": "УИК №1082",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "442403966782",
+    "uikName": "УИК №1083",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "442403966783",
+    "uikName": "УИК №1084",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "442403966784",
+    "uikName": "УИК №1085",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "442403966785",
+    "uikName": "УИК №1086",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "442403966786",
+    "uikName": "УИК №1087",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "442403966787",
+    "uikName": "УИК №1088",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "442403966788",
+    "uikName": "УИК №1089",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "442403966789",
+    "uikName": "УИК №1090",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "442403966790",
+    "uikName": "УИК №1091",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "442403966791",
+    "uikName": "УИК №1092",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "442403966792",
+    "uikName": "УИК №1093",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "442403966793",
+    "uikName": "УИК №1094",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "442403966794",
+    "uikName": "УИК №1095",
     "tikTvd": "342300267481",
-    "tikName": "Юргинская городская"
+    "tikName": "Юргинская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "442401566705",
+    "uikName": "УИК №1096",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "442401566706",
+    "uikName": "УИК №1097",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "442401566707",
+    "uikName": "УИК №1098",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "442401566708",
+    "uikName": "УИК №1099",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "442401566709",
+    "uikName": "УИК №1100",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "442401566710",
+    "uikName": "УИК №1101",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "442401566711",
+    "uikName": "УИК №1102",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "442401566712",
+    "uikName": "УИК №1103",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "442401566713",
+    "uikName": "УИК №1104",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "442401566714",
+    "uikName": "УИК №1105",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "442401566715",
+    "uikName": "УИК №1106",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "442401566716",
+    "uikName": "УИК №1107",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "442401566717",
+    "uikName": "УИК №1108",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "442401566718",
+    "uikName": "УИК №1109",
     "tikTvd": "342300267477",
-    "tikName": "Полысаевская городская"
+    "tikName": "Полысаевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "442402766839",
+    "uikName": "УИК №1110",
     "tikTvd": "342300367329",
-    "tikName": "Калтанская городская"
+    "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "442402766840",
+    "uikName": "УИК №1111",
     "tikTvd": "342300367329",
-    "tikName": "Калтанская городская"
+    "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "442402766841",
+    "uikName": "УИК №1112",
     "tikTvd": "342300367329",
-    "tikName": "Калтанская городская"
+    "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "442402766842",
+    "uikName": "УИК №1113",
     "tikTvd": "342300367329",
-    "tikName": "Калтанская городская"
+    "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "442402766843",
+    "uikName": "УИК №1114",
     "tikTvd": "342300367329",
-    "tikName": "Калтанская городская"
+    "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "442402766844",
+    "uikName": "УИК №1115",
     "tikTvd": "342300367329",
-    "tikName": "Калтанская городская"
+    "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "442402766845",
+    "uikName": "УИК №1116",
     "tikTvd": "342300367329",
-    "tikName": "Калтанская городская"
+    "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "442402766846",
+    "uikName": "УИК №1117",
     "tikTvd": "342300367329",
-    "tikName": "Калтанская городская"
+    "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "442402766847",
+    "uikName": "УИК №1118",
     "tikTvd": "342300367329",
-    "tikName": "Калтанская городская"
+    "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "442402766848",
+    "uikName": "УИК №1119",
     "tikTvd": "342300367329",
-    "tikName": "Калтанская городская"
+    "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "442402766849",
+    "uikName": "УИК №1120",
     "tikTvd": "342300367329",
-    "tikName": "Калтанская городская"
+    "tikName": "Калтанская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "442400366725",
+    "uikName": "УИК №1121",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "442400366726",
+    "uikName": "УИК №1122",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "442400366727",
+    "uikName": "УИК №1123",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "442400366728",
+    "uikName": "УИК №1124",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "442400366729",
+    "uikName": "УИК №1125",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "442400366730",
+    "uikName": "УИК №1126",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "442400366731",
+    "uikName": "УИК №1127",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "442400366732",
+    "uikName": "УИК №1128",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "442400366733",
+    "uikName": "УИК №1129",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "442400366734",
+    "uikName": "УИК №1130",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "442400366735",
+    "uikName": "УИК №1131",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "442400366736",
+    "uikName": "УИК №1132",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "442400366737",
+    "uikName": "УИК №1133",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "442400366738",
+    "uikName": "УИК №1134",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "442400366739",
+    "uikName": "УИК №1135",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "442400366740",
+    "uikName": "УИК №1136",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "442400366741",
+    "uikName": "УИК №1137",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "442400366742",
+    "uikName": "УИК №1138",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "442400366743",
+    "uikName": "УИК №1139",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "442400366744",
+    "uikName": "УИК №1140",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "442400366745",
+    "uikName": "УИК №1141",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "442400366746",
+    "uikName": "УИК №1142",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "442400366747",
+    "uikName": "УИК №1143",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "442400366748",
+    "uikName": "УИК №1144",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "442400366749",
+    "uikName": "УИК №1145",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "442400366750",
+    "uikName": "УИК №1146",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "442400366751",
+    "uikName": "УИК №1147",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "442400366752",
+    "uikName": "УИК №1148",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "442400366753",
+    "uikName": "УИК №1149",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "442400366754",
+    "uikName": "УИК №1150",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "442400366755",
+    "uikName": "УИК №1151",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "442400366756",
+    "uikName": "УИК №1152",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "442400366757",
+    "uikName": "УИК №1153",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "442400366758",
+    "uikName": "УИК №1154",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "442400366759",
+    "uikName": "УИК №1155",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "442400366760",
+    "uikName": "УИК №1156",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1157,
     "uikTvd": "442400366761",
+    "uikName": "УИК №1157",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "442400366762",
+    "uikName": "УИК №1158",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "442400366763",
+    "uikName": "УИК №1159",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "442400366764",
+    "uikName": "УИК №1160",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "442400367022",
+    "uikName": "УИК №1161",
     "tikTvd": "342300267474",
-    "tikName": "Беловская"
+    "tikName": "Беловская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "442404266801",
+    "uikName": "УИК  1162",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "442404266802",
+    "uikName": "УИК  1163",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "442404266803",
+    "uikName": "УИК  1164",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "442404266804",
+    "uikName": "УИК  1165",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "442404266805",
+    "uikName": "УИК  1166",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "442404266806",
+    "uikName": "УИК  1167",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "442404266807",
+    "uikName": "УИК  1168",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "442404266808",
+    "uikName": "УИК  1169",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "442404266809",
+    "uikName": "УИК  1170",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "442404266810",
+    "uikName": "УИК  1171",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "442404266811",
+    "uikName": "УИК  1172",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "442404266812",
+    "uikName": "УИК  1173",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1174,
     "uikTvd": "442404266813",
+    "uikName": "УИК  1174",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1175,
     "uikTvd": "442404266814",
+    "uikName": "УИК  1175",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1176,
     "uikTvd": "442404266815",
+    "uikName": "УИК  1176",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1177,
     "uikTvd": "442404266816",
+    "uikName": "УИК  1177",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "442404266817",
+    "uikName": "УИК  1178",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "442404266818",
+    "uikName": "УИК  1179",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1180,
     "uikTvd": "442404266819",
+    "uikName": "УИК  1180",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "442404266820",
+    "uikName": "УИК  1181",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "442404266821",
+    "uikName": "УИК  1182",
     "tikTvd": "342300467001",
-    "tikName": "Гурьевская"
+    "tikName": "Гурьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "442400666876",
+    "uikName": "УИК №1183",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "442400666877",
+    "uikName": "УИК №1184",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "442400666878",
+    "uikName": "УИК №1185",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1186,
     "uikTvd": "442400666879",
+    "uikName": "УИК №1186",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1187,
     "uikTvd": "442400666880",
+    "uikName": "УИК №1187",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1188,
     "uikTvd": "442400666881",
+    "uikName": "УИК №1188",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1189,
     "uikTvd": "442400666882",
+    "uikName": "УИК №1189",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1190,
     "uikTvd": "442400666883",
+    "uikName": "УИК №1190",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1191,
     "uikTvd": "442400666884",
+    "uikName": "УИК №1191",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1192,
     "uikTvd": "442400666885",
+    "uikName": "УИК №1192",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1193,
     "uikTvd": "442400666886",
+    "uikName": "УИК №1193",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1194,
     "uikTvd": "442400666887",
+    "uikName": "УИК №1194",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1195,
     "uikTvd": "442400666888",
+    "uikName": "УИК №1195",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1196,
     "uikTvd": "442400666889",
+    "uikName": "УИК №1196",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1197,
     "uikTvd": "442400666890",
+    "uikName": "УИК №1197",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1198,
     "uikTvd": "442400666891",
+    "uikName": "УИК №1198",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1199,
     "uikTvd": "442400666892",
+    "uikName": "УИК №1199",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1200,
     "uikTvd": "442400666893",
+    "uikName": "УИК №1200",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "442400666894",
+    "uikName": "УИК №1201",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "442400666895",
+    "uikName": "УИК №1202",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "442400666896",
+    "uikName": "УИК №1203",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "442400666897",
+    "uikName": "УИК №1204",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "442400666898",
+    "uikName": "УИК №1205",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "442400666899",
+    "uikName": "УИК №1206",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "442400666900",
+    "uikName": "УИК №1207",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "442400666901",
+    "uikName": "УИК №1208",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "442400666902",
+    "uikName": "УИК №1209",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "442400666903",
+    "uikName": "УИК №1210",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "442400666904",
+    "uikName": "УИК №1211",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "442400666905",
+    "uikName": "УИК №1212",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "442400666906",
+    "uikName": "УИК №1213",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "442400666907",
+    "uikName": "УИК №1214",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "442400666908",
+    "uikName": "УИК №1215",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "442400666909",
+    "uikName": "УИК №1216",
     "tikTvd": "342300167388",
-    "tikName": "Ижморская"
+    "tikName": "Ижморская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "442401266895",
+    "uikName": "УИК №1217",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "442401266896",
+    "uikName": "УИК №1218",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "442401266897",
+    "uikName": "УИК №1219",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "442401266898",
+    "uikName": "УИК №1220",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "442401266899",
+    "uikName": "УИК №1221",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "442401266900",
+    "uikName": "УИК №1222",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "442401266901",
+    "uikName": "УИК №1223",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "442401266902",
+    "uikName": "УИК №1224",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "442401266903",
+    "uikName": "УИК №1225",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "442401266904",
+    "uikName": "УИК №1226",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "442401266905",
+    "uikName": "УИК №1227",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "442401266906",
+    "uikName": "УИК №1228",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "442401266907",
+    "uikName": "УИК №1229",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "442401266908",
+    "uikName": "УИК №1230",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "442401266909",
+    "uikName": "УИК №1231",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "442401266910",
+    "uikName": "УИК №1232",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "442401266911",
+    "uikName": "УИК №1233",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "442401266912",
+    "uikName": "УИК №1234",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "442401266913",
+    "uikName": "УИК №1235",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "442401266914",
+    "uikName": "УИК №1236",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "442401266915",
+    "uikName": "УИК №1237",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "442401266916",
+    "uikName": "УИК №1238",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "442401266917",
+    "uikName": "УИК №1239",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "442401266918",
+    "uikName": "УИК №1240",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1241,
     "uikTvd": "442401266919",
+    "uikName": "УИК №1241",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1242,
     "uikTvd": "442401266920",
+    "uikName": "УИК №1242",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1243,
     "uikTvd": "442401266921",
+    "uikName": "УИК №1243",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1244,
     "uikTvd": "442401266922",
+    "uikName": "УИК №1244",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1245,
     "uikTvd": "442401266923",
+    "uikName": "УИК №1245",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "442401266924",
+    "uikName": "УИК №1246",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1247,
     "uikTvd": "442401266925",
+    "uikName": "УИК №1247",
     "tikTvd": "342300167387",
-    "tikName": "Кемеровская"
+    "tikName": "Кемеровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1248,
     "uikTvd": "442401466763",
+    "uikName": "УИК №1248",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1249,
     "uikTvd": "442401466764",
+    "uikName": "УИК №1249",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1250,
     "uikTvd": "442401466765",
+    "uikName": "УИК №1250",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1251,
     "uikTvd": "442401466766",
+    "uikName": "УИК №1251",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1252,
     "uikTvd": "442401466767",
+    "uikName": "УИК №1252",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1253,
     "uikTvd": "442401466768",
+    "uikName": "УИК №1253",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1254,
     "uikTvd": "442401466769",
+    "uikName": "УИК №1254",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1255,
     "uikTvd": "442401466770",
+    "uikName": "УИК №1255",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1256,
     "uikTvd": "442401466771",
+    "uikName": "УИК №1256",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1257,
     "uikTvd": "442401466772",
+    "uikName": "УИК №1257",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1258,
     "uikTvd": "442401466773",
+    "uikName": "УИК №1258",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1259,
     "uikTvd": "442401466774",
+    "uikName": "УИК №1259",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1260,
     "uikTvd": "442401466775",
+    "uikName": "УИК №1260",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1261,
     "uikTvd": "442401466776",
+    "uikName": "УИК №1261",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1262,
     "uikTvd": "442401466777",
+    "uikName": "УИК №1262",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1263,
     "uikTvd": "442401466778",
+    "uikName": "УИК №1263",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1264,
     "uikTvd": "442401466779",
+    "uikName": "УИК №1264",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1265,
     "uikTvd": "442401466780",
+    "uikName": "УИК №1265",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1266,
     "uikTvd": "442401466781",
+    "uikName": "УИК №1266",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1267,
     "uikTvd": "442401466782",
+    "uikName": "УИК №1267",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1268,
     "uikTvd": "442401466783",
+    "uikName": "УИК №1268",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1269,
     "uikTvd": "442401466784",
+    "uikName": "УИК №1269",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1270,
     "uikTvd": "442401466785",
+    "uikName": "УИК №1270",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1271,
     "uikTvd": "442401466786",
+    "uikName": "УИК №1271",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1272,
     "uikTvd": "442401466787",
+    "uikName": "УИК №1272",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1273,
     "uikTvd": "442401466788",
+    "uikName": "УИК №1273",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1274,
     "uikTvd": "442401466789",
+    "uikName": "УИК №1274",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1275,
     "uikTvd": "442401466790",
+    "uikName": "УИК №1275",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1276,
     "uikTvd": "442401466791",
+    "uikName": "УИК №1276",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1277,
     "uikTvd": "442401466792",
+    "uikName": "УИК №1277",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1278,
     "uikTvd": "442401466793",
+    "uikName": "УИК №1278",
     "tikTvd": "342300267482",
-    "tikName": "Крапивинская"
+    "tikName": "Крапивинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1279,
     "uikTvd": "442404366701",
+    "uikName": "УИК  1279",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1280,
     "uikTvd": "442404366702",
+    "uikName": "УИК  1280",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1281,
     "uikTvd": "442404366703",
+    "uikName": "УИК  1281",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1282,
     "uikTvd": "442404366704",
+    "uikName": "УИК  1282",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1283,
     "uikTvd": "442404366705",
+    "uikName": "УИК  1283",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1284,
     "uikTvd": "442404366706",
+    "uikName": "УИК  1284",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1285,
     "uikTvd": "442404366708",
+    "uikName": "УИК  1285",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1286,
     "uikTvd": "442404366709",
+    "uikName": "УИК  1286",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1287,
     "uikTvd": "442404366710",
+    "uikName": "УИК  1287",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1288,
     "uikTvd": "442404366711",
+    "uikName": "УИК  1288",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1289,
     "uikTvd": "442404366712",
+    "uikName": "УИК  1289",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1290,
     "uikTvd": "442404366713",
+    "uikName": "УИК  1290",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1291,
     "uikTvd": "442404366714",
+    "uikName": "УИК  1291",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1292,
     "uikTvd": "442404366715",
+    "uikName": "УИК  1292",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1293,
     "uikTvd": "442404366716",
+    "uikName": "УИК  1293",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1294,
     "uikTvd": "442404366717",
+    "uikName": "УИК  1294",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1295,
     "uikTvd": "442404366718",
+    "uikName": "УИК  1295",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1296,
     "uikTvd": "442404366719",
+    "uikName": "УИК  1296",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1297,
     "uikTvd": "442404366720",
+    "uikName": "УИК  1297",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1298,
     "uikTvd": "442404366721",
+    "uikName": "УИК  1298",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1299,
     "uikTvd": "442404366722",
+    "uikName": "УИК  1299",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1300,
     "uikTvd": "442404366723",
+    "uikName": "УИК  1300",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "442404366724",
+    "uikName": "УИК  1301",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "442404366725",
+    "uikName": "УИК  1302",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "442404366726",
+    "uikName": "УИК  1303",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "442404366727",
+    "uikName": "УИК  1304",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "442404366728",
+    "uikName": "УИК  1305",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "442404366729",
+    "uikName": "УИК  1306",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "442404366730",
+    "uikName": "УИК  1307",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "442404366731",
+    "uikName": "УИК  1308",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "442404366732",
+    "uikName": "УИК  1309",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "442404366733",
+    "uikName": "УИК  1310",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "442404366734",
+    "uikName": "УИК  1311",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "442404366735",
+    "uikName": "УИК  1312",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "442404366736",
+    "uikName": "УИК  1313",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "442404366737",
+    "uikName": "УИК  1314",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "442404366738",
+    "uikName": "УИК  1315",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "442404366739",
+    "uikName": "УИК  1316",
     "tikTvd": "342300267483",
-    "tikName": "Ленинск-Кузнецкая"
+    "tikName": "Ленинск-Кузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "442402566913",
+    "uikName": "УИК №1317",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "442402566914",
+    "uikName": "УИК №1318",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "442402566915",
+    "uikName": "УИК №1319",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "442402566916",
+    "uikName": "УИК №1320",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "442402566917",
+    "uikName": "УИК №1321",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "442402566918",
+    "uikName": "УИК №1322",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "442402266828",
+    "uikName": "УИК №1323",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "442402266829",
+    "uikName": "УИК №1324",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "442402266830",
+    "uikName": "УИК №1325",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "442402266831",
+    "uikName": "УИК №1326",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "442402566919",
+    "uikName": "УИК №1327",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "442402566920",
+    "uikName": "УИК №1328",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "442402566921",
+    "uikName": "УИК №1329",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1330,
     "uikTvd": "442402566922",
+    "uikName": "УИК №1330",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1331,
     "uikTvd": "442402566923",
+    "uikName": "УИК №1331",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1332,
     "uikTvd": "442402566924",
+    "uikName": "УИК №1332",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1333,
     "uikTvd": "442402566925",
+    "uikName": "УИК №1333",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1334,
     "uikTvd": "442402566926",
+    "uikName": "УИК №1334",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1335,
     "uikTvd": "442402566927",
+    "uikName": "УИК №1335",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1336,
     "uikTvd": "442402566928",
+    "uikName": "УИК №1336",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1337,
     "uikTvd": "442402566929",
+    "uikName": "УИК №1337",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1338,
     "uikTvd": "442402566930",
+    "uikName": "УИК №1338",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1339,
     "uikTvd": "442402566931",
+    "uikName": "УИК №1339",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1340,
     "uikTvd": "442402566932",
+    "uikName": "УИК №1340",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1341,
     "uikTvd": "442402566933",
+    "uikName": "УИК №1341",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1342,
     "uikTvd": "442402566934",
+    "uikName": "УИК №1342",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1343,
     "uikTvd": "442402566935",
+    "uikName": "УИК №1343",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1344,
     "uikTvd": "442402566936",
+    "uikName": "УИК №1344",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1345,
     "uikTvd": "442402566937",
+    "uikName": "УИК №1345",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1346,
     "uikTvd": "442402566938",
+    "uikName": "УИК №1346",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1347,
     "uikTvd": "442402566939",
+    "uikName": "УИК №1347",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1348,
     "uikTvd": "442402566940",
+    "uikName": "УИК №1348",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1349,
     "uikTvd": "442402566941",
+    "uikName": "УИК №1349",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1350,
     "uikTvd": "442402566942",
+    "uikName": "УИК №1350",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1351,
     "uikTvd": "442402566943",
+    "uikName": "УИК №1351",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1352,
     "uikTvd": "442402566944",
+    "uikName": "УИК №1352",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1353,
     "uikTvd": "442402566945",
+    "uikName": "УИК №1353",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1354,
     "uikTvd": "442402566946",
+    "uikName": "УИК №1354",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1355,
     "uikTvd": "442402566947",
+    "uikName": "УИК №1355",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1356,
     "uikTvd": "442402566948",
+    "uikName": "УИК №1356",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1357,
     "uikTvd": "442402566949",
+    "uikName": "УИК №1357",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1358,
     "uikTvd": "442402566950",
+    "uikName": "УИК №1358",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1359,
     "uikTvd": "442402266832",
+    "uikName": "УИК №1359",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1360,
     "uikTvd": "442402266833",
+    "uikName": "УИК №1360",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1361,
     "uikTvd": "442402266834",
+    "uikName": "УИК №1361",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1362,
     "uikTvd": "442402266835",
+    "uikName": "УИК №1362",
     "tikTvd": "342300367332",
-    "tikName": "Новокузнецк, Куйбышевская"
+    "tikName": "Новокузнецк, Куйбышевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 91,
+      "oikTvd": "100100095865",
+      "oikName": "Новокузнецкий"
+    }
   },
   {
     "uikNumber": 1363,
     "uikTvd": "442402566951",
+    "uikName": "УИК №1363",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1364,
     "uikTvd": "442402566952",
+    "uikName": "УИК №1364",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1365,
     "uikTvd": "442402566953",
+    "uikName": "УИК №1365",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1366,
     "uikTvd": "442402566954",
+    "uikName": "УИК №1366",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1367,
     "uikTvd": "442402566955",
+    "uikName": "УИК №1367",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1368,
     "uikTvd": "442402566956",
+    "uikName": "УИК №1368",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1369,
     "uikTvd": "442402566957",
+    "uikName": "УИК №1369",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1370,
     "uikTvd": "442402566958",
+    "uikName": "УИК №1370",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1371,
     "uikTvd": "442402566959",
+    "uikName": "УИК №1371",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1372,
     "uikTvd": "442402566960",
+    "uikName": "УИК №1372",
     "tikTvd": "342300467012",
-    "tikName": "Новокузнецкая"
+    "tikName": "Новокузнецкая",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1373,
     "uikTvd": "442403166812",
+    "uikName": "УИК №1373",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1374,
     "uikTvd": "442403166813",
+    "uikName": "УИК №1374",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1375,
     "uikTvd": "442403166814",
+    "uikName": "УИК №1375",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1376,
     "uikTvd": "442403166815",
+    "uikName": "УИК №1376",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1377,
     "uikTvd": "442403166816",
+    "uikName": "УИК №1377",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1378,
     "uikTvd": "442403166817",
+    "uikName": "УИК №1378",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1379,
     "uikTvd": "442403166818",
+    "uikName": "УИК №1379",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1380,
     "uikTvd": "442403166819",
+    "uikName": "УИК №1380",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1381,
     "uikTvd": "442403166820",
+    "uikName": "УИК №1381",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1382,
     "uikTvd": "442403166821",
+    "uikName": "УИК №1382",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1383,
     "uikTvd": "442403166822",
+    "uikName": "УИК №1383",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1384,
     "uikTvd": "442403166823",
+    "uikName": "УИК №1384",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1385,
     "uikTvd": "442403166824",
+    "uikName": "УИК №1385",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1386,
     "uikTvd": "442403166825",
+    "uikName": "УИК №1386",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1387,
     "uikTvd": "442403166826",
+    "uikName": "УИК №1387",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1388,
     "uikTvd": "442403166827",
+    "uikName": "УИК №1388",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1389,
     "uikTvd": "442403166828",
+    "uikName": "УИК №1389",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1390,
     "uikTvd": "442403166829",
+    "uikName": "УИК №1390",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1391,
     "uikTvd": "442403166830",
+    "uikName": "УИК №1391",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1392,
     "uikTvd": "442403166831",
+    "uikName": "УИК №1392",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1393,
     "uikTvd": "442403166832",
+    "uikName": "УИК №1393",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1394,
     "uikTvd": "442403166833",
+    "uikName": "УИК №1394",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1395,
     "uikTvd": "442403166834",
+    "uikName": "УИК №1395",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1396,
     "uikTvd": "442403166835",
+    "uikName": "УИК №1396",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1397,
     "uikTvd": "442403166836",
+    "uikName": "УИК №1397",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1398,
     "uikTvd": "442403166837",
+    "uikName": "УИК №1398",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1399,
     "uikTvd": "442403166838",
+    "uikName": "УИК №1399",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1400,
     "uikTvd": "442403166839",
+    "uikName": "УИК №1400",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "442403166840",
+    "uikName": "УИК №1401",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "442403166841",
+    "uikName": "УИК №1402",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "442403166842",
+    "uikName": "УИК №1403",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "442403166843",
+    "uikName": "УИК №1404",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "442403166844",
+    "uikName": "УИК №1405",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "442403166845",
+    "uikName": "УИК №1406",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "442403166846",
+    "uikName": "УИК №1407",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "442403166847",
+    "uikName": "УИК №1408",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "442403166848",
+    "uikName": "УИК №1409",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "442403166849",
+    "uikName": "УИК №1410",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "442403166850",
+    "uikName": "УИК №1411",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "442403166851",
+    "uikName": "УИК №1412",
     "tikTvd": "342300467009",
-    "tikName": "Прокопьевская"
+    "tikName": "Прокопьевская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "442403266802",
+    "uikName": "УИК №1413",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "442403266803",
+    "uikName": "УИК №1414",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "442403266804",
+    "uikName": "УИК №1415",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "442403266805",
+    "uikName": "УИК №1416",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "442403266806",
+    "uikName": "УИК №1417",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "442403266807",
+    "uikName": "УИК №1418",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "442403266808",
+    "uikName": "УИК №1419",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1420,
     "uikTvd": "442403266809",
+    "uikName": "УИК №1420",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1421,
     "uikTvd": "442403266810",
+    "uikName": "УИК №1421",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1422,
     "uikTvd": "442403266811",
+    "uikName": "УИК №1422",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1423,
     "uikTvd": "442403266812",
+    "uikName": "УИК №1423",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1424,
     "uikTvd": "442403266813",
+    "uikName": "УИК №1424",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1425,
     "uikTvd": "442403266814",
+    "uikName": "УИК №1425",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1426,
     "uikTvd": "442403266815",
+    "uikName": "УИК №1426",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1427,
     "uikTvd": "442403266816",
+    "uikName": "УИК №1427",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1428,
     "uikTvd": "442403266817",
+    "uikName": "УИК №1428",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1429,
     "uikTvd": "442403266818",
+    "uikName": "УИК №1429",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1430,
     "uikTvd": "442403266819",
+    "uikName": "УИК №1430",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1431,
     "uikTvd": "442403266820",
+    "uikName": "УИК №1431",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1432,
     "uikTvd": "442403266821",
+    "uikName": "УИК №1432",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1433,
     "uikTvd": "442403266822",
+    "uikName": "УИК №1433",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1434,
     "uikTvd": "442403266823",
+    "uikName": "УИК №1434",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1435,
     "uikTvd": "442403266824",
+    "uikName": "УИК №1435",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1436,
     "uikTvd": "442403266825",
+    "uikName": "УИК №1436",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1437,
     "uikTvd": "442403266826",
+    "uikName": "УИК №1437",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1438,
     "uikTvd": "442403266827",
+    "uikName": "УИК №1438",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1439,
     "uikTvd": "442403266828",
+    "uikName": "УИК №1439",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1440,
     "uikTvd": "442403266829",
+    "uikName": "УИК №1440",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1441,
     "uikTvd": "442403266830",
+    "uikName": "УИК №1441",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1442,
     "uikTvd": "442403266831",
+    "uikName": "УИК №1442",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1443,
     "uikTvd": "442403266832",
+    "uikName": "УИК №1443",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1444,
     "uikTvd": "442403266833",
+    "uikName": "УИК №1444",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1445,
     "uikTvd": "442403266834",
+    "uikName": "УИК №1445",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1446,
     "uikTvd": "442403266835",
+    "uikName": "УИК №1446",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1447,
     "uikTvd": "442403266836",
+    "uikName": "УИК №1447",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1448,
     "uikTvd": "442403266837",
+    "uikName": "УИК №1448",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1449,
     "uikTvd": "442403266838",
+    "uikName": "УИК №1449",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1450,
     "uikTvd": "442403266839",
+    "uikName": "УИК №1450",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1451,
     "uikTvd": "442403266840",
+    "uikName": "УИК №1451",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1452,
     "uikTvd": "442403266841",
+    "uikName": "УИК №1452",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1453,
     "uikTvd": "442403266842",
+    "uikName": "УИК №1453",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1454,
     "uikTvd": "442403266843",
+    "uikName": "УИК №1454",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1455,
     "uikTvd": "442403266844",
+    "uikName": "УИК №1455",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1456,
     "uikTvd": "442403266845",
+    "uikName": "УИК №1456",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1457,
     "uikTvd": "442403266846",
+    "uikName": "УИК №1457",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1458,
     "uikTvd": "442403266847",
+    "uikName": "УИК №1458",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1459,
     "uikTvd": "442403266848",
+    "uikName": "УИК №1459",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1460,
     "uikTvd": "442403266849",
+    "uikName": "УИК №1460",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1461,
     "uikTvd": "442403266850",
+    "uikName": "УИК №1461",
     "tikTvd": "342300467010",
-    "tikName": "Промышленновская"
+    "tikName": "Промышленновская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    }
   },
   {
     "uikNumber": 1462,
     "uikTvd": "442403566779",
+    "uikName": "УИК №1462",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1463,
     "uikTvd": "442403566780",
+    "uikName": "УИК №1463",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1464,
     "uikTvd": "442403566781",
+    "uikName": "УИК №1464",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1465,
     "uikTvd": "442403566782",
+    "uikName": "УИК №1465",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1466,
     "uikTvd": "442403566783",
+    "uikName": "УИК №1466",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1467,
     "uikTvd": "442403566784",
+    "uikName": "УИК №1467",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1468,
     "uikTvd": "442403566785",
+    "uikName": "УИК №1468",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1469,
     "uikTvd": "442403566786",
+    "uikName": "УИК №1469",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1470,
     "uikTvd": "442403566787",
+    "uikName": "УИК №1470",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1471,
     "uikTvd": "442403566788",
+    "uikName": "УИК №1471",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1472,
     "uikTvd": "442403566789",
+    "uikName": "УИК №1472",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1473,
     "uikTvd": "442403566790",
+    "uikName": "УИК №1473",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1474,
     "uikTvd": "442403566791",
+    "uikName": "УИК №1474",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1475,
     "uikTvd": "442403566792",
+    "uikName": "УИК №1475",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1476,
     "uikTvd": "442403566793",
+    "uikName": "УИК №1476",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1477,
     "uikTvd": "442403566794",
+    "uikName": "УИК №1477",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1478,
     "uikTvd": "442403566795",
+    "uikName": "УИК №1478",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1479,
     "uikTvd": "442403566796",
+    "uikName": "УИК №1479",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1480,
     "uikTvd": "442403566797",
+    "uikName": "УИК №1480",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1481,
     "uikTvd": "442403566798",
+    "uikName": "УИК №1481",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1482,
     "uikTvd": "442403566799",
+    "uikName": "УИК №1482",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1483,
     "uikTvd": "442403566800",
+    "uikName": "УИК №1483",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1484,
     "uikTvd": "442403566801",
+    "uikName": "УИК №1484",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1485,
     "uikTvd": "442403566802",
+    "uikName": "УИК №1485",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1486,
     "uikTvd": "442403566803",
+    "uikName": "УИК №1486",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1487,
     "uikTvd": "442403566804",
+    "uikName": "УИК №1487",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1488,
     "uikTvd": "442403566805",
+    "uikName": "УИК №1488",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1489,
     "uikTvd": "442403566806",
+    "uikName": "УИК №1489",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1490,
     "uikTvd": "442403566807",
+    "uikName": "УИК №1490",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1491,
     "uikTvd": "442403566808",
+    "uikName": "УИК №1491",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1492,
     "uikTvd": "442403566809",
+    "uikName": "УИК №1492",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1493,
     "uikTvd": "442403566810",
+    "uikName": "УИК №1493",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1494,
     "uikTvd": "442403566811",
+    "uikName": "УИК №1494",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1495,
     "uikTvd": "442403566812",
+    "uikName": "УИК №1495",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1496,
     "uikTvd": "442403566813",
+    "uikName": "УИК №1496",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1497,
     "uikTvd": "442403566814",
+    "uikName": "УИК №1497",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1498,
     "uikTvd": "442403566815",
+    "uikName": "УИК №1498",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1499,
     "uikTvd": "442403566816",
+    "uikName": "УИК №1499",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1500,
     "uikTvd": "442403566817",
+    "uikName": "УИК №1500",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "442403566818",
+    "uikName": "УИК №1501",
     "tikTvd": "342300267484",
-    "tikName": "Тисульская"
+    "tikName": "Тисульская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "442403766810",
+    "uikName": "УИК №1502",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "442403766811",
+    "uikName": "УИК №1503",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "442403766812",
+    "uikName": "УИК №1504",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "442403766813",
+    "uikName": "УИК №1505",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "442403766814",
+    "uikName": "УИК №1506",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "442403766815",
+    "uikName": "УИК №1507",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "442403766816",
+    "uikName": "УИК №1508",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "442403766817",
+    "uikName": "УИК №1509",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "442403766818",
+    "uikName": "УИК №1510",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "442403766819",
+    "uikName": "УИК №1511",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "442403766820",
+    "uikName": "УИК №1512",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "442403766821",
+    "uikName": "УИК №1513",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "442403766822",
+    "uikName": "УИК №1514",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "442403766823",
+    "uikName": "УИК №1515",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "442403766824",
+    "uikName": "УИК №1516",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "442403766825",
+    "uikName": "УИК №1517",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "442403766826",
+    "uikName": "УИК №1518",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "442403766827",
+    "uikName": "УИК №1519",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "442403766828",
+    "uikName": "УИК №1520",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "442403766829",
+    "uikName": "УИК №1521",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "442403766830",
+    "uikName": "УИК №1522",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "442403766831",
+    "uikName": "УИК №1523",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "442403766832",
+    "uikName": "УИК №1524",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "442403766833",
+    "uikName": "УИК №1525",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1526,
     "uikTvd": "442403766834",
+    "uikName": "УИК №1526",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1527,
     "uikTvd": "442403766835",
+    "uikName": "УИК №1527",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1528,
     "uikTvd": "442403766836",
+    "uikName": "УИК №1528",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1529,
     "uikTvd": "442403766837",
+    "uikName": "УИК №1529",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1530,
     "uikTvd": "442403766838",
+    "uikName": "УИК №1530",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1531,
     "uikTvd": "442403766839",
+    "uikName": "УИК №1531",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1532,
     "uikTvd": "442403766840",
+    "uikName": "УИК №1532",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1533,
     "uikTvd": "442403766841",
+    "uikName": "УИК №1533",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1534,
     "uikTvd": "442403766842",
+    "uikName": "УИК №1534",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1535,
     "uikTvd": "442403766843",
+    "uikName": "УИК №1535",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1536,
     "uikTvd": "442403766844",
+    "uikName": "УИК №1536",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1537,
     "uikTvd": "442403766845",
+    "uikName": "УИК №1537",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1538,
     "uikTvd": "442403766846",
+    "uikName": "УИК №1538",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1539,
     "uikTvd": "442403766847",
+    "uikName": "УИК №1539",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1540,
     "uikTvd": "442403766848",
+    "uikName": "УИК №1540",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1541,
     "uikTvd": "442403766849",
+    "uikName": "УИК №1541",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1542,
     "uikTvd": "442403766850",
+    "uikName": "УИК №1542",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1543,
     "uikTvd": "442403766851",
+    "uikName": "УИК №1543",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1544,
     "uikTvd": "442403766852",
+    "uikName": "УИК №1544",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1545,
     "uikTvd": "442403766853",
+    "uikName": "УИК №1545",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1546,
     "uikTvd": "442403766854",
+    "uikName": "УИК №1546",
     "tikTvd": "342300267485",
-    "tikName": "Тяжинская"
+    "tikName": "Тяжинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1547,
     "uikTvd": "442403866710",
+    "uikName": "УИК №1547",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1548,
     "uikTvd": "442403866711",
+    "uikName": "УИК №1548",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1549,
     "uikTvd": "442403866712",
+    "uikName": "УИК №1549",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1550,
     "uikTvd": "442403866713",
+    "uikName": "УИК №1550",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1551,
     "uikTvd": "442403866714",
+    "uikName": "УИК №1551",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1552,
     "uikTvd": "442403866715",
+    "uikName": "УИК №1552",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1553,
     "uikTvd": "442403866716",
+    "uikName": "УИК №1553",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1554,
     "uikTvd": "442403866717",
+    "uikName": "УИК №1554",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1555,
     "uikTvd": "442403866718",
+    "uikName": "УИК №1555",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1556,
     "uikTvd": "442403866719",
+    "uikName": "УИК №1556",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1557,
     "uikTvd": "442403866720",
+    "uikName": "УИК №1557",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1558,
     "uikTvd": "442403866721",
+    "uikName": "УИК №1558",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1559,
     "uikTvd": "442403866722",
+    "uikName": "УИК №1559",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1560,
     "uikTvd": "442403866723",
+    "uikName": "УИК №1560",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1561,
     "uikTvd": "442403866724",
+    "uikName": "УИК №1561",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1562,
     "uikTvd": "442403866725",
+    "uikName": "УИК №1562",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1563,
     "uikTvd": "442403866726",
+    "uikName": "УИК №1563",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1564,
     "uikTvd": "442403866727",
+    "uikName": "УИК №1564",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1565,
     "uikTvd": "442403866728",
+    "uikName": "УИК №1565",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1566,
     "uikTvd": "442403866729",
+    "uikName": "УИК №1566",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1567,
     "uikTvd": "442403866730",
+    "uikName": "УИК №1567",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1568,
     "uikTvd": "442403866731",
+    "uikName": "УИК №1568",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1569,
     "uikTvd": "442403866732",
+    "uikName": "УИК №1569",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1570,
     "uikTvd": "442403866733",
+    "uikName": "УИК №1570",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1571,
     "uikTvd": "442403866734",
+    "uikName": "УИК №1571",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1572,
     "uikTvd": "442403866735",
+    "uikName": "УИК №1572",
     "tikTvd": "342300267486",
-    "tikName": "Чебулинская"
+    "tikName": "Чебулинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1573,
     "uikTvd": "442404666706",
+    "uikName": "УИК №1573",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1574,
     "uikTvd": "442404666707",
+    "uikName": "УИК №1574",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1575,
     "uikTvd": "442404666708",
+    "uikName": "УИК №1575",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1576,
     "uikTvd": "442404666709",
+    "uikName": "УИК №1576",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1577,
     "uikTvd": "442404666710",
+    "uikName": "УИК №1577",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1578,
     "uikTvd": "442404666711",
+    "uikName": "УИК №1578",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1579,
     "uikTvd": "442404666712",
+    "uikName": "УИК №1579",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1580,
     "uikTvd": "442404666713",
+    "uikName": "УИК №1580",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1581,
     "uikTvd": "442404666714",
+    "uikName": "УИК №1581",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1582,
     "uikTvd": "442404666715",
+    "uikName": "УИК №1582",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1583,
     "uikTvd": "442404666716",
+    "uikName": "УИК №1583",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1584,
     "uikTvd": "442404666717",
+    "uikName": "УИК №1584",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1585,
     "uikTvd": "442404666718",
+    "uikName": "УИК №1585",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1586,
     "uikTvd": "442404666719",
+    "uikName": "УИК №1586",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1587,
     "uikTvd": "442404666720",
+    "uikName": "УИК №1587",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1588,
     "uikTvd": "442404666721",
+    "uikName": "УИК №1588",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1589,
     "uikTvd": "442404666722",
+    "uikName": "УИК №1589",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1590,
     "uikTvd": "442404666723",
+    "uikName": "УИК №1590",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1591,
     "uikTvd": "442404666724",
+    "uikName": "УИК №1591",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1592,
     "uikTvd": "442404666725",
+    "uikName": "УИК №1592",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1593,
     "uikTvd": "442404666726",
+    "uikName": "УИК №1593",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1594,
     "uikTvd": "442404666727",
+    "uikName": "УИК №1594",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1595,
     "uikTvd": "442404666728",
+    "uikName": "УИК №1595",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1596,
     "uikTvd": "442404666729",
+    "uikName": "УИК №1596",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1597,
     "uikTvd": "442404666730",
+    "uikName": "УИК №1597",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1598,
     "uikTvd": "442404666731",
+    "uikName": "УИК №1598",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1599,
     "uikTvd": "442404666732",
+    "uikName": "УИК №1599",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1600,
     "uikTvd": "442404666733",
+    "uikName": "УИК №1600",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "442404666734",
+    "uikName": "УИК №1601",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "442404666735",
+    "uikName": "УИК №1602",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "442404666736",
+    "uikName": "УИК №1603",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "442404666737",
+    "uikName": "УИК №1604",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "442404666738",
+    "uikName": "УИК №1605",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "442404666739",
+    "uikName": "УИК №1606",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "442404666740",
+    "uikName": "УИК №1607",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "442404666741",
+    "uikName": "УИК №1608",
     "tikTvd": "342300267487",
-    "tikName": "Юргинская"
+    "tikName": "Юргинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "442404066862",
+    "uikName": "УИК №1609",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "442404066863",
+    "uikName": "УИК №1610",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "442404066864",
+    "uikName": "УИК №1611",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "442404066865",
+    "uikName": "УИК №1612",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "442404066866",
+    "uikName": "УИК №1613",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "442404066867",
+    "uikName": "УИК №1614",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1615,
     "uikTvd": "442404066868",
+    "uikName": "УИК №1615",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1616,
     "uikTvd": "442404066869",
+    "uikName": "УИК №1616",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1617,
     "uikTvd": "442404066870",
+    "uikName": "УИК №1617",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1618,
     "uikTvd": "442404066871",
+    "uikName": "УИК №1618",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1619,
     "uikTvd": "442404066872",
+    "uikName": "УИК №1619",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1620,
     "uikTvd": "442404066873",
+    "uikName": "УИК №1620",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1621,
     "uikTvd": "442404066874",
+    "uikName": "УИК №1621",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1622,
     "uikTvd": "442404066875",
+    "uikName": "УИК №1622",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1623,
     "uikTvd": "442404066876",
+    "uikName": "УИК №1623",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1624,
     "uikTvd": "442404066877",
+    "uikName": "УИК №1624",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1625,
     "uikTvd": "442404066878",
+    "uikName": "УИК №1625",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1626,
     "uikTvd": "442404066879",
+    "uikName": "УИК №1626",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1627,
     "uikTvd": "442404066880",
+    "uikName": "УИК №1627",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1628,
     "uikTvd": "442404066881",
+    "uikName": "УИК №1628",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1629,
     "uikTvd": "442404066882",
+    "uikName": "УИК №1629",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1630,
     "uikTvd": "442404066883",
+    "uikName": "УИК №1630",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1631,
     "uikTvd": "442404066884",
+    "uikName": "УИК №1631",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1632,
     "uikTvd": "442404066885",
+    "uikName": "УИК №1632",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1633,
     "uikTvd": "442404066886",
+    "uikName": "УИК №1633",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1634,
     "uikTvd": "442404066887",
+    "uikName": "УИК №1634",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1635,
     "uikTvd": "442404066888",
+    "uikName": "УИК №1635",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1636,
     "uikTvd": "442404066889",
+    "uikName": "УИК №1636",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1637,
     "uikTvd": "442404066890",
+    "uikName": "УИК №1637",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1638,
     "uikTvd": "442404066891",
+    "uikName": "УИК №1638",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1639,
     "uikTvd": "442404066892",
+    "uikName": "УИК №1639",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1640,
     "uikTvd": "442404066893",
+    "uikName": "УИК №1640",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1641,
     "uikTvd": "442404066894",
+    "uikName": "УИК №1641",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1642,
     "uikTvd": "442404066895",
+    "uikName": "УИК №1642",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1643,
     "uikTvd": "442404066896",
+    "uikName": "УИК №1643",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1644,
     "uikTvd": "442404066897",
+    "uikName": "УИК №1644",
     "tikTvd": "342300167389",
-    "tikName": "Яйская"
+    "tikName": "Яйская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    }
   },
   {
     "uikNumber": 1645,
     "uikTvd": "442404166785",
+    "uikName": "УИК №1645",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1646,
     "uikTvd": "442404166786",
+    "uikName": "УИК №1646",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1647,
     "uikTvd": "442404166787",
+    "uikName": "УИК №1647",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1648,
     "uikTvd": "442404166788",
+    "uikName": "УИК №1648",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1649,
     "uikTvd": "442404166789",
+    "uikName": "УИК №1649",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1650,
     "uikTvd": "442404166790",
+    "uikName": "УИК №1650",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1651,
     "uikTvd": "442404166791",
+    "uikName": "УИК №1651",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1652,
     "uikTvd": "442404166792",
+    "uikName": "УИК №1652",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1653,
     "uikTvd": "442404166793",
+    "uikName": "УИК №1653",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1654,
     "uikTvd": "442404166794",
+    "uikName": "УИК №1654",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1655,
     "uikTvd": "442404166795",
+    "uikName": "УИК №1655",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1656,
     "uikTvd": "442404166796",
+    "uikName": "УИК №1656",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1657,
     "uikTvd": "442404166797",
+    "uikName": "УИК №1657",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1658,
     "uikTvd": "442404166798",
+    "uikName": "УИК №1658",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1659,
     "uikTvd": "442404166799",
+    "uikName": "УИК №1659",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1660,
     "uikTvd": "442404166800",
+    "uikName": "УИК №1660",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1661,
     "uikTvd": "442404166801",
+    "uikName": "УИК №1661",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1662,
     "uikTvd": "442404166802",
+    "uikName": "УИК №1662",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1663,
     "uikTvd": "442404166803",
+    "uikName": "УИК №1663",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1664,
     "uikTvd": "442404166804",
+    "uikName": "УИК №1664",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1665,
     "uikTvd": "442404166805",
+    "uikName": "УИК №1665",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1666,
     "uikTvd": "442404166806",
+    "uikName": "УИК №1666",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1667,
     "uikTvd": "442404166807",
+    "uikName": "УИК №1667",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1668,
     "uikTvd": "442404166808",
+    "uikName": "УИК №1668",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1669,
     "uikTvd": "442404166809",
+    "uikName": "УИК №1669",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1670,
     "uikTvd": "442404166810",
+    "uikName": "УИК №1670",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1671,
     "uikTvd": "442404166811",
+    "uikName": "УИК №1671",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1672,
     "uikTvd": "442404166812",
+    "uikName": "УИК №1672",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1673,
     "uikTvd": "442404166813",
+    "uikName": "УИК №1673",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1674,
     "uikTvd": "442404166814",
+    "uikName": "УИК №1674",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1675,
     "uikTvd": "442404166815",
+    "uikName": "УИК №1675",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1676,
     "uikTvd": "442404166816",
+    "uikName": "УИК №1676",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1677,
     "uikTvd": "442404166817",
+    "uikName": "УИК №1677",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1678,
     "uikTvd": "442404166818",
+    "uikName": "УИК №1678",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1679,
     "uikTvd": "442404166819",
+    "uikName": "УИК №1679",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1680,
     "uikTvd": "442404166820",
+    "uikName": "УИК №1680",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1681,
     "uikTvd": "442404166821",
+    "uikName": "УИК №1681",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   },
   {
     "uikNumber": 1682,
     "uikTvd": "442404166822",
+    "uikName": "УИК №1682",
     "tikTvd": "342300267488",
-    "tikName": "Яшкинская"
+    "tikName": "Яшкинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 90,
+      "oikTvd": "100100095864",
+      "oikName": "Ленинск-Кузнецкий"
+    }
   }
 ] satisfies readonly UikTikRelation[];

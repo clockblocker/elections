@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_83 = [
     "ballot": "party",
     "tikTvd": "283200070441",
     "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 16481,
@@ -117,6 +120,9 @@ export const duma_2003_tic_431_region_83 = [
     "ballot": "party",
     "tikTvd": "283200070442",
     "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 14271,

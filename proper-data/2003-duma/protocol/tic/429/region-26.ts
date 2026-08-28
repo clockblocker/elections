@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 39125,
@@ -95,6 +103,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 38996,
@@ -176,6 +192,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 64418,
@@ -267,6 +291,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 49417,
@@ -349,6 +381,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 34271,
@@ -439,6 +479,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 29677,
@@ -516,6 +564,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки": 47965,
@@ -611,6 +667,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 17857,
@@ -681,6 +745,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки": 54313,
@@ -773,6 +845,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300171854",
     "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 15765,
@@ -846,6 +926,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300171855",
     "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 45078,
@@ -921,6 +1009,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300171856",
     "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 48285,
@@ -1004,6 +1100,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300271127",
     "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 62827,
@@ -1094,6 +1198,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300271128",
     "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 38209,
@@ -1181,6 +1293,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300271129",
     "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 76911,
@@ -1278,6 +1398,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300271130",
     "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки": 19351,
@@ -1338,6 +1466,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300271131",
     "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    },
     "uikCount": 68,
     "accounting": {
       "Число избирателей, включенных в списки": 98275,
@@ -1457,6 +1593,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300271132",
     "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки": 73799,
@@ -1552,6 +1696,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300271133",
     "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    },
     "uikCount": 78,
     "accounting": {
       "Число избирателей, включенных в списки": 134819,
@@ -1681,6 +1833,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300370413",
     "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 20041,
@@ -1752,6 +1912,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300370414",
     "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 26953,
@@ -1827,6 +1995,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300370415",
     "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 59858,
@@ -1916,6 +2092,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300370416",
     "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 49818,
@@ -2015,6 +2199,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300370417",
     "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 32350,
@@ -2083,6 +2275,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300370418",
     "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки": 50069,
@@ -2176,6 +2376,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300370419",
     "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки": 76748,
@@ -2279,6 +2487,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300370420",
     "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 26450,
@@ -2347,6 +2563,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300370421",
     "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 46440,
@@ -2422,6 +2646,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300370422",
     "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 20205,
@@ -2483,6 +2715,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300370423",
     "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 27301,
@@ -2550,6 +2790,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300370424",
     "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 24375,
@@ -2627,6 +2875,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300470443",
     "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в списки": 74113,
@@ -2736,6 +2992,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300470444",
     "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки": 53806,
@@ -2824,6 +3088,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300470445",
     "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "uikCount": 65,
     "accounting": {
       "Число избирателей, включенных в списки": 136058,
@@ -2946,6 +3218,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300470446",
     "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в списки": 75816,
@@ -3055,6 +3335,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300470447",
     "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 99824,
@@ -3158,6 +3446,14 @@ export const duma_2003_tic_429_region_26 = [
     "ballot": "single-member",
     "tikTvd": "326300470448",
     "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 58376,

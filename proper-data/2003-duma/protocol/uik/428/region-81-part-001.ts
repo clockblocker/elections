@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5101,
     "uikTvd": "481400166645",
+    "uikName": "УИК №5101",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1407,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5102,
     "uikTvd": "481400166646",
+    "uikName": "УИК №5102",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5103,
     "uikTvd": "481400166647",
+    "uikName": "УИК №5103",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 778,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5104,
     "uikTvd": "481400166648",
+    "uikName": "УИК №5104",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5105,
     "uikTvd": "481400166649",
+    "uikName": "УИК №5105",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5106,
     "uikTvd": "481400166650",
+    "uikName": "УИК №5106",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 532,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5107,
     "uikTvd": "481400166651",
+    "uikName": "УИК №5107",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 566,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5108,
     "uikTvd": "481400166652",
+    "uikName": "УИК №5108",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 640,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5109,
     "uikTvd": "481400166653",
+    "uikName": "УИК №5109",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5110,
     "uikTvd": "481400166654",
+    "uikName": "УИК №5110",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5111,
     "uikTvd": "481400166655",
+    "uikName": "УИК №5111",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5112,
     "uikTvd": "481400166656",
+    "uikName": "УИК №5112",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1042,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5113,
     "uikTvd": "481400166657",
+    "uikName": "УИК №5113",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5114,
     "uikTvd": "481400166658",
+    "uikName": "УИК №5114",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5115,
     "uikTvd": "481400166659",
+    "uikName": "УИК №5115",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 851,
       "Число бюллетеней, полученных участковыми комиссиями": 855,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5116,
     "uikTvd": "481400166766",
+    "uikName": "УИК №5116",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 727,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5117,
     "uikTvd": "481400166660",
+    "uikName": "УИК №5117",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1496,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5118,
     "uikTvd": "481400166661",
+    "uikName": "УИК №5118",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5119,
     "uikTvd": "481400166662",
+    "uikName": "УИК №5119",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5120,
     "uikTvd": "481400166663",
+    "uikName": "УИК №5120",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5121,
     "uikTvd": "481400166664",
+    "uikName": "УИК №5121",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5122,
     "uikTvd": "481400166665",
+    "uikName": "УИК №5122",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 465,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5123,
     "uikTvd": "481400166666",
+    "uikName": "УИК №5123",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5124,
     "uikTvd": "481400166667",
+    "uikName": "УИК №5124",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 837,
       "Число бюллетеней, полученных участковыми комиссиями": 815,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5125,
     "uikTvd": "481400166668",
+    "uikName": "УИК №5125",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 640,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5126,
     "uikTvd": "481400166669",
+    "uikName": "УИК №5126",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 593,
       "Число бюллетеней, полученных участковыми комиссиями": 575,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5127,
     "uikTvd": "481400166670",
+    "uikName": "УИК №5127",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5128,
     "uikTvd": "481400166671",
+    "uikName": "УИК №5128",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 833,
       "Число бюллетеней, полученных участковыми комиссиями": 785,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5129,
     "uikTvd": "481400166672",
+    "uikName": "УИК №5129",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5130,
     "uikTvd": "481400166673",
+    "uikName": "УИК №5130",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5131,
     "uikTvd": "481400166674",
+    "uikName": "УИК №5131",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5132,
     "uikTvd": "481400166675",
+    "uikName": "УИК №5132",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5133,
     "uikTvd": "481400166676",
+    "uikName": "УИК №5133",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5134,
     "uikTvd": "481400166677",
+    "uikName": "УИК №5134",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 585,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5135,
     "uikTvd": "481400166678",
+    "uikName": "УИК №5135",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5136,
     "uikTvd": "481400166679",
+    "uikName": "УИК №5136",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5137,
     "uikTvd": "481400166680",
+    "uikName": "УИК №5137",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5138,
     "uikTvd": "481400166681",
+    "uikName": "УИК №5138",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5139,
     "uikTvd": "481400166682",
+    "uikName": "УИК №5139",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 504,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5140,
     "uikTvd": "481400166683",
+    "uikName": "УИК №5140",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5141,
     "uikTvd": "481400166684",
+    "uikName": "УИК №5141",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5142,
     "uikTvd": "481400166685",
+    "uikName": "УИК №5142",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5143,
     "uikTvd": "481400166764",
+    "uikName": "УИК №5143",
     "tikTvd": "281200067133",
     "tikName": "Кудымкарская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4801,
     "uikTvd": "481400266644",
+    "uikName": "УИК №4801",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 875,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4802,
     "uikTvd": "481400266645",
+    "uikName": "УИК №4802",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 752,
       "Число бюллетеней, полученных участковыми комиссиями": 761,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4803,
     "uikTvd": "481400266646",
+    "uikName": "УИК №4803",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1065,
       "Число бюллетеней, полученных участковыми комиссиями": 1074,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4804,
     "uikTvd": "481400266647",
+    "uikName": "УИК №4804",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 489,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4805,
     "uikTvd": "481400266648",
+    "uikName": "УИК №4805",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 673,
       "Число бюллетеней, полученных участковыми комиссиями": 673,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4806,
     "uikTvd": "481400266649",
+    "uikName": "УИК №4806",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4807,
     "uikTvd": "481400266650",
+    "uikName": "УИК №4807",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 73,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4808,
     "uikTvd": "481400266651",
+    "uikName": "УИК №4808",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4809,
     "uikTvd": "481400266652",
+    "uikName": "УИК №4809",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4810,
     "uikTvd": "481400266653",
+    "uikName": "УИК №4810",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4811,
     "uikTvd": "481400266654",
+    "uikName": "УИК №4811",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4812,
     "uikTvd": "481400266655",
+    "uikName": "УИК №4812",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 656,
       "Число бюллетеней, полученных участковыми комиссиями": 675,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4813,
     "uikTvd": "481400266656",
+    "uikName": "УИК №4813",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4814,
     "uikTvd": "481400266657",
+    "uikName": "УИК №4814",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4815,
     "uikTvd": "481400266658",
+    "uikName": "УИК №4815",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 672,
       "Число бюллетеней, полученных участковыми комиссиями": 661,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4816,
     "uikTvd": "481400266659",
+    "uikName": "УИК №4816",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 134,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4817,
     "uikTvd": "481400266660",
+    "uikName": "УИК №4817",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 167,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4818,
     "uikTvd": "481400266661",
+    "uikName": "УИК №4818",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 734,
       "Число бюллетеней, полученных участковыми комиссиями": 756,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4819,
     "uikTvd": "481400266662",
+    "uikName": "УИК №4819",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4820,
     "uikTvd": "481400266663",
+    "uikName": "УИК №4820",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4821,
     "uikTvd": "481400266664",
+    "uikName": "УИК №4821",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4822,
     "uikTvd": "481400266665",
+    "uikName": "УИК №4822",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 707,
       "Число бюллетеней, полученных участковыми комиссиями": 722,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4823,
     "uikTvd": "481400266666",
+    "uikName": "УИК №4823",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4824,
     "uikTvd": "481400266667",
+    "uikName": "УИК №4824",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4825,
     "uikTvd": "481400266668",
+    "uikName": "УИК №4825",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4826,
     "uikTvd": "481400266669",
+    "uikName": "УИК №4826",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4827,
     "uikTvd": "481400266670",
+    "uikName": "УИК №4827",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 552,
       "Число бюллетеней, полученных участковыми комиссиями": 555,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4828,
     "uikTvd": "481400266671",
+    "uikName": "УИК №4828",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 928,
       "Число бюллетеней, полученных участковыми комиссиями": 938,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4829,
     "uikTvd": "481400266672",
+    "uikName": "УИК №4829",
     "tikTvd": "281200067134",
     "tikName": "Гайнская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 606,
       "Число бюллетеней, полученных участковыми комиссиями": 622,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4901,
     "uikTvd": "481400366624",
+    "uikName": "УИК №4901",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1816,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4902,
     "uikTvd": "481400366625",
+    "uikName": "УИК №4902",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 863,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4903,
     "uikTvd": "481400366626",
+    "uikName": "УИК №4903",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4904,
     "uikTvd": "481400366627",
+    "uikName": "УИК №4904",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4905,
     "uikTvd": "481400366628",
+    "uikName": "УИК №4905",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4906,
     "uikTvd": "481400366629",
+    "uikName": "УИК №4906",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4907,
     "uikTvd": "481400366630",
+    "uikName": "УИК №4907",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4908,
     "uikTvd": "481400366631",
+    "uikName": "УИК №4908",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4909,
     "uikTvd": "481400366632",
+    "uikName": "УИК №4909",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4910,
     "uikTvd": "481400366633",
+    "uikName": "УИК №4910",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4911,
     "uikTvd": "481400366634",
+    "uikName": "УИК №4911",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 48,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4912,
     "uikTvd": "481400366635",
+    "uikName": "УИК №4912",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4913,
     "uikTvd": "481400366636",
+    "uikName": "УИК №4913",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4914,
     "uikTvd": "481400366637",
+    "uikName": "УИК №4914",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4915,
     "uikTvd": "481400366638",
+    "uikName": "УИК №4915",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4916,
     "uikTvd": "481400366639",
+    "uikName": "УИК №4916",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4917,
     "uikTvd": "481400366640",
+    "uikName": "УИК №4917",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4918,
     "uikTvd": "481400366641",
+    "uikName": "УИК №4918",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4919,
     "uikTvd": "481400366642",
+    "uikName": "УИК №4919",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4920,
     "uikTvd": "481400366643",
+    "uikName": "УИК №4920",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4921,
     "uikTvd": "481400366644",
+    "uikName": "УИК №4921",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4922,
     "uikTvd": "481400366645",
+    "uikName": "УИК №4922",
     "tikTvd": "281200067135",
     "tikName": "Косинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5301,
     "uikTvd": "481400566627",
+    "uikName": "УИК №5301",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5302,
     "uikTvd": "481400566628",
+    "uikName": "УИК №5302",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2701,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5303,
     "uikTvd": "481400566629",
+    "uikName": "УИК №5303",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5304,
     "uikTvd": "481400566630",
+    "uikName": "УИК №5304",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5305,
     "uikTvd": "481400566631",
+    "uikName": "УИК №5305",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5306,
     "uikTvd": "481400566632",
+    "uikName": "УИК №5306",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5307,
     "uikTvd": "481400566633",
+    "uikName": "УИК №5307",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5308,
     "uikTvd": "481400566634",
+    "uikName": "УИК №5308",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5309,
     "uikTvd": "481400566635",
+    "uikName": "УИК №5309",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5310,
     "uikTvd": "481400566636",
+    "uikName": "УИК №5310",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5311,
     "uikTvd": "481400566637",
+    "uikName": "УИК №5311",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5312,
     "uikTvd": "481400566638",
+    "uikName": "УИК №5312",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5313,
     "uikTvd": "481400566639",
+    "uikName": "УИК №5313",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5314,
     "uikTvd": "481400566640",
+    "uikName": "УИК №5314",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 338,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5315,
     "uikTvd": "481400566641",
+    "uikName": "УИК №5315",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5316,
     "uikTvd": "481400566642",
+    "uikName": "УИК №5316",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5317,
     "uikTvd": "481400566643",
+    "uikName": "УИК №5317",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5318,
     "uikTvd": "481400566644",
+    "uikName": "УИК №5318",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5319,
     "uikTvd": "481400566645",
+    "uikName": "УИК №5319",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5320,
     "uikTvd": "481400566646",
+    "uikName": "УИК №5320",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5321,
     "uikTvd": "481400566647",
+    "uikName": "УИК №5321",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5322,
     "uikTvd": "481400566648",
+    "uikName": "УИК №5322",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5323,
     "uikTvd": "481400566649",
+    "uikName": "УИК №5323",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5324,
     "uikTvd": "481400566650",
+    "uikName": "УИК №5324",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5325,
     "uikTvd": "481400566651",
+    "uikName": "УИК №5325",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 488,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5326,
     "uikTvd": "481400566652",
+    "uikName": "УИК №5326",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 51,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5327,
     "uikTvd": "481400566653",
+    "uikName": "УИК №5327",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5328,
     "uikTvd": "481400566654",
+    "uikName": "УИК №5328",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5329,
     "uikTvd": "481400566655",
+    "uikName": "УИК №5329",
     "tikTvd": "281200067136",
     "tikName": "Юрлинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5401,
     "uikTvd": "481400666623",
+    "uikName": "УИК №5401",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2216,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5402,
     "uikTvd": "481400666624",
+    "uikName": "УИК №5402",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 625,
       "Число бюллетеней, полученных участковыми комиссиями": 625,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5403,
     "uikTvd": "481400666625",
+    "uikName": "УИК №5403",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 798,
       "Число бюллетеней, полученных участковыми комиссиями": 795,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5404,
     "uikTvd": "481400666626",
+    "uikName": "УИК №5404",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5405,
     "uikTvd": "481400666627",
+    "uikName": "УИК №5405",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5406,
     "uikTvd": "481400666628",
+    "uikName": "УИК №5406",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 565,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5407,
     "uikTvd": "481400666629",
+    "uikName": "УИК №5407",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5408,
     "uikTvd": "481400666630",
+    "uikName": "УИК №5408",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 823,
       "Число бюллетеней, полученных участковыми комиссиями": 845,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5409,
     "uikTvd": "481400666631",
+    "uikName": "УИК №5409",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 625,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5410,
     "uikTvd": "481400666632",
+    "uikName": "УИК №5410",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5411,
     "uikTvd": "481400666633",
+    "uikName": "УИК №5411",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5412,
     "uikTvd": "481400666634",
+    "uikName": "УИК №5412",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 545,
       "Число бюллетеней, полученных участковыми комиссиями": 595,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5413,
     "uikTvd": "481400666635",
+    "uikName": "УИК №5413",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5414,
     "uikTvd": "481400666636",
+    "uikName": "УИК №5414",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5415,
     "uikTvd": "481400666637",
+    "uikName": "УИК №5415",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 631,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5416,
     "uikTvd": "481400666638",
+    "uikName": "УИК №5416",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5417,
     "uikTvd": "481400666639",
+    "uikName": "УИК №5417",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5418,
     "uikTvd": "481400666640",
+    "uikName": "УИК №5418",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5419,
     "uikTvd": "481400666641",
+    "uikName": "УИК №5419",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 57,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5420,
     "uikTvd": "481400666642",
+    "uikName": "УИК №5420",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5421,
     "uikTvd": "481400666643",
+    "uikName": "УИК №5421",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5422,
     "uikTvd": "481400666644",
+    "uikName": "УИК №5422",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 742,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5423,
     "uikTvd": "481400666645",
+    "uikName": "УИК №5423",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 702,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5424,
     "uikTvd": "481400666646",
+    "uikName": "УИК №5424",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1054,
       "Число бюллетеней, полученных участковыми комиссиями": 1025,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5425,
     "uikTvd": "481400666647",
+    "uikName": "УИК №5425",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5426,
     "uikTvd": "481400666648",
+    "uikName": "УИК №5426",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 776,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5427,
     "uikTvd": "481400666649",
+    "uikName": "УИК №5427",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 788,
       "Число бюллетеней, полученных участковыми комиссиями": 735,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5428,
     "uikTvd": "481400666650",
+    "uikName": "УИК №5428",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1358,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5429,
     "uikTvd": "481400666651",
+    "uikName": "УИК №5429",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 630,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5430,
     "uikTvd": "481400666652",
+    "uikName": "УИК №5430",
     "tikTvd": "281200067137",
     "tikName": "Юсьвинская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5001,
     "uikTvd": "481400466775",
+    "uikName": "УИК №5001",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 724,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5002,
     "uikTvd": "481400466776",
+    "uikName": "УИК №5002",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 651,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5003,
     "uikTvd": "481400466777",
+    "uikName": "УИК №5003",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5004,
     "uikTvd": "481400466778",
+    "uikName": "УИК №5004",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 519,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5005,
     "uikTvd": "481400466779",
+    "uikName": "УИК №5005",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5006,
     "uikTvd": "481400466780",
+    "uikName": "УИК №5006",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5007,
     "uikTvd": "481400466781",
+    "uikName": "УИК №5007",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5008,
     "uikTvd": "481400466782",
+    "uikName": "УИК №5008",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5009,
     "uikTvd": "481400466783",
+    "uikName": "УИК №5009",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5010,
     "uikTvd": "481400466784",
+    "uikName": "УИК №5010",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5011,
     "uikTvd": "481400466785",
+    "uikName": "УИК №5011",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5012,
     "uikTvd": "481400466786",
+    "uikName": "УИК №5012",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5013,
     "uikTvd": "481400466787",
+    "uikName": "УИК №5013",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5014,
     "uikTvd": "481400466788",
+    "uikName": "УИК №5014",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 481,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5015,
     "uikTvd": "481400466789",
+    "uikName": "УИК №5015",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5016,
     "uikTvd": "481400466790",
+    "uikName": "УИК №5016",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5017,
     "uikTvd": "481400466791",
+    "uikName": "УИК №5017",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5018,
     "uikTvd": "481400466792",
+    "uikName": "УИК №5018",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5019,
     "uikTvd": "481400466793",
+    "uikName": "УИК №5019",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5020,
     "uikTvd": "481400466794",
+    "uikName": "УИК №5020",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5021,
     "uikTvd": "481400466795",
+    "uikName": "УИК №5021",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5022,
     "uikTvd": "481400466796",
+    "uikName": "УИК №5022",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5023,
     "uikTvd": "481400466797",
+    "uikName": "УИК №5023",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5024,
     "uikTvd": "481400466798",
+    "uikName": "УИК №5024",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5025,
     "uikTvd": "481400466799",
+    "uikName": "УИК №5025",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 412,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5026,
     "uikTvd": "481400466800",
+    "uikName": "УИК №5026",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5027,
     "uikTvd": "481400466801",
+    "uikName": "УИК №5027",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5028,
     "uikTvd": "481400466802",
+    "uikName": "УИК №5028",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5029,
     "uikTvd": "481400466803",
+    "uikName": "УИК №5029",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5030,
     "uikTvd": "481400466804",
+    "uikName": "УИК №5030",
     "tikTvd": "281200067138",
     "tikName": "Кочевская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5201,
     "uikTvd": "481400766602",
+    "uikName": "УИК №5201",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 960,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5202,
     "uikTvd": "481400766603",
+    "uikName": "УИК №5202",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1153,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5203,
     "uikTvd": "481400766604",
+    "uikName": "УИК №5203",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1865,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5204,
     "uikTvd": "481400766605",
+    "uikName": "УИК №5204",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1987,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5205,
     "uikTvd": "481400766606",
+    "uikName": "УИК №5205",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1512,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5206,
     "uikTvd": "481400766607",
+    "uikName": "УИК №5206",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1880,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5207,
     "uikTvd": "481400766608",
+    "uikName": "УИК №5207",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2304,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5208,
     "uikTvd": "481400766609",
+    "uikName": "УИК №5208",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1773,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5209,
     "uikTvd": "481400766610",
+    "uikName": "УИК №5209",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1471,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5210,
     "uikTvd": "481400766611",
+    "uikName": "УИК №5210",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5211,
     "uikTvd": "481400766612",
+    "uikName": "УИК №5211",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1729,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5212,
     "uikTvd": "481400766613",
+    "uikName": "УИК №5212",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1831,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5213,
     "uikTvd": "481400766614",
+    "uikName": "УИК №5213",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1837,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_81_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5214,
     "uikTvd": "481400766615",
+    "uikName": "УИК №5214",
     "tikTvd": "281200067139",
     "tikName": "Кудымкарская городская",
+    "regionCode": "81",
+    "regionTvd": "100100095797",
+    "regionName": "Коми-Пермяцкий автономный округ",
+    "district": {
+      "districtNumber": 216,
+      "oikTvd": "100100095798",
+      "oikName": "Коми-Пермяцкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1636,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,

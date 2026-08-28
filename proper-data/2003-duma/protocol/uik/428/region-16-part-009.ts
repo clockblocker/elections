@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1336,
     "uikTvd": "416401670396",
+    "uikName": "УИК  1336",
     "tikTvd": "316300470829",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1337,
     "uikTvd": "416401670397",
+    "uikName": "УИК  1337",
     "tikTvd": "316300470829",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1394,
       "Число бюллетеней, полученных участковыми комиссиями": 1391,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1338,
     "uikTvd": "416401670398",
+    "uikName": "УИК  1338",
     "tikTvd": "316300470829",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 687,
       "Число бюллетеней, полученных участковыми комиссиями": 697,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1339,
     "uikTvd": "416401670399",
+    "uikName": "УИК  1339",
     "tikTvd": "316300470829",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1256,
       "Число бюллетеней, полученных участковыми комиссиями": 1263,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1340,
     "uikTvd": "416401670400",
+    "uikName": "УИК  1340",
     "tikTvd": "316300470829",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 614,
       "Число бюллетеней, полученных участковыми комиссиями": 617,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1341,
     "uikTvd": "416401670401",
+    "uikName": "УИК  1341",
     "tikTvd": "316300470829",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1342,
     "uikTvd": "416401670402",
+    "uikName": "УИК  1342",
     "tikTvd": "316300470829",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1379,
       "Число бюллетеней, полученных участковыми комиссиями": 1443,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1343,
     "uikTvd": "416401670403",
+    "uikName": "УИК  1343",
     "tikTvd": "316300470829",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 408,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1344,
     "uikTvd": "416401670404",
+    "uikName": "УИК  1344",
     "tikTvd": "316300470829",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 961,
       "Число бюллетеней, полученных участковыми комиссиями": 1001,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1345,
     "uikTvd": "416401670405",
+    "uikName": "УИК  1345",
     "tikTvd": "316300470829",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 793,
       "Число бюллетеней, полученных участковыми комиссиями": 819,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1446,
     "uikTvd": "416401966891",
+    "uikName": "УИК  1446",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1223,
       "Число бюллетеней, полученных участковыми комиссиями": 1185,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1447,
     "uikTvd": "416401966892",
+    "uikName": "УИК  1447",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 714,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1448,
     "uikTvd": "416401966893",
+    "uikName": "УИК  1448",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 812,
       "Число бюллетеней, полученных участковыми комиссиями": 995,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1449,
     "uikTvd": "416401966894",
+    "uikName": "УИК  1449",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1233,
       "Число бюллетеней, полученных участковыми комиссиями": 1355,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1450,
     "uikTvd": "416401966895",
+    "uikName": "УИК  1450",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1093,
       "Число бюллетеней, полученных участковыми комиссиями": 1075,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1451,
     "uikTvd": "416401966896",
+    "uikName": "УИК  1451",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 920,
       "Число бюллетеней, полученных участковыми комиссиями": 845,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1452,
     "uikTvd": "416401966897",
+    "uikName": "УИК  1452",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 978,
       "Число бюллетеней, полученных участковыми комиссиями": 945,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1453,
     "uikTvd": "416401966898",
+    "uikName": "УИК  1453",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 884,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1454,
     "uikTvd": "416401966899",
+    "uikName": "УИК  1454",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 845,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1455,
     "uikTvd": "416401966900",
+    "uikName": "УИК  1455",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1126,
       "Число бюллетеней, полученных участковыми комиссиями": 1125,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1456,
     "uikTvd": "416401966901",
+    "uikName": "УИК  1456",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 973,
       "Число бюллетеней, полученных участковыми комиссиями": 965,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1457,
     "uikTvd": "416401966902",
+    "uikName": "УИК  1457",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 947,
       "Число бюллетеней, полученных участковыми комиссиями": 955,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1458,
     "uikTvd": "416401966903",
+    "uikName": "УИК  1458",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1287,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1459,
     "uikTvd": "416401966904",
+    "uikName": "УИК  1459",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1243,
       "Число бюллетеней, полученных участковыми комиссиями": 1255,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1460,
     "uikTvd": "416401966905",
+    "uikName": "УИК  1460",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1143,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1461,
     "uikTvd": "416401966906",
+    "uikName": "УИК  1461",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1344,
       "Число бюллетеней, полученных участковыми комиссиями": 1365,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1462,
     "uikTvd": "416401966907",
+    "uikName": "УИК  1462",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1328,
       "Число бюллетеней, полученных участковыми комиссиями": 1215,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1463,
     "uikTvd": "416401966908",
+    "uikName": "УИК  1463",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1037,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1464,
     "uikTvd": "416401966909",
+    "uikName": "УИК  1464",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1114,
       "Число бюллетеней, полученных участковыми комиссиями": 1025,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1465,
     "uikTvd": "416401966910",
+    "uikName": "УИК  1465",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1071,
       "Число бюллетеней, полученных участковыми комиссиями": 965,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1466,
     "uikTvd": "416401966911",
+    "uikName": "УИК  1466",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1385,
       "Число бюллетеней, полученных участковыми комиссиями": 1395,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1467,
     "uikTvd": "416401966912",
+    "uikName": "УИК  1467",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1769,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1468,
     "uikTvd": "416401966913",
+    "uikName": "УИК  1468",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 969,
       "Число бюллетеней, полученных участковыми комиссиями": 945,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1469,
     "uikTvd": "416401966914",
+    "uikName": "УИК  1469",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1126,
       "Число бюллетеней, полученных участковыми комиссиями": 1095,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1470,
     "uikTvd": "416401966915",
+    "uikName": "УИК  1470",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1364,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1686,
     "uikTvd": "416403067053",
+    "uikName": "УИК №1686",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1687,
     "uikTvd": "416403067054",
+    "uikName": "УИК №1687",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1688,
     "uikTvd": "416403067055",
+    "uikName": "УИК №1688",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 614,
       "Число бюллетеней, полученных участковыми комиссиями": 624,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1689,
     "uikTvd": "416403067056",
+    "uikName": "УИК №1689",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 222,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1690,
     "uikTvd": "416403067057",
+    "uikName": "УИК №1690",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1691,
     "uikTvd": "416403067058",
+    "uikName": "УИК №1691",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1526,
       "Число бюллетеней, полученных участковыми комиссиями": 1543,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1692,
     "uikTvd": "416403067059",
+    "uikName": "УИК №1692",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1693,
     "uikTvd": "416403067060",
+    "uikName": "УИК №1693",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1694,
     "uikTvd": "416403067061",
+    "uikName": "УИК №1694",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 730,
       "Число бюллетеней, полученных участковыми комиссиями": 727,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1695,
     "uikTvd": "416403067062",
+    "uikName": "УИК №1695",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 608,
       "Число бюллетеней, полученных участковыми комиссиями": 617,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1696,
     "uikTvd": "416403067063",
+    "uikName": "УИК №1696",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1697,
     "uikTvd": "416403067064",
+    "uikName": "УИК №1697",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1698,
     "uikTvd": "416403067065",
+    "uikName": "УИК №1698",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 356,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1699,
     "uikTvd": "416403067066",
+    "uikName": "УИК №1699",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 317,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1700,
     "uikTvd": "416403067067",
+    "uikName": "УИК №1700",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1701,
     "uikTvd": "416403067068",
+    "uikName": "УИК №1701",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1702,
     "uikTvd": "416403067069",
+    "uikName": "УИК №1702",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 619,
       "Число бюллетеней, полученных участковыми комиссиями": 622,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1703,
     "uikTvd": "416403067070",
+    "uikName": "УИК №1703",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1704,
     "uikTvd": "416403067071",
+    "uikName": "УИК №1704",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 388,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1705,
     "uikTvd": "416403067072",
+    "uikName": "УИК №1705",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1706,
     "uikTvd": "416403067073",
+    "uikName": "УИК №1706",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 680,
       "Число бюллетеней, полученных участковыми комиссиями": 684,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1707,
     "uikTvd": "416403067074",
+    "uikName": "УИК №1707",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 481,
       "Число бюллетеней, полученных участковыми комиссиями": 483,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1708,
     "uikTvd": "416403067075",
+    "uikName": "УИК №1708",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 272,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1709,
     "uikTvd": "416403067076",
+    "uikName": "УИК №1709",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1710,
     "uikTvd": "416403067077",
+    "uikName": "УИК №1710",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 810,
       "Число бюллетеней, полученных участковыми комиссиями": 807,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1711,
     "uikTvd": "416403067078",
+    "uikName": "УИК №1711",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1712,
     "uikTvd": "416403067079",
+    "uikName": "УИК №1712",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 651,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1713,
     "uikTvd": "416403067080",
+    "uikName": "УИК №1713",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 474,
       "Число бюллетеней, полученных участковыми комиссиями": 478,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1714,
     "uikTvd": "416403067081",
+    "uikName": "УИК №1714",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 405,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1715,
     "uikTvd": "416403067082",
+    "uikName": "УИК №1715",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 283,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1716,
     "uikTvd": "416403067083",
+    "uikName": "УИК №1716",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 561,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1717,
     "uikTvd": "416403067084",
+    "uikName": "УИК №1717",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1718,
     "uikTvd": "416403067085",
+    "uikName": "УИК №1718",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 479,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1719,
     "uikTvd": "416403067086",
+    "uikName": "УИК №1719",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 513,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1720,
     "uikTvd": "416403067087",
+    "uikName": "УИК №1720",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1721,
     "uikTvd": "416403067088",
+    "uikName": "УИК №1721",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1722,
     "uikTvd": "416403067089",
+    "uikName": "УИК №1722",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1723,
     "uikTvd": "416403067090",
+    "uikName": "УИК №1723",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 611,
       "Число бюллетеней, полученных участковыми комиссиями": 613,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1724,
     "uikTvd": "416403067091",
+    "uikName": "УИК №1724",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1725,
     "uikTvd": "416403067092",
+    "uikName": "УИК №1725",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1726,
     "uikTvd": "416403067093",
+    "uikName": "УИК №1726",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 368,
       "Число бюллетеней, полученных участковыми комиссиями": 368,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1727,
     "uikTvd": "416403067094",
+    "uikName": "УИК №1727",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 706,
       "Число бюллетеней, полученных участковыми комиссиями": 708,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1728,
     "uikTvd": "416403067095",
+    "uikName": "УИК №1728",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 523,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1729,
     "uikTvd": "416403067096",
+    "uikName": "УИК №1729",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -3645,8 +4356,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1730,
     "uikTvd": "416403067097",
+    "uikName": "УИК №1730",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 478,
       "Число бюллетеней, полученных участковыми комиссиями": 496,
@@ -3691,8 +4411,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1731,
     "uikTvd": "416403067098",
+    "uikName": "УИК №1731",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -3737,8 +4466,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1732,
     "uikTvd": "416403067099",
+    "uikName": "УИК №1732",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -3783,8 +4521,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1733,
     "uikTvd": "416403067100",
+    "uikName": "УИК №1733",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 519,
       "Число бюллетеней, полученных участковыми комиссиями": 528,
@@ -3829,8 +4576,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1734,
     "uikTvd": "416403067101",
+    "uikName": "УИК №1734",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -3875,8 +4631,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1735,
     "uikTvd": "416403067102",
+    "uikName": "УИК №1735",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 404,
       "Число бюллетеней, полученных участковыми комиссиями": 406,
@@ -3921,8 +4686,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1736,
     "uikTvd": "416403067103",
+    "uikName": "УИК №1736",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 623,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -3967,8 +4741,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1737,
     "uikTvd": "416403067104",
+    "uikName": "УИК №1737",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 356,
@@ -4013,8 +4796,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1738,
     "uikTvd": "416403067105",
+    "uikName": "УИК №1738",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 456,
@@ -4059,8 +4851,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1739,
     "uikTvd": "416403067106",
+    "uikName": "УИК №1739",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 344,
       "Число бюллетеней, полученных участковыми комиссиями": 346,
@@ -4105,8 +4906,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1740,
     "uikTvd": "416403067107",
+    "uikName": "УИК №1740",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 349,
@@ -4151,8 +4961,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1741,
     "uikTvd": "416403067108",
+    "uikName": "УИК №1741",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -4197,8 +5016,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1742,
     "uikTvd": "416403067109",
+    "uikName": "УИК №1742",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 485,
@@ -4243,8 +5071,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1743,
     "uikTvd": "416403067110",
+    "uikName": "УИК №1743",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 274,
@@ -4289,8 +5126,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1744,
     "uikTvd": "416403067111",
+    "uikName": "УИК №1744",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 542,
@@ -4335,8 +5181,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1745,
     "uikTvd": "416403067112",
+    "uikName": "УИК №1745",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 441,
@@ -4381,8 +5236,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1746,
     "uikTvd": "416403067113",
+    "uikName": "УИК №1746",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1293,
       "Число бюллетеней, полученных участковыми комиссиями": 1276,
@@ -4427,8 +5291,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1747,
     "uikTvd": "416403067114",
+    "uikName": "УИК №1747",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1492,
       "Число бюллетеней, полученных участковыми комиссиями": 1483,
@@ -4473,8 +5346,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1748,
     "uikTvd": "416403067115",
+    "uikName": "УИК №1748",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1715,
       "Число бюллетеней, полученных участковыми комиссиями": 1714,
@@ -4519,8 +5401,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1749,
     "uikTvd": "416403067116",
+    "uikName": "УИК №1749",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1264,
       "Число бюллетеней, полученных участковыми комиссиями": 1209,
@@ -4565,8 +5456,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1750,
     "uikTvd": "416403067117",
+    "uikName": "УИК №1750",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1945,
       "Число бюллетеней, полученных участковыми комиссиями": 1926,
@@ -4611,8 +5511,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1751,
     "uikTvd": "416403067118",
+    "uikName": "УИК №1751",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1669,
       "Число бюллетеней, полученных участковыми комиссиями": 1593,
@@ -4657,8 +5566,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1752,
     "uikTvd": "416403067119",
+    "uikName": "УИК №1752",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2345,
       "Число бюллетеней, полученных участковыми комиссиями": 2219,
@@ -4703,8 +5621,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1753,
     "uikTvd": "416403067120",
+    "uikName": "УИК №1753",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 703,
       "Число бюллетеней, полученных участковыми комиссиями": 679,
@@ -4749,8 +5676,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1754,
     "uikTvd": "416403067121",
+    "uikName": "УИК №1754",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 577,
       "Число бюллетеней, полученных участковыми комиссиями": 554,
@@ -4795,8 +5731,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1755,
     "uikTvd": "416403166772",
+    "uikName": "УИК №1755",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -4841,8 +5786,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1756,
     "uikTvd": "416403166773",
+    "uikName": "УИК №1756",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1129,
       "Число бюллетеней, полученных участковыми комиссиями": 1124,
@@ -4887,8 +5841,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1757,
     "uikTvd": "416403166774",
+    "uikName": "УИК №1757",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 641,
       "Число бюллетеней, полученных участковыми комиссиями": 621,
@@ -4933,8 +5896,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1758,
     "uikTvd": "416403166775",
+    "uikName": "УИК №1758",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1126,
       "Число бюллетеней, полученных участковыми комиссиями": 1114,
@@ -4979,8 +5951,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1759,
     "uikTvd": "416403166776",
+    "uikName": "УИК №1759",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1058,
       "Число бюллетеней, полученных участковыми комиссиями": 1038,
@@ -5025,8 +6006,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1760,
     "uikTvd": "416403166777",
+    "uikName": "УИК №1760",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1057,
       "Число бюллетеней, полученных участковыми комиссиями": 1094,
@@ -5071,8 +6061,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1761,
     "uikTvd": "416403166778",
+    "uikName": "УИК №1761",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 999,
       "Число бюллетеней, полученных участковыми комиссиями": 954,
@@ -5117,8 +6116,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1762,
     "uikTvd": "416403166779",
+    "uikName": "УИК №1762",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1090,
       "Число бюллетеней, полученных участковыми комиссиями": 1117,
@@ -5163,8 +6171,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1763,
     "uikTvd": "416403166780",
+    "uikName": "УИК №1763",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -5209,8 +6226,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1764,
     "uikTvd": "416403166781",
+    "uikName": "УИК №1764",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -5255,8 +6281,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1765,
     "uikTvd": "416403166782",
+    "uikName": "УИК №1765",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -5301,8 +6336,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1766,
     "uikTvd": "416403166783",
+    "uikName": "УИК №1766",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 627,
@@ -5347,8 +6391,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1767,
     "uikTvd": "416403166784",
+    "uikName": "УИК №1767",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -5393,8 +6446,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1768,
     "uikTvd": "416403166785",
+    "uikName": "УИК №1768",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 537,
@@ -5439,8 +6501,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1769,
     "uikTvd": "416403166786",
+    "uikName": "УИК №1769",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 338,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -5485,8 +6556,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1770,
     "uikTvd": "416403166787",
+    "uikName": "УИК №1770",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 308,
@@ -5531,8 +6611,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1771,
     "uikTvd": "416403166788",
+    "uikName": "УИК №1771",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 562,
@@ -5577,8 +6666,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1772,
     "uikTvd": "416403166789",
+    "uikName": "УИК №1772",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 342,
@@ -5623,8 +6721,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1773,
     "uikTvd": "416403166790",
+    "uikName": "УИК №1773",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 161,
@@ -5669,8 +6776,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1774,
     "uikTvd": "416403166791",
+    "uikName": "УИК №1774",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -5715,8 +6831,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1775,
     "uikTvd": "416403166792",
+    "uikName": "УИК №1775",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 631,
       "Число бюллетеней, полученных участковыми комиссиями": 637,
@@ -5761,8 +6886,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1776,
     "uikTvd": "416403166793",
+    "uikName": "УИК №1776",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 538,
@@ -5807,8 +6941,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1777,
     "uikTvd": "416403166794",
+    "uikName": "УИК №1777",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -5853,8 +6996,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1778,
     "uikTvd": "416403166795",
+    "uikName": "УИК №1778",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 401,
@@ -5899,8 +7051,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1779,
     "uikTvd": "416403166796",
+    "uikName": "УИК №1779",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -5945,8 +7106,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1780,
     "uikTvd": "416403166797",
+    "uikName": "УИК №1780",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 423,
@@ -5991,8 +7161,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1781,
     "uikTvd": "416403166798",
+    "uikName": "УИК №1781",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -6037,8 +7216,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1782,
     "uikTvd": "416403166799",
+    "uikName": "УИК №1782",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1044,
       "Число бюллетеней, полученных участковыми комиссиями": 1106,
@@ -6083,8 +7271,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1783,
     "uikTvd": "416403166800",
+    "uikName": "УИК №1783",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 711,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -6129,8 +7326,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1784,
     "uikTvd": "416403166801",
+    "uikName": "УИК №1784",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 895,
       "Число бюллетеней, полученных участковыми комиссиями": 891,
@@ -6175,8 +7381,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1785,
     "uikTvd": "416403166802",
+    "uikName": "УИК №1785",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1689,
       "Число бюллетеней, полученных участковыми комиссиями": 1724,
@@ -6221,8 +7436,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1786,
     "uikTvd": "416403166803",
+    "uikName": "УИК №1786",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1285,
@@ -6267,8 +7491,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1787,
     "uikTvd": "416403166804",
+    "uikName": "УИК №1787",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -6313,8 +7546,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1788,
     "uikTvd": "416403166805",
+    "uikName": "УИК №1788",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 628,
@@ -6359,8 +7601,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1789,
     "uikTvd": "416403166806",
+    "uikName": "УИК №1789",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 129,
@@ -6405,8 +7656,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1790,
     "uikTvd": "416403166807",
+    "uikName": "УИК №1790",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 506,
@@ -6451,8 +7711,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1791,
     "uikTvd": "416403166808",
+    "uikName": "УИК №1791",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -6497,8 +7766,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1792,
     "uikTvd": "416403166809",
+    "uikName": "УИК №1792",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1234,
       "Число бюллетеней, полученных участковыми комиссиями": 1267,
@@ -6543,8 +7821,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1793,
     "uikTvd": "416403166810",
+    "uikName": "УИК №1793",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -6589,8 +7876,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1794,
     "uikTvd": "416403166811",
+    "uikName": "УИК №1794",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -6635,8 +7931,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1795,
     "uikTvd": "416403166812",
+    "uikName": "УИК №1795",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 528,
       "Число бюллетеней, полученных участковыми комиссиями": 522,
@@ -6681,8 +7986,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1796,
     "uikTvd": "416403166813",
+    "uikName": "УИК №1796",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -6727,8 +8041,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1797,
     "uikTvd": "416403166814",
+    "uikName": "УИК №1797",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 171,
@@ -6773,8 +8096,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1798,
     "uikTvd": "416403166815",
+    "uikName": "УИК №1798",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6819,8 +8151,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1799,
     "uikTvd": "416403166816",
+    "uikName": "УИК №1799",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -6865,8 +8206,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1880,
     "uikTvd": "416403370403",
+    "uikName": "УИК №1880",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 419,
@@ -6911,8 +8261,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1881,
     "uikTvd": "416403370404",
+    "uikName": "УИК №1881",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 129,
@@ -6957,8 +8316,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1882,
     "uikTvd": "416403370405",
+    "uikName": "УИК №1882",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 273,
@@ -7003,8 +8371,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1883,
     "uikTvd": "416403370406",
+    "uikName": "УИК №1883",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -7049,8 +8426,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1884,
     "uikTvd": "416403370407",
+    "uikName": "УИК №1884",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -7095,8 +8481,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1885,
     "uikTvd": "416403370408",
+    "uikName": "УИК №1885",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7141,8 +8536,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1886,
     "uikTvd": "416403370409",
+    "uikName": "УИК №1886",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 515,
       "Число бюллетеней, полученных участковыми комиссиями": 518,
@@ -7187,8 +8591,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1887,
     "uikTvd": "416403370410",
+    "uikName": "УИК №1887",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 444,
@@ -7233,8 +8646,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1888,
     "uikTvd": "416403370411",
+    "uikName": "УИК №1888",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -7279,8 +8701,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1889,
     "uikTvd": "416403370412",
+    "uikName": "УИК №1889",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -7325,8 +8756,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1890,
     "uikTvd": "416403370413",
+    "uikName": "УИК №1890",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -7371,8 +8811,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1891,
     "uikTvd": "416403370414",
+    "uikName": "УИК №1891",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -7417,8 +8866,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1892,
     "uikTvd": "416403370415",
+    "uikName": "УИК №1892",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 555,
       "Число бюллетеней, полученных участковыми комиссиями": 558,
@@ -7463,8 +8921,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1893,
     "uikTvd": "416403370416",
+    "uikName": "УИК №1893",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -7509,8 +8976,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1894,
     "uikTvd": "416403370417",
+    "uikName": "УИК №1894",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 924,
       "Число бюллетеней, полученных участковыми комиссиями": 929,
@@ -7555,8 +9031,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1895,
     "uikTvd": "416403370418",
+    "uikName": "УИК №1895",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 640,
       "Число бюллетеней, полученных участковыми комиссиями": 639,
@@ -7601,8 +9086,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1896,
     "uikTvd": "416403370419",
+    "uikName": "УИК №1896",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -7647,8 +9141,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1897,
     "uikTvd": "416403370420",
+    "uikName": "УИК №1897",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1152,
       "Число бюллетеней, полученных участковыми комиссиями": 1138,
@@ -7693,8 +9196,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1898,
     "uikTvd": "416403370421",
+    "uikName": "УИК №1898",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 544,
       "Число бюллетеней, полученных участковыми комиссиями": 548,
@@ -7739,8 +9251,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1899,
     "uikTvd": "416403370422",
+    "uikName": "УИК №1899",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 722,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -7785,8 +9306,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1900,
     "uikTvd": "416403370423",
+    "uikName": "УИК №1900",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -7831,8 +9361,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1901,
     "uikTvd": "416403370424",
+    "uikName": "УИК №1901",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 969,
       "Число бюллетеней, полученных участковыми комиссиями": 969,
@@ -7877,8 +9416,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1902,
     "uikTvd": "416403370425",
+    "uikName": "УИК №1902",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -7923,8 +9471,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1903,
     "uikTvd": "416403370426",
+    "uikName": "УИК №1903",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 487,
@@ -7969,8 +9526,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1904,
     "uikTvd": "416403370427",
+    "uikName": "УИК №1904",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -8015,8 +9581,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1905,
     "uikTvd": "416403370428",
+    "uikName": "УИК №1905",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -8061,8 +9636,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1906,
     "uikTvd": "416403370429",
+    "uikName": "УИК №1906",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 571,
       "Число бюллетеней, полученных участковыми комиссиями": 587,
@@ -8107,8 +9691,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1907,
     "uikTvd": "416403370430",
+    "uikName": "УИК №1907",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 444,
@@ -8153,8 +9746,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1908,
     "uikTvd": "416403370431",
+    "uikName": "УИК №1908",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1508,
       "Число бюллетеней, полученных участковыми комиссиями": 1402,
@@ -8199,8 +9801,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1909,
     "uikTvd": "416403370432",
+    "uikName": "УИК №1909",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1457,
       "Число бюллетеней, полученных участковыми комиссиями": 1377,
@@ -8245,8 +9856,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1910,
     "uikTvd": "416403370433",
+    "uikName": "УИК №1910",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1508,
       "Число бюллетеней, полученных участковыми комиссиями": 1389,
@@ -8291,8 +9911,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1911,
     "uikTvd": "416403370434",
+    "uikName": "УИК №1911",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1299,
       "Число бюллетеней, полученных участковыми комиссиями": 1338,
@@ -8337,8 +9966,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1912,
     "uikTvd": "416403370435",
+    "uikName": "УИК №1912",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1315,
       "Число бюллетеней, полученных участковыми комиссиями": 1309,
@@ -8383,8 +10021,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1913,
     "uikTvd": "416403370436",
+    "uikName": "УИК №1913",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1811,
@@ -8429,8 +10076,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1914,
     "uikTvd": "416403370437",
+    "uikName": "УИК №1914",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -8475,8 +10131,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1915,
     "uikTvd": "416403370438",
+    "uikName": "УИК №1915",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 834,
       "Число бюллетеней, полученных участковыми комиссиями": 865,
@@ -8521,8 +10186,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1916,
     "uikTvd": "416403370439",
+    "uikName": "УИК №1916",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 469,
@@ -8567,8 +10241,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1917,
     "uikTvd": "416403370440",
+    "uikName": "УИК №1917",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 948,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -8613,8 +10296,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1918,
     "uikTvd": "416403370441",
+    "uikName": "УИК №1918",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 286,
@@ -8659,8 +10351,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1919,
     "uikTvd": "416403370442",
+    "uikName": "УИК №1919",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 347,
@@ -8705,8 +10406,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1920,
     "uikTvd": "416403370443",
+    "uikName": "УИК №1920",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 412,
       "Число бюллетеней, полученных участковыми комиссиями": 413,
@@ -8751,8 +10461,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1921,
     "uikTvd": "416403370444",
+    "uikName": "УИК №1921",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 777,
       "Число бюллетеней, полученных участковыми комиссиями": 787,
@@ -8797,8 +10516,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1922,
     "uikTvd": "416403370445",
+    "uikName": "УИК №1922",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 414,
       "Число бюллетеней, полученных участковыми комиссиями": 418,
@@ -8843,8 +10571,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1923,
     "uikTvd": "416403370446",
+    "uikName": "УИК №1923",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 402,
@@ -8889,8 +10626,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1924,
     "uikTvd": "416403370447",
+    "uikName": "УИК №1924",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -8935,8 +10681,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1925,
     "uikTvd": "416403370448",
+    "uikName": "УИК №1925",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 472,
       "Число бюллетеней, полученных участковыми комиссиями": 475,
@@ -8981,8 +10736,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1926,
     "uikTvd": "416403370449",
+    "uikName": "УИК №1926",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 608,
@@ -9027,8 +10791,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1927,
     "uikTvd": "416403370450",
+    "uikName": "УИК №1927",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 263,
@@ -9073,8 +10846,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1928,
     "uikTvd": "416403370451",
+    "uikName": "УИК №1928",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -9119,8 +10901,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1929,
     "uikTvd": "416403370452",
+    "uikName": "УИК №1929",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -9165,8 +10956,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1930,
     "uikTvd": "416403370453",
+    "uikName": "УИК №1930",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1305,
       "Число бюллетеней, полученных участковыми комиссиями": 1321,
@@ -9211,8 +11011,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1931,
     "uikTvd": "416403370454",
+    "uikName": "УИК №1931",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 303,
@@ -9257,8 +11066,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1932,
     "uikTvd": "416403370455",
+    "uikName": "УИК №1932",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 680,
       "Число бюллетеней, полученных участковыми комиссиями": 675,
@@ -9303,8 +11121,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1933,
     "uikTvd": "416403370456",
+    "uikName": "УИК №1933",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 362,
@@ -9349,8 +11176,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1934,
     "uikTvd": "416403370457",
+    "uikName": "УИК №1934",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 379,
@@ -9395,8 +11231,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1935,
     "uikTvd": "416403370458",
+    "uikName": "УИК №1935",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -9441,8 +11286,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1936,
     "uikTvd": "416403370459",
+    "uikName": "УИК №1936",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 332,
       "Число бюллетеней, полученных участковыми комиссиями": 333,
@@ -9487,8 +11341,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1937,
     "uikTvd": "416403370460",
+    "uikName": "УИК №1937",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 349,
       "Число бюллетеней, полученных участковыми комиссиями": 356,
@@ -9533,8 +11396,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1938,
     "uikTvd": "416403370461",
+    "uikName": "УИК №1938",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 554,
@@ -9579,8 +11451,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1939,
     "uikTvd": "416403370462",
+    "uikName": "УИК №1939",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -9625,8 +11506,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1940,
     "uikTvd": "416403370463",
+    "uikName": "УИК №1940",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 156,
@@ -9671,8 +11561,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1941,
     "uikTvd": "416403370464",
+    "uikName": "УИК №1941",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1013,
       "Число бюллетеней, полученных участковыми комиссиями": 1016,
@@ -9717,8 +11616,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1942,
     "uikTvd": "416403370465",
+    "uikName": "УИК №1942",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 443,
@@ -9763,8 +11671,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2225,
     "uikTvd": "416403867006",
+    "uikName": "УИК №2225",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2583,
       "Число бюллетеней, полученных участковыми комиссиями": 2523,
@@ -9809,8 +11726,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2226,
     "uikTvd": "416403867007",
+    "uikName": "УИК №2226",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2443,
       "Число бюллетеней, полученных участковыми комиссиями": 2414,
@@ -9855,8 +11781,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2227,
     "uikTvd": "416403867008",
+    "uikName": "УИК №2227",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2664,
       "Число бюллетеней, полученных участковыми комиссиями": 2614,
@@ -9901,8 +11836,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2228,
     "uikTvd": "416403867009",
+    "uikName": "УИК №2228",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2320,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -9947,8 +11891,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2229,
     "uikTvd": "416403867010",
+    "uikName": "УИК №2229",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1801,
       "Число бюллетеней, полученных участковыми комиссиями": 1608,
@@ -9993,8 +11946,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2230,
     "uikTvd": "416403867011",
+    "uikName": "УИК №2230",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1810,
       "Число бюллетеней, полученных участковыми комиссиями": 1786,
@@ -10039,8 +12001,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2231,
     "uikTvd": "416403867012",
+    "uikName": "УИК №2231",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2482,
       "Число бюллетеней, полученных участковыми комиссиями": 2476,
@@ -10085,8 +12056,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2232,
     "uikTvd": "416403867013",
+    "uikName": "УИК №2232",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2456,
       "Число бюллетеней, полученных участковыми комиссиями": 2454,
@@ -10131,8 +12111,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2233,
     "uikTvd": "416403867014",
+    "uikName": "УИК №2233",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2493,
       "Число бюллетеней, полученных участковыми комиссиями": 2465,
@@ -10177,8 +12166,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2234,
     "uikTvd": "416403867015",
+    "uikName": "УИК №2234",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2679,
       "Число бюллетеней, полученных участковыми комиссиями": 2646,
@@ -10223,8 +12221,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2235,
     "uikTvd": "416403867016",
+    "uikName": "УИК №2235",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2626,
       "Число бюллетеней, полученных участковыми комиссиями": 2595,
@@ -10269,8 +12276,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2236,
     "uikTvd": "416403867017",
+    "uikName": "УИК №2236",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2353,
       "Число бюллетеней, полученных участковыми комиссиями": 2328,
@@ -10315,8 +12331,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2237,
     "uikTvd": "416403867018",
+    "uikName": "УИК №2237",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2573,
       "Число бюллетеней, полученных участковыми комиссиями": 2544,
@@ -10361,8 +12386,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2238,
     "uikTvd": "416403867019",
+    "uikName": "УИК №2238",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2058,
       "Число бюллетеней, полученных участковыми комиссиями": 2036,
@@ -10407,8 +12441,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2239,
     "uikTvd": "416403867020",
+    "uikName": "УИК №2239",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2629,
       "Число бюллетеней, полученных участковыми комиссиями": 2599,
@@ -10453,8 +12496,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2240,
     "uikTvd": "416403867021",
+    "uikName": "УИК №2240",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2363,
       "Число бюллетеней, полученных участковыми комиссиями": 2338,
@@ -10499,8 +12551,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2241,
     "uikTvd": "416403867022",
+    "uikName": "УИК №2241",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2136,
       "Число бюллетеней, полученных участковыми комиссиями": 2108,
@@ -10545,8 +12606,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2242,
     "uikTvd": "416403867023",
+    "uikName": "УИК №2242",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2897,
       "Число бюллетеней, полученных участковыми комиссиями": 2826,
@@ -10591,8 +12661,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2243,
     "uikTvd": "416403867024",
+    "uikName": "УИК №2243",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2678,
       "Число бюллетеней, полученных участковыми комиссиями": 2645,
@@ -10637,8 +12716,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2244,
     "uikTvd": "416403867025",
+    "uikName": "УИК №2244",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2658,
       "Число бюллетеней, полученных участковыми комиссиями": 2630,
@@ -10683,8 +12771,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2245,
     "uikTvd": "416403867026",
+    "uikName": "УИК №2245",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1513,
       "Число бюллетеней, полученных участковыми комиссиями": 1496,
@@ -10729,8 +12826,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2246,
     "uikTvd": "416403867027",
+    "uikName": "УИК №2246",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1275,
       "Число бюллетеней, полученных участковыми комиссиями": 1257,
@@ -10775,8 +12881,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2247,
     "uikTvd": "416403867028",
+    "uikName": "УИК №2247",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2587,
       "Число бюллетеней, полученных участковыми комиссиями": 2558,
@@ -10821,8 +12936,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2248,
     "uikTvd": "416403867029",
+    "uikName": "УИК №2248",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2544,
       "Число бюллетеней, полученных участковыми комиссиями": 2516,
@@ -10867,8 +12991,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2249,
     "uikTvd": "416403867030",
+    "uikName": "УИК №2249",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2203,
       "Число бюллетеней, полученных участковыми комиссиями": 2178,
@@ -10913,8 +13046,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2250,
     "uikTvd": "416403867031",
+    "uikName": "УИК №2250",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2995,
       "Число бюллетеней, полученных участковыми комиссиями": 2917,
@@ -10959,8 +13101,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2251,
     "uikTvd": "416403867032",
+    "uikName": "УИК №2251",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2310,
       "Число бюллетеней, полученных участковыми комиссиями": 2287,
@@ -11005,8 +13156,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2252,
     "uikTvd": "416403867033",
+    "uikName": "УИК №2252",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2510,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -11051,8 +13211,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2253,
     "uikTvd": "416403867034",
+    "uikName": "УИК №2253",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1800,
       "Число бюллетеней, полученных участковыми комиссиями": 1775,
@@ -11097,8 +13266,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2254,
     "uikTvd": "416403867035",
+    "uikName": "УИК №2254",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2032,
       "Число бюллетеней, полученных участковыми комиссиями": 2004,
@@ -11143,8 +13321,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2255,
     "uikTvd": "416403867036",
+    "uikName": "УИК №2255",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2036,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -11189,8 +13376,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2256,
     "uikTvd": "416403867037",
+    "uikName": "УИК №2256",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2196,
       "Число бюллетеней, полученных участковыми комиссиями": 2173,
@@ -11235,8 +13431,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2257,
     "uikTvd": "416403867038",
+    "uikName": "УИК №2257",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2275,
       "Число бюллетеней, полученных участковыми комиссиями": 2246,
@@ -11281,8 +13486,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2258,
     "uikTvd": "416403867039",
+    "uikName": "УИК №2258",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2230,
       "Число бюллетеней, полученных участковыми комиссиями": 2203,
@@ -11327,8 +13541,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2259,
     "uikTvd": "416403867040",
+    "uikName": "УИК №2259",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2610,
       "Число бюллетеней, полученных участковыми комиссиями": 2583,
@@ -11373,8 +13596,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2260,
     "uikTvd": "416403867041",
+    "uikName": "УИК №2260",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2600,
       "Число бюллетеней, полученных участковыми комиссиями": 2573,
@@ -11419,8 +13651,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2261,
     "uikTvd": "416403867042",
+    "uikName": "УИК №2261",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2537,
       "Число бюллетеней, полученных участковыми комиссиями": 2507,
@@ -11465,8 +13706,17 @@ export const duma_2003_uik_428_region_16_part_009 = [
     "ballot": "single-member",
     "uikNumber": 2262,
     "uikTvd": "416403867043",
+    "uikName": "УИК №2262",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2600,
       "Число бюллетеней, полученных участковыми комиссиями": 2562,

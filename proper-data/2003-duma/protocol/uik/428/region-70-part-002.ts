@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "470401166860",
+    "uikName": "УИК №521",
     "tikTvd": "270200067029",
     "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "470401166861",
+    "uikName": "УИК №522",
     "tikTvd": "270200067029",
     "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 475,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "470401166862",
+    "uikName": "УИК №523",
     "tikTvd": "270200067029",
     "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "470401166863",
+    "uikName": "УИК №524",
     "tikTvd": "270200067029",
     "tikName": "Молчановская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 636,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "470400666680",
+    "uikName": "УИК №416",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1119,
       "Число бюллетеней, полученных участковыми комиссиями": 1177,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "470400666681",
+    "uikName": "УИК №417",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1276,
       "Число бюллетеней, полученных участковыми комиссиями": 1268,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "470400666682",
+    "uikName": "УИК №418",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 997,
       "Число бюллетеней, полученных участковыми комиссиями": 956,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "470400666683",
+    "uikName": "УИК №419",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 721,
       "Число бюллетеней, полученных участковыми комиссиями": 742,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "470400666684",
+    "uikName": "УИК №420",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 826,
       "Число бюллетеней, полученных участковыми комиссиями": 809,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "470400666685",
+    "uikName": "УИК №421",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1296,
       "Число бюллетеней, полученных участковыми комиссиями": 1308,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "470400666686",
+    "uikName": "УИК №422",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1224,
       "Число бюллетеней, полученных участковыми комиссиями": 1194,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "470400666687",
+    "uikName": "УИК №423",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 557,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "470400666688",
+    "uikName": "УИК №424",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 632,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "470400666689",
+    "uikName": "УИК №425",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "470400666690",
+    "uikName": "УИК №426",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "470400666691",
+    "uikName": "УИК №427",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "470400666692",
+    "uikName": "УИК №428",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 244,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "470400666693",
+    "uikName": "УИК №429",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "470400666694",
+    "uikName": "УИК №430",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "470400666695",
+    "uikName": "УИК №431",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "470400666696",
+    "uikName": "УИК №432",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 486,
       "Число бюллетеней, полученных участковыми комиссиями": 497,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "470400666697",
+    "uikName": "УИК №433",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 432,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "470400666698",
+    "uikName": "УИК №434",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 272,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "470400666699",
+    "uikName": "УИК №435",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "470400666700",
+    "uikName": "УИК №436",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 273,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "470400666701",
+    "uikName": "УИК №437",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1663,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "470400666702",
+    "uikName": "УИК №438",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1981,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "470400666703",
+    "uikName": "УИК №439",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 413,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "470400666704",
+    "uikName": "УИК №440",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 456,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "470400666705",
+    "uikName": "УИК №441",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 442,
     "uikTvd": "470400666706",
+    "uikName": "УИК №442",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 443,
     "uikTvd": "470400666707",
+    "uikName": "УИК №443",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 449,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 444,
     "uikTvd": "470400666708",
+    "uikName": "УИК №444",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 249,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 445,
     "uikTvd": "470400666709",
+    "uikName": "УИК №445",
     "tikTvd": "270200067030",
     "tikName": "Каргасокская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 437,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "470400766729",
+    "uikName": "УИК №262",
     "tikTvd": "270200067031",
     "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 937,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "470400766730",
+    "uikName": "УИК №263",
     "tikTvd": "270200067031",
     "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 944,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "470400766731",
+    "uikName": "УИК №264",
     "tikTvd": "270200067031",
     "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 234,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "470400766732",
+    "uikName": "УИК №265",
     "tikTvd": "270200067031",
     "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 919,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "470400766733",
+    "uikName": "УИК №266",
     "tikTvd": "270200067031",
     "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "470400766734",
+    "uikName": "УИК №267",
     "tikTvd": "270200067031",
     "tikName": "Кедровская городская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 57,
       "Число бюллетеней, полученных участковыми комиссиями": 64,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "470400866797",
+    "uikName": "УИК №447",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "470400866798",
+    "uikName": "УИК №448",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1675,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "470400866799",
+    "uikName": "УИК №449",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1663,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "470400866800",
+    "uikName": "УИК №450",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1435,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "470400866801",
+    "uikName": "УИК №451",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1477,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "470400866802",
+    "uikName": "УИК №452",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "470400866803",
+    "uikName": "УИК №453",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1080,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "470400866804",
+    "uikName": "УИК №454",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "470400866805",
+    "uikName": "УИК №455",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 919,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "470400866806",
+    "uikName": "УИК №456",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "470400866807",
+    "uikName": "УИК №457",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "470400866808",
+    "uikName": "УИК №458",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 656,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "470400866809",
+    "uikName": "УИК №459",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "470400866810",
+    "uikName": "УИК №460",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "470400866811",
+    "uikName": "УИК №461",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 414,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "470400866812",
+    "uikName": "УИК №462",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "470400866813",
+    "uikName": "УИК №463",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "470400866814",
+    "uikName": "УИК №464",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "470400866815",
+    "uikName": "УИК №465",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "470400866816",
+    "uikName": "УИК №466",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "470400866817",
+    "uikName": "УИК №467",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "470400866818",
+    "uikName": "УИК №468",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "470400866819",
+    "uikName": "УИК №469",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 771,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "470400866820",
+    "uikName": "УИК №470",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "470400866821",
+    "uikName": "УИК №471",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "470400866822",
+    "uikName": "УИК №472",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "470400866823",
+    "uikName": "УИК №473",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "470400866824",
+    "uikName": "УИК №474",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "470400866825",
+    "uikName": "УИК №475",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "470400866826",
+    "uikName": "УИК №476",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "470400866827",
+    "uikName": "УИК №477",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "470400866828",
+    "uikName": "УИК №478",
     "tikTvd": "270200067032",
     "tikName": "Кожевниковская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "470400566699",
+    "uikName": "УИК №389",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 837,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "470400566700",
+    "uikName": "УИК №390",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 818,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "470400566701",
+    "uikName": "УИК №391",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 740,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "470400566702",
+    "uikName": "УИК №392",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 895,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "470400566703",
+    "uikName": "УИК №393",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 736,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "470400566704",
+    "uikName": "УИК №394",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 910,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "470400566705",
+    "uikName": "УИК №395",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 491,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "470400566706",
+    "uikName": "УИК №396",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 590,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "470400566707",
+    "uikName": "УИК №397",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 674,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "470400566708",
+    "uikName": "УИК №398",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "470400566709",
+    "uikName": "УИК №399",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 509,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "470400566710",
+    "uikName": "УИК №400",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 248,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "470400566711",
+    "uikName": "УИК №401",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "470400566712",
+    "uikName": "УИК №402",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "470400566713",
+    "uikName": "УИК №403",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 254,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "470400566714",
+    "uikName": "УИК №404",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "470400566715",
+    "uikName": "УИК №405",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "470400566716",
+    "uikName": "УИК №406",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "470400566717",
+    "uikName": "УИК №407",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "470400566718",
+    "uikName": "УИК №408",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 218,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "470400566719",
+    "uikName": "УИК №409",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "470400566720",
+    "uikName": "УИК №410",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "470400566721",
+    "uikName": "УИК №411",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "470400566722",
+    "uikName": "УИК №412",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "470400566723",
+    "uikName": "УИК №413",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "470400566724",
+    "uikName": "УИК №414",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "470400566725",
+    "uikName": "УИК №415",
     "tikTvd": "270200067033",
     "tikName": "Зырянская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 52,
       "Число бюллетеней, полученных участковыми комиссиями": 54,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "470400366686",
+    "uikName": "УИК №342",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 338,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "470400366688",
+    "uikName": "УИК №343",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "470400366690",
+    "uikName": "УИК №344",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "470400366692",
+    "uikName": "УИК №345",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 952,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "470400366694",
+    "uikName": "УИК №346",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 811,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "470400366696",
+    "uikName": "УИК №347",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 954,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "470400366698",
+    "uikName": "УИК №348",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 956,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "470400366700",
+    "uikName": "УИК №349",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 882,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "470400366702",
+    "uikName": "УИК №350",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "470400366704",
+    "uikName": "УИК №351",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "470400366706",
+    "uikName": "УИК №352",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "470400366708",
+    "uikName": "УИК №353",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 451,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "470400366710",
+    "uikName": "УИК №354",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "470400366712",
+    "uikName": "УИК №355",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "470400366714",
+    "uikName": "УИК №356",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "470400366716",
+    "uikName": "УИК №357",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "470400366718",
+    "uikName": "УИК №358",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "470400366720",
+    "uikName": "УИК №359",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 476,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "470400366722",
+    "uikName": "УИК №360",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "470400366724",
+    "uikName": "УИК №361",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 608,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "470400366726",
+    "uikName": "УИК №362",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 967,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "470400366728",
+    "uikName": "УИК №363",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "470400366730",
+    "uikName": "УИК №364",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "470400366732",
+    "uikName": "УИК №365",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "470400366734",
+    "uikName": "УИК №366",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "470400366736",
+    "uikName": "УИК №367",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "470400366738",
+    "uikName": "УИК №368",
     "tikTvd": "270200067035",
     "tikName": "Бакчарская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "470400466666",
+    "uikName": "УИК №371",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2052,
       "Число бюллетеней, полученных участковыми комиссиями": 1864,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "470400466667",
+    "uikName": "УИК №372",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1897,
       "Число бюллетеней, полученных участковыми комиссиями": 1776,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "470400466668",
+    "uikName": "УИК №373",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1769,
       "Число бюллетеней, полученных участковыми комиссиями": 1649,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "470400466669",
+    "uikName": "УИК №374",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 573,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "470400466670",
+    "uikName": "УИК №375",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 648,
       "Число бюллетеней, полученных участковыми комиссиями": 616,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "470400466671",
+    "uikName": "УИК №376",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 581,
       "Число бюллетеней, полученных участковыми комиссиями": 555,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "470400466672",
+    "uikName": "УИК №377",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1696,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "470400466673",
+    "uikName": "УИК №378",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1223,
       "Число бюллетеней, полученных участковыми комиссиями": 1167,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "470400466674",
+    "uikName": "УИК №379",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "470400466675",
+    "uikName": "УИК №380",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 351,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "470400466676",
+    "uikName": "УИК №381",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 522,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "470400466677",
+    "uikName": "УИК №382",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "470400466678",
+    "uikName": "УИК №383",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 795,
       "Число бюллетеней, полученных участковыми комиссиями": 767,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "470400466679",
+    "uikName": "УИК №384",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 338,
       "Число бюллетеней, полученных участковыми комиссиями": 324,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "470400466680",
+    "uikName": "УИК №385",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 151,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "470400466681",
+    "uikName": "УИК №386",
     "tikTvd": "270200067036",
     "tikName": "Верхнекетская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "470402366728",
+    "uikName": "УИК №42",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 446,
     "uikTvd": "470402366729",
+    "uikName": "УИК №446",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "470402366730",
+    "uikName": "УИК №705",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 863,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "470402366731",
+    "uikName": "УИК №706",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "470402366732",
+    "uikName": "УИК №707",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "470402366733",
+    "uikName": "УИК №708",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 682,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "470402366734",
+    "uikName": "УИК №709",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 898,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "470402366735",
+    "uikName": "УИК №710",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "470402366736",
+    "uikName": "УИК №711",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 86,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "470402366737",
+    "uikName": "УИК №712",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "470402366738",
+    "uikName": "УИК №713",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "470402366739",
+    "uikName": "УИК №714",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 488,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "470402366740",
+    "uikName": "УИК №715",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "470402366741",
+    "uikName": "УИК №716",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 540,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "470402366742",
+    "uikName": "УИК №717",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "470402366743",
+    "uikName": "УИК №718",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "470402366744",
+    "uikName": "УИК №719",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 441,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "470402366745",
+    "uikName": "УИК №720",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "470402366746",
+    "uikName": "УИК №721",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "470402366747",
+    "uikName": "УИК №722",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "470402366748",
+    "uikName": "УИК №723",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 494,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "470402366749",
+    "uikName": "УИК №724",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "470402366750",
+    "uikName": "УИК №725",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 571,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "470402366751",
+    "uikName": "УИК №726",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 766,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "470402366752",
+    "uikName": "УИК №727",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 920,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "470402366753",
+    "uikName": "УИК №728",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 801,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "470402366754",
+    "uikName": "УИК №729",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 542,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "470402366755",
+    "uikName": "УИК №730",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "470402366756",
+    "uikName": "УИК №731",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1095,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "470402366757",
+    "uikName": "УИК №732",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 727,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "470402366758",
+    "uikName": "УИК №733",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 917,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "470402366759",
+    "uikName": "УИК №734",
     "tikTvd": "270200067038",
     "tikName": "Шегарская ТИК",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 545,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "470402266704",
+    "uikName": "УИК №671",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "470402266706",
+    "uikName": "УИК №672",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 268,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "470402266707",
+    "uikName": "УИК №673",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 31,
       "Число бюллетеней, полученных участковыми комиссиями": 33,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "470402266708",
+    "uikName": "УИК №674",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 403,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "470402266709",
+    "uikName": "УИК №675",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "470402266710",
+    "uikName": "УИК №676",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 146,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "470402266711",
+    "uikName": "УИК №677",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "470402266712",
+    "uikName": "УИК №678",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 476,
       "Число бюллетеней, полученных участковыми комиссиями": 485,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "470402266713",
+    "uikName": "УИК №679",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 272,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "470402266714",
+    "uikName": "УИК №680",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 339,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "470402266715",
+    "uikName": "УИК №681",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "470402266716",
+    "uikName": "УИК №682",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "470402266717",
+    "uikName": "УИК №683",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 441,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "470402266718",
+    "uikName": "УИК №684",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "470402266719",
+    "uikName": "УИК №685",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 435,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "470402266720",
+    "uikName": "УИК №686",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 556,
       "Число бюллетеней, полученных участковыми комиссиями": 571,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "470402266721",
+    "uikName": "УИК №687",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 36,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "470402266722",
+    "uikName": "УИК №688",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 149,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "470402266723",
+    "uikName": "УИК №689",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "470402266724",
+    "uikName": "УИК №690",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "470402266725",
+    "uikName": "УИК №691",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 585,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "470402266726",
+    "uikName": "УИК №692",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 37,
       "Число бюллетеней, полученных участковыми комиссиями": 37,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "470402266727",
+    "uikName": "УИК №693",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 313,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "470402266728",
+    "uikName": "УИК №694",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 99,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "470402266729",
+    "uikName": "УИК №695",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 303,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "470402266730",
+    "uikName": "УИК №696",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 821,
       "Число бюллетеней, полученных участковыми комиссиями": 813,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "470402266731",
+    "uikName": "УИК №697",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 657,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "470402266732",
+    "uikName": "УИК №698",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 533,
       "Число бюллетеней, полученных участковыми комиссиями": 538,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "470402266733",
+    "uikName": "УИК №699",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "470402266734",
+    "uikName": "УИК №700",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "470402266735",
+    "uikName": "УИК №701",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 143,
       "Число бюллетеней, полученных участковыми комиссиями": 162,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "470402266736",
+    "uikName": "УИК №702",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 71,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "470402266737",
+    "uikName": "УИК №703",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "470402266738",
+    "uikName": "УИК №704",
     "tikTvd": "270200067039",
     "tikName": "Чаинская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 588,
       "Число бюллетеней, полученных участковыми комиссиями": 594,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "470402166851",
+    "uikName": "УИК №369",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "470402166852",
+    "uikName": "УИК №370",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 52,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "470402166853",
+    "uikName": "УИК №387",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "470402166854",
+    "uikName": "УИК №388",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1308,
       "Число бюллетеней, полученных участковыми комиссиями": 1306,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "470402166855",
+    "uikName": "УИК №582",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1282,
       "Число бюллетеней, полученных участковыми комиссиями": 1355,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "470402166856",
+    "uikName": "УИК №583",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 67,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "470402166857",
+    "uikName": "УИК №584",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "470402166858",
+    "uikName": "УИК №585",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "470402166859",
+    "uikName": "УИК №586",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 369,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "470402166860",
+    "uikName": "УИК №587",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 234,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "470402166861",
+    "uikName": "УИК №588",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 96,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "470402166862",
+    "uikName": "УИК №600",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 688,
       "Число бюллетеней, полученных участковыми комиссиями": 689,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "470402166863",
+    "uikName": "УИК №601",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1047,
       "Число бюллетеней, полученных участковыми комиссиями": 1068,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "470402166864",
+    "uikName": "УИК №602",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 154,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "470402166865",
+    "uikName": "УИК №603",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 762,
       "Число бюллетеней, полученных участковыми комиссиями": 772,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "470402166866",
+    "uikName": "УИК №604",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 371,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "470402166867",
+    "uikName": "УИК №605",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1314,
       "Число бюллетеней, полученных участковыми комиссиями": 1334,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "470402166868",
+    "uikName": "УИК №606",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1215,
       "Число бюллетеней, полученных участковыми комиссиями": 1223,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "470402166869",
+    "uikName": "УИК №607",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1657,
       "Число бюллетеней, полученных участковыми комиссиями": 1651,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "470402166870",
+    "uikName": "УИК №608",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1534,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "470402166871",
+    "uikName": "УИК №609",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2461,
       "Число бюллетеней, полученных участковыми комиссиями": 2464,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "470402166872",
+    "uikName": "УИК №610",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2420,
       "Число бюллетеней, полученных участковыми комиссиями": 2413,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "470402166873",
+    "uikName": "УИК №611",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 404,
       "Число бюллетеней, полученных участковыми комиссиями": 412,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "470402166874",
+    "uikName": "УИК №612",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1265,
       "Число бюллетеней, полученных участковыми комиссиями": 1311,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "470402166875",
+    "uikName": "УИК №613",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 582,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "470402166876",
+    "uikName": "УИК №614",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "470402166877",
+    "uikName": "УИК №615",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 608,
       "Число бюллетеней, полученных участковыми комиссиями": 603,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "470402166878",
+    "uikName": "УИК №616",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 213,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "470402166879",
+    "uikName": "УИК №617",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 884,
       "Число бюллетеней, полученных участковыми комиссиями": 888,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "470402166880",
+    "uikName": "УИК №618",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 231,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "470402166881",
+    "uikName": "УИК №619",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 218,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "470402166882",
+    "uikName": "УИК №620",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 179,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "470402166883",
+    "uikName": "УИК №621",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 762,
       "Число бюллетеней, полученных участковыми комиссиями": 761,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "470402166884",
+    "uikName": "УИК №622",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "470402166885",
+    "uikName": "УИК №623",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "470402166886",
+    "uikName": "УИК №624",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 299,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "470402166887",
+    "uikName": "УИК №625",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1402,
       "Число бюллетеней, полученных участковыми комиссиями": 1402,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "470402166888",
+    "uikName": "УИК №626",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 808,
       "Число бюллетеней, полученных участковыми комиссиями": 818,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "470402166889",
+    "uikName": "УИК №627",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 525,
       "Число бюллетеней, полученных участковыми комиссиями": 522,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "470402166890",
+    "uikName": "УИК №628",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2002,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "470402166891",
+    "uikName": "УИК №629",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 700,
       "Число бюллетеней, полученных участковыми комиссиями": 712,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_70_part_002 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "470402166892",
+    "uikName": "УИК №630",
     "tikTvd": "270200067040",
     "tikName": "Томская",
+    "regionCode": "70",
+    "regionTvd": "100100095925",
+    "regionName": "Томская область",
+    "district": {
+      "districtNumber": 174,
+      "oikTvd": "100100095926",
+      "oikName": "Томский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 786,
       "Число бюллетеней, полученных участковыми комиссиями": 796,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 966,
     "uikTvd": "447402174718",
+    "uikName": "УИК №966",
     "tikTvd": "347300171060",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 781,
       "Число бюллетеней, полученных участковыми комиссиями": 775,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 967,
     "uikTvd": "447402174719",
+    "uikName": "УИК №967",
     "tikTvd": "347300171060",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 968,
     "uikTvd": "447402174720",
+    "uikName": "УИК №968",
     "tikTvd": "347300171060",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2818,
       "Число бюллетеней, полученных участковыми комиссиями": 2890,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 969,
     "uikTvd": "447402174721",
+    "uikName": "УИК №969",
     "tikTvd": "347300171060",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 242,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 970,
     "uikTvd": "447402174722",
+    "uikName": "УИК №970",
     "tikTvd": "347300171060",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 971,
     "uikTvd": "447402174723",
+    "uikName": "УИК №971",
     "tikTvd": "347300171060",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 972,
     "uikTvd": "447402174724",
+    "uikName": "УИК №972",
     "tikTvd": "347300171060",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 475,
       "Число бюллетеней, полученных участковыми комиссиями": 475,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 973,
     "uikTvd": "447402174725",
+    "uikName": "УИК №973",
     "tikTvd": "347300171060",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2680,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 974,
     "uikTvd": "447402174726",
+    "uikName": "УИК №974",
     "tikTvd": "347300171060",
     "tikName": "Тосненская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1528,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "447402470829",
+    "uikName": "УИК №436",
     "tikTvd": "347300171061",
     "tikName": "Коммунарская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2713,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "447402470830",
+    "uikName": "УИК №437",
     "tikTvd": "347300171061",
     "tikName": "Коммунарская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2618,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "447402470831",
+    "uikName": "УИК №438",
     "tikTvd": "347300171061",
     "tikName": "Коммунарская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "447402470832",
+    "uikName": "УИК №439",
     "tikTvd": "347300171061",
     "tikName": "Коммунарская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2479,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "447402470833",
+    "uikName": "УИК №440",
     "tikTvd": "347300171061",
     "tikName": "Коммунарская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2490,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "447402470834",
+    "uikName": "УИК №441",
     "tikTvd": "347300171061",
     "tikName": "Коммунарская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1928,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "447402970987",
+    "uikName": "УИК №110",
     "tikTvd": "347300171062",
     "tikName": "Новоладожская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1124,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "447402970989",
+    "uikName": "УИК №111",
     "tikTvd": "347300171062",
     "tikName": "Новоладожская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1905,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "447402970991",
+    "uikName": "УИК №112",
     "tikTvd": "347300171062",
     "tikName": "Новоладожская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1614,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "447402970993",
+    "uikName": "УИК №113",
     "tikTvd": "347300171062",
     "tikName": "Новоладожская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1655,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "447402970995",
+    "uikName": "УИК №114",
     "tikTvd": "347300171062",
     "tikName": "Новоладожская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1370,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "447400772925",
+    "uikName": "УИК №357",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 973,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "447400772926",
+    "uikName": "УИК №358",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 746,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "447400772927",
+    "uikName": "УИК №359",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "447400772928",
+    "uikName": "УИК №360",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1883,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "447400772929",
+    "uikName": "УИК №361",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1094,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "447400772930",
+    "uikName": "УИК №362",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "447400772931",
+    "uikName": "УИК №363",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "447400772932",
+    "uikName": "УИК №364",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 715,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "447400772933",
+    "uikName": "УИК №365",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "447400772934",
+    "uikName": "УИК №366",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1659,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "447400772935",
+    "uikName": "УИК №367",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1255,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "447400772936",
+    "uikName": "УИК №368",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "447400772937",
+    "uikName": "УИК №369",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1829,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "447400772938",
+    "uikName": "УИК №370",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2270,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "447400772939",
+    "uikName": "УИК №371",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "447400772940",
+    "uikName": "УИК №372",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1123,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "447400772941",
+    "uikName": "УИК №373",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 960,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "447400772942",
+    "uikName": "УИК №374",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1179,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "447400772943",
+    "uikName": "УИК №375",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "447400772944",
+    "uikName": "УИК №376",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1458,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "447400772945",
+    "uikName": "УИК №377",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1787,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "447400772946",
+    "uikName": "УИК №378",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1615,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "447400772947",
+    "uikName": "УИК №379",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "447400772948",
+    "uikName": "УИК №380",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "447400772949",
+    "uikName": "УИК №381",
     "tikTvd": "347300171063",
     "tikName": "Гатчинская восточная",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 99,
+      "oikTvd": "100100095897",
+      "oikName": "Волховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 841,
     "uikTvd": "447401972183",
+    "uikName": "УИК №841",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2450,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2223,8 +2637,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 842,
     "uikTvd": "447401972184",
+    "uikName": "УИК №842",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2714,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2275,8 +2698,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 843,
     "uikTvd": "447401972185",
+    "uikName": "УИК №843",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2882,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2327,8 +2759,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 844,
     "uikTvd": "447401972186",
+    "uikName": "УИК №844",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2893,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -2379,8 +2820,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 845,
     "uikTvd": "447401972187",
+    "uikName": "УИК №845",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2744,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2431,8 +2881,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 846,
     "uikTvd": "447401972188",
+    "uikName": "УИК №846",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2898,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2483,8 +2942,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 847,
     "uikTvd": "447401972189",
+    "uikName": "УИК №847",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2973,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2535,8 +3003,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 848,
     "uikTvd": "447401972190",
+    "uikName": "УИК №848",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2916,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2587,8 +3064,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 849,
     "uikTvd": "447401972191",
+    "uikName": "УИК №849",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2763,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2639,8 +3125,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 850,
     "uikTvd": "447401972192",
+    "uikName": "УИК №850",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2965,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2691,8 +3186,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 851,
     "uikTvd": "447401972193",
+    "uikName": "УИК №851",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2771,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2743,8 +3247,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 852,
     "uikTvd": "447401972194",
+    "uikName": "УИК №852",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2908,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2795,8 +3308,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 853,
     "uikTvd": "447401972195",
+    "uikName": "УИК №853",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2919,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2847,8 +3369,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 854,
     "uikTvd": "447401972196",
+    "uikName": "УИК №854",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2562,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2899,8 +3430,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 855,
     "uikTvd": "447401972197",
+    "uikName": "УИК №855",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2376,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2951,8 +3491,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 856,
     "uikTvd": "447401972198",
+    "uikName": "УИК №856",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2879,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3003,8 +3552,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 857,
     "uikTvd": "447401972199",
+    "uikName": "УИК №857",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2741,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3055,8 +3613,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 858,
     "uikTvd": "447401972200",
+    "uikName": "УИК №858",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2520,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3107,8 +3674,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 859,
     "uikTvd": "447401972201",
+    "uikName": "УИК №859",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3012,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -3159,8 +3735,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 860,
     "uikTvd": "447401972202",
+    "uikName": "УИК №860",
     "tikTvd": "347300370452",
     "tikName": "Сосновоборская городская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -3211,8 +3796,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "447400973463",
+    "uikName": "УИК №479",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2095,
       "Число бюллетеней, полученных участковыми комиссиями": 2084,
@@ -3263,8 +3857,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "447400973464",
+    "uikName": "УИК №480",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2873,
       "Число бюллетеней, полученных участковыми комиссиями": 2888,
@@ -3315,8 +3918,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "447400973465",
+    "uikName": "УИК №481",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1450,
       "Число бюллетеней, полученных участковыми комиссиями": 1448,
@@ -3367,8 +3979,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "447400973466",
+    "uikName": "УИК №482",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1497,
       "Число бюллетеней, полученных участковыми комиссиями": 1482,
@@ -3419,8 +4040,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "447400973467",
+    "uikName": "УИК №483",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 2087,
@@ -3471,8 +4101,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "447400973468",
+    "uikName": "УИК №484",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2512,
       "Число бюллетеней, полученных участковыми комиссиями": 2519,
@@ -3523,8 +4162,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "447400973469",
+    "uikName": "УИК №485",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2646,
       "Число бюллетеней, полученных участковыми комиссиями": 2676,
@@ -3575,8 +4223,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "447400973470",
+    "uikName": "УИК №486",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2943,
       "Число бюллетеней, полученных участковыми комиссиями": 2958,
@@ -3627,8 +4284,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "447400973471",
+    "uikName": "УИК №487",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2395,
       "Число бюллетеней, полученных участковыми комиссиями": 2405,
@@ -3679,8 +4345,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "447400973472",
+    "uikName": "УИК №488",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2499,
@@ -3731,8 +4406,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "447400973473",
+    "uikName": "УИК №489",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1688,
       "Число бюллетеней, полученных участковыми комиссиями": 1699,
@@ -3783,8 +4467,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "447400973474",
+    "uikName": "УИК №490",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1571,
       "Число бюллетеней, полученных участковыми комиссиями": 1568,
@@ -3835,8 +4528,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "447400973475",
+    "uikName": "УИК №491",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2473,
       "Число бюллетеней, полученных участковыми комиссиями": 2481,
@@ -3887,8 +4589,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "447400973476",
+    "uikName": "УИК №492",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1723,
       "Число бюллетеней, полученных участковыми комиссиями": 1725,
@@ -3939,8 +4650,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "447400973477",
+    "uikName": "УИК №493",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1709,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -3991,8 +4711,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "447400972837",
+    "uikName": "УИК №494",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2039,
       "Число бюллетеней, полученных участковыми комиссиями": 2057,
@@ -4043,8 +4772,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "447400972838",
+    "uikName": "УИК №495",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2217,
       "Число бюллетеней, полученных участковыми комиссиями": 2218,
@@ -4095,8 +4833,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "447400972839",
+    "uikName": "УИК №496",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2245,
       "Число бюллетеней, полученных участковыми комиссиями": 2253,
@@ -4147,8 +4894,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "447400972840",
+    "uikName": "УИК №497",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1824,
       "Число бюллетеней, полученных участковыми комиссиями": 1831,
@@ -4199,8 +4955,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "447400972841",
+    "uikName": "УИК №498",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1758,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -4251,8 +5016,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "447400972842",
+    "uikName": "УИК №499",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 829,
       "Число бюллетеней, полученных участковыми комиссиями": 839,
@@ -4303,8 +5077,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "447400972843",
+    "uikName": "УИК №500",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 706,
       "Число бюллетеней, полученных участковыми комиссиями": 696,
@@ -4355,8 +5138,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "447400972844",
+    "uikName": "УИК №501",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1091,
       "Число бюллетеней, полученных участковыми комиссиями": 1104,
@@ -4407,8 +5199,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "447400972845",
+    "uikName": "УИК №502",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -4459,8 +5260,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "447400972846",
+    "uikName": "УИК №503",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1273,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -4511,8 +5321,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "447400972847",
+    "uikName": "УИК №504",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -4563,8 +5382,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "447400972848",
+    "uikName": "УИК №505",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -4615,8 +5443,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "447400972849",
+    "uikName": "УИК №506",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1881,
       "Число бюллетеней, полученных участковыми комиссиями": 1833,
@@ -4667,8 +5504,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "447400972850",
+    "uikName": "УИК №507",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -4719,8 +5565,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "447400972851",
+    "uikName": "УИК №508",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 307,
@@ -4771,8 +5626,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "447400972852",
+    "uikName": "УИК №509",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -4823,8 +5687,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "447400972853",
+    "uikName": "УИК №510",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 283,
@@ -4875,8 +5748,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "447400972854",
+    "uikName": "УИК №511",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 277,
@@ -4927,8 +5809,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "447400972855",
+    "uikName": "УИК №512",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1193,
       "Число бюллетеней, полученных участковыми комиссиями": 1117,
@@ -4979,8 +5870,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "447400972856",
+    "uikName": "УИК №513",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 841,
       "Число бюллетеней, полученных участковыми комиссиями": 818,
@@ -5031,8 +5931,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "447400972857",
+    "uikName": "УИК №514",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1216,
       "Число бюллетеней, полученных участковыми комиссиями": 1213,
@@ -5083,8 +5992,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "447400972858",
+    "uikName": "УИК №515",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1514,
       "Число бюллетеней, полученных участковыми комиссиями": 1503,
@@ -5135,8 +6053,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "447400972859",
+    "uikName": "УИК №516",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 516,
@@ -5187,8 +6114,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "447400972860",
+    "uikName": "УИК №517",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1716,
       "Число бюллетеней, полученных участковыми комиссиями": 1721,
@@ -5239,8 +6175,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "447400972924",
+    "uikName": "УИК №518",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 757,
       "Число бюллетеней, полученных участковыми комиссиями": 741,
@@ -5291,8 +6236,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "447400972925",
+    "uikName": "УИК №519",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -5343,8 +6297,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "447400972861",
+    "uikName": "УИК №520",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1014,
       "Число бюллетеней, полученных участковыми комиссиями": 1018,
@@ -5395,8 +6358,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "447400972862",
+    "uikName": "УИК №521",
     "tikTvd": "347300370454",
     "tikName": "Кингисеппская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 57,
@@ -5447,8 +6419,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "447401373522",
+    "uikName": "УИК №626",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1485,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5499,8 +6480,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "447401373423",
+    "uikName": "УИК №627",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1235,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5551,8 +6541,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "447401373424",
+    "uikName": "УИК №628",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1909,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5603,8 +6602,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "447401373425",
+    "uikName": "УИК №629",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2633,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5655,8 +6663,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "447401373426",
+    "uikName": "УИК №630",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5707,8 +6724,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "447401373427",
+    "uikName": "УИК №631",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2326,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5759,8 +6785,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "447401373428",
+    "uikName": "УИК №632",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 783,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5811,8 +6846,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "447401373429",
+    "uikName": "УИК №633",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5863,8 +6907,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "447401373430",
+    "uikName": "УИК №634",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1213,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5915,8 +6968,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "447401373431",
+    "uikName": "УИК №635",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2118,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5967,8 +7029,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "447401373432",
+    "uikName": "УИК №636",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1236,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6019,8 +7090,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "447401373433",
+    "uikName": "УИК №637",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -6071,8 +7151,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "447401373434",
+    "uikName": "УИК №638",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -6123,8 +7212,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "447401373435",
+    "uikName": "УИК №639",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2791,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6175,8 +7273,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "447401373436",
+    "uikName": "УИК №640",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1011,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6227,8 +7334,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "447401373437",
+    "uikName": "УИК №641",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 682,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6279,8 +7395,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "447401373438",
+    "uikName": "УИК №642",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2928,
       "Число бюллетеней, полученных участковыми комиссиями": 2950,
@@ -6331,8 +7456,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "447401373439",
+    "uikName": "УИК №643",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6383,8 +7517,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "447401373440",
+    "uikName": "УИК №644",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2142,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6435,8 +7578,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "447401373441",
+    "uikName": "УИК №645",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1979,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6487,8 +7639,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "447401373442",
+    "uikName": "УИК №646",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2057,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6539,8 +7700,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "447401373443",
+    "uikName": "УИК №647",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1438,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6591,8 +7761,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "447401373444",
+    "uikName": "УИК №648",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2713,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -6643,8 +7822,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "447401373445",
+    "uikName": "УИК №649",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1502,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6695,8 +7883,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "447401373446",
+    "uikName": "УИК №650",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1506,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6747,8 +7944,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "447401373447",
+    "uikName": "УИК №651",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1459,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6799,8 +8005,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "447401373448",
+    "uikName": "УИК №652",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 638,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6851,8 +8066,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "447401373449",
+    "uikName": "УИК №653",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -6903,8 +8127,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "447401373450",
+    "uikName": "УИК №654",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2290,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6955,8 +8188,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "447401373451",
+    "uikName": "УИК №655",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 980,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7007,8 +8249,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "447401373452",
+    "uikName": "УИК №656",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2019,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7059,8 +8310,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "447401373453",
+    "uikName": "УИК №657",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2124,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7111,8 +8371,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "447401373454",
+    "uikName": "УИК №658",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2909,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -7163,8 +8432,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "447401373455",
+    "uikName": "УИК №659",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1240,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7215,8 +8493,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "447401373456",
+    "uikName": "УИК №660",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7267,8 +8554,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "447401373457",
+    "uikName": "УИК №661",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -7319,8 +8615,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "447401373458",
+    "uikName": "УИК №662",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -7371,8 +8676,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "447401373459",
+    "uikName": "УИК №663",
     "tikTvd": "347300370455",
     "tikName": "Ломоносовская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7423,8 +8737,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "447401472130",
+    "uikName": "УИК №664",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2134,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -7475,8 +8798,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "447401472035",
+    "uikName": "УИК №665",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1620,
       "Число бюллетеней, полученных участковыми комиссиями": 1625,
@@ -7527,8 +8859,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "447401472036",
+    "uikName": "УИК №666",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1007,
       "Число бюллетеней, полученных участковыми комиссиями": 1015,
@@ -7579,8 +8920,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "447401472037",
+    "uikName": "УИК №667",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 658,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -7631,8 +8981,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "447401472038",
+    "uikName": "УИК №668",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -7683,8 +9042,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "447401472039",
+    "uikName": "УИК №669",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -7735,8 +9103,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "447401472040",
+    "uikName": "УИК №670",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1510,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7787,8 +9164,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "447401472041",
+    "uikName": "УИК №671",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1533,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -7839,8 +9225,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "447401472042",
+    "uikName": "УИК №672",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1512,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -7891,8 +9286,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "447401472043",
+    "uikName": "УИК №673",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1358,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -7943,8 +9347,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "447401472044",
+    "uikName": "УИК №674",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1461,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -7995,8 +9408,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "447401472045",
+    "uikName": "УИК №675",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1448,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -8047,8 +9469,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "447401472046",
+    "uikName": "УИК №676",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1331,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -8099,8 +9530,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "447401472047",
+    "uikName": "УИК №677",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1366,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -8151,8 +9591,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "447401472048",
+    "uikName": "УИК №678",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1331,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -8203,8 +9652,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "447401472049",
+    "uikName": "УИК №679",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1372,
       "Число бюллетеней, полученных участковыми комиссиями": 1375,
@@ -8255,8 +9713,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "447401472050",
+    "uikName": "УИК №680",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1468,
       "Число бюллетеней, полученных участковыми комиссиями": 1475,
@@ -8307,8 +9774,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "447401472051",
+    "uikName": "УИК №681",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1548,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -8359,8 +9835,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "447401472052",
+    "uikName": "УИК №682",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1430,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -8411,8 +9896,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "447401472053",
+    "uikName": "УИК №683",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1513,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8463,8 +9957,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "447401472054",
+    "uikName": "УИК №684",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1566,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -8515,8 +10018,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "447401472055",
+    "uikName": "УИК №685",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2405,
       "Число бюллетеней, полученных участковыми комиссиями": 2440,
@@ -8567,8 +10079,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "447401472056",
+    "uikName": "УИК №686",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1574,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -8619,8 +10140,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "447401472057",
+    "uikName": "УИК №687",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2220,
       "Число бюллетеней, полученных участковыми комиссиями": 2145,
@@ -8671,8 +10201,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "447401472058",
+    "uikName": "УИК №688",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 673,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -8723,8 +10262,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "447401472059",
+    "uikName": "УИК №689",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1096,
       "Число бюллетеней, полученных участковыми комиссиями": 1095,
@@ -8775,8 +10323,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "447401472060",
+    "uikName": "УИК №690",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1171,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -8827,8 +10384,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "447401472061",
+    "uikName": "УИК №691",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1341,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -8879,8 +10445,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "447401472062",
+    "uikName": "УИК №692",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1521,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -8931,8 +10506,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "447401472063",
+    "uikName": "УИК №693",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2698,
       "Число бюллетеней, полученных участковыми комиссиями": 2720,
@@ -8983,8 +10567,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "447401472064",
+    "uikName": "УИК №694",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9035,8 +10628,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "447401472065",
+    "uikName": "УИК №695",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -9087,8 +10689,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "447401472066",
+    "uikName": "УИК №696",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -9139,8 +10750,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "447401472067",
+    "uikName": "УИК №697",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -9191,8 +10811,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "447401472068",
+    "uikName": "УИК №698",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 846,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -9243,8 +10872,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "447401472069",
+    "uikName": "УИК №699",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -9295,8 +10933,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "447401472070",
+    "uikName": "УИК №700",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 891,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -9347,8 +10994,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "447401472071",
+    "uikName": "УИК №701",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -9399,8 +11055,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "447401472072",
+    "uikName": "УИК №702",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 843,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -9451,8 +11116,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "447401472073",
+    "uikName": "УИК №703",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 582,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -9503,8 +11177,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "447401472074",
+    "uikName": "УИК №704",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2278,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -9555,8 +11238,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "447401472075",
+    "uikName": "УИК №705",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1186,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -9607,8 +11299,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "447401472076",
+    "uikName": "УИК №706",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1393,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -9659,8 +11360,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "447401472077",
+    "uikName": "УИК №707",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 663,
       "Число бюллетеней, полученных участковыми комиссиями": 685,
@@ -9711,8 +11421,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "447401472078",
+    "uikName": "УИК №708",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1108,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -9763,8 +11482,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "447401472079",
+    "uikName": "УИК №709",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 623,
       "Число бюллетеней, полученных участковыми комиссиями": 625,
@@ -9815,8 +11543,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "447401472080",
+    "uikName": "УИК №710",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1492,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9867,8 +11604,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "447401472081",
+    "uikName": "УИК №711",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1527,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -9919,8 +11665,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "447401472082",
+    "uikName": "УИК №712",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1775,
       "Число бюллетеней, полученных участковыми комиссиями": 1775,
@@ -9971,8 +11726,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "447401472083",
+    "uikName": "УИК №713",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 902,
       "Число бюллетеней, полученных участковыми комиссиями": 905,
@@ -10023,8 +11787,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "447401472084",
+    "uikName": "УИК №714",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1043,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -10075,8 +11848,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "447401472085",
+    "uikName": "УИК №715",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1433,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -10127,8 +11909,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "447401472086",
+    "uikName": "УИК №716",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 416,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -10179,8 +11970,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "447401472087",
+    "uikName": "УИК №717",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2269,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -10231,8 +12031,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "447401472088",
+    "uikName": "УИК №718",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1001,
       "Число бюллетеней, полученных участковыми комиссиями": 935,
@@ -10283,8 +12092,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "447401472089",
+    "uikName": "УИК №719",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1313,
       "Число бюллетеней, полученных участковыми комиссиями": 1315,
@@ -10335,8 +12153,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "447401472090",
+    "uikName": "УИК №720",
     "tikTvd": "347300370456",
     "tikName": "Лужская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1725,
       "Число бюллетеней, полученных участковыми комиссиями": 1745,
@@ -10387,8 +12214,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "447401872484",
+    "uikName": "УИК №808",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1566,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -10439,8 +12275,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "447401872485",
+    "uikName": "УИК №809",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1573,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -10491,8 +12336,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "447401872486",
+    "uikName": "УИК №810",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1383,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10543,8 +12397,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "447401872487",
+    "uikName": "УИК №811",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1487,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10595,8 +12458,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "447401872488",
+    "uikName": "УИК №812",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1569,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -10647,8 +12519,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "447401872489",
+    "uikName": "УИК №813",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1344,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -10699,8 +12580,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "447401872490",
+    "uikName": "УИК №814",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1581,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10751,8 +12641,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "447401872491",
+    "uikName": "УИК №815",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1382,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10803,8 +12702,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "447401872492",
+    "uikName": "УИК №816",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1409,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -10855,8 +12763,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "447401872493",
+    "uikName": "УИК №817",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1505,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -10907,8 +12824,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "447401872494",
+    "uikName": "УИК №818",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1421,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -10959,8 +12885,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "447401872495",
+    "uikName": "УИК №819",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1338,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -11011,8 +12946,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "447401872496",
+    "uikName": "УИК №820",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1773,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -11063,8 +13007,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "447401872497",
+    "uikName": "УИК №821",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1267,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -11115,8 +13068,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "447401872498",
+    "uikName": "УИК №822",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1372,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -11167,8 +13129,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "447401872499",
+    "uikName": "УИК №823",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1250,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -11219,8 +13190,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 824,
     "uikTvd": "447401872500",
+    "uikName": "УИК №824",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -11271,8 +13251,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 825,
     "uikTvd": "447401872501",
+    "uikName": "УИК №825",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1685,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -11323,8 +13312,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 826,
     "uikTvd": "447401872502",
+    "uikName": "УИК №826",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1545,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -11375,8 +13373,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 827,
     "uikTvd": "447401872503",
+    "uikName": "УИК №827",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1355,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -11427,8 +13434,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 828,
     "uikTvd": "447401872504",
+    "uikName": "УИК №828",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1414,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -11479,8 +13495,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 829,
     "uikTvd": "447401872505",
+    "uikName": "УИК №829",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1310,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -11531,8 +13556,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 830,
     "uikTvd": "447401872506",
+    "uikName": "УИК №830",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 576,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -11583,8 +13617,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 831,
     "uikTvd": "447401872507",
+    "uikName": "УИК №831",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -11635,8 +13678,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 832,
     "uikTvd": "447401872508",
+    "uikName": "УИК №832",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 789,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -11687,8 +13739,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 833,
     "uikTvd": "447401872509",
+    "uikName": "УИК №833",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1027,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -11739,8 +13800,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 834,
     "uikTvd": "447401872510",
+    "uikName": "УИК №834",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 691,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -11791,8 +13861,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 835,
     "uikTvd": "447401872511",
+    "uikName": "УИК №835",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -11843,8 +13922,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 836,
     "uikTvd": "447401872512",
+    "uikName": "УИК №836",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1788,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -11895,8 +13983,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 837,
     "uikTvd": "447401872513",
+    "uikName": "УИК №837",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1560,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -11947,8 +14044,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 838,
     "uikTvd": "447401872514",
+    "uikName": "УИК №838",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 828,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -11999,8 +14105,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 839,
     "uikTvd": "447401872515",
+    "uikName": "УИК №839",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 560,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -12051,8 +14166,17 @@ export const duma_2003_uik_428_region_47_part_004 = [
     "ballot": "single-member",
     "uikNumber": 840,
     "uikTvd": "447401872516",
+    "uikName": "УИК №840",
     "tikTvd": "347300370457",
     "tikName": "Сланцевская",
+    "regionCode": "47",
+    "regionTvd": "100100095896",
+    "regionName": "Ленинградская область",
+    "district": {
+      "districtNumber": 101,
+      "oikTvd": "100100095899",
+      "oikName": "Кингисеппский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 833,
       "Число бюллетеней, полученных участковыми комиссиями": 790,

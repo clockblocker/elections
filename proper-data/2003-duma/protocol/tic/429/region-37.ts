@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 15953,
@@ -85,6 +93,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки": 27671,
@@ -171,6 +187,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 8636,
@@ -239,6 +263,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 17853,
@@ -315,6 +347,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки": 21884,
@@ -380,6 +420,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 11714,
@@ -455,6 +503,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 29115,
@@ -523,6 +579,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки": 127448,
@@ -631,6 +695,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 73995,
@@ -721,6 +793,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070489",
     "tikName": "Иваново, Советская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки": 54267,
@@ -807,6 +887,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070491",
     "tikName": "Иваново, Фрунзенская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки": 96024,
@@ -902,6 +990,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070493",
     "tikName": "Верхнеландеховская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 4443,
@@ -960,6 +1056,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070495",
     "tikName": "Вичугская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 17572,
@@ -1036,6 +1140,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070497",
     "tikName": "Вичугская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 32962,
@@ -1103,6 +1215,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070499",
     "tikName": "Заволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 17969,
@@ -1177,6 +1297,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070501",
     "tikName": "Кинешемская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 20224,
@@ -1249,6 +1377,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070503",
     "tikName": "Кинешемская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 72391,
@@ -1334,6 +1470,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070505",
     "tikName": "Лежневская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 15955,
@@ -1399,6 +1543,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070507",
     "tikName": "Лухская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 7180,
@@ -1461,6 +1613,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070509",
     "tikName": "Палехская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 10081,
@@ -1520,6 +1680,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070511",
     "tikName": "Пестяковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 6774,
@@ -1581,6 +1749,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070513",
     "tikName": "Приволжская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 22013,
@@ -1656,6 +1832,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070515",
     "tikName": "Пучежская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 14726,
@@ -1725,6 +1909,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070517",
     "tikName": "Родниковская ",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 31620,
@@ -1801,6 +1993,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070519",
     "tikName": "Савинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 11729,
@@ -1864,6 +2064,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070521",
     "tikName": "Фурмановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 38592,
@@ -1940,6 +2148,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070523",
     "tikName": "Шуйская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 17415,
@@ -2014,6 +2230,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070525",
     "tikName": "Шуйская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 51208,
@@ -2088,6 +2312,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070527",
     "tikName": "Южская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 19201,
@@ -2156,6 +2388,14 @@ export const duma_2003_tic_429_region_37 = [
     "ballot": "single-member",
     "tikTvd": "237200070529",
     "tikName": "Юрьевецкая",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 81,
+      "oikTvd": "100100095662",
+      "oikName": "Кинешемский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 15857,

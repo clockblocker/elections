@@ -10,6 +10,14 @@ It deliberately has no database layer.
   transposed from an official TIK column report with that derivation recorded.
 - `<year>-duma/uik-to-tik.ts` and `uik-to-tik/region-*.ts` store the exact UIK-to-TIK
   relation recovered from GAS.
+- `<election>/DEG/msk/` stores Moscow DEG output and provenance. Moscow's observer
+  platform is crawled independently from the federal DEG platform.
+- `<election>/DEG/fed/` stores non-Moscow federal DEG output and provenance. DEG is
+  never folded into physical UIK protocols without an explicit combined view.
 
 Nationwide output is deterministically sharded by region. Generated constants use
 `duma_<year>_...`, because a TypeScript identifier cannot legally begin with a year.
+
+Only elections that actually used DEG have a `DEG/` directory. See
+[`crawler/DEG.md`](crawler/DEG.md) for the affected-election inventory, acquisition
+endpoints, raw layout, and validation gates.

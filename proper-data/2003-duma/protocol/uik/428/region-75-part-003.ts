@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 868,
     "uikTvd": "475403366676",
+    "uikName": "УИК  868",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -56,8 +65,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 869,
     "uikTvd": "475403366677",
+    "uikName": "УИК  869",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -101,8 +119,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "475403366678",
+    "uikName": "УИК  870",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -146,8 +173,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "475403366679",
+    "uikName": "УИК  871",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1724,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -191,8 +227,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "475403366680",
+    "uikName": "УИК  872",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 595,
       "Число бюллетеней, полученных участковыми комиссиями": 558,
@@ -236,8 +281,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "475403366681",
+    "uikName": "УИК  873",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -281,8 +335,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "475403366682",
+    "uikName": "УИК  874",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 398,
@@ -326,8 +389,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "475403366683",
+    "uikName": "УИК  875",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -371,8 +443,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "475403366684",
+    "uikName": "УИК  876",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -416,8 +497,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "475403366685",
+    "uikName": "УИК  877",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 238,
@@ -461,8 +551,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "475403366686",
+    "uikName": "УИК  878",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 71,
       "Число бюллетеней, полученных участковыми комиссиями": 81,
@@ -506,8 +605,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "475403366687",
+    "uikName": "УИК  879",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 473,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -551,8 +659,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "475403366688",
+    "uikName": "УИК  880",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -596,8 +713,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "475403366689",
+    "uikName": "УИК  881",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 789,
       "Число бюллетеней, полученных участковыми комиссиями": 743,
@@ -641,8 +767,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "475403366690",
+    "uikName": "УИК  882",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -686,8 +821,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "475403366691",
+    "uikName": "УИК  883",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -731,8 +875,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "475403366692",
+    "uikName": "УИК  884",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 644,
       "Число бюллетеней, полученных участковыми комиссиями": 617,
@@ -776,8 +929,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "475403366693",
+    "uikName": "УИК  885",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -821,8 +983,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "475403366694",
+    "uikName": "УИК  886",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 86,
@@ -866,8 +1037,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "475403366695",
+    "uikName": "УИК  887",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 368,
       "Число бюллетеней, полученных участковыми комиссиями": 387,
@@ -911,8 +1091,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "475403366696",
+    "uikName": "УИК  888",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -956,8 +1145,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "475403366697",
+    "uikName": "УИК  889",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -1001,8 +1199,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "475403366698",
+    "uikName": "УИК  890",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -1046,8 +1253,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "475403366699",
+    "uikName": "УИК  891",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -1091,8 +1307,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "475403366700",
+    "uikName": "УИК  892",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -1136,8 +1361,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "475403366701",
+    "uikName": "УИК  893",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -1181,8 +1415,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "475403366702",
+    "uikName": "УИК  894",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 671,
       "Число бюллетеней, полученных участковыми комиссиями": 632,
@@ -1226,8 +1469,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "475403366703",
+    "uikName": "УИК  895",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -1271,8 +1523,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "475403366704",
+    "uikName": "УИК  896",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -1316,8 +1577,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "475403366705",
+    "uikName": "УИК  897",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 958,
       "Число бюллетеней, полученных участковыми комиссиями": 883,
@@ -1361,8 +1631,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "475403366706",
+    "uikName": "УИК  898",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -1406,8 +1685,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "475403366707",
+    "uikName": "УИК  899",
     "tikTvd": "275200067469",
     "tikName": "Шилкинская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 187,
+      "oikTvd": "100100095928",
+      "oikName": "Борзинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -1451,8 +1739,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "475400166681",
+    "uikName": "УИК  130",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3294,
       "Число бюллетеней, полученных участковыми комиссиями": 3330,
@@ -1500,8 +1797,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "475400166682",
+    "uikName": "УИК  131",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1549,8 +1855,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "475400166683",
+    "uikName": "УИК  132",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -1598,8 +1913,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "475400166684",
+    "uikName": "УИК  133",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1647,8 +1971,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "475400166685",
+    "uikName": "УИК  134",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 729,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -1696,8 +2029,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "475400166686",
+    "uikName": "УИК  135",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 731,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -1745,8 +2087,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "475400166687",
+    "uikName": "УИК  136",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 551,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1794,8 +2145,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "475400166688",
+    "uikName": "УИК  137",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -1843,8 +2203,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "475400166689",
+    "uikName": "УИК  138",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -1892,8 +2261,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "475400166690",
+    "uikName": "УИК  139",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -1941,8 +2319,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "475400166691",
+    "uikName": "УИК  140",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -1990,8 +2377,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "475400166692",
+    "uikName": "УИК  141",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 878,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2039,8 +2435,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "475400166693",
+    "uikName": "УИК  142",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2088,8 +2493,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "475400166694",
+    "uikName": "УИК  143",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -2137,8 +2551,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "475400166695",
+    "uikName": "УИК  144",
     "tikTvd": "275200067471",
     "tikName": "Акшинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 349,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -2186,8 +2609,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "475400766674",
+    "uikName": "УИК  145",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 443,
@@ -2235,8 +2667,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "475400766675",
+    "uikName": "УИК  146",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 532,
       "Число бюллетеней, полученных участковыми комиссиями": 429,
@@ -2284,8 +2725,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "475400766676",
+    "uikName": "УИК  147",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 645,
       "Число бюллетеней, полученных участковыми комиссиями": 518,
@@ -2333,8 +2783,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "475400766677",
+    "uikName": "УИК  148",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -2382,8 +2841,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "475400766679",
+    "uikName": "УИК  149",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 424,
@@ -2431,8 +2899,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "475400766680",
+    "uikName": "УИК  150",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -2480,8 +2957,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "475400766681",
+    "uikName": "УИК  151",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 436,
@@ -2529,8 +3015,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "475400766682",
+    "uikName": "УИК  152",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 735,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -2578,8 +3073,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "475400766683",
+    "uikName": "УИК  153",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 542,
       "Число бюллетеней, полученных участковыми комиссиями": 461,
@@ -2627,8 +3131,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "475400766684",
+    "uikName": "УИК  154",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 71,
@@ -2676,8 +3189,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "475400766685",
+    "uikName": "УИК  155",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -2725,8 +3247,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "475400766686",
+    "uikName": "УИК  156",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -2774,8 +3305,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "475400766687",
+    "uikName": "УИК  157",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 537,
@@ -2823,8 +3363,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "475400766688",
+    "uikName": "УИК  158",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 567,
       "Число бюллетеней, полученных участковыми комиссиями": 505,
@@ -2872,8 +3421,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "475400766689",
+    "uikName": "УИК  159",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -2921,8 +3479,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "475400766690",
+    "uikName": "УИК  160",
     "tikTvd": "275200067473",
     "tikName": "Каларская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 453,
@@ -2970,8 +3537,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "475401166742",
+    "uikName": "УИК  161",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "475401166744",
+    "uikName": "УИК  162",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 925,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -3068,8 +3653,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "475401166745",
+    "uikName": "УИК  163",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 515,
       "Число бюллетеней, полученных участковыми комиссиями": 515,
@@ -3117,8 +3711,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "475401166746",
+    "uikName": "УИК  164",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -3166,8 +3769,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "475401166747",
+    "uikName": "УИК  165",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -3215,8 +3827,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "475401166748",
+    "uikName": "УИК  166",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 143,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -3264,8 +3885,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "475401166749",
+    "uikName": "УИК  167",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -3313,8 +3943,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "475401166750",
+    "uikName": "УИК  168",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -3362,8 +4001,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "475401166751",
+    "uikName": "УИК  169",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -3411,8 +4059,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "475401166752",
+    "uikName": "УИК  170",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 415,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -3460,8 +4117,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "475401166753",
+    "uikName": "УИК  171",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -3509,8 +4175,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "475401166754",
+    "uikName": "УИК  172",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 468,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -3558,8 +4233,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "475401166755",
+    "uikName": "УИК  173",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 747,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -3607,8 +4291,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "475401166756",
+    "uikName": "УИК  174",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -3656,8 +4349,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "475401166757",
+    "uikName": "УИК  175",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2447,
       "Число бюллетеней, полученных участковыми комиссиями": 2410,
@@ -3705,8 +4407,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "475401166758",
+    "uikName": "УИК  176",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 635,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -3754,8 +4465,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "475401166759",
+    "uikName": "УИК  177",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -3803,8 +4523,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "475401166760",
+    "uikName": "УИК  178",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -3852,8 +4581,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "475401166761",
+    "uikName": "УИК  179",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3901,8 +4639,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "475401166762",
+    "uikName": "УИК  180",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -3950,8 +4697,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "475401166763",
+    "uikName": "УИК  181",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -3999,8 +4755,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "475401166764",
+    "uikName": "УИК  182",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 404,
       "Число бюллетеней, полученных участковыми комиссиями": 405,
@@ -4048,8 +4813,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "475401166765",
+    "uikName": "УИК  183",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -4097,8 +4871,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "475401166766",
+    "uikName": "УИК  184",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 559,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -4146,8 +4929,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "475401166767",
+    "uikName": "УИК  185",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -4195,8 +4987,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "475401166768",
+    "uikName": "УИК  186",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -4244,8 +5045,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "475401166769",
+    "uikName": "УИК  187",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -4293,8 +5103,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "475401166770",
+    "uikName": "УИК  188",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -4342,8 +5161,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "475401166771",
+    "uikName": "УИК  189",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -4391,8 +5219,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "475401166772",
+    "uikName": "УИК  190",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -4440,8 +5277,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "475401166773",
+    "uikName": "УИК  191",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -4489,8 +5335,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "475401166774",
+    "uikName": "УИК  192",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1361,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -4538,8 +5393,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "475401166775",
+    "uikName": "УИК  193",
     "tikTvd": "275200067475",
     "tikName": "Красночикойская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -4587,8 +5451,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "475401266643",
+    "uikName": "УИК  194",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -4636,8 +5509,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "475401266644",
+    "uikName": "УИК  195",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -4685,8 +5567,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "475401266645",
+    "uikName": "УИК  196",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 542,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -4734,8 +5625,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "475401266646",
+    "uikName": "УИК  197",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -4783,8 +5683,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "475401266647",
+    "uikName": "УИК  198",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2074,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4832,8 +5741,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "475401266648",
+    "uikName": "УИК  199",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1485,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4881,8 +5799,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "475401266649",
+    "uikName": "УИК  200",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -4930,8 +5857,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "475401266650",
+    "uikName": "УИК  201",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -4979,8 +5915,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "475401266651",
+    "uikName": "УИК  202",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 720,
       "Число бюллетеней, полученных участковыми комиссиями": 745,
@@ -5028,8 +5973,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "475401266652",
+    "uikName": "УИК  203",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -5077,8 +6031,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "475401266653",
+    "uikName": "УИК  204",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 808,
       "Число бюллетеней, полученных участковыми комиссиями": 815,
@@ -5126,8 +6089,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "475401266654",
+    "uikName": "УИК  205",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 34,
       "Число бюллетеней, полученных участковыми комиссиями": 52,
@@ -5175,8 +6147,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "475401266655",
+    "uikName": "УИК  206",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -5224,8 +6205,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "475401266656",
+    "uikName": "УИК  207",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1642,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -5273,8 +6263,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "475401266657",
+    "uikName": "УИК  208",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -5322,8 +6321,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "475401266658",
+    "uikName": "УИК  209",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 804,
       "Число бюллетеней, полученных участковыми комиссиями": 805,
@@ -5371,8 +6379,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "475401266659",
+    "uikName": "УИК  210",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5420,8 +6437,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "475401266660",
+    "uikName": "УИК  211",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -5469,8 +6495,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "475401266661",
+    "uikName": "УИК  212",
     "tikTvd": "275200067477",
     "tikName": "Кыринская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -5518,8 +6553,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "475401866762",
+    "uikName": "УИК  213",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 354,
@@ -5567,8 +6611,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "475401866763",
+    "uikName": "УИК  214",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -5616,8 +6669,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "475401866764",
+    "uikName": "УИК  215",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -5665,8 +6727,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "475401866765",
+    "uikName": "УИК  216",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1099,
       "Число бюллетеней, полученных участковыми комиссиями": 1095,
@@ -5714,8 +6785,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "475401866766",
+    "uikName": "УИК  217",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1012,
       "Число бюллетеней, полученных участковыми комиссиями": 1038,
@@ -5763,8 +6843,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "475401866767",
+    "uikName": "УИК  218",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 566,
@@ -5812,8 +6901,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "475401866768",
+    "uikName": "УИК  219",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -5861,8 +6959,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "475401866769",
+    "uikName": "УИК  220",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 487,
@@ -5910,8 +7017,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "475401866770",
+    "uikName": "УИК  221",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -5959,8 +7075,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "475401866771",
+    "uikName": "УИК  222",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -6008,8 +7133,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "475401866772",
+    "uikName": "УИК  223",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 259,
@@ -6057,8 +7191,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "475401866773",
+    "uikName": "УИК  224",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 663,
       "Число бюллетеней, полученных участковыми комиссиями": 681,
@@ -6106,8 +7249,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "475401866774",
+    "uikName": "УИК  225",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1297,
       "Число бюллетеней, полученных участковыми комиссиями": 1244,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "475401866775",
+    "uikName": "УИК  226",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1120,
       "Число бюллетеней, полученных участковыми комиссиями": 1103,
@@ -6204,8 +7365,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "475401866776",
+    "uikName": "УИК  227",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -6253,8 +7423,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "475401866777",
+    "uikName": "УИК  228",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -6302,8 +7481,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "475401866778",
+    "uikName": "УИК  229",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 897,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -6351,8 +7539,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "475401866779",
+    "uikName": "УИК  230",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 964,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -6400,8 +7597,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "475401866780",
+    "uikName": "УИК  231",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1587,
       "Число бюллетеней, полученных участковыми комиссиями": 1525,
@@ -6449,8 +7655,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "475401866781",
+    "uikName": "УИК  232",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1186,
       "Число бюллетеней, полученных участковыми комиссиями": 1149,
@@ -6498,8 +7713,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "475401866782",
+    "uikName": "УИК  233",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -6547,8 +7771,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "475401866783",
+    "uikName": "УИК  234",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 392,
@@ -6596,8 +7829,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "475401866784",
+    "uikName": "УИК  235",
     "tikTvd": "275200067479",
     "tikName": "Петровск-Забайкальская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1237,
       "Число бюллетеней, полученных участковыми комиссиями": 1218,
@@ -6645,8 +7887,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "475403666681",
+    "uikName": "УИК  108",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 764,
       "Число бюллетеней, полученных участковыми комиссиями": 754,
@@ -6694,8 +7945,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "475403666682",
+    "uikName": "УИК  109",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -6743,8 +8003,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "475403666683",
+    "uikName": "УИК  110",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 549,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -6792,8 +8061,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "475403666684",
+    "uikName": "УИК  111",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 399,
@@ -6841,8 +8119,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "475403666685",
+    "uikName": "УИК  112",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1149,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -6890,8 +8177,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "475403666686",
+    "uikName": "УИК  113",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1261,
@@ -6939,8 +8235,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "475403666687",
+    "uikName": "УИК  114",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 808,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -6988,8 +8293,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "475403666688",
+    "uikName": "УИК  115",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 594,
@@ -7037,8 +8351,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "475403666689",
+    "uikName": "УИК  116",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1033,
       "Число бюллетеней, полученных участковыми комиссиями": 1013,
@@ -7086,8 +8409,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "475403666690",
+    "uikName": "УИК  117",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1147,
       "Число бюллетеней, полученных участковыми комиссиями": 1137,
@@ -7135,8 +8467,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "475403666691",
+    "uikName": "УИК  118",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1303,
@@ -7184,8 +8525,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "475403666692",
+    "uikName": "УИК  119",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1422,
       "Число бюллетеней, полученных участковыми комиссиями": 1404,
@@ -7233,8 +8583,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "475403666693",
+    "uikName": "УИК  120",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 1247,
@@ -7282,8 +8641,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "475403666694",
+    "uikName": "УИК  121",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 319,
@@ -7331,8 +8699,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "475403666695",
+    "uikName": "УИК  122",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1547,
       "Число бюллетеней, полученных участковыми комиссиями": 1491,
@@ -7380,8 +8757,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "475403666696",
+    "uikName": "УИК  123",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -7429,8 +8815,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "475403666697",
+    "uikName": "УИК  124",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 523,
@@ -7478,8 +8873,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "475403666698",
+    "uikName": "УИК  125",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 542,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -7527,8 +8931,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "475403666699",
+    "uikName": "УИК  126",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 429,
@@ -7576,8 +8989,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "475403666700",
+    "uikName": "УИК  127",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -7625,8 +9047,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "475403666701",
+    "uikName": "УИК  128",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 434,
@@ -7674,8 +9105,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "475403666702",
+    "uikName": "УИК  129",
     "tikTvd": "275200067481",
     "tikName": "Петровск-Забайкальская городская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 414,
@@ -7723,8 +9163,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "475402166709",
+    "uikName": "УИК  236",
     "tikTvd": "275200067483",
     "tikName": "Тунгиро-Олекминская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 769,
       "Число бюллетеней, полученных участковыми комиссиями": 765,
@@ -7772,8 +9221,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "475402166710",
+    "uikName": "УИК  237",
     "tikTvd": "275200067483",
     "tikName": "Тунгиро-Олекминская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -7821,8 +9279,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "475402166721",
+    "uikName": "УИК  238",
     "tikTvd": "275200067483",
     "tikName": "Тунгиро-Олекминская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 86,
@@ -7870,8 +9337,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "475402166722",
+    "uikName": "УИК  239",
     "tikTvd": "275200067483",
     "tikName": "Тунгиро-Олекминская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 79,
@@ -7919,8 +9395,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "475402166723",
+    "uikName": "УИК  240",
     "tikTvd": "275200067483",
     "tikName": "Тунгиро-Олекминская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 30,
       "Число бюллетеней, полученных участковыми комиссиями": 31,
@@ -7968,8 +9453,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "475402266701",
+    "uikName": "УИК  241",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2078,
       "Число бюллетеней, полученных участковыми комиссиями": 2065,
@@ -8017,8 +9511,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "475402266702",
+    "uikName": "УИК  242",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 691,
       "Число бюллетеней, полученных участковыми комиссиями": 695,
@@ -8066,8 +9569,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "475402266703",
+    "uikName": "УИК  243",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -8115,8 +9627,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "475402266704",
+    "uikName": "УИК  244",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1189,
       "Число бюллетеней, полученных участковыми комиссиями": 1045,
@@ -8164,8 +9685,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "475402266705",
+    "uikName": "УИК  245",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1895,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -8213,8 +9743,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "475402266707",
+    "uikName": "УИК  246",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1169,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -8262,8 +9801,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "475402266708",
+    "uikName": "УИК  247",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 668,
       "Число бюллетеней, полученных участковыми комиссиями": 575,
@@ -8311,8 +9859,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "475402266709",
+    "uikName": "УИК  248",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 62,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -8360,8 +9917,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "475402266710",
+    "uikName": "УИК  249",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -8409,8 +9975,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "475402266711",
+    "uikName": "УИК  250",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -8458,8 +10033,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "475402266712",
+    "uikName": "УИК  251",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8507,8 +10091,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "475402266713",
+    "uikName": "УИК  252",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -8556,8 +10149,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "475402266714",
+    "uikName": "УИК  253",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -8605,8 +10207,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "475402266715",
+    "uikName": "УИК  254",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8654,8 +10265,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "475402266716",
+    "uikName": "УИК  255",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -8703,8 +10323,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "475402266717",
+    "uikName": "УИК  256",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 667,
       "Число бюллетеней, полученных участковыми комиссиями": 675,
@@ -8752,8 +10381,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "475402266718",
+    "uikName": "УИК  257",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -8801,8 +10439,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "475402266719",
+    "uikName": "УИК  258",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 705,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8850,8 +10497,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "475402266720",
+    "uikName": "УИК  259",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -8899,8 +10555,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "475402266721",
+    "uikName": "УИК  260",
     "tikTvd": "275200067485",
     "tikName": "Тунгокоченская \r\n",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -8948,8 +10613,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "475402366761",
+    "uikName": "УИК  261",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -8997,8 +10671,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "475402366762",
+    "uikName": "УИК  262",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 636,
       "Число бюллетеней, полученных участковыми комиссиями": 631,
@@ -9046,8 +10729,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "475402366821",
+    "uikName": "УИК  263",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -9095,8 +10787,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "475402366822",
+    "uikName": "УИК  264",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -9144,8 +10845,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "475402366823",
+    "uikName": "УИК  265",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 841,
       "Число бюллетеней, полученных участковыми комиссиями": 844,
@@ -9193,8 +10903,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "475402366824",
+    "uikName": "УИК  266",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -9242,8 +10961,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "475402366825",
+    "uikName": "УИК  267",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1003,
       "Число бюллетеней, полученных участковыми комиссиями": 1025,
@@ -9291,8 +11019,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "475402366826",
+    "uikName": "УИК  268",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -9340,8 +11077,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "475402366827",
+    "uikName": "УИК  269",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -9389,8 +11135,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "475402366828",
+    "uikName": "УИК  270",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -9438,8 +11193,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "475402366829",
+    "uikName": "УИК  271",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 655,
@@ -9487,8 +11251,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "475402366830",
+    "uikName": "УИК  272",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 479,
       "Число бюллетеней, полученных участковыми комиссиями": 477,
@@ -9536,8 +11309,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "475402366831",
+    "uikName": "УИК  273",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -9585,8 +11367,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "475402366832",
+    "uikName": "УИК  274",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 667,
       "Число бюллетеней, полученных участковыми комиссиями": 667,
@@ -9634,8 +11425,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "475402366833",
+    "uikName": "УИК  275",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 491,
@@ -9683,8 +11483,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "475402366834",
+    "uikName": "УИК  276",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1824,
       "Число бюллетеней, полученных участковыми комиссиями": 1841,
@@ -9732,8 +11541,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "475402366835",
+    "uikName": "УИК  277",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1939,
       "Число бюллетеней, полученных участковыми комиссиями": 1941,
@@ -9781,8 +11599,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "475402366836",
+    "uikName": "УИК  278",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 988,
       "Число бюллетеней, полученных участковыми комиссиями": 988,
@@ -9830,8 +11657,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "475402366837",
+    "uikName": "УИК  279",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 747,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -9879,8 +11715,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "475402366838",
+    "uikName": "УИК  280",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -9928,8 +11773,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "475402366839",
+    "uikName": "УИК  281",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 605,
@@ -9977,8 +11831,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "475402366840",
+    "uikName": "УИК  282",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2682,
       "Число бюллетеней, полученных участковыми комиссиями": 2740,
@@ -10026,8 +11889,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "475402366841",
+    "uikName": "УИК  283",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -10075,8 +11947,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "475402366842",
+    "uikName": "УИК  284",
     "tikTvd": "275200067487",
     "tikName": "Улетовская",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -10124,8 +12005,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "475402566965",
+    "uikName": "УИК  288",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2258,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10173,8 +12063,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "475402566966",
+    "uikName": "УИК  289",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2101,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10222,8 +12121,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "475402566967",
+    "uikName": "УИК  290",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1325,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -10271,8 +12179,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "475402566968",
+    "uikName": "УИК  291",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1932,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -10320,8 +12237,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "475402566969",
+    "uikName": "УИК  292",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1440,
       "Число бюллетеней, полученных участковыми комиссиями": 1445,
@@ -10369,8 +12295,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "475402566970",
+    "uikName": "УИК  293",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -10418,8 +12353,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "475402566971",
+    "uikName": "УИК  294",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 448,
@@ -10467,8 +12411,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "475402566972",
+    "uikName": "УИК  295",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1253,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -10516,8 +12469,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "475402566973",
+    "uikName": "УИК  296",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1506,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -10565,8 +12527,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "475402566974",
+    "uikName": "УИК  297",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1018,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10614,8 +12585,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "475402566975",
+    "uikName": "УИК  298",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10663,8 +12643,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "475402566976",
+    "uikName": "УИК  299",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -10712,8 +12701,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "475402566961",
+    "uikName": "УИК  300",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -10761,8 +12759,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "475402566962",
+    "uikName": "УИК  301",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 974,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -10810,8 +12817,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "475402566977",
+    "uikName": "УИК  302",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1966,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -10859,8 +12875,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "475402566978",
+    "uikName": "УИК  303",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 612,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10908,8 +12933,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "475402566963",
+    "uikName": "УИК  304",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -10957,8 +12991,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "475402566964",
+    "uikName": "УИК  305",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -11006,8 +13049,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "475402566979",
+    "uikName": "УИК  306",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1427,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11055,8 +13107,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "475402566980",
+    "uikName": "УИК  307",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -11104,8 +13165,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "475402566981",
+    "uikName": "УИК  308",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 932,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -11153,8 +13223,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "475402566982",
+    "uikName": "УИК  309",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1061,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -11202,8 +13281,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "475402566983",
+    "uikName": "УИК  310",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 872,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -11251,8 +13339,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "475402566984",
+    "uikName": "УИК  311",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 779,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -11300,8 +13397,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "475402566985",
+    "uikName": "УИК  312",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 999,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -11349,8 +13455,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "475402566986",
+    "uikName": "УИК  313",
     "tikTvd": "275200067489",
     "tikName": "Хилокский район",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -11398,8 +13513,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "475402766721",
+    "uikName": "УИК  62",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11447,8 +13571,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "475402766722",
+    "uikName": "УИК  63",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2883,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11496,8 +13629,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "475402766723",
+    "uikName": "УИК  64",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2917,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11545,8 +13687,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "475402766724",
+    "uikName": "УИК  65",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2869,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11594,8 +13745,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "475402766725",
+    "uikName": "УИК  66",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2784,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11643,8 +13803,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "475402766726",
+    "uikName": "УИК  67",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2669,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11692,8 +13861,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "475402766727",
+    "uikName": "УИК  68",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3028,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11741,8 +13919,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "475402766728",
+    "uikName": "УИК  69",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2950,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -11790,8 +13977,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "475402766729",
+    "uikName": "УИК  70",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2427,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11839,8 +14035,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "475402766730",
+    "uikName": "УИК  71",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2925,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11888,8 +14093,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "475402766731",
+    "uikName": "УИК  72",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3110,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11937,8 +14151,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "475402766732",
+    "uikName": "УИК  73",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1889,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11986,8 +14209,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "475402766733",
+    "uikName": "УИК  74",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2994,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -12035,8 +14267,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "475402766734",
+    "uikName": "УИК  75",
     "tikTvd": "275200067491",
     "tikName": "г. Чита, Железнодорожная",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1134,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -12084,8 +14325,17 @@ export const duma_2003_uik_428_region_75_part_003 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "475402866689",
+    "uikName": "УИК  36",
     "tikTvd": "275200067493",
     "tikName": "г. Чита, Ингодинская ",
+    "regionCode": "75",
+    "regionTvd": "100100095927",
+    "regionName": "Читинская область",
+    "district": {
+      "districtNumber": 188,
+      "oikTvd": "100100095929",
+      "oikName": "Читинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2968,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,

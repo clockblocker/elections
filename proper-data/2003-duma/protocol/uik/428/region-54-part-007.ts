@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "454400466744",
+    "uikName": "УИК №87",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "454400466745",
+    "uikName": "УИК №88",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "454400466746",
+    "uikName": "УИК №89",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "454400466747",
+    "uikName": "УИК №90",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "454400466748",
+    "uikName": "УИК №91",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "454400466749",
+    "uikName": "УИК №92",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 596,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "454400466750",
+    "uikName": "УИК №93",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "454400466751",
+    "uikName": "УИК №94",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "454400466752",
+    "uikName": "УИК №95",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "454400466753",
+    "uikName": "УИК №96",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "454400466754",
+    "uikName": "УИК №97",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "454400466755",
+    "uikName": "УИК №98",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "454400466756",
+    "uikName": "УИК №99",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "454400466757",
+    "uikName": "УИК №100",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "454400466758",
+    "uikName": "УИК №101",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 411,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "454400466759",
+    "uikName": "УИК №102",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "454400466760",
+    "uikName": "УИК №103",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 466,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "454400466761",
+    "uikName": "УИК №104",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 625,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "454400466762",
+    "uikName": "УИК №105",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "454400466763",
+    "uikName": "УИК №106",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "454400466764",
+    "uikName": "УИК №107",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 592,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "454400466765",
+    "uikName": "УИК №108",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "454400466766",
+    "uikName": "УИК №109",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2066,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "454400466767",
+    "uikName": "УИК №110",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2003,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "454400466768",
+    "uikName": "УИК №111",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1214,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "454400466769",
+    "uikName": "УИК №112",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1902,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "454400466770",
+    "uikName": "УИК №113",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1432,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "454400466771",
+    "uikName": "УИК №114",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1745,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "454400466772",
+    "uikName": "УИК №115",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "454400466773",
+    "uikName": "УИК №116",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 684,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "454400466774",
+    "uikName": "УИК №117",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "454400466775",
+    "uikName": "УИК №118",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1305,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "454400466776",
+    "uikName": "УИК №119",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1782,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1348,
     "uikTvd": "454400866776",
+    "uikName": "УИК №1348",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1444,
       "Число бюллетеней, полученных участковыми комиссиями": 1415,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1349,
     "uikTvd": "454400866778",
+    "uikName": "УИК №1349",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 729,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1350,
     "uikTvd": "454400866780",
+    "uikName": "УИК №1350",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2138,
       "Число бюллетеней, полученных участковыми комиссиями": 2091,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1351,
     "uikTvd": "454400866782",
+    "uikName": "УИК №1351",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2192,
       "Число бюллетеней, полученных участковыми комиссиями": 2135,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1352,
     "uikTvd": "454400866784",
+    "uikName": "УИК №1352",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2099,
       "Число бюллетеней, полученных участковыми комиссиями": 2034,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1353,
     "uikTvd": "454400866786",
+    "uikName": "УИК №1353",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2160,
       "Число бюллетеней, полученных участковыми комиссиями": 2133,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1354,
     "uikTvd": "454400866788",
+    "uikName": "УИК №1354",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2126,
       "Число бюллетеней, полученных участковыми комиссиями": 2093,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1355,
     "uikTvd": "454400866790",
+    "uikName": "УИК №1355",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2109,
       "Число бюллетеней, полученных участковыми комиссиями": 2045,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1356,
     "uikTvd": "454400866792",
+    "uikName": "УИК №1356",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2121,
       "Число бюллетеней, полученных участковыми комиссиями": 2045,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1357,
     "uikTvd": "454400866794",
+    "uikName": "УИК №1357",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2005,
       "Число бюллетеней, полученных участковыми комиссиями": 1955,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1358,
     "uikTvd": "454400866796",
+    "uikName": "УИК №1358",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2197,
       "Число бюллетеней, полученных участковыми комиссиями": 2067,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1359,
     "uikTvd": "454400866798",
+    "uikName": "УИК №1359",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2136,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1360,
     "uikTvd": "454400866800",
+    "uikName": "УИК №1360",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1310,
       "Число бюллетеней, полученных участковыми комиссиями": 1275,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1361,
     "uikTvd": "454400866802",
+    "uikName": "УИК №1361",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1362,
     "uikTvd": "454400866804",
+    "uikName": "УИК №1362",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1943,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1363,
     "uikTvd": "454400866806",
+    "uikName": "УИК №1363",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1937,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1364,
     "uikTvd": "454400866808",
+    "uikName": "УИК №1364",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1965,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1365,
     "uikTvd": "454400866810",
+    "uikName": "УИК №1365",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1935,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1366,
     "uikTvd": "454400866812",
+    "uikName": "УИК №1366",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 2005,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1367,
     "uikTvd": "454400866814",
+    "uikName": "УИК №1367",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2047,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1368,
     "uikTvd": "454400866816",
+    "uikName": "УИК №1368",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1839,
       "Число бюллетеней, полученных участковыми комиссиями": 1794,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1369,
     "uikTvd": "454400866818",
+    "uikName": "УИК №1369",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1801,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -2706,8 +3201,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1370,
     "uikTvd": "454400866820",
+    "uikName": "УИК №1370",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1922,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -2755,8 +3259,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1371,
     "uikTvd": "454400866822",
+    "uikName": "УИК №1371",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1762,
       "Число бюллетеней, полученных участковыми комиссиями": 1777,
@@ -2804,8 +3317,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1372,
     "uikTvd": "454400866824",
+    "uikName": "УИК №1372",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 722,
       "Число бюллетеней, полученных участковыми комиссиями": 695,
@@ -2853,8 +3375,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1373,
     "uikTvd": "454400866826",
+    "uikName": "УИК №1373",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1256,
       "Число бюллетеней, полученных участковыми комиссиями": 1210,
@@ -2902,8 +3433,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1374,
     "uikTvd": "454400866828",
+    "uikName": "УИК №1374",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1805,
       "Число бюллетеней, полученных участковыми комиссиями": 1756,
@@ -2951,8 +3491,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1375,
     "uikTvd": "454400866830",
+    "uikName": "УИК №1375",
     "tikTvd": "354300467269",
     "tikName": "Искитимская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1795,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -3000,8 +3549,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "454400966783",
+    "uikName": "УИК №224",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -3049,8 +3607,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "454400966784",
+    "uikName": "УИК №225",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1643,
       "Число бюллетеней, полученных участковыми комиссиями": 1445,
@@ -3098,8 +3665,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "454400966785",
+    "uikName": "УИК №226",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 686,
       "Число бюллетеней, полученных участковыми комиссиями": 606,
@@ -3147,8 +3723,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "454400966786",
+    "uikName": "УИК №227",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 446,
       "Число бюллетеней, полученных участковыми комиссиями": 378,
@@ -3196,8 +3781,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "454400966787",
+    "uikName": "УИК №228",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3245,8 +3839,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "454400966788",
+    "uikName": "УИК №229",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 551,
       "Число бюллетеней, полученных участковыми комиссиями": 495,
@@ -3294,8 +3897,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "454400966789",
+    "uikName": "УИК №230",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 297,
@@ -3343,8 +3955,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "454400966790",
+    "uikName": "УИК №231",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -3392,8 +4013,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "454400966791",
+    "uikName": "УИК №232",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1125,
       "Число бюллетеней, полученных участковыми комиссиями": 1009,
@@ -3441,8 +4071,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "454400966792",
+    "uikName": "УИК №233",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -3490,8 +4129,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "454400966793",
+    "uikName": "УИК №234",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 161,
@@ -3539,8 +4187,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "454400966794",
+    "uikName": "УИК №235",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -3588,8 +4245,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "454400966795",
+    "uikName": "УИК №236",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 616,
@@ -3637,8 +4303,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "454400966796",
+    "uikName": "УИК №237",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 645,
       "Число бюллетеней, полученных участковыми комиссиями": 584,
@@ -3686,8 +4361,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "454400966797",
+    "uikName": "УИК №238",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -3735,8 +4419,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "454400966798",
+    "uikName": "УИК №239",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 1917,
@@ -3784,8 +4477,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "454400966799",
+    "uikName": "УИК №240",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1866,
       "Число бюллетеней, полученных участковыми комиссиями": 1634,
@@ -3833,8 +4535,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "454400966800",
+    "uikName": "УИК №241",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 552,
@@ -3882,8 +4593,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "454400966801",
+    "uikName": "УИК №242",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 271,
@@ -3931,8 +4651,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "454400966802",
+    "uikName": "УИК №243",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 750,
       "Число бюллетеней, полученных участковыми комиссиями": 683,
@@ -3980,8 +4709,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "454400966803",
+    "uikName": "УИК №244",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -4029,8 +4767,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "454400966804",
+    "uikName": "УИК №245",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4078,8 +4825,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "454400966805",
+    "uikName": "УИК №246",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 468,
@@ -4127,8 +4883,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "454400966806",
+    "uikName": "УИК №247",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1926,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4176,8 +4941,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "454400966807",
+    "uikName": "УИК №248",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1700,
       "Число бюллетеней, полученных участковыми комиссиями": 2676,
@@ -4225,8 +4999,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "454400966808",
+    "uikName": "УИК №249",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3134,
       "Число бюллетеней, полученных участковыми комиссиями": 2761,
@@ -4274,8 +5057,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "454400966809",
+    "uikName": "УИК №250",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2923,
       "Число бюллетеней, полученных участковыми комиссиями": 2574,
@@ -4323,8 +5115,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "454400966810",
+    "uikName": "УИК №251",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3211,
       "Число бюллетеней, полученных участковыми комиссиями": 2811,
@@ -4372,8 +5173,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "454400966811",
+    "uikName": "УИК №252",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3023,
       "Число бюллетеней, полученных участковыми комиссиями": 2665,
@@ -4421,8 +5231,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "454400966812",
+    "uikName": "УИК №253",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1474,
       "Число бюллетеней, полученных участковыми комиссиями": 1353,
@@ -4470,8 +5289,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "454400966813",
+    "uikName": "УИК №254",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1214,
       "Число бюллетеней, полученных участковыми комиссиями": 1081,
@@ -4519,8 +5347,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "454400966814",
+    "uikName": "УИК №255",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 333,
@@ -4568,8 +5405,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "454400966815",
+    "uikName": "УИК №256",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -4617,8 +5463,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "454400966816",
+    "uikName": "УИК №257",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -4666,8 +5521,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "454400966817",
+    "uikName": "УИК №258",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4715,8 +5579,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "454400966818",
+    "uikName": "УИК №259",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 551,
       "Число бюллетеней, полученных участковыми комиссиями": 498,
@@ -4764,8 +5637,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "454400966819",
+    "uikName": "УИК №260",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1856,
       "Число бюллетеней, полученных участковыми комиссиями": 1631,
@@ -4813,8 +5695,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "454400966820",
+    "uikName": "УИК №261",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -4862,8 +5753,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "454400966821",
+    "uikName": "УИК №262",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 324,
       "Число бюллетеней, полученных участковыми комиссиями": 528,
@@ -4911,8 +5811,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "454400966822",
+    "uikName": "УИК №263",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 863,
       "Число бюллетеней, полученных участковыми комиссиями": 768,
@@ -4960,8 +5869,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "454400966823",
+    "uikName": "УИК №264",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 284,
@@ -5009,8 +5927,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "454400966824",
+    "uikName": "УИК №265",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -5058,8 +5985,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "454400966825",
+    "uikName": "УИК №266",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -5107,8 +6043,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "454400966826",
+    "uikName": "УИК №267",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1282,
       "Число бюллетеней, полученных участковыми комиссиями": 1134,
@@ -5156,8 +6101,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "454400966827",
+    "uikName": "УИК №268",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 229,
@@ -5205,8 +6159,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "454400966828",
+    "uikName": "УИК №269",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -5254,8 +6217,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "454400966829",
+    "uikName": "УИК №270",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1177,
       "Число бюллетеней, полученных участковыми комиссиями": 1193,
@@ -5303,8 +6275,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "454400966830",
+    "uikName": "УИК №271",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 671,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5352,8 +6333,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "454400966831",
+    "uikName": "УИК №272",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5401,8 +6391,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "454400966832",
+    "uikName": "УИК №273",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -5450,8 +6449,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "454400966833",
+    "uikName": "УИК №274",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -5499,8 +6507,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "454400966834",
+    "uikName": "УИК №275",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -5548,8 +6565,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "454400966835",
+    "uikName": "УИК №276",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1035,
       "Число бюллетеней, полученных участковыми комиссиями": 912,
@@ -5597,8 +6623,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "454400966836",
+    "uikName": "УИК №277",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1002,
       "Число бюллетеней, полученных участковыми комиссиями": 933,
@@ -5646,8 +6681,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "454400966837",
+    "uikName": "УИК №278",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -5695,8 +6739,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "454400966838",
+    "uikName": "УИК №279",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 334,
@@ -5744,8 +6797,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "454400966839",
+    "uikName": "УИК №280",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 463,
@@ -5793,8 +6855,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "454400966840",
+    "uikName": "УИК №281",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 134,
@@ -5842,8 +6913,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "454400966841",
+    "uikName": "УИК №282",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -5891,8 +6971,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "454400966842",
+    "uikName": "УИК №283",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -5940,8 +7029,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "454400966843",
+    "uikName": "УИК №284",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 549,
       "Число бюллетеней, полученных участковыми комиссиями": 477,
@@ -5989,8 +7087,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "454400966844",
+    "uikName": "УИК №285",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -6038,8 +7145,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "454400966845",
+    "uikName": "УИК №286",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -6087,8 +7203,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "454400966846",
+    "uikName": "УИК №287",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -6136,8 +7261,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "454400966847",
+    "uikName": "УИК №288",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 673,
       "Число бюллетеней, полученных участковыми комиссиями": 609,
@@ -6185,8 +7319,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "454400966848",
+    "uikName": "УИК №289",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -6234,8 +7377,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "454400966849",
+    "uikName": "УИК №290",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -6283,8 +7435,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "454400966850",
+    "uikName": "УИК №291",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -6332,8 +7493,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "454400966851",
+    "uikName": "УИК №292",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1297,
       "Число бюллетеней, полученных участковыми комиссиями": 1162,
@@ -6381,8 +7551,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "454400966852",
+    "uikName": "УИК №293",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 156,
@@ -6430,8 +7609,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "454400966853",
+    "uikName": "УИК №294",
     "tikTvd": "354300467276",
     "tikName": "Искитимская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -6479,8 +7667,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "454401967364",
+    "uikName": "УИК №656",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 430,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -6528,8 +7725,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "454401967365",
+    "uikName": "УИК №657",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -6577,8 +7783,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "454401967366",
+    "uikName": "УИК №658",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 434,
@@ -6626,8 +7841,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "454401967367",
+    "uikName": "УИК №659",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -6675,8 +7899,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "454401967368",
+    "uikName": "УИК №660",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 472,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -6724,8 +7957,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "454401967369",
+    "uikName": "УИК №661",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 63,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -6773,8 +8015,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "454401967370",
+    "uikName": "УИК №662",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -6822,8 +8073,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "454401967371",
+    "uikName": "УИК №663",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -6871,8 +8131,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "454401967372",
+    "uikName": "УИК №664",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 573,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -6920,8 +8189,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "454401967373",
+    "uikName": "УИК №665",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 481,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -6969,8 +8247,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "454401967374",
+    "uikName": "УИК №666",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -7018,8 +8305,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "454401967375",
+    "uikName": "УИК №667",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -7067,8 +8363,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "454401967376",
+    "uikName": "УИК №668",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 581,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -7116,8 +8421,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "454401967377",
+    "uikName": "УИК №669",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 360,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -7165,8 +8479,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "454401967378",
+    "uikName": "УИК №670",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 760,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -7214,8 +8537,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "454401967379",
+    "uikName": "УИК №671",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -7263,8 +8595,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "454401967380",
+    "uikName": "УИК №672",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -7312,8 +8653,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "454401967381",
+    "uikName": "УИК №673",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -7361,8 +8711,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "454401967382",
+    "uikName": "УИК №674",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -7410,8 +8769,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "454401967383",
+    "uikName": "УИК №675",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -7459,8 +8827,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "454401967384",
+    "uikName": "УИК №676",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1221,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7508,8 +8885,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "454401967385",
+    "uikName": "УИК №677",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 475,
@@ -7557,8 +8943,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "454401967386",
+    "uikName": "УИК №678",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -7606,8 +9001,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "454401967387",
+    "uikName": "УИК №679",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 397,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -7655,8 +9059,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "454401967388",
+    "uikName": "УИК №680",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -7704,8 +9117,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "454401967389",
+    "uikName": "УИК №681",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -7753,8 +9175,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "454401967390",
+    "uikName": "УИК №682",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -7802,8 +9233,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "454401967391",
+    "uikName": "УИК №683",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 822,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -7851,8 +9291,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "454401967392",
+    "uikName": "УИК №684",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1623,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7900,8 +9349,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "454401967393",
+    "uikName": "УИК №685",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1709,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7949,8 +9407,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "454401967394",
+    "uikName": "УИК №686",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 756,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -7998,8 +9465,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "454401967395",
+    "uikName": "УИК №687",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1006,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -8047,8 +9523,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "454401967396",
+    "uikName": "УИК №688",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1757,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8096,8 +9581,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "454401967397",
+    "uikName": "УИК №689",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 734,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -8145,8 +9639,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "454401967398",
+    "uikName": "УИК №690",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 888,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -8194,8 +9697,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "454401967399",
+    "uikName": "УИК №691",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -8243,8 +9755,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "454401967400",
+    "uikName": "УИК №692",
     "tikTvd": "354300467277",
     "tikName": "Маслянинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 798,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -8292,8 +9813,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "454402066810",
+    "uikName": "УИК №693",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1133,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8341,8 +9871,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "454402066811",
+    "uikName": "УИК №694",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2426,
       "Число бюллетеней, полученных участковыми комиссиями": 1974,
@@ -8390,8 +9929,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "454402066812",
+    "uikName": "УИК №695",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2310,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -8439,8 +9987,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "454402066813",
+    "uikName": "УИК №696",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1578,
       "Число бюллетеней, полученных участковыми комиссиями": 1324,
@@ -8488,8 +10045,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "454402066814",
+    "uikName": "УИК №697",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1503,
       "Число бюллетеней, полученных участковыми комиссиями": 1347,
@@ -8537,8 +10103,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "454402066815",
+    "uikName": "УИК №698",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1946,
       "Число бюллетеней, полученных участковыми комиссиями": 1766,
@@ -8586,8 +10161,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "454402066816",
+    "uikName": "УИК №699",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 559,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8635,8 +10219,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "454402066817",
+    "uikName": "УИК №700",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1186,
       "Число бюллетеней, полученных участковыми комиссиями": 1061,
@@ -8684,8 +10277,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "454402066818",
+    "uikName": "УИК №701",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -8733,8 +10335,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "454402066819",
+    "uikName": "УИК №702",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 257,
@@ -8782,8 +10393,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "454402066820",
+    "uikName": "УИК №703",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 301,
@@ -8831,8 +10451,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "454402066821",
+    "uikName": "УИК №704",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2459,
       "Число бюллетеней, полученных участковыми комиссиями": 2218,
@@ -8880,8 +10509,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "454402066822",
+    "uikName": "УИК №705",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 1993,
@@ -8929,8 +10567,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "454402066823",
+    "uikName": "УИК №706",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -8978,8 +10625,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "454402066824",
+    "uikName": "УИК №707",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 544,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9027,8 +10683,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "454402066825",
+    "uikName": "УИК №708",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -9076,8 +10741,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "454402066826",
+    "uikName": "УИК №709",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -9125,8 +10799,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "454402066827",
+    "uikName": "УИК №710",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -9174,8 +10857,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "454402066828",
+    "uikName": "УИК №711",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 234,
@@ -9223,8 +10915,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "454402066829",
+    "uikName": "УИК №712",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 778,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -9272,8 +10973,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "454402066830",
+    "uikName": "УИК №713",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -9321,8 +11031,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "454402066831",
+    "uikName": "УИК №714",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 479,
       "Число бюллетеней, полученных участковыми комиссиями": 488,
@@ -9370,8 +11089,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "454402066832",
+    "uikName": "УИК №715",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 254,
@@ -9419,8 +11147,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "454402066833",
+    "uikName": "УИК №716",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -9468,8 +11205,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "454402066834",
+    "uikName": "УИК №717",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -9517,8 +11263,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "454402066835",
+    "uikName": "УИК №718",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 725,
       "Число бюллетеней, полученных участковыми комиссиями": 671,
@@ -9566,8 +11321,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "454402066836",
+    "uikName": "УИК №719",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -9615,8 +11379,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "454402066837",
+    "uikName": "УИК №720",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 540,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9664,8 +11437,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "454402066838",
+    "uikName": "УИК №721",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -9713,8 +11495,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "454402066839",
+    "uikName": "УИК №722",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -9762,8 +11553,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "454402066840",
+    "uikName": "УИК №723",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 839,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -9811,8 +11611,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "454402066841",
+    "uikName": "УИК №724",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2058,
       "Число бюллетеней, полученных участковыми комиссиями": 1715,
@@ -9860,8 +11669,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "454402066842",
+    "uikName": "УИК №725",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 753,
       "Число бюллетеней, полученных участковыми комиссиями": 749,
@@ -9909,8 +11727,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "454402066843",
+    "uikName": "УИК №726",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -9958,8 +11785,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "454402066844",
+    "uikName": "УИК №727",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 854,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -10007,8 +11843,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "454402066845",
+    "uikName": "УИК №728",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 589,
@@ -10056,8 +11901,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "454402066846",
+    "uikName": "УИК №729",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -10105,8 +11959,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "454402066847",
+    "uikName": "УИК №730",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -10154,8 +12017,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "454402066848",
+    "uikName": "УИК №731",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 643,
       "Число бюллетеней, полученных участковыми комиссиями": 581,
@@ -10203,8 +12075,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "454402066849",
+    "uikName": "УИК №732",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 238,
@@ -10252,8 +12133,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "454402066850",
+    "uikName": "УИК №733",
     "tikTvd": "354300467278",
     "tikName": "Мошковская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -10301,8 +12191,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1908,
     "uikTvd": "454402966742",
+    "uikName": "УИК №1908",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1586,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10350,8 +12249,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1909,
     "uikTvd": "454402966743",
+    "uikName": "УИК №1909",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2080,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10399,8 +12307,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1910,
     "uikTvd": "454402966744",
+    "uikName": "УИК №1910",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2265,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10448,8 +12365,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1911,
     "uikTvd": "454402966745",
+    "uikName": "УИК №1911",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1866,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10497,8 +12423,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1912,
     "uikTvd": "454402966746",
+    "uikName": "УИК №1912",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1130,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10546,8 +12481,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1913,
     "uikTvd": "454402966747",
+    "uikName": "УИК №1913",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2173,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10595,8 +12539,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1914,
     "uikTvd": "454402966748",
+    "uikName": "УИК №1914",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2151,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10644,8 +12597,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1915,
     "uikTvd": "454402966749",
+    "uikName": "УИК №1915",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1943,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10693,8 +12655,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1916,
     "uikTvd": "454402966750",
+    "uikName": "УИК №1916",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1930,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10742,8 +12713,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1917,
     "uikTvd": "454402966751",
+    "uikName": "УИК №1917",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2381,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10791,8 +12771,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1918,
     "uikTvd": "454402966752",
+    "uikName": "УИК №1918",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10840,8 +12829,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1919,
     "uikTvd": "454402966753",
+    "uikName": "УИК №1919",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1447,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10889,8 +12887,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1920,
     "uikTvd": "454402966754",
+    "uikName": "УИК №1920",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1673,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10938,8 +12945,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1921,
     "uikTvd": "454402966755",
+    "uikName": "УИК №1921",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2149,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10987,8 +13003,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1922,
     "uikTvd": "454402966756",
+    "uikName": "УИК №1922",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11036,8 +13061,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1923,
     "uikTvd": "454402966757",
+    "uikName": "УИК №1923",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2156,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11085,8 +13119,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1924,
     "uikTvd": "454402966758",
+    "uikName": "УИК №1924",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2118,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11134,8 +13177,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1925,
     "uikTvd": "454402966759",
+    "uikName": "УИК №1925",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2297,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11183,8 +13235,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1926,
     "uikTvd": "454402966760",
+    "uikName": "УИК №1926",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2094,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11232,8 +13293,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1927,
     "uikTvd": "454402966761",
+    "uikName": "УИК №1927",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2393,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11281,8 +13351,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1928,
     "uikTvd": "454402966762",
+    "uikName": "УИК №1928",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2597,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11330,8 +13409,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1929,
     "uikTvd": "454402966763",
+    "uikName": "УИК №1929",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2165,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11379,8 +13467,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1930,
     "uikTvd": "454402966764",
+    "uikName": "УИК №1930",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2337,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11428,8 +13525,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1931,
     "uikTvd": "454402966765",
+    "uikName": "УИК №1931",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2592,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11477,8 +13583,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1932,
     "uikTvd": "454402966766",
+    "uikName": "УИК №1932",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2750,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11526,8 +13641,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1933,
     "uikTvd": "454402966767",
+    "uikName": "УИК №1933",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2831,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11575,8 +13699,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1934,
     "uikTvd": "454402966768",
+    "uikName": "УИК №1934",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2339,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11624,8 +13757,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1935,
     "uikTvd": "454402966769",
+    "uikName": "УИК №1935",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2488,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11673,8 +13815,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1936,
     "uikTvd": "454402966770",
+    "uikName": "УИК №1936",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2363,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11722,8 +13873,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1937,
     "uikTvd": "454402966771",
+    "uikName": "УИК №1937",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2334,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11771,8 +13931,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1938,
     "uikTvd": "454402966772",
+    "uikName": "УИК №1938",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2460,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11820,8 +13989,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1939,
     "uikTvd": "454402966773",
+    "uikName": "УИК №1939",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2204,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11869,8 +14047,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1940,
     "uikTvd": "454402966774",
+    "uikName": "УИК №1940",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2417,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11918,8 +14105,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1941,
     "uikTvd": "454402966775",
+    "uikName": "УИК №1941",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2870,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11967,8 +14163,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1942,
     "uikTvd": "454402966776",
+    "uikName": "УИК №1942",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1650,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -12016,8 +14221,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1943,
     "uikTvd": "454402966777",
+    "uikName": "УИК №1943",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1837,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -12065,8 +14279,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1944,
     "uikTvd": "454402966778",
+    "uikName": "УИК №1944",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1791,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -12114,8 +14337,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1945,
     "uikTvd": "454402966779",
+    "uikName": "УИК №1945",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -12163,8 +14395,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1946,
     "uikTvd": "454402966780",
+    "uikName": "УИК №1946",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -12212,8 +14453,17 @@ export const duma_2003_uik_428_region_54_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1947,
     "uikTvd": "454402966781",
+    "uikName": "УИК №1947",
     "tikTvd": "354300467279",
     "tikName": "Новосибирск, Советская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2614,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,

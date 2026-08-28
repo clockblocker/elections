@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166678",
     "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 56710,
@@ -98,6 +106,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166679",
     "tikName": "Аяно-Майская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки": 2714,
@@ -151,6 +167,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166680",
     "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 29542,
@@ -226,6 +250,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166681",
     "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 25356,
@@ -302,6 +334,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166682",
     "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки": 4479,
@@ -358,6 +398,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166683",
     "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 108,
     "accounting": {
       "Число избирателей, включенных в списки": 218290,
@@ -512,6 +560,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166684",
     "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 22857,
@@ -584,6 +640,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166685",
     "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 13928,
@@ -651,6 +715,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166686",
     "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 35109,
@@ -737,6 +809,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166687",
     "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 9324,
@@ -798,6 +878,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166688",
     "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки": 37511,
@@ -892,6 +980,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166689",
     "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 26981,
@@ -962,6 +1058,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166690",
     "tikName": "Тугуро-Чумиканская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки": 1803,
@@ -1014,6 +1118,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300166691",
     "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 58,
+      "oikTvd": "100100095791",
+      "oikName": "Комсомольский-на-Амуре"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки": 16752,
@@ -1091,6 +1203,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300266679",
     "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 21724,
@@ -1164,6 +1284,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300266681",
     "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 20226,
@@ -1243,6 +1371,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300266682",
     "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в списки": 112049,
@@ -1346,6 +1482,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300266683",
     "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в списки": 158931,
@@ -1472,6 +1616,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300266684",
     "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 46416,
@@ -1550,6 +1702,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300266685",
     "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 69023,
@@ -1630,6 +1790,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300266686",
     "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки": 67229,
@@ -1712,6 +1880,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300266687",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки": 64978,
@@ -1823,6 +1999,14 @@ export const duma_2003_tic_429_region_27 = [
     "ballot": "single-member",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
+    "district": {
+      "districtNumber": 59,
+      "oikTvd": "100100095792",
+      "oikName": "Хабаровский"
+    },
     "uikCount": 59,
     "accounting": {
       "Число избирателей, включенных в списки": 37697,

@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300170366",
     "tikName": "Дмитровская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100095706",
+      "oikName": "Дмитровский"
+    },
     "uikCount": 86,
     "accounting": {
       "Число избирателей, включенных в списки": 117435,
@@ -147,6 +155,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300170367",
     "tikName": "Дубненская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100095706",
+      "oikName": "Дмитровский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 55280,
@@ -225,6 +241,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300170368",
     "tikName": "Клинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100095706",
+      "oikName": "Дмитровский"
+    },
     "uikCount": 76,
     "accounting": {
       "Число избирателей, включенных в списки": 106043,
@@ -351,6 +375,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300170369",
     "tikName": "Сергиево-Посадская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100095706",
+      "oikName": "Дмитровский"
+    },
     "uikCount": 115,
     "accounting": {
       "Число избирателей, включенных в списки": 196414,
@@ -516,6 +548,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300170370",
     "tikName": "Талдомская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 105,
+      "oikTvd": "100100095706",
+      "oikName": "Дмитровский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 39573,
@@ -598,6 +638,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300270970",
     "tikName": "Восходненская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100095707",
+      "oikName": "Истринский"
+    },
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в списки": 1403,
@@ -650,6 +698,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300270971",
     "tikName": "Истринская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100095707",
+      "oikName": "Истринский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки": 96027,
@@ -761,6 +817,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300270972",
     "tikName": "Красногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100095707",
+      "oikName": "Истринский"
+    },
     "uikCount": 66,
     "accounting": {
       "Число избирателей, включенных в списки": 123797,
@@ -878,6 +942,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300270973",
     "tikName": "Лотошинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100095707",
+      "oikName": "Истринский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 13163,
@@ -944,6 +1016,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300270974",
     "tikName": "Можайская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100095707",
+      "oikName": "Истринский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки": 56514,
@@ -1051,6 +1131,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300270975",
     "tikName": "Шаховская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100095707",
+      "oikName": "Истринский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 17880,
@@ -1117,6 +1205,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300270976",
     "tikName": " Химкинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100095707",
+      "oikName": "Истринский"
+    },
     "uikCount": 64,
     "accounting": {
       "Число избирателей, включенных в списки": 143082,
@@ -1232,6 +1328,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300270977",
     "tikName": " Волоколамская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 106,
+      "oikTvd": "100100095707",
+      "oikName": "Истринский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 41518,
@@ -1315,6 +1419,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300370437",
     "tikName": "Воскресенская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "uikCount": 82,
     "accounting": {
       "Число избирателей, включенных в списки": 119125,
@@ -1447,6 +1559,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300370438",
     "tikName": "Коломенская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "uikCount": 100,
     "accounting": {
       "Число избирателей, включенных в списки": 148624,
@@ -1597,6 +1717,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300370439",
     "tikName": "Коломенская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 34840,
@@ -1679,6 +1807,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300370440",
     "tikName": "Зарайская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 35125,
@@ -1758,6 +1894,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300370441",
     "tikName": " Каширская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 60161,
@@ -1851,6 +1995,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300370442",
     "tikName": "Луховицкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки": 50460,
@@ -1955,6 +2107,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 30206,
@@ -2033,6 +2193,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 18650,
@@ -2105,6 +2273,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300470812",
     "tikName": "Бронницкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки": 14973,
@@ -2160,6 +2336,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300470813",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 33000,
@@ -2220,6 +2404,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 80238,
@@ -2301,6 +2493,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300470815",
     "tikName": "Котельниковская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки": 14120,
@@ -2357,6 +2557,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "uikCount": 104,
     "accounting": {
       "Число избирателей, включенных в списки": 198171,
@@ -2509,6 +2717,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "uikCount": 107,
     "accounting": {
       "Число избирателей, включенных в списки": 171464,
@@ -2664,6 +2880,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300570380",
     "tikName": "Мытищинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "uikCount": 86,
     "accounting": {
       "Число избирателей, включенных в списки": 153439,
@@ -2800,6 +3024,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300570416",
     "tikName": "Солнечногорская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в списки": 105757,
@@ -2919,6 +3151,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300570418",
     "tikName": "Королевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "uikCount": 72,
     "accounting": {
       "Число избирателей, включенных в списки": 132825,
@@ -3041,6 +3281,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300570420",
     "tikName": "Лобнеская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 54396,
@@ -3117,6 +3365,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300570474",
     "tikName": " Долгопрудненская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки": 61930,
@@ -3202,6 +3458,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300570475",
     "tikName": "Юбилейная городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 109,
+      "oikTvd": "100100095710",
+      "oikName": "Мытищинский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки": 26042,
@@ -3262,6 +3526,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300670567",
     "tikName": "Лосино-Петровская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки": 17086,
@@ -3319,6 +3591,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300670568",
     "tikName": "Фрязинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 43772,
@@ -3385,6 +3665,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300670569",
     "tikName": "Черноголовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки": 17480,
@@ -3442,6 +3730,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300670571",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "uikCount": 121,
     "accounting": {
       "Число избирателей, включенных в списки": 177918,
@@ -3611,6 +3907,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "uikCount": 83,
     "accounting": {
       "Число избирателей, включенных в списки": 140628,
@@ -3742,6 +4046,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки": 119572,
@@ -3839,6 +4151,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 25237,
@@ -3926,6 +4246,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300771048",
     "tikName": "Краснознаменская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки": 22919,
@@ -3988,6 +4316,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "uikCount": 72,
     "accounting": {
       "Число избирателей, включенных в списки": 113614,
@@ -4114,6 +4450,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300771050",
     "tikName": "Лыткаринская городская     ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 41087,
@@ -4185,6 +4529,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300771051",
     "tikName": "Одинцовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "uikCount": 125,
     "accounting": {
       "Число избирателей, включенных в списки": 231289,
@@ -4364,6 +4716,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300771052",
     "tikName": "Рузская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки": 52539,
@@ -4456,6 +4816,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300771053",
     "tikName": "Байконурская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки": 21399,
@@ -4518,6 +4886,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300870380",
     "tikName": "Рошальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки": 18734,
@@ -4576,6 +4952,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300870381",
     "tikName": "Электрогорская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки": 16518,
@@ -4633,6 +5017,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300870382",
     "tikName": "Орехово-Зуевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в списки": 108579,
@@ -4758,6 +5150,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300870383",
     "tikName": "Егорьевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "uikCount": 62,
     "accounting": {
       "Число избирателей, включенных в списки": 84099,
@@ -4870,6 +5270,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300870384",
     "tikName": "Орехово-Зуевская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "uikCount": 82,
     "accounting": {
       "Число избирателей, включенных в списки": 98327,
@@ -5002,6 +5410,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300870385",
     "tikName": "Шатурская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки": 57959,
@@ -5103,6 +5519,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 66576,
@@ -5203,6 +5627,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 46743,
@@ -5272,6 +5704,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "uikCount": 83,
     "accounting": {
       "Число избирателей, включенных в списки": 156841,
@@ -5406,6 +5846,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300970361",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки": 27049,
@@ -5468,6 +5916,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 26505,
@@ -5553,6 +6009,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300970363",
     "tikName": "Молодежная поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "uikCount": 1,
     "accounting": {
       "Число избирателей, включенных в списки": 2128,
@@ -5605,6 +6069,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "uikCount": 93,
     "accounting": {
       "Число избирателей, включенных в списки": 151550,
@@ -5749,6 +6221,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350300970365",
     "tikName": "Подольская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 62911,
@@ -5836,6 +6316,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301070353",
     "tikName": "Балашихинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "uikCount": 73,
     "accounting": {
       "Число избирателей, включенных в списки": 159798,
@@ -5959,6 +6447,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301070355",
     "tikName": "Пушкинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "uikCount": 73,
     "accounting": {
       "Число избирателей, включенных в списки": 127858,
@@ -6082,6 +6578,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301070357",
     "tikName": "Ивантеевская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 41266,
@@ -6151,6 +6655,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301070362",
     "tikName": "Красноармейская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки": 20899,
@@ -6209,6 +6721,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301070365",
     "tikName": "Реутовская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 59471,
@@ -6284,6 +6804,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301070367",
     "tikName": "Железнодорожная городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 92215,
@@ -6380,6 +6908,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301071814",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 114,
+      "oikTvd": "100100095715",
+      "oikName": "Пушкинский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки": 10511,
@@ -6438,6 +6974,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301170333",
     "tikName": "Протвинская городская                            ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 30465,
@@ -6501,6 +7045,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301170334",
     "tikName": "Пущинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки": 16673,
@@ -6559,6 +7111,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301170335",
     "tikName": "Серпуховская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "uikCount": 114,
     "accounting": {
       "Число избирателей, включенных в списки": 148689,
@@ -6724,6 +7284,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301170336",
     "tikName": "Приокская поселковая    ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "uikCount": 3,
     "accounting": {
       "Число избирателей, включенных в списки": 5218,
@@ -6778,6 +7346,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301170337",
     "tikName": "Домодедовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в списки": 102020,
@@ -6887,6 +7463,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 33354,
@@ -6978,6 +7562,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки": 90577,
@@ -7084,6 +7676,14 @@ export const duma_2003_tic_429_region_50 = [
     "ballot": "single-member",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 92141,

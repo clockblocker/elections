@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "453400970657",
+    "uikName": "УИК №198",
     "tikTvd": "253200070460",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 504,
       "Число бюллетеней, полученных участковыми комиссиями": 508,
@@ -62,8 +71,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "453400970659",
+    "uikName": "УИК №199",
     "tikTvd": "253200070460",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -113,8 +131,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "453400970660",
+    "uikName": "УИК №200",
     "tikTvd": "253200070460",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 283,
@@ -164,8 +191,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "453400970661",
+    "uikName": "УИК №201",
     "tikTvd": "253200070460",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -215,8 +251,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "453400970662",
+    "uikName": "УИК №202",
     "tikTvd": "253200070460",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 43,
       "Число бюллетеней, полученных участковыми комиссиями": 44,
@@ -266,8 +311,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "453400970663",
+    "uikName": "УИК №203",
     "tikTvd": "253200070460",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 80,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -317,8 +371,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "453400970664",
+    "uikName": "УИК №204",
     "tikTvd": "253200070460",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2037,
       "Число бюллетеней, полученных участковыми комиссиями": 2041,
@@ -368,8 +431,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "453400970665",
+    "uikName": "УИК №205",
     "tikTvd": "253200070460",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -419,8 +491,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "453400970666",
+    "uikName": "УИК №206",
     "tikTvd": "253200070460",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 540,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -470,8 +551,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "453400970667",
+    "uikName": "УИК №207",
     "tikTvd": "253200070460",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -521,8 +611,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "453400970668",
+    "uikName": "УИК №208",
     "tikTvd": "253200070460",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -572,8 +671,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "453400870644",
+    "uikName": "УИК №178",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1389,
       "Число бюллетеней, полученных участковыми комиссиями": 1384,
@@ -623,8 +731,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "453400870645",
+    "uikName": "УИК №179",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1362,
       "Число бюллетеней, полученных участковыми комиссиями": 1345,
@@ -674,8 +791,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "453400870646",
+    "uikName": "УИК №180",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 969,
       "Число бюллетеней, полученных участковыми комиссиями": 945,
@@ -725,8 +851,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "453400870647",
+    "uikName": "УИК №181",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 1041,
@@ -776,8 +911,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "453400870648",
+    "uikName": "УИК №182",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2177,
       "Число бюллетеней, полученных участковыми комиссиями": 2176,
@@ -827,8 +971,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "453400870649",
+    "uikName": "УИК №183",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1531,
       "Число бюллетеней, полученных участковыми комиссиями": 1509,
@@ -878,8 +1031,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "453400870650",
+    "uikName": "УИК №184",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 755,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -929,8 +1091,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "453400870651",
+    "uikName": "УИК №185",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 2105,
@@ -980,8 +1151,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "453400870652",
+    "uikName": "УИК №186",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1638,
@@ -1031,8 +1211,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "453400870653",
+    "uikName": "УИК №187",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 895,
       "Число бюллетеней, полученных участковыми комиссиями": 904,
@@ -1082,8 +1271,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "453400870654",
+    "uikName": "УИК №188",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 426,
@@ -1133,8 +1331,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "453400870655",
+    "uikName": "УИК №189",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -1184,8 +1391,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "453400870656",
+    "uikName": "УИК №190",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 378,
@@ -1235,8 +1451,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "453400870657",
+    "uikName": "УИК №191",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 398,
@@ -1286,8 +1511,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "453400870658",
+    "uikName": "УИК №192",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 219,
@@ -1337,8 +1571,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "453400870659",
+    "uikName": "УИК №193",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 239,
@@ -1388,8 +1631,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "453400870660",
+    "uikName": "УИК №194",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -1439,8 +1691,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "453400870661",
+    "uikName": "УИК №195",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 247,
@@ -1490,8 +1751,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "453400870662",
+    "uikName": "УИК №196",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 249,
@@ -1541,8 +1811,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "453400870663",
+    "uikName": "УИК №197",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 148,
@@ -1592,8 +1871,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "453402270661",
+    "uikName": "УИК  551",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -1643,8 +1931,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "453402270662",
+    "uikName": "УИК  552",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -1694,8 +1991,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "453402270663",
+    "uikName": "УИК  553",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1745,8 +2051,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "453402270664",
+    "uikName": "УИК  554",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -1796,8 +2111,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "453402270665",
+    "uikName": "УИК  555",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 462,
@@ -1847,8 +2171,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "453402270666",
+    "uikName": "УИК  556",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 296,
@@ -1898,8 +2231,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "453402270667",
+    "uikName": "УИК  557",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -1949,8 +2291,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "453402270668",
+    "uikName": "УИК  558",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 113,
@@ -2000,8 +2351,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "453402270669",
+    "uikName": "УИК  559",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2967,
       "Число бюллетеней, полученных участковыми комиссиями": 2980,
@@ -2051,8 +2411,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "453402270670",
+    "uikName": "УИК  560",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 415,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -2102,8 +2471,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "453402270671",
+    "uikName": "УИК  561",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -2153,8 +2531,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "453402270672",
+    "uikName": "УИК  562",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -2204,8 +2591,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "453402270673",
+    "uikName": "УИК  563",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -2255,8 +2651,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "453402270674",
+    "uikName": "УИК  564",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -2306,8 +2711,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "453402270675",
+    "uikName": "УИК  565",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1363,
       "Число бюллетеней, полученных участковыми комиссиями": 1317,
@@ -2357,8 +2771,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "453402270676",
+    "uikName": "УИК  566",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1248,
       "Число бюллетеней, полученных участковыми комиссиями": 1246,
@@ -2408,8 +2831,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "453402270677",
+    "uikName": "УИК  567",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 366,
@@ -2459,8 +2891,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "453402270678",
+    "uikName": "УИК  568",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 197,
@@ -2510,8 +2951,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "453402270679",
+    "uikName": "УИК  569",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -2561,8 +3011,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "453402070625",
+    "uikName": "УИК №513",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 824,
       "Число бюллетеней, полученных участковыми комиссиями": 874,
@@ -2612,8 +3071,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "453402070626",
+    "uikName": "УИК №514",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 856,
       "Число бюллетеней, полученных участковыми комиссиями": 887,
@@ -2663,8 +3131,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "453402070627",
+    "uikName": "УИК №515",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 928,
       "Число бюллетеней, полученных участковыми комиссиями": 943,
@@ -2714,8 +3191,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "453402070628",
+    "uikName": "УИК №516",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 932,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -2765,8 +3251,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "453402070629",
+    "uikName": "УИК №517",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -2816,8 +3311,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "453402070630",
+    "uikName": "УИК №518",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 113,
@@ -2867,8 +3371,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "453402070631",
+    "uikName": "УИК №519",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -2918,8 +3431,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "453402070632",
+    "uikName": "УИК №520",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -2969,8 +3491,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "453402070633",
+    "uikName": "УИК №521",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 62,
@@ -3020,8 +3551,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "453402070634",
+    "uikName": "УИК №522",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -3071,8 +3611,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "453402070635",
+    "uikName": "УИК №523",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 53,
       "Число бюллетеней, полученных участковыми комиссиями": 56,
@@ -3122,8 +3671,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "453402070636",
+    "uikName": "УИК №524",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -3173,8 +3731,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "453402070637",
+    "uikName": "УИК №525",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -3224,8 +3791,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "453402070638",
+    "uikName": "УИК №526",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -3275,8 +3851,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "453402070639",
+    "uikName": "УИК №527",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 293,
@@ -3326,8 +3911,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "453402070640",
+    "uikName": "УИК №528",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -3377,8 +3971,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "453402070641",
+    "uikName": "УИК №529",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -3428,8 +4031,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "453402070642",
+    "uikName": "УИК №530",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3479,8 +4091,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "453402070643",
+    "uikName": "УИК №531",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -3530,8 +4151,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "453402170613",
+    "uikName": "УИК  532",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 782,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3581,8 +4211,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "453402170614",
+    "uikName": "УИК  533",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -3632,8 +4271,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "453402170615",
+    "uikName": "УИК  534",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -3683,8 +4331,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "453402170616",
+    "uikName": "УИК  535",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 336,
@@ -3734,8 +4391,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "453402170617",
+    "uikName": "УИК  536",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 658,
       "Число бюллетеней, полученных участковыми комиссиями": 661,
@@ -3785,8 +4451,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "453402170618",
+    "uikName": "УИК  537",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 534,
@@ -3836,8 +4511,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "453402170619",
+    "uikName": "УИК  538",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 542,
       "Число бюллетеней, полученных участковыми комиссиями": 547,
@@ -3887,8 +4571,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "453402170620",
+    "uikName": "УИК  539",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -3938,8 +4631,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "453402170621",
+    "uikName": "УИК  540",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 939,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -3989,8 +4691,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "453402170622",
+    "uikName": "УИК  541",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 487,
@@ -4040,8 +4751,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "453402170623",
+    "uikName": "УИК  542",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -4091,8 +4811,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "453402170624",
+    "uikName": "УИК  543",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1340,
       "Число бюллетеней, полученных участковыми комиссиями": 1346,
@@ -4142,8 +4871,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "453402170625",
+    "uikName": "УИК  544",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 853,
       "Число бюллетеней, полученных участковыми комиссиями": 856,
@@ -4193,8 +4931,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 545,
     "uikTvd": "453402170626",
+    "uikName": "УИК  545",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2600,
       "Число бюллетеней, полученных участковыми комиссиями": 2612,
@@ -4244,8 +4991,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 546,
     "uikTvd": "453402170627",
+    "uikName": "УИК  546",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2459,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -4295,8 +5051,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 547,
     "uikTvd": "453402170628",
+    "uikName": "УИК  547",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2327,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -4346,8 +5111,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 548,
     "uikTvd": "453402170629",
+    "uikName": "УИК  548",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1503,
       "Число бюллетеней, полученных участковыми комиссиями": 1498,
@@ -4397,8 +5171,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 549,
     "uikTvd": "453402170630",
+    "uikName": "УИК  549",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1854,
       "Число бюллетеней, полученных участковыми комиссиями": 1846,
@@ -4448,8 +5231,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "453402170631",
+    "uikName": "УИК  550",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2483,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -4499,8 +5291,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "453400770710",
+    "uikName": "УИК №155",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -4550,8 +5351,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "453400770711",
+    "uikName": "УИК №156",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -4601,8 +5411,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "453400770712",
+    "uikName": "УИК №157",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -4652,8 +5471,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "453400770713",
+    "uikName": "УИК №158",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -4703,8 +5531,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "453400770714",
+    "uikName": "УИК №159",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4754,8 +5591,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "453400770715",
+    "uikName": "УИК №160",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -4805,8 +5651,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "453400770716",
+    "uikName": "УИК №161",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -4856,8 +5711,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "453400770717",
+    "uikName": "УИК №162",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 35,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -4907,8 +5771,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "453400770718",
+    "uikName": "УИК №163",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 207,
@@ -4958,8 +5831,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "453400770719",
+    "uikName": "УИК №164",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -5009,8 +5891,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "453400770720",
+    "uikName": "УИК №165",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -5060,8 +5951,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "453400770721",
+    "uikName": "УИК №166",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 332,
@@ -5111,8 +6011,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "453400770722",
+    "uikName": "УИК №167",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -5162,8 +6071,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "453400770723",
+    "uikName": "УИК №168",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 312,
@@ -5213,8 +6131,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "453400770724",
+    "uikName": "УИК №169",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 47,
       "Число бюллетеней, полученных участковыми комиссиями": 54,
@@ -5264,8 +6191,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "453400770725",
+    "uikName": "УИК №170",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 88,
@@ -5315,8 +6251,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "453400770726",
+    "uikName": "УИК №171",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 277,
@@ -5366,8 +6311,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "453400770727",
+    "uikName": "УИК №172",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -5417,8 +6371,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "453400770728",
+    "uikName": "УИК №173",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -5468,8 +6431,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "453400770729",
+    "uikName": "УИК №174",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1363,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5519,8 +6491,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "453400770730",
+    "uikName": "УИК №175",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2119,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -5570,8 +6551,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "453400770731",
+    "uikName": "УИК №176",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 393,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -5621,8 +6611,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "453400770732",
+    "uikName": "УИК №177",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1667,
       "Число бюллетеней, полученных участковыми комиссиями": 1665,
@@ -5672,8 +6671,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "453400670662",
+    "uikName": "УИК №139",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1549,
       "Число бюллетеней, полученных участковыми комиссиями": 1532,
@@ -5723,8 +6731,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "453400670663",
+    "uikName": "УИК №140",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1552,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -5774,8 +6791,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "453400670664",
+    "uikName": "УИК №141",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1687,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -5825,8 +6851,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "453400670665",
+    "uikName": "УИК №142",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1591,
       "Число бюллетеней, полученных участковыми комиссиями": 1591,
@@ -5876,8 +6911,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "453400670666",
+    "uikName": "УИК №143",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1570,
       "Число бюллетеней, полученных участковыми комиссиями": 1576,
@@ -5927,8 +6971,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "453400670667",
+    "uikName": "УИК №144",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -5978,8 +7031,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "453400670668",
+    "uikName": "УИК №145",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -6029,8 +7091,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "453400670669",
+    "uikName": "УИК №146",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 124,
@@ -6080,8 +7151,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "453400670670",
+    "uikName": "УИК №147",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 511,
@@ -6131,8 +7211,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "453400670671",
+    "uikName": "УИК №148",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 249,
@@ -6182,8 +7271,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "453400670672",
+    "uikName": "УИК №149",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -6233,8 +7331,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "453400670673",
+    "uikName": "УИК №150",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 588,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -6284,8 +7391,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "453400670674",
+    "uikName": "УИК №151",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -6335,8 +7451,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "453400670675",
+    "uikName": "УИК №152",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 551,
       "Число бюллетеней, полученных участковыми комиссиями": 547,
@@ -6386,8 +7511,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "453400670676",
+    "uikName": "УИК №153",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 308,
@@ -6437,8 +7571,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "453400670660",
+    "uikName": "УИК №154",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1064,
       "Число бюллетеней, полученных участковыми комиссиями": 1074,
@@ -6488,8 +7631,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "453400570665",
+    "uikName": "УИК  118",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6539,8 +7691,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "453400570666",
+    "uikName": "УИК  119",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -6590,8 +7751,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "453400570668",
+    "uikName": "УИК  120",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -6641,8 +7811,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "453400570669",
+    "uikName": "УИК  121",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 249,
@@ -6692,8 +7871,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "453400570670",
+    "uikName": "УИК  122",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -6743,8 +7931,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "453400570671",
+    "uikName": "УИК  123",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6794,8 +7991,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "453400570672",
+    "uikName": "УИК  124",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 81,
@@ -6845,8 +8051,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "453400570673",
+    "uikName": "УИК  125",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 276,
@@ -6896,8 +8111,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "453400570674",
+    "uikName": "УИК  126",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1302,
       "Число бюллетеней, полученных участковыми комиссиями": 1294,
@@ -6947,8 +8171,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "453400570675",
+    "uikName": "УИК  127",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -6998,8 +8231,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "453400570676",
+    "uikName": "УИК  128",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -7049,8 +8291,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "453400570677",
+    "uikName": "УИК  129",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 477,
@@ -7100,8 +8351,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "453400570678",
+    "uikName": "УИК  130",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -7151,8 +8411,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "453400570679",
+    "uikName": "УИК  131",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -7202,8 +8471,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "453400570680",
+    "uikName": "УИК  132",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7253,8 +8531,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "453400570681",
+    "uikName": "УИК  133",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 521,
@@ -7304,8 +8591,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "453400570682",
+    "uikName": "УИК  134",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -7355,8 +8651,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "453400570683",
+    "uikName": "УИК  135",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 639,
       "Число бюллетеней, полученных участковыми комиссиями": 644,
@@ -7406,8 +8711,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "453400570684",
+    "uikName": "УИК  136",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1497,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -7457,8 +8771,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "453400570685",
+    "uikName": "УИК  137",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2028,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7508,8 +8831,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "453400570686",
+    "uikName": "УИК  138",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2460,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7559,8 +8891,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "453400470637",
+    "uikName": "УИК №106",
     "tikTvd": "253200070468",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1550,
       "Число бюллетеней, полученных участковыми комиссиями": 1552,
@@ -7610,8 +8951,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "453400470639",
+    "uikName": "УИК №107",
     "tikTvd": "253200070468",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -7661,8 +9011,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "453400470640",
+    "uikName": "УИК №108",
     "tikTvd": "253200070468",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 71,
       "Число бюллетеней, полученных участковыми комиссиями": 73,
@@ -7712,8 +9071,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "453400470641",
+    "uikName": "УИК №109",
     "tikTvd": "253200070468",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -7763,8 +9131,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "453400470642",
+    "uikName": "УИК №110",
     "tikTvd": "253200070468",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 176,
@@ -7814,8 +9191,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "453400470643",
+    "uikName": "УИК №111",
     "tikTvd": "253200070468",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 312,
@@ -7865,8 +9251,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "453400470644",
+    "uikName": "УИК №112",
     "tikTvd": "253200070468",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -7916,8 +9311,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "453400470645",
+    "uikName": "УИК №113",
     "tikTvd": "253200070468",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 222,
@@ -7967,8 +9371,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "453400470646",
+    "uikName": "УИК №114",
     "tikTvd": "253200070468",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 411,
@@ -8018,8 +9431,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "453400470647",
+    "uikName": "УИК №115",
     "tikTvd": "253200070468",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -8069,8 +9491,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "453400470648",
+    "uikName": "УИК №116",
     "tikTvd": "253200070468",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 306,
@@ -8120,8 +9551,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "453400470649",
+    "uikName": "УИК №117",
     "tikTvd": "253200070468",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -8171,8 +9611,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "453400370688",
+    "uikName": "УИК №75",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1921,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -8222,8 +9671,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "453400370689",
+    "uikName": "УИК №76",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1634,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8273,8 +9731,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "453400370690",
+    "uikName": "УИК №77",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1811,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -8324,8 +9791,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "453400370691",
+    "uikName": "УИК №78",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1150,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -8375,8 +9851,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "453400370692",
+    "uikName": "УИК №79",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1620,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -8426,8 +9911,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "453400370693",
+    "uikName": "УИК №80",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1057,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -8477,8 +9971,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "453400370694",
+    "uikName": "УИК №81",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1099,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8528,8 +10031,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "453400370695",
+    "uikName": "УИК №82",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1198,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8579,8 +10091,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "453400370696",
+    "uikName": "УИК №83",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 712,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8630,8 +10151,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "453400370697",
+    "uikName": "УИК №84",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -8681,8 +10211,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "453400370698",
+    "uikName": "УИК №85",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -8732,8 +10271,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "453400370699",
+    "uikName": "УИК №86",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -8783,8 +10331,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "453400370700",
+    "uikName": "УИК №87",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1133,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -8834,8 +10391,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "453400370701",
+    "uikName": "УИК №88",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -8885,8 +10451,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "453400370702",
+    "uikName": "УИК №89",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 805,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -8936,8 +10511,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "453400370703",
+    "uikName": "УИК №90",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 449,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -8987,8 +10571,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "453400370704",
+    "uikName": "УИК №91",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -9038,8 +10631,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "453400370705",
+    "uikName": "УИК №92",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -9089,8 +10691,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "453400370706",
+    "uikName": "УИК №93",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -9140,8 +10751,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "453400370707",
+    "uikName": "УИК №94",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -9191,8 +10811,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "453400370708",
+    "uikName": "УИК №95",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -9242,8 +10871,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "453400370709",
+    "uikName": "УИК №96",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -9293,8 +10931,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "453400370710",
+    "uikName": "УИК №97",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -9344,8 +10991,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "453400370711",
+    "uikName": "УИК №98",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -9395,8 +11051,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "453400370712",
+    "uikName": "УИК №99",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 832,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -9446,8 +11111,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "453400370713",
+    "uikName": "УИК №100",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 465,
@@ -9497,8 +11171,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "453400370714",
+    "uikName": "УИК №101",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -9548,8 +11231,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "453400370715",
+    "uikName": "УИК №102",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1579,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -9599,8 +11291,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "453400370716",
+    "uikName": "УИК №103",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -9650,8 +11351,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "453400370717",
+    "uikName": "УИК №104",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 990,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -9701,8 +11411,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "453400370718",
+    "uikName": "УИК №105",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -9752,8 +11471,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "453400170736",
+    "uikName": "УИК №1",
     "tikTvd": "253200070470",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1914,
       "Число бюллетеней, полученных участковыми комиссиями": 1921,
@@ -9803,8 +11531,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "453400170737",
+    "uikName": "УИК №2",
     "tikTvd": "253200070470",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 432,
@@ -9854,8 +11591,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "453400170738",
+    "uikName": "УИК №3",
     "tikTvd": "253200070470",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -9905,8 +11651,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "453400170739",
+    "uikName": "УИК №4",
     "tikTvd": "253200070470",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 214,
@@ -9956,8 +11711,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "453400170740",
+    "uikName": "УИК №5",
     "tikTvd": "253200070470",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 529,
@@ -10007,8 +11771,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "453400170741",
+    "uikName": "УИК №6",
     "tikTvd": "253200070470",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 233,
@@ -10058,8 +11831,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "453400170742",
+    "uikName": "УИК №7",
     "tikTvd": "253200070470",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 384,
@@ -10109,8 +11891,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "453400170743",
+    "uikName": "УИК №8",
     "tikTvd": "253200070470",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 261,
@@ -10160,8 +11951,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "453400170744",
+    "uikName": "УИК №9",
     "tikTvd": "253200070470",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 288,
@@ -10211,8 +12011,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "453400170745",
+    "uikName": "УИК №10",
     "tikTvd": "253200070470",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -10262,8 +12071,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "453400170746",
+    "uikName": "УИК №11",
     "tikTvd": "253200070470",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -10313,8 +12131,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "453400170733",
+    "uikName": "УИК №12",
     "tikTvd": "253200070470",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 522,
       "Число бюллетеней, полученных участковыми комиссиями": 523,
@@ -10364,8 +12191,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "453400270725",
+    "uikName": "УИК №13",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1955,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -10415,8 +12251,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "453400270726",
+    "uikName": "УИК №14",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1097,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10466,8 +12311,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "453400270727",
+    "uikName": "УИК №15",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1280,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -10517,8 +12371,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "453400270728",
+    "uikName": "УИК №16",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1402,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10568,8 +12431,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "453400270729",
+    "uikName": "УИК №17",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1702,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -10619,8 +12491,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "453400270730",
+    "uikName": "УИК №18",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -10670,8 +12551,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "453400270731",
+    "uikName": "УИК №19",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1237,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -10721,8 +12611,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "453400270732",
+    "uikName": "УИК №20",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1833,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -10772,8 +12671,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "453400270733",
+    "uikName": "УИК №21",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1366,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -10823,8 +12731,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "453400270734",
+    "uikName": "УИК №22",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1104,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10874,8 +12791,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "453400270735",
+    "uikName": "УИК №23",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1026,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -10925,8 +12851,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "453400270736",
+    "uikName": "УИК №24",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1597,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -10976,8 +12911,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "453400270737",
+    "uikName": "УИК №25",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 995,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -11027,8 +12971,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "453400270738",
+    "uikName": "УИК №26",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1687,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -11078,8 +13031,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "453400270739",
+    "uikName": "УИК №27",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -11129,8 +13091,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "453400270740",
+    "uikName": "УИК №28",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1313,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -11180,8 +13151,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "453400270741",
+    "uikName": "УИК №29",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2220,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -11231,8 +13211,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "453400270742",
+    "uikName": "УИК №30",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1836,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11282,8 +13271,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "453400270743",
+    "uikName": "УИК №31",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 659,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -11333,8 +13331,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "453400270744",
+    "uikName": "УИК №32",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1175,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -11384,8 +13391,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "453400270745",
+    "uikName": "УИК №33",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1698,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11435,8 +13451,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "453400270746",
+    "uikName": "УИК №34",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1132,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -11486,8 +13511,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "453400270747",
+    "uikName": "УИК №35",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1217,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11537,8 +13571,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "453400270748",
+    "uikName": "УИК №36",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2060,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -11588,8 +13631,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "453400270749",
+    "uikName": "УИК №37",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1118,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -11639,8 +13691,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "453400270750",
+    "uikName": "УИК №38",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1101,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -11690,8 +13751,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "453400270751",
+    "uikName": "УИК №39",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1149,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -11741,8 +13811,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "453400270752",
+    "uikName": "УИК №40",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1902,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -11792,8 +13871,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "453400270753",
+    "uikName": "УИК №41",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1631,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -11843,8 +13931,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "453400270754",
+    "uikName": "УИК №42",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2058,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11894,8 +13991,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "453400270755",
+    "uikName": "УИК №43",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1999,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -11945,8 +14051,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "453400270756",
+    "uikName": "УИК №44",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 972,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -11996,8 +14111,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "453400270757",
+    "uikName": "УИК №45",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1935,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -12047,8 +14171,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "453400270758",
+    "uikName": "УИК №46",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 528,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -12098,8 +14231,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "453400270759",
+    "uikName": "УИК №47",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -12149,8 +14291,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "453400270760",
+    "uikName": "УИК №48",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -12200,8 +14351,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "453400270761",
+    "uikName": "УИК №49",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1056,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -12251,8 +14411,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "453400270762",
+    "uikName": "УИК №50",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -12302,8 +14471,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "453400270763",
+    "uikName": "УИК №51",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -12353,8 +14531,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "453400270764",
+    "uikName": "УИК №52",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 385,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -12404,8 +14591,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "453400270765",
+    "uikName": "УИК №53",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -12455,8 +14651,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "453400270766",
+    "uikName": "УИК №54",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1511,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -12506,8 +14711,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "453400270767",
+    "uikName": "УИК №55",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 850,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -12557,8 +14771,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "453400270768",
+    "uikName": "УИК №56",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -12608,8 +14831,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "453400270769",
+    "uikName": "УИК №57",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -12659,8 +14891,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "453400270770",
+    "uikName": "УИК №58",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 475,
@@ -12710,8 +14951,17 @@ export const duma_2003_uik_428_region_53_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "453400270771",
+    "uikName": "УИК №59",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
+    "district": {
+      "districtNumber": 123,
+      "oikTvd": "100100095931",
+      "oikName": "Новгородский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 410,

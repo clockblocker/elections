@@ -7,6541 +7,16351 @@ export const duma_2003_uik_to_tik_region_29 = [
   {
     "uikNumber": 1,
     "uikTvd": "429400270433",
+    "uikName": "УИК №1",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "429400270434",
+    "uikName": "УИК №2",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "429400270435",
+    "uikName": "УИК №3",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "429400270436",
+    "uikName": "УИК №4",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "429400270437",
+    "uikName": "УИК №5",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "429400270438",
+    "uikName": "УИК №6",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "429400270439",
+    "uikName": "УИК №7",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "429400270440",
+    "uikName": "УИК №8",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "429400270441",
+    "uikName": "УИК №9",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "429400270442",
+    "uikName": "УИК №10",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "429400270443",
+    "uikName": "УИК №11",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "429400270444",
+    "uikName": "УИК №12",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "429400270445",
+    "uikName": "УИК №13",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "429400270446",
+    "uikName": "УИК №14",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "429400270447",
+    "uikName": "УИК №15",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "429400270448",
+    "uikName": "УИК №16",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "429400270449",
+    "uikName": "УИК №17",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "429400270450",
+    "uikName": "УИК №18",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "429400270451",
+    "uikName": "УИК №19",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "429400270452",
+    "uikName": "УИК №20",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "429400270453",
+    "uikName": "УИК №21",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "429400270454",
+    "uikName": "УИК №22",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "429400270455",
+    "uikName": "УИК №23",
     "tikTvd": "229200070509",
-    "tikName": "Архангельск, Исакогорская"
+    "tikName": "Архангельск, Исакогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "429400570446",
+    "uikName": "УИК №24",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "429400570447",
+    "uikName": "УИК №25",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "429400570448",
+    "uikName": "УИК №26",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "429400570449",
+    "uikName": "УИК №27",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "429400570450",
+    "uikName": "УИК №28",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "429400570451",
+    "uikName": "УИК №29",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "429400570452",
+    "uikName": "УИК №30",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "429400570453",
+    "uikName": "УИК №31",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "429400570454",
+    "uikName": "УИК №32",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "429400570455",
+    "uikName": "УИК №33",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "429400570456",
+    "uikName": "УИК №34",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "429400570457",
+    "uikName": "УИК №35",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "429400570458",
+    "uikName": "УИК №36",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "429400570459",
+    "uikName": "УИК №37",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "429400570460",
+    "uikName": "УИК №38",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "429400570461",
+    "uikName": "УИК №39",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "429400570462",
+    "uikName": "УИК №40",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "429400570463",
+    "uikName": "УИК №41",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "429400570464",
+    "uikName": "УИК №42",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "429400570465",
+    "uikName": "УИК №43",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "429400570466",
+    "uikName": "УИК №44",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "429400570467",
+    "uikName": "УИК №45",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "429400570468",
+    "uikName": "УИК №46",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "429400570469",
+    "uikName": "УИК №47",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "429400570470",
+    "uikName": "УИК №48",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "429400570471",
+    "uikName": "УИК №49",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "429400570472",
+    "uikName": "УИК №50",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "429400570473",
+    "uikName": "УИК №51",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "429400170432",
+    "uikName": "УИК №52",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "429400170433",
+    "uikName": "УИК №53",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "429400170434",
+    "uikName": "УИК №54",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "429400170435",
+    "uikName": "УИК №55",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "429400170436",
+    "uikName": "УИК №56",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "429400170437",
+    "uikName": "УИК №57",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "429400170438",
+    "uikName": "УИК №58",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "429400170439",
+    "uikName": "УИК №59",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "429400170440",
+    "uikName": "УИК №60",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "429400170441",
+    "uikName": "УИК №61",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "429400170442",
+    "uikName": "УИК №62",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "429400170443",
+    "uikName": "УИК №63",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "429400170444",
+    "uikName": "УИК №64",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "429400170445",
+    "uikName": "УИК №65",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "429400170446",
+    "uikName": "УИК №66",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "429400170447",
+    "uikName": "УИК №67",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "429400170448",
+    "uikName": "УИК №68",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "429400170449",
+    "uikName": "УИК №69",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "429400170450",
+    "uikName": "УИК №70",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "429400170451",
+    "uikName": "УИК №71",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "429400170452",
+    "uikName": "УИК №72",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "429400170453",
+    "uikName": "УИК №73",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "429400170454",
+    "uikName": "УИК №74",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "429400170455",
+    "uikName": "УИК №75",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "429400170456",
+    "uikName": "УИК №76",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "429400170457",
+    "uikName": "УИК №77",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "429400170458",
+    "uikName": "УИК №78",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "429400170459",
+    "uikName": "УИК №79",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "429400170460",
+    "uikName": "УИК №80",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "429400170515",
+    "uikName": "УИК №81",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "429400170516",
+    "uikName": "УИК №82",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "429400170517",
+    "uikName": "УИК №83",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "429400170518",
+    "uikName": "УИК №84",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "429400170519",
+    "uikName": "УИК №85",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "429400170520",
+    "uikName": "УИК №86",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "429400170521",
+    "uikName": "УИК №87",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "429400170522",
+    "uikName": "УИК №88",
     "tikTvd": "229200070507",
-    "tikName": "Архангельск, Октябрьская"
+    "tikName": "Архангельск, Октябрьская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "429400470474",
+    "uikName": "УИК №89",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "429400470475",
+    "uikName": "УИК №90",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "429400470476",
+    "uikName": "УИК №91",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "429400470477",
+    "uikName": "УИК №92",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "429400470478",
+    "uikName": "УИК №93",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "429400470479",
+    "uikName": "УИК №94",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "429400470480",
+    "uikName": "УИК №95",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "429400470481",
+    "uikName": "УИК №96",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "429400470482",
+    "uikName": "УИК №97",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "429400470483",
+    "uikName": "УИК №98",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "429400470484",
+    "uikName": "УИК №99",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "429400470485",
+    "uikName": "УИК №100",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "429400470486",
+    "uikName": "УИК №101",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "429400470487",
+    "uikName": "УИК №102",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "429400470488",
+    "uikName": "УИК №103",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "429400470489",
+    "uikName": "УИК №104",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "429400470490",
+    "uikName": "УИК №105",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "429400470491",
+    "uikName": "УИК №106",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "429400470492",
+    "uikName": "УИК №107",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "429400470493",
+    "uikName": "УИК №108",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "429400470494",
+    "uikName": "УИК №109",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "429400470495",
+    "uikName": "УИК №110",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "429400470496",
+    "uikName": "УИК №111",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "429400470497",
+    "uikName": "УИК №112",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "429400470498",
+    "uikName": "УИК №113",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "429400470499",
+    "uikName": "УИК №114",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "429400470500",
+    "uikName": "УИК №115",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "429400470501",
+    "uikName": "УИК №116",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "429400470502",
+    "uikName": "УИК №117",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "429400470503",
+    "uikName": "УИК №118",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "429400470504",
+    "uikName": "УИК №119",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "429400470505",
+    "uikName": "УИК №120",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "429400470506",
+    "uikName": "УИК №121",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "429400470507",
+    "uikName": "УИК №122",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "429400470508",
+    "uikName": "УИК №123",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "429400470509",
+    "uikName": "УИК №124",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "429400470510",
+    "uikName": "УИК №125",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "429400470511",
+    "uikName": "УИК №126",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "429400470512",
+    "uikName": "УИК №127",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "429400470513",
+    "uikName": "УИК №128",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "429400470514",
+    "uikName": "УИК №129",
     "tikTvd": "229200070506",
-    "tikName": "Архангельск, Соломбальская"
+    "tikName": "Архангельск, Соломбальская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "429400670416",
+    "uikName": "УИК №130",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "429400670417",
+    "uikName": "УИК №131",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "429400670418",
+    "uikName": "УИК №132",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "429400670419",
+    "uikName": "УИК №133",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "429400670420",
+    "uikName": "УИК №134",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "429400670421",
+    "uikName": "УИК №135",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "429400670422",
+    "uikName": "УИК №136",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "429400670423",
+    "uikName": "УИК №137",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "429400670424",
+    "uikName": "УИК №138",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "429400670425",
+    "uikName": "УИК №139",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "429400670426",
+    "uikName": "УИК №140",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "429400670427",
+    "uikName": "УИК №141",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "429400670428",
+    "uikName": "УИК №142",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "429400670429",
+    "uikName": "УИК №143",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "429400670430",
+    "uikName": "УИК №144",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "429400670431",
+    "uikName": "УИК №145",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "429400670432",
+    "uikName": "УИК №146",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "429400670433",
+    "uikName": "УИК №147",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "429400670434",
+    "uikName": "УИК №148",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "429400670435",
+    "uikName": "УИК №149",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "429400670436",
+    "uikName": "УИК №150",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "429400670437",
+    "uikName": "УИК №151",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "429400670438",
+    "uikName": "УИК №152",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "429400670439",
+    "uikName": "УИК №153",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "429400670440",
+    "uikName": "УИК №154",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "429400670441",
+    "uikName": "УИК №155",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "429400670442",
+    "uikName": "УИК №156",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "429400670443",
+    "uikName": "УИК №157",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "429400670444",
+    "uikName": "УИК №158",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "429401070510",
+    "uikName": "УИК №159",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "429401070511",
+    "uikName": "УИК №160",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "429401070512",
+    "uikName": "УИК №161",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "429401070513",
+    "uikName": "УИК №162",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "429401070514",
+    "uikName": "УИК №163",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "429401070515",
+    "uikName": "УИК №164",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "429401070516",
+    "uikName": "УИК №165",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "429401070517",
+    "uikName": "УИК №166",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "429401070518",
+    "uikName": "УИК №167",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "429401070519",
+    "uikName": "УИК №168",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "429401070520",
+    "uikName": "УИК №169",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "429401070521",
+    "uikName": "УИК №170",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "429401070522",
+    "uikName": "УИК №171",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "429401070523",
+    "uikName": "УИК №172",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "429401070524",
+    "uikName": "УИК №173",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "429401070525",
+    "uikName": "УИК №174",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "429401070526",
+    "uikName": "УИК №175",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "429401070527",
+    "uikName": "УИК №176",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "429401070528",
+    "uikName": "УИК №177",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "429401070529",
+    "uikName": "УИК №178",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "429401070530",
+    "uikName": "УИК №179",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "429401070531",
+    "uikName": "УИК №180",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "429401070532",
+    "uikName": "УИК №181",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "429401070533",
+    "uikName": "УИК №182",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "429401070534",
+    "uikName": "УИК №183",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "429401070535",
+    "uikName": "УИК №184",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "429401070536",
+    "uikName": "УИК №185",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "429401070537",
+    "uikName": "УИК №186",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "429401070538",
+    "uikName": "УИК №187",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "429401070539",
+    "uikName": "УИК №188",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "429401070540",
+    "uikName": "УИК №189",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "429401070541",
+    "uikName": "УИК №190",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "429401070542",
+    "uikName": "УИК №191",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "429401070543",
+    "uikName": "УИК №192",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "429401070544",
+    "uikName": "УИК №193",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "429401070545",
+    "uikName": "УИК №194",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "429401070546",
+    "uikName": "УИК №195",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "429401070547",
+    "uikName": "УИК №196",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "429401070548",
+    "uikName": "УИК №197",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "429401070549",
+    "uikName": "УИК №198",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "429401070550",
+    "uikName": "УИК №199",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "429401070551",
+    "uikName": "УИК №200",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "429401070552",
+    "uikName": "УИК №201",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "429401070553",
+    "uikName": "УИК №202",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "429401070554",
+    "uikName": "УИК №203",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "429401070555",
+    "uikName": "УИК №204",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "429401070556",
+    "uikName": "УИК №205",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "429401070557",
+    "uikName": "УИК №206",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "429401070558",
+    "uikName": "УИК №207",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "429401070559",
+    "uikName": "УИК №208",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "429401070560",
+    "uikName": "УИК №209",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "429401070561",
+    "uikName": "УИК №210",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "429401070562",
+    "uikName": "УИК №211",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "429401070563",
+    "uikName": "УИК №212",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "429401070564",
+    "uikName": "УИК №213",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "429401070565",
+    "uikName": "УИК №214",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "429401070566",
+    "uikName": "УИК №215",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "429401070567",
+    "uikName": "УИК №216",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "429401070568",
+    "uikName": "УИК №217",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "429401070569",
+    "uikName": "УИК №218",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "429401070570",
+    "uikName": "УИК №219",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "429401070571",
+    "uikName": "УИК №220",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "429401070572",
+    "uikName": "УИК №221",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "429401070573",
+    "uikName": "УИК №222",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "429401070574",
+    "uikName": "УИК №223",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "429401070575",
+    "uikName": "УИК №224",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "429401070576",
+    "uikName": "УИК №225",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "429401070577",
+    "uikName": "УИК №226",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "429401070578",
+    "uikName": "УИК №227",
     "tikTvd": "329300271178",
-    "tikName": "Вельская"
+    "tikName": "Вельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "429401170498",
+    "uikName": "УИК №228",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "429401170499",
+    "uikName": "УИК №229",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "429401170500",
+    "uikName": "УИК №230",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "429401170501",
+    "uikName": "УИК №231",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "429401170502",
+    "uikName": "УИК №232",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "429401170503",
+    "uikName": "УИК №233",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "429401170504",
+    "uikName": "УИК №234",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "429401170505",
+    "uikName": "УИК №235",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "429401170506",
+    "uikName": "УИК №236",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "429401170507",
+    "uikName": "УИК №237",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "429401170508",
+    "uikName": "УИК №238",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "429401170509",
+    "uikName": "УИК №239",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "429401170510",
+    "uikName": "УИК №240",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "429401170511",
+    "uikName": "УИК №241",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "429401170512",
+    "uikName": "УИК №242",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "429401170513",
+    "uikName": "УИК №243",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "429401170514",
+    "uikName": "УИК №244",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "429401170515",
+    "uikName": "УИК №245",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "429401170516",
+    "uikName": "УИК №246",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "429401170517",
+    "uikName": "УИК №247",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "429401170518",
+    "uikName": "УИК №248",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "429401170519",
+    "uikName": "УИК №249",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "429401170520",
+    "uikName": "УИК №250",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "429401170521",
+    "uikName": "УИК №251",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "429401170522",
+    "uikName": "УИК №252",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "429401170523",
+    "uikName": "УИК №253",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "429401170524",
+    "uikName": "УИК №254",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "429401170525",
+    "uikName": "УИК №255",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "429401170526",
+    "uikName": "УИК №256",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "429401170527",
+    "uikName": "УИК №257",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "429401170528",
+    "uikName": "УИК №258",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "429401170529",
+    "uikName": "УИК №259",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "429401170530",
+    "uikName": "УИК №260",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "429401170531",
+    "uikName": "УИК №261",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "429401170532",
+    "uikName": "УИК №262",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "429401170533",
+    "uikName": "УИК №263",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "429401170534",
+    "uikName": "УИК №264",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "429401170535",
+    "uikName": "УИК №265",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "429401170536",
+    "uikName": "УИК №266",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "429401170537",
+    "uikName": "УИК №267",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "429401170538",
+    "uikName": "УИК №268",
     "tikTvd": "229200070534",
-    "tikName": "Верхнетоемская"
+    "tikName": "Верхнетоемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "429401270379",
+    "uikName": "УИК №269",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "429401270380",
+    "uikName": "УИК №270",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "429401270381",
+    "uikName": "УИК №271",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "429401270382",
+    "uikName": "УИК №272",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "429401270383",
+    "uikName": "УИК №273",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "429401270384",
+    "uikName": "УИК №274",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "429401270385",
+    "uikName": "УИК №275",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "429401270386",
+    "uikName": "УИК №276",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "429401270387",
+    "uikName": "УИК №277",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "429401270388",
+    "uikName": "УИК №278",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "429401270389",
+    "uikName": "УИК №279",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "429401270390",
+    "uikName": "УИК №280",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "429401270391",
+    "uikName": "УИК №281",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "429401270392",
+    "uikName": "УИК №282",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "429401270393",
+    "uikName": "УИК №283",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "429401270394",
+    "uikName": "УИК №284",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "429401270395",
+    "uikName": "УИК №285",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "429401270396",
+    "uikName": "УИК №286",
     "tikTvd": "229200070533",
-    "tikName": "Вилегодская"
+    "tikName": "Вилегодская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "429401370990",
+    "uikName": "УИК №287",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "429401370991",
+    "uikName": "УИК №288",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "429401370992",
+    "uikName": "УИК №289",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "429401370993",
+    "uikName": "УИК №290",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "429401370994",
+    "uikName": "УИК №291",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "429401370995",
+    "uikName": "УИК №292",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "429401370996",
+    "uikName": "УИК №293",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "429401370997",
+    "uikName": "УИК №294",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "429401370998",
+    "uikName": "УИК №295",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "429401370999",
+    "uikName": "УИК №296",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "429401371000",
+    "uikName": "УИК №297",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "429401371001",
+    "uikName": "УИК №298",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "429401371002",
+    "uikName": "УИК №299",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "429401371003",
+    "uikName": "УИК №300",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "429401371004",
+    "uikName": "УИК №301",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "429401371005",
+    "uikName": "УИК №302",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "429401371006",
+    "uikName": "УИК №303",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "429401371007",
+    "uikName": "УИК №304",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "429401371008",
+    "uikName": "УИК №305",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "429401371009",
+    "uikName": "УИК №306",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "429401371010",
+    "uikName": "УИК №307",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "429401371011",
+    "uikName": "УИК №308",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "429401371012",
+    "uikName": "УИК №309",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "429401371013",
+    "uikName": "УИК №310",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "429401371014",
+    "uikName": "УИК №311",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "429401371015",
+    "uikName": "УИК №312",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "429401371016",
+    "uikName": "УИК №313",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "429401371017",
+    "uikName": "УИК №314",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "429401371018",
+    "uikName": "УИК №315",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "429401371019",
+    "uikName": "УИК №316",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "429401371179",
+    "uikName": "УИК №317",
     "tikTvd": "229200070532",
-    "tikName": "Виноградовская"
+    "tikName": "Виноградовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "429401470814",
+    "uikName": "УИК №318",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "429401470815",
+    "uikName": "УИК №319",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "429401470816",
+    "uikName": "УИК №320",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "429401470817",
+    "uikName": "УИК №321",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "429401470818",
+    "uikName": "УИК №322",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "429401470819",
+    "uikName": "УИК №323",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "429401470820",
+    "uikName": "УИК №324",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "429401470821",
+    "uikName": "УИК №325",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "429401470822",
+    "uikName": "УИК №326",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "429401470823",
+    "uikName": "УИК №327",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "429401470824",
+    "uikName": "УИК №328",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "429401470825",
+    "uikName": "УИК №329",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "429401470826",
+    "uikName": "УИК №330",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "429401470827",
+    "uikName": "УИК №331",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "429401470828",
+    "uikName": "УИК №332",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "429401470829",
+    "uikName": "УИК №333",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "429401470830",
+    "uikName": "УИК №334",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "429401470831",
+    "uikName": "УИК №335",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "429401470832",
+    "uikName": "УИК №336",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "429401470833",
+    "uikName": "УИК №337",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "429401470834",
+    "uikName": "УИК №338",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "429401470835",
+    "uikName": "УИК №339",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "429401470836",
+    "uikName": "УИК №340",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "429401470837",
+    "uikName": "УИК №341",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "429401470838",
+    "uikName": "УИК №342",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "429401470839",
+    "uikName": "УИК №343",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "429401470840",
+    "uikName": "УИК №344",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "429401470841",
+    "uikName": "УИК №345",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "429401470842",
+    "uikName": "УИК №346",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "429401470843",
+    "uikName": "УИК №347",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "429401470844",
+    "uikName": "УИК №348",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "429401470845",
+    "uikName": "УИК №349",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "429401470846",
+    "uikName": "УИК №350",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "429401470847",
+    "uikName": "УИК №351",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "429401470848",
+    "uikName": "УИК №352",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "429401470849",
+    "uikName": "УИК №353",
     "tikTvd": "229200070531",
-    "tikName": "Каргопольская"
+    "tikName": "Каргопольская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "429401570566",
+    "uikName": "УИК №354",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "429401570567",
+    "uikName": "УИК №355",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "429401570568",
+    "uikName": "УИК №356",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "429401570569",
+    "uikName": "УИК №357",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "429401570570",
+    "uikName": "УИК №358",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "429401570571",
+    "uikName": "УИК №359",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "429401570572",
+    "uikName": "УИК №360",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "429401570573",
+    "uikName": "УИК №361",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "429401570574",
+    "uikName": "УИК №362",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "429401570575",
+    "uikName": "УИК №363",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "429401570576",
+    "uikName": "УИК №364",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "429401570577",
+    "uikName": "УИК №365",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "429401570578",
+    "uikName": "УИК №366",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "429401570579",
+    "uikName": "УИК №367",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "429401570580",
+    "uikName": "УИК №368",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "429401570581",
+    "uikName": "УИК №369",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "429401570582",
+    "uikName": "УИК №370",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "429401570583",
+    "uikName": "УИК №371",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "429401570584",
+    "uikName": "УИК №372",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "429401570585",
+    "uikName": "УИК №373",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "429401570586",
+    "uikName": "УИК №374",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "429401570587",
+    "uikName": "УИК №375",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "429401570588",
+    "uikName": "УИК №376",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "429401570589",
+    "uikName": "УИК №377",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "429401570590",
+    "uikName": "УИК №378",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "429401570591",
+    "uikName": "УИК №379",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "429401570592",
+    "uikName": "УИК №380",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "429401570593",
+    "uikName": "УИК №381",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "429401570594",
+    "uikName": "УИК №382",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "429401570595",
+    "uikName": "УИК №383",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "429401570596",
+    "uikName": "УИК №384",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "429401570597",
+    "uikName": "УИК №385",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "429401570598",
+    "uikName": "УИК №386",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "429401570599",
+    "uikName": "УИК №387",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "429401570600",
+    "uikName": "УИК №388",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "429401570601",
+    "uikName": "УИК №389",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "429401570602",
+    "uikName": "УИК №390",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "429401570603",
+    "uikName": "УИК №391",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "429401570604",
+    "uikName": "УИК №392",
     "tikTvd": "229200070530",
-    "tikName": "Коношская"
+    "tikName": "Коношская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "429401670411",
+    "uikName": "УИК №393",
     "tikTvd": "229200070529",
-    "tikName": "Коряжемская"
+    "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "429401670412",
+    "uikName": "УИК №394",
     "tikTvd": "229200070529",
-    "tikName": "Коряжемская"
+    "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "429401670413",
+    "uikName": "УИК №395",
     "tikTvd": "229200070529",
-    "tikName": "Коряжемская"
+    "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "429401670414",
+    "uikName": "УИК №396",
     "tikTvd": "229200070529",
-    "tikName": "Коряжемская"
+    "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "429401670415",
+    "uikName": "УИК №397",
     "tikTvd": "229200070529",
-    "tikName": "Коряжемская"
+    "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "429401670416",
+    "uikName": "УИК №398",
     "tikTvd": "229200070529",
-    "tikName": "Коряжемская"
+    "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "429401670417",
+    "uikName": "УИК №399",
     "tikTvd": "229200070529",
-    "tikName": "Коряжемская"
+    "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "429401670418",
+    "uikName": "УИК №400",
     "tikTvd": "229200070529",
-    "tikName": "Коряжемская"
+    "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "429401670419",
+    "uikName": "УИК №401",
     "tikTvd": "229200070529",
-    "tikName": "Коряжемская"
+    "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "429401670420",
+    "uikName": "УИК №402",
     "tikTvd": "229200070529",
-    "tikName": "Коряжемская"
+    "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "429401670421",
+    "uikName": "УИК №403",
     "tikTvd": "229200070529",
-    "tikName": "Коряжемская"
+    "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "429401670422",
+    "uikName": "УИК №404",
     "tikTvd": "229200070529",
-    "tikName": "Коряжемская"
+    "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "429401670423",
+    "uikName": "УИК №405",
     "tikTvd": "229200070529",
-    "tikName": "Коряжемская"
+    "tikName": "Коряжемская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "429401770520",
+    "uikName": "УИК №406",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "429401770521",
+    "uikName": "УИК №407",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "429401770522",
+    "uikName": "УИК №408",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "429401770523",
+    "uikName": "УИК №409",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "429401770524",
+    "uikName": "УИК №410",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "429401770525",
+    "uikName": "УИК №411",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "429401770526",
+    "uikName": "УИК №412",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "429401770527",
+    "uikName": "УИК №413",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "429401770528",
+    "uikName": "УИК №414",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "429401770529",
+    "uikName": "УИК №415",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "429401770530",
+    "uikName": "УИК №416",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "429401770531",
+    "uikName": "УИК №417",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "429401770532",
+    "uikName": "УИК №418",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "429401770533",
+    "uikName": "УИК №419",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "429401770534",
+    "uikName": "УИК №420",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "429401770535",
+    "uikName": "УИК №421",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "429401770536",
+    "uikName": "УИК №422",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "429401770537",
+    "uikName": "УИК №423",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "429401770538",
+    "uikName": "УИК №424",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "429401770539",
+    "uikName": "УИК №425",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "429401770540",
+    "uikName": "УИК №426",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "429401770541",
+    "uikName": "УИК №427",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "429401770542",
+    "uikName": "УИК №428",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "429401770543",
+    "uikName": "УИК №429",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "429401770544",
+    "uikName": "УИК №430",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "429401770545",
+    "uikName": "УИК №431",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "429401770546",
+    "uikName": "УИК №432",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "429401770547",
+    "uikName": "УИК №433",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "429401770548",
+    "uikName": "УИК №434",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "429401770549",
+    "uikName": "УИК №435",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "429401770550",
+    "uikName": "УИК №436",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "429401770551",
+    "uikName": "УИК №437",
     "tikTvd": "329300271291",
-    "tikName": "Котласская городская"
+    "tikName": "Котласская городская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "429400970547",
+    "uikName": "УИК №438",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "429400970548",
+    "uikName": "УИК №439",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "429400970549",
+    "uikName": "УИК №440",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "429400970550",
+    "uikName": "УИК №441",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "429400970551",
+    "uikName": "УИК №442",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "429400970552",
+    "uikName": "УИК №443",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "429400970553",
+    "uikName": "УИК №444",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "429400970554",
+    "uikName": "УИК №445",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "429400970555",
+    "uikName": "УИК №446",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "429400970556",
+    "uikName": "УИК №447",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "429400970557",
+    "uikName": "УИК №448",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "429400970558",
+    "uikName": "УИК №449",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "429400970559",
+    "uikName": "УИК №450",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "429400970560",
+    "uikName": "УИК №451",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "429400970561",
+    "uikName": "УИК №452",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "429400970562",
+    "uikName": "УИК №453",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "429400970563",
+    "uikName": "УИК №454",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "429400970564",
+    "uikName": "УИК №455",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "429400970565",
+    "uikName": "УИК №456",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "429400970566",
+    "uikName": "УИК №457",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "429400970567",
+    "uikName": "УИК №458",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "429400970568",
+    "uikName": "УИК №459",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "429400970569",
+    "uikName": "УИК №460",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "429400970570",
+    "uikName": "УИК №461",
     "tikTvd": "229200070527",
-    "tikName": "Котласская"
+    "tikName": "Котласская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "429401870524",
+    "uikName": "УИК №462",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "429401870525",
+    "uikName": "УИК №463",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "429401870526",
+    "uikName": "УИК №464",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "429401870527",
+    "uikName": "УИК №465",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "429401870528",
+    "uikName": "УИК №466",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "429401870529",
+    "uikName": "УИК №467",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "429401870530",
+    "uikName": "УИК №468",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "429401870531",
+    "uikName": "УИК №469",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "429401870532",
+    "uikName": "УИК №470",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "429401870533",
+    "uikName": "УИК №471",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "429401870534",
+    "uikName": "УИК №472",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "429401870535",
+    "uikName": "УИК №473",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "429401870536",
+    "uikName": "УИК №474",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "429401870537",
+    "uikName": "УИК №475",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "429401870538",
+    "uikName": "УИК №476",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "429401870539",
+    "uikName": "УИК №477",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "429401870540",
+    "uikName": "УИК №478",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "429401870541",
+    "uikName": "УИК №479",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "429401870542",
+    "uikName": "УИК №480",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "429401870543",
+    "uikName": "УИК №481",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "429401870544",
+    "uikName": "УИК №482",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "429401870545",
+    "uikName": "УИК №483",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "429401870546",
+    "uikName": "УИК №484",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "429401870547",
+    "uikName": "УИК №485",
     "tikTvd": "229200070526",
-    "tikName": "Красноборская"
+    "tikName": "Красноборская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "429401970368",
+    "uikName": "УИК №486",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "429401970369",
+    "uikName": "УИК №487",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "429401970370",
+    "uikName": "УИК №488",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "429401970371",
+    "uikName": "УИК №489",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "429401970372",
+    "uikName": "УИК №490",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "429401970373",
+    "uikName": "УИК №491",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "429401970374",
+    "uikName": "УИК №492",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "429401970375",
+    "uikName": "УИК №493",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "429401970376",
+    "uikName": "УИК №494",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "429401970377",
+    "uikName": "УИК №495",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "429401970378",
+    "uikName": "УИК №496",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "429401970379",
+    "uikName": "УИК №497",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "429401970380",
+    "uikName": "УИК №498",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "429401970381",
+    "uikName": "УИК №499",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "429401970382",
+    "uikName": "УИК №500",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "429401970383",
+    "uikName": "УИК №501",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "429401970384",
+    "uikName": "УИК №502",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "429401970385",
+    "uikName": "УИК №503",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "429401970386",
+    "uikName": "УИК №504",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "429402070543",
+    "uikName": "УИК №505",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "429402070544",
+    "uikName": "УИК №506",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "429402070545",
+    "uikName": "УИК №507",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "429402070546",
+    "uikName": "УИК №508",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "429402070547",
+    "uikName": "УИК №509",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "429402070548",
+    "uikName": "УИК №510",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "429402070549",
+    "uikName": "УИК №511",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "429402070550",
+    "uikName": "УИК №512",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "429402070551",
+    "uikName": "УИК №513",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "429402070552",
+    "uikName": "УИК №514",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "429402070553",
+    "uikName": "УИК №515",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "429402070554",
+    "uikName": "УИК №516",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "429402070555",
+    "uikName": "УИК №517",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "429402070556",
+    "uikName": "УИК №518",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "429402070557",
+    "uikName": "УИК №519",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "429402070558",
+    "uikName": "УИК №520",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "429402070559",
+    "uikName": "УИК №521",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "429402070560",
+    "uikName": "УИК №522",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "429402070561",
+    "uikName": "УИК №523",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "429402070562",
+    "uikName": "УИК №524",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "429402070563",
+    "uikName": "УИК №525",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "429402070564",
+    "uikName": "УИК №526",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "429402070565",
+    "uikName": "УИК №527",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "429402070566",
+    "uikName": "УИК №528",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "429402070567",
+    "uikName": "УИК №529",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "429402070568",
+    "uikName": "УИК №530",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "429402070569",
+    "uikName": "УИК №531",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "429402070570",
+    "uikName": "УИК №532",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "429402070571",
+    "uikName": "УИК №533",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "429402070572",
+    "uikName": "УИК №534",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "429402070573",
+    "uikName": "УИК №535",
     "tikTvd": "229200070511",
-    "tikName": "Лешуконская"
+    "tikName": "Лешуконская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "429402170499",
+    "uikName": "УИК №536",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "429402170500",
+    "uikName": "УИК №537",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "429402170501",
+    "uikName": "УИК №538",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "429402170502",
+    "uikName": "УИК №539",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "429402170503",
+    "uikName": "УИК №540",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "429402170504",
+    "uikName": "УИК №541",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "429402170505",
+    "uikName": "УИК №542",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "429402170506",
+    "uikName": "УИК №543",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "429402170507",
+    "uikName": "УИК №544",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "429402170508",
+    "uikName": "УИК №545",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "429402170509",
+    "uikName": "УИК №546",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "429402170510",
+    "uikName": "УИК №547",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "429402170511",
+    "uikName": "УИК №548",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "429402170512",
+    "uikName": "УИК №549",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "429402170513",
+    "uikName": "УИК №550",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "429402170514",
+    "uikName": "УИК №551",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "429402170515",
+    "uikName": "УИК №552",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "429402170516",
+    "uikName": "УИК №553",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "429402170517",
+    "uikName": "УИК №554",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "429402170518",
+    "uikName": "УИК №555",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "429402170519",
+    "uikName": "УИК №556",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "429402170520",
+    "uikName": "УИК №557",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "429402170521",
+    "uikName": "УИК №558",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "429402170522",
+    "uikName": "УИК №559",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "429402170523",
+    "uikName": "УИК №560",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "429402170524",
+    "uikName": "УИК №561",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "429402170525",
+    "uikName": "УИК №562",
     "tikTvd": "229200070510",
-    "tikName": "Мезенская"
+    "tikName": "Мезенская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "429402770567",
+    "uikName": "УИК №563",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "429402770568",
+    "uikName": "УИК №564",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "429402770569",
+    "uikName": "УИК №565",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "429402770570",
+    "uikName": "УИК №566",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "429402770571",
+    "uikName": "УИК №567",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "429402770572",
+    "uikName": "УИК №568",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "429402770573",
+    "uikName": "УИК №569",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "429402770574",
+    "uikName": "УИК №570",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "429402770575",
+    "uikName": "УИК №571",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "429402770576",
+    "uikName": "УИК №572",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "429402770577",
+    "uikName": "УИК №573",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "429402770578",
+    "uikName": "УИК №574",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "429402770579",
+    "uikName": "УИК №575",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "429402770580",
+    "uikName": "УИК №576",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "429402770581",
+    "uikName": "УИК №577",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "429402770582",
+    "uikName": "УИК №578",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "429402770583",
+    "uikName": "УИК №579",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "429402770584",
+    "uikName": "УИК №580",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "429402770585",
+    "uikName": "УИК №581",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "429402770586",
+    "uikName": "УИК №582",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "429402770587",
+    "uikName": "УИК №583",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "429402770588",
+    "uikName": "УИК №584",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "429402770589",
+    "uikName": "УИК №585",
     "tikTvd": "229200070524",
-    "tikName": "Мирнинская"
+    "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "429402270406",
+    "uikName": "УИК №586",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "429402270407",
+    "uikName": "УИК №587",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "429402270408",
+    "uikName": "УИК №588",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "429402270409",
+    "uikName": "УИК №589",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "429402270410",
+    "uikName": "УИК №590",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "429402270411",
+    "uikName": "УИК №591",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "429402270412",
+    "uikName": "УИК №592",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "429402270413",
+    "uikName": "УИК №593",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "429402270414",
+    "uikName": "УИК №594",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "429402270415",
+    "uikName": "УИК №595",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "429402270416",
+    "uikName": "УИК №596",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "429402270417",
+    "uikName": "УИК №597",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "429402270418",
+    "uikName": "УИК №598",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "429402270419",
+    "uikName": "УИК №599",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "429402270420",
+    "uikName": "УИК №600",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "429402270421",
+    "uikName": "УИК №601",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "429402270422",
+    "uikName": "УИК №602",
     "tikTvd": "229200070513",
-    "tikName": "Новодвинская"
+    "tikName": "Новодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "429402370590",
+    "uikName": "УИК №603",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "429402370591",
+    "uikName": "УИК №604",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "429402370592",
+    "uikName": "УИК №605",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "429402370593",
+    "uikName": "УИК №606",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "429402370594",
+    "uikName": "УИК №607",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "429402370595",
+    "uikName": "УИК №608",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "429402370596",
+    "uikName": "УИК №609",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "429402370597",
+    "uikName": "УИК №610",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "429402370598",
+    "uikName": "УИК №611",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "429402370599",
+    "uikName": "УИК №612",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "429402370600",
+    "uikName": "УИК №613",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "429402370601",
+    "uikName": "УИК №614",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "429402370602",
+    "uikName": "УИК №615",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "429402370603",
+    "uikName": "УИК №616",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "429402370604",
+    "uikName": "УИК №617",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "429402370605",
+    "uikName": "УИК №618",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "429402370606",
+    "uikName": "УИК №619",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "429402370607",
+    "uikName": "УИК №620",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "429402370608",
+    "uikName": "УИК №621",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "429402370609",
+    "uikName": "УИК №622",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "429402370610",
+    "uikName": "УИК №623",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "429402370611",
+    "uikName": "УИК №624",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "429402370612",
+    "uikName": "УИК №625",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "429402370613",
+    "uikName": "УИК №626",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "429402370614",
+    "uikName": "УИК №627",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "429402370615",
+    "uikName": "УИК №628",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "429402370616",
+    "uikName": "УИК №629",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "429402370617",
+    "uikName": "УИК №630",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "429402370618",
+    "uikName": "УИК №631",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "429402370619",
+    "uikName": "УИК №632",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "429402370620",
+    "uikName": "УИК №633",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "429402370621",
+    "uikName": "УИК №634",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "429402370622",
+    "uikName": "УИК №635",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "429402370623",
+    "uikName": "УИК №636",
     "tikTvd": "229200070523",
-    "tikName": "Няндомская"
+    "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "429403470392",
+    "uikName": "УИК №637",
     "tikTvd": "229200070512",
-    "tikName": "Новоземельская"
+    "tikName": "Новоземельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "429403470393",
+    "uikName": "УИК №638",
     "tikTvd": "229200070512",
-    "tikName": "Новоземельская"
+    "tikName": "Новоземельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "429403470394",
+    "uikName": "УИК №639",
     "tikTvd": "229200070512",
-    "tikName": "Новоземельская"
+    "tikName": "Новоземельская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "429402470409",
+    "uikName": "УИК №640",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "429402470410",
+    "uikName": "УИК №641",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "429402470411",
+    "uikName": "УИК №642",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "429402470412",
+    "uikName": "УИК №643",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "429402470413",
+    "uikName": "УИК №644",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "429402470414",
+    "uikName": "УИК №645",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "429402470415",
+    "uikName": "УИК №646",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "429402470416",
+    "uikName": "УИК №647",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "429402470417",
+    "uikName": "УИК №648",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "429402470418",
+    "uikName": "УИК №649",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "429402470419",
+    "uikName": "УИК №650",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "429402470420",
+    "uikName": "УИК №651",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "429402470421",
+    "uikName": "УИК №652",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "429402470422",
+    "uikName": "УИК №653",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "429402470423",
+    "uikName": "УИК №654",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "429402470424",
+    "uikName": "УИК №655",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "429402470425",
+    "uikName": "УИК №656",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "429402470426",
+    "uikName": "УИК №657",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "429402470427",
+    "uikName": "УИК №658",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "429402470428",
+    "uikName": "УИК №659",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "429402470429",
+    "uikName": "УИК №660",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "429402470430",
+    "uikName": "УИК №661",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "429402470431",
+    "uikName": "УИК №662",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "429402470432",
+    "uikName": "УИК №663",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "429402470433",
+    "uikName": "УИК №664",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "429402470434",
+    "uikName": "УИК №665",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "429402470435",
+    "uikName": "УИК №666",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "429402470436",
+    "uikName": "УИК №667",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "429402470437",
+    "uikName": "УИК №668",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "429402470438",
+    "uikName": "УИК №669",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "429402470439",
+    "uikName": "УИК №670",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "429402470440",
+    "uikName": "УИК №671",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "429402470441",
+    "uikName": "УИК №672",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "429402470442",
+    "uikName": "УИК №673",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "429402470443",
+    "uikName": "УИК №674",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "429402470444",
+    "uikName": "УИК №675",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "429402470445",
+    "uikName": "УИК №676",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "429402470446",
+    "uikName": "УИК №677",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "429402470447",
+    "uikName": "УИК №678",
     "tikTvd": "229200070522",
-    "tikName": "Онежская"
+    "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "429402570462",
+    "uikName": "УИК №679",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "429402570463",
+    "uikName": "УИК №680",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "429402570464",
+    "uikName": "УИК №681",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "429402570465",
+    "uikName": "УИК №682",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "429402570466",
+    "uikName": "УИК №683",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "429402570467",
+    "uikName": "УИК №684",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "429402570468",
+    "uikName": "УИК №685",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "429402570469",
+    "uikName": "УИК №686",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "429402570470",
+    "uikName": "УИК №687",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "429402570471",
+    "uikName": "УИК №688",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "429402570472",
+    "uikName": "УИК №689",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "429402570473",
+    "uikName": "УИК №690",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "429402570474",
+    "uikName": "УИК №691",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "429402570475",
+    "uikName": "УИК №692",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "429402570476",
+    "uikName": "УИК №693",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "429402570477",
+    "uikName": "УИК №694",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "429402570478",
+    "uikName": "УИК №695",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "429402570479",
+    "uikName": "УИК №696",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "429402570480",
+    "uikName": "УИК №697",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "429402570481",
+    "uikName": "УИК №698",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "429402570482",
+    "uikName": "УИК №699",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "429402570483",
+    "uikName": "УИК №700",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "429402570484",
+    "uikName": "УИК №701",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "429402570485",
+    "uikName": "УИК №702",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "429402570486",
+    "uikName": "УИК №703",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "429402570487",
+    "uikName": "УИК №704",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "429402570488",
+    "uikName": "УИК №705",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "429402570489",
+    "uikName": "УИК №706",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "429402570490",
+    "uikName": "УИК №707",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "429402570491",
+    "uikName": "УИК №708",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "429402570492",
+    "uikName": "УИК №709",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "429402570493",
+    "uikName": "УИК №710",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "429402570494",
+    "uikName": "УИК №711",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "429402570495",
+    "uikName": "УИК №712",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "429402570496",
+    "uikName": "УИК №713",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "429402570497",
+    "uikName": "УИК №714",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "429402570498",
+    "uikName": "УИК №715",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "429402570499",
+    "uikName": "УИК №716",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "429402570500",
+    "uikName": "УИК №717",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "429402570501",
+    "uikName": "УИК №718",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "429402570502",
+    "uikName": "УИК №719",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "429402570503",
+    "uikName": "УИК №720",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "429402570504",
+    "uikName": "УИК №721",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "429402570505",
+    "uikName": "УИК №722",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "429402570506",
+    "uikName": "УИК №723",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "429402570507",
+    "uikName": "УИК №724",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "429402570508",
+    "uikName": "УИК №725",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "429402570509",
+    "uikName": "УИК №726",
     "tikTvd": "229200070521",
-    "tikName": "Пинежская"
+    "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "429402670427",
+    "uikName": "УИК №727",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "429402670428",
+    "uikName": "УИК №728",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "429402670429",
+    "uikName": "УИК №729",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "429402670430",
+    "uikName": "УИК №730",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "429402670431",
+    "uikName": "УИК №731",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "429402670432",
+    "uikName": "УИК №732",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "429402670433",
+    "uikName": "УИК №733",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "429402670434",
+    "uikName": "УИК №734",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "429402670435",
+    "uikName": "УИК №735",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "429402670436",
+    "uikName": "УИК №736",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "429402670437",
+    "uikName": "УИК №737",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "429402670438",
+    "uikName": "УИК №738",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "429402670439",
+    "uikName": "УИК №739",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "429402670440",
+    "uikName": "УИК №740",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "429402670441",
+    "uikName": "УИК №741",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "429402670442",
+    "uikName": "УИК №742",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "429402670443",
+    "uikName": "УИК №743",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "429402670444",
+    "uikName": "УИК №744",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "429402670445",
+    "uikName": "УИК №745",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "429402670446",
+    "uikName": "УИК №746",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "429402670447",
+    "uikName": "УИК №747",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "429402670448",
+    "uikName": "УИК №748",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "429402670449",
+    "uikName": "УИК №749",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "429402670450",
+    "uikName": "УИК №750",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "429402670451",
+    "uikName": "УИК №751",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "429402670452",
+    "uikName": "УИК №752",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "429402670453",
+    "uikName": "УИК №753",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "429402670454",
+    "uikName": "УИК №754",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "429402670455",
+    "uikName": "УИК №755",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "429402670456",
+    "uikName": "УИК №756",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "429402670457",
+    "uikName": "УИК №757",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "429402670458",
+    "uikName": "УИК №758",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "429402670459",
+    "uikName": "УИК №759",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "429402670460",
+    "uikName": "УИК №760",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "429402670461",
+    "uikName": "УИК №761",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "429402670462",
+    "uikName": "УИК №762",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "429402670463",
+    "uikName": "УИК №763",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "429402670464",
+    "uikName": "УИК №764",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "429402670465",
+    "uikName": "УИК №765",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "429402670466",
+    "uikName": "УИК №766",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "429402670467",
+    "uikName": "УИК №767",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "429402670468",
+    "uikName": "УИК №768",
     "tikTvd": "229200070520",
-    "tikName": "Плесецкая"
+    "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "429402870494",
+    "uikName": "УИК №769",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "429402870495",
+    "uikName": "УИК №770",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "429402870496",
+    "uikName": "УИК №771",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "429402870497",
+    "uikName": "УИК №772",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "429402870498",
+    "uikName": "УИК №773",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "429402870499",
+    "uikName": "УИК №774",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "429402870500",
+    "uikName": "УИК №775",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "429402870501",
+    "uikName": "УИК №776",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "429402870502",
+    "uikName": "УИК №777",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "429402870503",
+    "uikName": "УИК №778",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "429402870504",
+    "uikName": "УИК №779",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "429402870505",
+    "uikName": "УИК №780",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "429402870506",
+    "uikName": "УИК №781",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "429402870507",
+    "uikName": "УИК №782",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "429402870508",
+    "uikName": "УИК №783",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "429402870509",
+    "uikName": "УИК №784",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "429402870510",
+    "uikName": "УИК №785",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "429402870511",
+    "uikName": "УИК №786",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "429402870512",
+    "uikName": "УИК №787",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "429402870513",
+    "uikName": "УИК №788",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "429402870514",
+    "uikName": "УИК №789",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "429402870515",
+    "uikName": "УИК №790",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "429402870516",
+    "uikName": "УИК №791",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "429402870517",
+    "uikName": "УИК №792",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "429402870518",
+    "uikName": "УИК №793",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "429402870519",
+    "uikName": "УИК №794",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "429402870520",
+    "uikName": "УИК №795",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "429402870521",
+    "uikName": "УИК №796",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "429402870522",
+    "uikName": "УИК №797",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "429402870523",
+    "uikName": "УИК №798",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "429402870524",
+    "uikName": "УИК №799",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "429402870525",
+    "uikName": "УИК №800",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "429402870526",
+    "uikName": "УИК №801",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "429402870527",
+    "uikName": "УИК №802",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "429402870528",
+    "uikName": "УИК №803",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "429402870529",
+    "uikName": "УИК №804",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "429402870530",
+    "uikName": "УИК №805",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "429402870531",
+    "uikName": "УИК №806",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "429402870532",
+    "uikName": "УИК №807",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "429402870533",
+    "uikName": "УИК №808",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "429402870534",
+    "uikName": "УИК №809",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "429402870535",
+    "uikName": "УИК №810",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "429402870536",
+    "uikName": "УИК №811",
     "tikTvd": "229200070516",
-    "tikName": "Приморская"
+    "tikName": "Приморская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "429402970523",
+    "uikName": "УИК №812",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "429402970524",
+    "uikName": "УИК №813",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "429402970525",
+    "uikName": "УИК №814",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "429402970526",
+    "uikName": "УИК №815",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "429402970527",
+    "uikName": "УИК №816",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "429402970528",
+    "uikName": "УИК №817",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "429402970529",
+    "uikName": "УИК №818",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "429402970530",
+    "uikName": "УИК №819",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "429402970531",
+    "uikName": "УИК №820",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "429402970532",
+    "uikName": "УИК №821",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "429402970533",
+    "uikName": "УИК №822",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "429402970534",
+    "uikName": "УИК №823",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "429402970535",
+    "uikName": "УИК №824",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "429402970536",
+    "uikName": "УИК №825",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "429402970537",
+    "uikName": "УИК №826",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "429402970538",
+    "uikName": "УИК №827",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "429402970539",
+    "uikName": "УИК №828",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "429402970540",
+    "uikName": "УИК №829",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "429402970541",
+    "uikName": "УИК №830",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "429402970542",
+    "uikName": "УИК №831",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "429402970543",
+    "uikName": "УИК №832",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "429402970544",
+    "uikName": "УИК №833",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "429402970545",
+    "uikName": "УИК №834",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "429402970546",
+    "uikName": "УИК №835",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "429402970547",
+    "uikName": "УИК №836",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "429402970548",
+    "uikName": "УИК №837",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "429402970549",
+    "uikName": "УИК №838",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "429402970550",
+    "uikName": "УИК №839",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "429402970551",
+    "uikName": "УИК №840",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "429402970552",
+    "uikName": "УИК №841",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "429402970553",
+    "uikName": "УИК №842",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "429402970554",
+    "uikName": "УИК №843",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "429402970555",
+    "uikName": "УИК №844",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "429402970556",
+    "uikName": "УИК №845",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "429402970557",
+    "uikName": "УИК №846",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "429402970558",
+    "uikName": "УИК №847",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "429402970559",
+    "uikName": "УИК №848",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "429402970560",
+    "uikName": "УИК №849",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "429402970561",
+    "uikName": "УИК №850",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "429402970562",
+    "uikName": "УИК №851",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "429402970563",
+    "uikName": "УИК №852",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "429402970564",
+    "uikName": "УИК №853",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "429402970565",
+    "uikName": "УИК №854",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "429402970566",
+    "uikName": "УИК №855",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "429402970567",
+    "uikName": "УИК №856",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "429402970568",
+    "uikName": "УИК №857",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "429402970569",
+    "uikName": "УИК №858",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "429402970570",
+    "uikName": "УИК №859",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "429402970571",
+    "uikName": "УИК №860",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "429402970572",
+    "uikName": "УИК №861",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "429402970573",
+    "uikName": "УИК №862",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "429402970574",
+    "uikName": "УИК №863",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "429402970575",
+    "uikName": "УИК №864",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "429402970576",
+    "uikName": "УИК №865",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "429402970577",
+    "uikName": "УИК №866",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "429402970578",
+    "uikName": "УИК №867",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "429402970579",
+    "uikName": "УИК №868",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "429402970580",
+    "uikName": "УИК №869",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "429402970581",
+    "uikName": "УИК №870",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "429402970582",
+    "uikName": "УИК №871",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "429402970583",
+    "uikName": "УИК №872",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "429402970584",
+    "uikName": "УИК №873",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "429402970585",
+    "uikName": "УИК №874",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "429402970586",
+    "uikName": "УИК №875",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "429402970587",
+    "uikName": "УИК №876",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "429402970588",
+    "uikName": "УИК №877",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "429402970589",
+    "uikName": "УИК №878",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "429402970590",
+    "uikName": "УИК №879",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "429402970591",
+    "uikName": "УИК №880",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "429402970592",
+    "uikName": "УИК №881",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "429402970593",
+    "uikName": "УИК №882",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "429402970594",
+    "uikName": "УИК №883",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "429402970595",
+    "uikName": "УИК №884",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "429402970596",
+    "uikName": "УИК №885",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "429402970597",
+    "uikName": "УИК №886",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "429402970598",
+    "uikName": "УИК №887",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "429402970599",
+    "uikName": "УИК №888",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "429402970600",
+    "uikName": "УИК №889",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "429402970601",
+    "uikName": "УИК №890",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "429402970602",
+    "uikName": "УИК №891",
     "tikTvd": "229200070515",
-    "tikName": "Северодвинская"
+    "tikName": "Северодвинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "429400770391",
+    "uikName": "УИК №892",
     "tikTvd": "229200070514",
-    "tikName": "Соловецкая"
+    "tikName": "Соловецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "429403071486",
+    "uikName": "УИК №893",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "429403071488",
+    "uikName": "УИК №894",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "429403071489",
+    "uikName": "УИК №895",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "429403071490",
+    "uikName": "УИК №896",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "429403071491",
+    "uikName": "УИК №897",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "429403071492",
+    "uikName": "УИК №898",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "429403071493",
+    "uikName": "УИК №899",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "429403071494",
+    "uikName": "УИК №900",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "429403071495",
+    "uikName": "УИК №901",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "429403071496",
+    "uikName": "УИК №902",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "429403071497",
+    "uikName": "УИК №903",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "429403071498",
+    "uikName": "УИК №904",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "429403071499",
+    "uikName": "УИК №905",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "429403071500",
+    "uikName": "УИК №906",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "429403071501",
+    "uikName": "УИК №907",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "429403071502",
+    "uikName": "УИК №908",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "429403071503",
+    "uikName": "УИК №909",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "429403071504",
+    "uikName": "УИК №910",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "429403071505",
+    "uikName": "УИК №911",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "429403071506",
+    "uikName": "УИК №912",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "429403071507",
+    "uikName": "УИК №913",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "429403071508",
+    "uikName": "УИК №914",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "429403071509",
+    "uikName": "УИК №915",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "429403071510",
+    "uikName": "УИК №916",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "429403071511",
+    "uikName": "УИК №917",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "429403071512",
+    "uikName": "УИК №918",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "429403071513",
+    "uikName": "УИК №919",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "429403071514",
+    "uikName": "УИК №920",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "429403071515",
+    "uikName": "УИК №921",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "429403071516",
+    "uikName": "УИК №922",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "429403071517",
+    "uikName": "УИК №923",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "429403071518",
+    "uikName": "УИК №924",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "429403071519",
+    "uikName": "УИК №925",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "429403071520",
+    "uikName": "УИК №926",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "429403071521",
+    "uikName": "УИК №927",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "429403071522",
+    "uikName": "УИК №928",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "429403071523",
+    "uikName": "УИК №929",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "429403071524",
+    "uikName": "УИК №930",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "429403071525",
+    "uikName": "УИК №931",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "429403071526",
+    "uikName": "УИК №932",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "429403071527",
+    "uikName": "УИК №933",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "429403071528",
+    "uikName": "УИК №934",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "429403071529",
+    "uikName": "УИК №935",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "429403071530",
+    "uikName": "УИК №936",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "429403071531",
+    "uikName": "УИК №937",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "429403071532",
+    "uikName": "УИК №938",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "429403071533",
+    "uikName": "УИК №939",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "429403071534",
+    "uikName": "УИК №940",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "429403071535",
+    "uikName": "УИК №941",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "429403071536",
+    "uikName": "УИК №942",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "429403071537",
+    "uikName": "УИК №943",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "429403071538",
+    "uikName": "УИК №944",
     "tikTvd": "229200070519",
-    "tikName": "Устьянская"
+    "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "429403170964",
+    "uikName": "УИК №945",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "429403170965",
+    "uikName": "УИК №946",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "429403170966",
+    "uikName": "УИК №947",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "429403170967",
+    "uikName": "УИК №948",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "429403170968",
+    "uikName": "УИК №949",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "429403170969",
+    "uikName": "УИК №950",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "429403170970",
+    "uikName": "УИК №951",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "429403170971",
+    "uikName": "УИК №952",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "429403170972",
+    "uikName": "УИК №953",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "429403170973",
+    "uikName": "УИК №954",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "429403170974",
+    "uikName": "УИК №955",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "429403170975",
+    "uikName": "УИК №956",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "429403170976",
+    "uikName": "УИК №957",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "429403170977",
+    "uikName": "УИК №958",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "429403170978",
+    "uikName": "УИК №959",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "429403170979",
+    "uikName": "УИК №960",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "429403170980",
+    "uikName": "УИК №961",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "429403170981",
+    "uikName": "УИК №962",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "429403170982",
+    "uikName": "УИК №963",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "429403170983",
+    "uikName": "УИК №964",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "429403170984",
+    "uikName": "УИК №965",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "429403170985",
+    "uikName": "УИК №966",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "429403170986",
+    "uikName": "УИК №967",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "429403170987",
+    "uikName": "УИК №968",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "429403170988",
+    "uikName": "УИК №969",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "429403170989",
+    "uikName": "УИК №970",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "429403170990",
+    "uikName": "УИК №971",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "429403170991",
+    "uikName": "УИК №972",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "429403170992",
+    "uikName": "УИК №973",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "429403170993",
+    "uikName": "УИК №974",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "429403170994",
+    "uikName": "УИК №975",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "429403170995",
+    "uikName": "УИК №976",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "429403170996",
+    "uikName": "УИК №977",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "429403170997",
+    "uikName": "УИК №978",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "429403170998",
+    "uikName": "УИК №979",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "429403170999",
+    "uikName": "УИК №980",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "429403171000",
+    "uikName": "УИК №981",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "429403171001",
+    "uikName": "УИК №982",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "429403171002",
+    "uikName": "УИК №983",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "429403171003",
+    "uikName": "УИК №984",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "429403171004",
+    "uikName": "УИК №985",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "429403171005",
+    "uikName": "УИК №986",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "429403171006",
+    "uikName": "УИК №987",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "429403171007",
+    "uikName": "УИК №988",
     "tikTvd": "229200070518",
-    "tikName": "Холмогорская"
+    "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "429403270995",
+    "uikName": "УИК №989",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "429403270996",
+    "uikName": "УИК №990",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "429403270997",
+    "uikName": "УИК №991",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "429403270998",
+    "uikName": "УИК №992",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "429403270999",
+    "uikName": "УИК №993",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "429403271000",
+    "uikName": "УИК №994",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "429403271001",
+    "uikName": "УИК №995",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "429403271002",
+    "uikName": "УИК №996",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "429403271003",
+    "uikName": "УИК №997",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "429403271004",
+    "uikName": "УИК №998",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "429403271005",
+    "uikName": "УИК №999",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "429403271006",
+    "uikName": "УИК №1000",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "429403271007",
+    "uikName": "УИК №1001",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "429403271008",
+    "uikName": "УИК №1002",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "429403271009",
+    "uikName": "УИК №1003",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "429403271010",
+    "uikName": "УИК №1004",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "429403271011",
+    "uikName": "УИК №1005",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "429403271012",
+    "uikName": "УИК №1006",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "429403271013",
+    "uikName": "УИК №1007",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "429403271014",
+    "uikName": "УИК №1008",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "429403271015",
+    "uikName": "УИК №1009",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "429403271016",
+    "uikName": "УИК №1010",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "429403271017",
+    "uikName": "УИК №1011",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "429403271018",
+    "uikName": "УИК №1012",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "429403271019",
+    "uikName": "УИК №1013",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "429403271020",
+    "uikName": "УИК №1014",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "429403271021",
+    "uikName": "УИК №1015",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "429403271022",
+    "uikName": "УИК №1016",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "429403271023",
+    "uikName": "УИК №1017",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "429403271024",
+    "uikName": "УИК №1018",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "429403271025",
+    "uikName": "УИК №1019",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "429403271026",
+    "uikName": "УИК №1020",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "429403271027",
+    "uikName": "УИК №1021",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "429403271028",
+    "uikName": "УИК №1022",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "429403271029",
+    "uikName": "УИК №1023",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "429403271030",
+    "uikName": "УИК №1024",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "429403271031",
+    "uikName": "УИК №1025",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "429403271032",
+    "uikName": "УИК №1026",
     "tikTvd": "229200070517",
-    "tikName": "Шенкурская"
+    "tikName": "Шенкурская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "429400570444",
+    "uikName": "УИК №1027",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "429400570474",
+    "uikName": "УИК №1028",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "429400570475",
+    "uikName": "УИК №1029",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "429400570476",
+    "uikName": "УИК №1030",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "429400570477",
+    "uikName": "УИК №1031",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "429400570478",
+    "uikName": "УИК №1032",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "429400570479",
+    "uikName": "УИК №1033",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "429400570480",
+    "uikName": "УИК №1034",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "429400570481",
+    "uikName": "УИК №1035",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "429400570482",
+    "uikName": "УИК №1036",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "429400570483",
+    "uikName": "УИК №1037",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "429400570484",
+    "uikName": "УИК №1038",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "429400570485",
+    "uikName": "УИК №1039",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "429400570486",
+    "uikName": "УИК №1040",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "429400570487",
+    "uikName": "УИК №1041",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "429400570488",
+    "uikName": "УИК №1042",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "429400570489",
+    "uikName": "УИК №1043",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "429400570490",
+    "uikName": "УИК №1044",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "429400570491",
+    "uikName": "УИК №1045",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "429400570492",
+    "uikName": "УИК №1046",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "429400570493",
+    "uikName": "УИК №1047",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "429400570494",
+    "uikName": "УИК №1048",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "429400570495",
+    "uikName": "УИК №1049",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "429400570496",
+    "uikName": "УИК №1050",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "429400570497",
+    "uikName": "УИК №1051",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "429400570498",
+    "uikName": "УИК №1052",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "429400570499",
+    "uikName": "УИК №1053",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "429400570500",
+    "uikName": "УИК №1054",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "429400570501",
+    "uikName": "УИК №1055",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "429400570502",
+    "uikName": "УИК №1056",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "429400570503",
+    "uikName": "УИК №1057",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "429400570504",
+    "uikName": "УИК №1058",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "429400570505",
+    "uikName": "УИК №1059",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "429400570506",
+    "uikName": "УИК №1060",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "429400570507",
+    "uikName": "УИК №1061",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "429400570508",
+    "uikName": "УИК №1062",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "429400570509",
+    "uikName": "УИК №1063",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "429400570510",
+    "uikName": "УИК №1064",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "429400570511",
+    "uikName": "УИК №1065",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "429400570512",
+    "uikName": "УИК №1066",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "429400570513",
+    "uikName": "УИК №1067",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "429400570514",
+    "uikName": "УИК №1068",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "429400570515",
+    "uikName": "УИК №1069",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "429400570516",
+    "uikName": "УИК №1070",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "429400570517",
+    "uikName": "УИК №1071",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "429400570518",
+    "uikName": "УИК №1072",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "429400570519",
+    "uikName": "УИК №1073",
     "tikTvd": "229200070508",
-    "tikName": "Архангельск, Ломоносовская"
+    "tikName": "Архангельск, Ломоносовская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "429400670457",
+    "uikName": "УИК №1076",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "429400670458",
+    "uikName": "УИК №1077",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "429400670459",
+    "uikName": "УИК №1078",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "429400670460",
+    "uikName": "УИК №1079",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "429400670461",
+    "uikName": "УИК №1080",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "429400670462",
+    "uikName": "УИК №1081",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "429400670463",
+    "uikName": "УИК №1082",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "429400670464",
+    "uikName": "УИК №1083",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "429400670465",
+    "uikName": "УИК №1084",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "429400670466",
+    "uikName": "УИК №1085",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "429401970393",
+    "uikName": "УИК №1086",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "429401970394",
+    "uikName": "УИК №1087",
     "tikTvd": "229200070525",
-    "tikName": " Ленская"
+    "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "429400670547",
+    "uikName": "УИК №1088",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "429400670548",
+    "uikName": "УИК №1089",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "429400670549",
+    "uikName": "УИК №1090",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "429400670550",
+    "uikName": "УИК №1091",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "429400670644",
+    "uikName": "УИК №1092",
     "tikTvd": "229200070505",
-    "tikName": "Архангельск, Южная "
+    "tikName": "Архангельск, Южная ",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 61,
+      "oikTvd": "100100095810",
+      "oikName": "Архангельский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

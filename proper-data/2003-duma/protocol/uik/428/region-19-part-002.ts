@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "419400266760",
+    "uikName": "УИК №147",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1061,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "419400266761",
+    "uikName": "УИК №148",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1362,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "419400266762",
+    "uikName": "УИК №149",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1039,
       "Число бюллетеней, полученных участковыми комиссиями": 1055,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "419400266763",
+    "uikName": "УИК №150",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "419400266764",
+    "uikName": "УИК №151",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "419400266765",
+    "uikName": "УИК №152",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 877,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "419400266766",
+    "uikName": "УИК №153",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "419400266767",
+    "uikName": "УИК №154",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 735,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "419400266768",
+    "uikName": "УИК №155",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "419400266769",
+    "uikName": "УИК №156",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "419400266770",
+    "uikName": "УИК №157",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "419400266771",
+    "uikName": "УИК №158",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "419400266772",
+    "uikName": "УИК №159",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "419400266773",
+    "uikName": "УИК №160",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 754,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "419400266774",
+    "uikName": "УИК №161",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 702,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "419400266775",
+    "uikName": "УИК №162",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 870,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "419400266776",
+    "uikName": "УИК №163",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 196,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "419400366823",
+    "uikName": "УИК  164",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1509,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "419400366824",
+    "uikName": "УИК  165",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "419400366825",
+    "uikName": "УИК  166",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1445,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "419400366826",
+    "uikName": "УИК  167",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "419400366827",
+    "uikName": "УИК  168",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "419400366828",
+    "uikName": "УИК  169",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "419400366829",
+    "uikName": "УИК  170",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1376,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "419400366830",
+    "uikName": "УИК  171",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1850,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "419400366831",
+    "uikName": "УИК  172",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "419400366832",
+    "uikName": "УИК  173",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 690,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "419400366833",
+    "uikName": "УИК  174",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 758,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "419400366834",
+    "uikName": "УИК  175",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "419400366835",
+    "uikName": "УИК  176",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "419400366836",
+    "uikName": "УИК  177",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 360,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "419400366837",
+    "uikName": "УИК  178",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 580,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "419400366838",
+    "uikName": "УИК  179",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "419400366839",
+    "uikName": "УИК  180",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "419400366840",
+    "uikName": "УИК  181",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "419400366841",
+    "uikName": "УИК  182",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 609,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "419400366842",
+    "uikName": "УИК  183",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 951,
       "Число бюллетеней, полученных участковыми комиссиями": 951,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "419400366843",
+    "uikName": "УИК  184",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "419400366844",
+    "uikName": "УИК  185",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 63,
       "Число бюллетеней, полученных участковыми комиссиями": 62,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "419400366845",
+    "uikName": "УИК  186",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "419400366846",
+    "uikName": "УИК  187",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 62,
       "Число бюллетеней, полученных участковыми комиссиями": 64,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "419400366847",
+    "uikName": "УИК  188",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 491,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "419400366848",
+    "uikName": "УИК  189",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "419400366849",
+    "uikName": "УИК  190",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 692,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "419400366850",
+    "uikName": "УИК  191",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "419400366851",
+    "uikName": "УИК  192",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 146,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "419400366852",
+    "uikName": "УИК  193",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "419400366853",
+    "uikName": "УИК  194",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "419400366854",
+    "uikName": "УИК  195",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1158,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "419400366855",
+    "uikName": "УИК  196",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 711,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "419400366856",
+    "uikName": "УИК  197",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 854,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "419400366857",
+    "uikName": "УИК  198",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 388,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "419400366858",
+    "uikName": "УИК  199",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1492,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "419400366859",
+    "uikName": "УИК  200",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1443,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "419400366860",
+    "uikName": "УИК  201",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "419400366861",
+    "uikName": "УИК  202",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1357,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "419400366862",
+    "uikName": "УИК  203",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "419400366863",
+    "uikName": "УИК  204",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2612,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -2737,8 +3259,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "419400366864",
+    "uikName": "УИК  205",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -2784,8 +3315,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "419400366865",
+    "uikName": "УИК  206",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 581,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -2831,8 +3371,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "419400366866",
+    "uikName": "УИК  207",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -2878,8 +3427,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "419400366867",
+    "uikName": "УИК  208",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -2925,8 +3483,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "419400166864",
+    "uikName": "УИК №1",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1434,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2972,8 +3539,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "419400166865",
+    "uikName": "УИК №2",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1320,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "419400166866",
+    "uikName": "УИК №3",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2000,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3066,8 +3651,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "419400166867",
+    "uikName": "УИК №4",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1076,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3113,8 +3707,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "419400166868",
+    "uikName": "УИК №5",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1371,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3160,8 +3763,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "419400166869",
+    "uikName": "УИК №6",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1026,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3207,8 +3819,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "419400166870",
+    "uikName": "УИК №7",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1733,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3254,8 +3875,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "419400166871",
+    "uikName": "УИК №8",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1737,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3301,8 +3931,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "419400166872",
+    "uikName": "УИК №9",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2078,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3348,8 +3987,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "419400166873",
+    "uikName": "УИК №10",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2669,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3395,8 +4043,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "419400166874",
+    "uikName": "УИК №11",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3097,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3442,8 +4099,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "419400166875",
+    "uikName": "УИК №12",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2673,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3489,8 +4155,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "419400166876",
+    "uikName": "УИК №13",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2744,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3536,8 +4211,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "419400166877",
+    "uikName": "УИК №14",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2198,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3583,8 +4267,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "419400166878",
+    "uikName": "УИК №15",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1906,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3630,8 +4323,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "419400166879",
+    "uikName": "УИК №16",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1632,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3677,8 +4379,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "419400166880",
+    "uikName": "УИК №17",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1848,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3724,8 +4435,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "419400166881",
+    "uikName": "УИК №18",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3152,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3771,8 +4491,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "419400166882",
+    "uikName": "УИК №19",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3021,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3818,8 +4547,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "419400166883",
+    "uikName": "УИК №20",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2781,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3865,8 +4603,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "419400166884",
+    "uikName": "УИК №21",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2977,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3912,8 +4659,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "419400166885",
+    "uikName": "УИК №22",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3959,8 +4715,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "419400166886",
+    "uikName": "УИК №23",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1413,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4006,8 +4771,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "419400166887",
+    "uikName": "УИК №24",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1590,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4053,8 +4827,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "419400166888",
+    "uikName": "УИК №25",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1290,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -4100,8 +4883,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "419400166889",
+    "uikName": "УИК №26",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1581,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -4147,8 +4939,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "419400166890",
+    "uikName": "УИК №27",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1243,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -4194,8 +4995,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "419400166891",
+    "uikName": "УИК №28",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1863,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4241,8 +5051,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "419400166892",
+    "uikName": "УИК №29",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1284,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -4288,8 +5107,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "419400166893",
+    "uikName": "УИК №30",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1558,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4335,8 +5163,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "419400166894",
+    "uikName": "УИК №31",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1606,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4382,8 +5219,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "419400166895",
+    "uikName": "УИК №32",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1935,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4429,8 +5275,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "419400166896",
+    "uikName": "УИК №33",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 875,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -4476,8 +5331,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "419400166897",
+    "uikName": "УИК №34",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1026,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -4523,8 +5387,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "419400166898",
+    "uikName": "УИК №35",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4570,8 +5443,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "419400166899",
+    "uikName": "УИК №36",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1467,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4617,8 +5499,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "419400166900",
+    "uikName": "УИК №37",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1336,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4664,8 +5555,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "419400166901",
+    "uikName": "УИК №38",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1086,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4711,8 +5611,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "419400166902",
+    "uikName": "УИК №39",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1447,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4758,8 +5667,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "419400166903",
+    "uikName": "УИК №40",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4805,8 +5723,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "419400166904",
+    "uikName": "УИК №41",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2175,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4852,8 +5779,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "419400166905",
+    "uikName": "УИК №42",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2017,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4899,8 +5835,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "419400166906",
+    "uikName": "УИК №43",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1218,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4946,8 +5891,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "419400166907",
+    "uikName": "УИК №44",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1204,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -4993,8 +5947,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "419400166908",
+    "uikName": "УИК №45",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1858,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5040,8 +6003,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "419400166909",
+    "uikName": "УИК №46",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1109,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5087,8 +6059,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "419400166910",
+    "uikName": "УИК №47",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2780,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5134,8 +6115,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "419400166911",
+    "uikName": "УИК №48",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2540,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5181,8 +6171,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "419400166912",
+    "uikName": "УИК №49",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2806,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5228,8 +6227,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "419400166913",
+    "uikName": "УИК №50",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2603,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5275,8 +6283,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "419400166914",
+    "uikName": "УИК №51",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2042,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5322,8 +6339,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "419400166915",
+    "uikName": "УИК №52",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2779,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5369,8 +6395,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "419400166916",
+    "uikName": "УИК №53",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2642,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5416,8 +6451,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "419400166917",
+    "uikName": "УИК №54",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3030,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5463,8 +6507,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "419400166918",
+    "uikName": "УИК №55",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1983,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5510,8 +6563,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "419400166919",
+    "uikName": "УИК №56",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2411,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5557,8 +6619,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "419400166920",
+    "uikName": "УИК №57",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2162,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5604,8 +6675,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "419400166921",
+    "uikName": "УИК №58",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3285,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -5651,8 +6731,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "419400166922",
+    "uikName": "УИК №59",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1296,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5698,8 +6787,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "419400166923",
+    "uikName": "УИК №60",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2081,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5745,8 +6843,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "419400166924",
+    "uikName": "УИК №61",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3024,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5792,8 +6899,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "419400166925",
+    "uikName": "УИК №62",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3090,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5839,8 +6955,17 @@ export const duma_2003_uik_428_region_19_part_002 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "419400166926",
+    "uikName": "УИК №63",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1300,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,

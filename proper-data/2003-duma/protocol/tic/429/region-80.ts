@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_80 = [
     "ballot": "single-member",
     "tikTvd": "280200066812",
     "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 16564,
@@ -81,6 +89,14 @@ export const duma_2003_tic_429_region_80 = [
     "ballot": "single-member",
     "tikTvd": "280200066813",
     "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 9886,
@@ -142,6 +158,14 @@ export const duma_2003_tic_429_region_80 = [
     "ballot": "single-member",
     "tikTvd": "280200066814",
     "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 18701,

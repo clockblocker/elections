@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066621",
     "tikName": "Городовиковская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 13431,
@@ -89,6 +97,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066622",
     "tikName": "Ики-Бурульская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки": 7835,
@@ -156,6 +172,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066623",
     "tikName": "Лаганская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 15356,
@@ -232,6 +256,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066624",
     "tikName": "Кетченеровская",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 7021,
@@ -302,6 +334,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066625",
     "tikName": "Малодербетовская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки": 8126,
@@ -366,6 +406,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066626",
     "tikName": "Приютненская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки": 8557,
@@ -428,6 +476,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066627",
     "tikName": "Октябрьская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки": 5938,
@@ -491,6 +547,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066628",
     "tikName": "Сарпинская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 10575,
@@ -559,6 +623,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066629",
     "tikName": "Целинная",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 13018,
@@ -630,6 +702,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066630",
     "tikName": "Черноземельская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 8075,
@@ -696,6 +776,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066631",
     "tikName": "Элистинская",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки": 79950,
@@ -806,6 +894,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066632",
     "tikName": "Юстинская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 7470,
@@ -872,6 +968,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066633",
     "tikName": "Яшалтинская",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 11902,
@@ -942,6 +1046,14 @@ export const duma_2003_tic_429_region_8 = [
     "ballot": "single-member",
     "tikTvd": "208200066634",
     "tikName": "Яшкульская ",
+    "regionCode": "8",
+    "regionTvd": "100100095739",
+    "regionName": "Республика Калмыкия",
+    "district": {
+      "districtNumber": 15,
+      "oikTvd": "100100095740",
+      "oikName": "Калмыцкий"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 9540,

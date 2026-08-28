@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1882,
     "uikTvd": "466402566721",
+    "uikName": "УИК №1882",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2592,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1883,
     "uikTvd": "466402566722",
+    "uikName": "УИК №1883",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2970,
       "Число бюллетеней, полученных участковыми комиссиями": 2860,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1884,
     "uikTvd": "466402566723",
+    "uikName": "УИК №1884",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2440,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1885,
     "uikTvd": "466402566724",
+    "uikName": "УИК №1885",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1609,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1886,
     "uikTvd": "466402566725",
+    "uikName": "УИК №1886",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1836,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1887,
     "uikTvd": "466402566726",
+    "uikName": "УИК №1887",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2168,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1888,
     "uikTvd": "466402566727",
+    "uikName": "УИК №1888",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2175,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1889,
     "uikTvd": "466402566728",
+    "uikName": "УИК №1889",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2576,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1890,
     "uikTvd": "466402566729",
+    "uikName": "УИК №1890",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2679,
       "Число бюллетеней, полученных участковыми комиссиями": 2680,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1891,
     "uikTvd": "466402566730",
+    "uikName": "УИК №1891",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2896,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1892,
     "uikTvd": "466402566731",
+    "uikName": "УИК №1892",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2655,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1893,
     "uikTvd": "466402566732",
+    "uikName": "УИК №1893",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1894,
     "uikTvd": "466402566733",
+    "uikName": "УИК №1894",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2773,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1895,
     "uikTvd": "466402566734",
+    "uikName": "УИК №1895",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2115,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1896,
     "uikTvd": "466402566735",
+    "uikName": "УИК №1896",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2507,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1897,
     "uikTvd": "466402566736",
+    "uikName": "УИК №1897",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1752,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1898,
     "uikTvd": "466402566737",
+    "uikName": "УИК №1898",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2415,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1899,
     "uikTvd": "466402566738",
+    "uikName": "УИК №1899",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1900,
     "uikTvd": "466402566739",
+    "uikName": "УИК №1900",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1614,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1901,
     "uikTvd": "466402566740",
+    "uikName": "УИК №1901",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1830,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1902,
     "uikTvd": "466402566741",
+    "uikName": "УИК №1902",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2904,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1903,
     "uikTvd": "466402566742",
+    "uikName": "УИК №1903",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2998,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1904,
     "uikTvd": "466402566743",
+    "uikName": "УИК №1904",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1592,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1905,
     "uikTvd": "466402566744",
+    "uikName": "УИК №1905",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2568,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1906,
     "uikTvd": "466402566745",
+    "uikName": "УИК №1906",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2157,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1907,
     "uikTvd": "466402566746",
+    "uikName": "УИК №1907",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1859,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1908,
     "uikTvd": "466402566747",
+    "uikName": "УИК №1908",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1621,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1909,
     "uikTvd": "466402566748",
+    "uikName": "УИК №1909",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1910,
     "uikTvd": "466402566749",
+    "uikName": "УИК №1910",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 590,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1911,
     "uikTvd": "466402566750",
+    "uikName": "УИК №1911",
     "tikTvd": "366300266718",
     "tikName": "Каменск-Уральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 460,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2526,
     "uikTvd": "466405666615",
+    "uikName": "УИК №2526",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2584,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2527,
     "uikTvd": "466405666616",
+    "uikName": "УИК №2527",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 973,
       "Число бюллетеней, полученных участковыми комиссиями": 846,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2528,
     "uikTvd": "466405666617",
+    "uikName": "УИК №2528",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1833,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2529,
     "uikTvd": "466405666618",
+    "uikName": "УИК №2529",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1441,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2530,
     "uikTvd": "466405666619",
+    "uikName": "УИК №2530",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1283,
       "Число бюллетеней, полученных участковыми комиссиями": 1135,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2531,
     "uikTvd": "466405666620",
+    "uikName": "УИК №2531",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2439,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2532,
     "uikTvd": "466405666621",
+    "uikName": "УИК №2532",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2507,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2533,
     "uikTvd": "466405666622",
+    "uikName": "УИК №2533",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 938,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2534,
     "uikTvd": "466405666623",
+    "uikName": "УИК №2534",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1508,
       "Число бюллетеней, полученных участковыми комиссиями": 1355,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2535,
     "uikTvd": "466405666624",
+    "uikName": "УИК №2535",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1053,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2536,
     "uikTvd": "466405666625",
+    "uikName": "УИК №2536",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1829,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2537,
     "uikTvd": "466405666626",
+    "uikName": "УИК №2537",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2260,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2538,
     "uikTvd": "466405666627",
+    "uikName": "УИК №2538",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2177,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2539,
     "uikTvd": "466405666628",
+    "uikName": "УИК №2539",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2419,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2540,
     "uikTvd": "466405666629",
+    "uikName": "УИК №2540",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 263,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2541,
     "uikTvd": "466405666630",
+    "uikName": "УИК №2541",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1344,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2542,
     "uikTvd": "466405666631",
+    "uikName": "УИК №2542",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 887,
       "Число бюллетеней, полученных участковыми комиссиями": 805,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2543,
     "uikTvd": "466405666632",
+    "uikName": "УИК №2543",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2544,
     "uikTvd": "466405666633",
+    "uikName": "УИК №2544",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 673,
       "Число бюллетеней, полученных участковыми комиссиями": 605,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2545,
     "uikTvd": "466405666634",
+    "uikName": "УИК №2545",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2546,
     "uikTvd": "466405666635",
+    "uikName": "УИК №2546",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1075,
       "Число бюллетеней, полученных участковыми комиссиями": 975,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2547,
     "uikTvd": "466405666636",
+    "uikName": "УИК №2547",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 207,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2548,
     "uikTvd": "466405666637",
+    "uikName": "УИК №2548",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 234,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2549,
     "uikTvd": "466405666638",
+    "uikName": "УИК №2549",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1632,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2550,
     "uikTvd": "466405666639",
+    "uikName": "УИК №2550",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 730,
       "Число бюллетеней, полученных участковыми комиссиями": 645,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2551,
     "uikTvd": "466405666640",
+    "uikName": "УИК №2551",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1003,
       "Число бюллетеней, полученных участковыми комиссиями": 891,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2552,
     "uikTvd": "466405666641",
+    "uikName": "УИК №2552",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1602,
       "Число бюллетеней, полученных участковыми комиссиями": 1455,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2553,
     "uikTvd": "466405666642",
+    "uikName": "УИК №2553",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2554,
     "uikTvd": "466405666643",
+    "uikName": "УИК №2554",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 732,
       "Число бюллетеней, полученных участковыми комиссиями": 695,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2555,
     "uikTvd": "466405666644",
+    "uikName": "УИК №2555",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2556,
     "uikTvd": "466405666645",
+    "uikName": "УИК №2556",
     "tikTvd": "366300266719",
     "tikName": "Сухоложская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 312,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2569,
     "uikTvd": "466407366597",
+    "uikName": "УИК №2569",
     "tikTvd": "366300266720",
     "tikName": "Верхнедубровская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2566,
       "Число бюллетеней, полученных участковыми комиссиями": 2564,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2570,
     "uikTvd": "466407366598",
+    "uikName": "УИК №2570",
     "tikTvd": "366300266720",
     "tikName": "Верхнедубровская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1146,
       "Число бюллетеней, полученных участковыми комиссиями": 1236,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2575,
     "uikTvd": "466407866632",
+    "uikName": "УИК №2575",
     "tikTvd": "366300266721",
     "tikName": "Малышевская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1304,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2576,
     "uikTvd": "466407866633",
+    "uikName": "УИК №2576",
     "tikTvd": "366300266721",
     "tikName": "Малышевская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2246,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2577,
     "uikTvd": "466407866634",
+    "uikName": "УИК №2577",
     "tikTvd": "366300266721",
     "tikName": "Малышевская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2578,
     "uikTvd": "466407866635",
+    "uikName": "УИК №2578",
     "tikTvd": "366300266721",
     "tikName": "Малышевская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2183,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2579,
     "uikTvd": "466407866636",
+    "uikName": "УИК №2579",
     "tikTvd": "366300266721",
     "tikName": "Малышевская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2581,
     "uikTvd": "466408066630",
+    "uikName": "УИК №2581",
     "tikTvd": "366300266722",
     "tikName": "Рефтинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2205,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2582,
     "uikTvd": "466408066631",
+    "uikName": "УИК №2582",
     "tikTvd": "366300266722",
     "tikName": "Рефтинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2291,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2583,
     "uikTvd": "466408066632",
+    "uikName": "УИК №2583",
     "tikTvd": "366300266722",
     "tikName": "Рефтинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2584,
     "uikTvd": "466408066633",
+    "uikName": "УИК №2584",
     "tikTvd": "366300266722",
     "tikName": "Рефтинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2354,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2585,
     "uikTvd": "466408066634",
+    "uikName": "УИК №2585",
     "tikTvd": "366300266722",
     "tikName": "Рефтинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2279,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2586,
     "uikTvd": "466408066635",
+    "uikName": "УИК №2586",
     "tikTvd": "366300266722",
     "tikName": "Рефтинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2279,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "466400766720",
+    "uikName": "УИК №210",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1864,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "466400766721",
+    "uikName": "УИК №211",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1470,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "466400766722",
+    "uikName": "УИК №212",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 688,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "466400766723",
+    "uikName": "УИК №213",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "466400766724",
+    "uikName": "УИК №214",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1589,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "466400766725",
+    "uikName": "УИК №215",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "466400766726",
+    "uikName": "УИК №216",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "466400766727",
+    "uikName": "УИК №217",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "466400766728",
+    "uikName": "УИК №218",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "466400766729",
+    "uikName": "УИК №219",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "466400766730",
+    "uikName": "УИК №220",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1092,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "466400766731",
+    "uikName": "УИК №221",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "466400766732",
+    "uikName": "УИК №222",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "466400766733",
+    "uikName": "УИК №223",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1581,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "466400766734",
+    "uikName": "УИК №224",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "466400766735",
+    "uikName": "УИК №225",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "466400766736",
+    "uikName": "УИК №226",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "466400766737",
+    "uikName": "УИК №227",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "466400766738",
+    "uikName": "УИК №228",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "466400766739",
+    "uikName": "УИК №229",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "466400766740",
+    "uikName": "УИК №230",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1086,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "466400766741",
+    "uikName": "УИК №231",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1208,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "466400766742",
+    "uikName": "УИК №232",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 624,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "466400766743",
+    "uikName": "УИК №233",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "466400766744",
+    "uikName": "УИК №234",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "466400766745",
+    "uikName": "УИК №235",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 896,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "466400766746",
+    "uikName": "УИК №236",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 479,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "466400766747",
+    "uikName": "УИК №237",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1078,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "466400766748",
+    "uikName": "УИК №238",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "466400766749",
+    "uikName": "УИК №239",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 567,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "466400766750",
+    "uikName": "УИК №240",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "466400766751",
+    "uikName": "УИК №241",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1579,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "466400766752",
+    "uikName": "УИК №242",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "466400766718",
+    "uikName": "УИК №243",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1157,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2604,
     "uikTvd": "466400767344",
+    "uikName": "УИК №2604",
     "tikTvd": "366300266723",
     "tikName": "Белоярская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1846,
       "Число бюллетеней, полученных участковыми комиссиями": 2001,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "466402766643",
+    "uikName": "УИК №398",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1253,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "466402766644",
+    "uikName": "УИК №399",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1916,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "466402766645",
+    "uikName": "УИК №400",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "466402766646",
+    "uikName": "УИК №401",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1692,
       "Число бюллетеней, полученных участковыми комиссиями": 1525,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "466402766647",
+    "uikName": "УИК №402",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 405,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "466402766648",
+    "uikName": "УИК №403",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "466402766649",
+    "uikName": "УИК №404",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1004,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "466402766650",
+    "uikName": "УИК №405",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "466402766651",
+    "uikName": "УИК №406",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "466402766652",
+    "uikName": "УИК №407",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 344,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "466402766653",
+    "uikName": "УИК №408",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 994,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "466402766654",
+    "uikName": "УИК №409",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "466402766655",
+    "uikName": "УИК №410",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "466402766656",
+    "uikName": "УИК №411",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 642,
       "Число бюллетеней, полученных участковыми комиссиями": 595,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "466402766657",
+    "uikName": "УИК №412",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 141,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "466402766658",
+    "uikName": "УИК №413",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "466402766659",
+    "uikName": "УИК №414",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 997,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "466402766660",
+    "uikName": "УИК №415",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1775,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "466402766661",
+    "uikName": "УИК №416",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "466402766662",
+    "uikName": "УИК №417",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "466402766663",
+    "uikName": "УИК №418",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1045,
       "Число бюллетеней, полученных участковыми комиссиями": 933,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "466402766665",
+    "uikName": "УИК №420",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1379,
       "Число бюллетеней, полученных участковыми комиссиями": 1185,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "466402766666",
+    "uikName": "УИК №421",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "466402766667",
+    "uikName": "УИК №422",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1759,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "466402766668",
+    "uikName": "УИК №423",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 821,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "466402766669",
+    "uikName": "УИК №424",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "466402766670",
+    "uikName": "УИК №425",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "466402766671",
+    "uikName": "УИК №426",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "466402766672",
+    "uikName": "УИК №427",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 853,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "466402766673",
+    "uikName": "УИК №428",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 691,
       "Число бюллетеней, полученных участковыми комиссиями": 604,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "466402766674",
+    "uikName": "УИК №429",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "466402766675",
+    "uikName": "УИК №430",
     "tikTvd": "366300266724",
     "tikName": "Каменская районная ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "466401066660",
+    "uikName": "УИК №246",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1883,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "466401066661",
+    "uikName": "УИК №247",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2043,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "466401066662",
+    "uikName": "УИК №248",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1945,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "466401066663",
+    "uikName": "УИК №249",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2262,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "466401066664",
+    "uikName": "УИК №250",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 441,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "466401066665",
+    "uikName": "УИК №251",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2218,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "466401066666",
+    "uikName": "УИК №252",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "466401066667",
+    "uikName": "УИК №253",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2264,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "466401066668",
+    "uikName": "УИК №254",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2123,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "466401066669",
+    "uikName": "УИК №255",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2432,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "466401066670",
+    "uikName": "УИК №256",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2120,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "466401066671",
+    "uikName": "УИК №257",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1132,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "466401066672",
+    "uikName": "УИК №258",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "466401066673",
+    "uikName": "УИК №259",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1198,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "466401066674",
+    "uikName": "УИК №260",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "466401066675",
+    "uikName": "УИК №261",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 942,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "466401066676",
+    "uikName": "УИК №263",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 888,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "466401066677",
+    "uikName": "УИК №264",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1495,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "466401066678",
+    "uikName": "УИК №265",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1039,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "466401066679",
+    "uikName": "УИК №266",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "466401066680",
+    "uikName": "УИК №267",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1319,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "466401066681",
+    "uikName": "УИК №268",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2032,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "466401066682",
+    "uikName": "УИК №269",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 849,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "466401066683",
+    "uikName": "УИК №270",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "466401066684",
+    "uikName": "УИК №271",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 645,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "466401066685",
+    "uikName": "УИК №272",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "466401066686",
+    "uikName": "УИК №273",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 744,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "466401066687",
+    "uikName": "УИК №274",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "466401066688",
+    "uikName": "УИК №275",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 641,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "466401066689",
+    "uikName": "УИК №276",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2107,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "466401066690",
+    "uikName": "УИК №277",
     "tikTvd": "366300266725",
     "tikName": "Богдановичская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2110,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 837,
     "uikTvd": "466405767449",
+    "uikName": "УИК №837",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 757,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 838,
     "uikTvd": "466405767450",
+    "uikName": "УИК №838",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1247,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 839,
     "uikTvd": "466405767451",
+    "uikName": "УИК №839",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1576,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 840,
     "uikTvd": "466405767452",
+    "uikName": "УИК №840",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2110,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 841,
     "uikTvd": "466405767453",
+    "uikName": "УИК №841",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2363,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 842,
     "uikTvd": "466405767454",
+    "uikName": "УИК №842",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1586,
       "Число бюллетеней, полученных участковыми комиссиями": 1515,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 843,
     "uikTvd": "466405767455",
+    "uikName": "УИК №843",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1960,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 844,
     "uikTvd": "466405767456",
+    "uikName": "УИК №844",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1510,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 845,
     "uikTvd": "466405767457",
+    "uikName": "УИК №845",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1451,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 846,
     "uikTvd": "466405767458",
+    "uikName": "УИК №846",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1297,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 847,
     "uikTvd": "466405767459",
+    "uikName": "УИК №847",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1244,
       "Число бюллетеней, полученных участковыми комиссиями": 1155,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 848,
     "uikTvd": "466405767460",
+    "uikName": "УИК №848",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 849,
     "uikTvd": "466405767461",
+    "uikName": "УИК №849",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 850,
     "uikTvd": "466405767462",
+    "uikName": "УИК №850",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1974,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 851,
     "uikTvd": "466405767463",
+    "uikName": "УИК №851",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1467,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 852,
     "uikTvd": "466405767464",
+    "uikName": "УИК №852",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 853,
     "uikTvd": "466405767465",
+    "uikName": "УИК №853",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1208,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 854,
     "uikTvd": "466405767466",
+    "uikName": "УИК №854",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2429,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 855,
     "uikTvd": "466405767467",
+    "uikName": "УИК №855",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1208,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 856,
     "uikTvd": "466405767468",
+    "uikName": "УИК №856",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 899,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 857,
     "uikTvd": "466405767469",
+    "uikName": "УИК №857",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1832,
       "Число бюллетеней, полученных участковыми комиссиями": 1785,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 858,
     "uikTvd": "466405767470",
+    "uikName": "УИК №858",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2049,
       "Число бюллетеней, полученных участковыми комиссиями": 2015,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 859,
     "uikTvd": "466405767471",
+    "uikName": "УИК №859",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1626,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 860,
     "uikTvd": "466405767472",
+    "uikName": "УИК №860",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 861,
     "uikTvd": "466405767473",
+    "uikName": "УИК №861",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 862,
     "uikTvd": "466405767474",
+    "uikName": "УИК №862",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 854,
       "Число бюллетеней, полученных участковыми комиссиями": 835,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 863,
     "uikTvd": "466405767475",
+    "uikName": "УИК №863",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 864,
     "uikTvd": "466405767476",
+    "uikName": "УИК №864",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 481,
       "Число бюллетеней, полученных участковыми комиссиями": 465,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 865,
     "uikTvd": "466405767477",
+    "uikName": "УИК №865",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1861,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 866,
     "uikTvd": "466405767478",
+    "uikName": "УИК №866",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 555,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 867,
     "uikTvd": "466405767479",
+    "uikName": "УИК №867",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 868,
     "uikTvd": "466405767480",
+    "uikName": "УИК №868",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1086,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 869,
     "uikTvd": "466405767481",
+    "uikName": "УИК №869",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 770,
       "Число бюллетеней, полученных участковыми комиссиями": 765,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "466405767482",
+    "uikName": "УИК №870",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 828,
       "Число бюллетеней, полученных участковыми комиссиями": 815,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "466405767483",
+    "uikName": "УИК №871",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 653,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "466405767484",
+    "uikName": "УИК №872",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 640,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "466405767485",
+    "uikName": "УИК №873",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "466405767486",
+    "uikName": "УИК №874",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "466405767487",
+    "uikName": "УИК №875",
     "tikTvd": "366300266726",
     "tikName": "Сысертская районная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 163,
+      "oikTvd": "100100095920",
+      "oikName": "Каменск-Уральский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2572,
     "uikTvd": "466407266673",
+    "uikName": "УИК №2572",
     "tikTvd": "366300366742",
     "tikName": "Верх-Нейвинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2021,
       "Число бюллетеней, полученных участковыми комиссиями": 2060,
@@ -10185,8 +12093,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2573,
     "uikTvd": "466407266674",
+    "uikName": "УИК №2573",
     "tikTvd": "366300366742",
     "tikName": "Верх-Нейвинская поселковая",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1943,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -10231,8 +12148,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1215,
     "uikTvd": "466407466920",
+    "uikName": "УИК №1215",
     "tikTvd": "366300366743",
     "tikName": "Верхнетагильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -10277,8 +12203,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1216,
     "uikTvd": "466407466921",
+    "uikName": "УИК №1216",
     "tikTvd": "366300366743",
     "tikName": "Верхнетагильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2904,
       "Число бюллетеней, полученных участковыми комиссиями": 2620,
@@ -10323,8 +12258,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1217,
     "uikTvd": "466407466922",
+    "uikName": "УИК №1217",
     "tikTvd": "366300366743",
     "tikName": "Верхнетагильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2988,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -10369,8 +12313,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1218,
     "uikTvd": "466407466923",
+    "uikName": "УИК №1218",
     "tikTvd": "366300366743",
     "tikName": "Верхнетагильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3021,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10415,8 +12368,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1219,
     "uikTvd": "466407466924",
+    "uikName": "УИК №1219",
     "tikTvd": "366300366743",
     "tikName": "Верхнетагильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1598,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -10461,8 +12423,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1220,
     "uikTvd": "466407466925",
+    "uikName": "УИК №1220",
     "tikTvd": "366300366743",
     "tikName": "Верхнетагильская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1267,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -10507,8 +12478,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2140,
     "uikTvd": "466404266885",
+    "uikName": "УИК №2140",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2021,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10553,8 +12533,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2141,
     "uikTvd": "466404266887",
+    "uikName": "УИК №2141",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2022,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -10599,8 +12588,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2142,
     "uikTvd": "466404266717",
+    "uikName": "УИК №2142",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1704,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10645,8 +12643,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2143,
     "uikTvd": "466404266718",
+    "uikName": "УИК №2143",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2188,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10691,8 +12698,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2144,
     "uikTvd": "466404266719",
+    "uikName": "УИК №2144",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 1903,
@@ -10737,8 +12753,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2145,
     "uikTvd": "466404266720",
+    "uikName": "УИК №2145",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1893,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -10783,8 +12808,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2146,
     "uikTvd": "466404266721",
+    "uikName": "УИК №2146",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1844,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -10829,8 +12863,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2147,
     "uikTvd": "466404266722",
+    "uikName": "УИК №2147",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2245,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -10875,8 +12918,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2148,
     "uikTvd": "466404266723",
+    "uikName": "УИК №2148",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2125,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -10921,8 +12973,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2149,
     "uikTvd": "466404266724",
+    "uikName": "УИК №2149",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10967,8 +13028,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2150,
     "uikTvd": "466404266725",
+    "uikName": "УИК №2150",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2149,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -11013,8 +13083,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2151,
     "uikTvd": "466404266726",
+    "uikName": "УИК №2151",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2369,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -11059,8 +13138,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2152,
     "uikTvd": "466404266727",
+    "uikName": "УИК №2152",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2346,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11105,8 +13193,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2153,
     "uikTvd": "466404266728",
+    "uikName": "УИК №2153",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2662,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -11151,8 +13248,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2154,
     "uikTvd": "466404266729",
+    "uikName": "УИК №2154",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2769,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -11197,8 +13303,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2155,
     "uikTvd": "466404266730",
+    "uikName": "УИК №2155",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2481,
       "Число бюллетеней, полученных участковыми комиссиями": 2490,
@@ -11243,8 +13358,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2156,
     "uikTvd": "466404266731",
+    "uikName": "УИК №2156",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2573,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -11289,8 +13413,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2157,
     "uikTvd": "466404266732",
+    "uikName": "УИК №2157",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2106,
       "Число бюллетеней, полученных участковыми комиссиями": 2060,
@@ -11335,8 +13468,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2158,
     "uikTvd": "466404266733",
+    "uikName": "УИК №2158",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2093,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -11381,8 +13523,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2159,
     "uikTvd": "466404266734",
+    "uikName": "УИК №2159",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2203,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11427,8 +13578,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2160,
     "uikTvd": "466404266735",
+    "uikName": "УИК №2160",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2322,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11473,8 +13633,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2161,
     "uikTvd": "466404266736",
+    "uikName": "УИК №2161",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2502,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -11519,8 +13688,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2162,
     "uikTvd": "466404266737",
+    "uikName": "УИК №2162",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2428,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11565,8 +13743,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2163,
     "uikTvd": "466404266738",
+    "uikName": "УИК №2163",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2387,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -11611,8 +13798,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2164,
     "uikTvd": "466404266739",
+    "uikName": "УИК №2164",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -11657,8 +13853,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2165,
     "uikTvd": "466404266740",
+    "uikName": "УИК №2165",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2071,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -11703,8 +13908,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2166,
     "uikTvd": "466404266741",
+    "uikName": "УИК №2166",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2050,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -11749,8 +13963,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2167,
     "uikTvd": "466404266742",
+    "uikName": "УИК №2167",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2507,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11795,8 +14018,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2168,
     "uikTvd": "466404266743",
+    "uikName": "УИК №2168",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11841,8 +14073,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2169,
     "uikTvd": "466404266744",
+    "uikName": "УИК №2169",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2811,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -11887,8 +14128,17 @@ export const duma_2003_uik_428_region_66_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2170,
     "uikTvd": "466404266745",
+    "uikName": "УИК №2170",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2140,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,

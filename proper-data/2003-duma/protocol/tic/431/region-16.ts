@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки": 22149,
@@ -118,6 +121,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 27508,
@@ -233,6 +239,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки": 109912,
@@ -353,6 +362,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 16515,
@@ -454,6 +466,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 47541,
@@ -563,6 +578,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки": 22495,
@@ -677,6 +695,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170528",
     "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 19161,
@@ -792,6 +813,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170529",
     "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки": 15232,
@@ -905,6 +929,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170530",
     "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 15825,
@@ -988,6 +1015,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170531",
     "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 10483,
@@ -1075,6 +1105,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170532",
     "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 16162,
@@ -1184,6 +1217,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170533",
     "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 10646,
@@ -1273,6 +1309,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170534",
     "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 23460,
@@ -1353,6 +1392,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170535",
     "tikName": "Нурлатская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 19179,
@@ -1462,6 +1504,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170536",
     "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в списки": 27548,
@@ -1588,6 +1633,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170538",
     "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 14752,
@@ -1687,6 +1735,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170539",
     "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 17242,
@@ -1781,6 +1832,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300170540",
     "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 26707,
@@ -1861,6 +1915,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300171244",
     "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки": 65103,
@@ -1979,6 +2036,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300171411",
     "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 15135,
@@ -2074,6 +2134,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300171641",
     "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки": 16494,
@@ -2182,6 +2245,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300270696",
     "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки": 16268,
@@ -2304,6 +2370,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300270742",
     "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в списки": 19832,
@@ -2436,6 +2505,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300270743",
     "tikName": "Верхнеуслонская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки": 13432,
@@ -2543,6 +2615,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300270744",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 19567,
@@ -2646,6 +2721,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в списки": 44398,
@@ -2772,6 +2850,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 76834,
@@ -2878,6 +2959,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 82700,
@@ -2981,6 +3065,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки": 81023,
@@ -3094,6 +3181,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки": 98992,
@@ -3212,6 +3302,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300270750",
     "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 11454,
@@ -3312,6 +3405,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300270751",
     "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 13431,
@@ -3416,6 +3512,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300270752",
     "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки": 19435,
@@ -3535,6 +3634,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300270777",
     "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 14261,
@@ -3613,6 +3715,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300370498",
     "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки": 25761,
@@ -3726,6 +3831,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300370499",
     "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 47659,
@@ -3830,6 +3938,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300370500",
     "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 7455,
@@ -3918,6 +4029,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300370501",
     "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки": 22587,
@@ -4029,6 +4143,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300370502",
     "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 20837,
@@ -4128,6 +4245,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300370503",
     "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 21506,
@@ -4243,6 +4363,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300370504",
     "tikName": "Набережно-Челнинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 154,
     "accounting": {
       "Число избирателей, внесенных в списки": 364118,
@@ -4462,6 +4585,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300370505",
     "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки": 21310,
@@ -4573,6 +4699,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470826",
     "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в списки": 36258,
@@ -4708,6 +4837,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470827",
     "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 10208,
@@ -4798,6 +4930,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470828",
     "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 23855,
@@ -4893,6 +5028,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470829",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 53,
     "accounting": {
       "Число избирателей, внесенных в списки": 32908,
@@ -5011,6 +5149,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 27995,
@@ -5101,6 +5242,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в списки": 37793,
@@ -5235,6 +5379,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки": 24494,
@@ -5345,6 +5492,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 63,
     "accounting": {
       "Число избирателей, внесенных в списки": 33269,
@@ -5473,6 +5623,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в списки": 156364,
@@ -5607,6 +5760,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470835",
     "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 20083,
@@ -5707,6 +5863,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470836",
     "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки": 22009,
@@ -5823,6 +5982,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470837",
     "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 22736,
@@ -5929,6 +6091,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470838",
     "tikName": "Тюлячинская   ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 10314,
@@ -6022,6 +6187,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470839",
     "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки": 49778,
@@ -6138,6 +6306,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470840",
     "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 11290,
@@ -6242,6 +6413,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470841",
     "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 26218,
@@ -6341,6 +6515,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300470842",
     "tikName": "Чистопольская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки": 15218,
@@ -6448,6 +6625,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300570368",
     "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в списки": 68775,
@@ -6588,6 +6768,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300570369",
     "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в списки": 157578,
@@ -6723,6 +6906,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300570370",
     "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 89,
     "accounting": {
       "Число избирателей, внесенных в списки": 175209,
@@ -6877,6 +7063,9 @@ export const duma_2003_tic_431_region_16 = [
     "ballot": "party",
     "tikTvd": "316300570371",
     "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
     "uikCount": 96,
     "accounting": {
       "Число избирателей, внесенных в списки": 178389,

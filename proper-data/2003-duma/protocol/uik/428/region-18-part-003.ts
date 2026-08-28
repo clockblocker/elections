@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3223,
     "uikTvd": "418402966682",
+    "uikName": "УИК №3223",
     "tikTvd": "218200066639",
     "tikName": "Юкаменская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 303,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3001,
     "uikTvd": "418402766651",
+    "uikName": "УИК №3001",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 539,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3002,
     "uikTvd": "418402766652",
+    "uikName": "УИК №3002",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3003,
     "uikTvd": "418402766653",
+    "uikName": "УИК №3003",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 692,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3004,
     "uikTvd": "418402766654",
+    "uikName": "УИК №3004",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 992,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3005,
     "uikTvd": "418402766655",
+    "uikName": "УИК №3005",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3006,
     "uikTvd": "418402766656",
+    "uikName": "УИК №3006",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 459,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3007,
     "uikTvd": "418402766657",
+    "uikName": "УИК №3007",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3008,
     "uikTvd": "418402766658",
+    "uikName": "УИК №3008",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3009,
     "uikTvd": "418402766659",
+    "uikName": "УИК №3009",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3010,
     "uikTvd": "418402766660",
+    "uikName": "УИК №3010",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 857,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3011,
     "uikTvd": "418402766661",
+    "uikName": "УИК №3011",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 792,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3012,
     "uikTvd": "418402766662",
+    "uikName": "УИК №3012",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 406,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3013,
     "uikTvd": "418402766663",
+    "uikName": "УИК №3013",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3014,
     "uikTvd": "418402766664",
+    "uikName": "УИК №3014",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3015,
     "uikTvd": "418402766665",
+    "uikName": "УИК №3015",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3016,
     "uikTvd": "418402766666",
+    "uikName": "УИК №3016",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 733,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3017,
     "uikTvd": "418402766667",
+    "uikName": "УИК №3017",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 970,
       "Число бюллетеней, полученных участковыми комиссиями": 1010,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3018,
     "uikTvd": "418402766668",
+    "uikName": "УИК №3018",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3019,
     "uikTvd": "418402766669",
+    "uikName": "УИК №3019",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3020,
     "uikTvd": "418402766670",
+    "uikName": "УИК №3020",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2375,
       "Число бюллетеней, полученных участковыми комиссиями": 2390,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3021,
     "uikTvd": "418402766671",
+    "uikName": "УИК №3021",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 932,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3022,
     "uikTvd": "418402766672",
+    "uikName": "УИК №3022",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3023,
     "uikTvd": "418402766673",
+    "uikName": "УИК №3023",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 885,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3024,
     "uikTvd": "418402766674",
+    "uikName": "УИК №3024",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3025,
     "uikTvd": "418402766675",
+    "uikName": "УИК №3025",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2642,
       "Число бюллетеней, полученных участковыми комиссиями": 2640,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3026,
     "uikTvd": "418402766676",
+    "uikName": "УИК №3026",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 940,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3027,
     "uikTvd": "418402766677",
+    "uikName": "УИК №3027",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 515,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3028,
     "uikTvd": "418402766678",
+    "uikName": "УИК №3028",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3029,
     "uikTvd": "418402766679",
+    "uikName": "УИК №3029",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3030,
     "uikTvd": "418402766680",
+    "uikName": "УИК №3030",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1495,
       "Число бюллетеней, полученных участковыми комиссиями": 1509,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3031,
     "uikTvd": "418402766681",
+    "uikName": "УИК №3031",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 972,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3032,
     "uikTvd": "418402766682",
+    "uikName": "УИК №3032",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 344,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3033,
     "uikTvd": "418402766683",
+    "uikName": "УИК №3033",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3034,
     "uikTvd": "418402766684",
+    "uikName": "УИК №3034",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3035,
     "uikTvd": "418402766685",
+    "uikName": "УИК №3035",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3036,
     "uikTvd": "418402766686",
+    "uikName": "УИК №3036",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1919,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3037,
     "uikTvd": "418402766687",
+    "uikName": "УИК №3037",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1804,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3038,
     "uikTvd": "418402766688",
+    "uikName": "УИК №3038",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2039,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3039,
     "uikTvd": "418402766689",
+    "uikName": "УИК №3039",
     "tikTvd": "218200066640",
     "tikName": "Увинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1860,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3101,
     "uikTvd": "418402866684",
+    "uikName": "УИК №3101",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 552,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3102,
     "uikTvd": "418402866685",
+    "uikName": "УИК №3102",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3103,
     "uikTvd": "418402866686",
+    "uikName": "УИК №3103",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3104,
     "uikTvd": "418402866738",
+    "uikName": "УИК №3104",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3105,
     "uikTvd": "418402866688",
+    "uikName": "УИК №3105",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 623,
       "Число бюллетеней, полученных участковыми комиссиями": 565,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3106,
     "uikTvd": "418402866689",
+    "uikName": "УИК №3106",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3107,
     "uikTvd": "418402866690",
+    "uikName": "УИК №3107",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3108,
     "uikTvd": "418402866691",
+    "uikName": "УИК №3108",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 477,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3109,
     "uikTvd": "418402866692",
+    "uikName": "УИК №3109",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 499,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3110,
     "uikTvd": "418402866693",
+    "uikName": "УИК №3110",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3111,
     "uikTvd": "418402866694",
+    "uikName": "УИК №3111",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 580,
       "Число бюллетеней, полученных участковыми комиссиями": 525,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3112,
     "uikTvd": "418402866695",
+    "uikName": "УИК №3112",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3113,
     "uikTvd": "418402866696",
+    "uikName": "УИК №3113",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 463,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3114,
     "uikTvd": "418402866697",
+    "uikName": "УИК №3114",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3115,
     "uikTvd": "418402866698",
+    "uikName": "УИК №3115",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3116,
     "uikTvd": "418402866699",
+    "uikName": "УИК №3116",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 678,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3117,
     "uikTvd": "418402866700",
+    "uikName": "УИК №3117",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3118,
     "uikTvd": "418402866701",
+    "uikName": "УИК №3118",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3119,
     "uikTvd": "418402866702",
+    "uikName": "УИК №3119",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 713,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3120,
     "uikTvd": "418402866703",
+    "uikName": "УИК №3120",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2520,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3121,
     "uikTvd": "418402866704",
+    "uikName": "УИК №3121",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2673,
       "Число бюллетеней, полученных участковыми комиссиями": 2405,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3122,
     "uikTvd": "418402866705",
+    "uikName": "УИК №3122",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3123,
     "uikTvd": "418402866706",
+    "uikName": "УИК №3123",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3124,
     "uikTvd": "418402866707",
+    "uikName": "УИК №3124",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 506,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3125,
     "uikTvd": "418402866708",
+    "uikName": "УИК №3125",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3126,
     "uikTvd": "418402866709",
+    "uikName": "УИК №3126",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3127,
     "uikTvd": "418402866710",
+    "uikName": "УИК №3127",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3128,
     "uikTvd": "418402866711",
+    "uikName": "УИК №3128",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3129,
     "uikTvd": "418402866712",
+    "uikName": "УИК №3129",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3130,
     "uikTvd": "418402866713",
+    "uikName": "УИК №3130",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3131,
     "uikTvd": "418402866714",
+    "uikName": "УИК №3131",
     "tikTvd": "218200066641",
     "tikName": "Шарканская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2901,
     "uikTvd": "418402666646",
+    "uikName": "УИК №2901",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 985,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2902,
     "uikTvd": "418402666647",
+    "uikName": "УИК №2902",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2903,
     "uikTvd": "418402666648",
+    "uikName": "УИК №2903",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 986,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2904,
     "uikTvd": "418402666649",
+    "uikName": "УИК №2904",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 990,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2905,
     "uikTvd": "418402666650",
+    "uikName": "УИК №2905",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 496,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2906,
     "uikTvd": "418402666651",
+    "uikName": "УИК №2906",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2907,
     "uikTvd": "418402666652",
+    "uikName": "УИК №2907",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2908,
     "uikTvd": "418402666653",
+    "uikName": "УИК №2908",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2909,
     "uikTvd": "418402666654",
+    "uikName": "УИК №2909",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2910,
     "uikTvd": "418402666655",
+    "uikName": "УИК №2910",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2911,
     "uikTvd": "418402666656",
+    "uikName": "УИК №2911",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2912,
     "uikTvd": "418402666657",
+    "uikName": "УИК №2912",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2913,
     "uikTvd": "418402666658",
+    "uikName": "УИК №2913",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2914,
     "uikTvd": "418402666659",
+    "uikName": "УИК №2914",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2915,
     "uikTvd": "418402666660",
+    "uikName": "УИК №2915",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2916,
     "uikTvd": "418402666661",
+    "uikName": "УИК №2916",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2917,
     "uikTvd": "418402666662",
+    "uikName": "УИК №2917",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2918,
     "uikTvd": "418402666663",
+    "uikName": "УИК №2918",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2919,
     "uikTvd": "418402666664",
+    "uikName": "УИК №2919",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2920,
     "uikTvd": "418402666665",
+    "uikName": "УИК №2920",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 635,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2921,
     "uikTvd": "418402666666",
+    "uikName": "УИК №2921",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2922,
     "uikTvd": "418402666667",
+    "uikName": "УИК №2922",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2923,
     "uikTvd": "418402666668",
+    "uikName": "УИК №2923",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2924,
     "uikTvd": "418402666669",
+    "uikName": "УИК №2924",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2925,
     "uikTvd": "418402666670",
+    "uikName": "УИК №2925",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2926,
     "uikTvd": "418402666671",
+    "uikName": "УИК №2926",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2927,
     "uikTvd": "418402666672",
+    "uikName": "УИК №2927",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 703,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2928,
     "uikTvd": "418402666673",
+    "uikName": "УИК №2928",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 857,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2929,
     "uikTvd": "418402666674",
+    "uikName": "УИК №2929",
     "tikTvd": "218200066642",
     "tikName": "Сюмсинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 669,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2701,
     "uikTvd": "418402466653",
+    "uikName": "УИК №2701",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 718,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2702,
     "uikTvd": "418402466655",
+    "uikName": "УИК №2702",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2703,
     "uikTvd": "418402466657",
+    "uikName": "УИК №2703",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2704,
     "uikTvd": "418402466659",
+    "uikName": "УИК №2704",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 628,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2705,
     "uikTvd": "418402466661",
+    "uikName": "УИК №2705",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2706,
     "uikTvd": "418402466663",
+    "uikName": "УИК №2706",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 905,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2707,
     "uikTvd": "418402466665",
+    "uikName": "УИК №2707",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 881,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2708,
     "uikTvd": "418402466667",
+    "uikName": "УИК №2708",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 789,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2709,
     "uikTvd": "418402466669",
+    "uikName": "УИК №2709",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2710,
     "uikTvd": "418402466671",
+    "uikName": "УИК №2710",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1021,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2711,
     "uikTvd": "418402466673",
+    "uikName": "УИК №2711",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 839,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2712,
     "uikTvd": "418402466675",
+    "uikName": "УИК №2712",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1284,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2713,
     "uikTvd": "418402466677",
+    "uikName": "УИК №2713",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1066,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2714,
     "uikTvd": "418402466679",
+    "uikName": "УИК №2714",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2715,
     "uikTvd": "418402466681",
+    "uikName": "УИК №2715",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2716,
     "uikTvd": "418402466683",
+    "uikName": "УИК №2716",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2717,
     "uikTvd": "418402466685",
+    "uikName": "УИК №2717",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2718,
     "uikTvd": "418402466687",
+    "uikName": "УИК №2718",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2719,
     "uikTvd": "418402466689",
+    "uikName": "УИК №2719",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 706,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2720,
     "uikTvd": "418402466691",
+    "uikName": "УИК №2720",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 933,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2721,
     "uikTvd": "418402466693",
+    "uikName": "УИК №2721",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 504,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2722,
     "uikTvd": "418402466695",
+    "uikName": "УИК №2722",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2723,
     "uikTvd": "418402466697",
+    "uikName": "УИК №2723",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 483,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2724,
     "uikTvd": "418402466699",
+    "uikName": "УИК №2724",
     "tikTvd": "218200066643",
     "tikName": "Сарапульская ",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 693,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2801,
     "uikTvd": "418402566623",
+    "uikName": "УИК №2801",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2802,
     "uikTvd": "418402566624",
+    "uikName": "УИК №2802",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 726,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2803,
     "uikTvd": "418402566625",
+    "uikName": "УИК №2803",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 556,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2804,
     "uikTvd": "418402566626",
+    "uikName": "УИК №2804",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 794,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2805,
     "uikTvd": "418402566627",
+    "uikName": "УИК №2805",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2806,
     "uikTvd": "418402566628",
+    "uikName": "УИК №2806",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2807,
     "uikTvd": "418402566629",
+    "uikName": "УИК №2807",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 600,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2808,
     "uikTvd": "418402566630",
+    "uikName": "УИК №2808",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2809,
     "uikTvd": "418402566631",
+    "uikName": "УИК №2809",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 360,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2810,
     "uikTvd": "418402566632",
+    "uikName": "УИК №2810",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2380,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2811,
     "uikTvd": "418402566633",
+    "uikName": "УИК №2811",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2279,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2812,
     "uikTvd": "418402566634",
+    "uikName": "УИК №2812",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2813,
     "uikTvd": "418402566635",
+    "uikName": "УИК №2813",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2814,
     "uikTvd": "418402566636",
+    "uikName": "УИК №2814",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2815,
     "uikTvd": "418402566637",
+    "uikName": "УИК №2815",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2816,
     "uikTvd": "418402566638",
+    "uikName": "УИК №2816",
     "tikTvd": "218200066644",
     "tikName": "Селтинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2601,
     "uikTvd": "418402266641",
+    "uikName": "УИК №2601",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2602,
     "uikTvd": "418402266643",
+    "uikName": "УИК №2602",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2603,
     "uikTvd": "418402266645",
+    "uikName": "УИК №2603",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1049,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2604,
     "uikTvd": "418402266647",
+    "uikName": "УИК №2604",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1350,
       "Число бюллетеней, полученных участковыми комиссиями": 1315,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2605,
     "uikTvd": "418402266649",
+    "uikName": "УИК №2605",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 836,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2606,
     "uikTvd": "418402266651",
+    "uikName": "УИК №2606",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2607,
     "uikTvd": "418402266653",
+    "uikName": "УИК №2607",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2608,
     "uikTvd": "418402266655",
+    "uikName": "УИК №2608",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 573,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2609,
     "uikTvd": "418402266657",
+    "uikName": "УИК №2609",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1027,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2610,
     "uikTvd": "418402266659",
+    "uikName": "УИК №2610",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2611,
     "uikTvd": "418402266661",
+    "uikName": "УИК №2611",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 687,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2612,
     "uikTvd": "418402266663",
+    "uikName": "УИК №2612",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2613,
     "uikTvd": "418402266665",
+    "uikName": "УИК №2613",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 720,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2614,
     "uikTvd": "418402266667",
+    "uikName": "УИК №2614",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 601,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2615,
     "uikTvd": "418402266669",
+    "uikName": "УИК №2615",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2616,
     "uikTvd": "418402266671",
+    "uikName": "УИК №2616",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2617,
     "uikTvd": "418402266673",
+    "uikName": "УИК №2617",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2618,
     "uikTvd": "418402266675",
+    "uikName": "УИК №2618",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 786,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2619,
     "uikTvd": "418402266677",
+    "uikName": "УИК №2619",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2620,
     "uikTvd": "418402266679",
+    "uikName": "УИК №2620",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2621,
     "uikTvd": "418402266681",
+    "uikName": "УИК №2621",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 733,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2622,
     "uikTvd": "418402266683",
+    "uikName": "УИК №2622",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 716,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2623,
     "uikTvd": "418402266685",
+    "uikName": "УИК №2623",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2624,
     "uikTvd": "418402266687",
+    "uikName": "УИК №2624",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 670,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2625,
     "uikTvd": "418402266689",
+    "uikName": "УИК №2625",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 494,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2626,
     "uikTvd": "418402266691",
+    "uikName": "УИК №2626",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2627,
     "uikTvd": "418402266693",
+    "uikName": "УИК №2627",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2628,
     "uikTvd": "418402266695",
+    "uikName": "УИК №2628",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2010,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2629,
     "uikTvd": "418402266697",
+    "uikName": "УИК №2629",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2630,
     "uikTvd": "418402266699",
+    "uikName": "УИК №2630",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 659,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2631,
     "uikTvd": "418402266701",
+    "uikName": "УИК №2631",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 572,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2632,
     "uikTvd": "418402266703",
+    "uikName": "УИК №2632",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2633,
     "uikTvd": "418402266705",
+    "uikName": "УИК №2633",
     "tikTvd": "218200066645",
     "tikName": "Можгинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 997,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2501,
     "uikTvd": "418402166736",
+    "uikName": "УИК №2501",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1324,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2502,
     "uikTvd": "418402166737",
+    "uikName": "УИК №2502",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1561,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2503,
     "uikTvd": "418402166738",
+    "uikName": "УИК №2503",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1192,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2504,
     "uikTvd": "418402166739",
+    "uikName": "УИК №2504",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 948,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2505,
     "uikTvd": "418402166740",
+    "uikName": "УИК №2505",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2506,
     "uikTvd": "418402166741",
+    "uikName": "УИК №2506",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2507,
     "uikTvd": "418402166742",
+    "uikName": "УИК №2507",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2508,
     "uikTvd": "418402166743",
+    "uikName": "УИК №2508",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2509,
     "uikTvd": "418402166744",
+    "uikName": "УИК №2509",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2510,
     "uikTvd": "418402166745",
+    "uikName": "УИК №2510",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 852,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2511,
     "uikTvd": "418402166746",
+    "uikName": "УИК №2511",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1230,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2512,
     "uikTvd": "418402166747",
+    "uikName": "УИК №2512",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1019,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2513,
     "uikTvd": "418402166748",
+    "uikName": "УИК №2513",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 973,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2514,
     "uikTvd": "418402166749",
+    "uikName": "УИК №2514",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2515,
     "uikTvd": "418402166750",
+    "uikName": "УИК №2515",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2516,
     "uikTvd": "418402166751",
+    "uikName": "УИК №2516",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2517,
     "uikTvd": "418402166752",
+    "uikName": "УИК №2517",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2518,
     "uikTvd": "418402166753",
+    "uikName": "УИК №2518",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 727,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2519,
     "uikTvd": "418402166754",
+    "uikName": "УИК №2519",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2520,
     "uikTvd": "418402166755",
+    "uikName": "УИК №2520",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 500,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2521,
     "uikTvd": "418402166756",
+    "uikName": "УИК №2521",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2522,
     "uikTvd": "418402166757",
+    "uikName": "УИК №2522",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 756,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2523,
     "uikTvd": "418402166758",
+    "uikName": "УИК №2523",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2524,
     "uikTvd": "418402166759",
+    "uikName": "УИК №2524",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 528,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2525,
     "uikTvd": "418402166760",
+    "uikName": "УИК №2525",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2526,
     "uikTvd": "418402166761",
+    "uikName": "УИК №2526",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 905,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2527,
     "uikTvd": "418402166762",
+    "uikName": "УИК №2527",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2528,
     "uikTvd": "418402166763",
+    "uikName": "УИК №2528",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2529,
     "uikTvd": "418402166764",
+    "uikName": "УИК №2529",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2530,
     "uikTvd": "418402166765",
+    "uikName": "УИК №2530",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 653,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2531,
     "uikTvd": "418402166766",
+    "uikName": "УИК №2531",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2532,
     "uikTvd": "418402166767",
+    "uikName": "УИК №2532",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2533,
     "uikTvd": "418402166768",
+    "uikName": "УИК №2533",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2534,
     "uikTvd": "418402166769",
+    "uikName": "УИК №2534",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 784,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2535,
     "uikTvd": "418402166770",
+    "uikName": "УИК №2535",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2536,
     "uikTvd": "418402166771",
+    "uikName": "УИК №2536",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 688,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2537,
     "uikTvd": "418402166772",
+    "uikName": "УИК №2537",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2538,
     "uikTvd": "418402166773",
+    "uikName": "УИК №2538",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2539,
     "uikTvd": "418402166774",
+    "uikName": "УИК №2539",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 528,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2540,
     "uikTvd": "418402166775",
+    "uikName": "УИК №2540",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2541,
     "uikTvd": "418402166776",
+    "uikName": "УИК №2541",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 831,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2542,
     "uikTvd": "418402166777",
+    "uikName": "УИК №2542",
     "tikTvd": "218200066646",
     "tikName": "Малопургинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 404,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2001,
     "uikTvd": "418401666718",
+    "uikName": "УИК №2001",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 817,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2002,
     "uikTvd": "418401666719",
+    "uikName": "УИК №2002",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2003,
     "uikTvd": "418401666720",
+    "uikName": "УИК №2003",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2004,
     "uikTvd": "418401666721",
+    "uikName": "УИК №2004",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 639,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2005,
     "uikTvd": "418401666722",
+    "uikName": "УИК №2005",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 701,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2006,
     "uikTvd": "418401666723",
+    "uikName": "УИК №2006",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 477,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2007,
     "uikTvd": "418401666724",
+    "uikName": "УИК №2007",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 451,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2008,
     "uikTvd": "418401666725",
+    "uikName": "УИК №2008",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 782,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2009,
     "uikTvd": "418401666726",
+    "uikName": "УИК №2009",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1053,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2010,
     "uikTvd": "418401666727",
+    "uikName": "УИК №2010",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1050,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2011,
     "uikTvd": "418401666728",
+    "uikName": "УИК №2011",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1048,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2012,
     "uikTvd": "418401666729",
+    "uikName": "УИК №2012",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2013,
     "uikTvd": "418401666730",
+    "uikName": "УИК №2013",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2014,
     "uikTvd": "418401666731",
+    "uikName": "УИК №2014",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 534,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2015,
     "uikTvd": "418401666732",
+    "uikName": "УИК №2015",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2016,
     "uikTvd": "418401666733",
+    "uikName": "УИК №2016",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 591,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2017,
     "uikTvd": "418401666734",
+    "uikName": "УИК №2017",
     "tikTvd": "218200066647",
     "tikName": "Каракулинская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 608,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2201,
     "uikTvd": "418401866649",
+    "uikName": "УИК №2201",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1141,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2202,
     "uikTvd": "418401866650",
+    "uikName": "УИК №2202",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1062,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2203,
     "uikTvd": "418401866651",
+    "uikName": "УИК №2203",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 810,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2204,
     "uikTvd": "418401866652",
+    "uikName": "УИК №2204",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2205,
     "uikTvd": "418401866653",
+    "uikName": "УИК №2205",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 772,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2206,
     "uikTvd": "418401866654",
+    "uikName": "УИК №2206",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1112,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2207,
     "uikTvd": "418401866655",
+    "uikName": "УИК №2207",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 916,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2208,
     "uikTvd": "418401866656",
+    "uikName": "УИК №2208",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 962,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2209,
     "uikTvd": "418401866657",
+    "uikName": "УИК №2209",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2210,
     "uikTvd": "418401866658",
+    "uikName": "УИК №2210",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 661,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2211,
     "uikTvd": "418401866659",
+    "uikName": "УИК №2211",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 637,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2212,
     "uikTvd": "418401866660",
+    "uikName": "УИК №2212",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2213,
     "uikTvd": "418401866661",
+    "uikName": "УИК №2213",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2214,
     "uikTvd": "418401866662",
+    "uikName": "УИК №2214",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2215,
     "uikTvd": "418401866663",
+    "uikName": "УИК №2215",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2216,
     "uikTvd": "418401866664",
+    "uikName": "УИК №2216",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 197,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2217,
     "uikTvd": "418401866665",
+    "uikName": "УИК №2217",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_18_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2218,
     "uikTvd": "418401866666",
+    "uikName": "УИК №2218",
     "tikTvd": "218200066648",
     "tikName": "Кизнерская",
+    "regionCode": "18",
+    "regionTvd": "100100095776",
+    "regionName": "Удмуртская Республика",
+    "district": {
+      "districtNumber": 30,
+      "oikTvd": "100100095778",
+      "oikName": "Удмуртский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 410,

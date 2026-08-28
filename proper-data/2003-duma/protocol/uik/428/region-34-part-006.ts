@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1274,
     "uikTvd": "434402970461",
+    "uikName": "УИК №1274",
     "tikTvd": "334300370874",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1104,
       "Число бюллетеней, полученных участковыми комиссиями": 992,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1275,
     "uikTvd": "434402970462",
+    "uikName": "УИК №1275",
     "tikTvd": "334300370874",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1276,
     "uikTvd": "434402970463",
+    "uikName": "УИК №1276",
     "tikTvd": "334300370874",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 697,
       "Число бюллетеней, полученных участковыми комиссиями": 635,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1277,
     "uikTvd": "434402970464",
+    "uikName": "УИК №1277",
     "tikTvd": "334300370874",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1278,
     "uikTvd": "434402970465",
+    "uikName": "УИК №1278",
     "tikTvd": "334300370874",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1279,
     "uikTvd": "434402970466",
+    "uikName": "УИК №1279",
     "tikTvd": "334300370874",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 822,
       "Число бюллетеней, полученных участковыми комиссиями": 726,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1280,
     "uikTvd": "434402970467",
+    "uikName": "УИК №1280",
     "tikTvd": "334300370874",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1281,
     "uikTvd": "434402970468",
+    "uikName": "УИК №1281",
     "tikTvd": "334300370874",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1282,
     "uikTvd": "434402970469",
+    "uikName": "УИК №1282",
     "tikTvd": "334300370874",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1283,
     "uikTvd": "434402970470",
+    "uikName": "УИК №1283",
     "tikTvd": "334300370874",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 704,
       "Число бюллетеней, полученных участковыми комиссиями": 627,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1284,
     "uikTvd": "434402970471",
+    "uikName": "УИК №1284",
     "tikTvd": "334300370874",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1285,
     "uikTvd": "434402970472",
+    "uikName": "УИК №1285",
     "tikTvd": "334300370874",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1286,
     "uikTvd": "434402970473",
+    "uikName": "УИК №1286",
     "tikTvd": "334300370874",
     "tikName": "Новониколаевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 96,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1316,
     "uikTvd": "434403170459",
+    "uikName": "УИК №1316",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1232,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1317,
     "uikTvd": "434403170460",
+    "uikName": "УИК №1317",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1235,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1318,
     "uikTvd": "434403170461",
+    "uikName": "УИК №1318",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1325,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1319,
     "uikTvd": "434403170462",
+    "uikName": "УИК №1319",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1320,
     "uikTvd": "434403170463",
+    "uikName": "УИК №1320",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 884,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1321,
     "uikTvd": "434403170464",
+    "uikName": "УИК №1321",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1322,
     "uikTvd": "434403170465",
+    "uikName": "УИК №1322",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 581,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1323,
     "uikTvd": "434403170466",
+    "uikName": "УИК №1323",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1012,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1324,
     "uikTvd": "434403170467",
+    "uikName": "УИК №1324",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 566,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1325,
     "uikTvd": "434403170468",
+    "uikName": "УИК №1325",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1326,
     "uikTvd": "434403170469",
+    "uikName": "УИК №1326",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1327,
     "uikTvd": "434403170470",
+    "uikName": "УИК №1327",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 477,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1328,
     "uikTvd": "434403170471",
+    "uikName": "УИК №1328",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1329,
     "uikTvd": "434403170472",
+    "uikName": "УИК №1329",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1307,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1330,
     "uikTvd": "434403170473",
+    "uikName": "УИК №1330",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 622,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1331,
     "uikTvd": "434403170474",
+    "uikName": "УИК №1331",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 634,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1332,
     "uikTvd": "434403170475",
+    "uikName": "УИК №1332",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 906,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1333,
     "uikTvd": "434403170476",
+    "uikName": "УИК №1333",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1334,
     "uikTvd": "434403170477",
+    "uikName": "УИК №1334",
     "tikTvd": "334300370875",
     "tikName": "Ольховская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1642,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1382,
     "uikTvd": "434403470607",
+    "uikName": "УИК №1382",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2241,
       "Число бюллетеней, полученных участковыми комиссиями": 2238,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1383,
     "uikTvd": "434403470608",
+    "uikName": "УИК №1383",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1470,
       "Число бюллетеней, полученных участковыми комиссиями": 1512,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1384,
     "uikTvd": "434403470609",
+    "uikName": "УИК №1384",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2046,
       "Число бюллетеней, полученных участковыми комиссиями": 2077,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1385,
     "uikTvd": "434403470610",
+    "uikName": "УИК №1385",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 889,
       "Число бюллетеней, полученных участковыми комиссиями": 876,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1386,
     "uikTvd": "434403470611",
+    "uikName": "УИК №1386",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 244,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1387,
     "uikTvd": "434403470612",
+    "uikName": "УИК №1387",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1388,
     "uikTvd": "434403470613",
+    "uikName": "УИК №1388",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1389,
     "uikTvd": "434403470614",
+    "uikName": "УИК №1389",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1390,
     "uikTvd": "434403470615",
+    "uikName": "УИК №1390",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 934,
       "Число бюллетеней, полученных участковыми комиссиями": 955,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1391,
     "uikTvd": "434403470616",
+    "uikName": "УИК №1391",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 381,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1392,
     "uikTvd": "434403470617",
+    "uikName": "УИК №1392",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1393,
     "uikTvd": "434403470618",
+    "uikName": "УИК №1393",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1394,
     "uikTvd": "434403470619",
+    "uikName": "УИК №1394",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 986,
       "Число бюллетеней, полученных участковыми комиссиями": 1006,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1395,
     "uikTvd": "434403470620",
+    "uikName": "УИК №1395",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 416,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1396,
     "uikTvd": "434403470621",
+    "uikName": "УИК №1396",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1100,
       "Число бюллетеней, полученных участковыми комиссиями": 1115,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1397,
     "uikTvd": "434403470622",
+    "uikName": "УИК №1397",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 855,
       "Число бюллетеней, полученных участковыми комиссиями": 876,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1398,
     "uikTvd": "434403470623",
+    "uikName": "УИК №1398",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1399,
     "uikTvd": "434403470624",
+    "uikName": "УИК №1399",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1431,
       "Число бюллетеней, полученных участковыми комиссиями": 1473,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1400,
     "uikTvd": "434403470625",
+    "uikName": "УИК №1400",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 590,
       "Число бюллетеней, полученных участковыми комиссиями": 611,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1401,
     "uikTvd": "434403470626",
+    "uikName": "УИК №1401",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1402,
     "uikTvd": "434403470627",
+    "uikName": "УИК №1402",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1403,
     "uikTvd": "434403470628",
+    "uikName": "УИК №1403",
     "tikTvd": "334300370876",
     "tikName": "Руднянская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 501,
       "Число бюллетеней, полученных участковыми комиссиями": 509,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1433,
     "uikTvd": "434403670518",
+    "uikName": "УИК №1433",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1434,
     "uikTvd": "434403670519",
+    "uikName": "УИК №1434",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1435,
     "uikTvd": "434403670520",
+    "uikName": "УИК №1435",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1436,
     "uikTvd": "434403670521",
+    "uikName": "УИК №1436",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 857,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1437,
     "uikTvd": "434403670522",
+    "uikName": "УИК №1437",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1438,
     "uikTvd": "434403670523",
+    "uikName": "УИК №1438",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 537,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1439,
     "uikTvd": "434403670524",
+    "uikName": "УИК №1439",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1050,
       "Число бюллетеней, полученных участковыми комиссиями": 1065,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1440,
     "uikTvd": "434403670525",
+    "uikName": "УИК №1440",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1441,
     "uikTvd": "434403670526",
+    "uikName": "УИК №1441",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1442,
     "uikTvd": "434403670527",
+    "uikName": "УИК №1442",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1443,
     "uikTvd": "434403670528",
+    "uikName": "УИК №1443",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 921,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1444,
     "uikTvd": "434403670529",
+    "uikName": "УИК №1444",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1445,
     "uikTvd": "434403670947",
+    "uikName": "УИК №1445",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1446,
     "uikTvd": "434403670948",
+    "uikName": "УИК №1446",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1447,
     "uikTvd": "434403670949",
+    "uikName": "УИК №1447",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1448,
     "uikTvd": "434403670950",
+    "uikName": "УИК №1448",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 621,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1449,
     "uikTvd": "434403670534",
+    "uikName": "УИК №1449",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1450,
     "uikTvd": "434403670535",
+    "uikName": "УИК №1450",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1451,
     "uikTvd": "434403670536",
+    "uikName": "УИК №1451",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1452,
     "uikTvd": "434403670537",
+    "uikName": "УИК №1452",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1453,
     "uikTvd": "434403670538",
+    "uikName": "УИК №1453",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1454,
     "uikTvd": "434403670539",
+    "uikName": "УИК №1454",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1455,
     "uikTvd": "434403670540",
+    "uikName": "УИК №1455",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1442,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1456,
     "uikTvd": "434403670541",
+    "uikName": "УИК №1456",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1457,
     "uikTvd": "434403670542",
+    "uikName": "УИК №1457",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 621,
@@ -3645,8 +4356,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1458,
     "uikTvd": "434403670543",
+    "uikName": "УИК №1458",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3691,8 +4411,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1459,
     "uikTvd": "434403670544",
+    "uikName": "УИК №1459",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 658,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -3737,8 +4466,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1460,
     "uikTvd": "434403670545",
+    "uikName": "УИК №1460",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -3783,8 +4521,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1461,
     "uikTvd": "434403670546",
+    "uikName": "УИК №1461",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 839,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -3829,8 +4576,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1462,
     "uikTvd": "434403670547",
+    "uikName": "УИК №1462",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -3875,8 +4631,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1463,
     "uikTvd": "434403670548",
+    "uikName": "УИК №1463",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -3921,8 +4686,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1464,
     "uikTvd": "434403670549",
+    "uikName": "УИК №1464",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 519,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -3967,8 +4741,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1465,
     "uikTvd": "434403670550",
+    "uikName": "УИК №1465",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1748,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -4013,8 +4796,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1466,
     "uikTvd": "434403670551",
+    "uikName": "УИК №1466",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1541,
       "Число бюллетеней, полученных участковыми комиссиями": 1475,
@@ -4059,8 +4851,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1467,
     "uikTvd": "434403670552",
+    "uikName": "УИК №1467",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1595,
       "Число бюллетеней, полученных участковыми комиссиями": 1541,
@@ -4105,8 +4906,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1468,
     "uikTvd": "434403670553",
+    "uikName": "УИК №1468",
     "tikTvd": "334300370877",
     "tikName": "Серафимовичская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2009,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -4151,8 +4961,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1588,
     "uikTvd": "434404570543",
+    "uikName": "УИК №1588",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -4197,8 +5016,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1589,
     "uikTvd": "434404570544",
+    "uikName": "УИК №1589",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -4243,8 +5071,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1590,
     "uikTvd": "434404570545",
+    "uikName": "УИК №1590",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -4289,8 +5126,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1591,
     "uikTvd": "434404570546",
+    "uikName": "УИК №1591",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -4335,8 +5181,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1592,
     "uikTvd": "434404570547",
+    "uikName": "УИК №1592",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4381,8 +5236,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1593,
     "uikTvd": "434404570548",
+    "uikName": "УИК №1593",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 736,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4427,8 +5291,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1594,
     "uikTvd": "434404570549",
+    "uikName": "УИК №1594",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -4473,8 +5346,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1595,
     "uikTvd": "434404570550",
+    "uikName": "УИК №1595",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 368,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4519,8 +5401,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1596,
     "uikTvd": "434404570551",
+    "uikName": "УИК №1596",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 475,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -4565,8 +5456,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1597,
     "uikTvd": "434404570552",
+    "uikName": "УИК №1597",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -4611,8 +5511,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1598,
     "uikTvd": "434404570553",
+    "uikName": "УИК №1598",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4657,8 +5566,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1599,
     "uikTvd": "434404570554",
+    "uikName": "УИК №1599",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 816,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -4703,8 +5621,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1600,
     "uikTvd": "434404570555",
+    "uikName": "УИК №1600",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1501,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -4749,8 +5676,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1601,
     "uikTvd": "434404570556",
+    "uikName": "УИК №1601",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 690,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -4795,8 +5731,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1602,
     "uikTvd": "434404570557",
+    "uikName": "УИК №1602",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 872,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -4841,8 +5786,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1603,
     "uikTvd": "434404570558",
+    "uikName": "УИК №1603",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 784,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -4887,8 +5841,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1604,
     "uikTvd": "434404570559",
+    "uikName": "УИК №1604",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1145,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -4933,8 +5896,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1605,
     "uikTvd": "434404570560",
+    "uikName": "УИК №1605",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4979,8 +5951,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1606,
     "uikTvd": "434404570561",
+    "uikName": "УИК №1606",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5025,8 +6006,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1607,
     "uikTvd": "434404570562",
+    "uikName": "УИК №1607",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 143,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -5071,8 +6061,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1608,
     "uikTvd": "434404570563",
+    "uikName": "УИК №1608",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -5117,8 +6116,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1609,
     "uikTvd": "434404570564",
+    "uikName": "УИК №1609",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -5163,8 +6171,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1610,
     "uikTvd": "434404570565",
+    "uikName": "УИК №1610",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -5209,8 +6226,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1611,
     "uikTvd": "434404570566",
+    "uikName": "УИК №1611",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 614,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -5255,8 +6281,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1612,
     "uikTvd": "434404570567",
+    "uikName": "УИК №1612",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 712,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -5301,8 +6336,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1613,
     "uikTvd": "434404570568",
+    "uikName": "УИК №1613",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -5347,8 +6391,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1614,
     "uikTvd": "434404570569",
+    "uikName": "УИК №1614",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 568,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -5393,8 +6446,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1615,
     "uikTvd": "434404570570",
+    "uikName": "УИК №1615",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -5439,8 +6501,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1616,
     "uikTvd": "434404570571",
+    "uikName": "УИК №1616",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1051,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -5485,8 +6556,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1617,
     "uikTvd": "434404570572",
+    "uikName": "УИК №1617",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -5531,8 +6611,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1618,
     "uikTvd": "434404570573",
+    "uikName": "УИК №1618",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 505,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -5577,8 +6666,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1619,
     "uikTvd": "434404570574",
+    "uikName": "УИК №1619",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -5623,8 +6721,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1620,
     "uikTvd": "434404570575",
+    "uikName": "УИК №1620",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -5669,8 +6776,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1621,
     "uikTvd": "434404570576",
+    "uikName": "УИК №1621",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 492,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -5715,8 +6831,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1622,
     "uikTvd": "434404570577",
+    "uikName": "УИК №1622",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -5761,8 +6886,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1623,
     "uikTvd": "434404570578",
+    "uikName": "УИК №1623",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5807,8 +6941,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1624,
     "uikTvd": "434404570579",
+    "uikName": "УИК №1624",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -5853,8 +6996,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1625,
     "uikTvd": "434404570580",
+    "uikName": "УИК №1625",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 896,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -5899,8 +7051,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1626,
     "uikTvd": "434404570581",
+    "uikName": "УИК №1626",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -5945,8 +7106,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1627,
     "uikTvd": "434404570582",
+    "uikName": "УИК №1627",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -5991,8 +7161,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1628,
     "uikTvd": "434404570583",
+    "uikName": "УИК №1628",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6037,8 +7216,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1629,
     "uikTvd": "434404570584",
+    "uikName": "УИК №1629",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 717,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -6083,8 +7271,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1630,
     "uikTvd": "434404570585",
+    "uikName": "УИК №1630",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6129,8 +7326,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1631,
     "uikTvd": "434404570586",
+    "uikName": "УИК №1631",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6175,8 +7381,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1632,
     "uikTvd": "434404570587",
+    "uikName": "УИК №1632",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -6221,8 +7436,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1633,
     "uikTvd": "434404570588",
+    "uikName": "УИК №1633",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1549,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6267,8 +7491,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1634,
     "uikTvd": "434404570589",
+    "uikName": "УИК №1634",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 463,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -6313,8 +7546,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1635,
     "uikTvd": "434404570590",
+    "uikName": "УИК №1635",
     "tikTvd": "334300370878",
     "tikName": "Урюпинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -6359,8 +7601,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "434404070940",
+    "uikName": "УИК №169",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2109,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6405,8 +7656,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "434404070941",
+    "uikName": "УИК №170",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1215,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -6451,8 +7711,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "434404070942",
+    "uikName": "УИК №171",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1498,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6497,8 +7766,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "434404070943",
+    "uikName": "УИК №172",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1944,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6543,8 +7821,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "434404070944",
+    "uikName": "УИК №173",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1259,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6589,8 +7876,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "434404070945",
+    "uikName": "УИК №174",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1802,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -6635,8 +7931,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "434404070946",
+    "uikName": "УИК №175",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1866,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -6681,8 +7986,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "434404070947",
+    "uikName": "УИК №176",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1733,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -6727,8 +8041,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "434404070948",
+    "uikName": "УИК №177",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2367,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -6773,8 +8096,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "434404070949",
+    "uikName": "УИК №178",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1190,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -6819,8 +8151,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "434404070950",
+    "uikName": "УИК №179",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2030,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -6865,8 +8206,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "434404070951",
+    "uikName": "УИК №180",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1864,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -6911,8 +8261,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "434404070952",
+    "uikName": "УИК №181",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1786,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -6957,8 +8316,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "434404070953",
+    "uikName": "УИК №182",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -7003,8 +8371,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "434404070954",
+    "uikName": "УИК №183",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1626,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7049,8 +8426,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "434404070955",
+    "uikName": "УИК №184",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2834,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7095,8 +8481,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "434404070956",
+    "uikName": "УИК №185",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2087,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7141,8 +8536,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "434404070957",
+    "uikName": "УИК №186",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7187,8 +8591,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "434404070958",
+    "uikName": "УИК №187",
     "tikTvd": "334300370879",
     "tikName": "Урюпинская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1377,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -7233,8 +8646,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1636,
     "uikTvd": "434404170515",
+    "uikName": "УИК №1636",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 484,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -7279,8 +8701,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1637,
     "uikTvd": "434404170516",
+    "uikName": "УИК №1637",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 840,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -7325,8 +8756,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1638,
     "uikTvd": "434404170517",
+    "uikName": "УИК №1638",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -7371,8 +8811,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1639,
     "uikTvd": "434404170518",
+    "uikName": "УИК №1639",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 349,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -7417,8 +8866,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1640,
     "uikTvd": "434404170519",
+    "uikName": "УИК №1640",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -7463,8 +8921,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1641,
     "uikTvd": "434404170520",
+    "uikName": "УИК №1641",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -7509,8 +8976,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1642,
     "uikTvd": "434404170521",
+    "uikName": "УИК №1642",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -7555,8 +9031,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1643,
     "uikTvd": "434404170522",
+    "uikName": "УИК №1643",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -7601,8 +9086,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1644,
     "uikTvd": "434404170523",
+    "uikName": "УИК №1644",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -7647,8 +9141,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1645,
     "uikTvd": "434404170524",
+    "uikName": "УИК №1645",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 555,
@@ -7693,8 +9196,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1646,
     "uikTvd": "434404170525",
+    "uikName": "УИК №1646",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -7739,8 +9251,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1647,
     "uikTvd": "434404170526",
+    "uikName": "УИК №1647",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -7785,8 +9306,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1648,
     "uikTvd": "434404170527",
+    "uikName": "УИК №1648",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1276,
       "Число бюллетеней, полученных участковыми комиссиями": 1281,
@@ -7831,8 +9361,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1649,
     "uikTvd": "434404170528",
+    "uikName": "УИК №1649",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 965,
       "Число бюллетеней, полученных участковыми комиссиями": 981,
@@ -7877,8 +9416,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1650,
     "uikTvd": "434404170529",
+    "uikName": "УИК №1650",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 463,
       "Число бюллетеней, полученных участковыми комиссиями": 463,
@@ -7923,8 +9471,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1651,
     "uikTvd": "434404170530",
+    "uikName": "УИК №1651",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 962,
       "Число бюллетеней, полученных участковыми комиссиями": 951,
@@ -7969,8 +9526,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1652,
     "uikTvd": "434404170531",
+    "uikName": "УИК №1652",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 823,
       "Число бюллетеней, полученных участковыми комиссиями": 824,
@@ -8015,8 +9581,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1653,
     "uikTvd": "434404170532",
+    "uikName": "УИК №1653",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -8061,8 +9636,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1654,
     "uikTvd": "434404170533",
+    "uikName": "УИК №1654",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -8107,8 +9691,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1655,
     "uikTvd": "434404170534",
+    "uikName": "УИК №1655",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 207,
@@ -8153,8 +9746,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1656,
     "uikTvd": "434404170535",
+    "uikName": "УИК №1656",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 897,
       "Число бюллетеней, полученных участковыми комиссиями": 897,
@@ -8199,8 +9801,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1657,
     "uikTvd": "434404170536",
+    "uikName": "УИК №1657",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -8245,8 +9856,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1658,
     "uikTvd": "434404170537",
+    "uikName": "УИК №1658",
     "tikTvd": "334300370880",
     "tikName": "Фроловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8291,8 +9911,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "434404670455",
+    "uikName": "УИК №188",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1275,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8337,8 +9966,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "434404670456",
+    "uikName": "УИК №189",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1895,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -8383,8 +10021,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "434404670457",
+    "uikName": "УИК №190",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 781,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8429,8 +10076,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "434404670458",
+    "uikName": "УИК №191",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1949,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8475,8 +10131,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "434404670459",
+    "uikName": "УИК №192",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 912,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8521,8 +10186,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "434404670460",
+    "uikName": "УИК №193",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8567,8 +10241,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "434404670461",
+    "uikName": "УИК №194",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1756,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8613,8 +10296,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "434404670462",
+    "uikName": "УИК №195",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 892,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8659,8 +10351,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "434404670463",
+    "uikName": "УИК №196",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2210,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8705,8 +10406,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "434404670464",
+    "uikName": "УИК №197",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2133,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -8751,8 +10461,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "434404670465",
+    "uikName": "УИК №198",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1905,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8797,8 +10516,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "434404670466",
+    "uikName": "УИК №199",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2429,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -8843,8 +10571,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "434404670467",
+    "uikName": "УИК №200",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2173,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -8889,8 +10626,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "434404670468",
+    "uikName": "УИК №201",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2430,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8935,8 +10681,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "434404670469",
+    "uikName": "УИК №202",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1044,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -8981,8 +10736,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "434404670470",
+    "uikName": "УИК №203",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1303,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -9027,8 +10791,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "434404670471",
+    "uikName": "УИК №204",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1671,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -9073,8 +10846,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "434404670472",
+    "uikName": "УИК №205",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 742,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -9119,8 +10901,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "434404670473",
+    "uikName": "УИК №206",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1884,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -9165,8 +10956,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "434404670474",
+    "uikName": "УИК №207",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1481,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -9211,8 +11011,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "434404670475",
+    "uikName": "УИК №208",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 754,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -9257,8 +11066,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "434404670476",
+    "uikName": "УИК №209",
     "tikTvd": "334300370881",
     "tikName": "Фроловская городская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 72,
+      "oikTvd": "100100095892",
+      "oikName": "Михайловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1048,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -9303,8 +11121,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "434400370564",
+    "uikName": "УИК №210",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1590,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9349,8 +11176,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "434400370565",
+    "uikName": "УИК №211",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1726,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -9395,8 +11231,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "434400370566",
+    "uikName": "УИК №212",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1662,
       "Число бюллетеней, полученных участковыми комиссиями": 1169,
@@ -9441,8 +11286,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "434400370567",
+    "uikName": "УИК №213",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1828,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9487,8 +11341,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "434400370568",
+    "uikName": "УИК №214",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1902,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -9533,8 +11396,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "434400370569",
+    "uikName": "УИК №215",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1526,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9579,8 +11451,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "434400370570",
+    "uikName": "УИК №216",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9625,8 +11506,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "434400370571",
+    "uikName": "УИК №217",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1523,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9671,8 +11561,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "434400370572",
+    "uikName": "УИК №218",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9717,8 +11616,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "434400370573",
+    "uikName": "УИК №219",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2101,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -9763,8 +11671,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "434400370574",
+    "uikName": "УИК №220",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1235,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9809,8 +11726,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "434400370575",
+    "uikName": "УИК №221",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1559,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9855,8 +11781,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "434400370576",
+    "uikName": "УИК №222",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1553,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9901,8 +11836,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "434400370577",
+    "uikName": "УИК №223",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1938,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9947,8 +11891,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "434400370578",
+    "uikName": "УИК №224",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1827,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9993,8 +11946,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "434400370579",
+    "uikName": "УИК №225",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2138,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -10039,8 +12001,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "434400370580",
+    "uikName": "УИК №226",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2674,
       "Число бюллетеней, полученных участковыми комиссиями": 2790,
@@ -10085,8 +12056,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "434400370581",
+    "uikName": "УИК №227",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2030,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10131,8 +12111,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "434400370582",
+    "uikName": "УИК №228",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2647,
       "Число бюллетеней, полученных участковыми комиссиями": 2830,
@@ -10177,8 +12166,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "434400370583",
+    "uikName": "УИК №229",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2434,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10223,8 +12221,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "434400370584",
+    "uikName": "УИК №230",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2601,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10269,8 +12276,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "434400370585",
+    "uikName": "УИК №231",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2332,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10315,8 +12331,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "434400370586",
+    "uikName": "УИК №232",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2693,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -10361,8 +12386,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "434400370587",
+    "uikName": "УИК №233",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2180,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10407,8 +12441,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "434400370588",
+    "uikName": "УИК №234",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1147,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10453,8 +12496,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "434400370589",
+    "uikName": "УИК №235",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1080,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10499,8 +12551,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "434400370590",
+    "uikName": "УИК №236",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1022,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10545,8 +12606,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "434400370591",
+    "uikName": "УИК №237",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2360,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10591,8 +12661,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "434400370592",
+    "uikName": "УИК №238",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2026,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10637,8 +12716,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "434400370593",
+    "uikName": "УИК №239",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1507,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -10683,8 +12771,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "434400370594",
+    "uikName": "УИК №240",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2414,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10729,8 +12826,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "434400370595",
+    "uikName": "УИК №241",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1499,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10775,8 +12881,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "434400370596",
+    "uikName": "УИК №242",
     "tikTvd": "334300470546",
     "tikName": "Волгоград, Ворошиловская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2815,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -10821,8 +12936,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "434400470416",
+    "uikName": "УИК №243",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2591,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10867,8 +12991,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "434400470417",
+    "uikName": "УИК №244",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1931,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10913,8 +13046,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "434400470418",
+    "uikName": "УИК №245",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1628,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10959,8 +13101,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "434400470419",
+    "uikName": "УИК №246",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3138,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -11005,8 +13156,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "434400470420",
+    "uikName": "УИК №247",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2874,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -11051,8 +13211,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "434400470421",
+    "uikName": "УИК №248",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 977,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11097,8 +13266,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "434400470422",
+    "uikName": "УИК №249",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1862,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11143,8 +13321,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "434400470423",
+    "uikName": "УИК №250",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1276,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11189,8 +13376,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "434400470424",
+    "uikName": "УИК №251",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1172,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -11235,8 +13431,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "434400470425",
+    "uikName": "УИК №252",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1596,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11281,8 +13486,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "434400470426",
+    "uikName": "УИК №253",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2493,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11327,8 +13541,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "434400470427",
+    "uikName": "УИК №254",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2265,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11373,8 +13596,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "434400470428",
+    "uikName": "УИК №255",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2360,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11419,8 +13651,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "434400470429",
+    "uikName": "УИК №256",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11465,8 +13706,17 @@ export const duma_2003_uik_428_region_34_part_006 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "434400470430",
+    "uikName": "УИК №257",
     "tikTvd": "334300470547",
     "tikName": "Волгоград, Дзержинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 73,
+      "oikTvd": "100100095893",
+      "oikName": "Центральный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2919,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,

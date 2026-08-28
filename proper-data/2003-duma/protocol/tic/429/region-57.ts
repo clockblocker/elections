@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070621",
     "tikName": "Урицкая",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 14673,
@@ -79,6 +87,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070622",
     "tikName": "Должанская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 10131,
@@ -152,6 +168,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070623",
     "tikName": "Дмитровская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 11879,
@@ -223,6 +247,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070624",
     "tikName": "Верховская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 16490,
@@ -300,6 +332,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070625",
     "tikName": "Глазуновская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 11358,
@@ -368,6 +408,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070626",
     "tikName": "Болховская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 15526,
@@ -439,6 +487,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070627",
     "tikName": "Ливенская городская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 42478,
@@ -516,6 +572,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070628",
     "tikName": "Малоархангельская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 10168,
@@ -585,6 +649,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070629",
     "tikName": "Кромская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 16866,
@@ -669,6 +741,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070630",
     "tikName": "Краснозоренская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 6182,
@@ -734,6 +814,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070631",
     "tikName": "Корсаковская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки": 3966,
@@ -793,6 +881,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070632",
     "tikName": "Колпнянская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 13928,
@@ -869,6 +965,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070633",
     "tikName": "Залегощенская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 12449,
@@ -943,6 +1047,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070634",
     "tikName": "Знаменская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 4558,
@@ -1003,6 +1115,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070635",
     "tikName": "Орловская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки": 47976,
@@ -1107,6 +1227,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070636",
     "tikName": "Покровская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 12789,
@@ -1187,6 +1315,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070637",
     "tikName": "Свердловская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 13615,
@@ -1263,6 +1399,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070638",
     "tikName": "Орел, Советская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки": 68307,
@@ -1348,6 +1492,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070639",
     "tikName": "Орел, Железнодорожная",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 50856,
@@ -1426,6 +1578,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070640",
     "tikName": "Орел, Заводская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 83861,
@@ -1519,6 +1679,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070641",
     "tikName": "Новосильская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 7402,
@@ -1584,6 +1752,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070642",
     "tikName": "Мценская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 14558,
@@ -1666,6 +1842,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070643",
     "tikName": "Новодеревеньковская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 9965,
@@ -1736,6 +1920,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070644",
     "tikName": "Мценская городская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 38647,
@@ -1804,6 +1996,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070645",
     "tikName": "Ливенская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки": 24619,
@@ -1903,6 +2103,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070646",
     "tikName": "Шаблыкинская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 6950,
@@ -1970,6 +2178,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070647",
     "tikName": "Хотынецкая",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 9005,
@@ -2036,6 +2252,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070648",
     "tikName": "Троснянская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 9367,
@@ -2108,6 +2332,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070649",
     "tikName": "Сосковская",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 6221,
@@ -2173,6 +2405,14 @@ export const duma_2003_tic_429_region_57 = [
     "ballot": "single-member",
     "tikTvd": "257200070661",
     "tikName": "Орел, Северная ",
+    "regionCode": "57",
+    "regionTvd": "100100095907",
+    "regionName": "Орловская область",
+    "district": {
+      "districtNumber": 134,
+      "oikTvd": "100100095908",
+      "oikName": "Орловский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 49888,

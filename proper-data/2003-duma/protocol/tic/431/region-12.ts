@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066598",
     "tikName": "Волжская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 48643,
@@ -102,6 +105,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066599",
     "tikName": "Волжская  ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 18314,
@@ -192,6 +198,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066616",
     "tikName": "Горномарийская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки": 22473,
@@ -300,6 +309,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066617",
     "tikName": "Звениговская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 34898,
@@ -401,6 +413,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066620",
     "tikName": "Йошкар-Олинская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 123,
     "accounting": {
       "Число избирателей, внесенных в списки": 227611,
@@ -589,6 +604,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066621",
     "tikName": "Килемарская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 10573,
@@ -674,6 +692,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066622",
     "tikName": "Козьмодемьянская городская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 18919,
@@ -757,6 +778,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066624",
     "tikName": "Мари-Турекская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 18659,
@@ -848,6 +872,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066625",
     "tikName": "Медведевская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 41195,
@@ -952,6 +979,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066626",
     "tikName": "Моркинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки": 25209,
@@ -1062,6 +1092,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066627",
     "tikName": "Новоторъяльская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 14027,
@@ -1145,6 +1178,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066628",
     "tikName": "Оршанская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 11534,
@@ -1229,6 +1265,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066630",
     "tikName": "Сернурская ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 18491,
@@ -1327,6 +1366,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066631",
     "tikName": "Советская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 23661,
@@ -1417,6 +1459,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066632",
     "tikName": "Юринская  ",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 9142,
@@ -1505,6 +1550,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200066634",
     "tikName": "Куженерская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 12333,
@@ -1588,6 +1636,9 @@ export const duma_2003_tic_431_region_12 = [
     "ballot": "party",
     "tikTvd": "212200067946",
     "tikName": "Параньгинская",
+    "regionCode": "12",
+    "regionTvd": "100100095754",
+    "regionName": "Республика Марий Эл",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 13373,

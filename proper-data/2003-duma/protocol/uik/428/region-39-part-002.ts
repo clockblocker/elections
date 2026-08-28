@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "439400270444",
+    "uikName": "УИК №30",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1473,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -63,8 +72,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "439400270406",
+    "uikName": "УИК №31",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2819,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -115,8 +133,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "439400270407",
+    "uikName": "УИК №32",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2220,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -167,8 +194,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "439400270408",
+    "uikName": "УИК №33",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2627,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -219,8 +255,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "439400270409",
+    "uikName": "УИК №34",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2296,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -271,8 +316,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "439400270410",
+    "uikName": "УИК №35",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2597,
       "Число бюллетеней, полученных участковыми комиссиями": 2620,
@@ -323,8 +377,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "439400270411",
+    "uikName": "УИК №36",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2800,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -375,8 +438,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "439400270412",
+    "uikName": "УИК №37",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -427,8 +499,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "439400270413",
+    "uikName": "УИК №38",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -479,8 +560,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "439400270414",
+    "uikName": "УИК №39",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1901,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -531,8 +621,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "439400270415",
+    "uikName": "УИК №40",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 907,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -583,8 +682,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "439400270416",
+    "uikName": "УИК №41",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 628,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -635,8 +743,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "439400270417",
+    "uikName": "УИК №42",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1785,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -687,8 +804,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "439400270418",
+    "uikName": "УИК №43",
     "tikTvd": "239200070644",
     "tikName": "Балтийская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -739,8 +865,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "439401570437",
+    "uikName": "УИК №379",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 393,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -791,8 +926,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "439401570438",
+    "uikName": "УИК №380",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 421,
       "Число бюллетеней, полученных участковыми комиссиями": 374,
@@ -843,8 +987,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "439401570439",
+    "uikName": "УИК №381",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 324,
@@ -895,8 +1048,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "439401570440",
+    "uikName": "УИК №382",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -947,8 +1109,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "439401570441",
+    "uikName": "УИК №383",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 749,
       "Число бюллетеней, полученных участковыми комиссиями": 708,
@@ -999,8 +1170,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "439401570442",
+    "uikName": "УИК №384",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 462,
       "Число бюллетеней, полученных участковыми комиссиями": 446,
@@ -1051,8 +1231,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "439401570443",
+    "uikName": "УИК №385",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 497,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -1103,8 +1292,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "439401570444",
+    "uikName": "УИК №386",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -1155,8 +1353,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "439401570445",
+    "uikName": "УИК №387",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 417,
@@ -1207,8 +1414,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "439401570446",
+    "uikName": "УИК №388",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 283,
@@ -1259,8 +1475,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "439401570447",
+    "uikName": "УИК №389",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 284,
@@ -1311,8 +1536,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "439401570448",
+    "uikName": "УИК №390",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 389,
@@ -1363,8 +1597,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "439401570449",
+    "uikName": "УИК №391",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 383,
@@ -1415,8 +1658,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "439401570450",
+    "uikName": "УИК №392",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 404,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -1467,8 +1719,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "439401570451",
+    "uikName": "УИК №393",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 437,
@@ -1519,8 +1780,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "439401570452",
+    "uikName": "УИК №394",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 716,
       "Число бюллетеней, полученных участковыми комиссиями": 677,
@@ -1571,8 +1841,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "439401570453",
+    "uikName": "УИК №395",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 401,
@@ -1623,8 +1902,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "439401570454",
+    "uikName": "УИК №396",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -1675,8 +1963,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "439401570455",
+    "uikName": "УИК №397",
     "tikTvd": "239200070645",
     "tikName": "Озерская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1918,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1727,8 +2024,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "439401770392",
+    "uikName": "УИК №409",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2831,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1779,8 +2085,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "439401770393",
+    "uikName": "УИК №410",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2602,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1831,8 +2146,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "439401770394",
+    "uikName": "УИК №411",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1165,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -1883,8 +2207,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "439401770395",
+    "uikName": "УИК №412",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1935,8 +2268,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "439401770396",
+    "uikName": "УИК №413",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 877,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1987,8 +2329,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "439401770397",
+    "uikName": "УИК №414",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 567,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2039,8 +2390,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "439401770398",
+    "uikName": "УИК №415",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1223,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2091,8 +2451,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "439401770399",
+    "uikName": "УИК №416",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -2143,8 +2512,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "439401770400",
+    "uikName": "УИК №417",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 636,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -2195,8 +2573,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "439401770401",
+    "uikName": "УИК №418",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -2247,8 +2634,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "439401770402",
+    "uikName": "УИК №419",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 609,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -2299,8 +2695,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "439401770403",
+    "uikName": "УИК №420",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 457,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -2351,8 +2756,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "439401770404",
+    "uikName": "УИК №421",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1213,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2403,8 +2817,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "439401770405",
+    "uikName": "УИК №422",
     "tikTvd": "239200070646",
     "tikName": "Полесская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2455,8 +2878,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "439401870373",
+    "uikName": "УИК №425",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2369,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2507,8 +2939,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "439401870374",
+    "uikName": "УИК №426",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -2559,8 +3000,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "439401870375",
+    "uikName": "УИК №427",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1831,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -2611,8 +3061,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "439401870376",
+    "uikName": "УИК №428",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 990,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -2663,8 +3122,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "439401870377",
+    "uikName": "УИК №429",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1253,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -2715,8 +3183,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "439401870378",
+    "uikName": "УИК №430",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -2767,8 +3244,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "439401870379",
+    "uikName": "УИК №431",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 744,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -2819,8 +3305,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "439401870380",
+    "uikName": "УИК №432",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1114,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2871,8 +3366,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "439401870381",
+    "uikName": "УИК №433",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1045,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -2923,8 +3427,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "439401870382",
+    "uikName": "УИК №434",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -2975,8 +3488,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "439401870383",
+    "uikName": "УИК №435",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -3027,8 +3549,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "439401870384",
+    "uikName": "УИК №436",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 939,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -3079,8 +3610,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "439401870385",
+    "uikName": "УИК №437",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 594,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -3131,8 +3671,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "439401870386",
+    "uikName": "УИК №438",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 613,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -3183,8 +3732,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "439401870387",
+    "uikName": "УИК №439",
     "tikTvd": "239200070647",
     "tikName": "Правдинская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 756,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -3235,8 +3793,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "439401670477",
+    "uikName": "УИК №401",
     "tikTvd": "239200070648",
     "tikName": "Пионерская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1398,
       "Число бюллетеней, полученных участковыми комиссиями": 1392,
@@ -3287,8 +3854,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "439401670478",
+    "uikName": "УИК №402",
     "tikTvd": "239200070648",
     "tikName": "Пионерская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2435,
       "Число бюллетеней, полученных участковыми комиссиями": 2414,
@@ -3339,8 +3915,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "439401670479",
+    "uikName": "УИК №403",
     "tikTvd": "239200070648",
     "tikName": "Пионерская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1415,
       "Число бюллетеней, полученных участковыми комиссиями": 1407,
@@ -3391,8 +3976,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "439401670480",
+    "uikName": "УИК №404",
     "tikTvd": "239200070648",
     "tikName": "Пионерская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1368,
       "Число бюллетеней, полученных участковыми комиссиями": 1362,
@@ -3443,8 +4037,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "439401670481",
+    "uikName": "УИК №405",
     "tikTvd": "239200070648",
     "tikName": "Пионерская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 620,
       "Число бюллетеней, полученных участковыми комиссиями": 616,
@@ -3495,8 +4098,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "439401670482",
+    "uikName": "УИК №406",
     "tikTvd": "239200070648",
     "tikName": "Пионерская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 321,
@@ -3547,8 +4159,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "439401670483",
+    "uikName": "УИК №407",
     "tikTvd": "239200070648",
     "tikName": "Пионерская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3032,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3599,8 +4220,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "439401670484",
+    "uikName": "УИК №408",
     "tikTvd": "239200070648",
     "tikName": "Пионерская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3651,8 +4281,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "439401170624",
+    "uikName": "УИК №295",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2422,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3703,8 +4342,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "439401170625",
+    "uikName": "УИК №296",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2748,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3755,8 +4403,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "439401170626",
+    "uikName": "УИК №297",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2672,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3807,8 +4464,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "439401170627",
+    "uikName": "УИК №298",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2567,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3859,8 +4525,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "439401170628",
+    "uikName": "УИК №299",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2279,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3911,8 +4586,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "439401170629",
+    "uikName": "УИК №300",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1888,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3963,8 +4647,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "439401170630",
+    "uikName": "УИК №301",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2317,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4015,8 +4708,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "439401170631",
+    "uikName": "УИК №302",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1935,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4067,8 +4769,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "439401170632",
+    "uikName": "УИК №303",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4119,8 +4830,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "439401170633",
+    "uikName": "УИК №304",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2000,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4171,8 +4891,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "439401170634",
+    "uikName": "УИК №305",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2542,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4223,8 +4952,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "439401170635",
+    "uikName": "УИК №306",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2162,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4275,8 +5013,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "439401170636",
+    "uikName": "УИК №307",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1854,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4327,8 +5074,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "439401170637",
+    "uikName": "УИК №308",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2850,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4379,8 +5135,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "439401170638",
+    "uikName": "УИК №309",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2746,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4431,8 +5196,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "439401170639",
+    "uikName": "УИК №310",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2685,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4483,8 +5257,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "439401170640",
+    "uikName": "УИК №311",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2733,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4535,8 +5318,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "439401170641",
+    "uikName": "УИК №312",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2640,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4587,8 +5379,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "439401170642",
+    "uikName": "УИК №313",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2268,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4639,8 +5440,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "439401170643",
+    "uikName": "УИК №314",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2763,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4691,8 +5501,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "439401170644",
+    "uikName": "УИК №315",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2444,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4743,8 +5562,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "439401170645",
+    "uikName": "УИК №316",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1331,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4795,8 +5623,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "439401170646",
+    "uikName": "УИК №317",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2463,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4847,8 +5684,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "439401170647",
+    "uikName": "УИК №318",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2867,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4899,8 +5745,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "439401170648",
+    "uikName": "УИК №319",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2906,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4951,8 +5806,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "439401170649",
+    "uikName": "УИК №320",
     "tikTvd": "239200070649",
     "tikName": "Калининград, Центральная",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3255,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -5003,8 +5867,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "439401370381",
+    "uikName": "УИК №338",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1130,
       "Число бюллетеней, полученных участковыми комиссиями": 1010,
@@ -5055,8 +5928,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "439401370382",
+    "uikName": "УИК №339",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1094,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5107,8 +5989,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "439401370383",
+    "uikName": "УИК №340",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1138,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -5159,8 +6050,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "439401370384",
+    "uikName": "УИК №341",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1165,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -5211,8 +6111,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "439401370385",
+    "uikName": "УИК №342",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1152,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -5263,8 +6172,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "439401370386",
+    "uikName": "УИК №343",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1055,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -5315,8 +6233,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "439401370387",
+    "uikName": "УИК №344",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1047,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -5367,8 +6294,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "439401370388",
+    "uikName": "УИК №345",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1084,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -5419,8 +6355,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "439401370389",
+    "uikName": "УИК №346",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1026,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -5471,8 +6416,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "439401370390",
+    "uikName": "УИК №347",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 550,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5523,8 +6477,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "439401370391",
+    "uikName": "УИК №348",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 416,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -5575,8 +6538,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "439401370392",
+    "uikName": "УИК №349",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 569,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -5627,8 +6599,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "439401370393",
+    "uikName": "УИК №350",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 655,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5679,8 +6660,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "439401370394",
+    "uikName": "УИК №351",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -5731,8 +6721,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "439401370395",
+    "uikName": "УИК №352",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 953,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -5783,8 +6782,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "439401370396",
+    "uikName": "УИК №353",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -5835,8 +6843,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "439401370397",
+    "uikName": "УИК №354",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -5887,8 +6904,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "439401370398",
+    "uikName": "УИК №355",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1075,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -5939,8 +6965,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "439401370399",
+    "uikName": "УИК №356",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 731,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -5991,8 +7026,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "439401370400",
+    "uikName": "УИК №357",
     "tikTvd": "239200070650",
     "tikName": "Неманская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -6043,8 +7087,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "439401470402",
+    "uikName": "УИК №361",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2198,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6095,8 +7148,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "439401470403",
+    "uikName": "УИК №362",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2132,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6147,8 +7209,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "439401470404",
+    "uikName": "УИК №363",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 903,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -6199,8 +7270,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "439401470405",
+    "uikName": "УИК №364",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6251,8 +7331,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "439401470406",
+    "uikName": "УИК №365",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6303,8 +7392,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "439401470407",
+    "uikName": "УИК №366",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6355,8 +7453,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "439401470408",
+    "uikName": "УИК №367",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 599,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -6407,8 +7514,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "439401470409",
+    "uikName": "УИК №368",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6459,8 +7575,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "439401470410",
+    "uikName": "УИК №369",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1015,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6511,8 +7636,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "439401470411",
+    "uikName": "УИК №370",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -6563,8 +7697,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "439401470412",
+    "uikName": "УИК №371",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 554,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6615,8 +7758,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "439401470413",
+    "uikName": "УИК №372",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 636,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6667,8 +7819,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "439401470414",
+    "uikName": "УИК №373",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -6719,8 +7880,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "439401470415",
+    "uikName": "УИК №374",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 970,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -6771,8 +7941,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "439401470416",
+    "uikName": "УИК №375",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 528,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6823,8 +8002,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "439401470417",
+    "uikName": "УИК №376",
     "tikTvd": "239200070651",
     "tikName": "Нестеровская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 669,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -6875,8 +8063,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "439401270390",
+    "uikName": "УИК №323",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3006,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -6927,8 +8124,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "439401270391",
+    "uikName": "УИК №324",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1784,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6979,8 +8185,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "439401270392",
+    "uikName": "УИК №325",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 697,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7031,8 +8246,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "439401270393",
+    "uikName": "УИК №326",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -7083,8 +8307,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "439401270394",
+    "uikName": "УИК №327",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 399,
@@ -7135,8 +8368,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "439401270395",
+    "uikName": "УИК №328",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 395,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7187,8 +8429,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "439401270396",
+    "uikName": "УИК №329",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7239,8 +8490,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "439401270397",
+    "uikName": "УИК №330",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7291,8 +8551,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "439401270398",
+    "uikName": "УИК №331",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7343,8 +8612,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "439401270399",
+    "uikName": "УИК №332",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -7395,8 +8673,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "439401270400",
+    "uikName": "УИК №333",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 573,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -7447,8 +8734,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "439401270401",
+    "uikName": "УИК №334",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 571,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -7499,8 +8795,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "439401270402",
+    "uikName": "УИК №335",
     "tikTvd": "239200070652",
     "tikName": "Краснознаменская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7551,8 +8856,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "439400970396",
+    "uikName": "УИК №246",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2459,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7603,8 +8917,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "439400970397",
+    "uikName": "УИК №247",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2468,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7655,8 +8978,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "439400970398",
+    "uikName": "УИК №248",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2130,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7707,8 +9039,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "439400970399",
+    "uikName": "УИК №249",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2091,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7759,8 +9100,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "439400970400",
+    "uikName": "УИК №250",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2230,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7811,8 +9161,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "439400970401",
+    "uikName": "УИК №251",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2295,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7863,8 +9222,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "439400970402",
+    "uikName": "УИК №252",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2479,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7915,8 +9283,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "439400970403",
+    "uikName": "УИК №253",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2722,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7967,8 +9344,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "439400970404",
+    "uikName": "УИК №254",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2383,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8019,8 +9405,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "439400970405",
+    "uikName": "УИК №255",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2547,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8071,8 +9466,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "439400970406",
+    "uikName": "УИК №256",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2740,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8123,8 +9527,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "439400970407",
+    "uikName": "УИК №257",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2869,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8175,8 +9588,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "439400970408",
+    "uikName": "УИК №258",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1644,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8227,8 +9649,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "439400970409",
+    "uikName": "УИК №259",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1868,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8279,8 +9710,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "439400970410",
+    "uikName": "УИК №260",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2384,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8331,8 +9771,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "439400970411",
+    "uikName": "УИК №261",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1995,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8383,8 +9832,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "439400970412",
+    "uikName": "УИК №262",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2479,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8435,8 +9893,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "439400970413",
+    "uikName": "УИК №263",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2141,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8487,8 +9954,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "439400970414",
+    "uikName": "УИК №264",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2743,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8539,8 +10015,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "439400970415",
+    "uikName": "УИК №265",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2731,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8591,8 +10076,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "439400970416",
+    "uikName": "УИК №266",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2800,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8643,8 +10137,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "439400970417",
+    "uikName": "УИК №267",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2767,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8695,8 +10198,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "439400970418",
+    "uikName": "УИК №268",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2902,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8747,8 +10259,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "439400970419",
+    "uikName": "УИК №269",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8799,8 +10320,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "439400970420",
+    "uikName": "УИК №270",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2688,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8851,8 +10381,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "439400970421",
+    "uikName": "УИК №271",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2542,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8903,8 +10442,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "439400970422",
+    "uikName": "УИК №272",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1685,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8955,8 +10503,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "439400970423",
+    "uikName": "УИК №273",
     "tikTvd": "239200070653",
     "tikName": "Калининград, Московская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2155,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9007,8 +10564,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "439401070512",
+    "uikName": "УИК №276",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2274,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9059,8 +10625,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "439401070513",
+    "uikName": "УИК №277",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2336,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9111,8 +10686,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "439401070514",
+    "uikName": "УИК №278",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2762,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9163,8 +10747,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "439401070515",
+    "uikName": "УИК №279",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2229,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9215,8 +10808,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "439401070516",
+    "uikName": "УИК №280",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2515,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9267,8 +10869,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "439401070517",
+    "uikName": "УИК №281",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2760,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9319,8 +10930,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "439401070518",
+    "uikName": "УИК №282",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2755,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9371,8 +10991,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "439401070519",
+    "uikName": "УИК №283",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2691,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9423,8 +11052,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "439401070520",
+    "uikName": "УИК №284",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2673,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9475,8 +11113,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "439401070521",
+    "uikName": "УИК №285",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2677,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9527,8 +11174,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "439401070522",
+    "uikName": "УИК №286",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2670,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9579,8 +11235,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "439401070523",
+    "uikName": "УИК №287",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2833,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -9631,8 +11296,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "439401070524",
+    "uikName": "УИК №288",
     "tikTvd": "239200070654",
     "tikName": "Калининград, Октябрьская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2887,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -9683,8 +11357,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "439402370487",
+    "uikName": "УИК №516",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2218,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9735,8 +11418,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "439402370488",
+    "uikName": "УИК №517",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1910,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9787,8 +11479,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "439402370489",
+    "uikName": "УИК №518",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1808,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9839,8 +11540,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "439402370490",
+    "uikName": "УИК №519",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9891,8 +11601,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "439402370491",
+    "uikName": "УИК №520",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1902,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -9943,8 +11662,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "439402370492",
+    "uikName": "УИК №521",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1692,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -9995,8 +11723,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "439402370493",
+    "uikName": "УИК №522",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1943,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -10047,8 +11784,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "439402370494",
+    "uikName": "УИК №523",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2087,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10099,8 +11845,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "439402370495",
+    "uikName": "УИК №524",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2376,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10151,8 +11906,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "439402370496",
+    "uikName": "УИК №525",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1087,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -10203,8 +11967,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "439402370497",
+    "uikName": "УИК №526",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1835,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10255,8 +12028,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "439402370498",
+    "uikName": "УИК №527",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1827,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10307,8 +12089,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "439402370499",
+    "uikName": "УИК №528",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2101,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10359,8 +12150,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "439402370500",
+    "uikName": "УИК №529",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2539,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10411,8 +12211,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "439402370501",
+    "uikName": "УИК №530",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2905,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10463,8 +12272,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "439402370502",
+    "uikName": "УИК №531",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1762,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10515,8 +12333,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "439402370503",
+    "uikName": "УИК №532",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2282,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10567,8 +12394,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "439402370504",
+    "uikName": "УИК №533",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1816,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -10619,8 +12455,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "439402370505",
+    "uikName": "УИК №534",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -10671,8 +12516,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "439402370506",
+    "uikName": "УИК №535",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -10723,8 +12577,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "439402370507",
+    "uikName": "УИК №536",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -10775,8 +12638,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "439402370508",
+    "uikName": "УИК №537",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -10827,8 +12699,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "439402370509",
+    "uikName": "УИК №538",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 591,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -10879,8 +12760,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "439402370510",
+    "uikName": "УИК №539",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 723,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -10931,8 +12821,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "439402370511",
+    "uikName": "УИК №540",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -10983,8 +12882,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "439402370512",
+    "uikName": "УИК №541",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -11035,8 +12943,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "439402370513",
+    "uikName": "УИК №542",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -11087,8 +13004,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "439402370514",
+    "uikName": "УИК №543",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -11139,8 +13065,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "439402370515",
+    "uikName": "УИК №544",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 808,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -11191,8 +13126,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 545,
     "uikTvd": "439402370516",
+    "uikName": "УИК №545",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11243,8 +13187,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 546,
     "uikTvd": "439402370517",
+    "uikName": "УИК №546",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -11295,8 +13248,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 547,
     "uikTvd": "439402370518",
+    "uikName": "УИК №547",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 725,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -11347,8 +13309,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 548,
     "uikTvd": "439402370519",
+    "uikName": "УИК №548",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 549,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -11399,8 +13370,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 549,
     "uikTvd": "439402370520",
+    "uikName": "УИК №549",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 845,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -11451,8 +13431,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "439402370521",
+    "uikName": "УИК №550",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11503,8 +13492,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "439402370522",
+    "uikName": "УИК №551",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 609,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -11555,8 +13553,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "439402370523",
+    "uikName": "УИК №552",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -11607,8 +13614,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "439402370524",
+    "uikName": "УИК №553",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 885,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -11659,8 +13675,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "439402370525",
+    "uikName": "УИК №554",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 727,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -11711,8 +13736,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "439402370526",
+    "uikName": "УИК №555",
     "tikTvd": "239200070655",
     "tikName": "Черняховская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11763,8 +13797,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "439402270399",
+    "uikName": "УИК №493",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1678,
       "Число бюллетеней, полученных участковыми комиссиями": 1506,
@@ -11815,8 +13858,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "439402270400",
+    "uikName": "УИК №494",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1347,
       "Число бюллетеней, полученных участковыми комиссиями": 1191,
@@ -11867,8 +13919,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "439402270401",
+    "uikName": "УИК №495",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1612,
       "Число бюллетеней, полученных участковыми комиссиями": 1448,
@@ -11919,8 +13980,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "439402270402",
+    "uikName": "УИК №496",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1738,
       "Число бюллетеней, полученных участковыми комиссиями": 1569,
@@ -11971,8 +14041,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "439402270403",
+    "uikName": "УИК №497",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1742,
       "Число бюллетеней, полученных участковыми комиссиями": 1558,
@@ -12023,8 +14102,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "439402270404",
+    "uikName": "УИК №498",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1507,
       "Число бюллетеней, полученных участковыми комиссиями": 1361,
@@ -12075,8 +14163,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "439402270405",
+    "uikName": "УИК №499",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1448,
       "Число бюллетеней, полученных участковыми комиссиями": 1308,
@@ -12127,8 +14224,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "439402270406",
+    "uikName": "УИК №500",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1458,
       "Число бюллетеней, полученных участковыми комиссиями": 1312,
@@ -12179,8 +14285,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "439402270407",
+    "uikName": "УИК №501",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1703,
       "Число бюллетеней, полученных участковыми комиссиями": 1536,
@@ -12231,8 +14346,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "439402270408",
+    "uikName": "УИК №502",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1601,
       "Число бюллетеней, полученных участковыми комиссиями": 1442,
@@ -12283,8 +14407,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "439402270409",
+    "uikName": "УИК №503",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1631,
       "Число бюллетеней, полученных участковыми комиссиями": 1468,
@@ -12335,8 +14468,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "439402270410",
+    "uikName": "УИК №504",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1437,
       "Число бюллетеней, полученных участковыми комиссиями": 1291,
@@ -12387,8 +14529,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "439402270411",
+    "uikName": "УИК №505",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2923,
       "Число бюллетеней, полученных участковыми комиссиями": 2628,
@@ -12439,8 +14590,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "439402270412",
+    "uikName": "УИК №506",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1464,
       "Число бюллетеней, полученных участковыми комиссиями": 1314,
@@ -12491,8 +14651,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "439402270413",
+    "uikName": "УИК №507",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1867,
       "Число бюллетеней, полученных участковыми комиссиями": 1684,
@@ -12543,8 +14712,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "439402270414",
+    "uikName": "УИК №508",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1514,
       "Число бюллетеней, полученных участковыми комиссиями": 1358,
@@ -12595,8 +14773,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "439402270415",
+    "uikName": "УИК №509",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1773,
       "Число бюллетеней, полученных участковыми комиссиями": 1595,
@@ -12647,8 +14834,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "439402270416",
+    "uikName": "УИК №510",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1353,
       "Число бюллетеней, полученных участковыми комиссиями": 1218,
@@ -12699,8 +14895,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "439402270417",
+    "uikName": "УИК №511",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -12751,8 +14956,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "439402270418",
+    "uikName": "УИК №512",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1277,
       "Число бюллетеней, полученных участковыми комиссиями": 1148,
@@ -12803,8 +15017,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "439402270419",
+    "uikName": "УИК №513",
     "tikTvd": "239200070656",
     "tikName": "Советская ",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1572,
       "Число бюллетеней, полученных участковыми комиссиями": 1417,
@@ -12855,8 +15078,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "439402170393",
+    "uikName": "УИК №472",
     "tikTvd": "239200070657",
     "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2171,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -12907,8 +15139,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "439402170394",
+    "uikName": "УИК №473",
     "tikTvd": "239200070657",
     "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1710,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -12959,8 +15200,17 @@ export const duma_2003_uik_428_region_39_part_002 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "439402170395",
+    "uikName": "УИК №474",
     "tikTvd": "239200070657",
     "tikName": "Славская",
+    "regionCode": "39",
+    "regionTvd": "100100095894",
+    "regionName": "Калининградская область",
+    "district": {
+      "districtNumber": 85,
+      "oikTvd": "100100095895",
+      "oikName": "Калининградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2087,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,

@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "274200066764",
     "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 27849,
@@ -120,6 +123,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "274200066768",
     "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 20179,
@@ -224,6 +230,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "274200066770",
     "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 20026,
@@ -316,6 +325,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "274200066771",
     "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки": 18488,
@@ -433,6 +445,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "274200066773",
     "tikName": "Карабашская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки": 13186,
@@ -508,6 +523,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300167353",
     "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 80,
     "accounting": {
       "Число избирателей, внесенных в списки": 140487,
@@ -653,6 +671,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 84,
     "accounting": {
       "Число избирателей, внесенных в списки": 135349,
@@ -802,6 +823,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 38268,
@@ -895,6 +919,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в списки": 24751,
@@ -1020,6 +1047,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки": 21203,
@@ -1127,6 +1157,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 60480,
@@ -1230,6 +1263,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300267861",
     "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в списки": 107247,
@@ -1354,6 +1390,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300267862",
     "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в списки": 151541,
@@ -1498,6 +1537,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300267863",
     "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки": 118316,
@@ -1620,6 +1662,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300267864",
     "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в списки": 135349,
@@ -1757,6 +1802,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300267865",
     "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки": 70191,
@@ -1864,6 +1912,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367180",
     "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 34262,
@@ -1948,6 +1999,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367184",
     "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 29994,
@@ -2057,6 +2111,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367186",
     "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 40746,
@@ -2140,6 +2197,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367190",
     "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 30225,
@@ -2235,6 +2295,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367204",
     "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 30495,
@@ -2335,6 +2398,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367205",
     "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 27776,
@@ -2415,6 +2481,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367206",
     "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки": 31836,
@@ -2534,6 +2603,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367207",
     "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки": 22450,
@@ -2644,6 +2716,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367208",
     "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 24710,
@@ -2732,6 +2807,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367209",
     "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 78381,
@@ -2830,6 +2908,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367213",
     "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 16131,
@@ -2919,6 +3000,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367214",
     "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки": 66926,
@@ -3039,6 +3123,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367215",
     "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 23136,
@@ -3125,6 +3212,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300367942",
     "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки": 54140,
@@ -3245,6 +3335,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300467141",
     "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 20649,
@@ -3345,6 +3438,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300467143",
     "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 22179,
@@ -3450,6 +3546,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300467145",
     "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки": 28485,
@@ -3569,6 +3668,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300467147",
     "tikName": "Локомотивная поселковая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в списки": 6807,
@@ -3637,6 +3739,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300467149",
     "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки": 37052,
@@ -3757,6 +3862,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300467151",
     "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 19450,
@@ -3853,6 +3961,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300467153",
     "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки": 87450,
@@ -3963,6 +4074,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300467155",
     "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в списки": 144088,
@@ -4102,6 +4216,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300467157",
     "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки": 92888,
@@ -4221,6 +4338,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300467159",
     "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 16779,
@@ -4322,6 +4442,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300467161",
     "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 14314,
@@ -4416,6 +4539,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300467171",
     "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки": 25606,
@@ -4527,6 +4653,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300567245",
     "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 21524,
@@ -4632,6 +4761,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300567248",
     "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 38499,
@@ -4727,6 +4859,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300567252",
     "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 49514,
@@ -4828,6 +4963,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300567256",
     "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки": 41589,
@@ -4942,6 +5080,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300567258",
     "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 23486,
@@ -5038,6 +5179,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300567260",
     "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в списки": 143151,
@@ -5173,6 +5317,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300567262",
     "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки": 103890,
@@ -5300,6 +5447,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300567264",
     "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 61,
     "accounting": {
       "Число избирателей, внесенных в списки": 104834,
@@ -5426,6 +5576,9 @@ export const duma_2003_tic_431_region_74 = [
     "ballot": "party",
     "tikTvd": "374300567265",
     "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 30871,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "450400770969",
+    "uikName": "УИК  385",
     "tikTvd": "350301170337",
     "tikName": "Домодедовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2207,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "450400770970",
+    "uikName": "УИК  386",
     "tikTvd": "350301170337",
     "tikName": "Домодедовская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2607,
     "uikTvd": "450405170585",
+    "uikName": "УИК №2607",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2608,
     "uikTvd": "450405170586",
+    "uikName": "УИК №2608",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1091,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2609,
     "uikTvd": "450405170587",
+    "uikName": "УИК №2609",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2610,
     "uikTvd": "450405170588",
+    "uikName": "УИК №2610",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2611,
     "uikTvd": "450405170589",
+    "uikName": "УИК №2611",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 800,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2612,
     "uikTvd": "450405170590",
+    "uikName": "УИК №2612",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2613,
     "uikTvd": "450405170591",
+    "uikName": "УИК №2613",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 681,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2614,
     "uikTvd": "450405170592",
+    "uikName": "УИК №2614",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 811,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2615,
     "uikTvd": "450405170593",
+    "uikName": "УИК №2615",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 819,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2616,
     "uikTvd": "450405170594",
+    "uikName": "УИК №2616",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1176,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2617,
     "uikTvd": "450405170595",
+    "uikName": "УИК №2617",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 594,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2618,
     "uikTvd": "450405170596",
+    "uikName": "УИК №2618",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2619,
     "uikTvd": "450405170597",
+    "uikName": "УИК №2619",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 534,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2620,
     "uikTvd": "450405170598",
+    "uikName": "УИК №2620",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 167,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2621,
     "uikTvd": "450405170599",
+    "uikName": "УИК №2621",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2622,
     "uikTvd": "450405170600",
+    "uikName": "УИК №2622",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2291,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2623,
     "uikTvd": "450405170601",
+    "uikName": "УИК №2623",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2401,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2624,
     "uikTvd": "450405170602",
+    "uikName": "УИК №2624",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2625,
     "uikTvd": "450405170603",
+    "uikName": "УИК №2625",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2626,
     "uikTvd": "450405170604",
+    "uikName": "УИК №2626",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 101,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2627,
     "uikTvd": "450405170605",
+    "uikName": "УИК №2627",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 701,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2628,
     "uikTvd": "450405170606",
+    "uikName": "УИК №2628",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2053,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2629,
     "uikTvd": "450405170607",
+    "uikName": "УИК №2629",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2630,
     "uikTvd": "450405170608",
+    "uikName": "УИК №2630",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2631,
     "uikTvd": "450405170609",
+    "uikName": "УИК №2631",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 739,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2632,
     "uikTvd": "450405170610",
+    "uikName": "УИК №2632",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2633,
     "uikTvd": "450405170611",
+    "uikName": "УИК №2633",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2634,
     "uikTvd": "450405170612",
+    "uikName": "УИК №2634",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 700,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2635,
     "uikTvd": "450405170613",
+    "uikName": "УИК №2635",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2636,
     "uikTvd": "450405170614",
+    "uikName": "УИК №2636",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2637,
     "uikTvd": "450405170615",
+    "uikName": "УИК №2637",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2638,
     "uikTvd": "450405170616",
+    "uikName": "УИК №2638",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 866,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2639,
     "uikTvd": "450405170617",
+    "uikName": "УИК №2639",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2640,
     "uikTvd": "450405170618",
+    "uikName": "УИК №2640",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 934,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2641,
     "uikTvd": "450405170619",
+    "uikName": "УИК №2641",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2473,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2642,
     "uikTvd": "450405170620",
+    "uikName": "УИК №2642",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 976,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2643,
     "uikTvd": "450405170621",
+    "uikName": "УИК №2643",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2364,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2644,
     "uikTvd": "450405170622",
+    "uikName": "УИК №2644",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2278,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2645,
     "uikTvd": "450405170623",
+    "uikName": "УИК №2645",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1504,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2646,
     "uikTvd": "450405170624",
+    "uikName": "УИК №2646",
     "tikTvd": "350301170338",
     "tikName": "Серпуховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2773,
     "uikTvd": "450405370650",
+    "uikName": "УИК  2773",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1140,
       "Число бюллетеней, полученных участковыми комиссиями": 1128,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2774,
     "uikTvd": "450405370651",
+    "uikName": "УИК  2774",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1221,
       "Число бюллетеней, полученных участковыми комиссиями": 1210,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2775,
     "uikTvd": "450405370652",
+    "uikName": "УИК  2775",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1164,
       "Число бюллетеней, полученных участковыми комиссиями": 1136,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2776,
     "uikTvd": "450405370653",
+    "uikName": "УИК  2776",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1226,
       "Число бюллетеней, полученных участковыми комиссиями": 1165,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2777,
     "uikTvd": "450405370654",
+    "uikName": "УИК  2777",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1275,
       "Число бюллетеней, полученных участковыми комиссиями": 1264,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2778,
     "uikTvd": "450405370655",
+    "uikName": "УИК  2778",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2523,
       "Число бюллетеней, полученных участковыми комиссиями": 2509,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2779,
     "uikTvd": "450405370605",
+    "uikName": "УИК  2779",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2478,
       "Число бюллетеней, полученных участковыми комиссиями": 2473,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2780,
     "uikTvd": "450405370606",
+    "uikName": "УИК  2780",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2387,
       "Число бюллетеней, полученных участковыми комиссиями": 2387,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2781,
     "uikTvd": "450405370607",
+    "uikName": "УИК  2781",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2180,
       "Число бюллетеней, полученных участковыми комиссиями": 2166,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2782,
     "uikTvd": "450405370608",
+    "uikName": "УИК  2782",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2205,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2783,
     "uikTvd": "450405370609",
+    "uikName": "УИК  2783",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2413,
       "Число бюллетеней, полученных участковыми комиссиями": 2406,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2784,
     "uikTvd": "450405370610",
+    "uikName": "УИК  2784",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2392,
       "Число бюллетеней, полученных участковыми комиссиями": 2395,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2785,
     "uikTvd": "450405370611",
+    "uikName": "УИК  2785",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2114,
       "Число бюллетеней, полученных участковыми комиссиями": 2114,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2786,
     "uikTvd": "450405370612",
+    "uikName": "УИК  2786",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1683,
       "Число бюллетеней, полученных участковыми комиссиями": 1678,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2787,
     "uikTvd": "450405370613",
+    "uikName": "УИК  2787",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1639,
       "Число бюллетеней, полученных участковыми комиссиями": 1641,
@@ -2861,8 +3374,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2788,
     "uikTvd": "450405370614",
+    "uikName": "УИК  2788",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1699,
       "Число бюллетеней, полученных участковыми комиссиями": 1684,
@@ -2911,8 +3433,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2789,
     "uikTvd": "450405370615",
+    "uikName": "УИК  2789",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2427,
       "Число бюллетеней, полученных участковыми комиссиями": 2421,
@@ -2961,8 +3492,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2790,
     "uikTvd": "450405370616",
+    "uikName": "УИК  2790",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2210,
       "Число бюллетеней, полученных участковыми комиссиями": 2214,
@@ -3011,8 +3551,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2791,
     "uikTvd": "450405370617",
+    "uikName": "УИК  2791",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 2163,
@@ -3061,8 +3610,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2792,
     "uikTvd": "450405370618",
+    "uikName": "УИК  2792",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1547,
       "Число бюллетеней, полученных участковыми комиссиями": 1547,
@@ -3111,8 +3669,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2793,
     "uikTvd": "450405370619",
+    "uikName": "УИК  2793",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1827,
       "Число бюллетеней, полученных участковыми комиссиями": 1823,
@@ -3161,8 +3728,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2794,
     "uikTvd": "450405370620",
+    "uikName": "УИК  2794",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1991,
       "Число бюллетеней, полученных участковыми комиссиями": 1985,
@@ -3211,8 +3787,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2795,
     "uikTvd": "450405370621",
+    "uikName": "УИК  2795",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1419,
       "Число бюллетеней, полученных участковыми комиссиями": 1417,
@@ -3261,8 +3846,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2796,
     "uikTvd": "450405370656",
+    "uikName": "УИК  2796",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 385,
       "Число бюллетеней, полученных участковыми комиссиями": 362,
@@ -3311,8 +3905,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2797,
     "uikTvd": "450405370622",
+    "uikName": "УИК  2797",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1985,
       "Число бюллетеней, полученных участковыми комиссиями": 1987,
@@ -3361,8 +3964,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2798,
     "uikTvd": "450405370623",
+    "uikName": "УИК  2798",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2428,
       "Число бюллетеней, полученных участковыми комиссиями": 2422,
@@ -3411,8 +4023,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2799,
     "uikTvd": "450405370624",
+    "uikName": "УИК  2799",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1279,
@@ -3461,8 +4082,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2800,
     "uikTvd": "450405370625",
+    "uikName": "УИК  2800",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1590,
       "Число бюллетеней, полученных участковыми комиссиями": 1588,
@@ -3511,8 +4141,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2801,
     "uikTvd": "450405370626",
+    "uikName": "УИК  2801",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1925,
       "Число бюллетеней, полученных участковыми комиссиями": 1924,
@@ -3561,8 +4200,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2802,
     "uikTvd": "450405370627",
+    "uikName": "УИК  2802",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2207,
       "Число бюллетеней, полученных участковыми комиссиями": 2188,
@@ -3611,8 +4259,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2803,
     "uikTvd": "450405370628",
+    "uikName": "УИК  2803",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1177,
       "Число бюллетеней, полученных участковыми комиссиями": 1168,
@@ -3661,8 +4318,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2804,
     "uikTvd": "450405370629",
+    "uikName": "УИК  2804",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2221,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -3711,8 +4377,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2805,
     "uikTvd": "450405370630",
+    "uikName": "УИК  2805",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2053,
       "Число бюллетеней, полученных участковыми комиссиями": 2042,
@@ -3761,8 +4436,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2806,
     "uikTvd": "450405370631",
+    "uikName": "УИК  2806",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2476,
@@ -3811,8 +4495,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2807,
     "uikTvd": "450405370632",
+    "uikName": "УИК  2807",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 869,
       "Число бюллетеней, полученных участковыми комиссиями": 863,
@@ -3861,8 +4554,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2808,
     "uikTvd": "450405370633",
+    "uikName": "УИК  2808",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1253,
       "Число бюллетеней, полученных участковыми комиссиями": 1242,
@@ -3911,8 +4613,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2809,
     "uikTvd": "450405370634",
+    "uikName": "УИК  2809",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1195,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -3961,8 +4672,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2810,
     "uikTvd": "450405370657",
+    "uikName": "УИК  2810",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1748,
       "Число бюллетеней, полученных участковыми комиссиями": 1757,
@@ -4011,8 +4731,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2811,
     "uikTvd": "450405370635",
+    "uikName": "УИК  2811",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1146,
       "Число бюллетеней, полученных участковыми комиссиями": 1124,
@@ -4061,8 +4790,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2812,
     "uikTvd": "450405370636",
+    "uikName": "УИК  2812",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1573,
       "Число бюллетеней, полученных участковыми комиссиями": 1576,
@@ -4111,8 +4849,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2813,
     "uikTvd": "450405370637",
+    "uikName": "УИК  2813",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1052,
       "Число бюллетеней, полученных участковыми комиссиями": 1043,
@@ -4161,8 +4908,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2814,
     "uikTvd": "450405370638",
+    "uikName": "УИК  2814",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1576,
       "Число бюллетеней, полученных участковыми комиссиями": 1565,
@@ -4211,8 +4967,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2815,
     "uikTvd": "450405370639",
+    "uikName": "УИК  2815",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1021,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -4261,8 +5026,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2816,
     "uikTvd": "450405370640",
+    "uikName": "УИК  2816",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1414,
       "Число бюллетеней, полученных участковыми комиссиями": 1405,
@@ -4311,8 +5085,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2817,
     "uikTvd": "450405370641",
+    "uikName": "УИК  2817",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 686,
       "Число бюллетеней, полученных участковыми комиссиями": 678,
@@ -4361,8 +5144,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2818,
     "uikTvd": "450405370642",
+    "uikName": "УИК  2818",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2048,
       "Число бюллетеней, полученных участковыми комиссиями": 1906,
@@ -4411,8 +5203,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2819,
     "uikTvd": "450405370643",
+    "uikName": "УИК  2819",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 349,
@@ -4461,8 +5262,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2820,
     "uikTvd": "450405370644",
+    "uikName": "УИК  2820",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1780,
       "Число бюллетеней, полученных участковыми комиссиями": 1783,
@@ -4511,8 +5321,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2821,
     "uikTvd": "450405370645",
+    "uikName": "УИК  2821",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1356,
       "Число бюллетеней, полученных участковыми комиссиями": 1348,
@@ -4561,8 +5380,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2822,
     "uikTvd": "450405370646",
+    "uikName": "УИК  2822",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2545,
       "Число бюллетеней, полученных участковыми комиссиями": 2516,
@@ -4611,8 +5439,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2823,
     "uikTvd": "450405370647",
+    "uikName": "УИК  2823",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1067,
@@ -4661,8 +5498,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2824,
     "uikTvd": "450405370648",
+    "uikName": "УИК  2824",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 148,
@@ -4711,8 +5557,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2825,
     "uikTvd": "450405370649",
+    "uikName": "УИК  2825",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 828,
       "Число бюллетеней, полученных участковыми комиссиями": 826,
@@ -4761,8 +5616,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2826,
     "uikTvd": "450405370658",
+    "uikName": "УИК  2826",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1216,
       "Число бюллетеней, полученных участковыми комиссиями": 1157,
@@ -4811,8 +5675,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2827,
     "uikTvd": "450405370659",
+    "uikName": "УИК  2827",
     "tikTvd": "350301170339",
     "tikName": " Ступинская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2586,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -4861,8 +5734,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2962,
     "uikTvd": "450405870398",
+    "uikName": "УИК №2962",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2820,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4911,8 +5793,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2963,
     "uikTvd": "450405870399",
+    "uikName": "УИК №2963",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 782,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4961,8 +5852,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2964,
     "uikTvd": "450405870400",
+    "uikName": "УИК №2964",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1712,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5011,8 +5911,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2965,
     "uikTvd": "450405870401",
+    "uikName": "УИК №2965",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1315,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5061,8 +5970,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2966,
     "uikTvd": "450405870402",
+    "uikName": "УИК №2966",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3053,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -5111,8 +6029,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2967,
     "uikTvd": "450405870403",
+    "uikName": "УИК №2967",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2227,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5161,8 +6088,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2968,
     "uikTvd": "450405870404",
+    "uikName": "УИК №2968",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2723,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5211,8 +6147,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2969,
     "uikTvd": "450405870405",
+    "uikName": "УИК №2969",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1962,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5261,8 +6206,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2970,
     "uikTvd": "450405870406",
+    "uikName": "УИК №2970",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1410,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5311,8 +6265,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2971,
     "uikTvd": "450405870407",
+    "uikName": "УИК №2971",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5361,8 +6324,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2972,
     "uikTvd": "450405870408",
+    "uikName": "УИК №2972",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1842,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5411,8 +6383,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2973,
     "uikTvd": "450405870409",
+    "uikName": "УИК №2973",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2898,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -5461,8 +6442,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2974,
     "uikTvd": "450405870410",
+    "uikName": "УИК №2974",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2707,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5511,8 +6501,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2975,
     "uikTvd": "450405870411",
+    "uikName": "УИК №2975",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2567,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5561,8 +6560,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2976,
     "uikTvd": "450405870412",
+    "uikName": "УИК №2976",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2564,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5611,8 +6619,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2977,
     "uikTvd": "450405870413",
+    "uikName": "УИК №2977",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2646,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5661,8 +6678,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2978,
     "uikTvd": "450405870414",
+    "uikName": "УИК №2978",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2547,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5711,8 +6737,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2979,
     "uikTvd": "450405870415",
+    "uikName": "УИК №2979",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1508,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5761,8 +6796,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2980,
     "uikTvd": "450405870416",
+    "uikName": "УИК №2980",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2738,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5811,8 +6855,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2981,
     "uikTvd": "450405870417",
+    "uikName": "УИК №2981",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1974,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5861,8 +6914,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2982,
     "uikTvd": "450405870418",
+    "uikName": "УИК №2982",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 849,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5911,8 +6973,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2983,
     "uikTvd": "450405870419",
+    "uikName": "УИК №2983",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1429,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5961,8 +7032,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2984,
     "uikTvd": "450405870420",
+    "uikName": "УИК №2984",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1877,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6011,8 +7091,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2985,
     "uikTvd": "450405870421",
+    "uikName": "УИК №2985",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2001,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6061,8 +7150,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2986,
     "uikTvd": "450405870422",
+    "uikName": "УИК №2986",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6111,8 +7209,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2987,
     "uikTvd": "450405870423",
+    "uikName": "УИК №2987",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2401,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6161,8 +7268,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2988,
     "uikTvd": "450405870424",
+    "uikName": "УИК №2988",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1078,
       "Число бюллетеней, полученных участковыми комиссиями": 1010,
@@ -6211,8 +7327,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2989,
     "uikTvd": "450405870425",
+    "uikName": "УИК №2989",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1643,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6261,8 +7386,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2990,
     "uikTvd": "450405870426",
+    "uikName": "УИК №2990",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 963,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6311,8 +7445,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2991,
     "uikTvd": "450405870427",
+    "uikName": "УИК №2991",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1984,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6361,8 +7504,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2992,
     "uikTvd": "450405870428",
+    "uikName": "УИК №2992",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1715,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6411,8 +7563,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2993,
     "uikTvd": "450405870429",
+    "uikName": "УИК №2993",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2066,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6461,8 +7622,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2994,
     "uikTvd": "450405870430",
+    "uikName": "УИК №2994",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 716,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -6511,8 +7681,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2995,
     "uikTvd": "450405870431",
+    "uikName": "УИК №2995",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2273,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6561,8 +7740,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2996,
     "uikTvd": "450405870432",
+    "uikName": "УИК №2996",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1195,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6611,8 +7799,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2997,
     "uikTvd": "450405870433",
+    "uikName": "УИК №2997",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2078,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6661,8 +7858,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2998,
     "uikTvd": "450405870434",
+    "uikName": "УИК №2998",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2109,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6711,8 +7917,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 2999,
     "uikTvd": "450405870435",
+    "uikName": "УИК №2999",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 601,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6761,8 +7976,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 3000,
     "uikTvd": "450405870436",
+    "uikName": "УИК №3000",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -6811,8 +8035,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 3001,
     "uikTvd": "450405870437",
+    "uikName": "УИК №3001",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -6861,8 +8094,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 3002,
     "uikTvd": "450405870438",
+    "uikName": "УИК №3002",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6911,8 +8153,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 3003,
     "uikTvd": "450405870439",
+    "uikName": "УИК №3003",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1197,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6961,8 +8212,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 3004,
     "uikTvd": "450405870440",
+    "uikName": "УИК №3004",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 727,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7011,8 +8271,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 3005,
     "uikTvd": "450405870441",
+    "uikName": "УИК №3005",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2315,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -7061,8 +8330,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 3006,
     "uikTvd": "450405870442",
+    "uikName": "УИК №3006",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1753,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7111,8 +8389,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 3007,
     "uikTvd": "450405870443",
+    "uikName": "УИК №3007",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 941,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7161,8 +8448,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 3008,
     "uikTvd": "450405870444",
+    "uikName": "УИК №3008",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2764,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7211,8 +8507,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 3009,
     "uikTvd": "450405870445",
+    "uikName": "УИК №3009",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2951,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7261,8 +8566,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 3010,
     "uikTvd": "450405870446",
+    "uikName": "УИК №3010",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2461,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7311,8 +8625,17 @@ export const duma_2003_uik_428_region_50_part_014 = [
     "ballot": "single-member",
     "uikNumber": 3011,
     "uikTvd": "450405870447",
+    "uikName": "УИК №3011",
     "tikTvd": "350301170340",
     "tikName": "Чеховская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 115,
+      "oikTvd": "100100095716",
+      "oikName": "Серпуховский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2683,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,

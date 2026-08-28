@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1240,
     "uikTvd": "461405670528",
+    "uikName": "УИК  1240",
     "tikTvd": "361300370394",
     "tikName": "Тацинская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 488,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1241,
     "uikTvd": "461405670529",
+    "uikName": "УИК  1241",
     "tikTvd": "361300370394",
     "tikName": "Тацинская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 579,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1242,
     "uikTvd": "461405670530",
+    "uikName": "УИК  1242",
     "tikTvd": "361300370394",
     "tikName": "Тацинская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 808,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2450,
     "uikTvd": "461405670531",
+    "uikName": "УИК  2450",
     "tikTvd": "361300370394",
     "tikName": "Тацинская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1058,
       "Число бюллетеней, полученных участковыми комиссиями": 1152,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2515,
     "uikTvd": "461405670532",
+    "uikName": "УИК  2515",
     "tikTvd": "361300370394",
     "tikName": "Тацинская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 661,
       "Число бюллетеней, полученных участковыми комиссиями": 669,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2575,
     "uikTvd": "461405670533",
+    "uikName": "УИК  2575",
     "tikTvd": "361300370394",
     "tikName": "Тацинская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1244,
     "uikTvd": "461406071069",
+    "uikName": "УИК №1244",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 950,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1245,
     "uikTvd": "461406071070",
+    "uikName": "УИК №1245",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 849,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1246,
     "uikTvd": "461406071071",
+    "uikName": "УИК №1246",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 984,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1247,
     "uikTvd": "461406071072",
+    "uikName": "УИК №1247",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 911,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1248,
     "uikTvd": "461406071073",
+    "uikName": "УИК №1248",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 782,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1249,
     "uikTvd": "461406071074",
+    "uikName": "УИК №1249",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1054,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1250,
     "uikTvd": "461406071075",
+    "uikName": "УИК №1250",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1251,
     "uikTvd": "461406071076",
+    "uikName": "УИК №1251",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1330,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1252,
     "uikTvd": "461406071077",
+    "uikName": "УИК №1252",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 955,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1253,
     "uikTvd": "461406071078",
+    "uikName": "УИК №1253",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 960,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1254,
     "uikTvd": "461406071079",
+    "uikName": "УИК №1254",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1136,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1255,
     "uikTvd": "461406071080",
+    "uikName": "УИК №1255",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1256,
     "uikTvd": "461406071081",
+    "uikName": "УИК №1256",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1257,
     "uikTvd": "461406071082",
+    "uikName": "УИК №1257",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1258,
     "uikTvd": "461406071083",
+    "uikName": "УИК №1258",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1259,
     "uikTvd": "461406071084",
+    "uikName": "УИК №1259",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1260,
     "uikTvd": "461406071085",
+    "uikName": "УИК №1260",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1261,
     "uikTvd": "461406071086",
+    "uikName": "УИК №1261",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1262,
     "uikTvd": "461406071087",
+    "uikName": "УИК №1262",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1263,
     "uikTvd": "461406071088",
+    "uikName": "УИК №1263",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 677,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1264,
     "uikTvd": "461406071089",
+    "uikName": "УИК №1264",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 991,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1265,
     "uikTvd": "461406071090",
+    "uikName": "УИК №1265",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 804,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1266,
     "uikTvd": "461406071091",
+    "uikName": "УИК №1266",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1267,
     "uikTvd": "461406071092",
+    "uikName": "УИК №1267",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 869,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1268,
     "uikTvd": "461406071093",
+    "uikName": "УИК №1268",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1269,
     "uikTvd": "461406071094",
+    "uikName": "УИК №1269",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 775,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1270,
     "uikTvd": "461406071095",
+    "uikName": "УИК №1270",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 701,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1271,
     "uikTvd": "461406071096",
+    "uikName": "УИК №1271",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1218,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1272,
     "uikTvd": "461406071097",
+    "uikName": "УИК №1272",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 656,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1273,
     "uikTvd": "461406071098",
+    "uikName": "УИК №1273",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1274,
     "uikTvd": "461406071099",
+    "uikName": "УИК №1274",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 338,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1275,
     "uikTvd": "461406071100",
+    "uikName": "УИК №1275",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1256,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1276,
     "uikTvd": "461406071101",
+    "uikName": "УИК №1276",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 600,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1277,
     "uikTvd": "461406071102",
+    "uikName": "УИК №1277",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 807,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1278,
     "uikTvd": "461406071103",
+    "uikName": "УИК №1278",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1279,
     "uikTvd": "461406071104",
+    "uikName": "УИК №1279",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 815,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1280,
     "uikTvd": "461406071105",
+    "uikName": "УИК №1280",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 961,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1281,
     "uikTvd": "461406071106",
+    "uikName": "УИК №1281",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 532,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1282,
     "uikTvd": "461406071107",
+    "uikName": "УИК №1282",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 698,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1283,
     "uikTvd": "461406071108",
+    "uikName": "УИК №1283",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 497,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1284,
     "uikTvd": "461406071109",
+    "uikName": "УИК №1284",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2453,
     "uikTvd": "461406071110",
+    "uikName": "УИК №2453",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 699,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2454,
     "uikTvd": "461406071111",
+    "uikName": "УИК №2454",
     "tikTvd": "361300370395",
     "tikName": "Чертковская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 649,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1285,
     "uikTvd": "461406270463",
+    "uikName": "УИК  1285",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1286,
     "uikTvd": "461406270464",
+    "uikName": "УИК  1286",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1474,
       "Число бюллетеней, полученных участковыми комиссиями": 1475,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1287,
     "uikTvd": "461406270465",
+    "uikName": "УИК  1287",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 503,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1288,
     "uikTvd": "461406270466",
+    "uikName": "УИК  1288",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1289,
     "uikTvd": "461406270467",
+    "uikName": "УИК  1289",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1290,
     "uikTvd": "461406270468",
+    "uikName": "УИК  1290",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2902,
       "Число бюллетеней, полученных участковыми комиссиями": 2855,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1291,
     "uikTvd": "461406270469",
+    "uikName": "УИК  1291",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2532,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1292,
     "uikTvd": "461406270470",
+    "uikName": "УИК  1292",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2510,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1293,
     "uikTvd": "461406270471",
+    "uikName": "УИК  1293",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1294,
     "uikTvd": "461406270472",
+    "uikName": "УИК  1294",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1295,
     "uikTvd": "461406270473",
+    "uikName": "УИК  1295",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1296,
     "uikTvd": "461406270474",
+    "uikName": "УИК  1296",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 584,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1297,
     "uikTvd": "461406270475",
+    "uikName": "УИК  1297",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1298,
     "uikTvd": "461406270476",
+    "uikName": "УИК  1298",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1299,
     "uikTvd": "461406270477",
+    "uikName": "УИК  1299",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 586,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1300,
     "uikTvd": "461406270478",
+    "uikName": "УИК  1300",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 171,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1301,
     "uikTvd": "461406270479",
+    "uikName": "УИК  1301",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1302,
     "uikTvd": "461406270480",
+    "uikName": "УИК  1302",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1096,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1303,
     "uikTvd": "461406270481",
+    "uikName": "УИК  1303",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1304,
     "uikTvd": "461406270482",
+    "uikName": "УИК  1304",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1305,
     "uikTvd": "461406270483",
+    "uikName": "УИК  1305",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 862,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1306,
     "uikTvd": "461406270484",
+    "uikName": "УИК  1306",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 143,
       "Число бюллетеней, полученных участковыми комиссиями": 141,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1307,
     "uikTvd": "461406270485",
+    "uikName": "УИК  1307",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1308,
     "uikTvd": "461406270486",
+    "uikName": "УИК  1308",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1309,
     "uikTvd": "461406270487",
+    "uikName": "УИК  1309",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1027,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1310,
     "uikTvd": "461406270488",
+    "uikName": "УИК  1310",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1311,
     "uikTvd": "461406270489",
+    "uikName": "УИК  1311",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1312,
     "uikTvd": "461406270490",
+    "uikName": "УИК  1312",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1313,
     "uikTvd": "461406270491",
+    "uikName": "УИК  1313",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1078,
       "Число бюллетеней, полученных участковыми комиссиями": 1075,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1314,
     "uikTvd": "461406270492",
+    "uikName": "УИК  1314",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -3645,8 +4356,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1315,
     "uikTvd": "461406270493",
+    "uikName": "УИК  1315",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -3691,8 +4411,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1316,
     "uikTvd": "461406270494",
+    "uikName": "УИК  1316",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -3737,8 +4466,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1317,
     "uikTvd": "461406270495",
+    "uikName": "УИК  1317",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 557,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -3783,8 +4521,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1318,
     "uikTvd": "461406270496",
+    "uikName": "УИК  1318",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -3829,8 +4576,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2521,
     "uikTvd": "461406270497",
+    "uikName": "УИК  2521",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -3875,8 +4631,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2590,
     "uikTvd": "461406270498",
+    "uikName": "УИК  2590",
     "tikTvd": "361300370396",
     "tikName": "Шолоховская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 66,
@@ -3921,8 +4686,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 977,
     "uikTvd": "461402270629",
+    "uikName": "УИК №977",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 664,
@@ -3967,8 +4741,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 978,
     "uikTvd": "461402270630",
+    "uikName": "УИК №978",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 479,
@@ -4013,8 +4796,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 979,
     "uikTvd": "461402270631",
+    "uikName": "УИК №979",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2744,
       "Число бюллетеней, полученных участковыми комиссиями": 2821,
@@ -4059,8 +4851,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 980,
     "uikTvd": "461402270632",
+    "uikName": "УИК №980",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -4105,8 +4906,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 981,
     "uikTvd": "461402270633",
+    "uikName": "УИК №981",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -4151,8 +4961,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 982,
     "uikTvd": "461402270634",
+    "uikName": "УИК №982",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 452,
@@ -4197,8 +5016,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 983,
     "uikTvd": "461402270635",
+    "uikName": "УИК №983",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 763,
       "Число бюллетеней, полученных участковыми комиссиями": 756,
@@ -4243,8 +5071,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 984,
     "uikTvd": "461402270636",
+    "uikName": "УИК №984",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -4289,8 +5126,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 985,
     "uikTvd": "461402270637",
+    "uikName": "УИК №985",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 643,
@@ -4335,8 +5181,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 986,
     "uikTvd": "461402270638",
+    "uikName": "УИК №986",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -4381,8 +5236,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 987,
     "uikTvd": "461402270639",
+    "uikName": "УИК №987",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 277,
@@ -4427,8 +5291,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 988,
     "uikTvd": "461402270640",
+    "uikName": "УИК №988",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1557,
       "Число бюллетеней, полученных участковыми комиссиями": 1541,
@@ -4473,8 +5346,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 989,
     "uikTvd": "461402270641",
+    "uikName": "УИК №989",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1769,
       "Число бюллетеней, полученных участковыми комиссиями": 1771,
@@ -4519,8 +5401,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 990,
     "uikTvd": "461402270642",
+    "uikName": "УИК №990",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1303,
       "Число бюллетеней, полученных участковыми комиссиями": 1272,
@@ -4565,8 +5456,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 991,
     "uikTvd": "461402270643",
+    "uikName": "УИК №991",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 801,
       "Число бюллетеней, полученных участковыми комиссиями": 797,
@@ -4611,8 +5511,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 992,
     "uikTvd": "461402270644",
+    "uikName": "УИК №992",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2334,
       "Число бюллетеней, полученных участковыми комиссиями": 2434,
@@ -4657,8 +5566,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 993,
     "uikTvd": "461402270645",
+    "uikName": "УИК №993",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2184,
       "Число бюллетеней, полученных участковыми комиссиями": 2211,
@@ -4703,8 +5621,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 994,
     "uikTvd": "461402270646",
+    "uikName": "УИК №994",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 885,
       "Число бюллетеней, полученных участковыми комиссиями": 867,
@@ -4749,8 +5676,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 995,
     "uikTvd": "461402270647",
+    "uikName": "УИК №995",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 453,
@@ -4795,8 +5731,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 996,
     "uikTvd": "461402270648",
+    "uikName": "УИК №996",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 511,
@@ -4841,8 +5786,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 997,
     "uikTvd": "461402270649",
+    "uikName": "УИК №997",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 601,
@@ -4887,8 +5841,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 998,
     "uikTvd": "461402270650",
+    "uikName": "УИК №998",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 557,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -4933,8 +5896,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 999,
     "uikTvd": "461402270651",
+    "uikName": "УИК №999",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 254,
@@ -4979,8 +5951,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1000,
     "uikTvd": "461402270652",
+    "uikName": "УИК №1000",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 509,
@@ -5025,8 +6006,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "461402270653",
+    "uikName": "УИК №1001",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -5071,8 +6061,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "461402270654",
+    "uikName": "УИК №1002",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1043,
       "Число бюллетеней, полученных участковыми комиссиями": 986,
@@ -5117,8 +6116,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "461402270655",
+    "uikName": "УИК №1003",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -5163,8 +6171,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "461402270656",
+    "uikName": "УИК №1004",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1868,
@@ -5209,8 +6226,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "461402270657",
+    "uikName": "УИК №1005",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 590,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -5255,8 +6281,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "461402270658",
+    "uikName": "УИК №1006",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 488,
       "Число бюллетеней, полученных участковыми комиссиями": 492,
@@ -5301,8 +6336,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "461402270659",
+    "uikName": "УИК №1007",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1550,
       "Число бюллетеней, полученных участковыми комиссиями": 1547,
@@ -5347,8 +6391,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "461402270660",
+    "uikName": "УИК №1008",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1488,
       "Число бюллетеней, полученных участковыми комиссиями": 1493,
@@ -5393,8 +6446,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "461402270661",
+    "uikName": "УИК №1009",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 572,
       "Число бюллетеней, полученных участковыми комиссиями": 575,
@@ -5439,8 +6501,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "461402270662",
+    "uikName": "УИК №1010",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 625,
       "Число бюллетеней, полученных участковыми комиссиями": 625,
@@ -5485,8 +6556,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "461402270663",
+    "uikName": "УИК №1011",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 433,
       "Число бюллетеней, полученных участковыми комиссиями": 427,
@@ -5531,8 +6611,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "461402270664",
+    "uikName": "УИК №1012",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -5577,8 +6666,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "461402270665",
+    "uikName": "УИК №1013",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 283,
@@ -5623,8 +6721,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "461402270666",
+    "uikName": "УИК №1014",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1249,
       "Число бюллетеней, полученных участковыми комиссиями": 1256,
@@ -5669,8 +6776,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "461402270667",
+    "uikName": "УИК №1015",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 179,
@@ -5715,8 +6831,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "461402270668",
+    "uikName": "УИК №1016",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 677,
       "Число бюллетеней, полученных участковыми комиссиями": 675,
@@ -5761,8 +6886,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "461402270669",
+    "uikName": "УИК №1017",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1977,
       "Число бюллетеней, полученных участковыми комиссиями": 1955,
@@ -5807,8 +6941,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "461402270670",
+    "uikName": "УИК №1018",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2378,
       "Число бюллетеней, полученных участковыми комиссиями": 2346,
@@ -5853,8 +6996,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "461402270671",
+    "uikName": "УИК №1019",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2005,
       "Число бюллетеней, полученных участковыми комиссиями": 1996,
@@ -5899,8 +7051,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "461402270672",
+    "uikName": "УИК №1020",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 523,
@@ -5945,8 +7106,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1021,
     "uikTvd": "461402270673",
+    "uikName": "УИК №1021",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -5991,8 +7161,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1022,
     "uikTvd": "461402270674",
+    "uikName": "УИК №1022",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -6037,8 +7216,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1023,
     "uikTvd": "461402270675",
+    "uikName": "УИК №1023",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 422,
@@ -6083,8 +7271,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1024,
     "uikTvd": "461402270676",
+    "uikName": "УИК №1024",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 72,
@@ -6129,8 +7326,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1025,
     "uikTvd": "461402270677",
+    "uikName": "УИК №1025",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 277,
@@ -6175,8 +7381,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2442,
     "uikTvd": "461402270678",
+    "uikName": "УИК №2442",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -6221,8 +7436,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2443,
     "uikTvd": "461402270679",
+    "uikName": "УИК №2443",
     "tikTvd": "361300370547",
     "tikName": "Каменская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 144,
+      "oikTvd": "100100095912",
+      "oikName": "Каменский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 279,
@@ -6267,8 +7491,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1438,
     "uikTvd": "461404970590",
+    "uikName": "УИК №1438",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1319,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -6312,8 +7545,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1439,
     "uikTvd": "461404970592",
+    "uikName": "УИК №1439",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1249,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -6357,8 +7599,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1440,
     "uikTvd": "461404970593",
+    "uikName": "УИК №1440",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1657,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -6402,8 +7653,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1441,
     "uikTvd": "461404970594",
+    "uikName": "УИК №1441",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1828,
       "Число бюллетеней, полученных участковыми комиссиями": 1832,
@@ -6447,8 +7707,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1442,
     "uikTvd": "461404970595",
+    "uikName": "УИК №1442",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2305,
       "Число бюллетеней, полученных участковыми комиссиями": 2298,
@@ -6492,8 +7761,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1443,
     "uikTvd": "461404970596",
+    "uikName": "УИК №1443",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6537,8 +7815,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1444,
     "uikTvd": "461404970597",
+    "uikName": "УИК №1444",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2014,
       "Число бюллетеней, полученных участковыми комиссиями": 2015,
@@ -6582,8 +7869,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1445,
     "uikTvd": "461404970598",
+    "uikName": "УИК №1445",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2056,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -6627,8 +7923,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1446,
     "uikTvd": "461404970599",
+    "uikName": "УИК №1446",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1802,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6672,8 +7977,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1447,
     "uikTvd": "461404970600",
+    "uikName": "УИК №1447",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1248,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -6717,8 +8031,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1448,
     "uikTvd": "461404970601",
+    "uikName": "УИК №1448",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1468,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -6762,8 +8085,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1449,
     "uikTvd": "461404970602",
+    "uikName": "УИК №1449",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1272,
       "Число бюллетеней, полученных участковыми комиссиями": 1257,
@@ -6807,8 +8139,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1450,
     "uikTvd": "461404970603",
+    "uikName": "УИК №1450",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2432,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -6852,8 +8193,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1451,
     "uikTvd": "461404970604",
+    "uikName": "УИК №1451",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2285,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -6897,8 +8247,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1452,
     "uikTvd": "461404970605",
+    "uikName": "УИК №1452",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2175,
       "Число бюллетеней, полученных участковыми комиссиями": 2181,
@@ -6942,8 +8301,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1453,
     "uikTvd": "461404970606",
+    "uikName": "УИК №1453",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1796,
       "Число бюллетеней, полученных участковыми комиссиями": 1765,
@@ -6987,8 +8355,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1454,
     "uikTvd": "461404970607",
+    "uikName": "УИК №1454",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1091,
       "Число бюллетеней, полученных участковыми комиссиями": 1081,
@@ -7032,8 +8409,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1455,
     "uikTvd": "461404970608",
+    "uikName": "УИК №1455",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1199,
       "Число бюллетеней, полученных участковыми комиссиями": 1003,
@@ -7077,8 +8463,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1456,
     "uikTvd": "461404970609",
+    "uikName": "УИК №1456",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1434,
       "Число бюллетеней, полученных участковыми комиссиями": 1368,
@@ -7122,8 +8517,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1457,
     "uikTvd": "461404970610",
+    "uikName": "УИК №1457",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1743,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -7167,8 +8571,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1458,
     "uikTvd": "461404970611",
+    "uikName": "УИК №1458",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 496,
@@ -7212,8 +8625,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1459,
     "uikTvd": "461404970612",
+    "uikName": "УИК №1459",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2133,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -7257,8 +8679,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1460,
     "uikTvd": "461404970613",
+    "uikName": "УИК №1460",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2082,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7302,8 +8733,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1461,
     "uikTvd": "461404970614",
+    "uikName": "УИК №1461",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 2193,
@@ -7347,8 +8787,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1462,
     "uikTvd": "461404970615",
+    "uikName": "УИК №1462",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1651,
       "Число бюллетеней, полученных участковыми комиссиями": 1655,
@@ -7392,8 +8841,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1463,
     "uikTvd": "461404970616",
+    "uikName": "УИК №1463",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1815,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7437,8 +8895,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1464,
     "uikTvd": "461404970617",
+    "uikName": "УИК №1464",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2325,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -7482,8 +8949,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1465,
     "uikTvd": "461404970618",
+    "uikName": "УИК №1465",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1211,
       "Число бюллетеней, полученных участковыми комиссиями": 1235,
@@ -7527,8 +9003,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1466,
     "uikTvd": "461404970619",
+    "uikName": "УИК №1466",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2054,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7572,8 +9057,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1468,
     "uikTvd": "461404970620",
+    "uikName": "УИК №1468",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1910,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -7617,8 +9111,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1469,
     "uikTvd": "461404970621",
+    "uikName": "УИК №1469",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1399,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7662,8 +9165,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1470,
     "uikTvd": "461404970622",
+    "uikName": "УИК №1470",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1867,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7707,8 +9219,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1471,
     "uikTvd": "461404970623",
+    "uikName": "УИК №1471",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1619,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7752,8 +9273,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1472,
     "uikTvd": "461404970624",
+    "uikName": "УИК №1472",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2512,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -7797,8 +9327,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1473,
     "uikTvd": "461404970625",
+    "uikName": "УИК №1473",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1370,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -7842,8 +9381,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1474,
     "uikTvd": "461404970626",
+    "uikName": "УИК №1474",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2338,
       "Число бюллетеней, полученных участковыми комиссиями": 2323,
@@ -7887,8 +9435,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1475,
     "uikTvd": "461404970627",
+    "uikName": "УИК №1475",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3089,
       "Число бюллетеней, полученных участковыми комиссиями": 3038,
@@ -7932,8 +9489,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1476,
     "uikTvd": "461404970628",
+    "uikName": "УИК №1476",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2083,
       "Число бюллетеней, полученных участковыми комиссиями": 2090,
@@ -7977,8 +9543,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1477,
     "uikTvd": "461404970629",
+    "uikName": "УИК №1477",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1558,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -8022,8 +9597,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1478,
     "uikTvd": "461404970630",
+    "uikName": "УИК №1478",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2151,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8067,8 +9651,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1479,
     "uikTvd": "461404970631",
+    "uikName": "УИК №1479",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2415,
       "Число бюллетеней, полученных участковыми комиссиями": 2382,
@@ -8112,8 +9705,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1480,
     "uikTvd": "461404970632",
+    "uikName": "УИК №1480",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2526,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -8157,8 +9759,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1481,
     "uikTvd": "461404970633",
+    "uikName": "УИК №1481",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2547,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -8202,8 +9813,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1482,
     "uikTvd": "461404970634",
+    "uikName": "УИК №1482",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1979,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8247,8 +9867,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1483,
     "uikTvd": "461404970635",
+    "uikName": "УИК №1483",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -8292,8 +9921,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1484,
     "uikTvd": "461404970636",
+    "uikName": "УИК №1484",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2415,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8337,8 +9975,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1485,
     "uikTvd": "461404970637",
+    "uikName": "УИК №1485",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2376,
       "Число бюллетеней, полученных участковыми комиссиями": 2363,
@@ -8382,8 +10029,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1486,
     "uikTvd": "461404970638",
+    "uikName": "УИК №1486",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 922,
       "Число бюллетеней, полученных участковыми комиссиями": 941,
@@ -8427,8 +10083,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1487,
     "uikTvd": "461404970639",
+    "uikName": "УИК №1487",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1697,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -8472,8 +10137,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1488,
     "uikTvd": "461404970641",
+    "uikName": "УИК №1488",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 2157,
@@ -8517,8 +10191,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1489,
     "uikTvd": "461404970640",
+    "uikName": "УИК №1489",
     "tikTvd": "361300470432",
     "tikName": "г. Ростов-на-Дону, Пролетарская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2242,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -8562,8 +10245,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1382,
     "uikTvd": "461404870757",
+    "uikName": "УИК №1382",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2153,
       "Число бюллетеней, полученных участковыми комиссиями": 2026,
@@ -8607,8 +10299,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1383,
     "uikTvd": "461404870758",
+    "uikName": "УИК №1383",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2662,
       "Число бюллетеней, полученных участковыми комиссиями": 2534,
@@ -8652,8 +10353,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1384,
     "uikTvd": "461404870759",
+    "uikName": "УИК №1384",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2315,
       "Число бюллетеней, полученных участковыми комиссиями": 2176,
@@ -8697,8 +10407,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1385,
     "uikTvd": "461404870760",
+    "uikName": "УИК №1385",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2765,
       "Число бюллетеней, полученных участковыми комиссиями": 2649,
@@ -8742,8 +10461,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1386,
     "uikTvd": "461404871185",
+    "uikName": "УИК №1386",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1929,
       "Число бюллетеней, полученных участковыми комиссиями": 1851,
@@ -8787,8 +10515,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1387,
     "uikTvd": "461404870762",
+    "uikName": "УИК №1387",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1866,
       "Число бюллетеней, полученных участковыми комиссиями": 1795,
@@ -8832,8 +10569,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1388,
     "uikTvd": "461404870763",
+    "uikName": "УИК №1388",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1797,
@@ -8877,8 +10623,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1389,
     "uikTvd": "461404870764",
+    "uikName": "УИК №1389",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2046,
       "Число бюллетеней, полученных участковыми комиссиями": 1953,
@@ -8922,8 +10677,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1390,
     "uikTvd": "461404870765",
+    "uikName": "УИК №1390",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 1902,
@@ -8967,8 +10731,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1391,
     "uikTvd": "461404870766",
+    "uikName": "УИК №1391",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1009,
       "Число бюллетеней, полученных участковыми комиссиями": 2006,
@@ -9012,8 +10785,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1392,
     "uikTvd": "461404870767",
+    "uikName": "УИК №1392",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2359,
       "Число бюллетеней, полученных участковыми комиссиями": 2293,
@@ -9057,8 +10839,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1393,
     "uikTvd": "461404870768",
+    "uikName": "УИК №1393",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1906,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -9102,8 +10893,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1394,
     "uikTvd": "461404870769",
+    "uikName": "УИК №1394",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -9147,8 +10947,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1395,
     "uikTvd": "461404870770",
+    "uikName": "УИК №1395",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2119,
       "Число бюллетеней, полученных участковыми комиссиями": 2031,
@@ -9192,8 +11001,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1396,
     "uikTvd": "461404870771",
+    "uikName": "УИК №1396",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1514,
       "Число бюллетеней, полученных участковыми комиссиями": 1415,
@@ -9237,8 +11055,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1397,
     "uikTvd": "461404870772",
+    "uikName": "УИК №1397",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1418,
       "Число бюллетеней, полученных участковыми комиссиями": 1249,
@@ -9282,8 +11109,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1398,
     "uikTvd": "461404870773",
+    "uikName": "УИК №1398",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1925,
       "Число бюллетеней, полученных участковыми комиссиями": 1766,
@@ -9327,8 +11163,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1399,
     "uikTvd": "461404870774",
+    "uikName": "УИК №1399",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2147,
       "Число бюллетеней, полученных участковыми комиссиями": 2001,
@@ -9372,8 +11217,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1400,
     "uikTvd": "461404870775",
+    "uikName": "УИК №1400",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2084,
       "Число бюллетеней, полученных участковыми комиссиями": 2032,
@@ -9417,8 +11271,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1401,
     "uikTvd": "461404870776",
+    "uikName": "УИК №1401",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1957,
       "Число бюллетеней, полученных участковыми комиссиями": 1939,
@@ -9462,8 +11325,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1402,
     "uikTvd": "461404870777",
+    "uikName": "УИК №1402",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1687,
@@ -9507,8 +11379,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1403,
     "uikTvd": "461404870778",
+    "uikName": "УИК №1403",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1629,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -9552,8 +11433,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1404,
     "uikTvd": "461404870779",
+    "uikName": "УИК №1404",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2344,
       "Число бюллетеней, полученных участковыми комиссиями": 2248,
@@ -9597,8 +11487,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1405,
     "uikTvd": "461404870780",
+    "uikName": "УИК №1405",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2161,
@@ -9642,8 +11541,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1406,
     "uikTvd": "461404870781",
+    "uikName": "УИК №1406",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1613,
       "Число бюллетеней, полученных участковыми комиссиями": 1547,
@@ -9687,8 +11595,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1407,
     "uikTvd": "461404870782",
+    "uikName": "УИК №1407",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2239,
       "Число бюллетеней, полученных участковыми комиссиями": 2092,
@@ -9732,8 +11649,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1408,
     "uikTvd": "461404870783",
+    "uikName": "УИК №1408",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2234,
       "Число бюллетеней, полученных участковыми комиссиями": 2155,
@@ -9777,8 +11703,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1409,
     "uikTvd": "461404870784",
+    "uikName": "УИК №1409",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2632,
       "Число бюллетеней, полученных участковыми комиссиями": 2494,
@@ -9822,8 +11757,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1410,
     "uikTvd": "461404870785",
+    "uikName": "УИК №1410",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1705,
       "Число бюллетеней, полученных участковыми комиссиями": 1586,
@@ -9867,8 +11811,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1411,
     "uikTvd": "461404870786",
+    "uikName": "УИК №1411",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1602,
       "Число бюллетеней, полученных участковыми комиссиями": 1523,
@@ -9912,8 +11865,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1412,
     "uikTvd": "461404870787",
+    "uikName": "УИК №1412",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2133,
       "Число бюллетеней, полученных участковыми комиссиями": 2047,
@@ -9957,8 +11919,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1413,
     "uikTvd": "461404870788",
+    "uikName": "УИК №1413",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2740,
       "Число бюллетеней, полученных участковыми комиссиями": 2598,
@@ -10002,8 +11973,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1414,
     "uikTvd": "461404870789",
+    "uikName": "УИК №1414",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2562,
       "Число бюллетеней, полученных участковыми комиссиями": 2437,
@@ -10047,8 +12027,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1415,
     "uikTvd": "461404870790",
+    "uikName": "УИК №1415",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2643,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -10092,8 +12081,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1416,
     "uikTvd": "461404870791",
+    "uikName": "УИК №1416",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1955,
       "Число бюллетеней, полученных участковыми комиссиями": 1852,
@@ -10137,8 +12135,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1417,
     "uikTvd": "461404870792",
+    "uikName": "УИК №1417",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1374,
       "Число бюллетеней, полученных участковыми комиссиями": 1283,
@@ -10182,8 +12189,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1418,
     "uikTvd": "461404870793",
+    "uikName": "УИК №1418",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2500,
       "Число бюллетеней, полученных участковыми комиссиями": 2291,
@@ -10227,8 +12243,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1419,
     "uikTvd": "461404870794",
+    "uikName": "УИК №1419",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2623,
       "Число бюллетеней, полученных участковыми комиссиями": 2519,
@@ -10272,8 +12297,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1420,
     "uikTvd": "461404870795",
+    "uikName": "УИК №1420",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1567,
       "Число бюллетеней, полученных участковыми комиссиями": 1465,
@@ -10317,8 +12351,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1421,
     "uikTvd": "461404870796",
+    "uikName": "УИК №1421",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2211,
       "Число бюллетеней, полученных участковыми комиссиями": 2104,
@@ -10362,8 +12405,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1422,
     "uikTvd": "461404870797",
+    "uikName": "УИК №1422",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1758,
       "Число бюллетеней, полученных участковыми комиссиями": 1632,
@@ -10407,8 +12459,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1423,
     "uikTvd": "461404870798",
+    "uikName": "УИК №1423",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1773,
       "Число бюллетеней, полученных участковыми комиссиями": 1646,
@@ -10452,8 +12513,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1424,
     "uikTvd": "461404870799",
+    "uikName": "УИК №1424",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1950,
       "Число бюллетеней, полученных участковыми комиссиями": 1667,
@@ -10497,8 +12567,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1425,
     "uikTvd": "461404870800",
+    "uikName": "УИК №1425",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1376,
       "Число бюллетеней, полученных участковыми комиссиями": 1293,
@@ -10542,8 +12621,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1426,
     "uikTvd": "461404870801",
+    "uikName": "УИК №1426",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1583,
       "Число бюллетеней, полученных участковыми комиссиями": 1456,
@@ -10587,8 +12675,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1427,
     "uikTvd": "461404870802",
+    "uikName": "УИК №1427",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1541,
       "Число бюллетеней, полученных участковыми комиссиями": 1425,
@@ -10632,8 +12729,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1428,
     "uikTvd": "461404870803",
+    "uikName": "УИК №1428",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1788,
       "Число бюллетеней, полученных участковыми комиссиями": 1696,
@@ -10677,8 +12783,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1429,
     "uikTvd": "461404870804",
+    "uikName": "УИК №1429",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1600,
       "Число бюллетеней, полученных участковыми комиссиями": 1539,
@@ -10722,8 +12837,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1430,
     "uikTvd": "461404870805",
+    "uikName": "УИК №1430",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1913,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -10767,8 +12891,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1431,
     "uikTvd": "461404870806",
+    "uikName": "УИК №1431",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1825,
       "Число бюллетеней, полученных участковыми комиссиями": 1709,
@@ -10812,8 +12945,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1432,
     "uikTvd": "461404870807",
+    "uikName": "УИК №1432",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2267,
       "Число бюллетеней, полученных участковыми комиссиями": 2091,
@@ -10857,8 +12999,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1433,
     "uikTvd": "461404870808",
+    "uikName": "УИК №1433",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 922,
       "Число бюллетеней, полученных участковыми комиссиями": 652,
@@ -10902,8 +13053,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1434,
     "uikTvd": "461404870809",
+    "uikName": "УИК №1434",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1237,
       "Число бюллетеней, полученных участковыми комиссиями": 1108,
@@ -10947,8 +13107,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1435,
     "uikTvd": "461404870810",
+    "uikName": "УИК №1435",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2109,
       "Число бюллетеней, полученных участковыми комиссиями": 2007,
@@ -10992,8 +13161,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1436,
     "uikTvd": "461404870811",
+    "uikName": "УИК №1436",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2347,
       "Число бюллетеней, полученных участковыми комиссиями": 1905,
@@ -11037,8 +13215,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1437,
     "uikTvd": "461404870812",
+    "uikName": "УИК №1437",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1672,
       "Число бюллетеней, полученных участковыми комиссиями": 1346,
@@ -11082,8 +13269,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1490,
     "uikTvd": "461404870813",
+    "uikName": "УИК №1490",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2719,
       "Число бюллетеней, полученных участковыми комиссиями": 2504,
@@ -11127,8 +13323,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1491,
     "uikTvd": "461404870814",
+    "uikName": "УИК №1491",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2009,
       "Число бюллетеней, полученных участковыми комиссиями": 1922,
@@ -11172,8 +13377,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1492,
     "uikTvd": "461404870815",
+    "uikName": "УИК №1492",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2164,
       "Число бюллетеней, полученных участковыми комиссиями": 2067,
@@ -11217,8 +13431,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 2485,
     "uikTvd": "461404870816",
+    "uikName": "УИК №2485",
     "tikTvd": "361300470433",
     "tikName": "г.Ростов-на-Дону, Первомайская ",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2536,
       "Число бюллетеней, полученных участковыми комиссиями": 2411,
@@ -11262,8 +13485,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1320,
     "uikTvd": "461404370579",
+    "uikName": "УИК №1320",
     "tikTvd": "361300470434",
     "tikName": " г.Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1757,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11307,8 +13539,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1321,
     "uikTvd": "461404370580",
+    "uikName": "УИК №1321",
     "tikTvd": "361300470434",
     "tikName": " г.Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -11352,8 +13593,17 @@ export const duma_2003_uik_428_region_61_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1322,
     "uikTvd": "461404370581",
+    "uikName": "УИК №1322",
     "tikTvd": "361300470434",
     "tikName": " г.Ростов-на-Дону, Ворошиловская",
+    "regionCode": "61",
+    "regionTvd": "100100095909",
+    "regionName": "Ростовская область",
+    "district": {
+      "districtNumber": 145,
+      "oikTvd": "100100095913",
+      "oikName": "Пролетарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1839,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,

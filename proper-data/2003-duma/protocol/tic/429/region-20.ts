@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071654",
     "tikName": "Аргунская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки": 15494,
@@ -69,6 +77,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071655",
     "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 12994,
@@ -145,6 +161,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071656",
     "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 38314,
@@ -218,6 +242,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071657",
     "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 63630,
@@ -306,6 +338,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071658",
     "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки": 63264,
@@ -397,6 +437,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071659",
     "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 4698,
@@ -459,6 +507,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071660",
     "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 41704,
@@ -533,6 +589,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071661",
     "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 29065,
@@ -601,6 +665,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071662",
     "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 27940,
@@ -669,6 +741,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071663",
     "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 22380,
@@ -748,6 +828,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071664",
     "tikName": "Сунженская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки": 16289,
@@ -804,6 +892,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071665",
     "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 53329,
@@ -883,6 +979,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071666",
     "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 42299,
@@ -959,6 +1063,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071667",
     "tikName": "Шаройская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки": 1367,
@@ -1017,6 +1129,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071668",
     "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 9312,
@@ -1085,6 +1205,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071669",
     "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 22031,
@@ -1160,6 +1288,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071670",
     "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 26638,
@@ -1221,6 +1357,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071671",
     "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 20884,
@@ -1286,6 +1430,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071672",
     "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 39467,
@@ -1356,6 +1508,14 @@ export const duma_2003_tic_429_region_20 = [
     "ballot": "single-member",
     "tikTvd": "220200071673",
     "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 29708,

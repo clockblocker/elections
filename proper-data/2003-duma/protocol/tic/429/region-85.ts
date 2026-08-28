@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_85 = [
     "ballot": "single-member",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 18336,
@@ -100,6 +108,14 @@ export const duma_2003_tic_429_region_85 = [
     "ballot": "single-member",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 8491,
@@ -175,6 +191,14 @@ export const duma_2003_tic_429_region_85 = [
     "ballot": "single-member",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки": 16181,
@@ -262,6 +286,14 @@ export const duma_2003_tic_429_region_85 = [
     "ballot": "single-member",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 10647,
@@ -341,6 +373,14 @@ export const duma_2003_tic_429_region_85 = [
     "ballot": "single-member",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 12123,
@@ -419,6 +459,14 @@ export const duma_2003_tic_429_region_85 = [
     "ballot": "single-member",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки": 20236,

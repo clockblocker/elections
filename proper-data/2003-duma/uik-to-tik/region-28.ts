@@ -7,4759 +7,11896 @@ export const duma_2003_uik_to_tik_region_28 = [
   {
     "uikNumber": 1,
     "uikTvd": "428400166774",
+    "uikName": "УИК №1",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "428400166775",
+    "uikName": "УИК №2",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "428400166776",
+    "uikName": "УИК №3",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "428400166777",
+    "uikName": "УИК №4",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "428400166778",
+    "uikName": "УИК №5",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "428400166779",
+    "uikName": "УИК №6",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "428400166780",
+    "uikName": "УИК №7",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "428400166781",
+    "uikName": "УИК №8",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "428400166782",
+    "uikName": "УИК №9",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "428400166783",
+    "uikName": "УИК №10",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "428400166784",
+    "uikName": "УИК №11",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "428400166785",
+    "uikName": "УИК №12",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "428400166786",
+    "uikName": "УИК №13",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "428400166787",
+    "uikName": "УИК №14",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "428400166788",
+    "uikName": "УИК №15",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "428400166789",
+    "uikName": "УИК №16",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "428400166790",
+    "uikName": "УИК №17",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "428400166791",
+    "uikName": "УИК №18",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "428400166792",
+    "uikName": "УИК №19",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "428400166793",
+    "uikName": "УИК №20",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "428400166794",
+    "uikName": "УИК №21",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "428400166795",
+    "uikName": "УИК №22",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "428400166796",
+    "uikName": "УИК №23",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "428400166797",
+    "uikName": "УИК №24",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "428400166798",
+    "uikName": "УИК №25",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "428400166799",
+    "uikName": "УИК №26",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "428400166800",
+    "uikName": "УИК №27",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "428400166801",
+    "uikName": "УИК №28",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "428400166802",
+    "uikName": "УИК №29",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "428400166803",
+    "uikName": "УИК №30",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "428400166804",
+    "uikName": "УИК №31",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "428400166805",
+    "uikName": "УИК №32",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "428400166806",
+    "uikName": "УИК №33",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "428400166807",
+    "uikName": "УИК №34",
     "tikTvd": "228200066706",
-    "tikName": "Архаринская"
+    "tikName": "Архаринская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "428402266731",
+    "uikName": "УИК №35",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "428402266732",
+    "uikName": "УИК №36",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "428402266733",
+    "uikName": "УИК №37",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "428402266734",
+    "uikName": "УИК №38",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "428402266735",
+    "uikName": "УИК №39",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "428402266736",
+    "uikName": "УИК №40",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "428402266737",
+    "uikName": "УИК №41",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "428402266738",
+    "uikName": "УИК №42",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "428402266739",
+    "uikName": "УИК №43",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "428402266740",
+    "uikName": "УИК №44",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "428402266741",
+    "uikName": "УИК №45",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "428402266742",
+    "uikName": "УИК №46",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "428402266743",
+    "uikName": "УИК №47",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "428402266744",
+    "uikName": "УИК №48",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "428402266745",
+    "uikName": "УИК №49",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "428402266746",
+    "uikName": "УИК №50",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "428402266747",
+    "uikName": "УИК №51",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "428402266748",
+    "uikName": "УИК №52",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "428402266749",
+    "uikName": "УИК №53",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "428402266750",
+    "uikName": "УИК №54",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "428402266751",
+    "uikName": "УИК №55",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "428402266752",
+    "uikName": "УИК №56",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "428402266753",
+    "uikName": "УИК №57",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "428402266754",
+    "uikName": "УИК №58",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "428402266755",
+    "uikName": "УИК №59",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "428402266756",
+    "uikName": "УИК №60",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "428402266757",
+    "uikName": "УИК №61",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "428402266758",
+    "uikName": "УИК №62",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "428402266759",
+    "uikName": "УИК №63",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "428402266760",
+    "uikName": "УИК №64",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "428402266761",
+    "uikName": "УИК №65",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "428402266762",
+    "uikName": "УИК №66",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "428402266763",
+    "uikName": "УИК №67",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "428402266764",
+    "uikName": "УИК №68",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "428402266765",
+    "uikName": "УИК №69",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "428402266766",
+    "uikName": "УИК №70",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "428402266767",
+    "uikName": "УИК №71",
     "tikTvd": "228200066726",
-    "tikName": "Белогорская"
+    "tikName": "Белогорская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "428400266619",
+    "uikName": "УИК №72",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "428400266620",
+    "uikName": "УИК №73",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "428400266621",
+    "uikName": "УИК №74",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "428400266622",
+    "uikName": "УИК №75",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "428400266623",
+    "uikName": "УИК №76",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "428400266624",
+    "uikName": "УИК №77",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "428400266625",
+    "uikName": "УИК №78",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "428400266626",
+    "uikName": "УИК №79",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "428400266627",
+    "uikName": "УИК №80",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "428400266628",
+    "uikName": "УИК №81",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "428400266629",
+    "uikName": "УИК №82",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "428400266630",
+    "uikName": "УИК №83",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "428400266631",
+    "uikName": "УИК №84",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "428400266632",
+    "uikName": "УИК №85",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "428400266633",
+    "uikName": "УИК №86",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "428400266634",
+    "uikName": "УИК №87",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "428400266635",
+    "uikName": "УИК №88",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "428400266636",
+    "uikName": "УИК №89",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "428400266637",
+    "uikName": "УИК №90",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "428400266638",
+    "uikName": "УИК №91",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "428400266639",
+    "uikName": "УИК №92",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "428400266640",
+    "uikName": "УИК №93",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "428400266641",
+    "uikName": "УИК №94",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "428400266642",
+    "uikName": "УИК №95",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "428400266643",
+    "uikName": "УИК №96",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "428400266644",
+    "uikName": "УИК №97",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "428400266645",
+    "uikName": "УИК №98",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "428400266646",
+    "uikName": "УИК №99",
     "tikTvd": "228200066704",
-    "tikName": "Белогорская городская"
+    "tikName": "Белогорская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "428400066734",
+    "uikName": "УИК  100",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "428400066707",
+    "uikName": "УИК №101",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "428400066708",
+    "uikName": "УИК №102",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "428400066709",
+    "uikName": "УИК №103",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "428400066710",
+    "uikName": "УИК №104",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "428400066711",
+    "uikName": "УИК №105",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "428400066712",
+    "uikName": "УИК №106",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "428400066713",
+    "uikName": "УИК №107",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "428400066714",
+    "uikName": "УИК №108",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "428400066715",
+    "uikName": "УИК №109",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "428400066716",
+    "uikName": "УИК №110",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "428400066717",
+    "uikName": "УИК №111",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "428400066718",
+    "uikName": "УИК №112",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "428400066719",
+    "uikName": "УИК №113",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "428400066720",
+    "uikName": "УИК №114",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "428400066721",
+    "uikName": "УИК №115",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "428400066722",
+    "uikName": "УИК №116",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "428400066723",
+    "uikName": "УИК №117",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "428400066724",
+    "uikName": "УИК №118",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "428400066725",
+    "uikName": "УИК №119",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "428400066726",
+    "uikName": "УИК №120",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "428400066727",
+    "uikName": "УИК №121",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "428400066728",
+    "uikName": "УИК №122",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "428400066729",
+    "uikName": "УИК №123",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "428400066730",
+    "uikName": "УИК №124",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "428400066731",
+    "uikName": "УИК №125",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "428400066732",
+    "uikName": "УИК №126",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "428400066733",
+    "uikName": "УИК №127",
     "tikTvd": "228200066708",
-    "tikName": "Благовещенская"
+    "tikName": "Благовещенская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "428400366740",
+    "uikName": "УИК №128",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "428400366741",
+    "uikName": "УИК №129",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "428400366742",
+    "uikName": "УИК №130",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "428400366743",
+    "uikName": "УИК №131",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "428400366744",
+    "uikName": "УИК №132",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "428400366745",
+    "uikName": "УИК №133",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "428400366746",
+    "uikName": "УИК №134",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "428400366747",
+    "uikName": "УИК №135",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "428400366748",
+    "uikName": "УИК №136",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "428400366749",
+    "uikName": "УИК №137",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "428400366750",
+    "uikName": "УИК №138",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "428400366751",
+    "uikName": "УИК №139",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "428400366752",
+    "uikName": "УИК №140",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "428400366753",
+    "uikName": "УИК №141",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "428400366754",
+    "uikName": "УИК №142",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "428400366755",
+    "uikName": "УИК №143",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "428400366756",
+    "uikName": "УИК №144",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "428400366757",
+    "uikName": "УИК №145",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "428400366758",
+    "uikName": "УИК №146",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "428400366759",
+    "uikName": "УИК №147",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "428400366760",
+    "uikName": "УИК №148",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "428400366761",
+    "uikName": "УИК №149",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "428400366762",
+    "uikName": "УИК №150",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "428400366763",
+    "uikName": "УИК №151",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "428400366764",
+    "uikName": "УИК №152",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "428400366765",
+    "uikName": "УИК №153",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "428400366766",
+    "uikName": "УИК №154",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "428400366767",
+    "uikName": "УИК №155",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "428400366768",
+    "uikName": "УИК №156",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "428400366769",
+    "uikName": "УИК №157",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "428400366770",
+    "uikName": "УИК №158",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "428400366771",
+    "uikName": "УИК №159",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "428400366772",
+    "uikName": "УИК №160",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "428400366773",
+    "uikName": "УИК №161",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "428400366774",
+    "uikName": "УИК №162",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "428400366775",
+    "uikName": "УИК №163",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "428400366776",
+    "uikName": "УИК №164",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "428400366777",
+    "uikName": "УИК №165",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "428400366778",
+    "uikName": "УИК №166",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "428400366779",
+    "uikName": "УИК №167",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "428400366780",
+    "uikName": "УИК №168",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "428400366781",
+    "uikName": "УИК №169",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "428400366782",
+    "uikName": "УИК №170",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "428400366783",
+    "uikName": "УИК №171",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "428400366784",
+    "uikName": "УИК №172",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "428400366785",
+    "uikName": "УИК №173",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "428400366786",
+    "uikName": "УИК №174",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "428400366787",
+    "uikName": "УИК №175",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "428400366788",
+    "uikName": "УИК №176",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "428400366789",
+    "uikName": "УИК №177",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "428400366790",
+    "uikName": "УИК №178",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "428400366791",
+    "uikName": "УИК №179",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "428400366792",
+    "uikName": "УИК №180",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "428400366793",
+    "uikName": "УИК №181",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "428400366794",
+    "uikName": "УИК №182",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "428400366795",
+    "uikName": "УИК №183",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "428400366796",
+    "uikName": "УИК №184",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "428400366797",
+    "uikName": "УИК №185",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "428400366798",
+    "uikName": "УИК №186",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "428400366799",
+    "uikName": "УИК №187",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "428400366800",
+    "uikName": "УИК №188",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "428400366801",
+    "uikName": "УИК №189",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "428400366802",
+    "uikName": "УИК №190",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "428400366803",
+    "uikName": "УИК №191",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "428400366804",
+    "uikName": "УИК №192",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "428400366805",
+    "uikName": "УИК №193",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "428400366806",
+    "uikName": "УИК №194",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "428400366807",
+    "uikName": "УИК №195",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "428400366808",
+    "uikName": "УИК №196",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "428400366809",
+    "uikName": "УИК №197",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "428400366810",
+    "uikName": "УИК №198",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "428400366811",
+    "uikName": "УИК №199",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "428400366812",
+    "uikName": "УИК №200",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "428400366813",
+    "uikName": "УИК №201",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "428400366814",
+    "uikName": "УИК №202",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "428400366815",
+    "uikName": "УИК №203",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "428400366816",
+    "uikName": "УИК №204",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "428400366817",
+    "uikName": "УИК №205",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "428400366818",
+    "uikName": "УИК №206",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "428400366819",
+    "uikName": "УИК №207",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "428400366820",
+    "uikName": "УИК №208",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "428400366821",
+    "uikName": "УИК №209",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "428400366822",
+    "uikName": "УИК №210",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "428400366823",
+    "uikName": "УИК №211",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "428400366824",
+    "uikName": "УИК №212",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "428400366825",
+    "uikName": "УИК №213",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "428400366826",
+    "uikName": "УИК №214",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "428400366827",
+    "uikName": "УИК №215",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "428400366828",
+    "uikName": "УИК №216",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "428400366829",
+    "uikName": "УИК №217",
     "tikTvd": "228200066705",
-    "tikName": "Благовещенская городская"
+    "tikName": "Благовещенская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "428400466724",
+    "uikName": "УИК №218",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "428400466725",
+    "uikName": "УИК №219",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "428400466726",
+    "uikName": "УИК №220",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "428400466727",
+    "uikName": "УИК №221",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "428400466728",
+    "uikName": "УИК №222",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "428400466729",
+    "uikName": "УИК №223",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "428400466730",
+    "uikName": "УИК №224",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "428400466731",
+    "uikName": "УИК №225",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "428400466732",
+    "uikName": "УИК №226",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "428400466733",
+    "uikName": "УИК №227",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "428400466734",
+    "uikName": "УИК №228",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "428400466735",
+    "uikName": "УИК №229",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "428400466736",
+    "uikName": "УИК №230",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "428400466737",
+    "uikName": "УИК №231",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "428400466738",
+    "uikName": "УИК №232",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "428400466739",
+    "uikName": "УИК №233",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "428400466740",
+    "uikName": "УИК №234",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "428400466741",
+    "uikName": "УИК №235",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "428400466742",
+    "uikName": "УИК №236",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "428400466743",
+    "uikName": "УИК №237",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "428400466744",
+    "uikName": "УИК №238",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "428400466745",
+    "uikName": "УИК №239",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "428400466746",
+    "uikName": "УИК №240",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "428400466747",
+    "uikName": "УИК №241",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "428400466748",
+    "uikName": "УИК №242",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "428400466749",
+    "uikName": "УИК №243",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "428400466750",
+    "uikName": "УИК №244",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "428400466751",
+    "uikName": "УИК №245",
     "tikTvd": "228200066707",
-    "tikName": "Бурейская"
+    "tikName": "Бурейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "428400566732",
+    "uikName": "УИК №246",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "428400566733",
+    "uikName": "УИК №247",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "428400566734",
+    "uikName": "УИК №248",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "428400566735",
+    "uikName": "УИК №249",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "428400566736",
+    "uikName": "УИК №250",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "428400566737",
+    "uikName": "УИК №251",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "428400566738",
+    "uikName": "УИК №252",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "428400566739",
+    "uikName": "УИК №253",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "428400566740",
+    "uikName": "УИК №254",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "428400566741",
+    "uikName": "УИК №255",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "428400566742",
+    "uikName": "УИК №256",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "428400566743",
+    "uikName": "УИК №257",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "428400566744",
+    "uikName": "УИК №258",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "428400566745",
+    "uikName": "УИК №259",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "428400566746",
+    "uikName": "УИК №260",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "428400566747",
+    "uikName": "УИК №261",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "428400566748",
+    "uikName": "УИК №262",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "428400566749",
+    "uikName": "УИК №263",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "428400566750",
+    "uikName": "УИК №264",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "428400566751",
+    "uikName": "УИК №265",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "428400566752",
+    "uikName": "УИК №266",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "428400566753",
+    "uikName": "УИК №267",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "428400566754",
+    "uikName": "УИК №268",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "428400566755",
+    "uikName": "УИК №269",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "428400566756",
+    "uikName": "УИК №270",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "428400566757",
+    "uikName": "УИК №271",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "428400566758",
+    "uikName": "УИК №272",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "428400566759",
+    "uikName": "УИК №273",
     "tikTvd": "228200066731",
-    "tikName": "Завитинская"
+    "tikName": "Завитинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "428402366722",
+    "uikName": "УИК №274",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "428402366723",
+    "uikName": "УИК №275",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "428402366724",
+    "uikName": "УИК №276",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "428402366725",
+    "uikName": "УИК №277",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "428402366726",
+    "uikName": "УИК №278",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "428402366727",
+    "uikName": "УИК №279",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "428402366728",
+    "uikName": "УИК №280",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "428402366729",
+    "uikName": "УИК №281",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "428402366730",
+    "uikName": "УИК №282",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "428402366731",
+    "uikName": "УИК №283",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "428402366732",
+    "uikName": "УИК №284",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "428402366733",
+    "uikName": "УИК №285",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "428402366734",
+    "uikName": "УИК №286",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "428402366735",
+    "uikName": "УИК №287",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "428402366736",
+    "uikName": "УИК №288",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "428402366737",
+    "uikName": "УИК №289",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "428402366738",
+    "uikName": "УИК №290",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "428402366739",
+    "uikName": "УИК №291",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "428402366740",
+    "uikName": "УИК №292",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "428402366741",
+    "uikName": "УИК №293",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "428402366742",
+    "uikName": "УИК №294",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "428402366743",
+    "uikName": "УИК №295",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "428402366744",
+    "uikName": "УИК №296",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "428402366745",
+    "uikName": "УИК №297",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "428402366746",
+    "uikName": "УИК №298",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "428402366747",
+    "uikName": "УИК №299",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "428402366748",
+    "uikName": "УИК №300",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "428402366749",
+    "uikName": "УИК №301",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "428402366750",
+    "uikName": "УИК №302",
     "tikTvd": "228200066724",
-    "tikName": "Зейская"
+    "tikName": "Зейская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "428400666607",
+    "uikName": "УИК №303",
     "tikTvd": "228200066730",
-    "tikName": "Зейская городская"
+    "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "428400666608",
+    "uikName": "УИК №304",
     "tikTvd": "228200066730",
-    "tikName": "Зейская городская"
+    "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "428400666609",
+    "uikName": "УИК №305",
     "tikTvd": "228200066730",
-    "tikName": "Зейская городская"
+    "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "428400666610",
+    "uikName": "УИК №306",
     "tikTvd": "228200066730",
-    "tikName": "Зейская городская"
+    "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "428400666611",
+    "uikName": "УИК №307",
     "tikTvd": "228200066730",
-    "tikName": "Зейская городская"
+    "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "428400666612",
+    "uikName": "УИК №308",
     "tikTvd": "228200066730",
-    "tikName": "Зейская городская"
+    "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "428400666613",
+    "uikName": "УИК №309",
     "tikTvd": "228200066730",
-    "tikName": "Зейская городская"
+    "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "428400666614",
+    "uikName": "УИК №310",
     "tikTvd": "228200066730",
-    "tikName": "Зейская городская"
+    "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "428400666615",
+    "uikName": "УИК №311",
     "tikTvd": "228200066730",
-    "tikName": "Зейская городская"
+    "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "428400666616",
+    "uikName": "УИК №312",
     "tikTvd": "228200066730",
-    "tikName": "Зейская городская"
+    "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "428400666617",
+    "uikName": "УИК №313",
     "tikTvd": "228200066730",
-    "tikName": "Зейская городская"
+    "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "428400666618",
+    "uikName": "УИК №314",
     "tikTvd": "228200066730",
-    "tikName": "Зейская городская"
+    "tikName": "Зейская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "428400766721",
+    "uikName": "УИК №315",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "428400766723",
+    "uikName": "УИК №316",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "428400766725",
+    "uikName": "УИК №317",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "428400766726",
+    "uikName": "УИК №318",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "428400766727",
+    "uikName": "УИК №319",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "428400766728",
+    "uikName": "УИК №320",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "428400766756",
+    "uikName": "УИК №321",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "428400766729",
+    "uikName": "УИК №322",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "428400766730",
+    "uikName": "УИК №323",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "428400766731",
+    "uikName": "УИК №324",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "428400766732",
+    "uikName": "УИК №325",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "428400766733",
+    "uikName": "УИК №326",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "428400766734",
+    "uikName": "УИК №327",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "428400766735",
+    "uikName": "УИК №328",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "428400766736",
+    "uikName": "УИК №329",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "428400766737",
+    "uikName": "УИК №330",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "428400766738",
+    "uikName": "УИК №331",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "428400766739",
+    "uikName": "УИК №332",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "428400766740",
+    "uikName": "УИК №333",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "428400766741",
+    "uikName": "УИК №334",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "428400766742",
+    "uikName": "УИК №335",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "428400766743",
+    "uikName": "УИК №336",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "428400766744",
+    "uikName": "УИК №337",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "428400766745",
+    "uikName": "УИК №338",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "428400766746",
+    "uikName": "УИК №339",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "428400766747",
+    "uikName": "УИК №340",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "428400766748",
+    "uikName": "УИК №341",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "428400766749",
+    "uikName": "УИК №342",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "428400766750",
+    "uikName": "УИК №343",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "428400766751",
+    "uikName": "УИК №344",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "428400766752",
+    "uikName": "УИК №345",
     "tikTvd": "228200066729",
-    "tikName": "Ивановская"
+    "tikName": "Ивановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "428400866752",
+    "uikName": "УИК №346",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "428400866753",
+    "uikName": "УИК №347",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "428400866754",
+    "uikName": "УИК №348",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "428400866755",
+    "uikName": "УИК №349",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "428400866756",
+    "uikName": "УИК №350",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "428400866757",
+    "uikName": "УИК №351",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "428400866758",
+    "uikName": "УИК №352",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "428400866759",
+    "uikName": "УИК №353",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "428400866760",
+    "uikName": "УИК №354",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "428400866761",
+    "uikName": "УИК №355",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "428400866762",
+    "uikName": "УИК №356",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "428400866763",
+    "uikName": "УИК №357",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "428400866764",
+    "uikName": "УИК №358",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "428400866765",
+    "uikName": "УИК №359",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "428400866766",
+    "uikName": "УИК №360",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "428400866767",
+    "uikName": "УИК №361",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "428400866768",
+    "uikName": "УИК №362",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "428400866769",
+    "uikName": "УИК №363",
     "tikTvd": "228200066728",
-    "tikName": "Константиновская"
+    "tikName": "Константиновская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "428400966626",
+    "uikName": "УИК №364",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "428400966627",
+    "uikName": "УИК №365",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "428400966628",
+    "uikName": "УИК №366",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "428400966629",
+    "uikName": "УИК №367",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "428400966630",
+    "uikName": "УИК №368",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "428400966631",
+    "uikName": "УИК №369",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "428400966632",
+    "uikName": "УИК №370",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "428400966633",
+    "uikName": "УИК №371",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "428400966634",
+    "uikName": "УИК №372",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "428400966635",
+    "uikName": "УИК №373",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "428400966636",
+    "uikName": "УИК №374",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "428400966637",
+    "uikName": "УИК №375",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "428400966638",
+    "uikName": "УИК №376",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "428400966639",
+    "uikName": "УИК №377",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "428400966640",
+    "uikName": "УИК №378",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "428400966641",
+    "uikName": "УИК №379",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "428400966642",
+    "uikName": "УИК №380",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "428400966643",
+    "uikName": "УИК №381",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "428400966644",
+    "uikName": "УИК №382",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "428400966645",
+    "uikName": "УИК №383",
     "tikTvd": "228200066718",
-    "tikName": "Магдагачинская"
+    "tikName": "Магдагачинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "428401066736",
+    "uikName": "УИК №384",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "428401066737",
+    "uikName": "УИК №385",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "428401066738",
+    "uikName": "УИК №386",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "428401066739",
+    "uikName": "УИК №387",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "428401066740",
+    "uikName": "УИК №388",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "428401066741",
+    "uikName": "УИК №389",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "428401066742",
+    "uikName": "УИК №390",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "428401066743",
+    "uikName": "УИК №391",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "428401066744",
+    "uikName": "УИК №392",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "428401066745",
+    "uikName": "УИК №393",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "428401066746",
+    "uikName": "УИК №394",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "428401066747",
+    "uikName": "УИК №395",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "428401066748",
+    "uikName": "УИК №396",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "428401066749",
+    "uikName": "УИК №397",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "428401066750",
+    "uikName": "УИК №398",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "428401066751",
+    "uikName": "УИК №399",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "428401066752",
+    "uikName": "УИК №400",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "428401066753",
+    "uikName": "УИК №401",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "428401066754",
+    "uikName": "УИК №402",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "428401066755",
+    "uikName": "УИК №403",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "428401066756",
+    "uikName": "УИК №404",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "428401066757",
+    "uikName": "УИК №405",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "428401066758",
+    "uikName": "УИК №406",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "428401066759",
+    "uikName": "УИК №407",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "428401066760",
+    "uikName": "УИК №408",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "428401066761",
+    "uikName": "УИК №409",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "428401066762",
+    "uikName": "УИК №410",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "428401066763",
+    "uikName": "УИК №411",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "428401066764",
+    "uikName": "УИК №412",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "428401066765",
+    "uikName": "УИК №413",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "428401066766",
+    "uikName": "УИК №414",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "428401066767",
+    "uikName": "УИК №415",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "428401066768",
+    "uikName": "УИК №416",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "428401066769",
+    "uikName": "УИК №417",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "428401066770",
+    "uikName": "УИК №418",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "428401066771",
+    "uikName": "УИК №419",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "428401066772",
+    "uikName": "УИК №420",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "428401066773",
+    "uikName": "УИК №421",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "428401066774",
+    "uikName": "УИК №422",
     "tikTvd": "228200066719",
-    "tikName": "Мазановская"
+    "tikName": "Мазановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "428401166782",
+    "uikName": "УИК №423",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "428401166784",
+    "uikName": "УИК №424",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "428401166785",
+    "uikName": "УИК №425",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "428401166786",
+    "uikName": "УИК №426",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "428401166787",
+    "uikName": "УИК №427",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "428401166788",
+    "uikName": "УИК №428",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "428401166789",
+    "uikName": "УИК №429",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "428401166790",
+    "uikName": "УИК №430",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "428401166791",
+    "uikName": "УИК №431",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "428401166792",
+    "uikName": "УИК №432",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "428401166793",
+    "uikName": "УИК №433",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "428401166794",
+    "uikName": "УИК №434",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "428401166795",
+    "uikName": "УИК №435",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "428401166796",
+    "uikName": "УИК №436",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "428401166797",
+    "uikName": "УИК №437",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "428401166798",
+    "uikName": "УИК №438",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "428401166799",
+    "uikName": "УИК №439",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "428401166800",
+    "uikName": "УИК №440",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "428401166801",
+    "uikName": "УИК №441",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "428401166802",
+    "uikName": "УИК №442",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "428401166803",
+    "uikName": "УИК №443",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "428401166804",
+    "uikName": "УИК №444",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "428401166805",
+    "uikName": "УИК №445",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "428401166806",
+    "uikName": "УИК №446",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "428401166807",
+    "uikName": "УИК №447",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "428401166808",
+    "uikName": "УИК №448",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "428401166809",
+    "uikName": "УИК №449",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "428401166810",
+    "uikName": "УИК №450",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "428401166811",
+    "uikName": "УИК №451",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "428401166812",
+    "uikName": "УИК №452",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "428401166813",
+    "uikName": "УИК №453",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "428401166814",
+    "uikName": "УИК №454",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "428401166815",
+    "uikName": "УИК №455",
     "tikTvd": "228200066717",
-    "tikName": "Михайловская"
+    "tikName": "Михайловская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "428401266718",
+    "uikName": "УИК №456",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "428401266719",
+    "uikName": "УИК №457",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "428401266720",
+    "uikName": "УИК №458",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "428401266721",
+    "uikName": "УИК №459",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "428401266722",
+    "uikName": "УИК №460",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "428401266723",
+    "uikName": "УИК №461",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "428401266724",
+    "uikName": "УИК №462",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "428401266725",
+    "uikName": "УИК №463",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "428401266726",
+    "uikName": "УИК №464",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "428401266727",
+    "uikName": "УИК №465",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "428401266728",
+    "uikName": "УИК №466",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "428401266729",
+    "uikName": "УИК №467",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "428401266730",
+    "uikName": "УИК №468",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "428401266731",
+    "uikName": "УИК №469",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "428401266732",
+    "uikName": "УИК №470",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "428401266733",
+    "uikName": "УИК №471",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "428401266734",
+    "uikName": "УИК №472",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "428401266735",
+    "uikName": "УИК №473",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "428401266736",
+    "uikName": "УИК №474",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "428401266737",
+    "uikName": "УИК №475",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "428401266738",
+    "uikName": "УИК №476",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "428401266739",
+    "uikName": "УИК №477",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "428401266740",
+    "uikName": "УИК №478",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "428401266741",
+    "uikName": "УИК №479",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "428401266742",
+    "uikName": "УИК №480",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "428401266743",
+    "uikName": "УИК №481",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "428401266744",
+    "uikName": "УИК №482",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "428401266745",
+    "uikName": "УИК №483",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "428401266746",
+    "uikName": "УИК №484",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "428401266747",
+    "uikName": "УИК №485",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "428401266748",
+    "uikName": "УИК №486",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "428401266749",
+    "uikName": "УИК №487",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "428401266750",
+    "uikName": "УИК №488",
     "tikTvd": "228200066716",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "428401366900",
+    "uikName": "УИК №489",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "428401366901",
+    "uikName": "УИК №490",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "428401366902",
+    "uikName": "УИК №491",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "428401366903",
+    "uikName": "УИК №492",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "428401366904",
+    "uikName": "УИК №493",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "428401366905",
+    "uikName": "УИК №494",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "428401366906",
+    "uikName": "УИК №495",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "428401366907",
+    "uikName": "УИК №496",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "428401366908",
+    "uikName": "УИК №497",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "428401366909",
+    "uikName": "УИК №498",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "428401366910",
+    "uikName": "УИК №499",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "428401366911",
+    "uikName": "УИК №500",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "428401366912",
+    "uikName": "УИК №501",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "428401366913",
+    "uikName": "УИК №502",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "428401366914",
+    "uikName": "УИК №503",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "428401366915",
+    "uikName": "УИК №504",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "428401366916",
+    "uikName": "УИК №505",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "428401366917",
+    "uikName": "УИК №506",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "428401366918",
+    "uikName": "УИК №507",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "428401366919",
+    "uikName": "УИК №508",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "428401366920",
+    "uikName": "УИК №509",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "428401366921",
+    "uikName": "УИК №510",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "428401366922",
+    "uikName": "УИК №511",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "428401366923",
+    "uikName": "УИК №512",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "428401366924",
+    "uikName": "УИК №513",
     "tikTvd": "228200066714",
-    "tikName": "Райчихинская городская"
+    "tikName": "Райчихинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "428401466771",
+    "uikName": "УИК №514",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "428401466772",
+    "uikName": "УИК №515",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "428401466773",
+    "uikName": "УИК №516",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "428401466774",
+    "uikName": "УИК №517",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "428401466775",
+    "uikName": "УИК №518",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "428401466776",
+    "uikName": "УИК №519",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "428401466777",
+    "uikName": "УИК №520",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "428401466778",
+    "uikName": "УИК №521",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "428401466779",
+    "uikName": "УИК №522",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "428401466780",
+    "uikName": "УИК №523",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "428401466781",
+    "uikName": "УИК №524",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "428401466782",
+    "uikName": "УИК №525",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "428401466783",
+    "uikName": "УИК №526",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "428401466784",
+    "uikName": "УИК №527",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "428401466785",
+    "uikName": "УИК №528",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "428401466786",
+    "uikName": "УИК №529",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "428401466787",
+    "uikName": "УИК №530",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "428401466788",
+    "uikName": "УИК №531",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "428401466789",
+    "uikName": "УИК №532",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "428401466790",
+    "uikName": "УИК №533",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "428401466791",
+    "uikName": "УИК №534",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "428401466792",
+    "uikName": "УИК №535",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "428401466793",
+    "uikName": "УИК №536",
     "tikTvd": "228200066715",
-    "tikName": "Ромненская"
+    "tikName": "Ромненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "428402467006",
+    "uikName": "УИК №537",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "428402467007",
+    "uikName": "УИК №538",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "428402467008",
+    "uikName": "УИК №539",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "428402467009",
+    "uikName": "УИК №540",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "428402467010",
+    "uikName": "УИК №541",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "428402467011",
+    "uikName": "УИК №542",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "428402467012",
+    "uikName": "УИК №543",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "428402467013",
+    "uikName": "УИК №544",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "428402467014",
+    "uikName": "УИК №545",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "428402467015",
+    "uikName": "УИК №546",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "428402467016",
+    "uikName": "УИК №547",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "428402467017",
+    "uikName": "УИК №548",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "428402467018",
+    "uikName": "УИК №549",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "428402467019",
+    "uikName": "УИК №550",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "428402467020",
+    "uikName": "УИК №551",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "428402467021",
+    "uikName": "УИК №552",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "428402467022",
+    "uikName": "УИК №553",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "428402467023",
+    "uikName": "УИК №554",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "428402467024",
+    "uikName": "УИК №555",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "428402467025",
+    "uikName": "УИК №556",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "428402467026",
+    "uikName": "УИК №557",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "428402467027",
+    "uikName": "УИК №558",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "428402467028",
+    "uikName": "УИК №559",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "428402467029",
+    "uikName": "УИК №560",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "428402467030",
+    "uikName": "УИК №561",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "428402467031",
+    "uikName": "УИК №562",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "428402467032",
+    "uikName": "УИК №563",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "428402467033",
+    "uikName": "УИК №564",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "428402467034",
+    "uikName": "УИК №565",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "428402467035",
+    "uikName": "УИК №566",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "428402467036",
+    "uikName": "УИК №567",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "428402467037",
+    "uikName": "УИК №568",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "428402467038",
+    "uikName": "УИК №569",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "428402467039",
+    "uikName": "УИК №570",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "428402467040",
+    "uikName": "УИК №571",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "428402467041",
+    "uikName": "УИК №572",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "428402467042",
+    "uikName": "УИК №573",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "428402467004",
+    "uikName": "УИК №574",
     "tikTvd": "228200066722",
-    "tikName": "Свободненская"
+    "tikName": "Свободненская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "428401566761",
+    "uikName": "УИК №575",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "428401566762",
+    "uikName": "УИК №576",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "428401566763",
+    "uikName": "УИК №577",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "428401566764",
+    "uikName": "УИК №578",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "428401566765",
+    "uikName": "УИК №579",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "428401566766",
+    "uikName": "УИК №580",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "428401566767",
+    "uikName": "УИК №581",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "428401566768",
+    "uikName": "УИК №582",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "428401566769",
+    "uikName": "УИК №583",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "428401566770",
+    "uikName": "УИК №584",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "428401566771",
+    "uikName": "УИК №585",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "428401566772",
+    "uikName": "УИК №586",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "428401566773",
+    "uikName": "УИК №587",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "428401566774",
+    "uikName": "УИК №588",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "428401566775",
+    "uikName": "УИК №589",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "428401566776",
+    "uikName": "УИК №590",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "428401566777",
+    "uikName": "УИК №591",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "428401566778",
+    "uikName": "УИК №592",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "428401566779",
+    "uikName": "УИК №593",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "428401566780",
+    "uikName": "УИК №594",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "428401566781",
+    "uikName": "УИК №595",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "428401566782",
+    "uikName": "УИК №596",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "428401566783",
+    "uikName": "УИК №597",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "428401566784",
+    "uikName": "УИК №598",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "428401566785",
+    "uikName": "УИК №599",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "428401566786",
+    "uikName": "УИК №600",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "428401566787",
+    "uikName": "УИК №601",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "428401566788",
+    "uikName": "УИК №602",
     "tikTvd": "228200066713",
-    "tikName": "Свободненская городская"
+    "tikName": "Свободненская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "428401666708",
+    "uikName": "УИК №603",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "428401666709",
+    "uikName": "УИК №604",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "428401666710",
+    "uikName": "УИК №605",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "428401666711",
+    "uikName": "УИК №606",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "428401666712",
+    "uikName": "УИК №607",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "428401666713",
+    "uikName": "УИК №608",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "428401666714",
+    "uikName": "УИК №609",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "428401666715",
+    "uikName": "УИК №610",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "428401666716",
+    "uikName": "УИК №611",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "428401666717",
+    "uikName": "УИК №612",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "428401666718",
+    "uikName": "УИК №613",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "428401666719",
+    "uikName": "УИК №614",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "428401666720",
+    "uikName": "УИК №615",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "428401666721",
+    "uikName": "УИК №616",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "428401666722",
+    "uikName": "УИК №617",
     "tikTvd": "228200066711",
-    "tikName": "Селемджинская"
+    "tikName": "Селемджинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "428401766747",
+    "uikName": "УИК №618",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "428401766748",
+    "uikName": "УИК №619",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "428401766749",
+    "uikName": "УИК №620",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "428401766750",
+    "uikName": "УИК №621",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "428401766751",
+    "uikName": "УИК №622",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "428401766752",
+    "uikName": "УИК №623",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "428401766753",
+    "uikName": "УИК №624",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "428401766754",
+    "uikName": "УИК №625",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "428401766755",
+    "uikName": "УИК №626",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "428401766756",
+    "uikName": "УИК №627",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "428401766757",
+    "uikName": "УИК №628",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "428401766758",
+    "uikName": "УИК №629",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "428401766759",
+    "uikName": "УИК №630",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "428401766760",
+    "uikName": "УИК №631",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "428401766761",
+    "uikName": "УИК №632",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "428401766762",
+    "uikName": "УИК №633",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "428401766763",
+    "uikName": "УИК №634",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "428401766764",
+    "uikName": "УИК №635",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "428401766765",
+    "uikName": "УИК №636",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "428401766766",
+    "uikName": "УИК №637",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "428401766767",
+    "uikName": "УИК №638",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "428401766768",
+    "uikName": "УИК №639",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "428401766769",
+    "uikName": "УИК №640",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "428401766770",
+    "uikName": "УИК №641",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "428401766771",
+    "uikName": "УИК №642",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "428401766772",
+    "uikName": "УИК №643",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "428401766773",
+    "uikName": "УИК №644",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "428401766774",
+    "uikName": "УИК №645",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "428401766775",
+    "uikName": "УИК №646",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "428401766776",
+    "uikName": "УИК №647",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "428401766777",
+    "uikName": "УИК №648",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "428401766778",
+    "uikName": "УИК №649",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "428401766779",
+    "uikName": "УИК №650",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "428401766780",
+    "uikName": "УИК №651",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "428401766781",
+    "uikName": "УИК №652",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "428401766782",
+    "uikName": "УИК №653",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "428401766783",
+    "uikName": "УИК №654",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "428401766784",
+    "uikName": "УИК №655",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "428401766785",
+    "uikName": "УИК №656",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "428401766786",
+    "uikName": "УИК №657",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "428401766787",
+    "uikName": "УИК №658",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "428401766788",
+    "uikName": "УИК №659",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "428401766789",
+    "uikName": "УИК №660",
     "tikTvd": "228200066712",
-    "tikName": "Серышевская"
+    "tikName": "Серышевская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "428401866893",
+    "uikName": "УИК №661",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "428401866894",
+    "uikName": "УИК №662",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "428401866895",
+    "uikName": "УИК №663",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "428401866896",
+    "uikName": "УИК №664",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "428401866897",
+    "uikName": "УИК №665",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "428401866898",
+    "uikName": "УИК №666",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "428401866899",
+    "uikName": "УИК №667",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "428401866900",
+    "uikName": "УИК №668",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "428401866901",
+    "uikName": "УИК №669",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "428401866902",
+    "uikName": "УИК №670",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "428401866903",
+    "uikName": "УИК №671",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "428401866904",
+    "uikName": "УИК №672",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "428401866905",
+    "uikName": "УИК №673",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "428401866906",
+    "uikName": "УИК №674",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "428401866907",
+    "uikName": "УИК №675",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "428401866908",
+    "uikName": "УИК №676",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "428401866909",
+    "uikName": "УИК №677",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "428401866910",
+    "uikName": "УИК №678",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "428401866911",
+    "uikName": "УИК №679",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "428401866912",
+    "uikName": "УИК №680",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "428401866913",
+    "uikName": "УИК №681",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "428401866914",
+    "uikName": "УИК №682",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "428401866915",
+    "uikName": "УИК №683",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "428401866916",
+    "uikName": "УИК №684",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "428401866917",
+    "uikName": "УИК №685",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "428401866918",
+    "uikName": "УИК №686",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "428401866919",
+    "uikName": "УИК №687",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "428401866920",
+    "uikName": "УИК №688",
     "tikTvd": "228200066710",
-    "tikName": "Сковородинская"
+    "tikName": "Сковородинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "428401966783",
+    "uikName": "УИК №689",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "428401966784",
+    "uikName": "УИК №690",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "428401966785",
+    "uikName": "УИК №691",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "428401966786",
+    "uikName": "УИК №692",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "428401966787",
+    "uikName": "УИК №693",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "428401966788",
+    "uikName": "УИК №694",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "428401966789",
+    "uikName": "УИК №695",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "428401966790",
+    "uikName": "УИК №696",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "428401966791",
+    "uikName": "УИК №697",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "428401966792",
+    "uikName": "УИК №698",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "428401966793",
+    "uikName": "УИК №699",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "428401966794",
+    "uikName": "УИК №700",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "428401966795",
+    "uikName": "УИК №701",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "428401966796",
+    "uikName": "УИК №702",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "428401966797",
+    "uikName": "УИК №703",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "428401966798",
+    "uikName": "УИК №704",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "428401966799",
+    "uikName": "УИК №705",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "428401966800",
+    "uikName": "УИК №706",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "428401966801",
+    "uikName": "УИК №707",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "428401966802",
+    "uikName": "УИК №708",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "428401966803",
+    "uikName": "УИК №709",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "428401966804",
+    "uikName": "УИК №710",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "428401966805",
+    "uikName": "УИК №711",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "428401966806",
+    "uikName": "УИК №712",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "428401966807",
+    "uikName": "УИК №713",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "428401966808",
+    "uikName": "УИК №714",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "428401966809",
+    "uikName": "УИК №715",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "428401966810",
+    "uikName": "УИК №716",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "428401966811",
+    "uikName": "УИК №717",
     "tikTvd": "228200066709",
-    "tikName": "Тамбовская"
+    "tikName": "Тамбовская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "428402566724",
+    "uikName": "УИК  718",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "428402566725",
+    "uikName": "УИК  719",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "428402566726",
+    "uikName": "УИК  720",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "428402566727",
+    "uikName": "УИК  721",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "428402566728",
+    "uikName": "УИК  722",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "428402566729",
+    "uikName": "УИК  723",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "428402566730",
+    "uikName": "УИК  724",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "428402566731",
+    "uikName": "УИК  725",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "428402566732",
+    "uikName": "УИК  726",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "428402566733",
+    "uikName": "УИК  727",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "428402566734",
+    "uikName": "УИК  728",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "428402566735",
+    "uikName": "УИК  729",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "428402566736",
+    "uikName": "УИК  730",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "428402566737",
+    "uikName": "УИК  731",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "428402566738",
+    "uikName": "УИК  732",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "428402566739",
+    "uikName": "УИК  733",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "428402566740",
+    "uikName": "УИК  734",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "428402566741",
+    "uikName": "УИК  735",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "428402566742",
+    "uikName": "УИК  736",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "428402566743",
+    "uikName": "УИК  737",
     "tikTvd": "228200066723",
-    "tikName": "Тындинская"
+    "tikName": "Тындинская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "428402066862",
+    "uikName": "УИК  738",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "428402066921",
+    "uikName": "УИК  739",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "428402066941",
+    "uikName": "УИК  740",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "428402066942",
+    "uikName": "УИК  741",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "428402066943",
+    "uikName": "УИК  742",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "428402066944",
+    "uikName": "УИК  743",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "428402066945",
+    "uikName": "УИК  744",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "428402066946",
+    "uikName": "УИК  745",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "428402066947",
+    "uikName": "УИК  746",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "428402066948",
+    "uikName": "УИК  747",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "428402066949",
+    "uikName": "УИК  748",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "428402066950",
+    "uikName": "УИК  749",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "428402066951",
+    "uikName": "УИК  750",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "428402066952",
+    "uikName": "УИК  751",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "428402066953",
+    "uikName": "УИК  752",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "428402066954",
+    "uikName": "УИК  753",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "428402066955",
+    "uikName": "УИК  754",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "428402066956",
+    "uikName": "УИК  755",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "428402066957",
+    "uikName": "УИК  756",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "428402066958",
+    "uikName": "УИК  757",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "428402066959",
+    "uikName": "УИК  758",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "428402066960",
+    "uikName": "УИК  759",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "428402066961",
+    "uikName": "УИК  760",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "428402066962",
+    "uikName": "УИК  761",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "428402066963",
+    "uikName": "УИК  762",
     "tikTvd": "228200066727",
-    "tikName": "Тындинская городская"
+    "tikName": "Тындинская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "428402666654",
+    "uikName": "УИК №763",
     "tikTvd": "228200066721",
-    "tikName": "Углегорская поселковая"
+    "tikName": "Углегорская поселковая",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "428402666655",
+    "uikName": "УИК №764",
     "tikTvd": "228200066721",
-    "tikName": "Углегорская поселковая"
+    "tikName": "Углегорская поселковая",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "428402766684",
+    "uikName": "УИК №765",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "428402766685",
+    "uikName": "УИК №766",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "428402766686",
+    "uikName": "УИК №767",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "428402766687",
+    "uikName": "УИК №768",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "428402766688",
+    "uikName": "УИК №769",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "428402766689",
+    "uikName": "УИК №770",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "428402766690",
+    "uikName": "УИК №771",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "428402766691",
+    "uikName": "УИК №772",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "428402766692",
+    "uikName": "УИК №773",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "428402766693",
+    "uikName": "УИК №774",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "428402766694",
+    "uikName": "УИК №775",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "428402766695",
+    "uikName": "УИК №776",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "428402766696",
+    "uikName": "УИК №777",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "428402766697",
+    "uikName": "УИК №778",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "428402766698",
+    "uikName": "УИК №779",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "428402766699",
+    "uikName": "УИК №780",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "428402766700",
+    "uikName": "УИК №781",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "428402766701",
+    "uikName": "УИК №782",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "428402766702",
+    "uikName": "УИК №783",
     "tikTvd": "228200066720",
-    "tikName": "Шимановская"
+    "tikName": "Шимановская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "428402166686",
+    "uikName": "УИК №784",
     "tikTvd": "228200066725",
-    "tikName": "Шимановская городская"
+    "tikName": "Шимановская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "428402166687",
+    "uikName": "УИК №785",
     "tikTvd": "228200066725",
-    "tikName": "Шимановская городская"
+    "tikName": "Шимановская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "428402166688",
+    "uikName": "УИК №786",
     "tikTvd": "228200066725",
-    "tikName": "Шимановская городская"
+    "tikName": "Шимановская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "428402166689",
+    "uikName": "УИК №787",
     "tikTvd": "228200066725",
-    "tikName": "Шимановская городская"
+    "tikName": "Шимановская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "428402166690",
+    "uikName": "УИК №788",
     "tikTvd": "228200066725",
-    "tikName": "Шимановская городская"
+    "tikName": "Шимановская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "428402166691",
+    "uikName": "УИК №789",
     "tikTvd": "228200066725",
-    "tikName": "Шимановская городская"
+    "tikName": "Шимановская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "428402166692",
+    "uikName": "УИК №790",
     "tikTvd": "228200066725",
-    "tikName": "Шимановская городская"
+    "tikName": "Шимановская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "428402166693",
+    "uikName": "УИК №791",
     "tikTvd": "228200066725",
-    "tikName": "Шимановская городская"
+    "tikName": "Шимановская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "428402166694",
+    "uikName": "УИК №792",
     "tikTvd": "228200066725",
-    "tikName": "Шимановская городская"
+    "tikName": "Шимановская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "428402166695",
+    "uikName": "УИК №793",
     "tikTvd": "228200066725",
-    "tikName": "Шимановская городская"
+    "tikName": "Шимановская городская",
+    "regionCode": "28",
+    "regionTvd": "100100095884",
+    "regionName": "Амурская область",
+    "district": {
+      "districtNumber": 60,
+      "oikTvd": "100100095885",
+      "oikName": "Благовещенский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

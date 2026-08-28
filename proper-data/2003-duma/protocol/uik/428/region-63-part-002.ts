@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "463401270430",
+    "uikName": "УИК №2",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1313,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "463401270431",
+    "uikName": "УИК №3",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1057,
       "Число бюллетеней, полученных участковыми комиссиями": 925,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "463401270432",
+    "uikName": "УИК №4",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1221,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "463401270433",
+    "uikName": "УИК №5",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1492,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "463401270434",
+    "uikName": "УИК №6",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1696,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "463401270435",
+    "uikName": "УИК №7",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1823,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "463401270436",
+    "uikName": "УИК №8",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2463,
       "Число бюллетеней, полученных участковыми комиссиями": 2255,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "463401270437",
+    "uikName": "УИК №9",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1595,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "463401270438",
+    "uikName": "УИК №10",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 974,
       "Число бюллетеней, полученных участковыми комиссиями": 875,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "463401270439",
+    "uikName": "УИК №11",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1654,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "463401270440",
+    "uikName": "УИК №12",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1121,
       "Число бюллетеней, полученных участковыми комиссиями": 985,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "463401270441",
+    "uikName": "УИК №13",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 836,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "463401270442",
+    "uikName": "УИК №14",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 735,
       "Число бюллетеней, полученных участковыми комиссиями": 645,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "463401270443",
+    "uikName": "УИК №15",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1164,
       "Число бюллетеней, полученных участковыми комиссиями": 1025,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "463401270444",
+    "uikName": "УИК №16",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1465,
       "Число бюллетеней, полученных участковыми комиссиями": 1315,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "463401270445",
+    "uikName": "УИК №17",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1922,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "463401270446",
+    "uikName": "УИК №18",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "463401270447",
+    "uikName": "УИК №19",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 324,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "463401270448",
+    "uikName": "УИК №20",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "463401270449",
+    "uikName": "УИК №21",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1619,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "463401270450",
+    "uikName": "УИК №22",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1241,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "463401270451",
+    "uikName": "УИК №23",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2096,
       "Число бюллетеней, полученных участковыми комиссиями": 1935,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "463401270452",
+    "uikName": "УИК №24",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1485,
       "Число бюллетеней, полученных участковыми комиссиями": 1335,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "463401270453",
+    "uikName": "УИК №25",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1356,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "463401270454",
+    "uikName": "УИК №26",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1517,
       "Число бюллетеней, полученных участковыми комиссиями": 1335,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "463401270455",
+    "uikName": "УИК №27",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2032,
       "Число бюллетеней, полученных участковыми комиссиями": 1785,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "463401270456",
+    "uikName": "УИК №28",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2052,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "463404670653",
+    "uikName": "УИК №237",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 812,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "463404670654",
+    "uikName": "УИК №238",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1005,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "463404670655",
+    "uikName": "УИК №239",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1140,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "463404670656",
+    "uikName": "УИК №240",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "463404670657",
+    "uikName": "УИК №241",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "463404670658",
+    "uikName": "УИК №242",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2854,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "463404670659",
+    "uikName": "УИК №243",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "463404670660",
+    "uikName": "УИК №244",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "463404670661",
+    "uikName": "УИК №245",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "463404670662",
+    "uikName": "УИК №246",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 146,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "463404670663",
+    "uikName": "УИК №247",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1843,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "463404670664",
+    "uikName": "УИК №248",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "463404670665",
+    "uikName": "УИК №249",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1263,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "463404670666",
+    "uikName": "УИК №250",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "463404670667",
+    "uikName": "УИК №251",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2751,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "463404670668",
+    "uikName": "УИК №252",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "463404670669",
+    "uikName": "УИК №253",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "463404670670",
+    "uikName": "УИК №254",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "463404670671",
+    "uikName": "УИК №255",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1226,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "463404670672",
+    "uikName": "УИК №256",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1728,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "463404670673",
+    "uikName": "УИК №257",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1004,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "463404670674",
+    "uikName": "УИК №258",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 584,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "463404670675",
+    "uikName": "УИК №259",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 685,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "463404670676",
+    "uikName": "УИК №260",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1681,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "463404670677",
+    "uikName": "УИК №261",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 750,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "463401370419",
+    "uikName": "УИК №262",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 715,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "463401370420",
+    "uikName": "УИК №263",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "463401370421",
+    "uikName": "УИК №264",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1103,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "463401370422",
+    "uikName": "УИК №265",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "463401370423",
+    "uikName": "УИК №266",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "463401370424",
+    "uikName": "УИК №267",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "463401370425",
+    "uikName": "УИК №268",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "463401370426",
+    "uikName": "УИК №269",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "463401370427",
+    "uikName": "УИК №270",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "463401370428",
+    "uikName": "УИК №271",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1298,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "463401370429",
+    "uikName": "УИК №272",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 788,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "463401370430",
+    "uikName": "УИК №273",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1008,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "463401370431",
+    "uikName": "УИК №274",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 963,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "463401370432",
+    "uikName": "УИК №275",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 827,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "463401370433",
+    "uikName": "УИК №276",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 463,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "463401370434",
+    "uikName": "УИК №277",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1494,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "463401370435",
+    "uikName": "УИК №278",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1679,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "463401370436",
+    "uikName": "УИК №279",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1238,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "463401370437",
+    "uikName": "УИК №280",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1278,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "463401370438",
+    "uikName": "УИК №281",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1750,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "463401370439",
+    "uikName": "УИК №282",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1073,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "463401370440",
+    "uikName": "УИК №283",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "463401370441",
+    "uikName": "УИК №284",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 710,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "463401370442",
+    "uikName": "УИК №285",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "463401370443",
+    "uikName": "УИК №286",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "463401370444",
+    "uikName": "УИК №287",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1355,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "463401370445",
+    "uikName": "УИК №288",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1225,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "463401370446",
+    "uikName": "УИК №289",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1357,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "463401370447",
+    "uikName": "УИК №290",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1332,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "463401370448",
+    "uikName": "УИК №291",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "463401370449",
+    "uikName": "УИК №292",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "463401370450",
+    "uikName": "УИК №293",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 196,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "463401370451",
+    "uikName": "УИК №294",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "463401370452",
+    "uikName": "УИК №295",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "463401370453",
+    "uikName": "УИК №296",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "463401370454",
+    "uikName": "УИК №297",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "463401370455",
+    "uikName": "УИК №298",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "463401370456",
+    "uikName": "УИК №299",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "463401370457",
+    "uikName": "УИК №300",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "463401370458",
+    "uikName": "УИК №301",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "463401370459",
+    "uikName": "УИК №302",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1085,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "463401370460",
+    "uikName": "УИК №303",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1519,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "463401370461",
+    "uikName": "УИК №304",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1238,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "463401370462",
+    "uikName": "УИК №305",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 725,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "463401370463",
+    "uikName": "УИК №306",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "463401370464",
+    "uikName": "УИК №307",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1037,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "463401170417",
+    "uikName": "УИК №223",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 299,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "463401170418",
+    "uikName": "УИК №224",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "463401170419",
+    "uikName": "УИК №225",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "463401170420",
+    "uikName": "УИК №226",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 574,
       "Число бюллетеней, полученных участковыми комиссиями": 575,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "463401170421",
+    "uikName": "УИК №227",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "463401170422",
+    "uikName": "УИК №228",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1198,
       "Число бюллетеней, полученных участковыми комиссиями": 1186,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "463401170423",
+    "uikName": "УИК №229",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1082,
       "Число бюллетеней, полученных участковыми комиссиями": 1066,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "463401170424",
+    "uikName": "УИК №230",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1306,
       "Число бюллетеней, полученных участковыми комиссиями": 1338,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "463401170425",
+    "uikName": "УИК №231",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1305,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "463401170426",
+    "uikName": "УИК №232",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "463401170427",
+    "uikName": "УИК №233",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1023,
       "Число бюллетеней, полученных участковыми комиссиями": 1010,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "463401170428",
+    "uikName": "УИК №234",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 332,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "463401170429",
+    "uikName": "УИК №235",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "463401170430",
+    "uikName": "УИК №236",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 211,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "463401070521",
+    "uikName": "УИК  198",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1538,
       "Число бюллетеней, полученных участковыми комиссиями": 1534,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "463401070522",
+    "uikName": "УИК  199",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1982,
       "Число бюллетеней, полученных участковыми комиссиями": 1955,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "463401070523",
+    "uikName": "УИК  200",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "463401070524",
+    "uikName": "УИК  201",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 322,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "463401070525",
+    "uikName": "УИК  202",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 362,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "463401070526",
+    "uikName": "УИК  203",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "463401070527",
+    "uikName": "УИК  204",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 369,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "463401070528",
+    "uikName": "УИК  205",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 268,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "463401070529",
+    "uikName": "УИК  206",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "463401070530",
+    "uikName": "УИК  207",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 248,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "463401070531",
+    "uikName": "УИК  208",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "463401070532",
+    "uikName": "УИК  209",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "463401070533",
+    "uikName": "УИК  210",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "463401070534",
+    "uikName": "УИК  211",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "463401070535",
+    "uikName": "УИК  212",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 761,
       "Число бюллетеней, полученных участковыми комиссиями": 771,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "463401070536",
+    "uikName": "УИК  213",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 475,
       "Число бюллетеней, полученных участковыми комиссиями": 492,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "463401070537",
+    "uikName": "УИК  214",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "463401070538",
+    "uikName": "УИК  215",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 592,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "463401070539",
+    "uikName": "УИК  216",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "463401070540",
+    "uikName": "УИК  217",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "463401070541",
+    "uikName": "УИК  218",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "463401070542",
+    "uikName": "УИК  219",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 344,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "463401070543",
+    "uikName": "УИК  220",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "463401070544",
+    "uikName": "УИК  221",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 407,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "463401070545",
+    "uikName": "УИК  222",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 705,
       "Число бюллетеней, полученных участковыми комиссиями": 706,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "463404272586",
+    "uikName": "УИК №106",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1974,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "463404272587",
+    "uikName": "УИК №107",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1480,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "463404272588",
+    "uikName": "УИК №108",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1137,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "463404272589",
+    "uikName": "УИК №109",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1337,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "463404272590",
+    "uikName": "УИК №110",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1344,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "463404272591",
+    "uikName": "УИК №111",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1532,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "463404272592",
+    "uikName": "УИК №112",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1529,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "463404272593",
+    "uikName": "УИК №113",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1313,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "463404272594",
+    "uikName": "УИК №114",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1298,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "463404272595",
+    "uikName": "УИК №115",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1387,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "463404272596",
+    "uikName": "УИК №116",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1516,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "463404272597",
+    "uikName": "УИК №117",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1613,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "463404272598",
+    "uikName": "УИК №118",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1568,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "463404272599",
+    "uikName": "УИК №119",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1565,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "463404272600",
+    "uikName": "УИК №120",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1777,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "463404272601",
+    "uikName": "УИК №121",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1482,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "463404272602",
+    "uikName": "УИК №122",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1828,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "463404272603",
+    "uikName": "УИК №123",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1909,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "463404272604",
+    "uikName": "УИК №124",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1172,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "463404272605",
+    "uikName": "УИК №125",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1927,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "463404272606",
+    "uikName": "УИК №126",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1466,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "463404272607",
+    "uikName": "УИК №127",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1215,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "463404272608",
+    "uikName": "УИК №128",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1560,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "463404272609",
+    "uikName": "УИК №129",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1224,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "463404272610",
+    "uikName": "УИК №130",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 804,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "463404272611",
+    "uikName": "УИК №131",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 655,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "463404272612",
+    "uikName": "УИК №132",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 741,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "463404272613",
+    "uikName": "УИК №133",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 817,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "463404272614",
+    "uikName": "УИК №134",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1810,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "463404272615",
+    "uikName": "УИК №135",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1524,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "463404272616",
+    "uikName": "УИК №136",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1713,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "463404272617",
+    "uikName": "УИК №137",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1461,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "463404272618",
+    "uikName": "УИК №138",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1508,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "463404272619",
+    "uikName": "УИК №139",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1606,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "463404272620",
+    "uikName": "УИК №140",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1279,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "463404272621",
+    "uikName": "УИК №141",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1087,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "463404272622",
+    "uikName": "УИК №142",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1155,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "463404272623",
+    "uikName": "УИК №143",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1211,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "463404272624",
+    "uikName": "УИК №144",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2271,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "463404272625",
+    "uikName": "УИК №145",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2067,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "463404272626",
+    "uikName": "УИК №146",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1230,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "463402170645",
+    "uikName": "УИК №79",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2515,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "463402170646",
+    "uikName": "УИК №80",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2648,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "463402170647",
+    "uikName": "УИК №81",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2756,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "463402170648",
+    "uikName": "УИК №82",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2605,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "463402170649",
+    "uikName": "УИК №83",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2814,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "463402170650",
+    "uikName": "УИК №84",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2923,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "463402170651",
+    "uikName": "УИК №85",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2654,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "463402170652",
+    "uikName": "УИК №86",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2479,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "463402170653",
+    "uikName": "УИК №87",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2633,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "463402170654",
+    "uikName": "УИК №88",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2839,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "463402170655",
+    "uikName": "УИК №89",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2754,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "463402170656",
+    "uikName": "УИК №90",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2695,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "463402170657",
+    "uikName": "УИК №91",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2274,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "463402170658",
+    "uikName": "УИК №92",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2165,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "463402170659",
+    "uikName": "УИК №93",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 71,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "463401970620",
+    "uikName": "УИК №29",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3020,
       "Число бюллетеней, полученных участковыми комиссиями": 2688,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "463401970621",
+    "uikName": "УИК №30",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1758,
       "Число бюллетеней, полученных участковыми комиссиями": 1574,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "463401970622",
+    "uikName": "УИК №31",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1430,
       "Число бюллетеней, полученных участковыми комиссиями": 1271,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "463401970623",
+    "uikName": "УИК №32",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 910,
       "Число бюллетеней, полученных участковыми комиссиями": 822,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "463401970624",
+    "uikName": "УИК №33",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1477,
       "Число бюллетеней, полученных участковыми комиссиями": 1337,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "463401970625",
+    "uikName": "УИК №34",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1590,
       "Число бюллетеней, полученных участковыми комиссиями": 1427,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "463401970626",
+    "uikName": "УИК №35",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2580,
       "Число бюллетеней, полученных участковыми комиссиями": 2323,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "463401970627",
+    "uikName": "УИК №36",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 1989,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "463401970628",
+    "uikName": "УИК №37",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2364,
       "Число бюллетеней, полученных участковыми комиссиями": 2128,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "463401970629",
+    "uikName": "УИК №38",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2493,
       "Число бюллетеней, полученных участковыми комиссиями": 2221,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "463401970630",
+    "uikName": "УИК №39",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2386,
       "Число бюллетеней, полученных участковыми комиссиями": 2131,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "463401970631",
+    "uikName": "УИК №40",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2392,
       "Число бюллетеней, полученных участковыми комиссиями": 2165,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "463401970632",
+    "uikName": "УИК №41",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2681,
       "Число бюллетеней, полученных участковыми комиссиями": 2440,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "463401970633",
+    "uikName": "УИК №42",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 431,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "463401970634",
+    "uikName": "УИК №43",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1926,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "463401970635",
+    "uikName": "УИК №44",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1227,
       "Число бюллетеней, полученных участковыми комиссиями": 1117,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "463401970636",
+    "uikName": "УИК №45",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1765,
       "Число бюллетеней, полученных участковыми комиссиями": 1565,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "463401970637",
+    "uikName": "УИК №46",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1855,
       "Число бюллетеней, полученных участковыми комиссиями": 1693,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "463401970638",
+    "uikName": "УИК №47",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2736,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "463401970639",
+    "uikName": "УИК №48",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2385,
       "Число бюллетеней, полученных участковыми комиссиями": 2153,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "463401970640",
+    "uikName": "УИК №49",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 1919,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "463401970641",
+    "uikName": "УИК №50",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2836,
       "Число бюллетеней, полученных участковыми комиссиями": 2558,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "463401970642",
+    "uikName": "УИК №51",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2714,
       "Число бюллетеней, полученных участковыми комиссиями": 2461,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "463401970643",
+    "uikName": "УИК №52",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1945,
       "Число бюллетеней, полученных участковыми комиссиями": 1754,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "463401970644",
+    "uikName": "УИК №53",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1842,
       "Число бюллетеней, полученных участковыми комиссиями": 1641,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "463401970645",
+    "uikName": "УИК №54",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2750,
       "Число бюллетеней, полученных участковыми комиссиями": 2483,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "463401970646",
+    "uikName": "УИК №55",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1381,
       "Число бюллетеней, полученных участковыми комиссиями": 1215,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "463401970647",
+    "uikName": "УИК №56",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 924,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "463401970648",
+    "uikName": "УИК №57",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1840,
       "Число бюллетеней, полученных участковыми комиссиями": 1659,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "463401970649",
+    "uikName": "УИК №58",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1541,
       "Число бюллетеней, полученных участковыми комиссиями": 1397,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "463401970650",
+    "uikName": "УИК №59",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1810,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "463401970651",
+    "uikName": "УИК №60",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1525,
       "Число бюллетеней, полученных участковыми комиссиями": 1361,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "463401970652",
+    "uikName": "УИК №61",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1563,
       "Число бюллетеней, полученных участковыми комиссиями": 1412,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "463401970653",
+    "uikName": "УИК №62",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1637,
       "Число бюллетеней, полученных участковыми комиссиями": 1475,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "463401970654",
+    "uikName": "УИК №63",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1719,
       "Число бюллетеней, полученных участковыми комиссиями": 1562,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "463401970655",
+    "uikName": "УИК №64",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1589,
       "Число бюллетеней, полученных участковыми комиссиями": 1418,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "463401970656",
+    "uikName": "УИК №65",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1413,
       "Число бюллетеней, полученных участковыми комиссиями": 1271,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "463401970657",
+    "uikName": "УИК №66",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1701,
       "Число бюллетеней, полученных участковыми комиссиями": 1534,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "463401970658",
+    "uikName": "УИК №67",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1084,
       "Число бюллетеней, полученных участковыми комиссиями": 977,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "463401970659",
+    "uikName": "УИК №68",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1234,
       "Число бюллетеней, полученных участковыми комиссиями": 1116,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "463401970660",
+    "uikName": "УИК №69",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1847,
       "Число бюллетеней, полученных участковыми комиссиями": 1671,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "463401970661",
+    "uikName": "УИК №70",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2095,
       "Число бюллетеней, полученных участковыми комиссиями": 1877,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "463401970662",
+    "uikName": "УИК №71",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2691,
       "Число бюллетеней, полученных участковыми комиссиями": 2428,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "463401970663",
+    "uikName": "УИК №72",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1821,
       "Число бюллетеней, полученных участковыми комиссиями": 1623,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "463401970664",
+    "uikName": "УИК №73",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 733,
       "Число бюллетеней, полученных участковыми комиссиями": 663,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "463401970665",
+    "uikName": "УИК №74",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 849,
       "Число бюллетеней, полученных участковыми комиссиями": 776,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "463401970666",
+    "uikName": "УИК №75",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2046,
       "Число бюллетеней, полученных участковыми комиссиями": 1842,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "463401970667",
+    "uikName": "УИК №76",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1397,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "463401970668",
+    "uikName": "УИК №77",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 271,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "463401970669",
+    "uikName": "УИК №78",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1907,
       "Число бюллетеней, полученных участковыми комиссиями": 1691,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "463403170487",
+    "uikName": "УИК №621",
     "tikTvd": "263200070890",
     "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2242,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -11726,8 +13922,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "463403170488",
+    "uikName": "УИК №622",
     "tikTvd": "263200070890",
     "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1756,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -11777,8 +13982,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "463403170489",
+    "uikName": "УИК №623",
     "tikTvd": "263200070890",
     "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2266,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -11828,8 +14042,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "463403170490",
+    "uikName": "УИК №624",
     "tikTvd": "263200070890",
     "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1805,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -11879,8 +14102,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "463403170491",
+    "uikName": "УИК №625",
     "tikTvd": "263200070890",
     "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2084,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -11930,8 +14162,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "463403170492",
+    "uikName": "УИК №626",
     "tikTvd": "263200070890",
     "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1570,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -11981,8 +14222,17 @@ export const duma_2003_uik_428_region_63_part_002 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "463403170493",
+    "uikName": "УИК №627",
     "tikTvd": "263200070890",
     "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1902,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,

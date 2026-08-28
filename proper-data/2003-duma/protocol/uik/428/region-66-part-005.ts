@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2171,
     "uikTvd": "466404266746",
+    "uikName": "УИК №2171",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2585,
       "Число бюллетеней, полученных участковыми комиссиями": 2590,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2172,
     "uikTvd": "466404266747",
+    "uikName": "УИК №2172",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2035,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2173,
     "uikTvd": "466404266748",
+    "uikName": "УИК №2173",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2501,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2174,
     "uikTvd": "466404266749",
+    "uikName": "УИК №2174",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1771,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2175,
     "uikTvd": "466404266750",
+    "uikName": "УИК №2175",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1942,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2176,
     "uikTvd": "466404266751",
+    "uikName": "УИК №2176",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1401,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2177,
     "uikTvd": "466404266752",
+    "uikName": "УИК №2177",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2070,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2178,
     "uikTvd": "466404266753",
+    "uikName": "УИК №2178",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2322,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2179,
     "uikTvd": "466404266754",
+    "uikName": "УИК №2179",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2180,
     "uikTvd": "466404266755",
+    "uikName": "УИК №2180",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2437,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2181,
     "uikTvd": "466404266756",
+    "uikName": "УИК №2181",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1690,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2182,
     "uikTvd": "466404266757",
+    "uikName": "УИК №2182",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2209,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2183,
     "uikTvd": "466404266758",
+    "uikName": "УИК №2183",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1966,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2184,
     "uikTvd": "466404266759",
+    "uikName": "УИК №2184",
     "tikTvd": "366300366744",
     "tikName": "Нижний Тагил, Дзержинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2009,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2187,
     "uikTvd": "466404066698",
+    "uikName": "УИК №2187",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2309,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2188,
     "uikTvd": "466404066699",
+    "uikName": "УИК №2188",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1996,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2189,
     "uikTvd": "466404066700",
+    "uikName": "УИК №2189",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1525,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2190,
     "uikTvd": "466404066701",
+    "uikName": "УИК №2190",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1643,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2191,
     "uikTvd": "466404066702",
+    "uikName": "УИК №2191",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1765,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2192,
     "uikTvd": "466404066703",
+    "uikName": "УИК №2192",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1909,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2193,
     "uikTvd": "466404066704",
+    "uikName": "УИК №2193",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1614,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2194,
     "uikTvd": "466404066705",
+    "uikName": "УИК №2194",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2601,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2195,
     "uikTvd": "466404066706",
+    "uikName": "УИК №2195",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2341,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2196,
     "uikTvd": "466404066707",
+    "uikName": "УИК №2196",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1945,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2197,
     "uikTvd": "466404066708",
+    "uikName": "УИК №2197",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2203,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2198,
     "uikTvd": "466404066709",
+    "uikName": "УИК №2198",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1564,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2199,
     "uikTvd": "466404066710",
+    "uikName": "УИК №2199",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2200,
     "uikTvd": "466404066711",
+    "uikName": "УИК №2200",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2005,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2201,
     "uikTvd": "466404066712",
+    "uikName": "УИК №2201",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2127,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2202,
     "uikTvd": "466404066713",
+    "uikName": "УИК №2202",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2086,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2203,
     "uikTvd": "466404066714",
+    "uikName": "УИК №2203",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2339,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2204,
     "uikTvd": "466404066715",
+    "uikName": "УИК №2204",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2433,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2205,
     "uikTvd": "466404066716",
+    "uikName": "УИК №2205",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2199,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2206,
     "uikTvd": "466404066717",
+    "uikName": "УИК №2206",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1872,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2207,
     "uikTvd": "466404066718",
+    "uikName": "УИК №2207",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2406,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2208,
     "uikTvd": "466404066719",
+    "uikName": "УИК №2208",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1688,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2209,
     "uikTvd": "466404066720",
+    "uikName": "УИК №2209",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1689,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2210,
     "uikTvd": "466404066721",
+    "uikName": "УИК №2210",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2221,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2211,
     "uikTvd": "466404066722",
+    "uikName": "УИК №2211",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2774,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2212,
     "uikTvd": "466404066723",
+    "uikName": "УИК №2212",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2213,
     "uikTvd": "466404066724",
+    "uikName": "УИК №2213",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2489,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2214,
     "uikTvd": "466404066725",
+    "uikName": "УИК №2214",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2258,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2215,
     "uikTvd": "466404066726",
+    "uikName": "УИК №2215",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2322,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2216,
     "uikTvd": "466404066727",
+    "uikName": "УИК №2216",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1953,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2217,
     "uikTvd": "466404066728",
+    "uikName": "УИК №2217",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2689,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2218,
     "uikTvd": "466404066729",
+    "uikName": "УИК №2218",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2427,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2219,
     "uikTvd": "466404066730",
+    "uikName": "УИК №2219",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2199,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2220,
     "uikTvd": "466404066731",
+    "uikName": "УИК №2220",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2448,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2221,
     "uikTvd": "466404066732",
+    "uikName": "УИК №2221",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2065,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2222,
     "uikTvd": "466404066733",
+    "uikName": "УИК №2222",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2303,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2223,
     "uikTvd": "466404066734",
+    "uikName": "УИК №2223",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 469,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2224,
     "uikTvd": "466404066735",
+    "uikName": "УИК №2224",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 719,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2225,
     "uikTvd": "466404066736",
+    "uikName": "УИК №2225",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 466,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2226,
     "uikTvd": "466404066737",
+    "uikName": "УИК №2226",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1612,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2227,
     "uikTvd": "466404066738",
+    "uikName": "УИК №2227",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1319,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2228,
     "uikTvd": "466404066739",
+    "uikName": "УИК №2228",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1392,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2229,
     "uikTvd": "466404066740",
+    "uikName": "УИК №2229",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1798,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2230,
     "uikTvd": "466404066741",
+    "uikName": "УИК №2230",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1121,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2231,
     "uikTvd": "466404066742",
+    "uikName": "УИК №2231",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 539,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2232,
     "uikTvd": "466404066743",
+    "uikName": "УИК №2232",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 555,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2233,
     "uikTvd": "466404066744",
+    "uikName": "УИК №2233",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2022,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2234,
     "uikTvd": "466404066745",
+    "uikName": "УИК №2234",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2046,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2235,
     "uikTvd": "466404066746",
+    "uikName": "УИК №2235",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2049,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2236,
     "uikTvd": "466404066747",
+    "uikName": "УИК №2236",
     "tikTvd": "366300366745",
     "tikName": "Нижний Тагил, Ленинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 386,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2239,
     "uikTvd": "466404166715",
+    "uikName": "УИК №2239",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2049,
       "Число бюллетеней, полученных участковыми комиссиями": 2015,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2240,
     "uikTvd": "466404166716",
+    "uikName": "УИК №2240",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2252,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2241,
     "uikTvd": "466404166717",
+    "uikName": "УИК №2241",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1526,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2242,
     "uikTvd": "466404166718",
+    "uikName": "УИК №2242",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2243,
     "uikTvd": "466404166719",
+    "uikName": "УИК №2243",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1801,
       "Число бюллетеней, полученных участковыми комиссиями": 1775,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2244,
     "uikTvd": "466404166720",
+    "uikName": "УИК №2244",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2190,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2245,
     "uikTvd": "466404166721",
+    "uikName": "УИК №2245",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2244,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2246,
     "uikTvd": "466404166722",
+    "uikName": "УИК №2246",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1782,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2247,
     "uikTvd": "466404166723",
+    "uikName": "УИК №2247",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2060,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2248,
     "uikTvd": "466404166724",
+    "uikName": "УИК №2248",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1840,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2249,
     "uikTvd": "466404166725",
+    "uikName": "УИК №2249",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1927,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2250,
     "uikTvd": "466404166726",
+    "uikName": "УИК №2250",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1425,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2251,
     "uikTvd": "466404166727",
+    "uikName": "УИК №2251",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2225,
       "Число бюллетеней, полученных участковыми комиссиями": 2225,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2252,
     "uikTvd": "466404166728",
+    "uikName": "УИК №2252",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1931,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2253,
     "uikTvd": "466404166729",
+    "uikName": "УИК №2253",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1922,
       "Число бюллетеней, полученных участковыми комиссиями": 1835,
@@ -3645,8 +4356,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2254,
     "uikTvd": "466404166730",
+    "uikName": "УИК №2254",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -3691,8 +4411,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2255,
     "uikTvd": "466404166731",
+    "uikName": "УИК №2255",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 984,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -3737,8 +4466,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2256,
     "uikTvd": "466404166732",
+    "uikName": "УИК №2256",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1683,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -3783,8 +4521,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2257,
     "uikTvd": "466404166733",
+    "uikName": "УИК №2257",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2350,
       "Число бюллетеней, полученных участковыми комиссиями": 2320,
@@ -3829,8 +4576,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2258,
     "uikTvd": "466404166734",
+    "uikName": "УИК №2258",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1806,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -3875,8 +4631,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2259,
     "uikTvd": "466404166735",
+    "uikName": "УИК №2259",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 848,
       "Число бюллетеней, полученных участковыми комиссиями": 884,
@@ -3921,8 +4686,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2260,
     "uikTvd": "466404166736",
+    "uikName": "УИК №2260",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1936,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -3967,8 +4741,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2261,
     "uikTvd": "466404166737",
+    "uikName": "УИК №2261",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1274,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -4013,8 +4796,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2262,
     "uikTvd": "466404166738",
+    "uikName": "УИК №2262",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1365,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -4059,8 +4851,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2263,
     "uikTvd": "466404166739",
+    "uikName": "УИК №2263",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1512,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4105,8 +4906,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2264,
     "uikTvd": "466404166740",
+    "uikName": "УИК №2264",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1567,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -4151,8 +4961,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2265,
     "uikTvd": "466404166741",
+    "uikName": "УИК №2265",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1643,
       "Число бюллетеней, полученных участковыми комиссиями": 1615,
@@ -4197,8 +5016,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2266,
     "uikTvd": "466404166742",
+    "uikName": "УИК №2266",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1411,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -4243,8 +5071,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2267,
     "uikTvd": "466404166743",
+    "uikName": "УИК №2267",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1713,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4289,8 +5126,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2268,
     "uikTvd": "466404166744",
+    "uikName": "УИК №2268",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2448,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -4335,8 +5181,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2269,
     "uikTvd": "466404166745",
+    "uikName": "УИК №2269",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1990,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -4381,8 +5236,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2270,
     "uikTvd": "466404166746",
+    "uikName": "УИК №2270",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2788,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -4427,8 +5291,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2271,
     "uikTvd": "466404166747",
+    "uikName": "УИК №2271",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2587,
       "Число бюллетеней, полученных участковыми комиссиями": 2580,
@@ -4473,8 +5346,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2272,
     "uikTvd": "466404166748",
+    "uikName": "УИК №2272",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2338,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -4519,8 +5401,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2273,
     "uikTvd": "466404166749",
+    "uikName": "УИК №2273",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2348,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -4565,8 +5456,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2274,
     "uikTvd": "466404166750",
+    "uikName": "УИК №2274",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2536,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -4611,8 +5511,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2275,
     "uikTvd": "466404166751",
+    "uikName": "УИК №2275",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2081,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -4657,8 +5566,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2276,
     "uikTvd": "466404166752",
+    "uikName": "УИК №2276",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2193,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -4703,8 +5621,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2277,
     "uikTvd": "466404166753",
+    "uikName": "УИК №2277",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1987,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -4749,8 +5676,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2278,
     "uikTvd": "466404166754",
+    "uikName": "УИК №2278",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2495,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -4795,8 +5731,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2279,
     "uikTvd": "466404166755",
+    "uikName": "УИК №2279",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2589,
       "Число бюллетеней, полученных участковыми комиссиями": 2580,
@@ -4841,8 +5786,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2280,
     "uikTvd": "466404166756",
+    "uikName": "УИК №2280",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2127,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4887,8 +5841,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2281,
     "uikTvd": "466404166757",
+    "uikName": "УИК №2281",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2455,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -4933,8 +5896,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2282,
     "uikTvd": "466404166758",
+    "uikName": "УИК №2282",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2623,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4979,8 +5951,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2283,
     "uikTvd": "466404166759",
+    "uikName": "УИК №2283",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2470,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -5025,8 +6006,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2284,
     "uikTvd": "466404166760",
+    "uikName": "УИК №2284",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2216,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -5071,8 +6061,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2285,
     "uikTvd": "466404166761",
+    "uikName": "УИК №2285",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2512,
       "Число бюллетеней, полученных участковыми комиссиями": 2519,
@@ -5117,8 +6116,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2286,
     "uikTvd": "466404166762",
+    "uikName": "УИК №2286",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2560,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -5163,8 +6171,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2287,
     "uikTvd": "466404166763",
+    "uikName": "УИК №2287",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2320,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5209,8 +6226,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2288,
     "uikTvd": "466404166764",
+    "uikName": "УИК №2288",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -5255,8 +6281,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2289,
     "uikTvd": "466404166765",
+    "uikName": "УИК №2289",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -5301,8 +6336,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2290,
     "uikTvd": "466404166766",
+    "uikName": "УИК №2290",
     "tikTvd": "366300366746",
     "tikName": "Нижний Тагил, Тагилстроевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2262,
       "Число бюллетеней, полученных участковыми комиссиями": 2275,
@@ -5347,8 +6391,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "466404966681",
+    "uikName": "УИК №648",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -5393,8 +6446,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "466404966682",
+    "uikName": "УИК №649",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -5439,8 +6501,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "466404966683",
+    "uikName": "УИК №650",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1486,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -5485,8 +6556,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "466404966684",
+    "uikName": "УИК №651",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -5531,8 +6611,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "466404966685",
+    "uikName": "УИК №652",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 638,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -5577,8 +6666,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "466404966686",
+    "uikName": "УИК №653",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -5623,8 +6721,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "466404966687",
+    "uikName": "УИК №654",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1289,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -5669,8 +6776,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "466404966688",
+    "uikName": "УИК №655",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -5715,8 +6831,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "466404966689",
+    "uikName": "УИК №656",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1709,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -5761,8 +6886,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "466404966690",
+    "uikName": "УИК №657",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -5807,8 +6941,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "466404966691",
+    "uikName": "УИК №658",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5853,8 +6996,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "466404966692",
+    "uikName": "УИК №659",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 446,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5899,8 +7051,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "466404966693",
+    "uikName": "УИК №660",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -5945,8 +7106,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "466404966694",
+    "uikName": "УИК №661",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -5991,8 +7161,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "466404966695",
+    "uikName": "УИК №662",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -6037,8 +7216,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "466404966696",
+    "uikName": "УИК №663",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -6083,8 +7271,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "466404966697",
+    "uikName": "УИК №664",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -6129,8 +7326,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "466404966698",
+    "uikName": "УИК №665",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -6175,8 +7381,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "466404966699",
+    "uikName": "УИК №666",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -6221,8 +7436,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "466404966700",
+    "uikName": "УИК №667",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6267,8 +7491,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "466404966701",
+    "uikName": "УИК №668",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -6313,8 +7546,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "466404966702",
+    "uikName": "УИК №669",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -6359,8 +7601,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "466404966703",
+    "uikName": "УИК №670",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -6405,8 +7656,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "466404966704",
+    "uikName": "УИК №671",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1422,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6451,8 +7711,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "466404966705",
+    "uikName": "УИК №672",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -6497,8 +7766,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "466404966706",
+    "uikName": "УИК №673",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -6543,8 +7821,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "466404966707",
+    "uikName": "УИК №674",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -6589,8 +7876,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "466404966708",
+    "uikName": "УИК №675",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1562,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -6635,8 +7931,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "466404966709",
+    "uikName": "УИК №676",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2362,
       "Число бюллетеней, полученных участковыми комиссиями": 2390,
@@ -6681,8 +7986,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "466404966710",
+    "uikName": "УИК №677",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -6727,8 +8041,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "466404966711",
+    "uikName": "УИК №678",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -6773,8 +8096,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "466404966712",
+    "uikName": "УИК №679",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -6819,8 +8151,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "466404966713",
+    "uikName": "УИК №680",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -6865,8 +8206,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "466404966714",
+    "uikName": "УИК №681",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -6911,8 +8261,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "466404966715",
+    "uikName": "УИК №682",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 847,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -6957,8 +8316,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "466404966716",
+    "uikName": "УИК №683",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2851,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -7003,8 +8371,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "466404966717",
+    "uikName": "УИК №684",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7049,8 +8426,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "466404966718",
+    "uikName": "УИК №685",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1025,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -7095,8 +8481,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "466404966719",
+    "uikName": "УИК №686",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 889,
       "Число бюллетеней, полученных участковыми комиссиями": 885,
@@ -7141,8 +8536,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "466404966720",
+    "uikName": "УИК №687",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 852,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -7187,8 +8591,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "466404966721",
+    "uikName": "УИК №688",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -7233,8 +8646,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "466404966722",
+    "uikName": "УИК №689",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1149,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -7279,8 +8701,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "466404966723",
+    "uikName": "УИК №690",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 697,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7325,8 +8756,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "466404966724",
+    "uikName": "УИК №691",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7371,8 +8811,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "466404966725",
+    "uikName": "УИК №692",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 717,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -7417,8 +8866,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "466404966726",
+    "uikName": "УИК №693",
     "tikTvd": "366300366747",
     "tikName": "Пригородная",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -7463,8 +8921,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "466403766658",
+    "uikName": "УИК  511",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2342,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -7509,8 +8976,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "466403766659",
+    "uikName": "УИК  512",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2157,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -7555,8 +9031,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "466403766660",
+    "uikName": "УИК  513",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2201,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -7601,8 +9086,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "466403766661",
+    "uikName": "УИК  514",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2223,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -7647,8 +9141,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "466403766662",
+    "uikName": "УИК  515",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2589,
       "Число бюллетеней, полученных участковыми комиссиями": 2335,
@@ -7693,8 +9196,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "466403766663",
+    "uikName": "УИК  516",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7739,8 +9251,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "466403766664",
+    "uikName": "УИК  517",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1555,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -7785,8 +9306,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "466403766665",
+    "uikName": "УИК  518",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1182,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -7831,8 +9361,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "466403766666",
+    "uikName": "УИК  519",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 975,
       "Число бюллетеней, полученных участковыми комиссиями": 875,
@@ -7877,8 +9416,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "466403766667",
+    "uikName": "УИК  520",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 967,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -7923,8 +9471,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "466403766668",
+    "uikName": "УИК  521",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1031,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -7969,8 +9526,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "466403766669",
+    "uikName": "УИК  522",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 777,
       "Число бюллетеней, полученных участковыми комиссиями": 695,
@@ -8015,8 +9581,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "466403766670",
+    "uikName": "УИК  523",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1054,
       "Число бюллетеней, полученных участковыми комиссиями": 915,
@@ -8061,8 +9636,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "466403766671",
+    "uikName": "УИК  524",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -8107,8 +9691,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "466403766672",
+    "uikName": "УИК  525",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -8153,8 +9746,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "466403766673",
+    "uikName": "УИК  526",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -8199,8 +9801,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "466403766674",
+    "uikName": "УИК  527",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2316,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8245,8 +9856,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "466403766675",
+    "uikName": "УИК  528",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2656,
       "Число бюллетеней, полученных участковыми комиссиями": 2390,
@@ -8291,8 +9911,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "466403766676",
+    "uikName": "УИК  529",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2317,
       "Число бюллетеней, полученных участковыми комиссиями": 2055,
@@ -8337,8 +9966,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "466403766677",
+    "uikName": "УИК  530",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 674,
       "Число бюллетеней, полученных участковыми комиссиями": 585,
@@ -8383,8 +10021,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "466403766678",
+    "uikName": "УИК  531",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 297,
@@ -8429,8 +10076,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "466403766679",
+    "uikName": "УИК  532",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -8475,8 +10131,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "466403766680",
+    "uikName": "УИК  533",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1904,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8521,8 +10186,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "466403766681",
+    "uikName": "УИК  534",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 313,
@@ -8567,8 +10241,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "466403766682",
+    "uikName": "УИК  535",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -8613,8 +10296,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "466403766683",
+    "uikName": "УИК  536",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 537,
       "Число бюллетеней, полученных участковыми комиссиями": 487,
@@ -8659,8 +10351,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "466403766684",
+    "uikName": "УИК  537",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -8705,8 +10406,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "466403766685",
+    "uikName": "УИК  538",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -8751,8 +10461,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "466403766686",
+    "uikName": "УИК  539",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 36,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -8797,8 +10516,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "466403766687",
+    "uikName": "УИК  540",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 505,
@@ -8843,8 +10571,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "466403766688",
+    "uikName": "УИК  541",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 357,
@@ -8889,8 +10626,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "466403766689",
+    "uikName": "УИК  542",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -8935,8 +10681,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "466403766690",
+    "uikName": "УИК  543",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 652,
       "Число бюллетеней, полученных участковыми комиссиями": 573,
@@ -8981,8 +10736,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "466403766691",
+    "uikName": "УИК  544",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -9027,8 +10791,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 545,
     "uikTvd": "466403766692",
+    "uikName": "УИК  545",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -9073,8 +10846,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 546,
     "uikTvd": "466403766693",
+    "uikName": "УИК  546",
     "tikTvd": "366300366748",
     "tikName": "Невьянская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -9119,8 +10901,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1974,
     "uikTvd": "466403166656",
+    "uikName": "УИК  1974",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2601,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -9165,8 +10956,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1975,
     "uikTvd": "466403166657",
+    "uikName": "УИК  1975",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2566,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -9211,8 +11011,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1976,
     "uikTvd": "466403166658",
+    "uikName": "УИК  1976",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -9257,8 +11066,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1977,
     "uikTvd": "466403166659",
+    "uikName": "УИК  1977",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1944,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -9303,8 +11121,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1978,
     "uikTvd": "466403166660",
+    "uikName": "УИК  1978",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2345,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -9349,8 +11176,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1979,
     "uikTvd": "466403166661",
+    "uikName": "УИК  1979",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2169,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -9395,8 +11231,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1980,
     "uikTvd": "466403166662",
+    "uikName": "УИК  1980",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1835,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -9441,8 +11286,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1981,
     "uikTvd": "466403166663",
+    "uikName": "УИК  1981",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1773,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -9487,8 +11341,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1982,
     "uikTvd": "466403166664",
+    "uikName": "УИК  1982",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1455,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -9533,8 +11396,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1983,
     "uikTvd": "466403166665",
+    "uikName": "УИК  1983",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2073,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -9579,8 +11451,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1984,
     "uikTvd": "466403166666",
+    "uikName": "УИК  1984",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1578,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -9625,8 +11506,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1985,
     "uikTvd": "466403166667",
+    "uikName": "УИК  1985",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1183,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -9671,8 +11561,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1986,
     "uikTvd": "466403166668",
+    "uikName": "УИК  1986",
     "tikTvd": "366300366749",
     "tikName": "Кировградская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1167,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -9717,8 +11616,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2292,
     "uikTvd": "466403866746",
+    "uikName": "УИК №2292",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1914,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -9763,8 +11671,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2293,
     "uikTvd": "466403866747",
+    "uikName": "УИК №2293",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2049,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -9809,8 +11726,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2294,
     "uikTvd": "466403866748",
+    "uikName": "УИК №2294",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1640,
       "Число бюллетеней, полученных участковыми комиссиями": 1599,
@@ -9855,8 +11781,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2295,
     "uikTvd": "466403866749",
+    "uikName": "УИК №2295",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2545,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -9901,8 +11836,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2296,
     "uikTvd": "466403866750",
+    "uikName": "УИК №2296",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2445,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9947,8 +11891,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2297,
     "uikTvd": "466403866751",
+    "uikName": "УИК №2297",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2368,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -9993,8 +11946,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2298,
     "uikTvd": "466403866752",
+    "uikName": "УИК №2298",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1562,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10039,8 +12001,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2299,
     "uikTvd": "466403866753",
+    "uikName": "УИК №2299",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1343,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -10085,8 +12056,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2300,
     "uikTvd": "466403866754",
+    "uikName": "УИК №2300",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1848,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10131,8 +12111,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2301,
     "uikTvd": "466403866755",
+    "uikName": "УИК №2301",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2097,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10177,8 +12166,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2302,
     "uikTvd": "466403866756",
+    "uikName": "УИК №2302",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 726,
       "Число бюллетеней, полученных участковыми комиссиями": 567,
@@ -10223,8 +12221,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2303,
     "uikTvd": "466403866757",
+    "uikName": "УИК №2303",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1311,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -10269,8 +12276,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2304,
     "uikTvd": "466403866758",
+    "uikName": "УИК №2304",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1428,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -10315,8 +12331,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2305,
     "uikTvd": "466403866759",
+    "uikName": "УИК №2305",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1772,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -10361,8 +12386,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2306,
     "uikTvd": "466403866760",
+    "uikName": "УИК №2306",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2660,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -10407,8 +12441,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2307,
     "uikTvd": "466403866761",
+    "uikName": "УИК №2307",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2412,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -10453,8 +12496,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2308,
     "uikTvd": "466403866762",
+    "uikName": "УИК №2308",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2571,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -10499,8 +12551,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2309,
     "uikTvd": "466403866763",
+    "uikName": "УИК №2309",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2649,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -10545,8 +12606,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2310,
     "uikTvd": "466403866764",
+    "uikName": "УИК №2310",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2675,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -10591,8 +12661,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2311,
     "uikTvd": "466403866765",
+    "uikName": "УИК №2311",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2703,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -10637,8 +12716,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2312,
     "uikTvd": "466403866766",
+    "uikName": "УИК №2312",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2855,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -10683,8 +12771,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2313,
     "uikTvd": "466403866767",
+    "uikName": "УИК №2313",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2842,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -10729,8 +12826,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2314,
     "uikTvd": "466403866768",
+    "uikName": "УИК №2314",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1868,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -10775,8 +12881,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2315,
     "uikTvd": "466403866769",
+    "uikName": "УИК №2315",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1740,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -10821,8 +12936,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2316,
     "uikTvd": "466403866770",
+    "uikName": "УИК №2316",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2049,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -10867,8 +12991,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2317,
     "uikTvd": "466403866771",
+    "uikName": "УИК №2317",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1816,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -10913,8 +13046,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2318,
     "uikTvd": "466403866772",
+    "uikName": "УИК №2318",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1895,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -10959,8 +13101,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2319,
     "uikTvd": "466403866773",
+    "uikName": "УИК №2319",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1707,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -11005,8 +13156,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2320,
     "uikTvd": "466403866774",
+    "uikName": "УИК №2320",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1737,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -11051,8 +13211,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2321,
     "uikTvd": "466403866775",
+    "uikName": "УИК №2321",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1565,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -11097,8 +13266,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2322,
     "uikTvd": "466403866776",
+    "uikName": "УИК №2322",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1594,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -11143,8 +13321,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2323,
     "uikTvd": "466403866777",
+    "uikName": "УИК №2323",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2349,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11189,8 +13376,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2324,
     "uikTvd": "466403866778",
+    "uikName": "УИК №2324",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2595,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -11235,8 +13431,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2325,
     "uikTvd": "466403866779",
+    "uikName": "УИК №2325",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2043,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -11281,8 +13486,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2326,
     "uikTvd": "466403866780",
+    "uikName": "УИК №2326",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2823,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11327,8 +13541,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2327,
     "uikTvd": "466403866781",
+    "uikName": "УИК №2327",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2761,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -11373,8 +13596,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2328,
     "uikTvd": "466403866782",
+    "uikName": "УИК №2328",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11419,8 +13651,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2329,
     "uikTvd": "466403866783",
+    "uikName": "УИК №2329",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1176,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -11465,8 +13706,17 @@ export const duma_2003_uik_428_region_66_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2330,
     "uikTvd": "466403866784",
+    "uikName": "УИК №2330",
     "tikTvd": "366300366750",
     "tikName": "Новоуральская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 164,
+      "oikTvd": "100100095921",
+      "oikName": "Нижнетагильский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 200,

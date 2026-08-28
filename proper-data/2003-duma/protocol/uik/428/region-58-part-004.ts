@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "458400170419",
+    "uikName": "УИК №158",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2072,
       "Число бюллетеней, полученных участковыми комиссиями": 2048,
@@ -57,8 +66,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "458400170420",
+    "uikName": "УИК №159",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1495,
       "Число бюллетеней, полученных участковыми комиссиями": 1473,
@@ -103,8 +121,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "458400170421",
+    "uikName": "УИК №160",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -149,8 +176,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "458400170422",
+    "uikName": "УИК №161",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 735,
       "Число бюллетеней, полученных участковыми комиссиями": 743,
@@ -195,8 +231,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "458400170423",
+    "uikName": "УИК №162",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 476,
       "Число бюллетеней, полученных участковыми комиссиями": 486,
@@ -241,8 +286,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "458400170424",
+    "uikName": "УИК №163",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -287,8 +341,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "458400170425",
+    "uikName": "УИК №164",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 79,
@@ -333,8 +396,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "458400170426",
+    "uikName": "УИК №165",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 353,
@@ -379,8 +451,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "458400170427",
+    "uikName": "УИК №166",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -425,8 +506,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "458400170428",
+    "uikName": "УИК №167",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 478,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -471,8 +561,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "458400170429",
+    "uikName": "УИК №168",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -517,8 +616,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "458400170430",
+    "uikName": "УИК №169",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1153,
       "Число бюллетеней, полученных участковыми комиссиями": 1155,
@@ -563,8 +671,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "458400170431",
+    "uikName": "УИК №170",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 349,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -609,8 +726,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "458400170432",
+    "uikName": "УИК №171",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -655,8 +781,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "458400170433",
+    "uikName": "УИК №172",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -701,8 +836,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "458400170434",
+    "uikName": "УИК №173",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 754,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -747,8 +891,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "458400170435",
+    "uikName": "УИК №174",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 414,
       "Число бюллетеней, полученных участковыми комиссиями": 429,
@@ -793,8 +946,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "458400170436",
+    "uikName": "УИК №175",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -839,8 +1001,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "458400170437",
+    "uikName": "УИК №176",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -885,8 +1056,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "458400170438",
+    "uikName": "УИК №177",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -931,8 +1111,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "458400170439",
+    "uikName": "УИК №178",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -977,8 +1166,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "458400170440",
+    "uikName": "УИК №179",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 378,
@@ -1023,8 +1221,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "458400170441",
+    "uikName": "УИК №180",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -1069,8 +1276,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "458400170442",
+    "uikName": "УИК №181",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1100,
       "Число бюллетеней, полученных участковыми комиссиями": 1113,
@@ -1115,8 +1331,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "458400170443",
+    "uikName": "УИК №182",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -1161,8 +1386,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "458400170444",
+    "uikName": "УИК №183",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 404,
@@ -1207,8 +1441,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "458400170445",
+    "uikName": "УИК №184",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 63,
       "Число бюллетеней, полученных участковыми комиссиями": 67,
@@ -1253,8 +1496,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "458400170446",
+    "uikName": "УИК №185",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1299,8 +1551,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "458400170447",
+    "uikName": "УИК №186",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1002,
       "Число бюллетеней, полученных участковыми комиссиями": 1007,
@@ -1345,8 +1606,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "458400170448",
+    "uikName": "УИК №187",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 146,
@@ -1391,8 +1661,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "458400170449",
+    "uikName": "УИК №188",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 483,
@@ -1437,8 +1716,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "458400170450",
+    "uikName": "УИК №189",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -1483,8 +1771,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "458400170451",
+    "uikName": "УИК №190",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 533,
       "Число бюллетеней, полученных участковыми комиссиями": 533,
@@ -1529,8 +1826,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "458400270825",
+    "uikName": "УИК №191",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -1575,8 +1881,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "458400270826",
+    "uikName": "УИК №192",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -1621,8 +1936,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "458400270827",
+    "uikName": "УИК №193",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 459,
@@ -1667,8 +1991,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "458400270828",
+    "uikName": "УИК №194",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 221,
@@ -1713,8 +2046,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "458400270829",
+    "uikName": "УИК №195",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 101,
@@ -1759,8 +2101,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "458400270830",
+    "uikName": "УИК №196",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -1805,8 +2156,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "458400270831",
+    "uikName": "УИК №197",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 734,
       "Число бюллетеней, полученных участковыми комиссиями": 743,
@@ -1851,8 +2211,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "458400270832",
+    "uikName": "УИК №198",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1897,8 +2266,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "458400270833",
+    "uikName": "УИК №199",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 432,
@@ -1943,8 +2321,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "458400270834",
+    "uikName": "УИК №200",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -1989,8 +2376,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "458400270835",
+    "uikName": "УИК №201",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 338,
@@ -2035,8 +2431,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "458400270836",
+    "uikName": "УИК №202",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 218,
@@ -2081,8 +2486,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "458400270837",
+    "uikName": "УИК №203",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 161,
@@ -2127,8 +2541,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "458400270838",
+    "uikName": "УИК №204",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -2173,8 +2596,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "458400270839",
+    "uikName": "УИК №205",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 428,
@@ -2219,8 +2651,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "458400270840",
+    "uikName": "УИК №206",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -2265,8 +2706,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "458400270841",
+    "uikName": "УИК №207",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 348,
@@ -2311,8 +2761,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "458400270842",
+    "uikName": "УИК №208",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 2045,
@@ -2357,8 +2816,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "458400270843",
+    "uikName": "УИК №209",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1517,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -2403,8 +2871,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "458400270844",
+    "uikName": "УИК №210",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1923,
       "Число бюллетеней, полученных участковыми комиссиями": 1908,
@@ -2449,8 +2926,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "458400370407",
+    "uikName": "УИК №211",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1604,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2495,8 +2981,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "458400370408",
+    "uikName": "УИК №212",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2049,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -2541,8 +3036,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "458400370409",
+    "uikName": "УИК №213",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 997,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -2587,8 +3091,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "458400370410",
+    "uikName": "УИК №214",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1011,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -2633,8 +3146,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "458400370411",
+    "uikName": "УИК №215",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1507,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -2679,8 +3201,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "458400370412",
+    "uikName": "УИК №216",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1354,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -2725,8 +3256,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "458400370413",
+    "uikName": "УИК №217",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -2771,8 +3311,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "458400370414",
+    "uikName": "УИК №218",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -2817,8 +3366,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "458400370415",
+    "uikName": "УИК №219",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 544,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -2863,8 +3421,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "458400370416",
+    "uikName": "УИК №220",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -2909,8 +3476,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "458400370417",
+    "uikName": "УИК №221",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -2955,8 +3531,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "458400370418",
+    "uikName": "УИК №222",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -3001,8 +3586,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "458400370419",
+    "uikName": "УИК №223",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -3047,8 +3641,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "458400370420",
+    "uikName": "УИК №224",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -3093,8 +3696,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "458400370421",
+    "uikName": "УИК №225",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -3139,8 +3751,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "458400370422",
+    "uikName": "УИК №226",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -3185,8 +3806,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "458400370423",
+    "uikName": "УИК №227",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 395,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -3231,8 +3861,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "458400370424",
+    "uikName": "УИК №228",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 619,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -3277,8 +3916,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "458400370425",
+    "uikName": "УИК №229",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 666,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -3323,8 +3971,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "458400370426",
+    "uikName": "УИК №230",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 887,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -3369,8 +4026,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "458400370427",
+    "uikName": "УИК №231",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3415,8 +4081,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "458400370428",
+    "uikName": "УИК №232",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -3461,8 +4136,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "458400470531",
+    "uikName": "УИК №233",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2495,
       "Число бюллетеней, полученных участковыми комиссиями": 2483,
@@ -3507,8 +4191,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "458400470532",
+    "uikName": "УИК №234",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2327,
       "Число бюллетеней, полученных участковыми комиссиями": 2298,
@@ -3553,8 +4246,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "458400470533",
+    "uikName": "УИК №235",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -3599,8 +4301,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "458400470534",
+    "uikName": "УИК №236",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 586,
@@ -3645,8 +4356,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "458400470535",
+    "uikName": "УИК №237",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 423,
@@ -3691,8 +4411,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "458400470536",
+    "uikName": "УИК №238",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -3737,8 +4466,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "458400470537",
+    "uikName": "УИК №239",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -3783,8 +4521,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "458400470538",
+    "uikName": "УИК №240",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 663,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -3829,8 +4576,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "458400470539",
+    "uikName": "УИК №241",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1010,
       "Число бюллетеней, полученных участковыми комиссиями": 1017,
@@ -3875,8 +4631,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "458400470540",
+    "uikName": "УИК №242",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 486,
@@ -3921,8 +4686,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "458400470541",
+    "uikName": "УИК №243",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 871,
       "Число бюллетеней, полученных участковыми комиссиями": 874,
@@ -3967,8 +4741,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "458400470542",
+    "uikName": "УИК №244",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 467,
@@ -4013,8 +4796,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "458400470543",
+    "uikName": "УИК №245",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 382,
@@ -4059,8 +4851,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "458400470544",
+    "uikName": "УИК №246",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 635,
       "Число бюллетеней, полученных участковыми комиссиями": 635,
@@ -4105,8 +4906,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "458400470545",
+    "uikName": "УИК №247",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -4151,8 +4961,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "458400470546",
+    "uikName": "УИК №248",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 491,
       "Число бюллетеней, полученных участковыми комиссиями": 491,
@@ -4197,8 +5016,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "458400470547",
+    "uikName": "УИК №249",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -4243,8 +5071,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "458400470548",
+    "uikName": "УИК №250",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -4289,8 +5126,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "458400470549",
+    "uikName": "УИК №251",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 327,
@@ -4335,8 +5181,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "458400470550",
+    "uikName": "УИК №252",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -4381,8 +5236,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "458400470551",
+    "uikName": "УИК №253",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 885,
       "Число бюллетеней, полученных участковыми комиссиями": 891,
@@ -4427,8 +5291,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "458400470552",
+    "uikName": "УИК №254",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 926,
       "Число бюллетеней, полученных участковыми комиссиями": 923,
@@ -4473,8 +5346,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "458400470553",
+    "uikName": "УИК №255",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 57,
       "Число бюллетеней, полученных участковыми комиссиями": 58,
@@ -4519,8 +5401,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "458400470554",
+    "uikName": "УИК №256",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -4565,8 +5456,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "458400470555",
+    "uikName": "УИК №257",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4611,8 +5511,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "458400470556",
+    "uikName": "УИК №258",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 967,
       "Число бюллетеней, полученных участковыми комиссиями": 973,
@@ -4657,8 +5566,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "458400470557",
+    "uikName": "УИК №259",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2418,
       "Число бюллетеней, полученных участковыми комиссиями": 2429,
@@ -4703,8 +5621,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "458400470558",
+    "uikName": "УИК №260",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 566,
@@ -4749,8 +5676,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "458400470559",
+    "uikName": "УИК №261",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -4795,8 +5731,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "458400470560",
+    "uikName": "УИК №262",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -4841,8 +5786,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "458400470561",
+    "uikName": "УИК №263",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1564,
       "Число бюллетеней, полученных участковыми комиссиями": 1568,
@@ -4887,8 +5841,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "458400470562",
+    "uikName": "УИК №264",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 601,
       "Число бюллетеней, полученных участковыми комиссиями": 602,
@@ -4933,8 +5896,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "458400470563",
+    "uikName": "УИК №265",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 629,
@@ -4979,8 +5951,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "458400470564",
+    "uikName": "УИК №266",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -5025,8 +6006,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "458400470565",
+    "uikName": "УИК №267",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 547,
@@ -5071,8 +6061,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "458400470566",
+    "uikName": "УИК №268",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -5117,8 +6116,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "458400470567",
+    "uikName": "УИК №269",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -5163,8 +6171,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "458400470568",
+    "uikName": "УИК №270",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 71,
@@ -5209,8 +6226,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "458400470569",
+    "uikName": "УИК №271",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 513,
@@ -5255,8 +6281,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "458400470570",
+    "uikName": "УИК №272",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -5301,8 +6336,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "458400470571",
+    "uikName": "УИК №273",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -5347,8 +6391,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "458400470572",
+    "uikName": "УИК №274",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 353,
@@ -5393,8 +6446,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "458400470573",
+    "uikName": "УИК №275",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -5439,8 +6501,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "458400470574",
+    "uikName": "УИК №276",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -5485,8 +6556,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "458400570489",
+    "uikName": "УИК №277",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -5531,8 +6611,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "458400570490",
+    "uikName": "УИК №278",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1015,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -5577,8 +6666,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "458400570491",
+    "uikName": "УИК №279",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1390,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5623,8 +6721,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "458400570492",
+    "uikName": "УИК №280",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1308,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5669,8 +6776,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "458400570493",
+    "uikName": "УИК №281",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -5715,8 +6831,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "458400570494",
+    "uikName": "УИК №282",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1224,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -5761,8 +6886,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "458400570495",
+    "uikName": "УИК №283",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1070,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -5807,8 +6941,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "458400570496",
+    "uikName": "УИК №284",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1354,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -5853,8 +6996,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "458400570497",
+    "uikName": "УИК №285",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 712,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5899,8 +7051,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "458400570498",
+    "uikName": "УИК №286",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -5945,8 +7106,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "458400570499",
+    "uikName": "УИК №287",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1372,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -5991,8 +7161,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "458400570500",
+    "uikName": "УИК №288",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 446,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -6037,8 +7216,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "458400570501",
+    "uikName": "УИК №289",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -6083,8 +7271,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "458400570502",
+    "uikName": "УИК №290",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 876,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -6129,8 +7326,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "458400570503",
+    "uikName": "УИК №291",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 790,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -6175,8 +7381,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "458400570504",
+    "uikName": "УИК №292",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 768,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -6221,8 +7436,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "458400570505",
+    "uikName": "УИК №293",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 858,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -6267,8 +7491,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "458400570506",
+    "uikName": "УИК №294",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 925,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -6313,8 +7546,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "458400570507",
+    "uikName": "УИК №295",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 747,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -6359,8 +7601,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "458400570508",
+    "uikName": "УИК №296",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1061,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -6405,8 +7656,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "458400570509",
+    "uikName": "УИК №297",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1380,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -6451,8 +7711,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "458400570510",
+    "uikName": "УИК №298",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 515,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -6497,8 +7766,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "458400570511",
+    "uikName": "УИК №299",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 529,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -6543,8 +7821,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "458400570512",
+    "uikName": "УИК №300",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 687,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -6589,8 +7876,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "458400570513",
+    "uikName": "УИК №301",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 899,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -6635,8 +7931,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "458400570514",
+    "uikName": "УИК №302",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -6681,8 +7986,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "458400570515",
+    "uikName": "УИК №303",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -6727,8 +8041,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "458400570516",
+    "uikName": "УИК №304",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6773,8 +8096,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "458400570517",
+    "uikName": "УИК №305",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1494,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6819,8 +8151,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "458400570518",
+    "uikName": "УИК №306",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1000,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -6865,8 +8206,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "458400570519",
+    "uikName": "УИК №307",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 642,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -6911,8 +8261,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "458400570520",
+    "uikName": "УИК №308",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 896,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -6957,8 +8316,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "458400570521",
+    "uikName": "УИК №309",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7003,8 +8371,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "458400570522",
+    "uikName": "УИК №310",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2119,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -7049,8 +8426,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "458400570523",
+    "uikName": "УИК №311",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2092,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7095,8 +8481,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "458400570524",
+    "uikName": "УИК №312",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -7141,8 +8536,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "458400570525",
+    "uikName": "УИК №313",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 608,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7187,8 +8591,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "458400670442",
+    "uikName": "УИК №314",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 337,
@@ -7233,8 +8646,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "458400670443",
+    "uikName": "УИК №315",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 273,
@@ -7279,8 +8701,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "458400670444",
+    "uikName": "УИК №316",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 113,
@@ -7325,8 +8756,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "458400670445",
+    "uikName": "УИК №317",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 804,
       "Число бюллетеней, полученных участковыми комиссиями": 797,
@@ -7371,8 +8811,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "458400670446",
+    "uikName": "УИК №318",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 804,
       "Число бюллетеней, полученных участковыми комиссиями": 806,
@@ -7417,8 +8866,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "458400670447",
+    "uikName": "УИК №319",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1080,
       "Число бюллетеней, полученных участковыми комиссиями": 1073,
@@ -7463,8 +8921,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "458400670448",
+    "uikName": "УИК №320",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 999,
       "Число бюллетеней, полученных участковыми комиссиями": 1001,
@@ -7509,8 +8976,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "458400670449",
+    "uikName": "УИК №321",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 88,
@@ -7555,8 +9031,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "458400670450",
+    "uikName": "УИК №322",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 312,
@@ -7601,8 +9086,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "458400670451",
+    "uikName": "УИК №323",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 427,
@@ -7647,8 +9141,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "458400670452",
+    "uikName": "УИК №324",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 73,
@@ -7693,8 +9196,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "458400670453",
+    "uikName": "УИК №325",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 374,
@@ -7739,8 +9251,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "458400670454",
+    "uikName": "УИК №326",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -7785,8 +9306,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "458400670455",
+    "uikName": "УИК №327",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -7831,8 +9361,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "458400670456",
+    "uikName": "УИК №328",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -7877,8 +9416,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "458400670457",
+    "uikName": "УИК №329",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -7923,8 +9471,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "458400670458",
+    "uikName": "УИК №330",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 324,
@@ -7969,8 +9526,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "458400670459",
+    "uikName": "УИК №331",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 580,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -8015,8 +9581,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "458400670460",
+    "uikName": "УИК №332",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 317,
@@ -8061,8 +9636,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "458400670461",
+    "uikName": "УИК №333",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 129,
@@ -8107,8 +9691,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "458400670462",
+    "uikName": "УИК №334",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 339,
@@ -8153,8 +9746,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "458400670463",
+    "uikName": "УИК №335",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -8199,8 +9801,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "458400670464",
+    "uikName": "УИК №336",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -8245,8 +9856,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "458400872068",
+    "uikName": "УИК №337",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1668,
       "Число бюллетеней, полученных участковыми комиссиями": 1669,
@@ -8291,8 +9911,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "458400872069",
+    "uikName": "УИК №338",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1083,
       "Число бюллетеней, полученных участковыми комиссиями": 1085,
@@ -8337,8 +9966,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "458400872070",
+    "uikName": "УИК №339",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1935,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -8383,8 +10021,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "458400872071",
+    "uikName": "УИК №340",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1164,
       "Число бюллетеней, полученных участковыми комиссиями": 1163,
@@ -8429,8 +10076,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "458400872072",
+    "uikName": "УИК №341",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1955,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -8475,8 +10131,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "458400872073",
+    "uikName": "УИК №342",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2184,
       "Число бюллетеней, полученных участковыми комиссиями": 2188,
@@ -8521,8 +10186,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "458400872074",
+    "uikName": "УИК №343",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 960,
       "Число бюллетеней, полученных участковыми комиссиями": 965,
@@ -8567,8 +10241,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "458400872075",
+    "uikName": "УИК №344",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 665,
       "Число бюллетеней, полученных участковыми комиссиями": 668,
@@ -8613,8 +10296,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "458400872076",
+    "uikName": "УИК №345",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 774,
       "Число бюллетеней, полученных участковыми комиссиями": 777,
@@ -8659,8 +10351,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "458400872077",
+    "uikName": "УИК №346",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -8705,8 +10406,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "458400872078",
+    "uikName": "УИК №347",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -8751,8 +10461,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "458400872079",
+    "uikName": "УИК №348",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8797,8 +10516,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "458400872080",
+    "uikName": "УИК №349",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 755,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -8843,8 +10571,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "458400872081",
+    "uikName": "УИК №350",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 219,
@@ -8889,8 +10626,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "458400872082",
+    "uikName": "УИК №351",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 213,
@@ -8935,8 +10681,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "458400872083",
+    "uikName": "УИК №352",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 936,
       "Число бюллетеней, полученных участковыми комиссиями": 941,
@@ -8981,8 +10736,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "458400872084",
+    "uikName": "УИК №353",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 569,
@@ -9027,8 +10791,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "458400872085",
+    "uikName": "УИК №354",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 414,
       "Число бюллетеней, полученных участковыми комиссиями": 411,
@@ -9073,8 +10846,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "458400872086",
+    "uikName": "УИК №355",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 143,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -9119,8 +10901,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "458400872087",
+    "uikName": "УИК №356",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -9165,8 +10956,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "458400872088",
+    "uikName": "УИК №357",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -9211,8 +11011,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "458400872089",
+    "uikName": "УИК №358",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -9257,8 +11066,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "458400872090",
+    "uikName": "УИК №359",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -9303,8 +11121,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "458400872091",
+    "uikName": "УИК №360",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -9349,8 +11176,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "458400872092",
+    "uikName": "УИК №361",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 515,
       "Число бюллетеней, полученных участковыми комиссиями": 513,
@@ -9395,8 +11231,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "458400872093",
+    "uikName": "УИК №362",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -9441,8 +11286,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "458400872094",
+    "uikName": "УИК №363",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 238,
@@ -9487,8 +11341,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "458400872095",
+    "uikName": "УИК №364",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 722,
       "Число бюллетеней, полученных участковыми комиссиями": 723,
@@ -9533,8 +11396,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "458400872096",
+    "uikName": "УИК №365",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 249,
@@ -9579,8 +11451,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "458400872097",
+    "uikName": "УИК №366",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 151,
@@ -9625,8 +11506,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "458400872098",
+    "uikName": "УИК №367",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 593,
       "Число бюллетеней, полученных участковыми комиссиями": 593,
@@ -9671,8 +11561,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "458400872099",
+    "uikName": "УИК №368",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 764,
       "Число бюллетеней, полученных участковыми комиссиями": 767,
@@ -9717,8 +11616,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "458400872100",
+    "uikName": "УИК №369",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 385,
       "Число бюллетеней, полученных участковыми комиссиями": 386,
@@ -9763,8 +11671,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "458400872101",
+    "uikName": "УИК №370",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1644,
       "Число бюллетеней, полученных участковыми комиссиями": 1614,
@@ -9809,8 +11726,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "458400970422",
+    "uikName": "УИК  371",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 813,
       "Число бюллетеней, полученных участковыми комиссиями": 803,
@@ -9855,8 +11781,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "458400970423",
+    "uikName": "УИК  372",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 86,
@@ -9901,8 +11836,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "458400970424",
+    "uikName": "УИК  373",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 171,
@@ -9947,8 +11891,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "458400970425",
+    "uikName": "УИК  374",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -9993,8 +11946,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "458400970426",
+    "uikName": "УИК  375",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -10039,8 +12001,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "458400970427",
+    "uikName": "УИК  376",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 272,
@@ -10085,8 +12056,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "458400970428",
+    "uikName": "УИК  377",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -10131,8 +12111,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "458400970429",
+    "uikName": "УИК  378",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 421,
@@ -10177,8 +12166,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "458400970430",
+    "uikName": "УИК  379",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -10223,8 +12221,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "458400970431",
+    "uikName": "УИК  380",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -10269,8 +12276,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "458400970432",
+    "uikName": "УИК  381",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10315,8 +12331,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "458400970433",
+    "uikName": "УИК  382",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1384,
       "Число бюллетеней, полученных участковыми комиссиями": 1378,
@@ -10361,8 +12386,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "458400970434",
+    "uikName": "УИК  383",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1459,
       "Число бюллетеней, полученных участковыми комиссиями": 1434,
@@ -10407,8 +12441,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "458400970435",
+    "uikName": "УИК  384",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1628,
       "Число бюллетеней, полученных участковыми комиссиями": 1596,
@@ -10453,8 +12496,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "458400970436",
+    "uikName": "УИК  385",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -10499,8 +12551,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "458400970437",
+    "uikName": "УИК  386",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 394,
@@ -10545,8 +12606,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "458400970438",
+    "uikName": "УИК  387",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -10591,8 +12661,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "458400970441",
+    "uikName": "УИК  388",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 296,
@@ -10637,8 +12716,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "458400970439",
+    "uikName": "УИК  389",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -10683,8 +12771,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "458400970440",
+    "uikName": "УИК  390",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -10729,8 +12826,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "458400970442",
+    "uikName": "УИК  391",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 388,
       "Число бюллетеней, полученных участковыми комиссиями": 386,
@@ -10775,8 +12881,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "458400970443",
+    "uikName": "УИК  392",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 148,
@@ -10821,8 +12936,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "458400970444",
+    "uikName": "УИК  393",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 406,
@@ -10867,8 +12991,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "458400970445",
+    "uikName": "УИК  394",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 238,
@@ -10913,8 +13046,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "458400970446",
+    "uikName": "УИК  395",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 274,
@@ -10959,8 +13101,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "458401070486",
+    "uikName": "УИК №396",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 401,
@@ -11005,8 +13156,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "458401070532",
+    "uikName": "УИК №397",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -11051,8 +13211,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "458401070533",
+    "uikName": "УИК №398",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 368,
@@ -11097,8 +13266,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "458401070534",
+    "uikName": "УИК №399",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 774,
       "Число бюллетеней, полученных участковыми комиссиями": 774,
@@ -11143,8 +13321,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "458401070535",
+    "uikName": "УИК №400",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 915,
       "Число бюллетеней, полученных участковыми комиссиями": 936,
@@ -11189,8 +13376,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "458401070536",
+    "uikName": "УИК №401",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -11235,8 +13431,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "458401070537",
+    "uikName": "УИК №402",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -11281,8 +13486,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "458401070538",
+    "uikName": "УИК №403",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -11327,8 +13541,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "458401070539",
+    "uikName": "УИК №404",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 588,
       "Число бюллетеней, полученных участковыми комиссиями": 594,
@@ -11373,8 +13596,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "458401070540",
+    "uikName": "УИК №405",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 448,
@@ -11419,8 +13651,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "458401070541",
+    "uikName": "УИК №406",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -11465,8 +13706,17 @@ export const duma_2003_uik_428_region_58_part_004 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "458401070542",
+    "uikName": "УИК №407",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
+    "district": {
+      "districtNumber": 135,
+      "oikTvd": "100100095763",
+      "oikName": "Железнодорожный"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 233,

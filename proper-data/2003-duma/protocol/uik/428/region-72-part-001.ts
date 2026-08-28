@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "472400166727",
+    "uikName": "УИК №1",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2266,
       "Число бюллетеней, полученных участковыми комиссиями": 2258,
@@ -56,8 +65,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "472400166728",
+    "uikName": "УИК №2",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2060,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -101,8 +119,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "472400166729",
+    "uikName": "УИК №3",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1941,
       "Число бюллетеней, полученных участковыми комиссиями": 1914,
@@ -146,8 +173,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "472400166730",
+    "uikName": "УИК №4",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 561,
       "Число бюллетеней, полученных участковыми комиссиями": 563,
@@ -191,8 +227,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "472400166731",
+    "uikName": "УИК №5",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -236,8 +281,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "472400166863",
+    "uikName": "УИК  6",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -281,8 +335,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "472400166864",
+    "uikName": "УИК  7",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 424,
@@ -326,8 +389,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "472400166865",
+    "uikName": "УИК  8",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -371,8 +443,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "472400166866",
+    "uikName": "УИК  9",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -416,8 +497,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "472400166867",
+    "uikName": "УИК  10",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -461,8 +551,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "472400166868",
+    "uikName": "УИК  11",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -506,8 +605,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "472400166915",
+    "uikName": "УИК №12",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -551,8 +659,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "472400166916",
+    "uikName": "УИК №13",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 209,
@@ -596,8 +713,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "472400166917",
+    "uikName": "УИК №14",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -641,8 +767,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "472400166918",
+    "uikName": "УИК №15",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -686,8 +821,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "472400166919",
+    "uikName": "УИК №16",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -731,8 +875,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "472400166920",
+    "uikName": "УИК №17",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 101,
@@ -776,8 +929,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "472400166921",
+    "uikName": "УИК №18",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 154,
@@ -821,8 +983,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "472400166922",
+    "uikName": "УИК №19",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 593,
       "Число бюллетеней, полученных участковыми комиссиями": 596,
@@ -866,8 +1037,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "472400166923",
+    "uikName": "УИК №20",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -911,8 +1091,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "472400166924",
+    "uikName": "УИК №21",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 161,
@@ -956,8 +1145,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "472400166925",
+    "uikName": "УИК №22",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 129,
@@ -1001,8 +1199,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "472400166926",
+    "uikName": "УИК №23",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 658,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -1046,8 +1253,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "472400166927",
+    "uikName": "УИК №24",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -1091,8 +1307,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "472400166928",
+    "uikName": "УИК №25",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -1136,8 +1361,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "472400166929",
+    "uikName": "УИК №26",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 63,
@@ -1181,8 +1415,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "472400166930",
+    "uikName": "УИК №27",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 54,
       "Число бюллетеней, полученных участковыми комиссиями": 53,
@@ -1226,8 +1469,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "472400166931",
+    "uikName": "УИК №28",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 42,
       "Число бюллетеней, полученных участковыми комиссиями": 44,
@@ -1271,8 +1523,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "472400166932",
+    "uikName": "УИК №29",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 769,
       "Число бюллетеней, полученных участковыми комиссиями": 778,
@@ -1316,8 +1577,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "472400166933",
+    "uikName": "УИК №30",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 66,
@@ -1361,8 +1631,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "472400166934",
+    "uikName": "УИК №31",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -1406,8 +1685,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "472400166935",
+    "uikName": "УИК №32",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -1451,8 +1739,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "472400166936",
+    "uikName": "УИК №33",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -1496,8 +1793,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "472400166937",
+    "uikName": "УИК №34",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -1541,8 +1847,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "472400166938",
+    "uikName": "УИК №35",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -1586,8 +1901,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "472400166939",
+    "uikName": "УИК №36",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 594,
@@ -1631,8 +1955,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "472400166940",
+    "uikName": "УИК №37",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -1676,8 +2009,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "472400166941",
+    "uikName": "УИК №38",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -1721,8 +2063,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "472400166942",
+    "uikName": "УИК №39",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -1766,8 +2117,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "472400166943",
+    "uikName": "УИК №40",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -1811,8 +2171,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "472400166944",
+    "uikName": "УИК №41",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 449,
       "Число бюллетеней, полученных участковыми комиссиями": 446,
@@ -1856,8 +2225,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "472400166945",
+    "uikName": "УИК №42",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -1901,8 +2279,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "472400166946",
+    "uikName": "УИК №43",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -1946,8 +2333,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "472400166947",
+    "uikName": "УИК №44",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 464,
@@ -1991,8 +2387,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "472400166948",
+    "uikName": "УИК №45",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -2036,8 +2441,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "472400166949",
+    "uikName": "УИК №46",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -2081,8 +2495,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "472400166950",
+    "uikName": "УИК №47",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -2126,8 +2549,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "472400166951",
+    "uikName": "УИК №48",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 179,
@@ -2171,8 +2603,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "472400166952",
+    "uikName": "УИК №49",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -2216,8 +2657,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "472400166953",
+    "uikName": "УИК №50",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 544,
@@ -2261,8 +2711,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "472400166954",
+    "uikName": "УИК №51",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -2306,8 +2765,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "472400166955",
+    "uikName": "УИК №52",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -2351,8 +2819,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "472400166956",
+    "uikName": "УИК №53",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -2396,8 +2873,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "472400166957",
+    "uikName": "УИК №54",
     "tikTvd": "372300166670",
     "tikName": "Абатская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2441,8 +2927,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "472400266768",
+    "uikName": "УИК №55",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1673,
       "Число бюллетеней, полученных участковыми комиссиями": 1468,
@@ -2486,8 +2981,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "472400266769",
+    "uikName": "УИК №56",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 734,
       "Число бюллетеней, полученных участковыми комиссиями": 656,
@@ -2531,8 +3035,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "472400266770",
+    "uikName": "УИК №57",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 996,
       "Число бюллетеней, полученных участковыми комиссиями": 879,
@@ -2576,8 +3089,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "472400266771",
+    "uikName": "УИК №58",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 93,
@@ -2621,8 +3143,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "472400266772",
+    "uikName": "УИК №59",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -2666,8 +3197,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "472400266924",
+    "uikName": "УИК №60",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -2711,8 +3251,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "472400266925",
+    "uikName": "УИК №61",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 329,
@@ -2756,8 +3305,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "472400266926",
+    "uikName": "УИК №62",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2801,8 +3359,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "472400266927",
+    "uikName": "УИК №63",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -2846,8 +3413,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "472400266928",
+    "uikName": "УИК №64",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 396,
@@ -2891,8 +3467,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "472400266929",
+    "uikName": "УИК №65",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -2936,8 +3521,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "472400266930",
+    "uikName": "УИК №66",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 221,
@@ -2981,8 +3575,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "472400266931",
+    "uikName": "УИК №67",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 268,
@@ -3026,8 +3629,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "472400266932",
+    "uikName": "УИК №68",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 76,
@@ -3071,8 +3683,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "472400266933",
+    "uikName": "УИК №69",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 52,
       "Число бюллетеней, полученных участковыми комиссиями": 53,
@@ -3116,8 +3737,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "472400266934",
+    "uikName": "УИК №70",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 58,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -3161,8 +3791,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "472400266935",
+    "uikName": "УИК №71",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 492,
       "Число бюллетеней, полученных участковыми комиссиями": 444,
@@ -3206,8 +3845,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "472400266936",
+    "uikName": "УИК №72",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 99,
@@ -3251,8 +3899,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "472400266937",
+    "uikName": "УИК №73",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -3296,8 +3953,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "472400266938",
+    "uikName": "УИК №74",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 162,
@@ -3341,8 +4007,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "472400266939",
+    "uikName": "УИК №75",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -3386,8 +4061,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "472400266940",
+    "uikName": "УИК №76",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -3431,8 +4115,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "472400266941",
+    "uikName": "УИК №77",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 36,
       "Число бюллетеней, полученных участковыми комиссиями": 37,
@@ -3476,8 +4169,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "472400266942",
+    "uikName": "УИК №78",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 383,
@@ -3521,8 +4223,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "472400266943",
+    "uikName": "УИК №79",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 44,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -3566,8 +4277,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "472400266944",
+    "uikName": "УИК №80",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -3611,8 +4331,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "472400266945",
+    "uikName": "УИК №81",
     "tikTvd": "372300166671",
     "tikName": "Армизонская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 57,
       "Число бюллетеней, полученных участковыми комиссиями": 57,
@@ -3656,8 +4385,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "472400366896",
+    "uikName": "УИК №82",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 905,
       "Число бюллетеней, полученных участковыми комиссиями": 865,
@@ -3701,8 +4439,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "472400366897",
+    "uikName": "УИК №83",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -3746,8 +4493,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "472400366898",
+    "uikName": "УИК №84",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1078,
       "Число бюллетеней, полученных участковыми комиссиями": 1073,
@@ -3791,8 +4547,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "472400366899",
+    "uikName": "УИК №85",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 926,
       "Число бюллетеней, полученных участковыми комиссиями": 958,
@@ -3836,8 +4601,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "472400366900",
+    "uikName": "УИК №86",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 821,
       "Число бюллетеней, полученных участковыми комиссиями": 782,
@@ -3881,8 +4655,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "472400366901",
+    "uikName": "УИК №87",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -3926,8 +4709,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "472400366867",
+    "uikName": "УИК №88",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -3971,8 +4763,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "472400366902",
+    "uikName": "УИК №89",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 129,
@@ -4016,8 +4817,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "472400366747",
+    "uikName": "УИК №90",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -4061,8 +4871,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "472400366903",
+    "uikName": "УИК №91",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 544,
       "Число бюллетеней, полученных участковыми комиссиями": 553,
@@ -4106,8 +4925,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "472400366749",
+    "uikName": "УИК №92",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -4151,8 +4979,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "472400366750",
+    "uikName": "УИК №93",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -4196,8 +5033,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "472400366904",
+    "uikName": "УИК №94",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -4241,8 +5087,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "472400366751",
+    "uikName": "УИК №95",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -4286,8 +5141,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "472400366905",
+    "uikName": "УИК №96",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 588,
       "Число бюллетеней, полученных участковыми комиссиями": 585,
@@ -4331,8 +5195,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "472400366906",
+    "uikName": "УИК №97",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -4376,8 +5249,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "472400366907",
+    "uikName": "УИК №98",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -4421,8 +5303,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "472400366908",
+    "uikName": "УИК №99",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -4466,8 +5357,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "472400366909",
+    "uikName": "УИК №100",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -4511,8 +5411,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "472400366910",
+    "uikName": "УИК №101",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -4556,8 +5465,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "472400366752",
+    "uikName": "УИК №102",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -4601,8 +5519,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "472400366911",
+    "uikName": "УИК №103",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -4646,8 +5573,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "472400366912",
+    "uikName": "УИК №104",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 71,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -4691,8 +5627,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "472400366913",
+    "uikName": "УИК №105",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -4736,8 +5681,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "472400366914",
+    "uikName": "УИК №106",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 359,
@@ -4781,8 +5735,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "472400366915",
+    "uikName": "УИК №107",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 337,
@@ -4826,8 +5789,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "472400366916",
+    "uikName": "УИК №108",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 388,
       "Число бюллетеней, полученных участковыми комиссиями": 379,
@@ -4871,8 +5843,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "472400366917",
+    "uikName": "УИК №109",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -4916,8 +5897,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "472400366918",
+    "uikName": "УИК №110",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 537,
@@ -4961,8 +5951,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "472400366919",
+    "uikName": "УИК №111",
     "tikTvd": "372300166672",
     "tikName": "Аромашевская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 506,
       "Число бюллетеней, полученных участковыми комиссиями": 506,
@@ -5006,8 +6005,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "472400466787",
+    "uikName": "УИК №112",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 933,
       "Число бюллетеней, полученных участковыми комиссиями": 928,
@@ -5051,8 +6059,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "472400466788",
+    "uikName": "УИК №113",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 384,
@@ -5096,8 +6113,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "472400466789",
+    "uikName": "УИК №114",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 624,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -5141,8 +6167,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "472400466790",
+    "uikName": "УИК №115",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 576,
       "Число бюллетеней, полученных участковыми комиссиями": 572,
@@ -5186,8 +6221,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "472400466791",
+    "uikName": "УИК №116",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 537,
@@ -5231,8 +6275,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "472400466953",
+    "uikName": "УИК №117",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 481,
@@ -5276,8 +6329,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "472400466955",
+    "uikName": "УИК №118",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 522,
@@ -5321,8 +6383,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "472400466956",
+    "uikName": "УИК №119",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -5366,8 +6437,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "472400466957",
+    "uikName": "УИК №120",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -5411,8 +6491,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "472400466958",
+    "uikName": "УИК №121",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 58,
       "Число бюллетеней, полученных участковыми комиссиями": 59,
@@ -5456,8 +6545,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "472400466959",
+    "uikName": "УИК №122",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 422,
@@ -5501,8 +6599,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "472400466960",
+    "uikName": "УИК №123",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 229,
@@ -5546,8 +6653,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "472400466961",
+    "uikName": "УИК №124",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 439,
@@ -5591,8 +6707,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "472400466962",
+    "uikName": "УИК №125",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -5636,8 +6761,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "472400466963",
+    "uikName": "УИК №126",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -5681,8 +6815,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "472400466964",
+    "uikName": "УИК №127",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -5726,8 +6869,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "472400466965",
+    "uikName": "УИК №128",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -5771,8 +6923,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "472400466966",
+    "uikName": "УИК №129",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 86,
@@ -5816,8 +6977,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "472400466967",
+    "uikName": "УИК №130",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 700,
       "Число бюллетеней, полученных участковыми комиссиями": 706,
@@ -5861,8 +7031,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "472400466968",
+    "uikName": "УИК №131",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -5906,8 +7085,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "472400466969",
+    "uikName": "УИК №132",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 640,
       "Число бюллетеней, полученных участковыми комиссиями": 643,
@@ -5951,8 +7139,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "472400466970",
+    "uikName": "УИК №133",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -5996,8 +7193,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "472400466971",
+    "uikName": "УИК №134",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -6041,8 +7247,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "472400466972",
+    "uikName": "УИК №135",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 22,
       "Число бюллетеней, полученных участковыми комиссиями": 24,
@@ -6086,8 +7301,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "472400466973",
+    "uikName": "УИК №136",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -6131,8 +7355,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "472400466974",
+    "uikName": "УИК №137",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 627,
       "Число бюллетеней, полученных участковыми комиссиями": 628,
@@ -6176,8 +7409,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "472400466975",
+    "uikName": "УИК №138",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 43,
       "Число бюллетеней, полученных участковыми комиссиями": 44,
@@ -6221,8 +7463,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "472400466976",
+    "uikName": "УИК №139",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 96,
@@ -6266,8 +7517,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "472400466977",
+    "uikName": "УИК №140",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 51,
       "Число бюллетеней, полученных участковыми комиссиями": 52,
@@ -6311,8 +7571,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "472400466978",
+    "uikName": "УИК №141",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -6356,8 +7625,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "472400466979",
+    "uikName": "УИК №142",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -6401,8 +7679,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "472400466980",
+    "uikName": "УИК №143",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 58,
       "Число бюллетеней, полученных участковыми комиссиями": 61,
@@ -6446,8 +7733,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "472400466981",
+    "uikName": "УИК №144",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 53,
       "Число бюллетеней, полученных участковыми комиссиями": 52,
@@ -6491,8 +7787,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "472400466982",
+    "uikName": "УИК №145",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 308,
@@ -6536,8 +7841,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "472400466983",
+    "uikName": "УИК №146",
     "tikTvd": "372300166673",
     "tikName": "Бердюжская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -6581,8 +7895,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "472400566768",
+    "uikName": "УИК №147",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 506,
       "Число бюллетеней, полученных участковыми комиссиями": 505,
@@ -6626,8 +7949,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "472400566774",
+    "uikName": "УИК №148",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -6671,8 +8003,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "472400566770",
+    "uikName": "УИК №149",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2138,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -6716,8 +8057,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "472400566772",
+    "uikName": "УИК №150",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -6761,8 +8111,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "472400566776",
+    "uikName": "УИК №151",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 891,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -6806,8 +8165,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "472400566902",
+    "uikName": "УИК №152",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 73,
@@ -6851,8 +8219,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "472400566903",
+    "uikName": "УИК №153",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -6896,8 +8273,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "472400566904",
+    "uikName": "УИК №154",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 503,
@@ -6941,8 +8327,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "472400566905",
+    "uikName": "УИК №155",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -6986,8 +8381,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "472400566906",
+    "uikName": "УИК №156",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -7031,8 +8435,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "472400566907",
+    "uikName": "УИК №157",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 303,
@@ -7076,8 +8489,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "472400566908",
+    "uikName": "УИК №158",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7121,8 +8543,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "472400566909",
+    "uikName": "УИК №159",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7166,8 +8597,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "472400566910",
+    "uikName": "УИК №160",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -7211,8 +8651,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "472400566911",
+    "uikName": "УИК №161",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 497,
       "Число бюллетеней, полученных участковыми комиссиями": 523,
@@ -7256,8 +8705,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "472400566912",
+    "uikName": "УИК №162",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -7301,8 +8759,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "472400566913",
+    "uikName": "УИК №163",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 447,
@@ -7346,8 +8813,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "472400566914",
+    "uikName": "УИК №164",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1099,
       "Число бюллетеней, полученных участковыми комиссиями": 1113,
@@ -7391,8 +8867,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "472400566915",
+    "uikName": "УИК №165",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 97,
@@ -7436,8 +8921,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "472400566916",
+    "uikName": "УИК №166",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -7481,8 +8975,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "472400566917",
+    "uikName": "УИК №167",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -7526,8 +9029,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "472400566918",
+    "uikName": "УИК №168",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 590,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -7571,8 +9083,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "472400566919",
+    "uikName": "УИК №169",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -7616,8 +9137,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "472400566920",
+    "uikName": "УИК №170",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 691,
       "Число бюллетеней, полученных участковыми комиссиями": 702,
@@ -7661,8 +9191,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "472400566921",
+    "uikName": "УИК №171",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -7706,8 +9245,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "472400566922",
+    "uikName": "УИК №172",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -7751,8 +9299,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "472400566923",
+    "uikName": "УИК №173",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1164,
       "Число бюллетеней, полученных участковыми комиссиями": 1205,
@@ -7796,8 +9353,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "472400566924",
+    "uikName": "УИК №174",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 88,
@@ -7841,8 +9407,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "472400566925",
+    "uikName": "УИК №175",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -7886,8 +9461,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "472400566926",
+    "uikName": "УИК №176",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -7931,8 +9515,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "472400566927",
+    "uikName": "УИК №177",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 486,
       "Число бюллетеней, полученных участковыми комиссиями": 492,
@@ -7976,8 +9569,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "472400566928",
+    "uikName": "УИК №178",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 269,
@@ -8021,8 +9623,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "472400566929",
+    "uikName": "УИК №179",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 332,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -8066,8 +9677,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "472400566930",
+    "uikName": "УИК №180",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 527,
@@ -8111,8 +9731,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "472400566931",
+    "uikName": "УИК №181",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -8156,8 +9785,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "472400566932",
+    "uikName": "УИК №182",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -8201,8 +9839,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "472400566933",
+    "uikName": "УИК №183",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -8246,8 +9893,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "472400566934",
+    "uikName": "УИК №184",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -8291,8 +9947,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "472400566935",
+    "uikName": "УИК №185",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 341,
@@ -8336,8 +10001,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "472400566936",
+    "uikName": "УИК №186",
     "tikTvd": "372300166674",
     "tikName": "Вагайская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -8381,8 +10055,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "472400666728",
+    "uikName": "УИК №187",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 462,
@@ -8426,8 +10109,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "472400666729",
+    "uikName": "УИК №188",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -8471,8 +10163,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "472400666730",
+    "uikName": "УИК №189",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -8516,8 +10217,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "472400666731",
+    "uikName": "УИК №190",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -8561,8 +10271,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "472400666732",
+    "uikName": "УИК №191",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8606,8 +10325,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "472400666920",
+    "uikName": "УИК №192",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -8651,8 +10379,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "472400666921",
+    "uikName": "УИК №193",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1726,
       "Число бюллетеней, полученных участковыми комиссиями": 1754,
@@ -8696,8 +10433,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "472400666922",
+    "uikName": "УИК №194",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1121,
       "Число бюллетеней, полученных участковыми комиссиями": 1136,
@@ -8741,8 +10487,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "472400666923",
+    "uikName": "УИК №195",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1253,
       "Число бюллетеней, полученных участковыми комиссиями": 1248,
@@ -8786,8 +10541,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "472400666924",
+    "uikName": "УИК №196",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1358,
       "Число бюллетеней, полученных участковыми комиссиями": 1367,
@@ -8831,8 +10595,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "472400666925",
+    "uikName": "УИК №197",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -8876,8 +10649,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "472400666926",
+    "uikName": "УИК №198",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 403,
       "Число бюллетеней, полученных участковыми комиссиями": 406,
@@ -8921,8 +10703,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "472400666927",
+    "uikName": "УИК №199",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 469,
@@ -8966,8 +10757,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "472400666928",
+    "uikName": "УИК №200",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -9011,8 +10811,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "472400666929",
+    "uikName": "УИК №201",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 46,
       "Число бюллетеней, полученных участковыми комиссиями": 57,
@@ -9056,8 +10865,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "472400666930",
+    "uikName": "УИК №202",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 634,
       "Число бюллетеней, полученных участковыми комиссиями": 639,
@@ -9101,8 +10919,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "472400666931",
+    "uikName": "УИК №203",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 49,
@@ -9146,8 +10973,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "472400666932",
+    "uikName": "УИК №204",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 559,
       "Число бюллетеней, полученных участковыми комиссиями": 561,
@@ -9191,8 +11027,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "472400666933",
+    "uikName": "УИК №205",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -9236,8 +11081,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "472400666934",
+    "uikName": "УИК №206",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 143,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -9281,8 +11135,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "472400666935",
+    "uikName": "УИК №207",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -9326,8 +11189,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "472400666936",
+    "uikName": "УИК №208",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -9371,8 +11243,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "472400666937",
+    "uikName": "УИК №209",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 63,
@@ -9416,8 +11297,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "472400666938",
+    "uikName": "УИК №210",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 632,
@@ -9461,8 +11351,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "472400666939",
+    "uikName": "УИК №211",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -9506,8 +11405,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "472400666940",
+    "uikName": "УИК №212",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 436,
@@ -9551,8 +11459,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "472400666941",
+    "uikName": "УИК №213",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -9596,8 +11513,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "472400666942",
+    "uikName": "УИК №214",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -9641,8 +11567,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "472400666943",
+    "uikName": "УИК №215",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 279,
@@ -9686,8 +11621,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "472400666944",
+    "uikName": "УИК №216",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 141,
@@ -9731,8 +11675,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "472400666945",
+    "uikName": "УИК №217",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 316,
@@ -9776,8 +11729,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "472400666946",
+    "uikName": "УИК №218",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -9821,8 +11783,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "472400666947",
+    "uikName": "УИК №219",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 42,
       "Число бюллетеней, полученных участковыми комиссиями": 44,
@@ -9866,8 +11837,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "472400666948",
+    "uikName": "УИК №220",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 61,
@@ -9911,8 +11891,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "472400666949",
+    "uikName": "УИК №221",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -9956,8 +11945,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "472400666950",
+    "uikName": "УИК №222",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 364,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -10001,8 +11999,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "472400666951",
+    "uikName": "УИК №223",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -10046,8 +12053,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "472400666952",
+    "uikName": "УИК №224",
     "tikTvd": "372300166675",
     "tikName": "Викуловская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -10091,8 +12107,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "472400766716",
+    "uikName": "УИК №225",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 901,
       "Число бюллетеней, полученных участковыми комиссиями": 872,
@@ -10136,8 +12161,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "472400766718",
+    "uikName": "УИК №226",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1011,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -10181,8 +12215,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "472400766719",
+    "uikName": "УИК №227",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1156,
       "Число бюллетеней, полученных участковыми комиссиями": 1168,
@@ -10226,8 +12269,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "472400766720",
+    "uikName": "УИК №228",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1032,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -10271,8 +12323,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "472400766721",
+    "uikName": "УИК №229",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1015,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -10316,8 +12377,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "472400766722",
+    "uikName": "УИК №230",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 947,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -10361,8 +12431,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "472400766723",
+    "uikName": "УИК №231",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 882,
       "Число бюллетеней, полученных участковыми комиссиями": 863,
@@ -10406,8 +12485,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "472400766724",
+    "uikName": "УИК №232",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1018,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -10451,8 +12539,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "472400766725",
+    "uikName": "УИК №233",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 940,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -10496,8 +12593,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "472400766726",
+    "uikName": "УИК №234",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1386,
       "Число бюллетеней, полученных участковыми комиссиями": 1396,
@@ -10541,8 +12647,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "472400766727",
+    "uikName": "УИК №235",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 575,
@@ -10586,8 +12701,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "472400766728",
+    "uikName": "УИК №236",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 468,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -10631,8 +12755,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "472400766729",
+    "uikName": "УИК №237",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -10676,8 +12809,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "472400766730",
+    "uikName": "УИК №238",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -10721,8 +12863,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "472400766731",
+    "uikName": "УИК №239",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 918,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -10766,8 +12917,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "472400766732",
+    "uikName": "УИК №240",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -10811,8 +12971,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "472400766733",
+    "uikName": "УИК №241",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -10856,8 +13025,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "472400766734",
+    "uikName": "УИК №242",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -10901,8 +13079,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "472400766735",
+    "uikName": "УИК №243",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -10946,8 +13133,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "472400766736",
+    "uikName": "УИК №244",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 668,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -10991,8 +13187,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "472400766737",
+    "uikName": "УИК №245",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 805,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -11036,8 +13241,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "472400766738",
+    "uikName": "УИК №246",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1001,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -11081,8 +13295,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "472400766739",
+    "uikName": "УИК №247",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 619,
       "Число бюллетеней, полученных участковыми комиссиями": 625,
@@ -11126,8 +13349,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "472400766740",
+    "uikName": "УИК №248",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 743,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -11171,8 +13403,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "472400766741",
+    "uikName": "УИК №249",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 567,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -11216,8 +13457,17 @@ export const duma_2003_uik_428_region_72_part_001 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "472400766742",
+    "uikName": "УИК №250",
     "tikTvd": "372300166676",
     "tikName": "Голышмановская",
+    "regionCode": "72",
+    "regionTvd": "100100095867",
+    "regionName": "Тюменская область",
+    "district": {
+      "districtNumber": 178,
+      "oikTvd": "100100095868",
+      "oikName": "Ишимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 169,

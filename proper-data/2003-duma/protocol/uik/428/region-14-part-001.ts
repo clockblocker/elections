@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "414402166759",
+    "uikName": "УИК №398",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 636,
       "Число бюллетеней, полученных участковыми комиссиями": 655,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "414402166760",
+    "uikName": "УИК №399",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 593,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "414402166761",
+    "uikName": "УИК №400",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 660,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "414402166762",
+    "uikName": "УИК №401",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 706,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "414402166763",
+    "uikName": "УИК №402",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 682,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "414402166764",
+    "uikName": "УИК №403",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "414402166765",
+    "uikName": "УИК №404",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "414402166766",
+    "uikName": "УИК №405",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "414402166767",
+    "uikName": "УИК №406",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "414402166768",
+    "uikName": "УИК №407",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "414402166769",
+    "uikName": "УИК №408",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1379,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "414402166770",
+    "uikName": "УИК №409",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "414402166771",
+    "uikName": "УИК №410",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "414402166772",
+    "uikName": "УИК №411",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "414402166773",
+    "uikName": "УИК №412",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "414402166774",
+    "uikName": "УИК №413",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 28,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "414402166775",
+    "uikName": "УИК №414",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "414402166776",
+    "uikName": "УИК №415",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 499,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "414402166777",
+    "uikName": "УИК №416",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "414402166778",
+    "uikName": "УИК №417",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "414402166779",
+    "uikName": "УИК №418",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 476,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "414402166780",
+    "uikName": "УИК №419",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 462,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "414402166781",
+    "uikName": "УИК №420",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "414402166782",
+    "uikName": "УИК №421",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 51,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "414402166783",
+    "uikName": "УИК №422",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 344,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "414402166784",
+    "uikName": "УИК №423",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "414402166785",
+    "uikName": "УИК №424",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 537,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "414402166786",
+    "uikName": "УИК №425",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 475,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "414402166787",
+    "uikName": "УИК №426",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "414402166788",
+    "uikName": "УИК №427",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "414402166789",
+    "uikName": "УИК №428",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1094,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "414402166790",
+    "uikName": "УИК №429",
     "tikTvd": "214200066699",
     "tikName": "Нюрбинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "414402066708",
+    "uikName": "УИК №392",
     "tikTvd": "214200066700",
     "tikName": "Нижнеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1469,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "414402066709",
+    "uikName": "УИК №393",
     "tikTvd": "214200066700",
     "tikName": "Нижнеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 801,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "414402066710",
+    "uikName": "УИК №394",
     "tikTvd": "214200066700",
     "tikName": "Нижнеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 515,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "414402066711",
+    "uikName": "УИК №395",
     "tikTvd": "214200066700",
     "tikName": "Нижнеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 485,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "414402066712",
+    "uikName": "УИК №396",
     "tikTvd": "214200066700",
     "tikName": "Нижнеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "414402066713",
+    "uikName": "УИК №397",
     "tikTvd": "214200066700",
     "tikName": "Нижнеколымская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "414403566961",
+    "uikName": "УИК №699",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1603,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "414403566962",
+    "uikName": "УИК №700",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 818,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "414403566963",
+    "uikName": "УИК №701",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2477,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "414403566964",
+    "uikName": "УИК №702",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 883,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "414403566965",
+    "uikName": "УИК №703",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1125,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "414403566966",
+    "uikName": "УИК №704",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1467,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "414403566967",
+    "uikName": "УИК №705",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1696,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "414403566968",
+    "uikName": "УИК №706",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "414403566969",
+    "uikName": "УИК №707",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2064,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "414403566970",
+    "uikName": "УИК №708",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1711,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "414403566971",
+    "uikName": "УИК №709",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2297,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "414403566972",
+    "uikName": "УИК №710",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1882,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "414403566973",
+    "uikName": "УИК №711",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1975,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "414403566974",
+    "uikName": "УИК №712",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2986,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "414403566975",
+    "uikName": "УИК №713",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1862,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "414403566976",
+    "uikName": "УИК №714",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2035,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "414403566977",
+    "uikName": "УИК №715",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "414403566978",
+    "uikName": "УИК №716",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3687,
       "Число бюллетеней, полученных участковыми комиссиями": 3002,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "414403566979",
+    "uikName": "УИК №717",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 621,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "414403566980",
+    "uikName": "УИК №718",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1875,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "414403566981",
+    "uikName": "УИК №719",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1844,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "414403566982",
+    "uikName": "УИК №720",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1793,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "414403566983",
+    "uikName": "УИК №721",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 542,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "414403566984",
+    "uikName": "УИК №722",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2265,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "414403566985",
+    "uikName": "УИК №723",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1713,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "414403566986",
+    "uikName": "УИК №724",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2134,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "414403566987",
+    "uikName": "УИК №725",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1725,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "414403566988",
+    "uikName": "УИК №726",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1119,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "414403566989",
+    "uikName": "УИК №727",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2011,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "414403566990",
+    "uikName": "УИК №728",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1443,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "414403566991",
+    "uikName": "УИК №729",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 565,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "414403566992",
+    "uikName": "УИК №730",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1548,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "414403566993",
+    "uikName": "УИК №731",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "414403566994",
+    "uikName": "УИК №732",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1622,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "414403566995",
+    "uikName": "УИК №733",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1867,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "414403566996",
+    "uikName": "УИК №734",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1947,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "414403566997",
+    "uikName": "УИК №735",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1604,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 736,
     "uikTvd": "414403566998",
+    "uikName": "УИК №736",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2634,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 737,
     "uikTvd": "414403566999",
+    "uikName": "УИК №737",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1403,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 738,
     "uikTvd": "414403567000",
+    "uikName": "УИК №738",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2739,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 739,
     "uikTvd": "414403567001",
+    "uikName": "УИК №739",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1328,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 740,
     "uikTvd": "414403567002",
+    "uikName": "УИК №740",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 741,
     "uikTvd": "414403567003",
+    "uikName": "УИК №741",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1279,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 742,
     "uikTvd": "414403567004",
+    "uikName": "УИК №742",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 695,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 743,
     "uikTvd": "414403567005",
+    "uikName": "УИК №743",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 744,
     "uikTvd": "414403567006",
+    "uikName": "УИК №744",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1461,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 745,
     "uikTvd": "414403567007",
+    "uikName": "УИК №745",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1177,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 746,
     "uikTvd": "414403567008",
+    "uikName": "УИК №746",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1178,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 747,
     "uikTvd": "414403567009",
+    "uikName": "УИК №747",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 977,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 748,
     "uikTvd": "414403567010",
+    "uikName": "УИК №748",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1771,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 749,
     "uikTvd": "414403567011",
+    "uikName": "УИК №749",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1547,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 750,
     "uikTvd": "414403567012",
+    "uikName": "УИК №750",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1450,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 751,
     "uikTvd": "414403567013",
+    "uikName": "УИК №751",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 752,
     "uikTvd": "414403567014",
+    "uikName": "УИК №752",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2019,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 753,
     "uikTvd": "414403567015",
+    "uikName": "УИК №753",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2117,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 754,
     "uikTvd": "414403567016",
+    "uikName": "УИК №754",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2068,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 755,
     "uikTvd": "414403567017",
+    "uikName": "УИК №755",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2744,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 756,
     "uikTvd": "414403567018",
+    "uikName": "УИК №756",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1485,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 757,
     "uikTvd": "414403567019",
+    "uikName": "УИК №757",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1337,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 758,
     "uikTvd": "414403567020",
+    "uikName": "УИК №758",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1704,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 759,
     "uikTvd": "414403567021",
+    "uikName": "УИК №759",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1145,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 760,
     "uikTvd": "414403567022",
+    "uikName": "УИК №760",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 708,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 761,
     "uikTvd": "414403567023",
+    "uikName": "УИК №761",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 762,
     "uikTvd": "414403567024",
+    "uikName": "УИК №762",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 580,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 763,
     "uikTvd": "414403567025",
+    "uikName": "УИК №763",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1093,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 764,
     "uikTvd": "414403567026",
+    "uikName": "УИК №764",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1671,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 765,
     "uikTvd": "414403567027",
+    "uikName": "УИК №765",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 766,
     "uikTvd": "414403567028",
+    "uikName": "УИК №766",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2202,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "414403567029",
+    "uikName": "УИК №767",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 937,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "414403567030",
+    "uikName": "УИК №768",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1167,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 769,
     "uikTvd": "414403567031",
+    "uikName": "УИК №769",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 770,
     "uikTvd": "414403567032",
+    "uikName": "УИК №770",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1241,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 771,
     "uikTvd": "414403567033",
+    "uikName": "УИК №771",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2548,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 772,
     "uikTvd": "414403567034",
+    "uikName": "УИК №772",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 591,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 773,
     "uikTvd": "414403567035",
+    "uikName": "УИК №773",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2069,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 774,
     "uikTvd": "414403567036",
+    "uikName": "УИК №774",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1108,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 775,
     "uikTvd": "414403567037",
+    "uikName": "УИК №775",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 499,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "414403567038",
+    "uikName": "УИК №776",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2614,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "414403567039",
+    "uikName": "УИК №777",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "414403567040",
+    "uikName": "УИК №778",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1111,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "414403567041",
+    "uikName": "УИК №779",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "414403567042",
+    "uikName": "УИК №780",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1412,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "414403567043",
+    "uikName": "УИК №781",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1835,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "414403567044",
+    "uikName": "УИК №782",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1477,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "414403567045",
+    "uikName": "УИК №783",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "414403567046",
+    "uikName": "УИК №784",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "414403567047",
+    "uikName": "УИК №785",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1269,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "414403567048",
+    "uikName": "УИК №786",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2356,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "414403567049",
+    "uikName": "УИК №787",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1340,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "414403567050",
+    "uikName": "УИК №788",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2274,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "414403567051",
+    "uikName": "УИК №789",
     "tikTvd": "214200066701",
     "tikName": "Якутская городская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2044,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "414403466691",
+    "uikName": "УИК №696",
     "tikTvd": "214200066702",
     "tikName": "Эвено-Бытантайская №34",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "414403466692",
+    "uikName": "УИК №697",
     "tikTvd": "214200066702",
     "tikName": "Эвено-Бытантайская №34",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1084,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "414403466693",
+    "uikName": "УИК №698",
     "tikTvd": "214200066702",
     "tikName": "Эвено-Бытантайская №34",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 412,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "414403166758",
+    "uikName": "УИК №622",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 525,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "414403166759",
+    "uikName": "УИК №623",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 43,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "414403166760",
+    "uikName": "УИК №624",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1145,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "414403166761",
+    "uikName": "УИК №625",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 941,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "414403166762",
+    "uikName": "УИК №626",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "414403166763",
+    "uikName": "УИК №627",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "414403166764",
+    "uikName": "УИК №628",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 40,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "414403166765",
+    "uikName": "УИК №629",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "414403166766",
+    "uikName": "УИК №630",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 403,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "414403166767",
+    "uikName": "УИК №631",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 905,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "414403166768",
+    "uikName": "УИК №632",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "414403166769",
+    "uikName": "УИК №633",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "414403166770",
+    "uikName": "УИК №634",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "414403166771",
+    "uikName": "УИК №635",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 63,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "414403166772",
+    "uikName": "УИК №636",
     "tikTvd": "214200066703",
     "tikName": "Усть-Янская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "414403066685",
+    "uikName": "УИК №604",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "414403066686",
+    "uikName": "УИК №605",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "414403066687",
+    "uikName": "УИК №606",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 625,
       "Число бюллетеней, полученных участковыми комиссиями": 612,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "414403066688",
+    "uikName": "УИК №607",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 84,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "414403066689",
+    "uikName": "УИК №608",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 700,
       "Число бюллетеней, полученных участковыми комиссиями": 661,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "414403066690",
+    "uikName": "УИК №609",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 766,
       "Число бюллетеней, полученных участковыми комиссиями": 723,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "414403066691",
+    "uikName": "УИК №610",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 596,
       "Число бюллетеней, полученных участковыми комиссиями": 551,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "414403066692",
+    "uikName": "УИК №611",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 937,
       "Число бюллетеней, полученных участковыми комиссиями": 859,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "414403066693",
+    "uikName": "УИК №612",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 426,
       "Число бюллетеней, полученных участковыми комиссиями": 453,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "414403066694",
+    "uikName": "УИК №613",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "414403066695",
+    "uikName": "УИК №614",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 291,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "414403066696",
+    "uikName": "УИК №615",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 337,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "414403066697",
+    "uikName": "УИК №616",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 46,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "414403066698",
+    "uikName": "УИК №617",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 803,
       "Число бюллетеней, полученных участковыми комиссиями": 728,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "414403067286",
+    "uikName": "УИК №618",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "414403067287",
+    "uikName": "УИК №619",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "414403067288",
+    "uikName": "УИК №620",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 231,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "414403066702",
+    "uikName": "УИК №621",
     "tikTvd": "214200066704",
     "tikName": "Усть-Майская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 179,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "414403366844",
+    "uikName": "УИК №667",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "414403366845",
+    "uikName": "УИК №668",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "414403366846",
+    "uikName": "УИК №669",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "414403366847",
+    "uikName": "УИК №670",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 36,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "414403366848",
+    "uikName": "УИК №671",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "414403366849",
+    "uikName": "УИК №672",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 601,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "414403366850",
+    "uikName": "УИК №673",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "414403366851",
+    "uikName": "УИК №674",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 45,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "414403366852",
+    "uikName": "УИК №675",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "414403366853",
+    "uikName": "УИК №676",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "414403366854",
+    "uikName": "УИК №677",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "414403366855",
+    "uikName": "УИК №678",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "414403366856",
+    "uikName": "УИК №679",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "414403366857",
+    "uikName": "УИК №680",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "414403366858",
+    "uikName": "УИК №681",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "414403366859",
+    "uikName": "УИК №682",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "414403366860",
+    "uikName": "УИК №683",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "414403366861",
+    "uikName": "УИК №684",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 41,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "414403366862",
+    "uikName": "УИК №685",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "414403366863",
+    "uikName": "УИК №686",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 40,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "414403366864",
+    "uikName": "УИК №687",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "414403366865",
+    "uikName": "УИК №688",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 710,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "414403366866",
+    "uikName": "УИК №689",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "414403366867",
+    "uikName": "УИК №690",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "414403366868",
+    "uikName": "УИК №691",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 746,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "414403366869",
+    "uikName": "УИК №692",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 774,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "414403366870",
+    "uikName": "УИК №693",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 933,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "414403366871",
+    "uikName": "УИК №694",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 925,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "414403366872",
+    "uikName": "УИК №695",
     "tikTvd": "214200066705",
     "tikName": "Чурапчинская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1036,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "414403266693",
+    "uikName": "УИК №637",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "414403266694",
+    "uikName": "УИК №638",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "414403266695",
+    "uikName": "УИК №639",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "414403266696",
+    "uikName": "УИК №640",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "414403266697",
+    "uikName": "УИК №641",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "414403266698",
+    "uikName": "УИК №642",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "414403266699",
+    "uikName": "УИК №643",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "414403266700",
+    "uikName": "УИК №644",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 550,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "414403266701",
+    "uikName": "УИК №645",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 945,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "414403266702",
+    "uikName": "УИК №646",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "414403266703",
+    "uikName": "УИК №647",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1111,
       "Число бюллетеней, полученных участковыми комиссиями": 1065,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "414403266704",
+    "uikName": "УИК №648",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "414403266705",
+    "uikName": "УИК №649",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2433,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "414403266706",
+    "uikName": "УИК №650",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1454,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "414403266707",
+    "uikName": "УИК №651",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "414403266708",
+    "uikName": "УИК №652",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 750,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "414403266709",
+    "uikName": "УИК №653",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1777,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "414403266710",
+    "uikName": "УИК №654",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2761,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "414403266711",
+    "uikName": "УИК №655",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "414403266712",
+    "uikName": "УИК №656",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1469,
       "Число бюллетеней, полученных участковыми комиссиями": 1445,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "414403266713",
+    "uikName": "УИК №657",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 529,
       "Число бюллетеней, полученных участковыми комиссиями": 525,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "414403266714",
+    "uikName": "УИК №658",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 364,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "414403266715",
+    "uikName": "УИК №659",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1207,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "414403266716",
+    "uikName": "УИК №660",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "414403266717",
+    "uikName": "УИК №661",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "414403266718",
+    "uikName": "УИК №662",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "414403266719",
+    "uikName": "УИК №663",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "414403266720",
+    "uikName": "УИК №664",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "414403266721",
+    "uikName": "УИК №665",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "414403266722",
+    "uikName": "УИК №666",
     "tikTvd": "214200066706",
     "tikName": "Хангаласская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "414402966679",
+    "uikName": "УИК №568",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 842,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "414402966680",
+    "uikName": "УИК №569",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 795,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "414402966681",
+    "uikName": "УИК №570",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "414402966682",
+    "uikName": "УИК №571",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 651,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "414402966683",
+    "uikName": "УИК №572",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "414402966684",
+    "uikName": "УИК №573",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "414402966685",
+    "uikName": "УИК №574",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "414402966686",
+    "uikName": "УИК №575",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 45,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "414402966687",
+    "uikName": "УИК №576",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 544,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "414402966688",
+    "uikName": "УИК №577",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "414402966689",
+    "uikName": "УИК №578",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "414402966690",
+    "uikName": "УИК №579",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "414402966691",
+    "uikName": "УИК №580",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "414402966692",
+    "uikName": "УИК №581",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "414402966693",
+    "uikName": "УИК №582",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "414402966694",
+    "uikName": "УИК №583",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "414402966695",
+    "uikName": "УИК №584",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "414402966696",
+    "uikName": "УИК №585",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 716,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "414402966697",
+    "uikName": "УИК №586",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "414402966698",
+    "uikName": "УИК №587",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "414402966699",
+    "uikName": "УИК №588",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "414402966700",
+    "uikName": "УИК №589",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 52,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "414402966701",
+    "uikName": "УИК №590",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "414402966702",
+    "uikName": "УИК №591",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "414402966703",
+    "uikName": "УИК №592",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 32,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_14_part_001 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "414402966704",
+    "uikName": "УИК №593",
     "tikTvd": "214200066707",
     "tikName": "Усть-Алданская",
+    "regionCode": "14",
+    "regionTvd": "100100095636",
+    "regionName": "Республика Саха (Якутия)",
+    "district": {
+      "districtNumber": 21,
+      "oikTvd": "100100095637",
+      "oikName": "Якутский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 555,
       "Число бюллетеней, полученных участковыми комиссиями": 560,

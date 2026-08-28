@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "437400370388",
+    "uikName": "УИК  405",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2353,
       "Число бюллетеней, полученных участковыми комиссиями": 2072,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "437400370392",
+    "uikName": "УИК  406",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2409,
       "Число бюллетеней, полученных участковыми комиссиями": 2155,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "437400370393",
+    "uikName": "УИК  407",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1219,
       "Число бюллетеней, полученных участковыми комиссиями": 1085,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "437400370394",
+    "uikName": "УИК  408",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "437400370395",
+    "uikName": "УИК  409",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 421,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "437400370396",
+    "uikName": "УИК  410",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 318,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "437400370397",
+    "uikName": "УИК  411",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "437400370398",
+    "uikName": "УИК  412",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 446,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "437400370399",
+    "uikName": "УИК  413",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "437400370400",
+    "uikName": "УИК  414",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "437400370401",
+    "uikName": "УИК  415",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 253,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "437400370402",
+    "uikName": "УИК  416",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "437400370403",
+    "uikName": "УИК  417",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "437400370404",
+    "uikName": "УИК  418",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 194,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "437400370405",
+    "uikName": "УИК  419",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "437400370406",
+    "uikName": "УИК  420",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 748,
       "Число бюллетеней, полученных участковыми комиссиями": 671,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "437400370407",
+    "uikName": "УИК  421",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 249,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "437400370408",
+    "uikName": "УИК  422",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 381,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "437400370409",
+    "uikName": "УИК  423",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 413,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "437400370410",
+    "uikName": "УИК  424",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "437400370411",
+    "uikName": "УИК  425",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 966,
       "Число бюллетеней, полученных участковыми комиссиями": 865,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "437400370412",
+    "uikName": "УИК  426",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2798,
       "Число бюллетеней, полученных участковыми комиссиями": 2438,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "437400370413",
+    "uikName": "УИК  427",
     "tikTvd": "237200070455",
     "tikName": "Гаврилово-Посадская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 338,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "437400970325",
+    "uikName": "УИК  460",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 645,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "437400970326",
+    "uikName": "УИК  461",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1445,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "437400970327",
+    "uikName": "УИК  462",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "437400970328",
+    "uikName": "УИК  463",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "437400970329",
+    "uikName": "УИК  464",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "437400970330",
+    "uikName": "УИК  465",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1929,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "437400970331",
+    "uikName": "УИК  466",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 643,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "437400970332",
+    "uikName": "УИК  467",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 953,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "437400970333",
+    "uikName": "УИК  468",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "437400970334",
+    "uikName": "УИК  469",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 479,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "437400970335",
+    "uikName": "УИК  470",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "437400970336",
+    "uikName": "УИК  471",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "437400970337",
+    "uikName": "УИК  472",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "437400970338",
+    "uikName": "УИК  473",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "437400970339",
+    "uikName": "УИК  474",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 686,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "437400970340",
+    "uikName": "УИК  475",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1999,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "437400970341",
+    "uikName": "УИК  476",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "437400970342",
+    "uikName": "УИК  477",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "437400970343",
+    "uikName": "УИК  478",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 331,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "437400970344",
+    "uikName": "УИК  479",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "437400970345",
+    "uikName": "УИК  480",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 863,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "437400970346",
+    "uikName": "УИК  481",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 556,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "437400970347",
+    "uikName": "УИК  482",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 755,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "437400970348",
+    "uikName": "УИК  483",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1650,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "437400970349",
+    "uikName": "УИК  484",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1755,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "437400970350",
+    "uikName": "УИК  485",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1782,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "437400970351",
+    "uikName": "УИК  486",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1923,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "437400970352",
+    "uikName": "УИК  487",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "437400970353",
+    "uikName": "УИК  488",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1431,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "437400970354",
+    "uikName": "УИК  489",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 483,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "437400970355",
+    "uikName": "УИК  490",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1324,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "437400970356",
+    "uikName": "УИК  491",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "437400970357",
+    "uikName": "УИК  492",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "437400970358",
+    "uikName": "УИК  493",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -2861,8 +3374,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "437400970359",
+    "uikName": "УИК  494",
     "tikTvd": "237200070473",
     "tikName": "Ивановская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2040,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2911,8 +3433,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "437401070699",
+    "uikName": "УИК  500",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1334,
       "Число бюллетеней, полученных участковыми комиссиями": 1332,
@@ -2961,8 +3492,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "437401070482",
+    "uikName": "УИК  501",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -3011,8 +3551,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "437401070483",
+    "uikName": "УИК  502",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 397,
@@ -3061,8 +3610,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "437401070484",
+    "uikName": "УИК  503",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 541,
@@ -3111,8 +3669,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "437401070485",
+    "uikName": "УИК  504",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -3161,8 +3728,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "437401070486",
+    "uikName": "УИК  505",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 411,
       "Число бюллетеней, полученных участковыми комиссиями": 416,
@@ -3211,8 +3787,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "437401070487",
+    "uikName": "УИК  506",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 2115,
@@ -3261,8 +3846,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "437401070488",
+    "uikName": "УИК  507",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1033,
       "Число бюллетеней, полученных участковыми комиссиями": 1038,
@@ -3311,8 +3905,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "437401070489",
+    "uikName": "УИК  508",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -3361,8 +3964,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "437401070490",
+    "uikName": "УИК  509",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -3411,8 +4023,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "437401070491",
+    "uikName": "УИК  510",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -3461,8 +4082,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "437401070492",
+    "uikName": "УИК  511",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 289,
@@ -3511,8 +4141,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "437401070493",
+    "uikName": "УИК  512",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 228,
@@ -3561,8 +4200,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "437401070494",
+    "uikName": "УИК  513",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -3611,8 +4259,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "437401070495",
+    "uikName": "УИК  514",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 525,
@@ -3661,8 +4318,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "437401070496",
+    "uikName": "УИК  515",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -3711,8 +4377,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "437401070497",
+    "uikName": "УИК  516",
     "tikTvd": "237200070475",
     "tikName": "Ильинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 549,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -3761,8 +4436,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "437401270689",
+    "uikName": "УИК  550",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1506,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -3811,8 +4495,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "437401270690",
+    "uikName": "УИК  551",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1726,
       "Число бюллетеней, полученных участковыми комиссиями": 1631,
@@ -3861,8 +4554,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "437401270691",
+    "uikName": "УИК  552",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1253,
       "Число бюллетеней, полученных участковыми комиссиями": 1182,
@@ -3911,8 +4613,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "437401270692",
+    "uikName": "УИК  553",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2424,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -3961,8 +4672,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "437401270693",
+    "uikName": "УИК  554",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 790,
       "Число бюллетеней, полученных участковыми комиссиями": 775,
@@ -4011,8 +4731,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "437401270694",
+    "uikName": "УИК  555",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1162,
       "Число бюллетеней, полученных участковыми комиссиями": 1172,
@@ -4061,8 +4790,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "437401270695",
+    "uikName": "УИК  556",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -4111,8 +4849,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "437401270696",
+    "uikName": "УИК  557",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 453,
@@ -4161,8 +4908,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "437401270697",
+    "uikName": "УИК  558",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -4211,8 +4967,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "437401270698",
+    "uikName": "УИК  559",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 319,
@@ -4261,8 +5026,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "437401270699",
+    "uikName": "УИК  560",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -4311,8 +5085,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "437401270700",
+    "uikName": "УИК  561",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 339,
@@ -4361,8 +5144,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "437401270701",
+    "uikName": "УИК  562",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 374,
@@ -4411,8 +5203,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "437401270702",
+    "uikName": "УИК  563",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1106,
       "Число бюллетеней, полученных участковыми комиссиями": 1104,
@@ -4461,8 +5262,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "437401270703",
+    "uikName": "УИК  564",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1004,
       "Число бюллетеней, полученных участковыми комиссиями": 979,
@@ -4511,8 +5321,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "437401270704",
+    "uikName": "УИК  565",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -4561,8 +5380,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "437401270705",
+    "uikName": "УИК  566",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 476,
       "Число бюллетеней, полученных участковыми комиссиями": 477,
@@ -4611,8 +5439,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "437401270706",
+    "uikName": "УИК  567",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1089,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -4661,8 +5498,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "437401270707",
+    "uikName": "УИК  568",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1206,
       "Число бюллетеней, полученных участковыми комиссиями": 1171,
@@ -4711,8 +5557,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "437401270708",
+    "uikName": "УИК  569",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -4761,8 +5616,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "437401270709",
+    "uikName": "УИК  570",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 816,
       "Число бюллетеней, полученных участковыми комиссиями": 815,
@@ -4811,8 +5675,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "437401270710",
+    "uikName": "УИК  571",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 89,
@@ -4861,8 +5734,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "437401270711",
+    "uikName": "УИК  572",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 187,
@@ -4911,8 +5793,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "437401270712",
+    "uikName": "УИК  573",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -4961,8 +5852,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "437401270713",
+    "uikName": "УИК  574",
     "tikTvd": "237200070477",
     "tikName": "Комсомольская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -5011,8 +5911,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "437403070381",
+    "uikName": "УИК  260",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2127,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5061,8 +5970,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "437403070382",
+    "uikName": "УИК  261",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 970,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -5111,8 +6029,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "437403070383",
+    "uikName": "УИК  262",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1946,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5161,8 +6088,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "437403070384",
+    "uikName": "УИК  263",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1015,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -5211,8 +6147,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "437403070385",
+    "uikName": "УИК  264",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1801,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5261,8 +6206,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "437403070386",
+    "uikName": "УИК  265",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1837,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5311,8 +6265,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "437403070387",
+    "uikName": "УИК  266",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2049,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5361,8 +6324,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "437403070388",
+    "uikName": "УИК  267",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1851,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5411,8 +6383,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "437403070389",
+    "uikName": "УИК  268",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 923,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -5461,8 +6442,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "437403070390",
+    "uikName": "УИК  269",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1133,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5511,8 +6501,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "437403070391",
+    "uikName": "УИК  270",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2112,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5561,8 +6560,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "437403070392",
+    "uikName": "УИК  271",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1334,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5611,8 +6619,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "437403070393",
+    "uikName": "УИК  272",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2045,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5661,8 +6678,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "437403070394",
+    "uikName": "УИК  273",
     "tikTvd": "237200070479",
     "tikName": "Кохомская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 741,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5711,8 +6737,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 751,
     "uikTvd": "437402870441",
+    "uikName": "УИК  751",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1405,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -5761,8 +6796,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 752,
     "uikTvd": "437402870442",
+    "uikName": "УИК  752",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 637,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -5811,8 +6855,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 753,
     "uikTvd": "437402870443",
+    "uikName": "УИК  753",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 809,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -5861,8 +6914,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 754,
     "uikTvd": "437402870444",
+    "uikName": "УИК  754",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 542,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -5911,8 +6973,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 755,
     "uikTvd": "437402870445",
+    "uikName": "УИК  755",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 719,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -5961,8 +7032,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 756,
     "uikTvd": "437402870446",
+    "uikName": "УИК  756",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -6011,8 +7091,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 757,
     "uikTvd": "437402870447",
+    "uikName": "УИК  757",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 432,
@@ -6061,8 +7150,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 758,
     "uikTvd": "437402870448",
+    "uikName": "УИК  758",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -6111,8 +7209,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 759,
     "uikTvd": "437402870449",
+    "uikName": "УИК  759",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 744,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -6161,8 +7268,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 760,
     "uikTvd": "437402870450",
+    "uikName": "УИК  760",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -6211,8 +7327,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 761,
     "uikTvd": "437402870451",
+    "uikName": "УИК  761",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -6261,8 +7386,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 762,
     "uikTvd": "437402870452",
+    "uikName": "УИК  762",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -6311,8 +7445,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 763,
     "uikTvd": "437402870453",
+    "uikName": "УИК  763",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -6361,8 +7504,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 764,
     "uikTvd": "437402870454",
+    "uikName": "УИК  764",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -6411,8 +7563,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 765,
     "uikTvd": "437402870455",
+    "uikName": "УИК  765",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -6461,8 +7622,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 766,
     "uikTvd": "437402870456",
+    "uikName": "УИК  766",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -6511,8 +7681,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "437402870457",
+    "uikName": "УИК  767",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -6561,8 +7740,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "437402870458",
+    "uikName": "УИК  768",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1068,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -6611,8 +7799,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 769,
     "uikTvd": "437402870459",
+    "uikName": "УИК  769",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -6661,8 +7858,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 770,
     "uikTvd": "437402870460",
+    "uikName": "УИК  770",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -6711,8 +7917,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 771,
     "uikTvd": "437402870461",
+    "uikName": "УИК  771",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -6761,8 +7976,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 772,
     "uikTvd": "437402870462",
+    "uikName": "УИК  772",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -6811,8 +8035,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 773,
     "uikTvd": "437402870463",
+    "uikName": "УИК  773",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -6861,8 +8094,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 774,
     "uikTvd": "437402870464",
+    "uikName": "УИК  774",
     "tikTvd": "237200070481",
     "tikName": "Тейковская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 793,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -6911,8 +8153,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "437402170421",
+    "uikName": "УИК  275",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1523,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6961,8 +8212,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "437402170422",
+    "uikName": "УИК  276",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1292,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7011,8 +8271,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "437402170423",
+    "uikName": "УИК  277",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 824,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -7061,8 +8330,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "437402170424",
+    "uikName": "УИК  278",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1657,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7111,8 +8389,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "437402170425",
+    "uikName": "УИК  279",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1304,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7161,8 +8448,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "437402170426",
+    "uikName": "УИК  280",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1570,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7211,8 +8507,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "437402170427",
+    "uikName": "УИК  281",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1641,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7261,8 +8566,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "437402170428",
+    "uikName": "УИК  282",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1425,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7311,8 +8625,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "437402170429",
+    "uikName": "УИК  283",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2404,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7361,8 +8684,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "437402170430",
+    "uikName": "УИК  284",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2845,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7411,8 +8743,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "437402170431",
+    "uikName": "УИК  285",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1818,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7461,8 +8802,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "437402170432",
+    "uikName": "УИК  286",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2811,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7511,8 +8861,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "437402170433",
+    "uikName": "УИК  287",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2217,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7561,8 +8920,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "437402170434",
+    "uikName": "УИК  288",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 805,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -7611,8 +8979,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "437402170435",
+    "uikName": "УИК  289",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7661,8 +9038,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "437402170436",
+    "uikName": "УИК  290",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1936,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7711,8 +9097,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "437402170437",
+    "uikName": "УИК  291",
     "tikTvd": "237200070483",
     "tikName": "Тейковская городская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 795,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7761,8 +9156,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "437400570481",
+    "uikName": "УИК  1",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1113,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -7811,8 +9215,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "437400570482",
+    "uikName": "УИК  2",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1801,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -7861,8 +9274,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "437400570483",
+    "uikName": "УИК  3",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1626,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7911,8 +9333,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "437400570484",
+    "uikName": "УИК  4",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2084,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -7961,8 +9392,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "437400570485",
+    "uikName": "УИК  5",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2131,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8011,8 +9451,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "437400570486",
+    "uikName": "УИК  6",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1817,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8061,8 +9510,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "437400570487",
+    "uikName": "УИК  7",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -8111,8 +9569,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "437400570488",
+    "uikName": "УИК  8",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1570,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8161,8 +9628,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "437400570489",
+    "uikName": "УИК  9",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2392,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8211,8 +9687,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "437400570490",
+    "uikName": "УИК  10",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1477,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -8261,8 +9746,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "437400570491",
+    "uikName": "УИК  11",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2501,
       "Число бюллетеней, полученных участковыми комиссиями": 2490,
@@ -8311,8 +9805,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "437400570492",
+    "uikName": "УИК  12",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1687,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8361,8 +9864,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "437400570493",
+    "uikName": "УИК  13",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2273,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -8411,8 +9923,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "437400570494",
+    "uikName": "УИК  14",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1921,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8461,8 +9982,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "437400570495",
+    "uikName": "УИК  15",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2155,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8511,8 +10041,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "437400570496",
+    "uikName": "УИК  16",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1577,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8561,8 +10100,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "437400570497",
+    "uikName": "УИК  17",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1474,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -8611,8 +10159,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "437400570498",
+    "uikName": "УИК  18",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2297,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -8661,8 +10218,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "437400570499",
+    "uikName": "УИК  19",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2116,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8711,8 +10277,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "437400570500",
+    "uikName": "УИК  20",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2833,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -8761,8 +10336,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "437400570501",
+    "uikName": "УИК  21",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1954,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8811,8 +10395,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "437400570502",
+    "uikName": "УИК  22",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1650,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8861,8 +10454,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "437400570503",
+    "uikName": "УИК  23",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2370,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -8911,8 +10513,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "437400570504",
+    "uikName": "УИК  24",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2242,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8961,8 +10572,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "437400570505",
+    "uikName": "УИК  25",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2099,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9011,8 +10631,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "437400570506",
+    "uikName": "УИК  26",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2752,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9061,8 +10690,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "437400570507",
+    "uikName": "УИК  27",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1939,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9111,8 +10749,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "437400570508",
+    "uikName": "УИК  28",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2817,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9161,8 +10808,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "437400570509",
+    "uikName": "УИК  29",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2106,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9211,8 +10867,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "437400570510",
+    "uikName": "УИК  30",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2772,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9261,8 +10926,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "437400570511",
+    "uikName": "УИК  31",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2640,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9311,8 +10985,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "437400570512",
+    "uikName": "УИК  32",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2021,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9361,8 +11044,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "437400570513",
+    "uikName": "УИК  33",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2215,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9411,8 +11103,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "437400570514",
+    "uikName": "УИК  34",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2677,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9461,8 +11162,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "437400570515",
+    "uikName": "УИК  35",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2404,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9511,8 +11221,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "437400570516",
+    "uikName": "УИК  36",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2573,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9561,8 +11280,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "437400570517",
+    "uikName": "УИК  37",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2478,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9611,8 +11339,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "437400570518",
+    "uikName": "УИК  38",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2337,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9661,8 +11398,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "437400570519",
+    "uikName": "УИК  39",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2582,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9711,8 +11457,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "437400570520",
+    "uikName": "УИК  40",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2126,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9761,8 +11516,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "437400570521",
+    "uikName": "УИК  41",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2242,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9811,8 +11575,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "437400570522",
+    "uikName": "УИК  42",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2567,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9861,8 +11634,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "437400570523",
+    "uikName": "УИК  43",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1922,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9911,8 +11693,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "437400570524",
+    "uikName": "УИК  44",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1755,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9961,8 +11752,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "437400570525",
+    "uikName": "УИК  45",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2120,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10011,8 +11811,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "437400570526",
+    "uikName": "УИК  46",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2568,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10061,8 +11870,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "437400570527",
+    "uikName": "УИК  47",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2569,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -10111,8 +11929,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "437400570528",
+    "uikName": "УИК  48",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2832,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -10161,8 +11988,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "437400570529",
+    "uikName": "УИК  49",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2338,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10211,8 +12047,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "437400570530",
+    "uikName": "УИК  50",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2587,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10261,8 +12106,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "437400570531",
+    "uikName": "УИК  51",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2716,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10311,8 +12165,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "437400570532",
+    "uikName": "УИК  52",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2866,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -10361,8 +12224,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "437400570533",
+    "uikName": "УИК  53",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2407,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10411,8 +12283,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "437400570534",
+    "uikName": "УИК  54",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2670,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10461,8 +12342,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "437400570535",
+    "uikName": "УИК  55",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2634,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10511,8 +12401,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "437400570536",
+    "uikName": "УИК  56",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2929,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -10561,8 +12460,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "437400570537",
+    "uikName": "УИК  58",
     "tikTvd": "237200070485",
     "tikName": "Иваново, Ленинская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10611,8 +12519,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "437400670380",
+    "uikName": "УИК  61",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1735,
       "Число бюллетеней, полученных участковыми комиссиями": 1458,
@@ -10661,8 +12578,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "437400670381",
+    "uikName": "УИК  62",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1969,
       "Число бюллетеней, полученных участковыми комиссиями": 1975,
@@ -10711,8 +12637,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "437400670382",
+    "uikName": "УИК  63",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1704,
       "Число бюллетеней, полученных участковыми комиссиями": 1729,
@@ -10761,8 +12696,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "437400670383",
+    "uikName": "УИК  64",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1892,
       "Число бюллетеней, полученных участковыми комиссиями": 1922,
@@ -10811,8 +12755,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "437400670384",
+    "uikName": "УИК  65",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1790,
       "Число бюллетеней, полученных участковыми комиссиями": 1793,
@@ -10861,8 +12814,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "437400670385",
+    "uikName": "УИК  66",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1796,
       "Число бюллетеней, полученных участковыми комиссиями": 1796,
@@ -10911,8 +12873,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "437400670386",
+    "uikName": "УИК  67",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1067,
       "Число бюллетеней, полученных участковыми комиссиями": 1898,
@@ -10961,8 +12932,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "437400670387",
+    "uikName": "УИК  68",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2290,
       "Число бюллетеней, полученных участковыми комиссиями": 2301,
@@ -11011,8 +12991,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "437400670388",
+    "uikName": "УИК  69",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2330,
       "Число бюллетеней, полученных участковыми комиссиями": 2334,
@@ -11061,8 +13050,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "437400670389",
+    "uikName": "УИК  70",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1102,
       "Число бюллетеней, полученных участковыми комиссиями": 2103,
@@ -11111,8 +13109,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "437400670390",
+    "uikName": "УИК  71",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2314,
       "Число бюллетеней, полученных участковыми комиссиями": 2315,
@@ -11161,8 +13168,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "437400670391",
+    "uikName": "УИК  72",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2095,
       "Число бюллетеней, полученных участковыми комиссиями": 2088,
@@ -11211,8 +13227,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "437400670392",
+    "uikName": "УИК  73",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2170,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -11261,8 +13286,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "437400670393",
+    "uikName": "УИК  74",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2009,
       "Число бюллетеней, полученных участковыми комиссиями": 2029,
@@ -11311,8 +13345,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "437400670394",
+    "uikName": "УИК  75",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 2134,
@@ -11361,8 +13404,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "437400670395",
+    "uikName": "УИК  76",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1796,
       "Число бюллетеней, полученных участковыми комиссиями": 1806,
@@ -11411,8 +13463,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "437400670396",
+    "uikName": "УИК  77",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1928,
       "Число бюллетеней, полученных участковыми комиссиями": 1929,
@@ -11461,8 +13522,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "437400670397",
+    "uikName": "УИК  78",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2036,
       "Число бюллетеней, полученных участковыми комиссиями": 2026,
@@ -11511,8 +13581,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "437400670398",
+    "uikName": "УИК  79",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2555,
       "Число бюллетеней, полученных участковыми комиссиями": 2563,
@@ -11561,8 +13640,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "437400670399",
+    "uikName": "УИК  80",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1506,
       "Число бюллетеней, полученных участковыми комиссиями": 1498,
@@ -11611,8 +13699,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "437400670400",
+    "uikName": "УИК  81",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2083,
       "Число бюллетеней, полученных участковыми комиссиями": 2085,
@@ -11661,8 +13758,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "437400670401",
+    "uikName": "УИК  82",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2408,
       "Число бюллетеней, полученных участковыми комиссиями": 2409,
@@ -11711,8 +13817,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "437400670402",
+    "uikName": "УИК  83",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2520,
       "Число бюллетеней, полученных участковыми комиссиями": 2515,
@@ -11761,8 +13876,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "437400670403",
+    "uikName": "УИК  84",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2440,
       "Число бюллетеней, полученных участковыми комиссиями": 2438,
@@ -11811,8 +13935,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "437400670404",
+    "uikName": "УИК  85",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1562,
       "Число бюллетеней, полученных участковыми комиссиями": 1565,
@@ -11861,8 +13994,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "437400670405",
+    "uikName": "УИК  86",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1821,
       "Число бюллетеней, полученных участковыми комиссиями": 1822,
@@ -11911,8 +14053,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "437400670406",
+    "uikName": "УИК  87",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1218,
       "Число бюллетеней, полученных участковыми комиссиями": 1209,
@@ -11961,8 +14112,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "437400670407",
+    "uikName": "УИК  88",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2138,
       "Число бюллетеней, полученных участковыми комиссиями": 2128,
@@ -12011,8 +14171,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "437400670408",
+    "uikName": "УИК  89",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1677,
       "Число бюллетеней, полученных участковыми комиссиями": 1688,
@@ -12061,8 +14230,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "437400670409",
+    "uikName": "УИК  90",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1932,
       "Число бюллетеней, полученных участковыми комиссиями": 1941,
@@ -12111,8 +14289,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "437400670410",
+    "uikName": "УИК  91",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1119,
       "Число бюллетеней, полученных участковыми комиссиями": 1957,
@@ -12161,8 +14348,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "437400670411",
+    "uikName": "УИК  92",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1777,
       "Число бюллетеней, полученных участковыми комиссиями": 1506,
@@ -12211,8 +14407,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "437400670412",
+    "uikName": "УИК  93",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 2101,
@@ -12261,8 +14466,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "437400670413",
+    "uikName": "УИК  94",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2409,
@@ -12311,8 +14525,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "437400670414",
+    "uikName": "УИК  95",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2168,
       "Число бюллетеней, полученных участковыми комиссиями": 2167,
@@ -12361,8 +14584,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "437400670415",
+    "uikName": "УИК  96",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2210,
       "Число бюллетеней, полученных участковыми комиссиями": 2207,
@@ -12411,8 +14643,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "437400670416",
+    "uikName": "УИК  97",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1908,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -12461,8 +14702,17 @@ export const duma_2003_uik_428_region_37_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "437400670417",
+    "uikName": "УИК  98",
     "tikTvd": "237200070487",
     "tikName": "Иваново, Октябрьская",
+    "regionCode": "37",
+    "regionTvd": "100100095660",
+    "regionName": "Ивановская область",
+    "district": {
+      "districtNumber": 80,
+      "oikTvd": "100100095661",
+      "oikName": "Ивановский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 600,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "474401066901",
+    "uikName": "УИК №123",
     "tikTvd": "374300167353",
     "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "474401066902",
+    "uikName": "УИК №124",
     "tikTvd": "374300167353",
     "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "474402966702",
+    "uikName": "УИК №135",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 852,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "474402966703",
+    "uikName": "УИК №136",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "474402966704",
+    "uikName": "УИК №137",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 724,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "474402966705",
+    "uikName": "УИК №138",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "474402966706",
+    "uikName": "УИК №139",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "474402966707",
+    "uikName": "УИК №140",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1583,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "474402966708",
+    "uikName": "УИК №141",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2068,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "474402966709",
+    "uikName": "УИК №142",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2081,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "474402966710",
+    "uikName": "УИК №143",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2059,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "474402966711",
+    "uikName": "УИК №144",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1600,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "474402966712",
+    "uikName": "УИК №145",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1842,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "474402966713",
+    "uikName": "УИК №146",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2087,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "474402966714",
+    "uikName": "УИК №147",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1575,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "474402966715",
+    "uikName": "УИК №148",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1817,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "474402966716",
+    "uikName": "УИК №149",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1704,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "474402966717",
+    "uikName": "УИК №150",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1572,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "474402966718",
+    "uikName": "УИК №151",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2003,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "474402966719",
+    "uikName": "УИК №152",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2458,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "474402966720",
+    "uikName": "УИК №153",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2283,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "474402966721",
+    "uikName": "УИК №154",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2368,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "474402966722",
+    "uikName": "УИК №155",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2414,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "474402966723",
+    "uikName": "УИК №156",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2243,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "474402966724",
+    "uikName": "УИК №157",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2629,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "474402966725",
+    "uikName": "УИК №158",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2748,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "474402966726",
+    "uikName": "УИК №159",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2327,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "474402966727",
+    "uikName": "УИК №160",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1521,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "474402966728",
+    "uikName": "УИК №161",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1592,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "474402966729",
+    "uikName": "УИК №162",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2134,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "474402966730",
+    "uikName": "УИК №163",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2387,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "474402966731",
+    "uikName": "УИК №164",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2567,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "474402966732",
+    "uikName": "УИК №165",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 969,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "474402966733",
+    "uikName": "УИК №166",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2035,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "474402966734",
+    "uikName": "УИК №167",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "474402966735",
+    "uikName": "УИК №168",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1334,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "474402966736",
+    "uikName": "УИК №169",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1069,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "474402966737",
+    "uikName": "УИК №170",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2735,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "474402966738",
+    "uikName": "УИК №171",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1469,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "474402966739",
+    "uikName": "УИК №172",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1268,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "474402966740",
+    "uikName": "УИК №173",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1447,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "474402966741",
+    "uikName": "УИК №174",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1236,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "474402966742",
+    "uikName": "УИК №175",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1997,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "474402966743",
+    "uikName": "УИК №176",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1667,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "474402966744",
+    "uikName": "УИК №177",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1970,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "474402966745",
+    "uikName": "УИК №178",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1697,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "474402966746",
+    "uikName": "УИК №179",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1622,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "474402966747",
+    "uikName": "УИК №180",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1706,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "474402966748",
+    "uikName": "УИК №181",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2677,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "474402966749",
+    "uikName": "УИК №182",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1920,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "474402966750",
+    "uikName": "УИК №183",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2218,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "474402966751",
+    "uikName": "УИК №184",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2399,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "474402966752",
+    "uikName": "УИК №185",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1509,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "474402966753",
+    "uikName": "УИК №186",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1525,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "474402966754",
+    "uikName": "УИК №187",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1770,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "474402966755",
+    "uikName": "УИК №188",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2259,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "474402966756",
+    "uikName": "УИК №189",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1613,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2861,8 +3374,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "474402966757",
+    "uikName": "УИК №190",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 818,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -2911,8 +3433,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "474402966758",
+    "uikName": "УИК №191",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1465,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2961,8 +3492,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "474402966759",
+    "uikName": "УИК №192",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1956,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3011,8 +3551,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "474402966760",
+    "uikName": "УИК №193",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3061,8 +3610,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "474402966761",
+    "uikName": "УИК №194",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 872,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3111,8 +3669,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "474402966763",
+    "uikName": "УИК №196",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2667,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3161,8 +3728,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "474402966764",
+    "uikName": "УИК №197",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 780,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -3211,8 +3787,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "474402966765",
+    "uikName": "УИК №198",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1639,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3261,8 +3846,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "474402966766",
+    "uikName": "УИК №199",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 919,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3311,8 +3905,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "474402966767",
+    "uikName": "УИК №200",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1744,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3361,8 +3964,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "474402966768",
+    "uikName": "УИК №201",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 675,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -3411,8 +4023,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "474402966769",
+    "uikName": "УИК №202",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 996,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3461,8 +4082,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "474402966770",
+    "uikName": "УИК №203",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1156,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3511,8 +4141,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "474402966771",
+    "uikName": "УИК №204",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3561,8 +4200,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "474402966772",
+    "uikName": "УИК №205",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1243,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3611,8 +4259,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "474402966773",
+    "uikName": "УИК №206",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1161,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3661,8 +4318,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "474402966774",
+    "uikName": "УИК №207",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1452,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3711,8 +4377,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "474402966775",
+    "uikName": "УИК №208",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1292,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3761,8 +4436,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "474402966776",
+    "uikName": "УИК №209",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1046,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3811,8 +4495,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "474402966777",
+    "uikName": "УИК №210",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1424,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3861,8 +4554,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "474402966778",
+    "uikName": "УИК №211",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 900,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3911,8 +4613,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "474402966779",
+    "uikName": "УИК №212",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3961,8 +4672,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "474402966780",
+    "uikName": "УИК №213",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1020,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4011,8 +4731,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "474402966781",
+    "uikName": "УИК №214",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1040,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4061,8 +4790,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "474402966782",
+    "uikName": "УИК №215",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 877,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -4111,8 +4849,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "474402966783",
+    "uikName": "УИК №216",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -4161,8 +4908,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "474402966784",
+    "uikName": "УИК №217",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -4211,8 +4967,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "474402966700",
+    "uikName": "УИК №218",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 834,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -4261,8 +5026,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 2193,
     "uikTvd": "474402969226",
+    "uikName": "УИК №2193",
     "tikTvd": "374300167355",
     "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1573,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4311,8 +5085,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "474404066691",
+    "uikName": "УИК №437",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -4361,8 +5144,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "474404066692",
+    "uikName": "УИК №438",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -4411,8 +5203,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "474404066693",
+    "uikName": "УИК №439",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -4461,8 +5262,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "474404066694",
+    "uikName": "УИК №440",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -4511,8 +5321,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "474404066695",
+    "uikName": "УИК №441",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -4561,8 +5380,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 442,
     "uikTvd": "474404066696",
+    "uikName": "УИК №442",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2873,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4611,8 +5439,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 443,
     "uikTvd": "474404066697",
+    "uikName": "УИК №443",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 681,
       "Число бюллетеней, полученных участковыми комиссиями": 595,
@@ -4661,8 +5498,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 444,
     "uikTvd": "474404066698",
+    "uikName": "УИК №444",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1715,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -4711,8 +5557,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 445,
     "uikTvd": "474404066699",
+    "uikName": "УИК №445",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1665,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -4761,8 +5616,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 446,
     "uikTvd": "474404066700",
+    "uikName": "УИК №446",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1122,
       "Число бюллетеней, полученных участковыми комиссиями": 985,
@@ -4811,8 +5675,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "474404066701",
+    "uikName": "УИК №447",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1352,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -4861,8 +5734,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "474404066702",
+    "uikName": "УИК №448",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 913,
       "Число бюллетеней, полученных участковыми комиссиями": 795,
@@ -4911,8 +5793,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "474404066703",
+    "uikName": "УИК №449",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -4961,8 +5852,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "474404066704",
+    "uikName": "УИК №450",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1453,
       "Число бюллетеней, полученных участковыми комиссиями": 1295,
@@ -5011,8 +5911,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "474404066705",
+    "uikName": "УИК №451",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1403,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -5061,8 +5970,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "474404066706",
+    "uikName": "УИК №452",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1377,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -5111,8 +6029,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "474404066707",
+    "uikName": "УИК №453",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1372,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -5161,8 +6088,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "474404066708",
+    "uikName": "УИК №454",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1429,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -5211,8 +6147,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "474404066709",
+    "uikName": "УИК №455",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1264,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -5261,8 +6206,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "474404066710",
+    "uikName": "УИК №456",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1595,
       "Число бюллетеней, полученных участковыми комиссиями": 1415,
@@ -5311,8 +6265,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "474404066711",
+    "uikName": "УИК №457",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1440,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -5361,8 +6324,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "474404066712",
+    "uikName": "УИК №458",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1548,
       "Число бюллетеней, полученных участковыми комиссиями": 1375,
@@ -5411,8 +6383,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "474404066713",
+    "uikName": "УИК №459",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 970,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -5461,8 +6442,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "474404066714",
+    "uikName": "УИК №460",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1346,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -5511,8 +6501,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "474404066715",
+    "uikName": "УИК №461",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5561,8 +6560,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "474404066716",
+    "uikName": "УИК №462",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2973,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -5611,8 +6619,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "474404066717",
+    "uikName": "УИК №463",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2763,
       "Число бюллетеней, полученных участковыми комиссиями": 2720,
@@ -5661,8 +6678,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "474404066718",
+    "uikName": "УИК №464",
     "tikTvd": "374300167360",
     "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 766,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -5711,8 +6737,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "474405066692",
+    "uikName": "УИК №336",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 671,
       "Число бюллетеней, полученных участковыми комиссиями": 655,
@@ -5761,8 +6796,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "474405066693",
+    "uikName": "УИК №337",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -5811,8 +6855,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "474405066694",
+    "uikName": "УИК №338",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -5861,8 +6914,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "474405066695",
+    "uikName": "УИК №339",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -5911,8 +6973,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "474405066696",
+    "uikName": "УИК №340",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -5961,8 +7032,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "474405066697",
+    "uikName": "УИК №341",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1099,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -6011,8 +7091,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "474405066698",
+    "uikName": "УИК №342",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 965,
       "Число бюллетеней, полученных участковыми комиссиями": 925,
@@ -6061,8 +7150,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "474405066699",
+    "uikName": "УИК №343",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -6111,8 +7209,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "474405066700",
+    "uikName": "УИК №344",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -6161,8 +7268,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "474405066701",
+    "uikName": "УИК №345",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -6211,8 +7327,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "474405066702",
+    "uikName": "УИК №346",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -6261,8 +7386,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "474405066703",
+    "uikName": "УИК №347",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -6311,8 +7445,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "474405066704",
+    "uikName": "УИК №348",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -6361,8 +7504,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "474405066705",
+    "uikName": "УИК №349",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -6411,8 +7563,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "474405066706",
+    "uikName": "УИК №350",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -6461,8 +7622,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "474405066707",
+    "uikName": "УИК №351",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -6511,8 +7681,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "474405066708",
+    "uikName": "УИК №352",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1326,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -6561,8 +7740,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "474405066709",
+    "uikName": "УИК №353",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1365,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -6611,8 +7799,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "474405066710",
+    "uikName": "УИК №354",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -6661,8 +7858,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "474405066711",
+    "uikName": "УИК №355",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -6711,8 +7917,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "474405066712",
+    "uikName": "УИК №356",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 601,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -6761,8 +7976,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "474405066713",
+    "uikName": "УИК №357",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 488,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -6811,8 +8035,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "474405066714",
+    "uikName": "УИК №358",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 894,
       "Число бюллетеней, полученных участковыми комиссиями": 845,
@@ -6861,8 +8094,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "474405066715",
+    "uikName": "УИК №359",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -6911,8 +8153,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "474405066716",
+    "uikName": "УИК №360",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -6961,8 +8212,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "474405066717",
+    "uikName": "УИК №361",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 784,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -7011,8 +8271,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "474405066718",
+    "uikName": "УИК №362",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -7061,8 +8330,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "474405066719",
+    "uikName": "УИК №363",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1208,
       "Число бюллетеней, полученных участковыми комиссиями": 1175,
@@ -7111,8 +8389,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "474405066720",
+    "uikName": "УИК №364",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 788,
       "Число бюллетеней, полученных участковыми комиссиями": 755,
@@ -7161,8 +8448,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "474405066721",
+    "uikName": "УИК №365",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -7211,8 +8507,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "474405066722",
+    "uikName": "УИК №366",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -7261,8 +8566,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "474405066723",
+    "uikName": "УИК №367",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 943,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -7311,8 +8625,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "474405066724",
+    "uikName": "УИК №368",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -7361,8 +8684,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "474405066725",
+    "uikName": "УИК №369",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -7411,8 +8743,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "474405066726",
+    "uikName": "УИК №370",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -7461,8 +8802,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "474405066727",
+    "uikName": "УИК №371",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -7511,8 +8861,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "474405066728",
+    "uikName": "УИК №372",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1037,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -7561,8 +8920,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "474405066729",
+    "uikName": "УИК №373",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -7611,8 +8979,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "474405066730",
+    "uikName": "УИК №374",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -7661,8 +9038,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "474405066731",
+    "uikName": "УИК №375",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -7711,8 +9097,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "474405066732",
+    "uikName": "УИК №376",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -7761,8 +9156,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "474405066733",
+    "uikName": "УИК №377",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -7811,8 +9215,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "474405066734",
+    "uikName": "УИК №378",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 832,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -7861,8 +9274,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "474405066735",
+    "uikName": "УИК №379",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -7911,8 +9333,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "474405066736",
+    "uikName": "УИК №380",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -7961,8 +9392,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "474405066737",
+    "uikName": "УИК №381",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -8011,8 +9451,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "474405066738",
+    "uikName": "УИК №382",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -8061,8 +9510,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "474405066739",
+    "uikName": "УИК №383",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 922,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -8111,8 +9569,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "474405066740",
+    "uikName": "УИК №384",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -8161,8 +9628,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "474405066741",
+    "uikName": "УИК №385",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -8211,8 +9687,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "474405067134",
+    "uikName": "УИК №386",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -8261,8 +9746,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "474405066743",
+    "uikName": "УИК №387",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -8311,8 +9805,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "474405066744",
+    "uikName": "УИК №388",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -8361,8 +9864,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "474405066745",
+    "uikName": "УИК №389",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -8411,8 +9923,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "474405066746",
+    "uikName": "УИК №390",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -8461,8 +9982,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "474405066747",
+    "uikName": "УИК №391",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -8511,8 +10041,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "474405066748",
+    "uikName": "УИК №392",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -8561,8 +10100,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "474405066749",
+    "uikName": "УИК №393",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 969,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -8611,8 +10159,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "474405066750",
+    "uikName": "УИК №394",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -8661,8 +10218,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "474405066751",
+    "uikName": "УИК №395",
     "tikTvd": "374300167361",
     "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -8711,8 +10277,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "474405166686",
+    "uikName": "УИК №465",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1024,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -8761,8 +10336,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "474405166687",
+    "uikName": "УИК №466",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 722,
       "Число бюллетеней, полученных участковыми комиссиями": 686,
@@ -8811,8 +10395,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "474405166688",
+    "uikName": "УИК №467",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -8861,8 +10454,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "474405166689",
+    "uikName": "УИК №468",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -8911,8 +10513,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "474405166690",
+    "uikName": "УИК №469",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1657,
       "Число бюллетеней, полученных участковыми комиссиями": 1475,
@@ -8961,8 +10572,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "474405166691",
+    "uikName": "УИК №470",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 483,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -9011,8 +10631,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "474405166692",
+    "uikName": "УИК №471",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -9061,8 +10690,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "474405166693",
+    "uikName": "УИК №472",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -9111,8 +10749,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "474405166694",
+    "uikName": "УИК №473",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1906,
       "Число бюллетеней, полученных участковыми комиссиями": 1711,
@@ -9161,8 +10808,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "474405166695",
+    "uikName": "УИК №474",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -9211,8 +10867,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "474405166696",
+    "uikName": "УИК №475",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -9261,8 +10926,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "474405166697",
+    "uikName": "УИК №476",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -9311,8 +10985,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "474405166698",
+    "uikName": "УИК №477",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -9361,8 +11044,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "474405166699",
+    "uikName": "УИК №478",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -9411,8 +11103,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "474405166700",
+    "uikName": "УИК №479",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -9461,8 +11162,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "474405166701",
+    "uikName": "УИК №480",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -9511,8 +11221,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "474405166702",
+    "uikName": "УИК №481",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 415,
       "Число бюллетеней, полученных участковыми комиссиями": 393,
@@ -9561,8 +11280,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "474405166703",
+    "uikName": "УИК №482",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -9611,8 +11339,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "474405166704",
+    "uikName": "УИК №483",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -9661,8 +11398,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "474405166705",
+    "uikName": "УИК №484",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 666,
       "Число бюллетеней, полученных участковыми комиссиями": 597,
@@ -9711,8 +11457,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "474405166706",
+    "uikName": "УИК №485",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -9761,8 +11516,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "474405166707",
+    "uikName": "УИК №486",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 101,
@@ -9811,8 +11575,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "474405166708",
+    "uikName": "УИК №487",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 506,
@@ -9861,8 +11634,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "474405166709",
+    "uikName": "УИК №488",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2510,
       "Число бюллетеней, полученных участковыми комиссиями": 2153,
@@ -9911,8 +11693,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "474405166710",
+    "uikName": "УИК №489",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -9961,8 +11752,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "474405166711",
+    "uikName": "УИК №490",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 316,
@@ -10011,8 +11811,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "474405166712",
+    "uikName": "УИК №491",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -10061,8 +11870,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "474405166713",
+    "uikName": "УИК №492",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1975,
       "Число бюллетеней, полученных участковыми комиссиями": 1735,
@@ -10111,8 +11929,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "474405166714",
+    "uikName": "УИК №493",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -10161,8 +11988,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "474405166715",
+    "uikName": "УИК №494",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -10211,8 +12047,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "474405166716",
+    "uikName": "УИК №495",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10261,8 +12106,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "474405166717",
+    "uikName": "УИК №496",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 313,
@@ -10311,8 +12165,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "474405166718",
+    "uikName": "УИК №497",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -10361,8 +12224,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "474405166719",
+    "uikName": "УИК №498",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -10411,8 +12283,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "474405166720",
+    "uikName": "УИК №499",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -10461,8 +12342,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "474405166721",
+    "uikName": "УИК №500",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1343,
       "Число бюллетеней, полученных участковыми комиссиями": 1157,
@@ -10511,8 +12401,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "474405166722",
+    "uikName": "УИК №501",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -10561,8 +12460,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "474405166723",
+    "uikName": "УИК №502",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -10611,8 +12519,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "474405166724",
+    "uikName": "УИК №503",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -10661,8 +12578,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "474405166725",
+    "uikName": "УИК №504",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 492,
@@ -10711,8 +12637,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "474405166726",
+    "uikName": "УИК №505",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 321,
@@ -10761,8 +12696,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "474405166727",
+    "uikName": "УИК №506",
     "tikTvd": "374300167362",
     "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -10811,8 +12755,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "474403666692",
+    "uikName": "УИК №298",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10861,8 +12814,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "474403666694",
+    "uikName": "УИК №299",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 759,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -10911,8 +12873,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "474403666695",
+    "uikName": "УИК №300",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1030,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10961,8 +12932,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "474403666696",
+    "uikName": "УИК №301",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1647,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11011,8 +12991,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "474403666697",
+    "uikName": "УИК №302",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2268,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11061,8 +13050,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "474403666698",
+    "uikName": "УИК №303",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2477,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11111,8 +13109,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "474403666699",
+    "uikName": "УИК №304",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1583,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11161,8 +13168,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "474403666700",
+    "uikName": "УИК №305",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1105,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11211,8 +13227,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "474403666701",
+    "uikName": "УИК №306",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1247,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -11261,8 +13286,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "474403666702",
+    "uikName": "УИК №307",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2336,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11311,8 +13345,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "474403667550",
+    "uikName": "УИК №308",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -11361,8 +13404,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "474403666704",
+    "uikName": "УИК №309",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1857,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11411,8 +13463,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "474403666705",
+    "uikName": "УИК №310",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2691,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11461,8 +13522,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "474403666706",
+    "uikName": "УИК №311",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1472,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11511,8 +13581,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "474403666707",
+    "uikName": "УИК №312",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 795,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -11561,8 +13640,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "474403666708",
+    "uikName": "УИК №313",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2442,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11611,8 +13699,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "474403666709",
+    "uikName": "УИК №314",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2435,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11661,8 +13758,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "474403666710",
+    "uikName": "УИК №315",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1150,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -11711,8 +13817,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "474403666711",
+    "uikName": "УИК №316",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1274,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11761,8 +13876,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "474403666712",
+    "uikName": "УИК №317",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2414,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11811,8 +13935,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "474403666713",
+    "uikName": "УИК №318",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1442,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11861,8 +13994,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "474403666714",
+    "uikName": "УИК №319",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 962,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -11911,8 +14053,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "474403666715",
+    "uikName": "УИК №320",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1485,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11961,8 +14112,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "474403666716",
+    "uikName": "УИК №321",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -12011,8 +14171,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "474403666717",
+    "uikName": "УИК №322",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1755,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -12061,8 +14230,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "474403666920",
+    "uikName": "УИК №323",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1281,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -12111,8 +14289,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "474403666921",
+    "uikName": "УИК №324",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2293,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -12161,8 +14348,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "474403666720",
+    "uikName": "УИК №325",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2416,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -12211,8 +14407,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "474403666721",
+    "uikName": "УИК №326",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1428,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -12261,8 +14466,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "474403666722",
+    "uikName": "УИК №327",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 782,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -12311,8 +14525,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "474403666723",
+    "uikName": "УИК №328",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 643,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -12361,8 +14584,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "474403666724",
+    "uikName": "УИК №329",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2286,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -12411,8 +14643,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "474403666725",
+    "uikName": "УИК №330",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2465,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -12461,8 +14702,17 @@ export const duma_2003_uik_428_region_74_part_002 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "474403666726",
+    "uikName": "УИК №331",
     "tikTvd": "374300167476",
     "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1266,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,

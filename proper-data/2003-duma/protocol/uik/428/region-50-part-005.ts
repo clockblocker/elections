@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1874,
     "uikTvd": "450403670402",
+    "uikName": "УИК №1874",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1875,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1875,
     "uikTvd": "450403670403",
+    "uikName": "УИК №1875",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1876,
     "uikTvd": "450403670404",
+    "uikName": "УИК №1876",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1504,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1877,
     "uikTvd": "450403670405",
+    "uikName": "УИК №1877",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1995,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1878,
     "uikTvd": "450403670406",
+    "uikName": "УИК №1878",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1000,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1879,
     "uikTvd": "450403670407",
+    "uikName": "УИК №1879",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1100,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1880,
     "uikTvd": "450403670408",
+    "uikName": "УИК №1880",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 680,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1881,
     "uikTvd": "450403670409",
+    "uikName": "УИК №1881",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1572,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1882,
     "uikTvd": "450403670410",
+    "uikName": "УИК №1882",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1785,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1883,
     "uikTvd": "450403670411",
+    "uikName": "УИК №1883",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1884,
     "uikTvd": "450403670412",
+    "uikName": "УИК №1884",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1981,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1885,
     "uikTvd": "450403670413",
+    "uikName": "УИК №1885",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 611,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1886,
     "uikTvd": "450403670414",
+    "uikName": "УИК №1886",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1243,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1887,
     "uikTvd": "450403670415",
+    "uikName": "УИК №1887",
     "tikTvd": "350300370443",
     "tikName": "Озерская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1041,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2585,
     "uikTvd": "450404970433",
+    "uikName": "УИК №2585",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2059,
       "Число бюллетеней, полученных участковыми комиссиями": 1917,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2586,
     "uikTvd": "450404970434",
+    "uikName": "УИК №2586",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1420,
       "Число бюллетеней, полученных участковыми комиссиями": 1345,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2587,
     "uikTvd": "450404970435",
+    "uikName": "УИК №2587",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 762,
       "Число бюллетеней, полученных участковыми комиссиями": 711,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2588,
     "uikTvd": "450404970436",
+    "uikName": "УИК №2588",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1561,
       "Число бюллетеней, полученных участковыми комиссиями": 1454,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2589,
     "uikTvd": "450404970437",
+    "uikName": "УИК №2589",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 568,
       "Число бюллетеней, полученных участковыми комиссиями": 509,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2590,
     "uikTvd": "450404970438",
+    "uikName": "УИК №2590",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1383,
       "Число бюллетеней, полученных участковыми комиссиями": 1311,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2591,
     "uikTvd": "450404970439",
+    "uikName": "УИК №2591",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 609,
       "Число бюллетеней, полученных участковыми комиссиями": 573,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2592,
     "uikTvd": "450404970440",
+    "uikName": "УИК №2592",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 686,
       "Число бюллетеней, полученных участковыми комиссиями": 643,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2593,
     "uikTvd": "450404970441",
+    "uikName": "УИК №2593",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 984,
       "Число бюллетеней, полученных участковыми комиссиями": 903,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2594,
     "uikTvd": "450404970442",
+    "uikName": "УИК №2594",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 560,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2595,
     "uikTvd": "450404970443",
+    "uikName": "УИК №2595",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 778,
       "Число бюллетеней, полученных участковыми комиссиями": 739,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2596,
     "uikTvd": "450404970444",
+    "uikName": "УИК №2596",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 742,
       "Число бюллетеней, полученных участковыми комиссиями": 696,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2597,
     "uikTvd": "450404970445",
+    "uikName": "УИК №2597",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 730,
       "Число бюллетеней, полученных участковыми комиссиями": 694,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2598,
     "uikTvd": "450404970446",
+    "uikName": "УИК №2598",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 917,
       "Число бюллетеней, полученных участковыми комиссиями": 1204,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2599,
     "uikTvd": "450404970447",
+    "uikName": "УИК №2599",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 687,
       "Число бюллетеней, полученных участковыми комиссиями": 662,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2600,
     "uikTvd": "450404970448",
+    "uikName": "УИК №2600",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2601,
     "uikTvd": "450404970449",
+    "uikName": "УИК №2601",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1383,
       "Число бюллетеней, полученных участковыми комиссиями": 1326,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2602,
     "uikTvd": "450404970450",
+    "uikName": "УИК №2602",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1043,
       "Число бюллетеней, полученных участковыми комиссиями": 993,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2603,
     "uikTvd": "450404970451",
+    "uikName": "УИК №2603",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2604,
     "uikTvd": "450404970452",
+    "uikName": "УИК №2604",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2605,
     "uikTvd": "450404970453",
+    "uikName": "УИК №2605",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 776,
       "Число бюллетеней, полученных участковыми комиссиями": 733,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2606,
     "uikTvd": "450404970454",
+    "uikName": "УИК №2606",
     "tikTvd": "350300370444",
     "tikName": "Серебряно-Прудская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 107,
+      "oikTvd": "100100095708",
+      "oikName": "Коломенский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 294,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "450400271037",
+    "uikName": "УИК №74",
     "tikTvd": "350300470812",
     "tikName": "Бронницкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2482,
       "Число бюллетеней, полученных участковыми комиссиями": 2217,
@@ -1822,8 +2155,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "450400271038",
+    "uikName": "УИК №75",
     "tikTvd": "350300470812",
     "tikName": "Бронницкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2154,
       "Число бюллетеней, полученных участковыми комиссиями": 2049,
@@ -1869,8 +2211,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "450400271039",
+    "uikName": "УИК №76",
     "tikTvd": "350300470812",
     "tikName": "Бронницкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2097,
       "Число бюллетеней, полученных участковыми комиссиями": 1996,
@@ -1916,8 +2267,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "450400271040",
+    "uikName": "УИК №77",
     "tikTvd": "350300470812",
     "tikName": "Бронницкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2276,
       "Число бюллетеней, полученных участковыми комиссиями": 2235,
@@ -1963,8 +2323,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "450400271041",
+    "uikName": "УИК №78",
     "tikTvd": "350300470812",
     "tikName": "Бронницкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1706,
       "Число бюллетеней, полученных участковыми комиссиями": 1644,
@@ -2010,8 +2379,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "450400271042",
+    "uikName": "УИК №79",
     "tikTvd": "350300470812",
     "tikName": "Бронницкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2043,
       "Число бюллетеней, полученных участковыми комиссиями": 2014,
@@ -2057,8 +2435,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "450400271043",
+    "uikName": "УИК №80",
     "tikTvd": "350300470812",
     "tikName": "Бронницкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2215,
       "Число бюллетеней, полученных участковыми комиссиями": 2045,
@@ -2104,8 +2491,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "450406970380",
+    "uikName": "УИК №196",
     "tikTvd": "350300470813",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2785,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -2151,8 +2547,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "450406970381",
+    "uikName": "УИК №197",
     "tikTvd": "350300470813",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2721,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -2198,8 +2603,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "450406970382",
+    "uikName": "УИК №198",
     "tikTvd": "350300470813",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2757,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -2245,8 +2659,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "450406970383",
+    "uikName": "УИК №199",
     "tikTvd": "350300470813",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2799,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -2292,8 +2715,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "450406970384",
+    "uikName": "УИК №200",
     "tikTvd": "350300470813",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2809,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -2339,8 +2771,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "450406970385",
+    "uikName": "УИК №201",
     "tikTvd": "350300470813",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2889,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -2386,8 +2827,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "450406970386",
+    "uikName": "УИК №202",
     "tikTvd": "350300470813",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2775,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -2433,8 +2883,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "450406970387",
+    "uikName": "УИК №203",
     "tikTvd": "350300470813",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2592,
       "Число бюллетеней, полученных участковыми комиссиями": 2584,
@@ -2480,8 +2939,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "450406970388",
+    "uikName": "УИК №204",
     "tikTvd": "350300470813",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2669,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -2527,8 +2995,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "450406970389",
+    "uikName": "УИК №205",
     "tikTvd": "350300470813",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2727,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -2574,8 +3051,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "450406970390",
+    "uikName": "УИК №206",
     "tikTvd": "350300470813",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2756,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -2621,8 +3107,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "450406970391",
+    "uikName": "УИК №207",
     "tikTvd": "350300470813",
     "tikName": "Дзержинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2721,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -2668,8 +3163,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "450401170430",
+    "uikName": "УИК №523",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2945,
       "Число бюллетеней, полученных участковыми комиссиями": 2610,
@@ -2715,8 +3219,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "450401170431",
+    "uikName": "УИК №524",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2955,
       "Число бюллетеней, полученных участковыми комиссиями": 2640,
@@ -2762,8 +3275,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "450401170432",
+    "uikName": "УИК №525",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2994,
       "Число бюллетеней, полученных участковыми комиссиями": 2690,
@@ -2809,8 +3331,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "450401170433",
+    "uikName": "УИК №526",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2808,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -2856,8 +3387,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "450401170434",
+    "uikName": "УИК №527",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2600,
       "Число бюллетеней, полученных участковыми комиссиями": 2373,
@@ -2903,8 +3443,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "450401170435",
+    "uikName": "УИК №528",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2197,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -2950,8 +3499,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "450401170436",
+    "uikName": "УИК №529",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2265,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2997,8 +3555,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "450401170437",
+    "uikName": "УИК №530",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2181,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -3044,8 +3611,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "450401170438",
+    "uikName": "УИК №531",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2377,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -3091,8 +3667,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "450401170439",
+    "uikName": "УИК №532",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2855,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -3138,8 +3723,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "450401170440",
+    "uikName": "УИК №533",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2278,
       "Число бюллетеней, полученных участковыми комиссиями": 2072,
@@ -3185,8 +3779,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "450401170441",
+    "uikName": "УИК №534",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2250,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3232,8 +3835,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "450401170442",
+    "uikName": "УИК №535",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2752,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -3279,8 +3891,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "450401170443",
+    "uikName": "УИК №536",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2277,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -3326,8 +3947,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "450401170444",
+    "uikName": "УИК №537",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2733,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -3373,8 +4003,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "450401170445",
+    "uikName": "УИК №538",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2784,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3420,8 +4059,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "450401170446",
+    "uikName": "УИК №539",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2324,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "450401170447",
+    "uikName": "УИК №540",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2395,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -3514,8 +4171,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "450401170448",
+    "uikName": "УИК №541",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2481,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -3561,8 +4227,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "450401170449",
+    "uikName": "УИК №542",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2543,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -3608,8 +4283,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "450401170450",
+    "uikName": "УИК №543",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -3655,8 +4339,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "450401170451",
+    "uikName": "УИК №544",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2900,
       "Число бюллетеней, полученных участковыми комиссиями": 2590,
@@ -3702,8 +4395,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 545,
     "uikTvd": "450401170452",
+    "uikName": "УИК №545",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2371,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -3749,8 +4451,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 546,
     "uikTvd": "450401170453",
+    "uikName": "УИК №546",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -3796,8 +4507,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 547,
     "uikTvd": "450401170454",
+    "uikName": "УИК №547",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2571,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -3843,8 +4563,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 548,
     "uikTvd": "450401170455",
+    "uikName": "УИК №548",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2448,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -3890,8 +4619,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 549,
     "uikTvd": "450401170456",
+    "uikName": "УИК №549",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1975,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -3937,8 +4675,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "450401170457",
+    "uikName": "УИК №550",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2360,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -3984,8 +4731,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "450401170458",
+    "uikName": "УИК №551",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2547,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4031,8 +4787,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "450401170459",
+    "uikName": "УИК №552",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1904,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -4078,8 +4843,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "450401170460",
+    "uikName": "УИК №553",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2674,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -4125,8 +4899,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "450401170461",
+    "uikName": "УИК №554",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2627,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -4172,8 +4955,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "450401170462",
+    "uikName": "УИК №555",
     "tikTvd": "350300470814",
     "tikName": "Жуковская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -4219,8 +5011,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 991,
     "uikTvd": "450407170396",
+    "uikName": "УИК  991",
     "tikTvd": "350300470815",
     "tikName": "Котельниковская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4266,8 +5067,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 992,
     "uikTvd": "450407170397",
+    "uikName": "УИК  992",
     "tikTvd": "350300470815",
     "tikName": "Котельниковская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1936,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4313,8 +5123,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 993,
     "uikTvd": "450407170398",
+    "uikName": "УИК  993",
     "tikTvd": "350300470815",
     "tikName": "Котельниковская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2010,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4360,8 +5179,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 994,
     "uikTvd": "450407170399",
+    "uikName": "УИК  994",
     "tikTvd": "350300470815",
     "tikName": "Котельниковская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2020,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4407,8 +5235,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 995,
     "uikTvd": "450407170400",
+    "uikName": "УИК  995",
     "tikTvd": "350300470815",
     "tikName": "Котельниковская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1674,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4454,8 +5291,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 996,
     "uikTvd": "450407170401",
+    "uikName": "УИК  996",
     "tikTvd": "350300470815",
     "tikName": "Котельниковская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1665,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4501,8 +5347,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 997,
     "uikTvd": "450407170402",
+    "uikName": "УИК  997",
     "tikTvd": "350300470815",
     "tikName": "Котельниковская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2142,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4548,8 +5403,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 998,
     "uikTvd": "450407170403",
+    "uikName": "УИК  998",
     "tikTvd": "350300470815",
     "tikName": "Котельниковская поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2292,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4595,8 +5459,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1274,
     "uikTvd": "450402970662",
+    "uikName": "УИК №1274",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2081,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4642,8 +5515,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1275,
     "uikTvd": "450402970663",
+    "uikName": "УИК №1275",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4689,8 +5571,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1276,
     "uikTvd": "450402970664",
+    "uikName": "УИК №1276",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1947,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4736,8 +5627,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1277,
     "uikTvd": "450402970665",
+    "uikName": "УИК №1277",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1980,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4783,8 +5683,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1278,
     "uikTvd": "450402970666",
+    "uikName": "УИК №1278",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2644,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4830,8 +5739,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1279,
     "uikTvd": "450402970667",
+    "uikName": "УИК №1279",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1098,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4877,8 +5795,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1280,
     "uikTvd": "450402970668",
+    "uikName": "УИК №1280",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1973,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4924,8 +5851,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1281,
     "uikTvd": "450402970669",
+    "uikName": "УИК №1281",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1436,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4971,8 +5907,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1282,
     "uikTvd": "450402970670",
+    "uikName": "УИК №1282",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1066,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5018,8 +5963,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1283,
     "uikTvd": "450402970671",
+    "uikName": "УИК №1283",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1054,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5065,8 +6019,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1284,
     "uikTvd": "450402970672",
+    "uikName": "УИК №1284",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1612,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5112,8 +6075,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1285,
     "uikTvd": "450402970673",
+    "uikName": "УИК №1285",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1041,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5159,8 +6131,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1286,
     "uikTvd": "450402970674",
+    "uikName": "УИК №1286",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1855,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5206,8 +6187,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1287,
     "uikTvd": "450402970675",
+    "uikName": "УИК №1287",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1923,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5253,8 +6243,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1288,
     "uikTvd": "450402970676",
+    "uikName": "УИК №1288",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1890,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5300,8 +6299,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1289,
     "uikTvd": "450402970677",
+    "uikName": "УИК №1289",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1929,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5347,8 +6355,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1290,
     "uikTvd": "450402970678",
+    "uikName": "УИК №1290",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5394,8 +6411,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1291,
     "uikTvd": "450402970679",
+    "uikName": "УИК №1291",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5441,8 +6467,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1292,
     "uikTvd": "450402970680",
+    "uikName": "УИК №1292",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5488,8 +6523,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1293,
     "uikTvd": "450402970681",
+    "uikName": "УИК №1293",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2358,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5535,8 +6579,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1294,
     "uikTvd": "450402970682",
+    "uikName": "УИК №1294",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2417,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5582,8 +6635,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1295,
     "uikTvd": "450402970683",
+    "uikName": "УИК №1295",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2009,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5629,8 +6691,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1296,
     "uikTvd": "450402970684",
+    "uikName": "УИК №1296",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2001,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5676,8 +6747,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1297,
     "uikTvd": "450402970685",
+    "uikName": "УИК №1297",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2255,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5723,8 +6803,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1298,
     "uikTvd": "450402970686",
+    "uikName": "УИК №1298",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2433,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5770,8 +6859,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1299,
     "uikTvd": "450402970687",
+    "uikName": "УИК №1299",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2614,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5817,8 +6915,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1300,
     "uikTvd": "450402970688",
+    "uikName": "УИК №1300",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2925,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5864,8 +6971,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1301,
     "uikTvd": "450402970689",
+    "uikName": "УИК №1301",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3073,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -5911,8 +7027,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1302,
     "uikTvd": "450402970690",
+    "uikName": "УИК №1302",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1488,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5958,8 +7083,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1303,
     "uikTvd": "450402970691",
+    "uikName": "УИК №1303",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1972,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6005,8 +7139,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1304,
     "uikTvd": "450402970692",
+    "uikName": "УИК №1304",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2119,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6052,8 +7195,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1305,
     "uikTvd": "450402970693",
+    "uikName": "УИК №1305",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2273,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6099,8 +7251,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1306,
     "uikTvd": "450402970694",
+    "uikName": "УИК №1306",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2014,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6146,8 +7307,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1307,
     "uikTvd": "450402970695",
+    "uikName": "УИК №1307",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1596,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6193,8 +7363,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1308,
     "uikTvd": "450402970696",
+    "uikName": "УИК №1308",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1852,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6240,8 +7419,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1309,
     "uikTvd": "450402970697",
+    "uikName": "УИК №1309",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1996,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6287,8 +7475,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1310,
     "uikTvd": "450402970698",
+    "uikName": "УИК №1310",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6334,8 +7531,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1311,
     "uikTvd": "450402970699",
+    "uikName": "УИК №1311",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2221,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6381,8 +7587,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1312,
     "uikTvd": "450402970700",
+    "uikName": "УИК №1312",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6428,8 +7643,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1313,
     "uikTvd": "450402970701",
+    "uikName": "УИК №1313",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2216,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6475,8 +7699,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1314,
     "uikTvd": "450402970702",
+    "uikName": "УИК №1314",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2077,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6522,8 +7755,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1315,
     "uikTvd": "450402970703",
+    "uikName": "УИК №1315",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2164,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6569,8 +7811,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1316,
     "uikTvd": "450402970704",
+    "uikName": "УИК №1316",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1328,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6616,8 +7867,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1317,
     "uikTvd": "450402970705",
+    "uikName": "УИК №1317",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1757,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6663,8 +7923,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1318,
     "uikTvd": "450402970706",
+    "uikName": "УИК №1318",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2552,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6710,8 +7979,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1319,
     "uikTvd": "450402970707",
+    "uikName": "УИК №1319",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2769,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6757,8 +8035,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1320,
     "uikTvd": "450402970708",
+    "uikName": "УИК №1320",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2743,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6804,8 +8091,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1321,
     "uikTvd": "450402970709",
+    "uikName": "УИК №1321",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2516,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6851,8 +8147,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1322,
     "uikTvd": "450402970710",
+    "uikName": "УИК №1322",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2068,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6898,8 +8203,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1323,
     "uikTvd": "450402970711",
+    "uikName": "УИК №1323",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2686,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6945,8 +8259,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1324,
     "uikTvd": "450402970712",
+    "uikName": "УИК №1324",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2497,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6992,8 +8315,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1325,
     "uikTvd": "450402970713",
+    "uikName": "УИК №1325",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2350,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7039,8 +8371,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1326,
     "uikTvd": "450402970714",
+    "uikName": "УИК №1326",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2071,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7086,8 +8427,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1327,
     "uikTvd": "450402970715",
+    "uikName": "УИК №1327",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2322,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7133,8 +8483,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1328,
     "uikTvd": "450402970716",
+    "uikName": "УИК №1328",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2309,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7180,8 +8539,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1329,
     "uikTvd": "450402970717",
+    "uikName": "УИК №1329",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7227,8 +8595,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1330,
     "uikTvd": "450402970718",
+    "uikName": "УИК №1330",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2615,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7274,8 +8651,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1331,
     "uikTvd": "450402970719",
+    "uikName": "УИК №1331",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2683,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7321,8 +8707,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1332,
     "uikTvd": "450402970720",
+    "uikName": "УИК №1332",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2823,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7368,8 +8763,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1333,
     "uikTvd": "450402970721",
+    "uikName": "УИК №1333",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2489,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7415,8 +8819,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1334,
     "uikTvd": "450402970722",
+    "uikName": "УИК №1334",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2555,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7462,8 +8875,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1335,
     "uikTvd": "450402970723",
+    "uikName": "УИК №1335",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2682,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7509,8 +8931,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1336,
     "uikTvd": "450402970724",
+    "uikName": "УИК №1336",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2497,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7556,8 +8987,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1337,
     "uikTvd": "450402970725",
+    "uikName": "УИК №1337",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1855,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7603,8 +9043,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1338,
     "uikTvd": "450402970726",
+    "uikName": "УИК №1338",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2103,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7650,8 +9099,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1339,
     "uikTvd": "450402970727",
+    "uikName": "УИК №1339",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1959,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7697,8 +9155,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1340,
     "uikTvd": "450402970728",
+    "uikName": "УИК №1340",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1828,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7744,8 +9211,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1341,
     "uikTvd": "450402970729",
+    "uikName": "УИК №1341",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 743,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -7791,8 +9267,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1342,
     "uikTvd": "450402970730",
+    "uikName": "УИК №1342",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -7838,8 +9323,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1343,
     "uikTvd": "450402970731",
+    "uikName": "УИК №1343",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1903,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7885,8 +9379,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1344,
     "uikTvd": "450402970732",
+    "uikName": "УИК №1344",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1925,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7932,8 +9435,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1345,
     "uikTvd": "450402970733",
+    "uikName": "УИК №1345",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2008,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7979,8 +9491,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1346,
     "uikTvd": "450402970734",
+    "uikName": "УИК №1346",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 741,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -8026,8 +9547,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1347,
     "uikTvd": "450402970735",
+    "uikName": "УИК №1347",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 968,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -8073,8 +9603,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1348,
     "uikTvd": "450402970736",
+    "uikName": "УИК №1348",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 980,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -8120,8 +9659,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1349,
     "uikTvd": "450402970737",
+    "uikName": "УИК №1349",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1570,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8167,8 +9715,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1350,
     "uikTvd": "450402970738",
+    "uikName": "УИК №1350",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1812,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8214,8 +9771,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1351,
     "uikTvd": "450402970739",
+    "uikName": "УИК №1351",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2881,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -8261,8 +9827,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1352,
     "uikTvd": "450402970740",
+    "uikName": "УИК №1352",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1849,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8308,8 +9883,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1353,
     "uikTvd": "450402970741",
+    "uikName": "УИК №1353",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8355,8 +9939,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1354,
     "uikTvd": "450402970742",
+    "uikName": "УИК №1354",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1405,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8402,8 +9995,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1355,
     "uikTvd": "450402970743",
+    "uikName": "УИК №1355",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1942,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8449,8 +10051,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1356,
     "uikTvd": "450402970744",
+    "uikName": "УИК №1356",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 790,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8496,8 +10107,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1357,
     "uikTvd": "450402970745",
+    "uikName": "УИК №1357",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 729,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8543,8 +10163,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1358,
     "uikTvd": "450402970746",
+    "uikName": "УИК №1358",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 674,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -8590,8 +10219,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1359,
     "uikTvd": "450402970747",
+    "uikName": "УИК №1359",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 606,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -8637,8 +10275,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1360,
     "uikTvd": "450402970748",
+    "uikName": "УИК №1360",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -8684,8 +10331,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1361,
     "uikTvd": "450402970749",
+    "uikName": "УИК №1361",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -8731,8 +10387,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1362,
     "uikTvd": "450402970750",
+    "uikName": "УИК №1362",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8778,8 +10443,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1363,
     "uikTvd": "450402970751",
+    "uikName": "УИК №1363",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1309,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8825,8 +10499,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1364,
     "uikTvd": "450402970752",
+    "uikName": "УИК №1364",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2136,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8872,8 +10555,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1365,
     "uikTvd": "450402970753",
+    "uikName": "УИК №1365",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1422,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8919,8 +10611,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1366,
     "uikTvd": "450402970754",
+    "uikName": "УИК №1366",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1151,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8966,8 +10667,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1367,
     "uikTvd": "450402970755",
+    "uikName": "УИК №1367",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1387,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -9013,8 +10723,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1368,
     "uikTvd": "450402970756",
+    "uikName": "УИК №1368",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2542,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9060,8 +10779,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1369,
     "uikTvd": "450402970757",
+    "uikName": "УИК №1369",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2763,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9107,8 +10835,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1370,
     "uikTvd": "450402970758",
+    "uikName": "УИК №1370",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9154,8 +10891,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1371,
     "uikTvd": "450402970759",
+    "uikName": "УИК №1371",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9201,8 +10947,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1372,
     "uikTvd": "450402970760",
+    "uikName": "УИК №1372",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2612,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9248,8 +11003,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1373,
     "uikTvd": "450402970761",
+    "uikName": "УИК №1373",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1842,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9295,8 +11059,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1374,
     "uikTvd": "450402970762",
+    "uikName": "УИК №1374",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1864,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9342,8 +11115,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1375,
     "uikTvd": "450402970763",
+    "uikName": "УИК №1375",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2454,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9389,8 +11171,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1376,
     "uikTvd": "450402970764",
+    "uikName": "УИК №1376",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1914,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9436,8 +11227,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1377,
     "uikTvd": "450402970765",
+    "uikName": "УИК №1377",
     "tikTvd": "350300470816",
     "tikName": "Люберецкая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -9483,8 +11283,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2292,
     "uikTvd": "450404570578",
+    "uikName": "УИК №2292",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1784,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9530,8 +11339,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2293,
     "uikTvd": "450404570580",
+    "uikName": "УИК №2293",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1954,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9577,8 +11395,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2294,
     "uikTvd": "450404570582",
+    "uikName": "УИК №2294",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1634,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9624,8 +11451,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2295,
     "uikTvd": "450404570584",
+    "uikName": "УИК №2295",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9671,8 +11507,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2296,
     "uikTvd": "450404570586",
+    "uikName": "УИК №2296",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1473,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9718,8 +11563,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2297,
     "uikTvd": "450404570588",
+    "uikName": "УИК №2297",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1766,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9765,8 +11619,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2298,
     "uikTvd": "450404570590",
+    "uikName": "УИК №2298",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2655,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9812,8 +11675,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2299,
     "uikTvd": "450404570592",
+    "uikName": "УИК №2299",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1758,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9859,8 +11731,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2300,
     "uikTvd": "450404570594",
+    "uikName": "УИК №2300",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2424,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9906,8 +11787,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2301,
     "uikTvd": "450404570596",
+    "uikName": "УИК №2301",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2088,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9953,8 +11843,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2302,
     "uikTvd": "450404570598",
+    "uikName": "УИК №2302",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2546,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10000,8 +11899,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2303,
     "uikTvd": "450404570600",
+    "uikName": "УИК №2303",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2641,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10047,8 +11955,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2304,
     "uikTvd": "450404570602",
+    "uikName": "УИК №2304",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1915,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10094,8 +12011,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2305,
     "uikTvd": "450404570843",
+    "uikName": "УИК №2305",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 63,
@@ -10141,8 +12067,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2306,
     "uikTvd": "450404570604",
+    "uikName": "УИК №2306",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2251,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10188,8 +12123,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2307,
     "uikTvd": "450404570606",
+    "uikName": "УИК №2307",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2473,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10235,8 +12179,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2308,
     "uikTvd": "450404570608",
+    "uikName": "УИК №2308",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2584,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10282,8 +12235,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2309,
     "uikTvd": "450404570610",
+    "uikName": "УИК №2309",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1697,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10329,8 +12291,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2310,
     "uikTvd": "450404570612",
+    "uikName": "УИК №2310",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2055,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10376,8 +12347,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2311,
     "uikTvd": "450404570614",
+    "uikName": "УИК №2311",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2376,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10423,8 +12403,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2312,
     "uikTvd": "450404570616",
+    "uikName": "УИК №2312",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1081,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10470,8 +12459,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2313,
     "uikTvd": "450404570618",
+    "uikName": "УИК №2313",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1163,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10517,8 +12515,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2314,
     "uikTvd": "450404570620",
+    "uikName": "УИК №2314",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2056,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10564,8 +12571,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2315,
     "uikTvd": "450404570622",
+    "uikName": "УИК №2315",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2405,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10611,8 +12627,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2316,
     "uikTvd": "450404570624",
+    "uikName": "УИК №2316",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1980,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10658,8 +12683,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2317,
     "uikTvd": "450404570626",
+    "uikName": "УИК №2317",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2506,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10705,8 +12739,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2318,
     "uikTvd": "450404570630",
+    "uikName": "УИК №2318",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1149,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -10752,8 +12795,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2319,
     "uikTvd": "450404570632",
+    "uikName": "УИК №2319",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2074,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10799,8 +12851,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2320,
     "uikTvd": "450404570634",
+    "uikName": "УИК №2320",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1852,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10846,8 +12907,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2321,
     "uikTvd": "450404570636",
+    "uikName": "УИК №2321",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1904,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10893,8 +12963,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2322,
     "uikTvd": "450404570638",
+    "uikName": "УИК №2322",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2490,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10940,8 +13019,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2323,
     "uikTvd": "450404570640",
+    "uikName": "УИК №2323",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2167,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10987,8 +13075,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2324,
     "uikTvd": "450404570642",
+    "uikName": "УИК №2324",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2233,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11034,8 +13131,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2325,
     "uikTvd": "450404570644",
+    "uikName": "УИК №2325",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1971,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11081,8 +13187,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2326,
     "uikTvd": "450404570646",
+    "uikName": "УИК №2326",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1134,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11128,8 +13243,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2327,
     "uikTvd": "450404570648",
+    "uikName": "УИК №2327",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1852,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11175,8 +13299,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2328,
     "uikTvd": "450404570650",
+    "uikName": "УИК №2328",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1375,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11222,8 +13355,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2329,
     "uikTvd": "450404570652",
+    "uikName": "УИК №2329",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2206,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11269,8 +13411,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2330,
     "uikTvd": "450404570654",
+    "uikName": "УИК №2330",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1681,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11316,8 +13467,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2331,
     "uikTvd": "450404570656",
+    "uikName": "УИК №2331",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 998,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -11363,8 +13523,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2332,
     "uikTvd": "450404570658",
+    "uikName": "УИК №2332",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1877,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -11410,8 +13579,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2333,
     "uikTvd": "450404570660",
+    "uikName": "УИК №2333",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1255,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -11457,8 +13635,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2334,
     "uikTvd": "450404570662",
+    "uikName": "УИК №2334",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2416,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11504,8 +13691,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2335,
     "uikTvd": "450404570664",
+    "uikName": "УИК №2335",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 951,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -11551,8 +13747,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2336,
     "uikTvd": "450404570666",
+    "uikName": "УИК №2336",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -11598,8 +13803,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2337,
     "uikTvd": "450404570668",
+    "uikName": "УИК №2337",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 695,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -11645,8 +13859,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2338,
     "uikTvd": "450404570670",
+    "uikName": "УИК №2338",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1460,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11692,8 +13915,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2339,
     "uikTvd": "450404570672",
+    "uikName": "УИК №2339",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 897,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -11739,8 +13971,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2340,
     "uikTvd": "450404570674",
+    "uikName": "УИК №2340",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2149,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11786,8 +14027,17 @@ export const duma_2003_uik_428_region_50_part_005 = [
     "ballot": "single-member",
     "uikNumber": 2341,
     "uikTvd": "450404570676",
+    "uikName": "УИК №2341",
     "tikTvd": "350300470817",
     "tikName": "Раменская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 108,
+      "oikTvd": "100100095709",
+      "oikName": "Люберецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2371,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,

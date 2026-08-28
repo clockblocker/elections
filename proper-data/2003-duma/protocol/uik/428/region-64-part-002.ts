@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "464401970360",
+    "uikName": "УИК №349",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 920,
       "Число бюллетеней, полученных участковыми комиссиями": 917,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "464401970361",
+    "uikName": "УИК №350",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1580,
       "Число бюллетеней, полученных участковыми комиссиями": 1578,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "464401970362",
+    "uikName": "УИК №351",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2293,
       "Число бюллетеней, полученных участковыми комиссиями": 2028,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "464401970363",
+    "uikName": "УИК №352",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1112,
       "Число бюллетеней, полученных участковыми комиссиями": 1142,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "464401970364",
+    "uikName": "УИК №353",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 342,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "464401970365",
+    "uikName": "УИК №354",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 573,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "464401970366",
+    "uikName": "УИК №355",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 599,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "464401970367",
+    "uikName": "УИК №356",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 471,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "464401970368",
+    "uikName": "УИК №357",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "464401970369",
+    "uikName": "УИК №358",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 549,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "464401970370",
+    "uikName": "УИК №359",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 606,
       "Число бюллетеней, полученных участковыми комиссиями": 622,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "464401970371",
+    "uikName": "УИК №360",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1016,
       "Число бюллетеней, полученных участковыми комиссиями": 1035,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "464401970372",
+    "uikName": "УИК №361",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 517,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "464401970373",
+    "uikName": "УИК №362",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 421,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "464401970374",
+    "uikName": "УИК №363",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 478,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "464401970375",
+    "uikName": "УИК №364",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "464401970376",
+    "uikName": "УИК №365",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 577,
       "Число бюллетеней, полученных участковыми комиссиями": 596,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "464401970377",
+    "uikName": "УИК №366",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "464401970378",
+    "uikName": "УИК №367",
     "tikTvd": "364300170826",
     "tikName": "Краснопартизанская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1456,
       "Число бюллетеней, полученных участковыми комиссиями": 1543,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "464402370725",
+    "uikName": "УИК №368",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1627,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "464402370727",
+    "uikName": "УИК №369",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1043,
       "Число бюллетеней, полученных участковыми комиссиями": 1005,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "464402370729",
+    "uikName": "УИК №370",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1836,
       "Число бюллетеней, полученных участковыми комиссиями": 1813,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "464402370731",
+    "uikName": "УИК №371",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "464402370733",
+    "uikName": "УИК №372",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "464402370735",
+    "uikName": "УИК №373",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 222,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "464402370737",
+    "uikName": "УИК №374",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1383,
       "Число бюллетеней, полученных участковыми комиссиями": 1338,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "464402370739",
+    "uikName": "УИК №375",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2214,
       "Число бюллетеней, полученных участковыми комиссиями": 2124,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "464402370741",
+    "uikName": "УИК №376",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1318,
       "Число бюллетеней, полученных участковыми комиссиями": 1301,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "464402370743",
+    "uikName": "УИК №377",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1050,
       "Число бюллетеней, полученных участковыми комиссиями": 1049,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "464402370745",
+    "uikName": "УИК №378",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1880,
       "Число бюллетеней, полученных участковыми комиссиями": 1817,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "464402370747",
+    "uikName": "УИК №379",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 233,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "464402370749",
+    "uikName": "УИК №380",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 886,
       "Число бюллетеней, полученных участковыми комиссиями": 883,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "464402370751",
+    "uikName": "УИК №381",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 166,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "464402370753",
+    "uikName": "УИК №382",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "464402370755",
+    "uikName": "УИК №383",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "464402370757",
+    "uikName": "УИК №384",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 129,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "464402370759",
+    "uikName": "УИК №385",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1212,
       "Число бюллетеней, полученных участковыми комиссиями": 1207,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "464402370761",
+    "uikName": "УИК №386",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 113,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "464402370763",
+    "uikName": "УИК №387",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "464402370765",
+    "uikName": "УИК №388",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "464402370767",
+    "uikName": "УИК №389",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 84,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "464402370769",
+    "uikName": "УИК №390",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 675,
       "Число бюллетеней, полученных участковыми комиссиями": 664,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "464402370771",
+    "uikName": "УИК №391",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "464402370773",
+    "uikName": "УИК №392",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 96,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "464402370775",
+    "uikName": "УИК №393",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 456,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "464402370777",
+    "uikName": "УИК №394",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "464402370779",
+    "uikName": "УИК №395",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1207,
       "Число бюллетеней, полученных участковыми комиссиями": 1161,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "464402370781",
+    "uikName": "УИК №396",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 419,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "464402370783",
+    "uikName": "УИК №397",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 843,
       "Число бюллетеней, полученных участковыми комиссиями": 822,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "464402370785",
+    "uikName": "УИК №398",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "464402370787",
+    "uikName": "УИК №399",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "464402370789",
+    "uikName": "УИК №400",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "464402370791",
+    "uikName": "УИК №401",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "464402370793",
+    "uikName": "УИК №402",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 51,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "464402370795",
+    "uikName": "УИК №403",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 814,
       "Число бюллетеней, полученных участковыми комиссиями": 826,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "464402370797",
+    "uikName": "УИК №404",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "464402370799",
+    "uikName": "УИК №405",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -2861,8 +3374,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "464402370801",
+    "uikName": "УИК №406",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -2911,8 +3433,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "464402370803",
+    "uikName": "УИК №407",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 176,
@@ -2961,8 +3492,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "464402370805",
+    "uikName": "УИК №408",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -3011,8 +3551,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "464402370809",
+    "uikName": "УИК №409",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -3061,8 +3610,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "464402370811",
+    "uikName": "УИК №410",
     "tikTvd": "364300170827",
     "tikName": "Новоузенская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 585,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -3111,8 +3669,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "464402470367",
+    "uikName": "УИК №411",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1020,
       "Число бюллетеней, полученных участковыми комиссиями": 953,
@@ -3161,8 +3728,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "464402470368",
+    "uikName": "УИК №412",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1495,
       "Число бюллетеней, полученных участковыми комиссиями": 1419,
@@ -3211,8 +3787,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "464402470369",
+    "uikName": "УИК №413",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1427,
       "Число бюллетеней, полученных участковыми комиссиями": 1349,
@@ -3261,8 +3846,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "464402470370",
+    "uikName": "УИК №414",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 898,
       "Число бюллетеней, полученных участковыми комиссиями": 842,
@@ -3311,8 +3905,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "464402470371",
+    "uikName": "УИК №415",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1388,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -3361,8 +3964,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "464402470372",
+    "uikName": "УИК №416",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 22,
       "Число бюллетеней, полученных участковыми комиссиями": 30,
@@ -3411,8 +4023,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "464402470373",
+    "uikName": "УИК №417",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 594,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -3461,8 +4082,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "464402470374",
+    "uikName": "УИК №418",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 641,
@@ -3511,8 +4141,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "464402470375",
+    "uikName": "УИК №419",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -3561,8 +4200,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "464402470376",
+    "uikName": "УИК №420",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 993,
       "Число бюллетеней, полученных участковыми комиссиями": 953,
@@ -3611,8 +4259,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "464402470377",
+    "uikName": "УИК №421",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 588,
       "Число бюллетеней, полученных участковыми комиссиями": 542,
@@ -3661,8 +4318,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "464402470378",
+    "uikName": "УИК №422",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 748,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -3711,8 +4377,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "464402470379",
+    "uikName": "УИК №423",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 802,
       "Число бюллетеней, полученных участковыми комиссиями": 778,
@@ -3761,8 +4436,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "464402470380",
+    "uikName": "УИК №424",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -3811,8 +4495,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "464402470381",
+    "uikName": "УИК №425",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 487,
@@ -3861,8 +4554,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "464402470382",
+    "uikName": "УИК №426",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -3911,8 +4613,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "464402470383",
+    "uikName": "УИК №427",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3961,8 +4672,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "464402470384",
+    "uikName": "УИК №428",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 623,
       "Число бюллетеней, полученных участковыми комиссиями": 576,
@@ -4011,8 +4731,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "464402470385",
+    "uikName": "УИК №429",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 829,
@@ -4061,8 +4790,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "464402470386",
+    "uikName": "УИК №430",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 582,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -4111,8 +4849,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "464402470387",
+    "uikName": "УИК №431",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 506,
       "Число бюллетеней, полученных участковыми комиссиями": 495,
@@ -4161,8 +4908,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "464402470388",
+    "uikName": "УИК №432",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 534,
       "Число бюллетеней, полученных участковыми комиссиями": 511,
@@ -4211,8 +4967,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "464402470389",
+    "uikName": "УИК №433",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 485,
       "Число бюллетеней, полученных участковыми комиссиями": 462,
@@ -4261,8 +5026,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "464402470390",
+    "uikName": "УИК №434",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -4311,8 +5085,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "464402470391",
+    "uikName": "УИК №435",
     "tikTvd": "364300170828",
     "tikName": "Озинская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 507,
@@ -4361,8 +5144,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "464402570368",
+    "uikName": "УИК №458",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2194,
       "Число бюллетеней, полученных участковыми комиссиями": 2176,
@@ -4411,8 +5203,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "464402570369",
+    "uikName": "УИК №459",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2669,
       "Число бюллетеней, полученных участковыми комиссиями": 2675,
@@ -4461,8 +5262,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "464402570370",
+    "uikName": "УИК №460",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 638,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -4511,8 +5321,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "464402570371",
+    "uikName": "УИК №461",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 580,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4561,8 +5380,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "464402570372",
+    "uikName": "УИК №462",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -4611,8 +5439,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "464402570373",
+    "uikName": "УИК №463",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -4661,8 +5498,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "464402570374",
+    "uikName": "УИК №464",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -4711,8 +5557,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "464402570375",
+    "uikName": "УИК №465",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -4761,8 +5616,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "464402570376",
+    "uikName": "УИК №466",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -4811,8 +5675,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "464402570377",
+    "uikName": "УИК №467",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 269,
@@ -4861,8 +5734,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "464402570378",
+    "uikName": "УИК №468",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -4911,8 +5793,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "464402570379",
+    "uikName": "УИК №469",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 413,
@@ -4961,8 +5852,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "464402570380",
+    "uikName": "УИК №470",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -5011,8 +5911,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "464402570381",
+    "uikName": "УИК №471",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -5061,8 +5970,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "464402570382",
+    "uikName": "УИК №472",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 237,
@@ -5111,8 +6029,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "464402570383",
+    "uikName": "УИК №473",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 298,
@@ -5161,8 +6088,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "464402570384",
+    "uikName": "УИК №474",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 705,
       "Число бюллетеней, полученных участковыми комиссиями": 705,
@@ -5211,8 +6147,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "464402570385",
+    "uikName": "УИК №475",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1039,
       "Число бюллетеней, полученных участковыми комиссиями": 1045,
@@ -5261,8 +6206,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "464402570386",
+    "uikName": "УИК №476",
     "tikTvd": "364300170829",
     "tikName": "Перелюбская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 685,
       "Число бюллетеней, полученных участковыми комиссиями": 705,
@@ -5311,8 +6265,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "464402770346",
+    "uikName": "УИК №436",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1849,
       "Число бюллетеней, полученных участковыми комиссиями": 1863,
@@ -5361,8 +6324,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "464402770347",
+    "uikName": "УИК №437",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2353,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -5411,8 +6383,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "464402770348",
+    "uikName": "УИК №438",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 684,
       "Число бюллетеней, полученных участковыми комиссиями": 688,
@@ -5461,8 +6442,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "464402770349",
+    "uikName": "УИК №439",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 961,
       "Число бюллетеней, полученных участковыми комиссиями": 968,
@@ -5511,8 +6501,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "464402770350",
+    "uikName": "УИК №440",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 715,
       "Число бюллетеней, полученных участковыми комиссиями": 706,
@@ -5561,8 +6560,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "464402770351",
+    "uikName": "УИК №441",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -5611,8 +6619,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 442,
     "uikTvd": "464402770352",
+    "uikName": "УИК №442",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 711,
       "Число бюллетеней, полученных участковыми комиссиями": 712,
@@ -5661,8 +6678,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 443,
     "uikTvd": "464402770353",
+    "uikName": "УИК №443",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 475,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -5711,8 +6737,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 444,
     "uikTvd": "464402770354",
+    "uikName": "УИК №444",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 599,
       "Число бюллетеней, полученных участковыми комиссиями": 599,
@@ -5761,8 +6796,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 445,
     "uikTvd": "464402770355",
+    "uikName": "УИК №445",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 47,
       "Число бюллетеней, полученных участковыми комиссиями": 49,
@@ -5811,8 +6855,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 446,
     "uikTvd": "464402770356",
+    "uikName": "УИК №446",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 794,
       "Число бюллетеней, полученных участковыми комиссиями": 792,
@@ -5861,8 +6914,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "464402770357",
+    "uikName": "УИК №447",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -5911,8 +6973,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "464402770358",
+    "uikName": "УИК №448",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1187,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -5961,8 +7032,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "464402770359",
+    "uikName": "УИК №449",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 748,
       "Число бюллетеней, полученных участковыми комиссиями": 756,
@@ -6011,8 +7091,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "464402770360",
+    "uikName": "УИК №450",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -6061,8 +7150,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "464402770361",
+    "uikName": "УИК №451",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 97,
@@ -6111,8 +7209,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "464402770362",
+    "uikName": "УИК №452",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -6161,8 +7268,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "464402770363",
+    "uikName": "УИК №453",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -6211,8 +7327,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "464402770364",
+    "uikName": "УИК №454",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 735,
       "Число бюллетеней, полученных участковыми комиссиями": 718,
@@ -6261,8 +7386,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "464402770365",
+    "uikName": "УИК №455",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -6311,8 +7445,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "464402770366",
+    "uikName": "УИК №456",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 313,
@@ -6361,8 +7504,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "464402770367",
+    "uikName": "УИК №457",
     "tikTvd": "364300170830",
     "tikName": "Питерская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 451,
       "Число бюллетеней, полученных участковыми комиссиями": 451,
@@ -6411,8 +7563,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "464402870432",
+    "uikName": "УИК №477",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 571,
       "Число бюллетеней, полученных участковыми комиссиями": 583,
@@ -6461,8 +7622,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "464402870433",
+    "uikName": "УИК №478",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 868,
       "Число бюллетеней, полученных участковыми комиссиями": 952,
@@ -6511,8 +7681,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "464402870434",
+    "uikName": "УИК №479",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 768,
       "Число бюллетеней, полученных участковыми комиссиями": 778,
@@ -6561,8 +7740,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "464402870435",
+    "uikName": "УИК №480",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2262,
       "Число бюллетеней, полученных участковыми комиссиями": 2384,
@@ -6611,8 +7799,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "464402870436",
+    "uikName": "УИК №481",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 567,
@@ -6661,8 +7858,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "464402870437",
+    "uikName": "УИК №482",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -6711,8 +7917,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "464402870438",
+    "uikName": "УИК №483",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 576,
@@ -6761,8 +7976,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "464402870439",
+    "uikName": "УИК №484",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 595,
       "Число бюллетеней, полученных участковыми комиссиями": 612,
@@ -6811,8 +8035,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "464402870440",
+    "uikName": "УИК №485",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -6861,8 +8094,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "464402870441",
+    "uikName": "УИК №486",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 940,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -6911,8 +8153,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "464402870442",
+    "uikName": "УИК №487",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1169,
       "Число бюллетеней, полученных участковыми комиссиями": 1177,
@@ -6961,8 +8212,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "464402870443",
+    "uikName": "УИК №488",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 738,
       "Число бюллетеней, полученных участковыми комиссиями": 748,
@@ -7011,8 +8271,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "464402870444",
+    "uikName": "УИК №489",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 848,
@@ -7061,8 +8330,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "464402870445",
+    "uikName": "УИК №490",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 666,
       "Число бюллетеней, полученных участковыми комиссиями": 668,
@@ -7111,8 +8389,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "464402870446",
+    "uikName": "УИК №491",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1088,
       "Число бюллетеней, полученных участковыми комиссиями": 1131,
@@ -7161,8 +8448,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "464402870447",
+    "uikName": "УИК №492",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 853,
       "Число бюллетеней, полученных участковыми комиссиями": 866,
@@ -7211,8 +8507,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "464402870448",
+    "uikName": "УИК №493",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 757,
       "Число бюллетеней, полученных участковыми комиссиями": 754,
@@ -7261,8 +8566,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "464402870449",
+    "uikName": "УИК №494",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 504,
       "Число бюллетеней, полученных участковыми комиссиями": 514,
@@ -7311,8 +8625,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "464402870450",
+    "uikName": "УИК №495",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 572,
@@ -7361,8 +8684,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "464402870451",
+    "uikName": "УИК №496",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1023,
       "Число бюллетеней, полученных участковыми комиссиями": 1065,
@@ -7411,8 +8743,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "464402870452",
+    "uikName": "УИК №497",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 660,
       "Число бюллетеней, полученных участковыми комиссиями": 678,
@@ -7461,8 +8802,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "464402870453",
+    "uikName": "УИК №498",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 691,
       "Число бюллетеней, полученных участковыми комиссиями": 751,
@@ -7511,8 +8861,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "464402870454",
+    "uikName": "УИК №499",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 746,
       "Число бюллетеней, полученных участковыми комиссиями": 715,
@@ -7561,8 +8920,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "464402870455",
+    "uikName": "УИК №500",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 868,
       "Число бюллетеней, полученных участковыми комиссиями": 819,
@@ -7611,8 +8979,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "464402870456",
+    "uikName": "УИК №501",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1142,
       "Число бюллетеней, полученных участковыми комиссиями": 1088,
@@ -7661,8 +9038,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "464402870457",
+    "uikName": "УИК №502",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1357,
       "Число бюллетеней, полученных участковыми комиссиями": 1318,
@@ -7711,8 +9097,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "464402870458",
+    "uikName": "УИК №503",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -7761,8 +9156,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "464402870459",
+    "uikName": "УИК №504",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 354,
@@ -7811,8 +9215,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "464402870460",
+    "uikName": "УИК №505",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1016,
       "Число бюллетеней, полученных участковыми комиссиями": 982,
@@ -7861,8 +9274,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "464402870461",
+    "uikName": "УИК №506",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1808,
       "Число бюллетеней, полученных участковыми комиссиями": 1779,
@@ -7911,8 +9333,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "464402870462",
+    "uikName": "УИК №507",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1225,
       "Число бюллетеней, полученных участковыми комиссиями": 1166,
@@ -7961,8 +9392,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "464402870463",
+    "uikName": "УИК №508",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1539,
       "Число бюллетеней, полученных участковыми комиссиями": 1508,
@@ -8011,8 +9451,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "464402870464",
+    "uikName": "УИК №509",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1469,
       "Число бюллетеней, полученных участковыми комиссиями": 1451,
@@ -8061,8 +9510,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "464402870465",
+    "uikName": "УИК №510",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1016,
       "Число бюллетеней, полученных участковыми комиссиями": 1445,
@@ -8111,8 +9569,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "464402870466",
+    "uikName": "УИК №511",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1621,
       "Число бюллетеней, полученных участковыми комиссиями": 1554,
@@ -8161,8 +9628,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "464402870467",
+    "uikName": "УИК №512",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 926,
       "Число бюллетеней, полученных участковыми комиссиями": 913,
@@ -8211,8 +9687,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "464402870468",
+    "uikName": "УИК №513",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 684,
       "Число бюллетеней, полученных участковыми комиссиями": 673,
@@ -8261,8 +9746,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "464402870469",
+    "uikName": "УИК №514",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1366,
       "Число бюллетеней, полученных участковыми комиссиями": 1362,
@@ -8311,8 +9805,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "464402870470",
+    "uikName": "УИК №515",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1310,
       "Число бюллетеней, полученных участковыми комиссиями": 1226,
@@ -8361,8 +9864,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "464402870471",
+    "uikName": "УИК №516",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1390,
       "Число бюллетеней, полученных участковыми комиссиями": 1327,
@@ -8411,8 +9923,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "464402870472",
+    "uikName": "УИК №517",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 997,
       "Число бюллетеней, полученных участковыми комиссиями": 979,
@@ -8461,8 +9982,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "464402870473",
+    "uikName": "УИК №518",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 916,
       "Число бюллетеней, полученных участковыми комиссиями": 822,
@@ -8511,8 +10041,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "464402870474",
+    "uikName": "УИК №519",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 1368,
@@ -8561,8 +10100,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "464402870475",
+    "uikName": "УИК №520",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 801,
       "Число бюллетеней, полученных участковыми комиссиями": 776,
@@ -8611,8 +10159,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "464402870476",
+    "uikName": "УИК №521",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1582,
       "Число бюллетеней, полученных участковыми комиссиями": 1548,
@@ -8661,8 +10218,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "464402870477",
+    "uikName": "УИК №522",
     "tikTvd": "364300170831",
     "tikName": "Пугачевская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1881,
       "Число бюллетеней, полученных участковыми комиссиями": 1846,
@@ -8711,8 +10277,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "464404570383",
+    "uikName": "УИК №523",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1395,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -8761,8 +10336,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "464404570384",
+    "uikName": "УИК №524",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1103,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8811,8 +10395,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "464404570385",
+    "uikName": "УИК №525",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2032,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8861,8 +10454,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "464404570386",
+    "uikName": "УИК №526",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1379,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -8911,8 +10513,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "464404570387",
+    "uikName": "УИК №527",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1655,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8961,8 +10572,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "464404570388",
+    "uikName": "УИК №528",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1736,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9011,8 +10631,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "464404570389",
+    "uikName": "УИК №529",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1337,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9061,8 +10690,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "464404570390",
+    "uikName": "УИК №530",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -9111,8 +10749,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "464404570391",
+    "uikName": "УИК №531",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -9161,8 +10808,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "464404570392",
+    "uikName": "УИК №532",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -9211,8 +10867,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "464404570393",
+    "uikName": "УИК №533",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 656,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -9261,8 +10926,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "464404570394",
+    "uikName": "УИК №534",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -9311,8 +10985,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "464404570395",
+    "uikName": "УИК №535",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -9361,8 +11044,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "464404570396",
+    "uikName": "УИК №536",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -9411,8 +11103,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "464404570397",
+    "uikName": "УИК №537",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 560,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -9461,8 +11162,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "464404570398",
+    "uikName": "УИК №538",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 388,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -9511,8 +11221,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "464404570399",
+    "uikName": "УИК №539",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 739,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -9561,8 +11280,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "464404570400",
+    "uikName": "УИК №540",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -9611,8 +11339,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "464404570401",
+    "uikName": "УИК №541",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -9661,8 +11398,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "464404570402",
+    "uikName": "УИК №542",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9711,8 +11457,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "464404570403",
+    "uikName": "УИК №543",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 368,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -9761,8 +11516,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "464404570404",
+    "uikName": "УИК №544",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1837,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9811,8 +11575,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 545,
     "uikTvd": "464404570405",
+    "uikName": "УИК №545",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1949,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9861,8 +11634,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 546,
     "uikTvd": "464404570406",
+    "uikName": "УИК №546",
     "tikTvd": "364300170832",
     "tikName": "Хвалынская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -9911,8 +11693,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 547,
     "uikTvd": "464404970528",
+    "uikName": "УИК №547",
     "tikTvd": "364300170833",
     "tikName": "Шиханская городская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2125,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -9961,8 +11752,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 548,
     "uikTvd": "464404970530",
+    "uikName": "УИК №548",
     "tikTvd": "364300170833",
     "tikName": "Шиханская городская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2196,
       "Число бюллетеней, полученных участковыми комиссиями": 2214,
@@ -10011,8 +11811,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 549,
     "uikTvd": "464404970532",
+    "uikName": "УИК №549",
     "tikTvd": "364300170833",
     "tikName": "Шиханская городская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1375,
       "Число бюллетеней, полученных участковыми комиссиями": 1375,
@@ -10061,8 +11870,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "464400570422",
+    "uikName": "УИК №23",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2515,
       "Число бюллетеней, полученных участковыми комиссиями": 2197,
@@ -10111,8 +11929,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "464400570423",
+    "uikName": "УИК №24",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2477,
       "Число бюллетеней, полученных участковыми комиссиями": 2148,
@@ -10161,8 +11988,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "464400570424",
+    "uikName": "УИК №25",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 1987,
@@ -10211,8 +12047,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "464400570425",
+    "uikName": "УИК №26",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2793,
       "Число бюллетеней, полученных участковыми комиссиями": 2412,
@@ -10261,8 +12106,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "464400570426",
+    "uikName": "УИК №27",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2126,
@@ -10311,8 +12165,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "464400570427",
+    "uikName": "УИК №28",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2517,
       "Число бюллетеней, полученных участковыми комиссиями": 2245,
@@ -10361,8 +12224,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "464400570428",
+    "uikName": "УИК №29",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2217,
@@ -10411,8 +12283,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "464400570429",
+    "uikName": "УИК №30",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2199,
       "Число бюллетеней, полученных участковыми комиссиями": 1987,
@@ -10461,8 +12342,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "464400570430",
+    "uikName": "УИК №31",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2363,
       "Число бюллетеней, полученных участковыми комиссиями": 2097,
@@ -10511,8 +12401,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "464400570431",
+    "uikName": "УИК №32",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2548,
       "Число бюллетеней, полученных участковыми комиссиями": 2272,
@@ -10561,8 +12460,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "464400570432",
+    "uikName": "УИК №33",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2210,
       "Число бюллетеней, полученных участковыми комиссиями": 2002,
@@ -10611,8 +12519,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "464400570433",
+    "uikName": "УИК №34",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2152,
       "Число бюллетеней, полученных участковыми комиссиями": 1951,
@@ -10661,8 +12578,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "464400570434",
+    "uikName": "УИК №35",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2074,
       "Число бюллетеней, полученных участковыми комиссиями": 1863,
@@ -10711,8 +12637,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "464400570435",
+    "uikName": "УИК №36",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2460,
       "Число бюллетеней, полученных участковыми комиссиями": 2223,
@@ -10761,8 +12696,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "464400570436",
+    "uikName": "УИК №37",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2591,
       "Число бюллетеней, полученных участковыми комиссиями": 2267,
@@ -10811,8 +12755,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "464400570437",
+    "uikName": "УИК №38",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1746,
       "Число бюллетеней, полученных участковыми комиссиями": 2458,
@@ -10861,8 +12814,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "464400570438",
+    "uikName": "УИК №39",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2472,
       "Число бюллетеней, полученных участковыми комиссиями": 2235,
@@ -10911,8 +12873,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "464400570439",
+    "uikName": "УИК №40",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2274,
@@ -10961,8 +12932,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "464400570440",
+    "uikName": "УИК №41",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2508,
       "Число бюллетеней, полученных участковыми комиссиями": 2284,
@@ -11011,8 +12991,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "464400570441",
+    "uikName": "УИК №42",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2559,
       "Число бюллетеней, полученных участковыми комиссиями": 2298,
@@ -11061,8 +13050,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "464400570442",
+    "uikName": "УИК №43",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2434,
       "Число бюллетеней, полученных участковыми комиссиями": 2175,
@@ -11111,8 +13109,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "464400570443",
+    "uikName": "УИК №44",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2114,
@@ -11161,8 +13168,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "464400570444",
+    "uikName": "УИК №45",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2271,
       "Число бюллетеней, полученных участковыми комиссиями": 2002,
@@ -11211,8 +13227,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "464400570445",
+    "uikName": "УИК №46",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2540,
       "Число бюллетеней, полученных участковыми комиссиями": 2234,
@@ -11261,8 +13286,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "464400570446",
+    "uikName": "УИК №47",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2069,
@@ -11311,8 +13345,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "464400570447",
+    "uikName": "УИК №48",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2296,
       "Число бюллетеней, полученных участковыми комиссиями": 2074,
@@ -11361,8 +13404,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "464400570448",
+    "uikName": "УИК №49",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2465,
       "Число бюллетеней, полученных участковыми комиссиями": 2225,
@@ -11411,8 +13463,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "464400570449",
+    "uikName": "УИК №50",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2529,
       "Число бюллетеней, полученных участковыми комиссиями": 2187,
@@ -11461,8 +13522,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "464400570450",
+    "uikName": "УИК №51",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2634,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -11511,8 +13581,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "464400570451",
+    "uikName": "УИК №52",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2516,
       "Число бюллетеней, полученных участковыми комиссиями": 2286,
@@ -11561,8 +13640,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "464400570452",
+    "uikName": "УИК №53",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2537,
       "Число бюллетеней, полученных участковыми комиссиями": 2316,
@@ -11611,8 +13699,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "464400570453",
+    "uikName": "УИК №54",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2502,
       "Число бюллетеней, полученных участковыми комиссиями": 2247,
@@ -11661,8 +13758,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "464400570454",
+    "uikName": "УИК №55",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2888,
       "Число бюллетеней, полученных участковыми комиссиями": 2515,
@@ -11711,8 +13817,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "464400570455",
+    "uikName": "УИК №56",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2453,
       "Число бюллетеней, полученных участковыми комиссиями": 2228,
@@ -11761,8 +13876,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "464400570456",
+    "uikName": "УИК №57",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2361,
@@ -11811,8 +13935,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "464400570457",
+    "uikName": "УИК №58",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2541,
       "Число бюллетеней, полученных участковыми комиссиями": 2263,
@@ -11861,8 +13994,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "464400570458",
+    "uikName": "УИК №59",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1324,
       "Число бюллетеней, полученных участковыми комиссиями": 1134,
@@ -11911,8 +14053,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "464400570459",
+    "uikName": "УИК №60",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1826,
       "Число бюллетеней, полученных участковыми комиссиями": 1585,
@@ -11961,8 +14112,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "464400570460",
+    "uikName": "УИК №61",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2663,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -12011,8 +14171,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "464400570461",
+    "uikName": "УИК №62",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2534,
       "Число бюллетеней, полученных участковыми комиссиями": 2317,
@@ -12061,8 +14230,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "464400570462",
+    "uikName": "УИК №63",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2474,
       "Число бюллетеней, полученных участковыми комиссиями": 2223,
@@ -12111,8 +14289,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "464400570463",
+    "uikName": "УИК №64",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2747,
       "Число бюллетеней, полученных участковыми комиссиями": 2431,
@@ -12161,8 +14348,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "464400570464",
+    "uikName": "УИК №65",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2250,
       "Число бюллетеней, полученных участковыми комиссиями": 1997,
@@ -12211,8 +14407,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "464400570465",
+    "uikName": "УИК №66",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 1866,
@@ -12261,8 +14466,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "464400570466",
+    "uikName": "УИК №67",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2032,
       "Число бюллетеней, полученных участковыми комиссиями": 1831,
@@ -12311,8 +14525,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "464400570467",
+    "uikName": "УИК №68",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2072,
       "Число бюллетеней, полученных участковыми комиссиями": 1835,
@@ -12361,8 +14584,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "464400570468",
+    "uikName": "УИК №69",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2066,
       "Число бюллетеней, полученных участковыми комиссиями": 1804,
@@ -12411,8 +14643,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "464400570469",
+    "uikName": "УИК №70",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2058,
       "Число бюллетеней, полученных участковыми комиссиями": 1858,
@@ -12461,8 +14702,17 @@ export const duma_2003_uik_428_region_64_part_002 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "464400570470",
+    "uikName": "УИК №71",
     "tikTvd": "364300170920",
     "tikName": "Балаковская",
+    "regionCode": "64",
+    "regionTvd": "100100095838",
+    "regionName": "Саратовская область",
+    "district": {
+      "districtNumber": 156,
+      "oikTvd": "100100095839",
+      "oikName": "Балаковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2719,
       "Число бюллетеней, полученных участковыми комиссиями": 2447,

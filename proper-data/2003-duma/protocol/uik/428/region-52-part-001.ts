@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1328,
     "uikTvd": "452403570364",
+    "uikName": "УИК №1328",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2336,
       "Число бюллетеней, полученных участковыми комиссиями": 2149,
@@ -65,8 +74,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1360,
     "uikTvd": "452403570365",
+    "uikName": "УИК №1360",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1907,
       "Число бюллетеней, полученных участковыми комиссиями": 1753,
@@ -119,8 +137,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1361,
     "uikTvd": "452403570366",
+    "uikName": "УИК №1361",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1932,
       "Число бюллетеней, полученных участковыми комиссиями": 1804,
@@ -173,8 +200,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1362,
     "uikTvd": "452403570367",
+    "uikName": "УИК №1362",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1981,
       "Число бюллетеней, полученных участковыми комиссиями": 1804,
@@ -227,8 +263,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1364,
     "uikTvd": "452403570368",
+    "uikName": "УИК №1364",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1896,
       "Число бюллетеней, полученных участковыми комиссиями": 1736,
@@ -281,8 +326,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1366,
     "uikTvd": "452403570369",
+    "uikName": "УИК №1366",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2137,
       "Число бюллетеней, полученных участковыми комиссиями": 1989,
@@ -335,8 +389,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1367,
     "uikTvd": "452403570370",
+    "uikName": "УИК №1367",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2369,
       "Число бюллетеней, полученных участковыми комиссиями": 2187,
@@ -389,8 +452,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1368,
     "uikTvd": "452403570371",
+    "uikName": "УИК №1368",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2447,
       "Число бюллетеней, полученных участковыми комиссиями": 2264,
@@ -443,8 +515,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1369,
     "uikTvd": "452403570372",
+    "uikName": "УИК №1369",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1923,
       "Число бюллетеней, полученных участковыми комиссиями": 1761,
@@ -497,8 +578,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1370,
     "uikTvd": "452403570373",
+    "uikName": "УИК №1370",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1694,
       "Число бюллетеней, полученных участковыми комиссиями": 1571,
@@ -551,8 +641,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1371,
     "uikTvd": "452403570374",
+    "uikName": "УИК №1371",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2018,
       "Число бюллетеней, полученных участковыми комиссиями": 1859,
@@ -605,8 +704,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1372,
     "uikTvd": "452403570375",
+    "uikName": "УИК №1372",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1862,
       "Число бюллетеней, полученных участковыми комиссиями": 1722,
@@ -659,8 +767,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1373,
     "uikTvd": "452403570376",
+    "uikName": "УИК №1373",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1547,
@@ -713,8 +830,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1374,
     "uikTvd": "452403570377",
+    "uikName": "УИК №1374",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1388,
       "Число бюллетеней, полученных участковыми комиссиями": 1282,
@@ -767,8 +893,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1375,
     "uikTvd": "452403570378",
+    "uikName": "УИК №1375",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2441,
       "Число бюллетеней, полученных участковыми комиссиями": 2265,
@@ -821,8 +956,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1376,
     "uikTvd": "452403570379",
+    "uikName": "УИК №1376",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2154,
       "Число бюллетеней, полученных участковыми комиссиями": 2001,
@@ -875,8 +1019,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1377,
     "uikTvd": "452403570380",
+    "uikName": "УИК №1377",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2191,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -929,8 +1082,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1378,
     "uikTvd": "452403570381",
+    "uikName": "УИК №1378",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2754,
       "Число бюллетеней, полученных участковыми комиссиями": 2559,
@@ -983,8 +1145,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1379,
     "uikTvd": "452403570382",
+    "uikName": "УИК №1379",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2362,
       "Число бюллетеней, полученных участковыми комиссиями": 2198,
@@ -1037,8 +1208,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1380,
     "uikTvd": "452403570383",
+    "uikName": "УИК №1380",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2768,
       "Число бюллетеней, полученных участковыми комиссиями": 2551,
@@ -1091,8 +1271,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1381,
     "uikTvd": "452403570384",
+    "uikName": "УИК №1381",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2626,
       "Число бюллетеней, полученных участковыми комиссиями": 2425,
@@ -1145,8 +1334,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1382,
     "uikTvd": "452403570385",
+    "uikName": "УИК №1382",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1958,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1199,8 +1397,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1383,
     "uikTvd": "452403570386",
+    "uikName": "УИК №1383",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2400,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -1253,8 +1460,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1384,
     "uikTvd": "452403570387",
+    "uikName": "УИК №1384",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2278,
       "Число бюллетеней, полученных участковыми комиссиями": 2099,
@@ -1307,8 +1523,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1385,
     "uikTvd": "452403570388",
+    "uikName": "УИК №1385",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2256,
       "Число бюллетеней, полученных участковыми комиссиями": 2088,
@@ -1361,8 +1586,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1386,
     "uikTvd": "452403570389",
+    "uikName": "УИК №1386",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2246,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -1415,8 +1649,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1387,
     "uikTvd": "452403570390",
+    "uikName": "УИК №1387",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2102,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -1469,8 +1712,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1388,
     "uikTvd": "452403570391",
+    "uikName": "УИК №1388",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2412,
       "Число бюллетеней, полученных участковыми комиссиями": 2218,
@@ -1523,8 +1775,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1389,
     "uikTvd": "452403570392",
+    "uikName": "УИК №1389",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2324,
       "Число бюллетеней, полученных участковыми комиссиями": 2168,
@@ -1577,8 +1838,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1390,
     "uikTvd": "452403570393",
+    "uikName": "УИК №1390",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2606,
       "Число бюллетеней, полученных участковыми комиссиями": 2403,
@@ -1631,8 +1901,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1391,
     "uikTvd": "452403570394",
+    "uikName": "УИК №1391",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2096,
       "Число бюллетеней, полученных участковыми комиссиями": 1943,
@@ -1685,8 +1964,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1392,
     "uikTvd": "452403570395",
+    "uikName": "УИК №1392",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2168,
       "Число бюллетеней, полученных участковыми комиссиями": 2019,
@@ -1739,8 +2027,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1393,
     "uikTvd": "452403570396",
+    "uikName": "УИК №1393",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2326,
       "Число бюллетеней, полученных участковыми комиссиями": 2129,
@@ -1793,8 +2090,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1394,
     "uikTvd": "452403570397",
+    "uikName": "УИК №1394",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2315,
       "Число бюллетеней, полученных участковыми комиссиями": 2138,
@@ -1847,8 +2153,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1395,
     "uikTvd": "452403570398",
+    "uikName": "УИК №1395",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1864,
       "Число бюллетеней, полученных участковыми комиссиями": 1733,
@@ -1901,8 +2216,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1396,
     "uikTvd": "452403570399",
+    "uikName": "УИК №1396",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1990,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -1955,8 +2279,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1397,
     "uikTvd": "452403570400",
+    "uikName": "УИК №1397",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -2009,8 +2342,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1398,
     "uikTvd": "452403570401",
+    "uikName": "УИК №1398",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2268,
@@ -2063,8 +2405,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1399,
     "uikTvd": "452403570402",
+    "uikName": "УИК №1399",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2549,
       "Число бюллетеней, полученных участковыми комиссиями": 2363,
@@ -2117,8 +2468,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1400,
     "uikTvd": "452403570403",
+    "uikName": "УИК №1400",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2003,
       "Число бюллетеней, полученных участковыми комиссиями": 1847,
@@ -2171,8 +2531,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1401,
     "uikTvd": "452403570404",
+    "uikName": "УИК №1401",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1659,
       "Число бюллетеней, полученных участковыми комиссиями": 1531,
@@ -2225,8 +2594,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1402,
     "uikTvd": "452403570405",
+    "uikName": "УИК №1402",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1935,
       "Число бюллетеней, полученных участковыми комиссиями": 1783,
@@ -2279,8 +2657,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1403,
     "uikTvd": "452403570406",
+    "uikName": "УИК №1403",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2345,
       "Число бюллетеней, полученных участковыми комиссиями": 2147,
@@ -2333,8 +2720,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1404,
     "uikTvd": "452403570407",
+    "uikName": "УИК №1404",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1934,
       "Число бюллетеней, полученных участковыми комиссиями": 1804,
@@ -2387,8 +2783,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1405,
     "uikTvd": "452403570408",
+    "uikName": "УИК №1405",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2223,
       "Число бюллетеней, полученных участковыми комиссиями": 2079,
@@ -2441,8 +2846,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1406,
     "uikTvd": "452403570409",
+    "uikName": "УИК №1406",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2837,
       "Число бюллетеней, полученных участковыми комиссиями": 2623,
@@ -2495,8 +2909,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1407,
     "uikTvd": "452403570410",
+    "uikName": "УИК №1407",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2423,
       "Число бюллетеней, полученных участковыми комиссиями": 2245,
@@ -2549,8 +2972,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1408,
     "uikTvd": "452403570411",
+    "uikName": "УИК №1408",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2311,
       "Число бюллетеней, полученных участковыми комиссиями": 2158,
@@ -2603,8 +3035,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1409,
     "uikTvd": "452403570412",
+    "uikName": "УИК №1409",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2494,
       "Число бюллетеней, полученных участковыми комиссиями": 2317,
@@ -2657,8 +3098,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1410,
     "uikTvd": "452403570413",
+    "uikName": "УИК №1410",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2530,
       "Число бюллетеней, полученных участковыми комиссиями": 2327,
@@ -2711,8 +3161,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1411,
     "uikTvd": "452403570414",
+    "uikName": "УИК №1411",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2204,
       "Число бюллетеней, полученных участковыми комиссиями": 2029,
@@ -2765,8 +3224,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1412,
     "uikTvd": "452403570415",
+    "uikName": "УИК №1412",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2166,
       "Число бюллетеней, полученных участковыми комиссиями": 1995,
@@ -2819,8 +3287,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1413,
     "uikTvd": "452403570416",
+    "uikName": "УИК №1413",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2311,
       "Число бюллетеней, полученных участковыми комиссиями": 2141,
@@ -2873,8 +3350,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1414,
     "uikTvd": "452403570417",
+    "uikName": "УИК №1414",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2488,
       "Число бюллетеней, полученных участковыми комиссиями": 2309,
@@ -2927,8 +3413,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1415,
     "uikTvd": "452403570418",
+    "uikName": "УИК №1415",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2346,
       "Число бюллетеней, полученных участковыми комиссиями": 2187,
@@ -2981,8 +3476,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1416,
     "uikTvd": "452403570419",
+    "uikName": "УИК №1416",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2846,
       "Число бюллетеней, полученных участковыми комиссиями": 2614,
@@ -3035,8 +3539,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1417,
     "uikTvd": "452403570420",
+    "uikName": "УИК №1417",
     "tikTvd": "352300170380",
     "tikName": "Нижний Новгород, Автозаводская северная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2587,
       "Число бюллетеней, полученных участковыми комиссиями": 2378,
@@ -3089,8 +3602,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1486,
     "uikTvd": "452403770397",
+    "uikName": "УИК №1486",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1767,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -3143,8 +3665,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1487,
     "uikTvd": "452403770398",
+    "uikName": "УИК №1487",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2191,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -3197,8 +3728,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1488,
     "uikTvd": "452403770399",
+    "uikName": "УИК №1488",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2689,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -3251,8 +3791,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1489,
     "uikTvd": "452403770400",
+    "uikName": "УИК №1489",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 836,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -3305,8 +3854,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1490,
     "uikTvd": "452403770401",
+    "uikName": "УИК №1490",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2717,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -3359,8 +3917,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1491,
     "uikTvd": "452403770402",
+    "uikName": "УИК №1491",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1371,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -3413,8 +3980,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1492,
     "uikTvd": "452403770403",
+    "uikName": "УИК №1492",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3467,8 +4043,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1493,
     "uikTvd": "452403770404",
+    "uikName": "УИК №1493",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2483,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -3521,8 +4106,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1494,
     "uikTvd": "452403770405",
+    "uikName": "УИК №1494",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2424,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -3575,8 +4169,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1495,
     "uikTvd": "452403770406",
+    "uikName": "УИК №1495",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2345,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3629,8 +4232,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1496,
     "uikTvd": "452403770407",
+    "uikName": "УИК №1496",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2316,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3683,8 +4295,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1497,
     "uikTvd": "452403770408",
+    "uikName": "УИК №1497",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1903,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -3737,8 +4358,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1498,
     "uikTvd": "452403770409",
+    "uikName": "УИК №1498",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2286,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -3791,8 +4421,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1499,
     "uikTvd": "452403770410",
+    "uikName": "УИК №1499",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2244,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -3845,8 +4484,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1500,
     "uikTvd": "452403770411",
+    "uikName": "УИК №1500",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2466,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -3899,8 +4547,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1501,
     "uikTvd": "452403770412",
+    "uikName": "УИК №1501",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2507,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -3953,8 +4610,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1502,
     "uikTvd": "452403770413",
+    "uikName": "УИК №1502",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2407,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -4007,8 +4673,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1503,
     "uikTvd": "452403770414",
+    "uikName": "УИК №1503",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2757,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -4061,8 +4736,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1504,
     "uikTvd": "452403770415",
+    "uikName": "УИК №1504",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1552,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4115,8 +4799,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1505,
     "uikTvd": "452403770416",
+    "uikName": "УИК №1505",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1106,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4169,8 +4862,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1506,
     "uikTvd": "452403770417",
+    "uikName": "УИК №1506",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1943,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -4223,8 +4925,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1507,
     "uikTvd": "452403770418",
+    "uikName": "УИК №1507",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2684,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -4277,8 +4988,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1508,
     "uikTvd": "452403770419",
+    "uikName": "УИК №1508",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -4331,8 +5051,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1509,
     "uikTvd": "452403770420",
+    "uikName": "УИК №1509",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1819,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -4385,8 +5114,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1510,
     "uikTvd": "452403770421",
+    "uikName": "УИК №1510",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1827,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -4439,8 +5177,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1511,
     "uikTvd": "452403770422",
+    "uikName": "УИК №1511",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1562,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -4493,8 +5240,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1512,
     "uikTvd": "452403770423",
+    "uikName": "УИК №1512",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1488,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -4547,8 +5303,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1513,
     "uikTvd": "452403770424",
+    "uikName": "УИК №1513",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1696,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -4601,8 +5366,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1514,
     "uikTvd": "452403770425",
+    "uikName": "УИК №1514",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -4655,8 +5429,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1515,
     "uikTvd": "452403770426",
+    "uikName": "УИК №1515",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2386,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -4709,8 +5492,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1516,
     "uikTvd": "452403770427",
+    "uikName": "УИК №1516",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1425,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -4763,8 +5555,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1517,
     "uikTvd": "452403770428",
+    "uikName": "УИК №1517",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1671,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -4817,8 +5618,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1518,
     "uikTvd": "452403770429",
+    "uikName": "УИК №1518",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1198,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -4871,8 +5681,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1519,
     "uikTvd": "452403770430",
+    "uikName": "УИК №1519",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1869,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -4925,8 +5744,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1520,
     "uikTvd": "452403770431",
+    "uikName": "УИК №1520",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1734,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -4979,8 +5807,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1521,
     "uikTvd": "452403770432",
+    "uikName": "УИК №1521",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1700,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -5033,8 +5870,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1522,
     "uikTvd": "452403770433",
+    "uikName": "УИК №1522",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1820,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -5087,8 +5933,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1523,
     "uikTvd": "452403770434",
+    "uikName": "УИК №1523",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2228,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -5141,8 +5996,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1524,
     "uikTvd": "452403770435",
+    "uikName": "УИК №1524",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2827,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -5195,8 +6059,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1525,
     "uikTvd": "452403770436",
+    "uikName": "УИК №1525",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1775,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -5249,8 +6122,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1526,
     "uikTvd": "452403770437",
+    "uikName": "УИК №1526",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2544,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5303,8 +6185,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1527,
     "uikTvd": "452403770438",
+    "uikName": "УИК №1527",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2652,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -5357,8 +6248,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1528,
     "uikTvd": "452403770439",
+    "uikName": "УИК №1528",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2479,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -5411,8 +6311,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1529,
     "uikTvd": "452403770440",
+    "uikName": "УИК №1529",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2006,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -5465,8 +6374,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1530,
     "uikTvd": "452403770441",
+    "uikName": "УИК №1530",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1708,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -5519,8 +6437,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1531,
     "uikTvd": "452403770442",
+    "uikName": "УИК №1531",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1499,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -5573,8 +6500,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1532,
     "uikTvd": "452403770443",
+    "uikName": "УИК №1532",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1568,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -5627,8 +6563,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1533,
     "uikTvd": "452403770444",
+    "uikName": "УИК №1533",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1961,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -5681,8 +6626,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1534,
     "uikTvd": "452403770445",
+    "uikName": "УИК №1534",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2134,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -5735,8 +6689,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1535,
     "uikTvd": "452403770446",
+    "uikName": "УИК №1535",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1839,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -5789,8 +6752,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1536,
     "uikTvd": "452403770447",
+    "uikName": "УИК №1536",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2438,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5843,8 +6815,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1537,
     "uikTvd": "452403770448",
+    "uikName": "УИК №1537",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2022,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -5897,8 +6878,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1538,
     "uikTvd": "452403770449",
+    "uikName": "УИК №1538",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2385,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -5951,8 +6941,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1539,
     "uikTvd": "452403770450",
+    "uikName": "УИК №1539",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1992,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6005,8 +7004,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1540,
     "uikTvd": "452403770451",
+    "uikName": "УИК №1540",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2392,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -6059,8 +7067,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1541,
     "uikTvd": "452403770452",
+    "uikName": "УИК №1541",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1798,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -6113,8 +7130,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1542,
     "uikTvd": "452403770453",
+    "uikName": "УИК №1542",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1814,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -6167,8 +7193,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1543,
     "uikTvd": "452403770454",
+    "uikName": "УИК №1543",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2245,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -6221,8 +7256,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1544,
     "uikTvd": "452403770455",
+    "uikName": "УИК №1544",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2814,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -6275,8 +7319,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1545,
     "uikTvd": "452403770456",
+    "uikName": "УИК №1545",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2405,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -6329,8 +7382,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1546,
     "uikTvd": "452403770457",
+    "uikName": "УИК №1546",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1191,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -6383,8 +7445,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1547,
     "uikTvd": "452403770458",
+    "uikName": "УИК №1547",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1506,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -6437,8 +7508,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1548,
     "uikTvd": "452403770459",
+    "uikName": "УИК №1548",
     "tikTvd": "352300170381",
     "tikName": "Нижний Новгород, Ленинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1940,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -6491,8 +7571,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1709,
     "uikTvd": "452404170447",
+    "uikName": "УИК №1709",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2513,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6545,8 +7634,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1710,
     "uikTvd": "452404170448",
+    "uikName": "УИК №1710",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6599,8 +7697,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1711,
     "uikTvd": "452404170449",
+    "uikName": "УИК №1711",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2838,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6653,8 +7760,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1712,
     "uikTvd": "452404170450",
+    "uikName": "УИК №1712",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2600,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6707,8 +7823,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1713,
     "uikTvd": "452404170451",
+    "uikName": "УИК №1713",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2162,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6761,8 +7886,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1714,
     "uikTvd": "452404170452",
+    "uikName": "УИК №1714",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1875,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6815,8 +7949,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1715,
     "uikTvd": "452404170453",
+    "uikName": "УИК №1715",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1850,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6869,8 +8012,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1716,
     "uikTvd": "452404170454",
+    "uikName": "УИК №1716",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1724,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6923,8 +8075,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1717,
     "uikTvd": "452404170455",
+    "uikName": "УИК №1717",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1216,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6977,8 +8138,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1718,
     "uikTvd": "452404170456",
+    "uikName": "УИК №1718",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7031,8 +8201,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1719,
     "uikTvd": "452404170457",
+    "uikName": "УИК №1719",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2440,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7085,8 +8264,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1720,
     "uikTvd": "452404170458",
+    "uikName": "УИК №1720",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2217,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7139,8 +8327,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1721,
     "uikTvd": "452404170459",
+    "uikName": "УИК №1721",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2472,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7193,8 +8390,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1722,
     "uikTvd": "452404170460",
+    "uikName": "УИК №1722",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2410,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7247,8 +8453,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1723,
     "uikTvd": "452404170461",
+    "uikName": "УИК №1723",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1796,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7301,8 +8516,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1724,
     "uikTvd": "452404170462",
+    "uikName": "УИК №1724",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1891,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7355,8 +8579,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1725,
     "uikTvd": "452404170463",
+    "uikName": "УИК №1725",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1879,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7409,8 +8642,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1726,
     "uikTvd": "452404170464",
+    "uikName": "УИК №1726",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2294,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7463,8 +8705,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1727,
     "uikTvd": "452404170465",
+    "uikName": "УИК №1727",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2059,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7517,8 +8768,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1728,
     "uikTvd": "452404170466",
+    "uikName": "УИК №1728",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1502,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7571,8 +8831,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1729,
     "uikTvd": "452404170467",
+    "uikName": "УИК №1729",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1382,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7625,8 +8894,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1730,
     "uikTvd": "452404170468",
+    "uikName": "УИК №1730",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1841,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7679,8 +8957,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1731,
     "uikTvd": "452404170469",
+    "uikName": "УИК №1731",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1792,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7733,8 +9020,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1732,
     "uikTvd": "452404170470",
+    "uikName": "УИК №1732",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2967,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7787,8 +9083,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1733,
     "uikTvd": "452404170471",
+    "uikName": "УИК №1733",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1500,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7841,8 +9146,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1734,
     "uikTvd": "452404170472",
+    "uikName": "УИК №1734",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7895,8 +9209,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1735,
     "uikTvd": "452404170473",
+    "uikName": "УИК №1735",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2223,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7949,8 +9272,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1736,
     "uikTvd": "452404170474",
+    "uikName": "УИК №1736",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2576,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8003,8 +9335,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1737,
     "uikTvd": "452404170475",
+    "uikName": "УИК №1737",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2710,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8057,8 +9398,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1738,
     "uikTvd": "452404170476",
+    "uikName": "УИК №1738",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2933,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8111,8 +9461,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1739,
     "uikTvd": "452404170477",
+    "uikName": "УИК №1739",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2466,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8165,8 +9524,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1740,
     "uikTvd": "452404170478",
+    "uikName": "УИК №1740",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2083,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8219,8 +9587,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1741,
     "uikTvd": "452404170479",
+    "uikName": "УИК №1741",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2158,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8273,8 +9650,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1742,
     "uikTvd": "452404170480",
+    "uikName": "УИК №1742",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2095,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8327,8 +9713,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1743,
     "uikTvd": "452404170481",
+    "uikName": "УИК №1743",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2173,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8381,8 +9776,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1744,
     "uikTvd": "452404170482",
+    "uikName": "УИК №1744",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1682,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8435,8 +9839,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1745,
     "uikTvd": "452404170483",
+    "uikName": "УИК №1745",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2935,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8489,8 +9902,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1746,
     "uikTvd": "452404170484",
+    "uikName": "УИК №1746",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2588,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8543,8 +9965,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1747,
     "uikTvd": "452404170485",
+    "uikName": "УИК №1747",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2424,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8597,8 +10028,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1748,
     "uikTvd": "452404170486",
+    "uikName": "УИК №1748",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2355,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8651,8 +10091,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1749,
     "uikTvd": "452404170487",
+    "uikName": "УИК №1749",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2243,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8705,8 +10154,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1750,
     "uikTvd": "452404170488",
+    "uikName": "УИК №1750",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2292,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8759,8 +10217,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1751,
     "uikTvd": "452404170489",
+    "uikName": "УИК №1751",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2244,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8813,8 +10280,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1752,
     "uikTvd": "452404170490",
+    "uikName": "УИК №1752",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1997,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8867,8 +10343,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1753,
     "uikTvd": "452404170491",
+    "uikName": "УИК №1753",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8921,8 +10406,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1754,
     "uikTvd": "452404170492",
+    "uikName": "УИК №1754",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1839,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8975,8 +10469,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1755,
     "uikTvd": "452404170493",
+    "uikName": "УИК №1755",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2055,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9029,8 +10532,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1756,
     "uikTvd": "452404170494",
+    "uikName": "УИК №1756",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2246,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9083,8 +10595,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1757,
     "uikTvd": "452404170495",
+    "uikName": "УИК №1757",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2464,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9137,8 +10658,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1758,
     "uikTvd": "452404170496",
+    "uikName": "УИК №1758",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2304,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9191,8 +10721,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1759,
     "uikTvd": "452404170497",
+    "uikName": "УИК №1759",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2648,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9245,8 +10784,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1760,
     "uikTvd": "452404170498",
+    "uikName": "УИК №1760",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2591,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9299,8 +10847,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1761,
     "uikTvd": "452404170499",
+    "uikName": "УИК №1761",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2316,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9353,8 +10910,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1762,
     "uikTvd": "452404170500",
+    "uikName": "УИК №1762",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2020,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9407,8 +10973,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1763,
     "uikTvd": "452404170501",
+    "uikName": "УИК №1763",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2805,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9461,8 +11036,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1764,
     "uikTvd": "452404170502",
+    "uikName": "УИК №1764",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2489,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9515,8 +11099,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1765,
     "uikTvd": "452404170503",
+    "uikName": "УИК №1765",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2592,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9569,8 +11162,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1766,
     "uikTvd": "452404170504",
+    "uikName": "УИК №1766",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 565,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9623,8 +11225,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1767,
     "uikTvd": "452404170505",
+    "uikName": "УИК №1767",
     "tikTvd": "352300170382",
     "tikName": "Нижний Новгород, Советская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9677,8 +11288,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1301,
     "uikTvd": "452406070382",
+    "uikName": "УИК №1301",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2357,
       "Число бюллетеней, полученных участковыми комиссиями": 2181,
@@ -9731,8 +11351,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1302,
     "uikTvd": "452406070383",
+    "uikName": "УИК №1302",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2275,
       "Число бюллетеней, полученных участковыми комиссиями": 2118,
@@ -9785,8 +11414,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1303,
     "uikTvd": "452406070384",
+    "uikName": "УИК №1303",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1993,
       "Число бюллетеней, полученных участковыми комиссиями": 1826,
@@ -9839,8 +11477,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1304,
     "uikTvd": "452406070385",
+    "uikName": "УИК №1304",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1350,
       "Число бюллетеней, полученных участковыми комиссиями": 1219,
@@ -9893,8 +11540,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1305,
     "uikTvd": "452406070386",
+    "uikName": "УИК №1305",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2083,
       "Число бюллетеней, полученных участковыми комиссиями": 1901,
@@ -9947,8 +11603,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1306,
     "uikTvd": "452406070387",
+    "uikName": "УИК №1306",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2112,
       "Число бюллетеней, полученных участковыми комиссиями": 1941,
@@ -10001,8 +11666,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1307,
     "uikTvd": "452406070388",
+    "uikName": "УИК №1307",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2158,
       "Число бюллетеней, полученных участковыми комиссиями": 1967,
@@ -10055,8 +11729,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1308,
     "uikTvd": "452406070389",
+    "uikName": "УИК №1308",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2064,
       "Число бюллетеней, полученных участковыми комиссиями": 1864,
@@ -10109,8 +11792,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1309,
     "uikTvd": "452406070390",
+    "uikName": "УИК №1309",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2261,
@@ -10163,8 +11855,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1310,
     "uikTvd": "452406070391",
+    "uikName": "УИК №1310",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2763,
       "Число бюллетеней, полученных участковыми комиссиями": 2541,
@@ -10217,8 +11918,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1311,
     "uikTvd": "452406070392",
+    "uikName": "УИК №1311",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 341,
@@ -10271,8 +11981,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1312,
     "uikTvd": "452406070393",
+    "uikName": "УИК №1312",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2099,
       "Число бюллетеней, полученных участковыми комиссиями": 1884,
@@ -10325,8 +12044,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1313,
     "uikTvd": "452406070394",
+    "uikName": "УИК №1313",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2348,
       "Число бюллетеней, полученных участковыми комиссиями": 2165,
@@ -10379,8 +12107,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1314,
     "uikTvd": "452406070395",
+    "uikName": "УИК №1314",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2292,
       "Число бюллетеней, полученных участковыми комиссиями": 2101,
@@ -10433,8 +12170,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1315,
     "uikTvd": "452406070396",
+    "uikName": "УИК №1315",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2206,
       "Число бюллетеней, полученных участковыми комиссиями": 2024,
@@ -10487,8 +12233,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1316,
     "uikTvd": "452406070397",
+    "uikName": "УИК №1316",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2512,
       "Число бюллетеней, полученных участковыми комиссиями": 2349,
@@ -10541,8 +12296,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1317,
     "uikTvd": "452406070444",
+    "uikName": "УИК №1317",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2149,
       "Число бюллетеней, полученных участковыми комиссиями": 2004,
@@ -10595,8 +12359,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1318,
     "uikTvd": "452406070398",
+    "uikName": "УИК №1318",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 1977,
@@ -10649,8 +12422,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1319,
     "uikTvd": "452406070399",
+    "uikName": "УИК №1319",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2399,
       "Число бюллетеней, полученных участковыми комиссиями": 2223,
@@ -10703,8 +12485,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1320,
     "uikTvd": "452406070400",
+    "uikName": "УИК №1320",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2299,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -10757,8 +12548,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1321,
     "uikTvd": "452406070401",
+    "uikName": "УИК №1321",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2717,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10811,8 +12611,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1322,
     "uikTvd": "452406070402",
+    "uikName": "УИК №1322",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2167,
       "Число бюллетеней, полученных участковыми комиссиями": 1993,
@@ -10865,8 +12674,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1323,
     "uikTvd": "452406070403",
+    "uikName": "УИК №1323",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2416,
       "Число бюллетеней, полученных участковыми комиссиями": 2243,
@@ -10919,8 +12737,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1324,
     "uikTvd": "452406070404",
+    "uikName": "УИК №1324",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1969,
       "Число бюллетеней, полученных участковыми комиссиями": 1811,
@@ -10973,8 +12800,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1325,
     "uikTvd": "452406070405",
+    "uikName": "УИК №1325",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2360,
       "Число бюллетеней, полученных участковыми комиссиями": 2197,
@@ -11027,8 +12863,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1326,
     "uikTvd": "452406070406",
+    "uikName": "УИК №1326",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2565,
       "Число бюллетеней, полученных участковыми комиссиями": 2365,
@@ -11081,8 +12926,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1327,
     "uikTvd": "452406070407",
+    "uikName": "УИК №1327",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2528,
       "Число бюллетеней, полученных участковыми комиссиями": 2309,
@@ -11135,8 +12989,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1329,
     "uikTvd": "452406070408",
+    "uikName": "УИК №1329",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2001,
       "Число бюллетеней, полученных участковыми комиссиями": 1805,
@@ -11189,8 +13052,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1330,
     "uikTvd": "452406070409",
+    "uikName": "УИК №1330",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1734,
@@ -11243,8 +13115,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1331,
     "uikTvd": "452406070410",
+    "uikName": "УИК №1331",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1637,
       "Число бюллетеней, полученных участковыми комиссиями": 1504,
@@ -11297,8 +13178,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1332,
     "uikTvd": "452406070411",
+    "uikName": "УИК №1332",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2186,
       "Число бюллетеней, полученных участковыми комиссиями": 2034,
@@ -11351,8 +13241,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1333,
     "uikTvd": "452406070412",
+    "uikName": "УИК №1333",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2508,
       "Число бюллетеней, полученных участковыми комиссиями": 2304,
@@ -11405,8 +13304,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1334,
     "uikTvd": "452406070413",
+    "uikName": "УИК №1334",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2228,
       "Число бюллетеней, полученных участковыми комиссиями": 2059,
@@ -11459,8 +13367,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1335,
     "uikTvd": "452406070414",
+    "uikName": "УИК №1335",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 2147,
@@ -11513,8 +13430,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1336,
     "uikTvd": "452406070415",
+    "uikName": "УИК №1336",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2220,
       "Число бюллетеней, полученных участковыми комиссиями": 2035,
@@ -11567,8 +13493,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1337,
     "uikTvd": "452406070416",
+    "uikName": "УИК №1337",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2294,
       "Число бюллетеней, полученных участковыми комиссиями": 2104,
@@ -11621,8 +13556,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1338,
     "uikTvd": "452406070417",
+    "uikName": "УИК №1338",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2299,
       "Число бюллетеней, полученных участковыми комиссиями": 2132,
@@ -11675,8 +13619,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1339,
     "uikTvd": "452406070418",
+    "uikName": "УИК №1339",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2377,
       "Число бюллетеней, полученных участковыми комиссиями": 2182,
@@ -11729,8 +13682,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1340,
     "uikTvd": "452406070419",
+    "uikName": "УИК №1340",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2216,
       "Число бюллетеней, полученных участковыми комиссиями": 2049,
@@ -11783,8 +13745,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1341,
     "uikTvd": "452406070420",
+    "uikName": "УИК №1341",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2307,
@@ -11837,8 +13808,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1342,
     "uikTvd": "452406070421",
+    "uikName": "УИК №1342",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2585,
       "Число бюллетеней, полученных участковыми комиссиями": 2393,
@@ -11891,8 +13871,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1343,
     "uikTvd": "452406070422",
+    "uikName": "УИК №1343",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2173,
       "Число бюллетеней, полученных участковыми комиссиями": 2004,
@@ -11945,8 +13934,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1344,
     "uikTvd": "452406070423",
+    "uikName": "УИК №1344",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2301,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -11999,8 +13997,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1345,
     "uikTvd": "452406070424",
+    "uikName": "УИК №1345",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2082,
@@ -12053,8 +14060,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1346,
     "uikTvd": "452406070425",
+    "uikName": "УИК №1346",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1967,
       "Число бюллетеней, полученных участковыми комиссиями": 1813,
@@ -12107,8 +14123,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1347,
     "uikTvd": "452406070426",
+    "uikName": "УИК №1347",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2009,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -12161,8 +14186,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1348,
     "uikTvd": "452406070427",
+    "uikName": "УИК №1348",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1655,
       "Число бюллетеней, полученных участковыми комиссиями": 1526,
@@ -12215,8 +14249,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1349,
     "uikTvd": "452406070428",
+    "uikName": "УИК №1349",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1712,
       "Число бюллетеней, полученных участковыми комиссиями": 1586,
@@ -12269,8 +14312,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1350,
     "uikTvd": "452406070429",
+    "uikName": "УИК №1350",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1882,
       "Число бюллетеней, полученных участковыми комиссиями": 1742,
@@ -12323,8 +14375,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1351,
     "uikTvd": "452406070430",
+    "uikName": "УИК №1351",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2141,
       "Число бюллетеней, полученных участковыми комиссиями": 1971,
@@ -12377,8 +14438,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1352,
     "uikTvd": "452406070431",
+    "uikName": "УИК №1352",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2257,
       "Число бюллетеней, полученных участковыми комиссиями": 2041,
@@ -12431,8 +14501,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1353,
     "uikTvd": "452406070432",
+    "uikName": "УИК №1353",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1941,
       "Число бюллетеней, полученных участковыми комиссиями": 1783,
@@ -12485,8 +14564,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1354,
     "uikTvd": "452406070433",
+    "uikName": "УИК №1354",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1798,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -12539,8 +14627,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1355,
     "uikTvd": "452406070434",
+    "uikName": "УИК №1355",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2162,
       "Число бюллетеней, полученных участковыми комиссиями": 1995,
@@ -12593,8 +14690,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1356,
     "uikTvd": "452406070435",
+    "uikName": "УИК №1356",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1836,
       "Число бюллетеней, полученных участковыми комиссиями": 1689,
@@ -12647,8 +14753,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1357,
     "uikTvd": "452406070436",
+    "uikName": "УИК №1357",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1690,
       "Число бюллетеней, полученных участковыми комиссиями": 1546,
@@ -12701,8 +14816,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1358,
     "uikTvd": "452406070437",
+    "uikName": "УИК №1358",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1780,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -12755,8 +14879,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1359,
     "uikTvd": "452406070438",
+    "uikName": "УИК №1359",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2411,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -12809,8 +14942,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1363,
     "uikTvd": "452406070439",
+    "uikName": "УИК №1363",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2283,
       "Число бюллетеней, полученных участковыми комиссиями": 2031,
@@ -12863,8 +15005,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1365,
     "uikTvd": "452406070440",
+    "uikName": "УИК №1365",
     "tikTvd": "352300170383",
     "tikName": "Нижний Новгород, Автозаводская южная",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 117,
+      "oikTvd": "100100095826",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2206,
       "Число бюллетеней, полученных участковыми комиссиями": 2027,
@@ -12917,8 +15068,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "452400270400",
+    "uikName": "УИК №108",
     "tikTvd": "352300270481",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2082,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -12965,8 +15125,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "452400270401",
+    "uikName": "УИК №109",
     "tikTvd": "352300270481",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1802,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -13013,8 +15182,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "452400270402",
+    "uikName": "УИК №110",
     "tikTvd": "352300270481",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2515,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -13061,8 +15239,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "452400270403",
+    "uikName": "УИК №111",
     "tikTvd": "352300270481",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1790,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -13109,8 +15296,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "452400270404",
+    "uikName": "УИК №112",
     "tikTvd": "352300270481",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2683,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -13157,8 +15353,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "452400270405",
+    "uikName": "УИК №113",
     "tikTvd": "352300270481",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1875,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -13205,8 +15410,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "452400270406",
+    "uikName": "УИК №114",
     "tikTvd": "352300270481",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2587,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -13253,8 +15467,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "452400270407",
+    "uikName": "УИК №115",
     "tikTvd": "352300270481",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 879,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -13301,8 +15524,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "452400270408",
+    "uikName": "УИК №116",
     "tikTvd": "352300270481",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2681,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -13349,8 +15581,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "452400270409",
+    "uikName": "УИК №117",
     "tikTvd": "352300270481",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2028,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -13397,8 +15638,17 @@ export const duma_2003_uik_428_region_52_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "452400270410",
+    "uikName": "УИК №118",
     "tikTvd": "352300270481",
     "tikName": "Арзамасская городская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1754,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,

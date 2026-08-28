@@ -13,6 +13,9 @@ except ImportError:
     from common import atomic_write
 
 
+CANONICAL_TYPES = Path(__file__).parents[1] / "2021-duma" / "protocol" / "types.ts"
+
+
 def _load(path: Path) -> dict[str, Any]:
     value = json.loads(path.read_text(encoding="utf-8"))
     if not isinstance(value, dict) or not isinstance(value.get("records"), list):
@@ -64,6 +67,80 @@ def _source(raw: dict[str, Any], report_type: int) -> dict[str, Any]:
     return result
 
 
+def _district_ref(record: dict[str, Any]) -> dict[str, Any] | None:
+    if record.get("district_number") is None or not record.get("oik_tvd"):
+        return None
+    return {
+        "districtNumber": int(record["district_number"]),
+        "oikTvd": str(record["oik_tvd"]),
+    }
+
+
+def _candidate_registry_source(raw: dict[str, Any]) -> dict[str, Any]:
+    result = {
+        "url": raw["official_url"],
+        "sha256": raw["sha256"],
+        "sourceReportType": 220,
+    }
+    for source_key, output_key in (
+        ("retrieved_at", "retrievedAt"),
+        ("final_url", "finalUrl"),
+        ("provenance", "provenance"),
+    ):
+        if raw.get(source_key) is not None:
+            result[output_key] = raw[source_key]
+    return result
+
+
+def _district_value(raw: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "election": "2021-duma",
+        "districtNumber": int(raw["district_number"]),
+        "oikTvd": str(raw["oik_tvd"]),
+        "oikName": raw["oik_name"],
+        "regionCode": str(raw["region_code"]),
+        "regionTvd": str(raw["region_tvd"]),
+        "regionName": raw["region_name"],
+        "winnerCandidateVibid": str(raw["winner_candidate_vibid"]),
+        "candidates": [
+            {
+                "candidateVibid": str(candidate["candidate_vibid"]),
+                "fullName": candidate["full_name"],
+                "nominatingEntity": candidate["nominating_entity"],
+                "registrationStatus": candidate["registration_status"],
+                "isElected": bool(candidate["is_elected"]),
+            }
+            for candidate in raw["candidates"]
+        ],
+        "source": _candidate_registry_source(raw["source"]),
+    }
+
+
+def _relation_value(raw: dict[str, Any]) -> dict[str, Any]:
+    result = {
+        "uikNumber": int(raw["uik_number"]),
+        "uikTvd": str(raw["uik_tvd"]),
+        "tikTvd": str(raw["tik_tvd"]),
+        "tikName": raw["tik_name"],
+    }
+    for source_key, output_key in (
+        ("uik_name", "uikName"),
+        ("region_code", "regionCode"),
+        ("region_tvd", "regionTvd"),
+        ("region_name", "regionName"),
+        ("oik_tvd", "oikTvd"),
+        ("oik_name", "oikName"),
+    ):
+        if raw.get(source_key) not in (None, ""):
+            result[output_key] = str(raw[source_key])
+    if raw.get("district_number") is not None:
+        result["district"] = {
+            "districtNumber": int(raw["district_number"]),
+            "oikTvd": str(raw["oik_tvd"]),
+        }
+    return result
+
+
 def _sum_maps(records: list[dict[str, Any]], field: str) -> dict[str, int]:
     totals: defaultdict[str, int] = defaultdict(int)
     for record in records:
@@ -81,7 +158,7 @@ def _uik_value(
     source_key = "party" if party else "candidate"
     accounting_field = f"{source_key}_accounting"
     vote_field = f"{source_key}_votes"
-    return {
+    result = {
         "election": "2021-duma",
         "level": "uik",
         "reportType": report_type,
@@ -100,6 +177,9 @@ def _uik_value(
             else (233 if party else 464),
         ),
     }
+    if not party and (district := _district_ref(record)) is not None:
+        result["district"] = district
+    return result
 
 
 def _tik_value(
@@ -121,7 +201,7 @@ def _tik_value(
             "uik_count": len(tik_records),
             "uik_tvds": [str(record["uik_tvd"]) for record in tik_records],
         }
-    return {
+    result = {
         "election": "2021-duma",
         "level": "tic",
         "reportType": report_type,
@@ -134,6 +214,56 @@ def _tik_value(
         "uikTvds": aggregate["uik_tvds"],
         "source": _source(sources[tik_tvd][source_key], report_type),
     }
+    if not party and (district := _district_ref(tik_records[0])) is not None:
+        result["district"] = district
+    return result
+
+
+def _write_district_catalog(
+    output: Path, districts: list[dict[str, Any]]
+) -> tuple[int, set[Path]]:
+    if not districts:
+        return 0, set()
+    root = output / "districts"
+    grouped: defaultdict[str, list[dict[str, Any]]] = defaultdict(list)
+    for district in districts:
+        grouped[str(district["region_code"])].append(district)
+    expected: set[Path] = set()
+    imports: list[str] = []
+    names: list[str] = []
+    for region in sorted(
+        grouped, key=lambda value: (int(value) if value.isdigit() else 999, value)
+    ):
+        name = _identifier(f"duma_2021_districts_region_{region}")
+        names.append(name)
+        path = root / f"region-{region}.ts"
+        expected.add(path)
+        values = [
+            _district_value(item)
+            for item in sorted(
+                grouped[region], key=lambda item: int(item["district_number"])
+            )
+        ]
+        content = (
+            "// This file is auto-generated by proper-data/crawler/generate_typescript.py.\n"
+            "// Do not edit it manually.\n\n"
+            'import type { SingleMemberDistrict } from "../protocol/types";\n\n'
+            f"export const {name} = {_literal(values)} satisfies readonly SingleMemberDistrict[];\n"
+        )
+        atomic_write(path, content.encode("utf-8"))
+        imports.append(f'import {{ {name} }} from "./districts/region-{region}";')
+    content = (
+        "// This file is auto-generated by proper-data/crawler/generate_typescript.py.\n"
+        "// Do not edit it manually.\n\n"
+        'import type { SingleMemberDistrict } from "./protocol/types";\n'
+        + "\n".join(imports)
+        + "\n\nexport const duma_2021_districts = [\n  ..."
+        + ",\n  ...".join(names)
+        + "\n] satisfies readonly SingleMemberDistrict[];\n"
+    )
+    atomic_write(output / "districts.ts", content.encode("utf-8"))
+    _clean_generated([root], expected)
+    return len(expected), expected
 
 
 def _clean_generated(roots: list[Path], expected: set[Path]) -> None:
@@ -141,6 +271,11 @@ def _clean_generated(roots: list[Path], expected: set[Path]) -> None:
         for path in root.glob("*.ts"):
             if path not in expected:
                 path.unlink()
+
+
+def _write_type_definitions(output: Path) -> None:
+    """Copy the maintained schema so generation into an empty root is complete."""
+    atomic_write(output / "protocol" / "types.ts", CANONICAL_TYPES.read_bytes())
 
 
 def generate(
@@ -152,6 +287,13 @@ def generate(
 ) -> dict[str, int]:
     if shard_size < 1:
         raise ValueError("shard_size must be positive")
+    if dataset.get("election") == "2021-duma":
+        gates = dataset.get("district_gates", {})
+        if not gates.get("passed") or len(dataset.get("districts", [])) != 225:
+            raise ValueError(
+                "refusing 2021 Duma generation: district catalog integrity gates failed"
+            )
+    _write_type_definitions(output)
     protocol_root = output / "protocol"
     records = sorted(
         dataset["records"],
@@ -213,15 +355,7 @@ def generate(
             _write_protocol(path, declaration, "TicProtocol", value)
 
     relation_path = output / "uik-to-tik.ts"
-    relations = [
-        {
-            "uikNumber": record["uik_number"],
-            "uikTvd": str(record["uik_tvd"]),
-            "tikTvd": record["tik_tvd"],
-            "tikName": record["tik_name"],
-        }
-        for record in records
-    ]
+    relations = [_relation_value(record) for record in records]
     relation_content = (
         "// This file is auto-generated by proper-data/crawler/generate_typescript.py.\n"
         "// Do not edit it manually.\n\n"
@@ -230,6 +364,9 @@ def generate(
         "satisfies readonly UikTikRelation[];\n"
     )
     atomic_write(relation_path, relation_content.encode("utf-8"))
+    district_shards, _ = _write_district_catalog(
+        output, list(dataset.get("districts", []))
+    )
 
     generated_roots = [
         protocol_root / "uik" / "242",
@@ -238,7 +375,13 @@ def generate(
         protocol_root / "tic" / "464",
     ]
     _clean_generated(generated_roots, expected)
-    return {"uiks": len(records), "tics": len(grouped), "protocol_files": len(expected)}
+    return {
+        "uiks": len(records),
+        "tics": len(grouped),
+        "protocol_files": len(expected),
+        "districts": len(dataset.get("districts", [])),
+        "district_shards": district_shards,
+    }
 
 
 def _generate_region_shards(
@@ -307,16 +450,7 @@ def _generate_region_shards(
                 collection=True,
             )
 
-    relations = dataset.get("relations") or [
-        {
-            "uik_number": record["uik_number"],
-            "uik_tvd": record["uik_tvd"],
-            "tik_tvd": record["tik_tvd"],
-            "tik_name": record["tik_name"],
-            "region": record.get("region", "unknown"),
-        }
-        for record in records
-    ]
+    relations = dataset.get("relations") or records
     relation_root = output / "uik-to-tik"
     relation_expected: set[Path] = set()
     relation_groups: defaultdict[str, list[dict[str, Any]]] = defaultdict(list)
@@ -331,12 +465,7 @@ def _generate_region_shards(
         relation_expected.add(path)
         path.parent.mkdir(parents=True, exist_ok=True)
         values = [
-            {
-                "uikNumber": item["uik_number"],
-                "uikTvd": str(item["uik_tvd"]),
-                "tikTvd": str(item["tik_tvd"]),
-                "tikName": item["tik_name"],
-            }
+            _relation_value(item)
             for item in sorted(
                 relation_groups[region],
                 key=lambda value: (int(value["uik_number"]), str(value["uik_tvd"])),
@@ -360,6 +489,9 @@ def _generate_region_shards(
         + "\n] satisfies readonly UikTikRelation[];\n"
     )
     atomic_write(output / "uik-to-tik.ts", relation_content.encode("utf-8"))
+    district_shards, _ = _write_district_catalog(
+        output, list(dataset.get("districts", []))
+    )
 
     roots = [
         protocol_root / "uik" / "242",
@@ -376,6 +508,8 @@ def _generate_region_shards(
         "tics": len(grouped),
         "protocol_files": len(expected),
         "relation_shards": len(relation_expected),
+        "districts": len(dataset.get("districts", [])),
+        "district_shards": district_shards,
     }
 
 

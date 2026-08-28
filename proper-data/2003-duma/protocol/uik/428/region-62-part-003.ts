@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "462400770503",
+    "uikName": "УИК №530",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -64,8 +73,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "462400770504",
+    "uikName": "УИК №531",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -117,8 +135,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "462400770505",
+    "uikName": "УИК №532",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -170,8 +197,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "462400770506",
+    "uikName": "УИК №533",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 286,
@@ -223,8 +259,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "462400770507",
+    "uikName": "УИК №534",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -276,8 +321,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "462400770508",
+    "uikName": "УИК №535",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 279,
@@ -329,8 +383,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "462400770509",
+    "uikName": "УИК №536",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 307,
@@ -382,8 +445,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "462400770510",
+    "uikName": "УИК №537",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 149,
@@ -435,8 +507,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "462400770511",
+    "uikName": "УИК №538",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -488,8 +569,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "462400770512",
+    "uikName": "УИК №539",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 457,
@@ -541,8 +631,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "462400770513",
+    "uikName": "УИК №540",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -594,8 +693,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "462400770514",
+    "uikName": "УИК №541",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 294,
@@ -647,8 +755,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "462400770515",
+    "uikName": "УИК №542",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 143,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -700,8 +817,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "462400770516",
+    "uikName": "УИК №543",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 342,
@@ -753,8 +879,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "462400770517",
+    "uikName": "УИК №544",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 406,
@@ -806,8 +941,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 545,
     "uikTvd": "462400770518",
+    "uikName": "УИК №545",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -859,8 +1003,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 546,
     "uikTvd": "462400770519",
+    "uikName": "УИК №546",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 194,
@@ -912,8 +1065,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 547,
     "uikTvd": "462400770520",
+    "uikName": "УИК №547",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -965,8 +1127,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 548,
     "uikTvd": "462400770521",
+    "uikName": "УИК №548",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 97,
@@ -1018,8 +1189,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 549,
     "uikTvd": "462400770522",
+    "uikName": "УИК №549",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 71,
@@ -1071,8 +1251,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "462400770523",
+    "uikName": "УИК №550",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -1124,8 +1313,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "462400770524",
+    "uikName": "УИК №551",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 246,
@@ -1177,8 +1375,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "462400770525",
+    "uikName": "УИК №552",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 336,
@@ -1230,8 +1437,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "462400770526",
+    "uikName": "УИК №553",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -1283,8 +1499,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "462400770527",
+    "uikName": "УИК №554",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -1336,8 +1561,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "462400770528",
+    "uikName": "УИК №555",
     "tikTvd": "362300271161",
     "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 926,
       "Число бюллетеней, полученных участковыми комиссиями": 939,
@@ -1389,8 +1623,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "462400970411",
+    "uikName": "УИК №556",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3248,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1442,8 +1685,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "462400970412",
+    "uikName": "УИК №557",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -1495,8 +1747,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "462400970413",
+    "uikName": "УИК №558",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1548,8 +1809,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "462400970414",
+    "uikName": "УИК №559",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -1601,8 +1871,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "462400970415",
+    "uikName": "УИК №560",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 414,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1654,8 +1933,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "462400970416",
+    "uikName": "УИК №561",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -1707,8 +1995,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "462400970417",
+    "uikName": "УИК №562",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1760,8 +2057,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "462400970418",
+    "uikName": "УИК №563",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -1813,8 +2119,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "462400970419",
+    "uikName": "УИК №564",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 71,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -1866,8 +2181,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "462400970420",
+    "uikName": "УИК №565",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1919,8 +2243,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "462400970421",
+    "uikName": "УИК №566",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -1972,8 +2305,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "462400970422",
+    "uikName": "УИК №567",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -2025,8 +2367,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "462400970423",
+    "uikName": "УИК №568",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -2078,8 +2429,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "462400970424",
+    "uikName": "УИК №569",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -2131,8 +2491,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "462400970425",
+    "uikName": "УИК №570",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -2184,8 +2553,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "462400970426",
+    "uikName": "УИК №571",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2237,8 +2615,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "462400970427",
+    "uikName": "УИК №572",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -2290,8 +2677,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "462400970428",
+    "uikName": "УИК №573",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -2343,8 +2739,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "462400970429",
+    "uikName": "УИК №574",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 761,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -2396,8 +2801,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "462400970430",
+    "uikName": "УИК №575",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -2449,8 +2863,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "462400970431",
+    "uikName": "УИК №576",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -2502,8 +2925,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "462400970432",
+    "uikName": "УИК №577",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -2555,8 +2987,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "462400970433",
+    "uikName": "УИК №578",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -2608,8 +3049,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "462400970434",
+    "uikName": "УИК №579",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2661,8 +3111,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "462400970435",
+    "uikName": "УИК №580",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -2714,8 +3173,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "462400970436",
+    "uikName": "УИК №581",
     "tikTvd": "362300271162",
     "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -2767,8 +3235,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "462401070384",
+    "uikName": "УИК №582",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -2820,8 +3297,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "462401070385",
+    "uikName": "УИК №583",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 327,
@@ -2873,8 +3359,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "462401070386",
+    "uikName": "УИК №584",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 297,
@@ -2926,8 +3421,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "462401070387",
+    "uikName": "УИК №585",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -2979,8 +3483,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "462401070388",
+    "uikName": "УИК №586",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 388,
       "Число бюллетеней, полученных участковыми комиссиями": 388,
@@ -3032,8 +3545,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "462401070389",
+    "uikName": "УИК №587",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 637,
       "Число бюллетеней, полученных участковыми комиссиями": 642,
@@ -3085,8 +3607,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "462401070390",
+    "uikName": "УИК №588",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -3138,8 +3669,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "462401070391",
+    "uikName": "УИК №589",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -3191,8 +3731,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "462401070392",
+    "uikName": "УИК №590",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 337,
@@ -3244,8 +3793,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "462401070393",
+    "uikName": "УИК №591",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 418,
@@ -3297,8 +3855,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "462401070394",
+    "uikName": "УИК №592",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -3350,8 +3917,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "462401070395",
+    "uikName": "УИК №593",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -3403,8 +3979,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "462401070396",
+    "uikName": "УИК №594",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -3456,8 +4041,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "462401070397",
+    "uikName": "УИК №595",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -3509,8 +4103,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "462401070398",
+    "uikName": "УИК №596",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1549,
       "Число бюллетеней, полученных участковыми комиссиями": 1537,
@@ -3562,8 +4165,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "462401070399",
+    "uikName": "УИК №597",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -3615,8 +4227,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "462401070400",
+    "uikName": "УИК №598",
     "tikTvd": "362300271163",
     "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -3668,8 +4289,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "462401170385",
+    "uikName": "УИК №599",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 421,
@@ -3721,8 +4351,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "462401170386",
+    "uikName": "УИК №600",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 344,
@@ -3774,8 +4413,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "462401170387",
+    "uikName": "УИК №601",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 721,
       "Число бюллетеней, полученных участковыми комиссиями": 714,
@@ -3827,8 +4475,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "462401170388",
+    "uikName": "УИК №602",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -3880,8 +4537,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "462401170389",
+    "uikName": "УИК №603",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 309,
@@ -3933,8 +4599,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "462401170390",
+    "uikName": "УИК №604",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -3986,8 +4661,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "462401170391",
+    "uikName": "УИК №605",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 309,
@@ -4039,8 +4723,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "462401170392",
+    "uikName": "УИК №606",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 417,
@@ -4092,8 +4785,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "462401170393",
+    "uikName": "УИК №607",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 787,
@@ -4145,8 +4847,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "462401170394",
+    "uikName": "УИК №608",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -4198,8 +4909,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "462401170395",
+    "uikName": "УИК №609",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -4251,8 +4971,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "462401170396",
+    "uikName": "УИК №610",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 722,
       "Число бюллетеней, полученных участковыми комиссиями": 709,
@@ -4304,8 +5033,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "462401170397",
+    "uikName": "УИК №611",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -4357,8 +5095,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "462401170398",
+    "uikName": "УИК №612",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -4410,8 +5157,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "462401170399",
+    "uikName": "УИК №613",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 545,
       "Число бюллетеней, полученных участковыми комиссиями": 546,
@@ -4463,8 +5219,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "462401170400",
+    "uikName": "УИК №614",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 505,
@@ -4516,8 +5281,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "462401170401",
+    "uikName": "УИК №615",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 346,
@@ -4569,8 +5343,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "462401170402",
+    "uikName": "УИК №616",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -4622,8 +5405,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "462401170403",
+    "uikName": "УИК №617",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -4675,8 +5467,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "462401170404",
+    "uikName": "УИК №618",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 715,
       "Число бюллетеней, полученных участковыми комиссиями": 698,
@@ -4728,8 +5529,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "462401170405",
+    "uikName": "УИК №619",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1107,
       "Число бюллетеней, полученных участковыми комиссиями": 1093,
@@ -4781,8 +5591,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "462401170406",
+    "uikName": "УИК №620",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1164,
       "Число бюллетеней, полученных участковыми комиссиями": 1159,
@@ -4834,8 +5653,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "462401170407",
+    "uikName": "УИК №621",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 472,
       "Число бюллетеней, полученных участковыми комиссиями": 471,
@@ -4887,8 +5715,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "462401170408",
+    "uikName": "УИК №622",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1765,
       "Число бюллетеней, полученных участковыми комиссиями": 1704,
@@ -4940,8 +5777,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "462401170409",
+    "uikName": "УИК №623",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1722,
@@ -4993,8 +5839,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "462401170410",
+    "uikName": "УИК №624",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1843,
       "Число бюллетеней, полученных участковыми комиссиями": 1811,
@@ -5046,8 +5901,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "462401170411",
+    "uikName": "УИК №625",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1832,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -5099,8 +5963,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "462401170412",
+    "uikName": "УИК №626",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1916,
       "Число бюллетеней, полученных участковыми комиссиями": 1884,
@@ -5152,8 +6025,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "462401170413",
+    "uikName": "УИК №627",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2134,
       "Число бюллетеней, полученных участковыми комиссиями": 2063,
@@ -5205,8 +6087,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "462401170414",
+    "uikName": "УИК №628",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2029,
       "Число бюллетеней, полученных участковыми комиссиями": 2035,
@@ -5258,8 +6149,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "462401170415",
+    "uikName": "УИК №629",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1929,
       "Число бюллетеней, полученных участковыми комиссиями": 1915,
@@ -5311,8 +6211,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "462401170416",
+    "uikName": "УИК №630",
     "tikTvd": "362300271164",
     "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 2202,
@@ -5364,8 +6273,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "462401270973",
+    "uikName": "УИК №631",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -5417,8 +6335,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "462401270974",
+    "uikName": "УИК №632",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -5470,8 +6397,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "462401270975",
+    "uikName": "УИК №633",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -5523,8 +6459,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "462401270976",
+    "uikName": "УИК №634",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -5576,8 +6521,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "462401270977",
+    "uikName": "УИК №635",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -5629,8 +6583,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "462401270978",
+    "uikName": "УИК №636",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -5682,8 +6645,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "462401270979",
+    "uikName": "УИК №637",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -5735,8 +6707,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "462401270980",
+    "uikName": "УИК №638",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -5788,8 +6769,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "462401270981",
+    "uikName": "УИК №639",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -5841,8 +6831,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "462401270982",
+    "uikName": "УИК №640",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -5894,8 +6893,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "462401270983",
+    "uikName": "УИК №641",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -5947,8 +6955,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "462401270984",
+    "uikName": "УИК №642",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 734,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -6000,8 +7017,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "462401270985",
+    "uikName": "УИК №643",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 64,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -6053,8 +7079,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "462401270986",
+    "uikName": "УИК №644",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1083,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -6106,8 +7141,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "462401270987",
+    "uikName": "УИК №645",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1427,
       "Число бюллетеней, полученных участковыми комиссиями": 1415,
@@ -6159,8 +7203,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "462401270988",
+    "uikName": "УИК №646",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -6212,8 +7265,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "462401270989",
+    "uikName": "УИК №647",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -6265,8 +7327,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "462401270990",
+    "uikName": "УИК №648",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -6318,8 +7389,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "462401270991",
+    "uikName": "УИК №649",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -6371,8 +7451,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "462401270992",
+    "uikName": "УИК №650",
     "tikTvd": "362300271165",
     "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -6424,8 +7513,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "462401470407",
+    "uikName": "УИК №651",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1363,
       "Число бюллетеней, полученных участковыми комиссиями": 1055,
@@ -6477,8 +7575,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "462401470408",
+    "uikName": "УИК №652",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1064,
       "Число бюллетеней, полученных участковыми комиссиями": 958,
@@ -6530,8 +7637,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "462401470409",
+    "uikName": "УИК №653",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1205,
       "Число бюллетеней, полученных участковыми комиссиями": 1107,
@@ -6583,8 +7699,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "462401470410",
+    "uikName": "УИК №654",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1367,
       "Число бюллетеней, полученных участковыми комиссиями": 1191,
@@ -6636,8 +7761,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "462401470411",
+    "uikName": "УИК №655",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -6689,8 +7823,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "462401470412",
+    "uikName": "УИК №656",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2181,
@@ -6742,8 +7885,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "462401470413",
+    "uikName": "УИК №657",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 995,
       "Число бюллетеней, полученных участковыми комиссиями": 874,
@@ -6795,8 +7947,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "462401470414",
+    "uikName": "УИК №658",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 1737,
@@ -6848,8 +8009,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "462401470415",
+    "uikName": "УИК №659",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1227,
       "Число бюллетеней, полученных участковыми комиссиями": 1068,
@@ -6901,8 +8071,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "462401470416",
+    "uikName": "УИК №660",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1360,
       "Число бюллетеней, полученных участковыми комиссиями": 1195,
@@ -6954,8 +8133,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "462401470417",
+    "uikName": "УИК №661",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2462,
       "Число бюллетеней, полученных участковыми комиссиями": 2158,
@@ -7007,8 +8195,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "462401470418",
+    "uikName": "УИК №662",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1238,
       "Число бюллетеней, полученных участковыми комиссиями": 1094,
@@ -7060,8 +8257,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "462401470419",
+    "uikName": "УИК №663",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1343,
       "Число бюллетеней, полученных участковыми комиссиями": 1202,
@@ -7113,8 +8319,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "462401470420",
+    "uikName": "УИК №664",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 526,
@@ -7166,8 +8381,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "462401470421",
+    "uikName": "УИК №665",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 560,
       "Число бюллетеней, полученных участковыми комиссиями": 553,
@@ -7219,8 +8443,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "462401470423",
+    "uikName": "УИК №667",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 288,
@@ -7272,8 +8505,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "462401470424",
+    "uikName": "УИК №668",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 161,
@@ -7325,8 +8567,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "462401470425",
+    "uikName": "УИК №669",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -7378,8 +8629,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "462401470426",
+    "uikName": "УИК №670",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -7431,8 +8691,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "462401470427",
+    "uikName": "УИК №671",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -7484,8 +8753,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "462401470428",
+    "uikName": "УИК №672",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -7537,8 +8815,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "462401470429",
+    "uikName": "УИК №673",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -7590,8 +8877,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "462401470430",
+    "uikName": "УИК №674",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 259,
@@ -7643,8 +8939,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "462401470431",
+    "uikName": "УИК №675",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -7696,8 +9001,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "462401470432",
+    "uikName": "УИК №676",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 71,
@@ -7749,8 +9063,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "462401470433",
+    "uikName": "УИК №677",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -7802,8 +9125,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "462401470434",
+    "uikName": "УИК №678",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 430,
       "Число бюллетеней, полученных участковыми комиссиями": 472,
@@ -7855,8 +9187,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "462401470435",
+    "uikName": "УИК №679",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -7908,8 +9249,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "462401470436",
+    "uikName": "УИК №680",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -7961,8 +9311,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "462401470437",
+    "uikName": "УИК №681",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -8014,8 +9373,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "462401470438",
+    "uikName": "УИК №682",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -8067,8 +9435,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "462401470439",
+    "uikName": "УИК №683",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -8120,8 +9497,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "462401470440",
+    "uikName": "УИК №684",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 687,
       "Число бюллетеней, полученных участковыми комиссиями": 694,
@@ -8173,8 +9559,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1117,
     "uikTvd": "462401471045",
+    "uikName": "УИК №1117",
     "tikTvd": "362300271166",
     "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 606,
       "Число бюллетеней, полученных участковыми комиссиями": 622,
@@ -8226,8 +9621,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "462401570392",
+    "uikName": "УИК №685",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 421,
       "Число бюллетеней, полученных участковыми комиссиями": 423,
@@ -8279,8 +9683,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "462401570393",
+    "uikName": "УИК №686",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -8332,8 +9745,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "462401570394",
+    "uikName": "УИК №687",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 544,
@@ -8385,8 +9807,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "462401570395",
+    "uikName": "УИК №688",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 760,
       "Число бюллетеней, полученных участковыми комиссиями": 754,
@@ -8438,8 +9869,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "462401570396",
+    "uikName": "УИК №689",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 808,
       "Число бюллетеней, полученных участковыми комиссиями": 795,
@@ -8491,8 +9931,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "462401570397",
+    "uikName": "УИК №690",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 609,
       "Число бюллетеней, полученных участковыми комиссиями": 597,
@@ -8544,8 +9993,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "462401570398",
+    "uikName": "УИК №691",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -8597,8 +10055,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "462401570399",
+    "uikName": "УИК №692",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 293,
@@ -8650,8 +10117,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "462401570400",
+    "uikName": "УИК №693",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -8703,8 +10179,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "462401570401",
+    "uikName": "УИК №694",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 134,
@@ -8756,8 +10241,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "462401570402",
+    "uikName": "УИК №695",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 553,
@@ -8809,8 +10303,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "462401570403",
+    "uikName": "УИК №696",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1047,
       "Число бюллетеней, полученных участковыми комиссиями": 1042,
@@ -8862,8 +10365,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "462401570404",
+    "uikName": "УИК №697",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 179,
@@ -8915,8 +10427,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "462401570405",
+    "uikName": "УИК №698",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1480,
       "Число бюллетеней, полученных участковыми комиссиями": 1465,
@@ -8968,8 +10489,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "462401570406",
+    "uikName": "УИК №699",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 568,
       "Число бюллетеней, полученных участковыми комиссиями": 561,
@@ -9021,8 +10551,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "462401570407",
+    "uikName": "УИК №700",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1328,
       "Число бюллетеней, полученных участковыми комиссиями": 1314,
@@ -9074,8 +10613,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "462401570408",
+    "uikName": "УИК №701",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 580,
       "Число бюллетеней, полученных участковыми комиссиями": 568,
@@ -9127,8 +10675,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "462401570409",
+    "uikName": "УИК №702",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 248,
@@ -9180,8 +10737,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "462401570410",
+    "uikName": "УИК №703",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 872,
       "Число бюллетеней, полученных участковыми комиссиями": 866,
@@ -9233,8 +10799,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "462401570411",
+    "uikName": "УИК №704",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2314,
       "Число бюллетеней, полученных участковыми комиссиями": 2284,
@@ -9286,8 +10861,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "462401570412",
+    "uikName": "УИК №705",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 718,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -9339,8 +10923,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "462401570413",
+    "uikName": "УИК №706",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 381,
@@ -9392,8 +10985,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "462401570414",
+    "uikName": "УИК №707",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1695,
       "Число бюллетеней, полученных участковыми комиссиями": 1701,
@@ -9445,8 +11047,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "462401570415",
+    "uikName": "УИК №708",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 821,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -9498,8 +11109,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "462401570416",
+    "uikName": "УИК №709",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 508,
@@ -9551,8 +11171,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "462401570417",
+    "uikName": "УИК №710",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1630,
       "Число бюллетеней, полученных участковыми комиссиями": 1604,
@@ -9604,8 +11233,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "462401570418",
+    "uikName": "УИК №711",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1932,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -9657,8 +11295,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "462401570419",
+    "uikName": "УИК №712",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1099,
       "Число бюллетеней, полученных участковыми комиссиями": 1053,
@@ -9710,8 +11357,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "462401570420",
+    "uikName": "УИК №713",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 154,
@@ -9763,8 +11419,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "462401570421",
+    "uikName": "УИК №714",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 578,
       "Число бюллетеней, полученных участковыми комиссиями": 557,
@@ -9816,8 +11481,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "462401570422",
+    "uikName": "УИК №715",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 323,
@@ -9869,8 +11543,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "462401570423",
+    "uikName": "УИК №716",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 567,
@@ -9922,8 +11605,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "462401570424",
+    "uikName": "УИК №717",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 802,
       "Число бюллетеней, полученных участковыми комиссиями": 782,
@@ -9975,8 +11667,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "462401570425",
+    "uikName": "УИК №718",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1793,
       "Число бюллетеней, полученных участковыми комиссиями": 1795,
@@ -10028,8 +11729,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "462401570426",
+    "uikName": "УИК №719",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2072,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -10081,8 +11791,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "462401570427",
+    "uikName": "УИК №720",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 554,
       "Число бюллетеней, полученных участковыми комиссиями": 551,
@@ -10134,8 +11853,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "462401570428",
+    "uikName": "УИК №721",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2738,
       "Число бюллетеней, полученных участковыми комиссиями": 2731,
@@ -10187,8 +11915,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "462401570429",
+    "uikName": "УИК №722",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2604,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10240,8 +11977,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "462401570430",
+    "uikName": "УИК №723",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1640,
       "Число бюллетеней, полученных участковыми комиссиями": 1574,
@@ -10293,8 +12039,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "462401570431",
+    "uikName": "УИК №724",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 745,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -10346,8 +12101,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "462401570432",
+    "uikName": "УИК №725",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 718,
       "Число бюллетеней, полученных участковыми комиссиями": 722,
@@ -10399,8 +12163,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "462401570433",
+    "uikName": "УИК №726",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 134,
@@ -10452,8 +12225,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "462401570434",
+    "uikName": "УИК №727",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 488,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -10505,8 +12287,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "462401570435",
+    "uikName": "УИК №728",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 468,
       "Число бюллетеней, полученных участковыми комиссиями": 463,
@@ -10558,8 +12349,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "462401570436",
+    "uikName": "УИК №729",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 412,
@@ -10611,8 +12411,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "462401570437",
+    "uikName": "УИК №730",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 702,
       "Число бюллетеней, полученных участковыми комиссиями": 677,
@@ -10664,8 +12473,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "462401570438",
+    "uikName": "УИК №731",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1724,
@@ -10717,8 +12535,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "462401570439",
+    "uikName": "УИК №732",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 829,
       "Число бюллетеней, полученных участковыми комиссиями": 798,
@@ -10770,8 +12597,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "462401570440",
+    "uikName": "УИК №733",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 718,
       "Число бюллетеней, полученных участковыми комиссиями": 679,
@@ -10823,8 +12659,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "462401570441",
+    "uikName": "УИК №734",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 321,
@@ -10876,8 +12721,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "462401570442",
+    "uikName": "УИК №735",
     "tikTvd": "362300271167",
     "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 52,
       "Число бюллетеней, полученных участковыми комиссиями": 84,
@@ -10929,8 +12783,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 736,
     "uikTvd": "462402070372",
+    "uikName": "УИК №736",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 836,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -10982,8 +12845,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 737,
     "uikTvd": "462402070373",
+    "uikName": "УИК №737",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -11035,8 +12907,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 738,
     "uikTvd": "462402070374",
+    "uikName": "УИК №738",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 868,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -11088,8 +12969,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 739,
     "uikTvd": "462402070375",
+    "uikName": "УИК №739",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 929,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -11141,8 +13031,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 740,
     "uikTvd": "462402070376",
+    "uikName": "УИК №740",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -11194,8 +13093,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 741,
     "uikTvd": "462402070377",
+    "uikName": "УИК №741",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -11247,8 +13155,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 742,
     "uikTvd": "462402070378",
+    "uikName": "УИК №742",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -11300,8 +13217,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 743,
     "uikTvd": "462402070379",
+    "uikName": "УИК №743",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -11353,8 +13279,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 744,
     "uikTvd": "462402070380",
+    "uikName": "УИК №744",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -11406,8 +13341,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 745,
     "uikTvd": "462402070381",
+    "uikName": "УИК №745",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -11459,8 +13403,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 746,
     "uikTvd": "462402070382",
+    "uikName": "УИК №746",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -11512,8 +13465,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 747,
     "uikTvd": "462402070383",
+    "uikName": "УИК №747",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -11565,8 +13527,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 748,
     "uikTvd": "462402070384",
+    "uikName": "УИК №748",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 757,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -11618,8 +13589,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 749,
     "uikTvd": "462402070385",
+    "uikName": "УИК №749",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -11671,8 +13651,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 750,
     "uikTvd": "462402070386",
+    "uikName": "УИК №750",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -11724,8 +13713,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 751,
     "uikTvd": "462402070387",
+    "uikName": "УИК №751",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -11777,8 +13775,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 752,
     "uikTvd": "462402070388",
+    "uikName": "УИК №752",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11830,8 +13837,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 753,
     "uikTvd": "462402070389",
+    "uikName": "УИК №753",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -11883,8 +13899,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 754,
     "uikTvd": "462402070390",
+    "uikName": "УИК №754",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -11936,8 +13961,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 755,
     "uikTvd": "462402070391",
+    "uikName": "УИК №755",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1003,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11989,8 +14023,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 756,
     "uikTvd": "462402070392",
+    "uikName": "УИК №756",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 474,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -12042,8 +14085,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 757,
     "uikTvd": "462402070393",
+    "uikName": "УИК №757",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1093,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -12095,8 +14147,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 758,
     "uikTvd": "462402070394",
+    "uikName": "УИК №758",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -12148,8 +14209,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 759,
     "uikTvd": "462402070395",
+    "uikName": "УИК №759",
     "tikTvd": "362300271168",
     "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -12201,8 +14271,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 760,
     "uikTvd": "462402170407",
+    "uikName": "УИК №760",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 294,
@@ -12254,8 +14333,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 761,
     "uikTvd": "462402170408",
+    "uikName": "УИК №761",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 254,
@@ -12307,8 +14395,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 762,
     "uikTvd": "462402170409",
+    "uikName": "УИК №762",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 254,
@@ -12360,8 +14457,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 763,
     "uikTvd": "462402170410",
+    "uikName": "УИК №763",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 574,
       "Число бюллетеней, полученных участковыми комиссиями": 565,
@@ -12413,8 +14519,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 764,
     "uikTvd": "462402170411",
+    "uikName": "УИК №764",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -12466,8 +14581,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 765,
     "uikTvd": "462402170412",
+    "uikName": "УИК №765",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -12519,8 +14643,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 766,
     "uikTvd": "462402170413",
+    "uikName": "УИК №766",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 318,
@@ -12572,8 +14705,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "462402170414",
+    "uikName": "УИК №767",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -12625,8 +14767,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "462402170415",
+    "uikName": "УИК №768",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -12678,8 +14829,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 769,
     "uikTvd": "462402170416",
+    "uikName": "УИК №769",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -12731,8 +14891,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 770,
     "uikTvd": "462402170417",
+    "uikName": "УИК №770",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 176,
@@ -12784,8 +14953,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 771,
     "uikTvd": "462402170418",
+    "uikName": "УИК №771",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 239,
@@ -12837,8 +15015,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 772,
     "uikTvd": "462402170419",
+    "uikName": "УИК №772",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 585,
@@ -12890,8 +15077,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 773,
     "uikTvd": "462402170420",
+    "uikName": "УИК №773",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 412,
       "Число бюллетеней, полученных участковыми комиссиями": 407,
@@ -12943,8 +15139,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 774,
     "uikTvd": "462402170421",
+    "uikName": "УИК №774",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 953,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -12996,8 +15201,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 775,
     "uikTvd": "462402170422",
+    "uikName": "УИК №775",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 339,
@@ -13049,8 +15263,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "462402170423",
+    "uikName": "УИК №776",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -13102,8 +15325,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "462402170424",
+    "uikName": "УИК №777",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 532,
@@ -13155,8 +15387,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "462402170425",
+    "uikName": "УИК №778",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 924,
       "Число бюллетеней, полученных участковыми комиссиями": 905,
@@ -13208,8 +15449,17 @@ export const duma_2003_uik_428_region_62_part_003 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "462402170426",
+    "uikName": "УИК №779",
     "tikTvd": "362300271169",
     "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 382,

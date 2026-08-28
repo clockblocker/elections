@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "elections": {
+    "2021-duma": {
+      "fed": {
+        "api_family": "stat-2021",
+        "base_url": "https://stat.vybory.gov.ru/",
+        "requires_bearer_token": false,
+        "region_codes": [46, 51, 52, 61, 76, 94],
+        "election_name_contains": "Государственной Думы",
+        "endpoints": {
+          "elections": "api/elections?regionCode={region_code}",
+          "districts": "api/elections/districts?regionCode={region_code}&electionId={election_id}",
+          "votings": "api/statistics/voting?districtId={district_id}",
+          "files": "api/transactions/filenames/{contract_id}",
+          "download": "download/{contract_id}/{filename}",
+          "download_method": "GET"
+        }
+      },
+      "msk": {
+        "api_family": "moscow-2021",
+        "requires_bearer_token": false,
+        "datasets": [
+          {
+            "id": "single-member",
+            "observer_url": "https://observer.mos.ru/all/servers/1/txs",
+            "api_base": "https://observer.mos.ru/1/observer",
+            "dump_endpoint": "files"
+          },
+          {
+            "id": "federal-list",
+            "observer_url": "https://observer.mos.ru/all/servers/2/txs",
+            "api_base": "https://observer.mos.ru/2/observer",
+            "dump_endpoint": "files"
+          }
+        ]
+      }
+    },
+    "2024-president": {
+      "fed": {
+        "api_family": "stat-2024",
+        "base_url": "https://stat.vybory.gov.ru/api/",
+        "requires_bearer_token": true,
+        "region_codes": [
+          10,
+          21,
+          22,
+          29,
+          31,
+          33,
+          35,
+          36,
+          39,
+          40,
+          46,
+          48,
+          50,
+          51,
+          52,
+          53,
+          54,
+          60,
+          61,
+          66,
+          70,
+          74,
+          76,
+          83,
+          90,
+          91,
+          93,
+          94
+        ],
+        "election_name_contains": "Президента Российской Федерации",
+        "endpoints": {
+          "regions": "voting/regions",
+          "elections": "elections/region/{region_code}/elections",
+          "districts": "elections/districts?regionCode={region_code}&electionId={election_id}",
+          "votings": "statistics/voting?districtId={district_id}&electionId={election_id}",
+          "files": "files/{contract_id}",
+          "download": "files/{filename}/contract/{contract_id}/download",
+          "download_method": "POST"
+        }
+      },
+      "msk": {
+        "api_family": "moscow-2024",
+        "observer_url": "https://observer.mos.ru/",
+        "config_url": "https://observer.mos.ru/config.js",
+        "catalog_endpoint": "api/elect-observer-service/all_votings",
+        "catalog_method": "POST",
+        "application_token_header": "x-application-token",
+        "election_name_contains": "Президента Российской Федерации",
+        "dump_field": "dumpUrl",
+        "archive_format": "7z",
+        "payload_format": "ndjson"
+      }
+    }
+  }
+}

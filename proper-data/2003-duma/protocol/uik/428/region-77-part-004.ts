@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "477404170565",
+    "uikName": "УИК №277",
     "tikTvd": "377300470648",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2495,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "477404170566",
+    "uikName": "УИК №278",
     "tikTvd": "377300470648",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2438,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "477404170567",
+    "uikName": "УИК №279",
     "tikTvd": "377300470648",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2370,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "477404170568",
+    "uikName": "УИК №280",
     "tikTvd": "377300470648",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2794,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "477404170569",
+    "uikName": "УИК №281",
     "tikTvd": "377300470648",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2084,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "477404170570",
+    "uikName": "УИК №282",
     "tikTvd": "377300470648",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2478,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "477404170571",
+    "uikName": "УИК №283",
     "tikTvd": "377300470648",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2261,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "477404170572",
+    "uikName": "УИК №284",
     "tikTvd": "377300470648",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "477404170573",
+    "uikName": "УИК №285",
     "tikTvd": "377300470648",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2143,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "477404170574",
+    "uikName": "УИК №286",
     "tikTvd": "377300470648",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2076,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "477404170575",
+    "uikName": "УИК №287",
     "tikTvd": "377300470648",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1929,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3049,
     "uikTvd": "477404170579",
+    "uikName": "УИК №3049",
     "tikTvd": "377300470648",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 23,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "477404370576",
+    "uikName": "УИК №310",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2194,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "477404370577",
+    "uikName": "УИК №311",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2386,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "477404370578",
+    "uikName": "УИК №312",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2772,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "477404370579",
+    "uikName": "УИК №313",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2643,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "477404370580",
+    "uikName": "УИК №314",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2549,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "477404370581",
+    "uikName": "УИК №315",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2737,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "477404370582",
+    "uikName": "УИК №316",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2719,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "477404370583",
+    "uikName": "УИК №317",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2837,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "477404370584",
+    "uikName": "УИК №318",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2717,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "477404370585",
+    "uikName": "УИК №319",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2795,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "477404370586",
+    "uikName": "УИК №320",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2592,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "477404370587",
+    "uikName": "УИК №321",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "477404370588",
+    "uikName": "УИК №322",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2507,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "477404370589",
+    "uikName": "УИК №323",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2372,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "477404370590",
+    "uikName": "УИК №324",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2542,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "477404370591",
+    "uikName": "УИК №325",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2612,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "477404370592",
+    "uikName": "УИК №326",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2625,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "477404370593",
+    "uikName": "УИК №327",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2552,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "477404370594",
+    "uikName": "УИК №328",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2619,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "477404370595",
+    "uikName": "УИК №329",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2441,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "477404370596",
+    "uikName": "УИК №330",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2558,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "477404370597",
+    "uikName": "УИК №331",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2659,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "477404370598",
+    "uikName": "УИК №332",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2412,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "477404370599",
+    "uikName": "УИК №333",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2392,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "477404370600",
+    "uikName": "УИК №334",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2284,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "477404370601",
+    "uikName": "УИК №335",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2524,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "477404670507",
+    "uikName": "УИК №376",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2783,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "477404670508",
+    "uikName": "УИК №377",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2402,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "477404670509",
+    "uikName": "УИК №378",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2504,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "477404670510",
+    "uikName": "УИК №379",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2758,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "477404670511",
+    "uikName": "УИК №380",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2777,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "477404670512",
+    "uikName": "УИК №381",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2117,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "477404670513",
+    "uikName": "УИК №382",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2636,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "477404670514",
+    "uikName": "УИК №383",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2474,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "477404670515",
+    "uikName": "УИК №384",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2862,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "477404670516",
+    "uikName": "УИК №385",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2301,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "477404670517",
+    "uikName": "УИК №386",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2485,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "477404670518",
+    "uikName": "УИК №387",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2440,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "477404670519",
+    "uikName": "УИК №388",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2483,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "477404670520",
+    "uikName": "УИК №389",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2431,
       "Число бюллетеней, полученных участковыми комиссиями": 2340,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "477404670521",
+    "uikName": "УИК №390",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2729,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "477404670522",
+    "uikName": "УИК №391",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2603,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "477404670523",
+    "uikName": "УИК №392",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2630,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "477404670524",
+    "uikName": "УИК №393",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "477404670525",
+    "uikName": "УИК №394",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2318,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "477404670526",
+    "uikName": "УИК №395",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2704,
       "Число бюллетеней, полученных участковыми комиссиями": 2440,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "477404670527",
+    "uikName": "УИК №396",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2456,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "477404670528",
+    "uikName": "УИК №397",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2687,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "477404670529",
+    "uikName": "УИК №398",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1868,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "477404670530",
+    "uikName": "УИК №399",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2634,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3055,
     "uikTvd": "477404670536",
+    "uikName": "УИК №3055",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 21,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3056,
     "uikTvd": "477404670537",
+    "uikName": "УИК №3056",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 11,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3057,
     "uikTvd": "477404670538",
+    "uikName": "УИК №3057",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 34,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "477404970638",
+    "uikName": "УИК №413",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2780,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "477404970639",
+    "uikName": "УИК №414",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "477404970640",
+    "uikName": "УИК №415",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "477404970641",
+    "uikName": "УИК №416",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2868,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "477404970642",
+    "uikName": "УИК №417",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2431,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "477404970643",
+    "uikName": "УИК №418",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2533,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "477404970644",
+    "uikName": "УИК №419",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2700,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "477404970645",
+    "uikName": "УИК №420",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2629,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "477404970646",
+    "uikName": "УИК №421",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2755,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "477404970647",
+    "uikName": "УИК №422",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2802,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "477404970648",
+    "uikName": "УИК №423",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2741,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "477404970649",
+    "uikName": "УИК №424",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2298,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "477404970650",
+    "uikName": "УИК №425",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2258,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "477404970651",
+    "uikName": "УИК №426",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2710,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "477404970652",
+    "uikName": "УИК №427",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2252,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3061,
     "uikTvd": "477404970657",
+    "uikName": "УИК №3061",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 18,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3062,
     "uikTvd": "477404970658",
+    "uikName": "УИК №3062",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 54,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "477405070640",
+    "uikName": "УИК №428",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2470,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "477405070641",
+    "uikName": "УИК №429",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2278,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "477405070642",
+    "uikName": "УИК №430",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2077,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "477405070643",
+    "uikName": "УИК №431",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2735,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "477405070644",
+    "uikName": "УИК №432",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2432,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "477405070645",
+    "uikName": "УИК №433",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2119,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "477405070646",
+    "uikName": "УИК №434",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2049,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "477405070647",
+    "uikName": "УИК №435",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1847,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "477405070648",
+    "uikName": "УИК №436",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2651,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "477405070649",
+    "uikName": "УИК №437",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2172,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "477405070650",
+    "uikName": "УИК №438",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2417,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "477405070651",
+    "uikName": "УИК №439",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2240,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "477405070652",
+    "uikName": "УИК №440",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2562,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "477405070653",
+    "uikName": "УИК №441",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2595,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3063,
     "uikTvd": "477405070654",
+    "uikName": "УИК №3063",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 5,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3064,
     "uikTvd": "477405070655",
+    "uikName": "УИК №3064",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 24,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 442,
     "uikTvd": "477405170765",
+    "uikName": "УИК №442",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2483,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 443,
     "uikTvd": "477405170766",
+    "uikName": "УИК №443",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2576,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 444,
     "uikTvd": "477405170767",
+    "uikName": "УИК №444",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 445,
     "uikTvd": "477405170768",
+    "uikName": "УИК №445",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2812,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 446,
     "uikTvd": "477405170769",
+    "uikName": "УИК №446",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2569,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "477405170770",
+    "uikName": "УИК №447",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2276,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "477405170771",
+    "uikName": "УИК №448",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2823,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "477405170772",
+    "uikName": "УИК №449",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2712,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "477405170773",
+    "uikName": "УИК №450",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2283,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "477405170774",
+    "uikName": "УИК №451",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2551,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "477405170775",
+    "uikName": "УИК №452",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2011,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "477405170776",
+    "uikName": "УИК №453",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2368,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "477405170777",
+    "uikName": "УИК №454",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2339,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "477405170778",
+    "uikName": "УИК №455",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2141,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "477405170779",
+    "uikName": "УИК №456",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2616,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "477405170780",
+    "uikName": "УИК №457",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2743,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "477405170781",
+    "uikName": "УИК №458",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2659,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "477405170782",
+    "uikName": "УИК №459",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2504,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "477405170783",
+    "uikName": "УИК №460",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2543,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "477405170784",
+    "uikName": "УИК №461",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2754,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "477405170785",
+    "uikName": "УИК №462",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2719,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3065,
     "uikTvd": "477405170790",
+    "uikName": "УИК №3065",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5151,
     "uikTvd": "477405171827",
+    "uikName": "УИК  5151",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5156,
     "uikTvd": "477405171828",
+    "uikName": "УИК  5156",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 704,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5162,
     "uikTvd": "477405171829",
+    "uikName": "УИК  5162",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5168,
     "uikTvd": "477405171830",
+    "uikName": "УИК  5168",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5188,
     "uikTvd": "477405171831",
+    "uikName": "УИК  5188",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1929,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5189,
     "uikTvd": "477405171832",
+    "uikName": "УИК  5189",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5190,
     "uikTvd": "477405171833",
+    "uikName": "УИК  5190",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 451,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5191,
     "uikTvd": "477405171834",
+    "uikName": "УИК  5191",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5206,
     "uikTvd": "477405171836",
+    "uikName": "УИК  5206",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 52,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5211,
     "uikTvd": "477405171837",
+    "uikName": "УИК  5211",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5212,
     "uikTvd": "477405171838",
+    "uikName": "УИК  5212",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 22,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5213,
     "uikTvd": "477405171839",
+    "uikName": "УИК  5213",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 42,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5214,
     "uikTvd": "477405171840",
+    "uikName": "УИК  5214",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 42,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5253,
     "uikTvd": "477405171841",
+    "uikName": "УИК  5253",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5254,
     "uikTvd": "477405171842",
+    "uikName": "УИК  5254",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 35,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5255,
     "uikTvd": "477405171843",
+    "uikName": "УИК  5255",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5256,
     "uikTvd": "477405171844",
+    "uikName": "УИК  5256",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5261,
     "uikTvd": "477405171845",
+    "uikName": "Участок  №5261",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 4000,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5263,
     "uikTvd": "477405171846",
+    "uikName": "УИК  5263",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 7000,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5264,
     "uikTvd": "477405171847",
+    "uikName": "УИК  5264",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 26,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5265,
     "uikTvd": "477405171848",
+    "uikName": "УИК  5265",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1163,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5266,
     "uikTvd": "477405171849",
+    "uikName": "УИК  5266",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 740,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5267,
     "uikTvd": "477405171850",
+    "uikName": "УИК  5267",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1163,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5268,
     "uikTvd": "477405171851",
+    "uikName": "УИК  5268",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2164,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5269,
     "uikTvd": "477405171852",
+    "uikName": "УИК  5269",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 875,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5270,
     "uikTvd": "477405171853",
+    "uikName": "УИК  5270",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2531,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5271,
     "uikTvd": "477405171854",
+    "uikName": "УИК  5271",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1850,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5272,
     "uikTvd": "477405171855",
+    "uikName": "УИК  5272",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1273,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5273,
     "uikTvd": "477405171856",
+    "uikName": "УИК  5273",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1605,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5274,
     "uikTvd": "477405171857",
+    "uikName": "УИК  5274",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 485,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5275,
     "uikTvd": "477405171858",
+    "uikName": "УИК  5275",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5276,
     "uikTvd": "477405171859",
+    "uikName": "УИК  5276",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5277,
     "uikTvd": "477405171860",
+    "uikName": "УИК  5277",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5278,
     "uikTvd": "477405171861",
+    "uikName": "УИК  5278",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 692,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5279,
     "uikTvd": "477405171862",
+    "uikName": "УИК  5279",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1517,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5357,
     "uikTvd": "477405171835",
+    "uikName": "УИК  5357",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 601,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "477405370579",
+    "uikName": "УИК №484",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2798,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "477405370580",
+    "uikName": "УИК №485",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2157,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "477405370581",
+    "uikName": "УИК №486",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2497,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "477405370582",
+    "uikName": "УИК №487",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2473,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "477405370583",
+    "uikName": "УИК №488",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2220,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "477405370584",
+    "uikName": "УИК №489",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2762,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "477405370585",
+    "uikName": "УИК №490",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2448,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "477405370586",
+    "uikName": "УИК №491",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2454,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "477405370587",
+    "uikName": "УИК №492",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2531,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "477405370588",
+    "uikName": "УИК №493",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2554,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "477405370589",
+    "uikName": "УИК №494",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2466,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "477405370590",
+    "uikName": "УИК №495",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1926,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "477405370591",
+    "uikName": "УИК №496",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2638,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "477405370592",
+    "uikName": "УИК №497",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2371,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "477405370593",
+    "uikName": "УИК №498",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2172,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "477405370594",
+    "uikName": "УИК №499",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2389,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2892,
     "uikTvd": "477407870514",
+    "uikName": "УИК №2892",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3050,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2893,
     "uikTvd": "477407870515",
+    "uikName": "УИК №2893",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2894,
     "uikTvd": "477407870516",
+    "uikName": "УИК №2894",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2588,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2895,
     "uikTvd": "477407870517",
+    "uikName": "УИК №2895",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2780,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2896,
     "uikTvd": "477407870518",
+    "uikName": "УИК №2896",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2595,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2897,
     "uikTvd": "477407870519",
+    "uikName": "УИК №2897",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2384,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2898,
     "uikTvd": "477407870520",
+    "uikName": "УИК №2898",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2649,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2899,
     "uikTvd": "477407870521",
+    "uikName": "УИК №2899",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2566,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2900,
     "uikTvd": "477407870522",
+    "uikName": "УИК №2900",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2901,
     "uikTvd": "477407870523",
+    "uikName": "УИК №2901",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2902,
     "uikTvd": "477407870524",
+    "uikName": "УИК №2902",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2461,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2903,
     "uikTvd": "477407870525",
+    "uikName": "УИК №2903",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1483,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2904,
     "uikTvd": "477407870526",
+    "uikName": "УИК №2904",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1788,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2905,
     "uikTvd": "477407870527",
+    "uikName": "УИК №2905",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1822,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2906,
     "uikTvd": "477407870528",
+    "uikName": "УИК №2906",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2334,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2907,
     "uikTvd": "477407870529",
+    "uikName": "УИК №2907",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2908,
     "uikTvd": "477407870530",
+    "uikName": "УИК №2908",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2846,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2909,
     "uikTvd": "477407870531",
+    "uikName": "УИК №2909",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2700,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2910,
     "uikTvd": "477407870532",
+    "uikName": "УИК №2910",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2376,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2911,
     "uikTvd": "477407870533",
+    "uikName": "УИК №2911",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2403,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2912,
     "uikTvd": "477407870534",
+    "uikName": "УИК №2912",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2643,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2913,
     "uikTvd": "477407870535",
+    "uikName": "УИК №2913",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2771,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2914,
     "uikTvd": "477407870536",
+    "uikName": "УИК №2914",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2232,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2915,
     "uikTvd": "477407870537",
+    "uikName": "УИК №2915",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2770,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2916,
     "uikTvd": "477407870538",
+    "uikName": "УИК №2916",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3024,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2917,
     "uikTvd": "477407870539",
+    "uikName": "УИК №2917",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1137,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2918,
     "uikTvd": "477407870540",
+    "uikName": "УИК №2918",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2386,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3211,
     "uikTvd": "477407870541",
+    "uikName": "УИК №3211",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 44,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3212,
     "uikTvd": "477407870542",
+    "uikName": "УИК №3212",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 194,
+      "oikTvd": "100100095693",
+      "oikName": "Ленинградский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1228,
     "uikTvd": "477408970618",
+    "uikName": "УИК №1228",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9708,8 +11526,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1229,
     "uikTvd": "477408970619",
+    "uikName": "УИК №1229",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2211,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9757,8 +11584,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1230,
     "uikTvd": "477408970620",
+    "uikName": "УИК №1230",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2275,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9806,8 +11642,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1231,
     "uikTvd": "477408970621",
+    "uikName": "УИК №1231",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1161,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9855,8 +11700,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1232,
     "uikTvd": "477408970622",
+    "uikName": "УИК №1232",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2384,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9904,8 +11758,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1233,
     "uikTvd": "477408970623",
+    "uikName": "УИК №1233",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2390,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9953,8 +11816,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1234,
     "uikTvd": "477408970624",
+    "uikName": "УИК №1234",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2048,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10002,8 +11874,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1235,
     "uikTvd": "477408970625",
+    "uikName": "УИК №1235",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2551,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10051,8 +11932,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1236,
     "uikTvd": "477408970626",
+    "uikName": "УИК №1236",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10100,8 +11990,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1237,
     "uikTvd": "477408970627",
+    "uikName": "УИК №1237",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2118,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10149,8 +12048,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1238,
     "uikTvd": "477408970628",
+    "uikName": "УИК №1238",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2400,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10198,8 +12106,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1239,
     "uikTvd": "477408970629",
+    "uikName": "УИК №1239",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2405,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10247,8 +12164,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1240,
     "uikTvd": "477408970630",
+    "uikName": "УИК №1240",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2471,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10296,8 +12222,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1241,
     "uikTvd": "477408970631",
+    "uikName": "УИК №1241",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2459,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10345,8 +12280,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1242,
     "uikTvd": "477408970632",
+    "uikName": "УИК №1242",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2660,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10394,8 +12338,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1243,
     "uikTvd": "477408970633",
+    "uikName": "УИК №1243",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2526,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10443,8 +12396,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1244,
     "uikTvd": "477408970634",
+    "uikName": "УИК №1244",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2712,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10492,8 +12454,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1245,
     "uikTvd": "477408970635",
+    "uikName": "УИК №1245",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2505,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10541,8 +12512,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1246,
     "uikTvd": "477408970636",
+    "uikName": "УИК №1246",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10590,8 +12570,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1247,
     "uikTvd": "477408970637",
+    "uikName": "УИК №1247",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1862,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10639,8 +12628,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1248,
     "uikTvd": "477408970638",
+    "uikName": "УИК №1248",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2474,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10688,8 +12686,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1249,
     "uikTvd": "477408970639",
+    "uikName": "УИК №1249",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2539,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10737,8 +12744,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1250,
     "uikTvd": "477408970640",
+    "uikName": "УИК №1250",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2486,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10786,8 +12802,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1251,
     "uikTvd": "477408970641",
+    "uikName": "УИК №1251",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2198,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10835,8 +12860,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1252,
     "uikTvd": "477408970642",
+    "uikName": "УИК №1252",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2591,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10884,8 +12918,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1253,
     "uikTvd": "477408970643",
+    "uikName": "УИК №1253",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2190,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10933,8 +12976,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1254,
     "uikTvd": "477408970644",
+    "uikName": "УИК №1254",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2089,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10982,8 +13034,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1255,
     "uikTvd": "477408970645",
+    "uikName": "УИК №1255",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2160,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11031,8 +13092,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1256,
     "uikTvd": "477408970646",
+    "uikName": "УИК №1256",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1687,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11080,8 +13150,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1257,
     "uikTvd": "477408970647",
+    "uikName": "УИК №1257",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1849,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11129,8 +13208,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1258,
     "uikTvd": "477408970648",
+    "uikName": "УИК №1258",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2253,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11178,8 +13266,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1259,
     "uikTvd": "477408970649",
+    "uikName": "УИК №1259",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2337,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11227,8 +13324,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1260,
     "uikTvd": "477408970650",
+    "uikName": "УИК №1260",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1968,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11276,8 +13382,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1261,
     "uikTvd": "477408970651",
+    "uikName": "УИК №1261",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2086,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11325,8 +13440,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1262,
     "uikTvd": "477408970652",
+    "uikName": "УИК №1262",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11374,8 +13498,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1263,
     "uikTvd": "477408970653",
+    "uikName": "УИК №1263",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2229,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11423,8 +13556,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1264,
     "uikTvd": "477408970654",
+    "uikName": "УИК №1264",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2570,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11472,8 +13614,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1265,
     "uikTvd": "477408970655",
+    "uikName": "УИК №1265",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2007,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11521,8 +13672,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1266,
     "uikTvd": "477408970656",
+    "uikName": "УИК №1266",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2732,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11570,8 +13730,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1267,
     "uikTvd": "477408970657",
+    "uikName": "УИК №1267",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2542,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11619,8 +13788,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1268,
     "uikTvd": "477408970658",
+    "uikName": "УИК №1268",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2481,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11668,8 +13846,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1269,
     "uikTvd": "477408970659",
+    "uikName": "УИК №1269",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2379,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11717,8 +13904,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1270,
     "uikTvd": "477408970660",
+    "uikName": "УИК №1270",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1781,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11766,8 +13962,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1271,
     "uikTvd": "477408970661",
+    "uikName": "УИК №1271",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2314,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11815,8 +14020,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1272,
     "uikTvd": "477408970662",
+    "uikName": "УИК №1272",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2391,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11864,8 +14078,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1273,
     "uikTvd": "477408970663",
+    "uikName": "УИК №1273",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2138,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11913,8 +14136,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1274,
     "uikTvd": "477408970664",
+    "uikName": "УИК №1274",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11962,8 +14194,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1275,
     "uikTvd": "477408970665",
+    "uikName": "УИК №1275",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2289,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -12011,8 +14252,17 @@ export const duma_2003_uik_428_region_77_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1276,
     "uikTvd": "477408970666",
+    "uikName": "УИК №1276",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 195,
+      "oikTvd": "100100095694",
+      "oikName": "Люблинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2206,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,

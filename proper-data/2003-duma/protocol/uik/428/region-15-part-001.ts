@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "415400870432",
+    "uikName": "УИК №140",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1894,
       "Число бюллетеней, полученных участковыми комиссиями": 1868,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "415400870440",
+    "uikName": "УИК №141",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1469,
       "Число бюллетеней, полученных участковыми комиссиями": 1383,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "415400870434",
+    "uikName": "УИК №142",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1782,
       "Число бюллетеней, полученных участковыми комиссиями": 1776,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "415400870436",
+    "uikName": "УИК №143",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1009,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "415400870438",
+    "uikName": "УИК №144",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2349,
       "Число бюллетеней, полученных участковыми комиссиями": 2279,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "415400870443",
+    "uikName": "УИК №145",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 955,
       "Число бюллетеней, полученных участковыми комиссиями": 955,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "415400870445",
+    "uikName": "УИК №146",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 928,
       "Число бюллетеней, полученных участковыми комиссиями": 916,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "415400870447",
+    "uikName": "УИК №147",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 257,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "415400870449",
+    "uikName": "УИК №148",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 509,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "415400870451",
+    "uikName": "УИК №149",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 950,
       "Число бюллетеней, полученных участковыми комиссиями": 921,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "415400870453",
+    "uikName": "УИК №150",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1743,
       "Число бюллетеней, полученных участковыми комиссиями": 1694,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "415400870455",
+    "uikName": "УИК №151",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2682,
       "Число бюллетеней, полученных участковыми комиссиями": 2605,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "415400870457",
+    "uikName": "УИК №152",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1930,
       "Число бюллетеней, полученных участковыми комиссиями": 1871,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "415400870459",
+    "uikName": "УИК №153",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2680,
       "Число бюллетеней, полученных участковыми комиссиями": 2647,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "415400870461",
+    "uikName": "УИК №154",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2549,
       "Число бюллетеней, полученных участковыми комиссиями": 2534,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "415400870463",
+    "uikName": "УИК №155",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1025,
       "Число бюллетеней, полученных участковыми комиссиями": 997,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "415400870465",
+    "uikName": "УИК №156",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2411,
       "Число бюллетеней, полученных участковыми комиссиями": 2336,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "415400870466",
+    "uikName": "УИК №157",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2107,
       "Число бюллетеней, полученных участковыми комиссиями": 2068,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "415400870467",
+    "uikName": "УИК №158",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2172,
       "Число бюллетеней, полученных участковыми комиссиями": 2102,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "415400870468",
+    "uikName": "УИК №159",
     "tikTvd": "215200070922",
     "tikName": " Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2605,
       "Число бюллетеней, полученных участковыми комиссиями": 2488,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "415401070641",
+    "uikName": "УИК №261",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 744,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "415401070642",
+    "uikName": "УИК №262",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1262,
       "Число бюллетеней, полученных участковыми комиссиями": 1152,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "415401070643",
+    "uikName": "УИК №263",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1152,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "415401070644",
+    "uikName": "УИК №264",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2877,
       "Число бюллетеней, полученных участковыми комиссиями": 2402,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "415401070645",
+    "uikName": "УИК №265",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1995,
       "Число бюллетеней, полученных участковыми комиссиями": 1699,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "415401070646",
+    "uikName": "УИК №266",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2978,
       "Число бюллетеней, полученных участковыми комиссиями": 2483,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "415401070647",
+    "uikName": "УИК №267",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1908,
       "Число бюллетеней, полученных участковыми комиссиями": 2099,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "415401070648",
+    "uikName": "УИК №268",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2132,
       "Число бюллетеней, полученных участковыми комиссиями": 2001,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "415401070649",
+    "uikName": "УИК №269",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1100,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "415401070650",
+    "uikName": "УИК №270",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2932,
       "Число бюллетеней, полученных участковыми комиссиями": 2549,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "415401070651",
+    "uikName": "УИК №271",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2700,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "415401070652",
+    "uikName": "УИК №272",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3050,
       "Число бюллетеней, полученных участковыми комиссиями": 2555,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "415401070653",
+    "uikName": "УИК №273",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2932,
       "Число бюллетеней, полученных участковыми комиссиями": 2398,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "415401070654",
+    "uikName": "УИК №274",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "415401070655",
+    "uikName": "УИК №275",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 521,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "415401070656",
+    "uikName": "УИК №276",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 26,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "415401070657",
+    "uikName": "УИК №277",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2031,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "415401070658",
+    "uikName": "УИК №278",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "415401070659",
+    "uikName": "УИК №279",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1587,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "415401070660",
+    "uikName": "УИК №280",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1070,
       "Число бюллетеней, полученных участковыми комиссиями": 2159,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "415401070661",
+    "uikName": "УИК №281",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2512,
       "Число бюллетеней, полученных участковыми комиссиями": 2204,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "415401070662",
+    "uikName": "УИК №282",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 897,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "415401070663",
+    "uikName": "УИК №283",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2221,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "415401070664",
+    "uikName": "УИК №284",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1464,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "415401070665",
+    "uikName": "УИК №285",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "415401070666",
+    "uikName": "УИК №286",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2560,
       "Число бюллетеней, полученных участковыми комиссиями": 2254,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "415401070667",
+    "uikName": "УИК №287",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2155,
       "Число бюллетеней, полученных участковыми комиссиями": 1998,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "415401070668",
+    "uikName": "УИК №288",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2722,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "415401070669",
+    "uikName": "УИК №289",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 905,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "415401070670",
+    "uikName": "УИК №290",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1825,
       "Число бюллетеней, полученных участковыми комиссиями": 1599,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "415401070671",
+    "uikName": "УИК №291",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1711,
       "Число бюллетеней, полученных участковыми комиссиями": 1548,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "415401070672",
+    "uikName": "УИК №292",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1591,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "415401070673",
+    "uikName": "УИК №293",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2079,
       "Число бюллетеней, полученных участковыми комиссиями": 1645,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "415401070674",
+    "uikName": "УИК №294",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2219,
       "Число бюллетеней, полученных участковыми комиссиями": 2004,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "415401070675",
+    "uikName": "УИК №295",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1600,
       "Число бюллетеней, полученных участковыми комиссиями": 1351,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "415401070676",
+    "uikName": "УИК №296",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1848,
       "Число бюллетеней, полученных участковыми комиссиями": 1647,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "415401070677",
+    "uikName": "УИК №297",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2121,
       "Число бюллетеней, полученных участковыми комиссиями": 1998,
@@ -2861,8 +3374,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "415401070678",
+    "uikName": "УИК №298",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2457,
       "Число бюллетеней, полученных участковыми комиссиями": 2246,
@@ -2911,8 +3433,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "415401070679",
+    "uikName": "УИК №299",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2635,
       "Число бюллетеней, полученных участковыми комиссиями": 2307,
@@ -2961,8 +3492,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "415401070680",
+    "uikName": "УИК №300",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2754,
       "Число бюллетеней, полученных участковыми комиссиями": 2397,
@@ -3011,8 +3551,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "415401070681",
+    "uikName": "УИК №301",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1307,
       "Число бюллетеней, полученных участковыми комиссиями": 2455,
@@ -3061,8 +3610,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "415401070682",
+    "uikName": "УИК №302",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3177,
       "Число бюллетеней, полученных участковыми комиссиями": 2615,
@@ -3111,8 +3669,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "415401070683",
+    "uikName": "УИК №303",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2842,
       "Число бюллетеней, полученных участковыми комиссиями": 2456,
@@ -3161,8 +3728,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "415401070684",
+    "uikName": "УИК №304",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2728,
       "Число бюллетеней, полученных участковыми комиссиями": 2448,
@@ -3211,8 +3787,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "415401070685",
+    "uikName": "УИК №305",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2763,
       "Число бюллетеней, полученных участковыми комиссиями": 2596,
@@ -3261,8 +3846,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "415401070686",
+    "uikName": "УИК №306",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2783,
       "Число бюллетеней, полученных участковыми комиссиями": 2402,
@@ -3311,8 +3905,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "415401070687",
+    "uikName": "УИК №307",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3008,
       "Число бюллетеней, полученных участковыми комиссиями": 2647,
@@ -3361,8 +3964,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "415401070688",
+    "uikName": "УИК №308",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2946,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3411,8 +4023,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "415401070689",
+    "uikName": "УИК №309",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2800,
       "Число бюллетеней, полученных участковыми комиссиями": 2387,
@@ -3461,8 +4082,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "415401070690",
+    "uikName": "УИК №310",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2238,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3511,8 +4141,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "415401070691",
+    "uikName": "УИК №311",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1457,
       "Число бюллетеней, полученных участковыми комиссиями": 1297,
@@ -3561,8 +4200,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "415401070692",
+    "uikName": "УИК №312",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1326,
       "Число бюллетеней, полученных участковыми комиссиями": 2609,
@@ -3611,8 +4259,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "415401070693",
+    "uikName": "УИК №313",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3110,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -3661,8 +4318,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "415401070694",
+    "uikName": "УИК №314",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2443,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -3711,8 +4377,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "415401070695",
+    "uikName": "УИК №315",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1602,
       "Число бюллетеней, полученных участковыми комиссиями": 1398,
@@ -3761,8 +4436,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "415401070696",
+    "uikName": "УИК №316",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2129,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -3811,8 +4495,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "415401070697",
+    "uikName": "УИК №317",
     "tikTvd": "215200070923",
     "tikName": "Владикавказ, Левобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2903,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -3861,8 +4554,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "415400970533",
+    "uikName": "УИК №160",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1328,
       "Число бюллетеней, полученных участковыми комиссиями": 1285,
@@ -3911,8 +4613,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "415400970534",
+    "uikName": "УИК №161",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1606,
       "Число бюллетеней, полученных участковыми комиссиями": 1505,
@@ -3961,8 +4672,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "415400970535",
+    "uikName": "УИК №162",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2886,
       "Число бюллетеней, полученных участковыми комиссиями": 2835,
@@ -4011,8 +4731,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "415400970536",
+    "uikName": "УИК №163",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 721,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -4061,8 +4790,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "415400970537",
+    "uikName": "УИК №164",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1114,
       "Число бюллетеней, полученных участковыми комиссиями": 1135,
@@ -4111,8 +4849,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "415400970538",
+    "uikName": "УИК №165",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 976,
       "Число бюллетеней, полученных участковыми комиссиями": 947,
@@ -4161,8 +4908,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "415400970539",
+    "uikName": "УИК №166",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1698,
       "Число бюллетеней, полученных участковыми комиссиями": 1666,
@@ -4211,8 +4967,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "415400970540",
+    "uikName": "УИК №167",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2632,
       "Число бюллетеней, полученных участковыми комиссиями": 2585,
@@ -4261,8 +5026,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "415400970541",
+    "uikName": "УИК №168",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1840,
       "Число бюллетеней, полученных участковыми комиссиями": 1802,
@@ -4311,8 +5085,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "415400970542",
+    "uikName": "УИК №169",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2209,
       "Число бюллетеней, полученных участковыми комиссиями": 2197,
@@ -4361,8 +5144,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "415400970543",
+    "uikName": "УИК №170",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1893,
       "Число бюллетеней, полученных участковыми комиссиями": 1863,
@@ -4411,8 +5203,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "415400970544",
+    "uikName": "УИК №171",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1200,
       "Число бюллетеней, полученных участковыми комиссиями": 1205,
@@ -4461,8 +5262,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "415400970545",
+    "uikName": "УИК №172",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1544,
       "Число бюллетеней, полученных участковыми комиссиями": 1544,
@@ -4511,8 +5321,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "415400970546",
+    "uikName": "УИК №173",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1227,
       "Число бюллетеней, полученных участковыми комиссиями": 1222,
@@ -4561,8 +5380,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "415400970547",
+    "uikName": "УИК №174",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1074,
       "Число бюллетеней, полученных участковыми комиссиями": 1074,
@@ -4611,8 +5439,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "415400970548",
+    "uikName": "УИК №175",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1749,
@@ -4661,8 +5498,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "415400970549",
+    "uikName": "УИК №176",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1900,
       "Число бюллетеней, полученных участковыми комиссиями": 1865,
@@ -4711,8 +5557,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "415400970550",
+    "uikName": "УИК №177",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2045,
       "Число бюллетеней, полученных участковыми комиссиями": 2014,
@@ -4761,8 +5616,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "415400970551",
+    "uikName": "УИК №178",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 836,
       "Число бюллетеней, полученных участковыми комиссиями": 836,
@@ -4811,8 +5675,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "415400970552",
+    "uikName": "УИК №179",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1741,
       "Число бюллетеней, полученных участковыми комиссиями": 1712,
@@ -4861,8 +5734,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "415400970553",
+    "uikName": "УИК №180",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1476,
       "Число бюллетеней, полученных участковыми комиссиями": 1452,
@@ -4911,8 +5793,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "415400970554",
+    "uikName": "УИК №181",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2241,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -4961,8 +5852,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "415400970555",
+    "uikName": "УИК №182",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2428,
       "Число бюллетеней, полученных участковыми комиссиями": 2349,
@@ -5011,8 +5911,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "415400970556",
+    "uikName": "УИК №183",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 2108,
@@ -5061,8 +5970,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "415400970557",
+    "uikName": "УИК №184",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1906,
       "Число бюллетеней, полученных участковыми комиссиями": 1861,
@@ -5111,8 +6029,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "415400970558",
+    "uikName": "УИК №185",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2034,
       "Число бюллетеней, полученных участковыми комиссиями": 2062,
@@ -5161,8 +6088,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "415400970559",
+    "uikName": "УИК №186",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1768,
       "Число бюллетеней, полученных участковыми комиссиями": 1693,
@@ -5211,8 +6147,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "415400970560",
+    "uikName": "УИК №187",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 453,
@@ -5261,8 +6206,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "415400970561",
+    "uikName": "УИК №188",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5311,8 +6265,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "415400970562",
+    "uikName": "УИК №189",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 219,
@@ -5361,8 +6324,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "415400970563",
+    "uikName": "УИК №190",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -5411,8 +6383,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "415400970564",
+    "uikName": "УИК №191",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -5461,8 +6442,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "415400970565",
+    "uikName": "УИК №192",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1517,
       "Число бюллетеней, полученных участковыми комиссиями": 1326,
@@ -5511,8 +6501,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "415400970566",
+    "uikName": "УИК №193",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1303,
       "Число бюллетеней, полученных участковыми комиссиями": 1177,
@@ -5561,8 +6560,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "415400970567",
+    "uikName": "УИК №194",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1389,
       "Число бюллетеней, полученных участковыми комиссиями": 1313,
@@ -5611,8 +6619,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "415400970568",
+    "uikName": "УИК №195",
     "tikTvd": "215200070924",
     "tikName": "Пригородная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 561,
       "Число бюллетеней, полученных участковыми комиссиями": 555,
@@ -5661,8 +6678,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "415400670402",
+    "uikName": "УИК №84",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1264,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5711,8 +6737,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "415400670403",
+    "uikName": "УИК №85",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 917,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -5761,8 +6796,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "415400670404",
+    "uikName": "УИК №86",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 823,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -5811,8 +6855,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "415400670405",
+    "uikName": "УИК №87",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1492,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5861,8 +6914,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "415400670406",
+    "uikName": "УИК №88",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1630,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5911,8 +6973,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "415400670407",
+    "uikName": "УИК №89",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1695,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5961,8 +7032,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "415400670408",
+    "uikName": "УИК №90",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1671,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -6011,8 +7091,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "415400670409",
+    "uikName": "УИК №91",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 681,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -6061,8 +7150,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "415400670410",
+    "uikName": "УИК №92",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1370,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6111,8 +7209,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "415400670411",
+    "uikName": "УИК №93",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1359,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -6161,8 +7268,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "415400670412",
+    "uikName": "УИК №94",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1176,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -6211,8 +7327,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "415400670413",
+    "uikName": "УИК №95",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 759,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -6261,8 +7386,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "415400670414",
+    "uikName": "УИК №96",
     "tikTvd": "215200070925",
     "tikName": "Кировская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6311,8 +7445,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "415400570403",
+    "uikName": "УИК №64",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1793,
       "Число бюллетеней, полученных участковыми комиссиями": 1705,
@@ -6361,8 +7504,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "415400570404",
+    "uikName": "УИК №65",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1537,
       "Число бюллетеней, полученных участковыми комиссиями": 1556,
@@ -6411,8 +7563,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "415400570405",
+    "uikName": "УИК №66",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1515,
       "Число бюллетеней, полученных участковыми комиссиями": 1379,
@@ -6461,8 +7622,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "415400570406",
+    "uikName": "УИК №67",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 284,
@@ -6511,8 +7681,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "415400570407",
+    "uikName": "УИК №68",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1150,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -6561,8 +7740,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "415400570408",
+    "uikName": "УИК №69",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 418,
@@ -6611,8 +7799,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "415400570409",
+    "uikName": "УИК №70",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6661,8 +7858,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "415400570410",
+    "uikName": "УИК №71",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 613,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -6711,8 +7917,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "415400570411",
+    "uikName": "УИК №72",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 271,
@@ -6761,8 +7976,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "415400570412",
+    "uikName": "УИК №73",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 861,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -6811,8 +8035,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "415400570413",
+    "uikName": "УИК №74",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 894,
       "Число бюллетеней, полученных участковыми комиссиями": 848,
@@ -6861,8 +8094,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "415400570414",
+    "uikName": "УИК №75",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 263,
@@ -6911,8 +8153,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "415400570415",
+    "uikName": "УИК №76",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 26,
       "Число бюллетеней, полученных участковыми комиссиями": 26,
@@ -6961,8 +8212,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "415400570416",
+    "uikName": "УИК №77",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 211,
@@ -7011,8 +8271,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "415400570417",
+    "uikName": "УИК №78",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -7061,8 +8330,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "415400570418",
+    "uikName": "УИК №79",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -7111,8 +8389,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "415400570419",
+    "uikName": "УИК №80",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -7161,8 +8448,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "415400570420",
+    "uikName": "УИК №81",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -7211,8 +8507,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "415400570421",
+    "uikName": "УИК №82",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -7261,8 +8566,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "415400570422",
+    "uikName": "УИК №83",
     "tikTvd": "215200070926",
     "tikName": "Ирафская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 42,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -7311,8 +8625,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "415400770449",
+    "uikName": "УИК №97",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2439,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -7361,8 +8684,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "415400770451",
+    "uikName": "УИК №98",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1863,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -7411,8 +8743,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "415400770453",
+    "uikName": "УИК №99",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1737,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7461,8 +8802,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "415400770455",
+    "uikName": "УИК №100",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2182,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7511,8 +8861,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "415400770457",
+    "uikName": "УИК №101",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2147,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7561,8 +8920,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "415400770459",
+    "uikName": "УИК №102",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1550,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -7611,8 +8979,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "415400770461",
+    "uikName": "УИК №103",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1707,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7661,8 +9038,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "415400770463",
+    "uikName": "УИК №104",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2055,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7711,8 +9097,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "415400770465",
+    "uikName": "УИК №105",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1458,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7761,8 +9156,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "415400770467",
+    "uikName": "УИК №106",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1618,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -7811,8 +9215,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "415400770469",
+    "uikName": "УИК №107",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1617,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -7861,8 +9274,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "415400770471",
+    "uikName": "УИК №108",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2169,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7911,8 +9333,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "415400770473",
+    "uikName": "УИК №109",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1276,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7961,8 +9392,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "415400770475",
+    "uikName": "УИК №110",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2798,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8011,8 +9451,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "415400770477",
+    "uikName": "УИК №111",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8061,8 +9510,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "415400770479",
+    "uikName": "УИК №112",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1341,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8111,8 +9569,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "415400770481",
+    "uikName": "УИК №113",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -8161,8 +9628,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "415400770483",
+    "uikName": "УИК №114",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8211,8 +9687,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "415400770485",
+    "uikName": "УИК №115",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8261,8 +9746,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "415400770487",
+    "uikName": "УИК №116",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -8311,8 +9805,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "415400770489",
+    "uikName": "УИК №117",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 473,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -8361,8 +9864,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "415400770491",
+    "uikName": "УИК №118",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2386,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -8411,8 +9923,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "415400770493",
+    "uikName": "УИК №119",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1767,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8461,8 +9982,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "415400770495",
+    "uikName": "УИК №120",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -8511,8 +10041,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "415400770497",
+    "uikName": "УИК №121",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1845,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8561,8 +10100,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "415400770499",
+    "uikName": "УИК №122",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2077,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -8611,8 +10159,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "415400770501",
+    "uikName": "УИК №123",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2688,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8661,8 +10218,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "415400770503",
+    "uikName": "УИК №124",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1291,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -8711,8 +10277,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "415400770505",
+    "uikName": "УИК №125",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2253,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8761,8 +10336,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "415400770507",
+    "uikName": "УИК №126",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1766,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8811,8 +10395,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "415400770509",
+    "uikName": "УИК №127",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2302,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8861,8 +10454,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "415400770511",
+    "uikName": "УИК №128",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1190,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -8911,8 +10513,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "415400770513",
+    "uikName": "УИК №129",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1053,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -8961,8 +10572,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "415400770515",
+    "uikName": "УИК №130",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2668,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9011,8 +10631,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "415400770517",
+    "uikName": "УИК №131",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2813,
       "Число бюллетеней, полученных участковыми комиссиями": 2820,
@@ -9061,8 +10690,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "415400770519",
+    "uikName": "УИК №132",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 774,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -9111,8 +10749,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "415400770521",
+    "uikName": "УИК №133",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 57,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -9161,8 +10808,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "415400770523",
+    "uikName": "УИК №134",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 819,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -9211,8 +10867,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "415400770525",
+    "uikName": "УИК №135",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1758,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9261,8 +10926,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "415400770527",
+    "uikName": "УИК №136",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9311,8 +10985,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "415400770529",
+    "uikName": "УИК №137",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -9361,8 +11044,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "415400770531",
+    "uikName": "УИК №138",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 776,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -9411,8 +11103,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "415400770533",
+    "uikName": "УИК №139",
     "tikTvd": "215200070927",
     "tikName": "Моздокская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -9461,8 +11162,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "415400470442",
+    "uikName": "УИК №51",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1375,
       "Число бюллетеней, полученных участковыми комиссиями": 1337,
@@ -9511,8 +11221,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "415400470443",
+    "uikName": "УИК №52",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1674,
       "Число бюллетеней, полученных участковыми комиссиями": 1639,
@@ -9561,8 +11280,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "415400470444",
+    "uikName": "УИК №53",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1270,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -9611,8 +11339,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "415400470445",
+    "uikName": "УИК №54",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1790,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -9661,8 +11398,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "415400470446",
+    "uikName": "УИК №55",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 872,
       "Число бюллетеней, полученных участковыми комиссиями": 837,
@@ -9711,8 +11457,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "415400470447",
+    "uikName": "УИК №56",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 838,
       "Число бюллетеней, полученных участковыми комиссиями": 854,
@@ -9761,8 +11516,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "415400470448",
+    "uikName": "УИК №57",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 757,
       "Число бюллетеней, полученных участковыми комиссиями": 732,
@@ -9811,8 +11575,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "415400470449",
+    "uikName": "УИК №58",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 998,
       "Число бюллетеней, полученных участковыми комиссиями": 982,
@@ -9861,8 +11634,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "415400470450",
+    "uikName": "УИК №59",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 725,
       "Число бюллетеней, полученных участковыми комиссиями": 705,
@@ -9911,8 +11693,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "415400470451",
+    "uikName": "УИК №60",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 517,
@@ -9961,8 +11752,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "415400470452",
+    "uikName": "УИК №61",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1246,
       "Число бюллетеней, полученных участковыми комиссиями": 1247,
@@ -10011,8 +11811,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "415400470453",
+    "uikName": "УИК №62",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1241,
       "Число бюллетеней, полученных участковыми комиссиями": 1151,
@@ -10061,8 +11870,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "415400470454",
+    "uikName": "УИК №63",
     "tikTvd": "215200070928",
     "tikName": "Дигорская",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1019,
       "Число бюллетеней, полученных участковыми комиссиями": 1010,
@@ -10111,8 +11929,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "415400370502",
+    "uikName": "УИК №196",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1399,
       "Число бюллетеней, полученных участковыми комиссиями": 1197,
@@ -10161,8 +11988,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "415400370504",
+    "uikName": "УИК №197",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1413,
       "Число бюллетеней, полученных участковыми комиссиями": 1197,
@@ -10211,8 +12047,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "415400370506",
+    "uikName": "УИК №198",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -10261,8 +12106,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "415400370507",
+    "uikName": "УИК №199",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10311,8 +12165,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "415400370508",
+    "uikName": "УИК №200",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 744,
       "Число бюллетеней, полученных участковыми комиссиями": 647,
@@ -10361,8 +12224,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "415400370509",
+    "uikName": "УИК №201",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2355,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10411,8 +12283,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "415400370510",
+    "uikName": "УИК №202",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1343,
       "Число бюллетеней, полученных участковыми комиссиями": 1205,
@@ -10461,8 +12342,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "415400370511",
+    "uikName": "УИК №203",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1804,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10511,8 +12401,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "415400370512",
+    "uikName": "УИК №204",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1128,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10561,8 +12460,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "415400370514",
+    "uikName": "УИК №206",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1319,
       "Число бюллетеней, полученных участковыми комиссиями": 1210,
@@ -10611,8 +12519,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "415400370515",
+    "uikName": "УИК №207",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1036,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10661,8 +12578,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "415400370516",
+    "uikName": "УИК №208",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -10711,8 +12637,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "415400370517",
+    "uikName": "УИК №209",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1076,
       "Число бюллетеней, полученных участковыми комиссиями": 2003,
@@ -10761,8 +12696,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "415400370518",
+    "uikName": "УИК №210",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1920,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10811,8 +12755,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "415400370519",
+    "uikName": "УИК №211",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -10861,8 +12814,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "415400370520",
+    "uikName": "УИК №212",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2181,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -10911,8 +12873,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "415400370521",
+    "uikName": "УИК №213",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 854,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -10961,8 +12932,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "415400370522",
+    "uikName": "УИК №214",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 34,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -11011,8 +12991,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "415400370523",
+    "uikName": "УИК №215",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2179,
       "Число бюллетеней, полученных участковыми комиссиями": 2099,
@@ -11061,8 +13050,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "415400370524",
+    "uikName": "УИК №216",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1515,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11111,8 +13109,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "415400370525",
+    "uikName": "УИК №217",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1813,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11161,8 +13168,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "415400370526",
+    "uikName": "УИК №218",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2800,
       "Число бюллетеней, полученных участковыми комиссиями": 2494,
@@ -11211,8 +13227,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "415400370527",
+    "uikName": "УИК №219",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1957,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11261,8 +13286,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "415400370528",
+    "uikName": "УИК №220",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2374,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11311,8 +13345,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "415400370529",
+    "uikName": "УИК №221",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2514,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -11361,8 +13404,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "415400370530",
+    "uikName": "УИК №222",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1074,
       "Число бюллетеней, полученных участковыми комиссиями": 998,
@@ -11411,8 +13463,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "415400370531",
+    "uikName": "УИК №223",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2055,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -11461,8 +13522,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "415400370532",
+    "uikName": "УИК №224",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 792,
       "Число бюллетеней, полученных участковыми комиссиями": 637,
@@ -11511,8 +13581,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "415400370533",
+    "uikName": "УИК №225",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 764,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -11561,8 +13640,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "415400370534",
+    "uikName": "УИК №226",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1867,
       "Число бюллетеней, полученных участковыми комиссиями": 1714,
@@ -11611,8 +13699,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "415400370535",
+    "uikName": "УИК №227",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 806,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -11661,8 +13758,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "415400370536",
+    "uikName": "УИК №228",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11711,8 +13817,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "415400370537",
+    "uikName": "УИК №229",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -11761,8 +13876,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "415400370538",
+    "uikName": "УИК №230",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 995,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -11811,8 +13935,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "415400370539",
+    "uikName": "УИК №231",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1148,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11861,8 +13994,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "415400370540",
+    "uikName": "УИК №232",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11911,8 +14053,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "415400370541",
+    "uikName": "УИК №233",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1152,
       "Число бюллетеней, полученных участковыми комиссиями": 893,
@@ -11961,8 +14112,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "415400370542",
+    "uikName": "УИК №234",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2040,
       "Число бюллетеней, полученных участковыми комиссиями": 1876,
@@ -12011,8 +14171,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "415400370543",
+    "uikName": "УИК №235",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1320,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -12061,8 +14230,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "415400370544",
+    "uikName": "УИК №236",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -12111,8 +14289,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "415400370545",
+    "uikName": "УИК №237",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -12161,8 +14348,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "415400370546",
+    "uikName": "УИК №238",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -12211,8 +14407,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "415400370547",
+    "uikName": "УИК №239",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3272,
       "Число бюллетеней, полученных участковыми комиссиями": 2797,
@@ -12261,8 +14466,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "415400370548",
+    "uikName": "УИК №240",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1562,
       "Число бюллетеней, полученных участковыми комиссиями": 1396,
@@ -12311,8 +14525,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "415400370549",
+    "uikName": "УИК №241",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1328,
       "Число бюллетеней, полученных участковыми комиссиями": 1212,
@@ -12361,8 +14584,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "415400370550",
+    "uikName": "УИК №242",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1293,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -12411,8 +14643,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "415400370551",
+    "uikName": "УИК №243",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2658,
       "Число бюллетеней, полученных участковыми комиссиями": 2406,
@@ -12461,8 +14702,17 @@ export const duma_2003_uik_428_region_15_part_001 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "415400370552",
+    "uikName": "УИК №244",
     "tikTvd": "215200070929",
     "tikName": "Владикавказ, Правобережная",
+    "regionCode": "15",
+    "regionTvd": "100100095638",
+    "regionName": "Республика Северная Осетия - Алания",
+    "district": {
+      "districtNumber": 22,
+      "oikTvd": "100100095639",
+      "oikName": "Северо-Осетинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1564,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,

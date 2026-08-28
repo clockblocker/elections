@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2750,
     "uikTvd": "459402766710",
+    "uikName": "УИК №2750",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1362,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -62,8 +71,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2751,
     "uikTvd": "459402766711",
+    "uikName": "УИК №2751",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1605,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -113,8 +131,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2752,
     "uikTvd": "459402766712",
+    "uikName": "УИК №2752",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 767,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -164,8 +191,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2753,
     "uikTvd": "459402766713",
+    "uikName": "УИК №2753",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1598,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -215,8 +251,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2754,
     "uikTvd": "459402766714",
+    "uikName": "УИК №2754",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2223,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -266,8 +311,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2755,
     "uikTvd": "459402766715",
+    "uikName": "УИК №2755",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -317,8 +371,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2756,
     "uikTvd": "459402766716",
+    "uikName": "УИК №2756",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1267,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -368,8 +431,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2757,
     "uikTvd": "459402766717",
+    "uikName": "УИК №2757",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1622,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -419,8 +491,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2758,
     "uikTvd": "459402766718",
+    "uikName": "УИК №2758",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1339,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -470,8 +551,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2759,
     "uikTvd": "459402766719",
+    "uikName": "УИК №2759",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1659,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -521,8 +611,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2760,
     "uikTvd": "459402766720",
+    "uikName": "УИК №2760",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 821,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -572,8 +671,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2761,
     "uikTvd": "459402766721",
+    "uikName": "УИК №2761",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 996,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -623,8 +731,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2762,
     "uikTvd": "459402766722",
+    "uikName": "УИК №2762",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 139,
+      "oikTvd": "100100095750",
+      "oikName": "Ленинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -674,8 +791,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3401,
     "uikTvd": "459403467138",
+    "uikName": "УИК №3401",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1824,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -725,8 +851,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3402,
     "uikTvd": "459403467139",
+    "uikName": "УИК №3402",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2850,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -776,8 +911,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3403,
     "uikTvd": "459403467140",
+    "uikName": "УИК №3403",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2344,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -827,8 +971,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3404,
     "uikTvd": "459403467141",
+    "uikName": "УИК №3404",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2729,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -878,8 +1031,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3405,
     "uikTvd": "459403467142",
+    "uikName": "УИК №3405",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2722,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -929,8 +1091,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3406,
     "uikTvd": "459403467143",
+    "uikName": "УИК №3406",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2517,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -980,8 +1151,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3407,
     "uikTvd": "459403467144",
+    "uikName": "УИК №3407",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2441,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1031,8 +1211,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3408,
     "uikTvd": "459403467145",
+    "uikName": "УИК №3408",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2097,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1082,8 +1271,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3409,
     "uikTvd": "459403467146",
+    "uikName": "УИК №3409",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2059,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1133,8 +1331,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3410,
     "uikTvd": "459403467147",
+    "uikName": "УИК №3410",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2566,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1184,8 +1391,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3411,
     "uikTvd": "459403467148",
+    "uikName": "УИК №3411",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1976,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1235,8 +1451,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3412,
     "uikTvd": "459403467149",
+    "uikName": "УИК №3412",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2958,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1286,8 +1511,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3413,
     "uikTvd": "459403467150",
+    "uikName": "УИК №3413",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1432,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1337,8 +1571,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3414,
     "uikTvd": "459403467151",
+    "uikName": "УИК №3414",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1535,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1388,8 +1631,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3415,
     "uikTvd": "459403467152",
+    "uikName": "УИК №3415",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1439,8 +1691,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3416,
     "uikTvd": "459403467153",
+    "uikName": "УИК №3416",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1449,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1490,8 +1751,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3417,
     "uikTvd": "459403467154",
+    "uikName": "УИК №3417",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1111,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -1541,8 +1811,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3418,
     "uikTvd": "459403467155",
+    "uikName": "УИК №3418",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1235,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1592,8 +1871,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3419,
     "uikTvd": "459403467156",
+    "uikName": "УИК №3419",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1580,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1643,8 +1931,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3420,
     "uikTvd": "459403467157",
+    "uikName": "УИК №3420",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1687,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1694,8 +1991,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3421,
     "uikTvd": "459403467158",
+    "uikName": "УИК №3421",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1191,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1745,8 +2051,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3422,
     "uikTvd": "459403467159",
+    "uikName": "УИК №3422",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2005,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1796,8 +2111,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3423,
     "uikTvd": "459403467160",
+    "uikName": "УИК №3423",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1872,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1847,8 +2171,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3424,
     "uikTvd": "459403467161",
+    "uikName": "УИК №3424",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1560,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1898,8 +2231,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3425,
     "uikTvd": "459403467162",
+    "uikName": "УИК №3425",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1612,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1949,8 +2291,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3426,
     "uikTvd": "459403467163",
+    "uikName": "УИК №3426",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1403,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2000,8 +2351,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3427,
     "uikTvd": "459403467164",
+    "uikName": "УИК №3427",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1528,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2051,8 +2411,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3428,
     "uikTvd": "459403467165",
+    "uikName": "УИК №3428",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2102,8 +2471,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3429,
     "uikTvd": "459403467166",
+    "uikName": "УИК №3429",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2009,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2153,8 +2531,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3430,
     "uikTvd": "459403467167",
+    "uikName": "УИК №3430",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1882,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2204,8 +2591,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3431,
     "uikTvd": "459403467168",
+    "uikName": "УИК №3431",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1814,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2255,8 +2651,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3432,
     "uikTvd": "459403467169",
+    "uikName": "УИК №3432",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1581,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2306,8 +2711,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3433,
     "uikTvd": "459403467170",
+    "uikName": "УИК №3433",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2364,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2357,8 +2771,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3434,
     "uikTvd": "459403467171",
+    "uikName": "УИК №3434",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2589,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2408,8 +2831,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3435,
     "uikTvd": "459403467172",
+    "uikName": "УИК №3435",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2297,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2459,8 +2891,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3436,
     "uikTvd": "459403467173",
+    "uikName": "УИК №3436",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2527,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2510,8 +2951,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3437,
     "uikTvd": "459403467174",
+    "uikName": "УИК №3437",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2250,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2561,8 +3011,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3438,
     "uikTvd": "459403467175",
+    "uikName": "УИК №3438",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2278,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2612,8 +3071,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3439,
     "uikTvd": "459403467176",
+    "uikName": "УИК №3439",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2180,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2663,8 +3131,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3440,
     "uikTvd": "459403467177",
+    "uikName": "УИК №3440",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2252,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2714,8 +3191,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3441,
     "uikTvd": "459403467178",
+    "uikName": "УИК №3441",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2765,8 +3251,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3442,
     "uikTvd": "459403467179",
+    "uikName": "УИК №3442",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1963,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2816,8 +3311,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3443,
     "uikTvd": "459403467180",
+    "uikName": "УИК №3443",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2618,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -2867,8 +3371,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3444,
     "uikTvd": "459403467181",
+    "uikName": "УИК №3444",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1776,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2918,8 +3431,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3445,
     "uikTvd": "459403467182",
+    "uikName": "УИК №3445",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2353,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2969,8 +3491,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3446,
     "uikTvd": "459403467183",
+    "uikName": "УИК №3446",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2395,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3020,8 +3551,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3447,
     "uikTvd": "459403467184",
+    "uikName": "УИК №3447",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3071,8 +3611,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3448,
     "uikTvd": "459403467185",
+    "uikName": "УИК №3448",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2144,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3122,8 +3671,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3449,
     "uikTvd": "459403467186",
+    "uikName": "УИК №3449",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2184,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3173,8 +3731,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3450,
     "uikTvd": "459403467187",
+    "uikName": "УИК №3450",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2543,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3224,8 +3791,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3451,
     "uikTvd": "459403467188",
+    "uikName": "УИК №3451",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2022,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3275,8 +3851,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3452,
     "uikTvd": "459403467189",
+    "uikName": "УИК №3452",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1732,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3326,8 +3911,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3453,
     "uikTvd": "459403467190",
+    "uikName": "УИК №3453",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2152,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3377,8 +3971,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3454,
     "uikTvd": "459403467191",
+    "uikName": "УИК №3454",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1809,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3428,8 +4031,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3455,
     "uikTvd": "459403467192",
+    "uikName": "УИК №3455",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1900,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3479,8 +4091,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3456,
     "uikTvd": "459403467193",
+    "uikName": "УИК №3456",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1733,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3530,8 +4151,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3457,
     "uikTvd": "459403467194",
+    "uikName": "УИК №3457",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2422,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3581,8 +4211,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3458,
     "uikTvd": "459403467195",
+    "uikName": "УИК №3458",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1559,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3632,8 +4271,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3459,
     "uikTvd": "459403467196",
+    "uikName": "УИК №3459",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2271,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3683,8 +4331,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3460,
     "uikTvd": "459403467197",
+    "uikName": "УИК №3460",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1939,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3734,8 +4391,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3461,
     "uikTvd": "459403467198",
+    "uikName": "УИК №3461",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1850,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3785,8 +4451,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3462,
     "uikTvd": "459403467199",
+    "uikName": "УИК №3462",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1599,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3836,8 +4511,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3463,
     "uikTvd": "459403467200",
+    "uikName": "УИК №3463",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2061,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3887,8 +4571,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3464,
     "uikTvd": "459403467201",
+    "uikName": "УИК №3464",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2717,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3938,8 +4631,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3465,
     "uikTvd": "459403467202",
+    "uikName": "УИК №3465",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1308,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3989,8 +4691,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3466,
     "uikTvd": "459403467203",
+    "uikName": "УИК №3466",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2524,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4040,8 +4751,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3467,
     "uikTvd": "459403467204",
+    "uikName": "УИК №3467",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2859,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -4091,8 +4811,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3468,
     "uikTvd": "459403467205",
+    "uikName": "УИК №3468",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2653,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4142,8 +4871,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3469,
     "uikTvd": "459403467206",
+    "uikName": "УИК №3469",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2763,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -4193,8 +4931,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3470,
     "uikTvd": "459403467207",
+    "uikName": "УИК №3470",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2741,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4244,8 +4991,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3471,
     "uikTvd": "459403467208",
+    "uikName": "УИК №3471",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2169,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4295,8 +5051,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3472,
     "uikTvd": "459403467209",
+    "uikName": "УИК №3472",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1369,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4346,8 +5111,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3473,
     "uikTvd": "459403467210",
+    "uikName": "УИК №3473",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2611,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4397,8 +5171,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3474,
     "uikTvd": "459403467211",
+    "uikName": "УИК №3474",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2578,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4448,8 +5231,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3475,
     "uikTvd": "459403467212",
+    "uikName": "УИК №3475",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2410,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4499,8 +5291,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3476,
     "uikTvd": "459403467213",
+    "uikName": "УИК №3476",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2188,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4550,8 +5351,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3477,
     "uikTvd": "459403467214",
+    "uikName": "УИК №3477",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4601,8 +5411,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3478,
     "uikTvd": "459403467215",
+    "uikName": "УИК №3478",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1724,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4652,8 +5471,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3479,
     "uikTvd": "459403467216",
+    "uikName": "УИК №3479",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1245,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4703,8 +5531,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3480,
     "uikTvd": "459403467217",
+    "uikName": "УИК №3480",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 945,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4754,8 +5591,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3481,
     "uikTvd": "459403467218",
+    "uikName": "УИК №3481",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 481,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -4805,8 +5651,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3482,
     "uikTvd": "459403467219",
+    "uikName": "УИК №3482",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2401,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4856,8 +5711,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3483,
     "uikTvd": "459403467220",
+    "uikName": "УИК №3483",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2403,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4907,8 +5771,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3484,
     "uikTvd": "459403467221",
+    "uikName": "УИК №3484",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2812,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4958,8 +5831,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3485,
     "uikTvd": "459403467222",
+    "uikName": "УИК №3485",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5009,8 +5891,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3486,
     "uikTvd": "459403467223",
+    "uikName": "УИК №3486",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -5060,8 +5951,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3487,
     "uikTvd": "459403467224",
+    "uikName": "УИК №3487",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5111,8 +6011,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3488,
     "uikTvd": "459403467225",
+    "uikName": "УИК №3488",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -5162,8 +6071,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3489,
     "uikTvd": "459403467226",
+    "uikName": "УИК №3489",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5213,8 +6131,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3490,
     "uikTvd": "459403467227",
+    "uikName": "УИК №3490",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -5264,8 +6191,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3491,
     "uikTvd": "459403467228",
+    "uikName": "УИК №3491",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -5315,8 +6251,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3301,
     "uikTvd": "459403366698",
+    "uikName": "УИК №3301",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1104,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -5366,8 +6311,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3302,
     "uikTvd": "459403366699",
+    "uikName": "УИК №3302",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1482,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -5417,8 +6371,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3303,
     "uikTvd": "459403366700",
+    "uikName": "УИК №3303",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2922,
       "Число бюллетеней, полученных участковыми комиссиями": 2950,
@@ -5468,8 +6431,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3304,
     "uikTvd": "459403366701",
+    "uikName": "УИК №3304",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1083,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5519,8 +6491,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3305,
     "uikTvd": "459403366711",
+    "uikName": "УИК №3305",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -5570,8 +6551,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3306,
     "uikTvd": "459403366759",
+    "uikName": "УИК №3306",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2170,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -5621,8 +6611,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3307,
     "uikTvd": "459403366760",
+    "uikName": "УИК №3307",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2545,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5672,8 +6671,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3308,
     "uikTvd": "459403366761",
+    "uikName": "УИК №3308",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1560,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5723,8 +6731,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3309,
     "uikTvd": "459403366762",
+    "uikName": "УИК №3309",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1814,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5774,8 +6791,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3310,
     "uikTvd": "459403366763",
+    "uikName": "УИК №3310",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5825,8 +6851,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3311,
     "uikTvd": "459403366764",
+    "uikName": "УИК №3311",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2032,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5876,8 +6911,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3312,
     "uikTvd": "459403366765",
+    "uikName": "УИК №3312",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1841,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5927,8 +6971,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3313,
     "uikTvd": "459403366766",
+    "uikName": "УИК №3313",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2093,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -5978,8 +7031,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3314,
     "uikTvd": "459403366767",
+    "uikName": "УИК №3314",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1768,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6029,8 +7091,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3315,
     "uikTvd": "459403366768",
+    "uikName": "УИК №3315",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2673,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -6080,8 +7151,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3316,
     "uikTvd": "459403366769",
+    "uikName": "УИК №3316",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1309,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6131,8 +7211,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3317,
     "uikTvd": "459403366770",
+    "uikName": "УИК №3317",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1941,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6182,8 +7271,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3318,
     "uikTvd": "459403366771",
+    "uikName": "УИК №3318",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -6233,8 +7331,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3319,
     "uikTvd": "459403366772",
+    "uikName": "УИК №3319",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1026,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6284,8 +7391,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3320,
     "uikTvd": "459403366773",
+    "uikName": "УИК №3320",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1689,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6335,8 +7451,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3321,
     "uikTvd": "459403366774",
+    "uikName": "УИК №3321",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2755,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6386,8 +7511,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3322,
     "uikTvd": "459403366775",
+    "uikName": "УИК №3322",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2396,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6437,8 +7571,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3323,
     "uikTvd": "459403366776",
+    "uikName": "УИК №3323",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2313,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6488,8 +7631,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3324,
     "uikTvd": "459403366777",
+    "uikName": "УИК №3324",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2131,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6539,8 +7691,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3325,
     "uikTvd": "459403366778",
+    "uikName": "УИК №3325",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2082,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6590,8 +7751,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3326,
     "uikTvd": "459403366779",
+    "uikName": "УИК №3326",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 981,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6641,8 +7811,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3327,
     "uikTvd": "459403366780",
+    "uikName": "УИК №3327",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 882,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -6692,8 +7871,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3328,
     "uikTvd": "459403366781",
+    "uikName": "УИК №3328",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2209,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6743,8 +7931,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3329,
     "uikTvd": "459403366782",
+    "uikName": "УИК №3329",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2636,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6794,8 +7991,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3330,
     "uikTvd": "459403366783",
+    "uikName": "УИК №3330",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1603,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -6845,8 +8051,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3331,
     "uikTvd": "459403366784",
+    "uikName": "УИК №3331",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2235,
@@ -6896,8 +8111,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3332,
     "uikTvd": "459403366785",
+    "uikName": "УИК №3332",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1907,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6947,8 +8171,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3333,
     "uikTvd": "459403366786",
+    "uikName": "УИК №3333",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1653,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6998,8 +8231,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3334,
     "uikTvd": "459403366787",
+    "uikName": "УИК №3334",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1731,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7049,8 +8291,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3335,
     "uikTvd": "459403366788",
+    "uikName": "УИК №3335",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1955,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -7100,8 +8351,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3336,
     "uikTvd": "459403366789",
+    "uikName": "УИК №3336",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2620,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7151,8 +8411,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3337,
     "uikTvd": "459403366790",
+    "uikName": "УИК №3337",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7202,8 +8471,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3338,
     "uikTvd": "459403366791",
+    "uikName": "УИК №3338",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2359,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -7253,8 +8531,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3339,
     "uikTvd": "459403366792",
+    "uikName": "УИК №3339",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1781,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7304,8 +8591,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3340,
     "uikTvd": "459403366793",
+    "uikName": "УИК №3340",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -7355,8 +8651,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3341,
     "uikTvd": "459403366794",
+    "uikName": "УИК №3341",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1400,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7406,8 +8711,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3342,
     "uikTvd": "459403366795",
+    "uikName": "УИК №3342",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1287,
       "Число бюллетеней, полученных участковыми комиссиями": 1475,
@@ -7457,8 +8771,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3343,
     "uikTvd": "459403366796",
+    "uikName": "УИК №3343",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1944,
       "Число бюллетеней, полученных участковыми комиссиями": 1975,
@@ -7508,8 +8831,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3344,
     "uikTvd": "459403366797",
+    "uikName": "УИК №3344",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1923,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -7559,8 +8891,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3345,
     "uikTvd": "459403366798",
+    "uikName": "УИК №3345",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 949,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7610,8 +8951,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3346,
     "uikTvd": "459403366799",
+    "uikName": "УИК №3346",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2012,
       "Число бюллетеней, полученных участковыми комиссиями": 2065,
@@ -7661,8 +9011,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3347,
     "uikTvd": "459403366800",
+    "uikName": "УИК №3347",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 824,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -7712,8 +9071,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3348,
     "uikTvd": "459403366801",
+    "uikName": "УИК №3348",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7763,8 +9131,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3349,
     "uikTvd": "459403366802",
+    "uikName": "УИК №3349",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7814,8 +9191,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3350,
     "uikTvd": "459403366803",
+    "uikName": "УИК №3350",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1723,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -7865,8 +9251,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3201,
     "uikTvd": "459403270892",
+    "uikName": "УИК №3201",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7916,8 +9311,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3202,
     "uikTvd": "459403270893",
+    "uikName": "УИК №3202",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2285,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7967,8 +9371,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3203,
     "uikTvd": "459403270894",
+    "uikName": "УИК №3203",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1032,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8018,8 +9431,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3204,
     "uikTvd": "459403270895",
+    "uikName": "УИК №3204",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1599,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8069,8 +9491,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3205,
     "uikTvd": "459403270896",
+    "uikName": "УИК №3205",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1810,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8120,8 +9551,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3206,
     "uikTvd": "459403270897",
+    "uikName": "УИК №3206",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1399,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8171,8 +9611,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3207,
     "uikTvd": "459403270898",
+    "uikName": "УИК №3207",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1172,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8222,8 +9671,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3208,
     "uikTvd": "459403270899",
+    "uikName": "УИК №3208",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1800,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8273,8 +9731,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3209,
     "uikTvd": "459403270900",
+    "uikName": "УИК №3209",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1266,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8324,8 +9791,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3210,
     "uikTvd": "459403270901",
+    "uikName": "УИК №3210",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1371,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8375,8 +9851,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3211,
     "uikTvd": "459403270902",
+    "uikName": "УИК №3211",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1507,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8426,8 +9911,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3212,
     "uikTvd": "459403270903",
+    "uikName": "УИК №3212",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1702,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8477,8 +9971,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3213,
     "uikTvd": "459403270904",
+    "uikName": "УИК №3213",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1715,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8528,8 +10031,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3214,
     "uikTvd": "459403270905",
+    "uikName": "УИК №3214",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1814,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8579,8 +10091,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3215,
     "uikTvd": "459403270906",
+    "uikName": "УИК №3215",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1459,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8630,8 +10151,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3216,
     "uikTvd": "459403270907",
+    "uikName": "УИК №3216",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1654,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -8681,8 +10211,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3217,
     "uikTvd": "459403270908",
+    "uikName": "УИК №3217",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2044,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8732,8 +10271,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3218,
     "uikTvd": "459403270909",
+    "uikName": "УИК №3218",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1681,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8783,8 +10331,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3219,
     "uikTvd": "459403270910",
+    "uikName": "УИК №3219",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2114,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8834,8 +10391,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3220,
     "uikTvd": "459403270911",
+    "uikName": "УИК №3220",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8885,8 +10451,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3221,
     "uikTvd": "459403270912",
+    "uikName": "УИК №3221",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2722,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8936,8 +10511,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3222,
     "uikTvd": "459403270913",
+    "uikName": "УИК №3222",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2232,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8987,8 +10571,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3223,
     "uikTvd": "459403270914",
+    "uikName": "УИК №3223",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1908,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9038,8 +10631,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3224,
     "uikTvd": "459403270915",
+    "uikName": "УИК №3224",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2022,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9089,8 +10691,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3225,
     "uikTvd": "459403270916",
+    "uikName": "УИК №3225",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2550,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9140,8 +10751,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3226,
     "uikTvd": "459403270917",
+    "uikName": "УИК №3226",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2102,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9191,8 +10811,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3227,
     "uikTvd": "459403270918",
+    "uikName": "УИК №3227",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2646,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9242,8 +10871,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3228,
     "uikTvd": "459403270919",
+    "uikName": "УИК №3228",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2588,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9293,8 +10931,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3229,
     "uikTvd": "459403270920",
+    "uikName": "УИК №3229",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2277,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9344,8 +10991,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3230,
     "uikTvd": "459403270921",
+    "uikName": "УИК №3230",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2573,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9395,8 +11051,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3231,
     "uikTvd": "459403270922",
+    "uikName": "УИК №3231",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9446,8 +11111,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3232,
     "uikTvd": "459403270923",
+    "uikName": "УИК №3232",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2665,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9497,8 +11171,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3233,
     "uikTvd": "459403270924",
+    "uikName": "УИК №3233",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2571,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9548,8 +11231,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3234,
     "uikTvd": "459403270925",
+    "uikName": "УИК №3234",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2410,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9599,8 +11291,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3235,
     "uikTvd": "459403270926",
+    "uikName": "УИК №3235",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2690,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9650,8 +11351,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3236,
     "uikTvd": "459403270927",
+    "uikName": "УИК №3236",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1400,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9701,8 +11411,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3237,
     "uikTvd": "459403270928",
+    "uikName": "УИК №3237",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2017,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9752,8 +11471,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3238,
     "uikTvd": "459403270929",
+    "uikName": "УИК №3238",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 332,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -9803,8 +11531,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3239,
     "uikTvd": "459403270930",
+    "uikName": "УИК №3239",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 742,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -9854,8 +11591,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3240,
     "uikTvd": "459403270931",
+    "uikName": "УИК №3240",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1151,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9905,8 +11651,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3241,
     "uikTvd": "459403270932",
+    "uikName": "УИК №3241",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1577,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9956,8 +11711,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3242,
     "uikTvd": "459403270933",
+    "uikName": "УИК №3242",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1478,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10007,8 +11771,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3243,
     "uikTvd": "459403270934",
+    "uikName": "УИК №3243",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1132,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10058,8 +11831,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3244,
     "uikTvd": "459403270935",
+    "uikName": "УИК №3244",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1127,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10109,8 +11891,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3245,
     "uikTvd": "459403270936",
+    "uikName": "УИК №3245",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2136,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10160,8 +11951,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3246,
     "uikTvd": "459403270937",
+    "uikName": "УИК №3246",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2205,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10211,8 +12011,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3247,
     "uikTvd": "459403270938",
+    "uikName": "УИК №3247",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1863,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10262,8 +12071,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3248,
     "uikTvd": "459403270939",
+    "uikName": "УИК №3248",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2342,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10313,8 +12131,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3249,
     "uikTvd": "459403270940",
+    "uikName": "УИК №3249",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2294,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10364,8 +12191,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3250,
     "uikTvd": "459403270941",
+    "uikName": "УИК №3250",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2329,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10415,8 +12251,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3251,
     "uikTvd": "459403270942",
+    "uikName": "УИК №3251",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1019,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10466,8 +12311,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3252,
     "uikTvd": "459403270943",
+    "uikName": "УИК №3252",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1245,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -10517,8 +12371,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3253,
     "uikTvd": "459403270944",
+    "uikName": "УИК №3253",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 708,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -10568,8 +12431,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3254,
     "uikTvd": "459403270945",
+    "uikName": "УИК №3254",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2483,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10619,8 +12491,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3255,
     "uikTvd": "459403270946",
+    "uikName": "УИК №3255",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2419,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10670,8 +12551,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3256,
     "uikTvd": "459403270947",
+    "uikName": "УИК №3256",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10721,8 +12611,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3257,
     "uikTvd": "459403270948",
+    "uikName": "УИК №3257",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1579,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10772,8 +12671,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3258,
     "uikTvd": "459403270949",
+    "uikName": "УИК №3258",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1592,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10823,8 +12731,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3259,
     "uikTvd": "459403270950",
+    "uikName": "УИК №3259",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 902,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10874,8 +12791,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3260,
     "uikTvd": "459403270951",
+    "uikName": "УИК №3260",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10925,8 +12851,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3261,
     "uikTvd": "459403270952",
+    "uikName": "УИК №3261",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1622,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10976,8 +12911,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3262,
     "uikTvd": "459403270953",
+    "uikName": "УИК №3262",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 798,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -11027,8 +12971,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3263,
     "uikTvd": "459403270954",
+    "uikName": "УИК №3263",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -11078,8 +13031,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3264,
     "uikTvd": "459403270955",
+    "uikName": "УИК №3264",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11129,8 +13091,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3265,
     "uikTvd": "459403270956",
+    "uikName": "УИК №3265",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2721,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11180,8 +13151,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3266,
     "uikTvd": "459403270957",
+    "uikName": "УИК №3266",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2610,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11231,8 +13211,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3267,
     "uikTvd": "459403270958",
+    "uikName": "УИК №3267",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2142,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11282,8 +13271,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3268,
     "uikTvd": "459403270959",
+    "uikName": "УИК №3268",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2267,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11333,8 +13331,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3269,
     "uikTvd": "459403270960",
+    "uikName": "УИК №3269",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1697,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11384,8 +13391,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3270,
     "uikTvd": "459403270961",
+    "uikName": "УИК №3270",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2274,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11435,8 +13451,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3271,
     "uikTvd": "459403270962",
+    "uikName": "УИК №3271",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2024,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11486,8 +13511,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3272,
     "uikTvd": "459403270963",
+    "uikName": "УИК №3272",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 544,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -11537,8 +13571,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3273,
     "uikTvd": "459403270964",
+    "uikName": "УИК №3273",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -11588,8 +13631,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3274,
     "uikTvd": "459403270965",
+    "uikName": "УИК №3274",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -11639,8 +13691,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1701,
     "uikTvd": "459401766784",
+    "uikName": "УИК №1701",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -11690,8 +13751,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1702,
     "uikTvd": "459401766785",
+    "uikName": "УИК №1702",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11741,8 +13811,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1703,
     "uikTvd": "459401766786",
+    "uikName": "УИК №1703",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1889,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -11792,8 +13871,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1704,
     "uikTvd": "459401766787",
+    "uikName": "УИК №1704",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1926,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11843,8 +13931,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1705,
     "uikTvd": "459401766788",
+    "uikName": "УИК №1705",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1428,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -11894,8 +13991,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1706,
     "uikTvd": "459401766789",
+    "uikName": "УИК №1706",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1844,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -11945,8 +14051,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1707,
     "uikTvd": "459401766790",
+    "uikName": "УИК №1707",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1541,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -11996,8 +14111,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1708,
     "uikTvd": "459401766791",
+    "uikName": "УИК №1708",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1884,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -12047,8 +14171,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1709,
     "uikTvd": "459401766792",
+    "uikName": "УИК №1709",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -12098,8 +14231,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1710,
     "uikTvd": "459401766793",
+    "uikName": "УИК №1710",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1650,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -12149,8 +14291,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1711,
     "uikTvd": "459401766794",
+    "uikName": "УИК №1711",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1975,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -12200,8 +14351,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1712,
     "uikTvd": "459401766795",
+    "uikName": "УИК №1712",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -12251,8 +14411,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1713,
     "uikTvd": "459401766796",
+    "uikName": "УИК №1713",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1727,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -12302,8 +14471,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1714,
     "uikTvd": "459401766797",
+    "uikName": "УИК №1714",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1997,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -12353,8 +14531,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1715,
     "uikTvd": "459401766798",
+    "uikName": "УИК №1715",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1956,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -12404,8 +14591,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1716,
     "uikTvd": "459401766799",
+    "uikName": "УИК №1716",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1353,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -12455,8 +14651,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1717,
     "uikTvd": "459401766800",
+    "uikName": "УИК №1717",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1095,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -12506,8 +14711,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1718,
     "uikTvd": "459401766801",
+    "uikName": "УИК №1718",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1309,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -12557,8 +14771,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1719,
     "uikTvd": "459401766802",
+    "uikName": "УИК №1719",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1779,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -12608,8 +14831,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1720,
     "uikTvd": "459401766803",
+    "uikName": "УИК №1720",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1918,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -12659,8 +14891,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1721,
     "uikTvd": "459401766804",
+    "uikName": "УИК №1721",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1665,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -12710,8 +14951,17 @@ export const duma_2003_uik_428_region_59_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1722,
     "uikTvd": "459401766805",
+    "uikName": "УИК №1722",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
+    "district": {
+      "districtNumber": 140,
+      "oikTvd": "100100095751",
+      "oikName": "Свердловский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1707,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,

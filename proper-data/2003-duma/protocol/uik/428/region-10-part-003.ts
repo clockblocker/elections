@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1060,
     "uikTvd": "410401970607",
+    "uikName": "УИК №1060",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1976,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1061,
     "uikTvd": "410401970608",
+    "uikName": "УИК №1061",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1031,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1062,
     "uikTvd": "410401970609",
+    "uikName": "УИК №1062",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1818,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1063,
     "uikTvd": "410401970610",
+    "uikName": "УИК №1063",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1543,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1064,
     "uikTvd": "410401970611",
+    "uikName": "УИК №1064",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1977,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1065,
     "uikTvd": "410401970612",
+    "uikName": "УИК №1065",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1917,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1066,
     "uikTvd": "410401970613",
+    "uikName": "УИК №1066",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1674,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1067,
     "uikTvd": "410401970614",
+    "uikName": "УИК №1067",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1624,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1068,
     "uikTvd": "410401970615",
+    "uikName": "УИК №1068",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1747,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1069,
     "uikTvd": "410401970616",
+    "uikName": "УИК №1069",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1070,
     "uikTvd": "410401970617",
+    "uikName": "УИК №1070",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1772,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1071,
     "uikTvd": "410401970618",
+    "uikName": "УИК №1071",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2039,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1072,
     "uikTvd": "410401970619",
+    "uikName": "УИК №1072",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1889,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1089,
     "uikTvd": "410401970620",
+    "uikName": "УИК №1089",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1756,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1090,
     "uikTvd": "410401970621",
+    "uikName": "УИК №1090",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1818,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1091,
     "uikTvd": "410401970622",
+    "uikName": "УИК №1091",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1824,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1092,
     "uikTvd": "410401970623",
+    "uikName": "УИК №1092",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1782,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1093,
     "uikTvd": "410401970624",
+    "uikName": "УИК №1093",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1665,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1094,
     "uikTvd": "410401970625",
+    "uikName": "УИК №1094",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1095,
     "uikTvd": "410401970626",
+    "uikName": "УИК №1095",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1801,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1096,
     "uikTvd": "410401970627",
+    "uikName": "УИК №1096",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1618,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1097,
     "uikTvd": "410401970628",
+    "uikName": "УИК №1097",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1574,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1098,
     "uikTvd": "410401970629",
+    "uikName": "УИК №1098",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1702,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1099,
     "uikTvd": "410401970630",
+    "uikName": "УИК №1099",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1804,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1100,
     "uikTvd": "410401970631",
+    "uikName": "УИК №1100",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1746,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1101,
     "uikTvd": "410401970632",
+    "uikName": "УИК №1101",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1640,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1102,
     "uikTvd": "410401970633",
+    "uikName": "УИК №1102",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1741,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1103,
     "uikTvd": "410401970634",
+    "uikName": "УИК №1103",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1534,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1104,
     "uikTvd": "410401970635",
+    "uikName": "УИК №1104",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1730,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1105,
     "uikTvd": "410401970636",
+    "uikName": "УИК №1105",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1655,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1106,
     "uikTvd": "410401970637",
+    "uikName": "УИК №1106",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1627,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1107,
     "uikTvd": "410401970638",
+    "uikName": "УИК №1107",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1253,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1108,
     "uikTvd": "410401970639",
+    "uikName": "УИК №1108",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1109,
     "uikTvd": "410401970640",
+    "uikName": "УИК №1109",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1691,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1110,
     "uikTvd": "410401970641",
+    "uikName": "УИК №1110",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1578,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1111,
     "uikTvd": "410401970642",
+    "uikName": "УИК №1111",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1570,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1112,
     "uikTvd": "410401970643",
+    "uikName": "УИК №1112",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1581,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1113,
     "uikTvd": "410401970644",
+    "uikName": "УИК №1113",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1779,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1114,
     "uikTvd": "410401970645",
+    "uikName": "УИК №1114",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1517,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1115,
     "uikTvd": "410401970646",
+    "uikName": "УИК №1115",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1619,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1116,
     "uikTvd": "410401970647",
+    "uikName": "УИК №1116",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1396,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1117,
     "uikTvd": "410401970648",
+    "uikName": "УИК №1117",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1511,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1118,
     "uikTvd": "410401970649",
+    "uikName": "УИК №1118",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1715,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1119,
     "uikTvd": "410401970650",
+    "uikName": "УИК №1119",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1590,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1120,
     "uikTvd": "410401970651",
+    "uikName": "УИК №1120",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1657,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1121,
     "uikTvd": "410401970652",
+    "uikName": "УИК №1121",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2670,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1122,
     "uikTvd": "410401970653",
+    "uikName": "УИК №1122",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 983,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1123,
     "uikTvd": "410401970654",
+    "uikName": "УИК №1123",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 58,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1124,
     "uikTvd": "410401970655",
+    "uikName": "УИК №1124",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1125,
     "uikTvd": "410401970656",
+    "uikName": "УИК №1125",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1126,
     "uikTvd": "410401970657",
+    "uikName": "УИК №1126",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1127,
     "uikTvd": "410401970658",
+    "uikName": "УИК №1127",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1128,
     "uikTvd": "410401970659",
+    "uikName": "УИК №1128",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1129,
     "uikTvd": "410401970660",
+    "uikName": "УИК №1129",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 52,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_10_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1130,
     "uikTvd": "410401970661",
+    "uikName": "УИК №1130",
     "tikTvd": "210200074556",
     "tikName": "Петрозаводская городская №2",
+    "regionCode": "10",
+    "regionTvd": "100100095741",
+    "regionName": "Республика Карелия",
+    "district": {
+      "districtNumber": 17,
+      "oikTvd": "100100095742",
+      "oikName": "Карельский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 310,

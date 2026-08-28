@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1171,
     "uikTvd": "455402066761",
+    "uikName": "УИК №1171",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2676,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1172,
     "uikTvd": "455402066762",
+    "uikName": "УИК №1172",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1816,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1173,
     "uikTvd": "455402066763",
+    "uikName": "УИК №1173",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1896,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1174,
     "uikTvd": "455402066764",
+    "uikName": "УИК №1174",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1996,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1175,
     "uikTvd": "455402066765",
+    "uikName": "УИК №1175",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1176,
     "uikTvd": "455402066766",
+    "uikName": "УИК №1176",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2531,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1177,
     "uikTvd": "455402066767",
+    "uikName": "УИК №1177",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1682,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1178,
     "uikTvd": "455402066768",
+    "uikName": "УИК №1178",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1501,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1179,
     "uikTvd": "455402066769",
+    "uikName": "УИК №1179",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2834,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1180,
     "uikTvd": "455402066770",
+    "uikName": "УИК №1180",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1805,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1181,
     "uikTvd": "455402066771",
+    "uikName": "УИК №1181",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1963,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1182,
     "uikTvd": "455402066772",
+    "uikName": "УИК №1182",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1183,
     "uikTvd": "455402066773",
+    "uikName": "УИК №1183",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2090,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1184,
     "uikTvd": "455402066774",
+    "uikName": "УИК №1184",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1397,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1185,
     "uikTvd": "455402066775",
+    "uikName": "УИК №1185",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1929,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1186,
     "uikTvd": "455402066776",
+    "uikName": "УИК №1186",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1856,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1187,
     "uikTvd": "455402066777",
+    "uikName": "УИК №1187",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1771,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1188,
     "uikTvd": "455402066778",
+    "uikName": "УИК №1188",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1189,
     "uikTvd": "455402066779",
+    "uikName": "УИК №1189",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1956,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1190,
     "uikTvd": "455402066780",
+    "uikName": "УИК №1190",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1489,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1191,
     "uikTvd": "455402066781",
+    "uikName": "УИК №1191",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1891,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1192,
     "uikTvd": "455402066782",
+    "uikName": "УИК №1192",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1599,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1193,
     "uikTvd": "455402066783",
+    "uikName": "УИК №1193",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1918,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1194,
     "uikTvd": "455402066784",
+    "uikName": "УИК №1194",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1758,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1195,
     "uikTvd": "455402066785",
+    "uikName": "УИК №1195",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2345,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1196,
     "uikTvd": "455402066786",
+    "uikName": "УИК №1196",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1689,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1197,
     "uikTvd": "455402066787",
+    "uikName": "УИК №1197",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1198,
     "uikTvd": "455402066788",
+    "uikName": "УИК №1198",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2081,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1199,
     "uikTvd": "455402066789",
+    "uikName": "УИК №1199",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2236,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1200,
     "uikTvd": "455402066790",
+    "uikName": "УИК №1200",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2175,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1201,
     "uikTvd": "455402066791",
+    "uikName": "УИК №1201",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2684,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1202,
     "uikTvd": "455402066792",
+    "uikName": "УИК №1202",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2782,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1203,
     "uikTvd": "455402066793",
+    "uikName": "УИК №1203",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2738,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1204,
     "uikTvd": "455402066794",
+    "uikName": "УИК №1204",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2238,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1205,
     "uikTvd": "455402066795",
+    "uikName": "УИК №1205",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2426,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1206,
     "uikTvd": "455402066796",
+    "uikName": "УИК №1206",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2769,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1207,
     "uikTvd": "455402066797",
+    "uikName": "УИК №1207",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1208,
     "uikTvd": "455402066798",
+    "uikName": "УИК №1208",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2320,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1209,
     "uikTvd": "455402066799",
+    "uikName": "УИК №1209",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2290,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1210,
     "uikTvd": "455402066800",
+    "uikName": "УИК №1210",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2226,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1211,
     "uikTvd": "455402066801",
+    "uikName": "УИК №1211",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2207,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1212,
     "uikTvd": "455402066802",
+    "uikName": "УИК №1212",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2215,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1213,
     "uikTvd": "455402066803",
+    "uikName": "УИК №1213",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1876,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1214,
     "uikTvd": "455402066804",
+    "uikName": "УИК №1214",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1732,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1215,
     "uikTvd": "455402066805",
+    "uikName": "УИК №1215",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2220,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1216,
     "uikTvd": "455402066806",
+    "uikName": "УИК №1216",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2334,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1217,
     "uikTvd": "455402066807",
+    "uikName": "УИК №1217",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1218,
     "uikTvd": "455402066808",
+    "uikName": "УИК №1218",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1219,
     "uikTvd": "455402066809",
+    "uikName": "УИК №1219",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1919,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1220,
     "uikTvd": "455402066810",
+    "uikName": "УИК №1220",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1750,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1221,
     "uikTvd": "455402066811",
+    "uikName": "УИК №1221",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1987,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1222,
     "uikTvd": "455402066812",
+    "uikName": "УИК №1222",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2115,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1223,
     "uikTvd": "455402066813",
+    "uikName": "УИК №1223",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1564,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1224,
     "uikTvd": "455402066814",
+    "uikName": "УИК №1224",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2462,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1225,
     "uikTvd": "455402066815",
+    "uikName": "УИК №1225",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2697,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1226,
     "uikTvd": "455402066816",
+    "uikName": "УИК №1226",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2556,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1227,
     "uikTvd": "455402066817",
+    "uikName": "УИК №1227",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2673,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1228,
     "uikTvd": "455402066818",
+    "uikName": "УИК №1228",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2837,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2737,8 +3259,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1229,
     "uikTvd": "455402066819",
+    "uikName": "УИК №1229",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2564,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2784,8 +3315,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1230,
     "uikTvd": "455402066820",
+    "uikName": "УИК №1230",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2877,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2831,8 +3371,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1231,
     "uikTvd": "455402066821",
+    "uikName": "УИК №1231",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2878,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2878,8 +3427,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1232,
     "uikTvd": "455402066822",
+    "uikName": "УИК №1232",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2082,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2925,8 +3483,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1233,
     "uikTvd": "455402066823",
+    "uikName": "УИК №1233",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1655,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2972,8 +3539,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1234,
     "uikTvd": "455402066824",
+    "uikName": "УИК №1234",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1222,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1235,
     "uikTvd": "455402066825",
+    "uikName": "УИК №1235",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1960,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3066,8 +3651,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1236,
     "uikTvd": "455402066826",
+    "uikName": "УИК №1236",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2386,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3113,8 +3707,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1237,
     "uikTvd": "455402066827",
+    "uikName": "УИК №1237",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2348,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3160,8 +3763,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1238,
     "uikTvd": "455402066828",
+    "uikName": "УИК №1238",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2424,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3207,8 +3819,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1239,
     "uikTvd": "455402066829",
+    "uikName": "УИК №1239",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2600,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3254,8 +3875,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1240,
     "uikTvd": "455402066830",
+    "uikName": "УИК №1240",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3301,8 +3931,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1241,
     "uikTvd": "455402066831",
+    "uikName": "УИК №1241",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2136,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3348,8 +3987,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1242,
     "uikTvd": "455402066832",
+    "uikName": "УИК №1242",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2319,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3395,8 +4043,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1243,
     "uikTvd": "455402066833",
+    "uikName": "УИК №1243",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2099,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3442,8 +4099,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1244,
     "uikTvd": "455402066834",
+    "uikName": "УИК №1244",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2644,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3489,8 +4155,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1245,
     "uikTvd": "455402066835",
+    "uikName": "УИК №1245",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3536,8 +4211,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1246,
     "uikTvd": "455402066836",
+    "uikName": "УИК №1246",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2520,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3583,8 +4267,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1247,
     "uikTvd": "455402066837",
+    "uikName": "УИК №1247",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2020,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3630,8 +4323,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1248,
     "uikTvd": "455402066838",
+    "uikName": "УИК №1248",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2396,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3677,8 +4379,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1249,
     "uikTvd": "455402066839",
+    "uikName": "УИК №1249",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2351,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3724,8 +4435,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1250,
     "uikTvd": "455402066840",
+    "uikName": "УИК №1250",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2459,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3771,8 +4491,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1251,
     "uikTvd": "455402066841",
+    "uikName": "УИК №1251",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2690,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3818,8 +4547,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1252,
     "uikTvd": "455402066842",
+    "uikName": "УИК №1252",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3865,8 +4603,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1253,
     "uikTvd": "455402066843",
+    "uikName": "УИК №1253",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2645,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3912,8 +4659,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1254,
     "uikTvd": "455402066844",
+    "uikName": "УИК №1254",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3959,8 +4715,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1255,
     "uikTvd": "455402066845",
+    "uikName": "УИК №1255",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -4006,8 +4771,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1256,
     "uikTvd": "455402066846",
+    "uikName": "УИК №1256",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -4053,8 +4827,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1542,
     "uikTvd": "455403866783",
+    "uikName": "УИК №1542",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4100,8 +4883,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1543,
     "uikTvd": "455403866784",
+    "uikName": "УИК №1543",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2517,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4147,8 +4939,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1544,
     "uikTvd": "455403866785",
+    "uikName": "УИК №1544",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2793,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4194,8 +4995,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1545,
     "uikTvd": "455403866786",
+    "uikName": "УИК №1545",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2606,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4241,8 +5051,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1546,
     "uikTvd": "455403866787",
+    "uikName": "УИК №1546",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -4288,8 +5107,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1547,
     "uikTvd": "455403866788",
+    "uikName": "УИК №1547",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1527,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4335,8 +5163,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1548,
     "uikTvd": "455403866789",
+    "uikName": "УИК №1548",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4382,8 +5219,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1549,
     "uikTvd": "455403866790",
+    "uikName": "УИК №1549",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -4429,8 +5275,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1550,
     "uikTvd": "455403866791",
+    "uikName": "УИК №1550",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1102,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -4476,8 +5331,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1551,
     "uikTvd": "455403866792",
+    "uikName": "УИК №1551",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -4523,8 +5387,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1552,
     "uikTvd": "455403866793",
+    "uikName": "УИК №1552",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -4570,8 +5443,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1553,
     "uikTvd": "455403866794",
+    "uikName": "УИК №1553",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -4617,8 +5499,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1554,
     "uikTvd": "455403866795",
+    "uikName": "УИК №1554",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1212,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -4664,8 +5555,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1555,
     "uikTvd": "455403866796",
+    "uikName": "УИК №1555",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4711,8 +5611,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1556,
     "uikTvd": "455403866797",
+    "uikName": "УИК №1556",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -4758,8 +5667,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1557,
     "uikTvd": "455403866798",
+    "uikName": "УИК №1557",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -4805,8 +5723,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1558,
     "uikTvd": "455403866799",
+    "uikName": "УИК №1558",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4852,8 +5779,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1559,
     "uikTvd": "455403866800",
+    "uikName": "УИК №1559",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -4899,8 +5835,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1560,
     "uikTvd": "455403866801",
+    "uikName": "УИК №1560",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -4946,8 +5891,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1561,
     "uikTvd": "455403866802",
+    "uikName": "УИК №1561",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 97,
@@ -4993,8 +5947,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1562,
     "uikTvd": "455403866803",
+    "uikName": "УИК №1562",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 64,
       "Число бюллетеней, полученных участковыми комиссиями": 66,
@@ -5040,8 +6003,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1563,
     "uikTvd": "455403866804",
+    "uikName": "УИК №1563",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 842,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -5087,8 +6059,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1564,
     "uikTvd": "455403866805",
+    "uikName": "УИК №1564",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 141,
@@ -5134,8 +6115,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1565,
     "uikTvd": "455403866806",
+    "uikName": "УИК №1565",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -5181,8 +6171,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1566,
     "uikTvd": "455403866807",
+    "uikName": "УИК №1566",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1175,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -5228,8 +6227,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1567,
     "uikTvd": "455403866808",
+    "uikName": "УИК №1567",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 397,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5275,8 +6283,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1568,
     "uikTvd": "455403866809",
+    "uikName": "УИК №1568",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -5322,8 +6339,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1569,
     "uikTvd": "455403866810",
+    "uikName": "УИК №1569",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5369,8 +6395,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1570,
     "uikTvd": "455403866811",
+    "uikName": "УИК №1570",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -5416,8 +6451,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1571,
     "uikTvd": "455403866812",
+    "uikName": "УИК №1571",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -5463,8 +6507,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1572,
     "uikTvd": "455403866813",
+    "uikName": "УИК №1572",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1153,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -5510,8 +6563,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1573,
     "uikTvd": "455403866814",
+    "uikName": "УИК №1573",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 162,
@@ -5557,8 +6619,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1574,
     "uikTvd": "455403866815",
+    "uikName": "УИК №1574",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -5604,8 +6675,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1575,
     "uikTvd": "455403866816",
+    "uikName": "УИК №1575",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -5651,8 +6731,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1576,
     "uikTvd": "455403866817",
+    "uikName": "УИК №1576",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -5698,8 +6787,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1577,
     "uikTvd": "455403866818",
+    "uikName": "УИК №1577",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 156,
@@ -5745,8 +6843,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1578,
     "uikTvd": "455403866819",
+    "uikName": "УИК №1578",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 904,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -5792,8 +6899,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1579,
     "uikTvd": "455403866820",
+    "uikName": "УИК №1579",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -5839,8 +6955,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1580,
     "uikTvd": "455403866821",
+    "uikName": "УИК №1580",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -5886,8 +7011,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1581,
     "uikTvd": "455403866822",
+    "uikName": "УИК №1581",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 62,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -5933,8 +7067,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1582,
     "uikTvd": "455403866823",
+    "uikName": "УИК №1582",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -5980,8 +7123,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1583,
     "uikTvd": "455403866824",
+    "uikName": "УИК №1583",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2186,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6027,8 +7179,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1584,
     "uikTvd": "455403866825",
+    "uikName": "УИК №1584",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -6074,8 +7235,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1585,
     "uikTvd": "455403866826",
+    "uikName": "УИК №1585",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 58,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -6121,8 +7291,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1586,
     "uikTvd": "455403866827",
+    "uikName": "УИК №1586",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -6168,8 +7347,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1587,
     "uikTvd": "455403866828",
+    "uikName": "УИК №1587",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -6215,8 +7403,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1588,
     "uikTvd": "455403866829",
+    "uikName": "УИК №1588",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -6262,8 +7459,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1499,
     "uikTvd": "455403366629",
+    "uikName": "УИК №1499",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2218,
       "Число бюллетеней, полученных участковыми комиссиями": 2161,
@@ -6309,8 +7515,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1500,
     "uikTvd": "455403366630",
+    "uikName": "УИК №1500",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2566,
       "Число бюллетеней, полученных участковыми комиссиями": 2515,
@@ -6356,8 +7571,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1501,
     "uikTvd": "455403366631",
+    "uikName": "УИК №1501",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1829,
       "Число бюллетеней, полученных участковыми комиссиями": 1866,
@@ -6403,8 +7627,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1502,
     "uikTvd": "455403366632",
+    "uikName": "УИК №1502",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2567,
       "Число бюллетеней, полученных участковыми комиссиями": 2169,
@@ -6450,8 +7683,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1503,
     "uikTvd": "455403366633",
+    "uikName": "УИК №1503",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1035,
       "Число бюллетеней, полученных участковыми комиссиями": 992,
@@ -6497,8 +7739,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1504,
     "uikTvd": "455403366634",
+    "uikName": "УИК №1504",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 524,
@@ -6544,8 +7795,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1505,
     "uikTvd": "455403366635",
+    "uikName": "УИК №1505",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1098,
       "Число бюллетеней, полученных участковыми комиссиями": 1108,
@@ -6591,8 +7851,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1506,
     "uikTvd": "455403366636",
+    "uikName": "УИК №1506",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 161,
@@ -6638,8 +7907,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1507,
     "uikTvd": "455403366637",
+    "uikName": "УИК №1507",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 649,
       "Число бюллетеней, полученных участковыми комиссиями": 643,
@@ -6685,8 +7963,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1508,
     "uikTvd": "455403366638",
+    "uikName": "УИК №1508",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -6732,8 +8019,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1509,
     "uikTvd": "455403366639",
+    "uikName": "УИК №1509",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 357,
@@ -6779,8 +8075,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1510,
     "uikTvd": "455403366640",
+    "uikName": "УИК №1510",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -6826,8 +8131,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1511,
     "uikTvd": "455403366641",
+    "uikName": "УИК №1511",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1016,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -6873,8 +8187,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1512,
     "uikTvd": "455403366642",
+    "uikName": "УИК №1512",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -6920,8 +8243,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1513,
     "uikTvd": "455403366643",
+    "uikName": "УИК №1513",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1111,
       "Число бюллетеней, полученных участковыми комиссиями": 1108,
@@ -6967,8 +8299,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1514,
     "uikTvd": "455403366644",
+    "uikName": "УИК №1514",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -7014,8 +8355,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1515,
     "uikTvd": "455403366645",
+    "uikName": "УИК №1515",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -7061,8 +8411,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1516,
     "uikTvd": "455403366646",
+    "uikName": "УИК №1516",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 784,
@@ -7108,8 +8467,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1517,
     "uikTvd": "455403366647",
+    "uikName": "УИК №1517",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -7155,8 +8523,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1518,
     "uikTvd": "455403366648",
+    "uikName": "УИК №1518",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -7202,8 +8579,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1519,
     "uikTvd": "455403366649",
+    "uikName": "УИК №1519",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -7249,8 +8635,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1520,
     "uikTvd": "455403366650",
+    "uikName": "УИК №1520",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 80,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -7296,8 +8691,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1521,
     "uikTvd": "455403366651",
+    "uikName": "УИК №1521",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1260,
       "Число бюллетеней, полученных участковыми комиссиями": 1241,
@@ -7343,8 +8747,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1522,
     "uikTvd": "455403366652",
+    "uikName": "УИК №1522",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 291,
@@ -7390,8 +8803,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1523,
     "uikTvd": "455403366653",
+    "uikName": "УИК №1523",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 313,
@@ -7437,8 +8859,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1524,
     "uikTvd": "455403366654",
+    "uikName": "УИК №1524",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -7484,8 +8915,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1525,
     "uikTvd": "455403366655",
+    "uikName": "УИК №1525",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -7531,8 +8971,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1526,
     "uikTvd": "455403366656",
+    "uikName": "УИК №1526",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -7578,8 +9027,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1527,
     "uikTvd": "455403366657",
+    "uikName": "УИК №1527",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -7625,8 +9083,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1528,
     "uikTvd": "455403366658",
+    "uikName": "УИК №1528",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -7672,8 +9139,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1529,
     "uikTvd": "455403366659",
+    "uikName": "УИК №1529",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1232,
       "Число бюллетеней, полученных участковыми комиссиями": 1245,
@@ -7719,8 +9195,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1530,
     "uikTvd": "455403366660",
+    "uikName": "УИК №1530",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -7766,8 +9251,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1531,
     "uikTvd": "455403366661",
+    "uikName": "УИК №1531",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1498,
       "Число бюллетеней, полученных участковыми комиссиями": 1527,
@@ -7813,8 +9307,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1532,
     "uikTvd": "455403366662",
+    "uikName": "УИК №1532",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -7860,8 +9363,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1533,
     "uikTvd": "455403366663",
+    "uikName": "УИК №1533",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -7907,8 +9419,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1534,
     "uikTvd": "455403366664",
+    "uikName": "УИК №1534",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -7954,8 +9475,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1535,
     "uikTvd": "455403366665",
+    "uikName": "УИК №1535",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2437,
       "Число бюллетеней, полученных участковыми комиссиями": 2405,
@@ -8001,8 +9531,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1536,
     "uikTvd": "455403366666",
+    "uikName": "УИК №1536",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -8048,8 +9587,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1537,
     "uikTvd": "455403366667",
+    "uikName": "УИК №1537",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -8095,8 +9643,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1538,
     "uikTvd": "455403366668",
+    "uikName": "УИК №1538",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -8142,8 +9699,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1539,
     "uikTvd": "455403366669",
+    "uikName": "УИК №1539",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1103,
       "Число бюллетеней, полученных участковыми комиссиями": 1104,
@@ -8189,8 +9755,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1540,
     "uikTvd": "455403366670",
+    "uikName": "УИК №1540",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -8236,8 +9811,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1541,
     "uikTvd": "455403366671",
+    "uikName": "УИК №1541",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -8283,8 +9867,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1420,
     "uikTvd": "355300166821",
+    "uikName": "УИК  1420",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1034,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8330,8 +9923,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1421,
     "uikTvd": "455402766686",
+    "uikName": "УИК  1421",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -8377,8 +9979,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1422,
     "uikTvd": "455402766687",
+    "uikName": "УИК  1422",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8424,8 +10035,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1423,
     "uikTvd": "455402766688",
+    "uikName": "УИК  1423",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -8471,8 +10091,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1424,
     "uikTvd": "455402766689",
+    "uikName": "УИК  1424",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1131,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8518,8 +10147,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1425,
     "uikTvd": "455402766690",
+    "uikName": "УИК  1425",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 729,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -8565,8 +10203,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1426,
     "uikTvd": "455402766691",
+    "uikName": "УИК  1426",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1143,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8612,8 +10259,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1427,
     "uikTvd": "455402766692",
+    "uikName": "УИК  1427",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -8659,8 +10315,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1428,
     "uikTvd": "455402766693",
+    "uikName": "УИК  1428",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1446,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8706,8 +10371,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1429,
     "uikTvd": "455402766694",
+    "uikName": "УИК  1429",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1390,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8753,8 +10427,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1430,
     "uikTvd": "455402766695",
+    "uikName": "УИК  1430",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1466,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8800,8 +10483,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1431,
     "uikTvd": "455402766696",
+    "uikName": "УИК  1431",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1892,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8847,8 +10539,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1432,
     "uikTvd": "455402766697",
+    "uikName": "УИК  1432",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 852,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8894,8 +10595,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1433,
     "uikTvd": "455402766698",
+    "uikName": "УИК  1433",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -8941,8 +10651,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1434,
     "uikTvd": "455402766699",
+    "uikName": "УИК  1434",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 667,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -8988,8 +10707,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1435,
     "uikTvd": "455402766700",
+    "uikName": "УИК  1435",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1202,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9035,8 +10763,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1436,
     "uikTvd": "455402766701",
+    "uikName": "УИК  1436",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -9082,8 +10819,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1437,
     "uikTvd": "455402766702",
+    "uikName": "УИК  1437",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2504,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9129,8 +10875,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1438,
     "uikTvd": "455402766703",
+    "uikName": "УИК  1438",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1665,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9176,8 +10931,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1439,
     "uikTvd": "455402766704",
+    "uikName": "УИК  1439",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -9223,8 +10987,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1440,
     "uikTvd": "455402766705",
+    "uikName": "УИК  1440",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1050,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -9270,8 +11043,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1441,
     "uikTvd": "455402766706",
+    "uikName": "УИК  1441",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -9317,8 +11099,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1442,
     "uikTvd": "455402766707",
+    "uikName": "УИК  1442",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1430,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -9364,8 +11155,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1443,
     "uikTvd": "455402766708",
+    "uikName": "УИК  1443",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1115,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9411,8 +11211,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1444,
     "uikTvd": "455402766709",
+    "uikName": "УИК  1444",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -9458,8 +11267,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1445,
     "uikTvd": "455402766710",
+    "uikName": "УИК  1445",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1838,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9505,8 +11323,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1446,
     "uikTvd": "455402766711",
+    "uikName": "УИК  1446",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -9552,8 +11379,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1447,
     "uikTvd": "455402766712",
+    "uikName": "УИК  1447",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -9599,8 +11435,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1448,
     "uikTvd": "455402766713",
+    "uikName": "УИК  1448",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 176,
@@ -9646,8 +11491,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1449,
     "uikTvd": "455402766714",
+    "uikName": "УИК  1449",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2101,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9693,8 +11547,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1450,
     "uikTvd": "455402766715",
+    "uikName": "УИК  1450",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 954,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -9740,8 +11603,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1451,
     "uikTvd": "455402766716",
+    "uikName": "УИК  1451",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -9787,8 +11659,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1452,
     "uikTvd": "455402766717",
+    "uikName": "УИК  1452",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2397,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9834,8 +11715,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1453,
     "uikTvd": "455402766718",
+    "uikName": "УИК  1453",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 748,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -9881,8 +11771,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1454,
     "uikTvd": "455402766719",
+    "uikName": "УИК  1454",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -9928,8 +11827,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1455,
     "uikTvd": "455402766720",
+    "uikName": "УИК  1455",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -9975,8 +11883,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1456,
     "uikTvd": "455402766721",
+    "uikName": "УИК  1456",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10022,8 +11939,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1457,
     "uikTvd": "455402766722",
+    "uikName": "УИК  1457",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1902,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -10069,8 +11995,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1458,
     "uikTvd": "455402766723",
+    "uikName": "УИК  1458",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1823,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10116,8 +12051,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1459,
     "uikTvd": "455402766724",
+    "uikName": "УИК  1459",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2078,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10163,8 +12107,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1460,
     "uikTvd": "455402766726",
+    "uikName": "УИК  1460",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1808,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10210,8 +12163,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1461,
     "uikTvd": "455402766727",
+    "uikName": "УИК  1461",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 998,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -10257,8 +12219,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1462,
     "uikTvd": "455402766728",
+    "uikName": "УИК  1462",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 767,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -10304,8 +12275,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1463,
     "uikTvd": "455402766729",
+    "uikName": "УИК  1463",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -10351,8 +12331,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1464,
     "uikTvd": "455402766730",
+    "uikName": "УИК  1464",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1346,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10398,8 +12387,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1465,
     "uikTvd": "455402766731",
+    "uikName": "УИК  1465",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -10445,8 +12443,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1466,
     "uikTvd": "455402766732",
+    "uikName": "УИК  1466",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1952,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10492,8 +12499,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1467,
     "uikTvd": "455402766733",
+    "uikName": "УИК  1467",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1945,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10539,8 +12555,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1468,
     "uikTvd": "455402766734",
+    "uikName": "УИК  1468",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 677,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -10586,8 +12611,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1469,
     "uikTvd": "455402766735",
+    "uikName": "УИК  1469",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 599,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10633,8 +12667,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1470,
     "uikTvd": "455402766736",
+    "uikName": "УИК  1470",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1403,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -10680,8 +12723,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1471,
     "uikTvd": "455402766737",
+    "uikName": "УИК  1471",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -10727,8 +12779,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1472,
     "uikTvd": "455402766738",
+    "uikName": "УИК  1472",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -10774,8 +12835,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1473,
     "uikTvd": "455402766739",
+    "uikName": "УИК  1473",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1503,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10821,8 +12891,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1474,
     "uikTvd": "455402766740",
+    "uikName": "УИК  1474",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1471,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10868,8 +12947,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1475,
     "uikTvd": "455402766741",
+    "uikName": "УИК  1475",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 996,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -10915,8 +13003,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1476,
     "uikTvd": "455402766742",
+    "uikName": "УИК  1476",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10962,8 +13059,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1477,
     "uikTvd": "455402766743",
+    "uikName": "УИК  1477",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -11009,8 +13115,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1478,
     "uikTvd": "455402766744",
+    "uikName": "УИК  1478",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1453,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -11056,8 +13171,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1479,
     "uikTvd": "455402766745",
+    "uikName": "УИК  1479",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1632,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -11103,8 +13227,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1480,
     "uikTvd": "455402766763",
+    "uikName": "УИК  1480",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -11150,8 +13283,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1481,
     "uikTvd": "455402766764",
+    "uikName": "УИК  1481",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1051,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11197,8 +13339,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1482,
     "uikTvd": "455402766765",
+    "uikName": "УИК  1482",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -11244,8 +13395,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1483,
     "uikTvd": "455402766766",
+    "uikName": "УИК  1483",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -11291,8 +13451,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1484,
     "uikTvd": "455402766767",
+    "uikName": "УИК  1484",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1201,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -11338,8 +13507,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1485,
     "uikTvd": "455402766768",
+    "uikName": "УИК  1485",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -11385,8 +13563,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1486,
     "uikTvd": "455402766769",
+    "uikName": "УИК  1486",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -11432,8 +13619,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1487,
     "uikTvd": "455402766770",
+    "uikName": "УИК  1487",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -11479,8 +13675,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1488,
     "uikTvd": "455402766771",
+    "uikName": "УИК  1488",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -11526,8 +13731,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1489,
     "uikTvd": "455402766772",
+    "uikName": "УИК  1489",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -11573,8 +13787,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1490,
     "uikTvd": "455402766773",
+    "uikName": "УИК  1490",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -11620,8 +13843,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1491,
     "uikTvd": "455402766774",
+    "uikName": "УИК  1491",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1554,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11667,8 +13899,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1492,
     "uikTvd": "455402766775",
+    "uikName": "УИК  1492",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 457,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -11714,8 +13955,17 @@ export const duma_2003_uik_428_region_55_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1493,
     "uikTvd": "455402766776",
+    "uikName": "УИК  1493",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
+    "district": {
+      "districtNumber": 129,
+      "oikTvd": "100100095934",
+      "oikName": "Омский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 130,

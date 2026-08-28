@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300166717",
     "tikName": "Омск, Кировская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 86,
     "accounting": {
       "Число избирателей, внесенных в списки": 182430,
@@ -162,6 +165,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300166718",
     "tikName": "Черлакская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки": 27075,
@@ -274,6 +280,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300166719",
     "tikName": "Таврическая",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки": 28513,
@@ -382,6 +391,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300166720",
     "tikName": "Омская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 79,
     "accounting": {
       "Число избирателей, внесенных в списки": 69937,
@@ -526,6 +538,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300166721",
     "tikName": "Оконешниковская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 12238,
@@ -626,6 +641,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300166722",
     "tikName": "Омск, Ленинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в списки": 163835,
@@ -761,6 +779,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300166723",
     "tikName": "Калачинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в списки": 35532,
@@ -884,6 +905,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266772",
     "tikName": "Азовская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 14531,
@@ -977,6 +1001,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266773",
     "tikName": "Большереченская ",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки": 24679,
@@ -1099,6 +1126,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266774",
     "tikName": "Большеуковская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 6876,
@@ -1183,6 +1213,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266775",
     "tikName": "Горьковская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки": 17957,
@@ -1295,6 +1328,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266776",
     "tikName": "Знаменская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 10400,
@@ -1386,6 +1422,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266777",
     "tikName": "Исилькульская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в списки": 33438,
@@ -1511,6 +1550,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266778",
     "tikName": "Колосовская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 11461,
@@ -1609,6 +1651,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266779",
     "tikName": "Кормиловская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 17939,
@@ -1708,6 +1753,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266780",
     "tikName": "Крутинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 15060,
@@ -1823,6 +1871,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266781",
     "tikName": "Любинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 72,
     "accounting": {
       "Число избирателей, внесенных в списки": 28968,
@@ -1960,6 +2011,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266782",
     "tikName": "Марьяновская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 19701,
@@ -2063,6 +2117,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266783",
     "tikName": "Москаленская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки": 21817,
@@ -2179,6 +2236,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266784",
     "tikName": "Муромцевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки": 21188,
@@ -2298,6 +2358,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266785",
     "tikName": "Называевская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в списки": 22534,
@@ -2436,6 +2499,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266786",
     "tikName": "Нижнеомская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 14289,
@@ -2551,6 +2617,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266787",
     "tikName": "Нововаршавская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 19980,
@@ -2648,6 +2717,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266788",
     "tikName": "Одесская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 12970,
@@ -2732,6 +2804,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266789",
     "tikName": "Павлоградская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 15656,
@@ -2829,6 +2904,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266790",
     "tikName": "Полтавская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 17346,
@@ -2935,6 +3013,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266791",
     "tikName": "Русско-Полянская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 17594,
@@ -3030,6 +3111,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266792",
     "tikName": "Саргатская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 15983,
@@ -3135,6 +3219,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266793",
     "tikName": "Седельниковская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 9389,
@@ -3231,6 +3318,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266794",
     "tikName": "Тарская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 81,
     "accounting": {
       "Число избирателей, внесенных в списки": 36634,
@@ -3377,6 +3467,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266795",
     "tikName": "Тевризская ",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 13298,
@@ -3471,6 +3564,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266796",
     "tikName": "Тюкалинская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в списки": 22113,
@@ -3609,6 +3705,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266797",
     "tikName": "Усть-Ишимская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 12026,
@@ -3703,6 +3802,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300266798",
     "tikName": "Шербакульская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 17754,
@@ -3809,6 +3911,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300366834",
     "tikName": "Омск, Центральная",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 120,
     "accounting": {
       "Число избирателей, внесенных в списки": 222488,
@@ -3994,6 +4099,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300366835",
     "tikName": "Омск, Советская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 94,
     "accounting": {
       "Число избирателей, внесенных в списки": 203159,
@@ -4153,6 +4261,9 @@ export const duma_2003_tic_431_region_55 = [
     "ballot": "party",
     "tikTvd": "355300366836",
     "tikName": "Омск, Октябрьская",
+    "regionCode": "55",
+    "regionTvd": "100100095932",
+    "regionName": "Омская область",
     "uikCount": 73,
     "accounting": {
       "Число избирателей, внесенных в списки": 138969,

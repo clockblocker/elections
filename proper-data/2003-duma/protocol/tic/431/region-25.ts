@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167191",
     "tikName": "Дальнереченская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 26906,
@@ -97,6 +100,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167192",
     "tikName": "Кавалеровская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 24013,
@@ -184,6 +190,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167194",
     "tikName": "Красноармейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 15565,
@@ -273,6 +282,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167199",
     "tikName": "Пожарская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 24459,
@@ -364,6 +376,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167200",
     "tikName": "Спасская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 20797,
@@ -469,6 +484,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167201",
     "tikName": "Спасская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 40695,
@@ -564,6 +582,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167202",
     "tikName": "Тернейская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 10323,
@@ -647,6 +668,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167203",
     "tikName": "Черниговская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 28630,
@@ -741,6 +765,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167206",
     "tikName": "Ханкайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 18905,
@@ -831,6 +858,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167207",
     "tikName": "Хорольская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 25042,
@@ -927,6 +957,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167414",
     "tikName": "Дальнегорская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 42701,
@@ -1014,6 +1047,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167415",
     "tikName": "Арсеньевская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 49682,
@@ -1103,6 +1139,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167416",
     "tikName": "Анучинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 11439,
@@ -1194,6 +1233,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167417",
     "tikName": "Дальнереченская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 9634,
@@ -1283,6 +1325,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167420",
     "tikName": "Кировская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 19883,
@@ -1381,6 +1426,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167422",
     "tikName": "Лесозаводская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 40033,
@@ -1486,6 +1534,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167423",
     "tikName": "Октябрьская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 26200,
@@ -1578,6 +1629,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167424",
     "tikName": "Ольгинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 9225,
@@ -1661,6 +1715,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167425",
     "tikName": "Пограничная",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 20353,
@@ -1749,6 +1806,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167431",
     "tikName": "Чугуевская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 19479,
@@ -1849,6 +1909,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300167432",
     "tikName": "Яковлевская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 14262,
@@ -1941,6 +2004,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300267557",
     "tikName": "Артемовская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 80815,
@@ -2056,6 +2122,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300267558",
     "tikName": "Владивосток, Ленинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки": 118565,
@@ -2169,6 +2238,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300267560",
     "tikName": "Владивосток, Первореченская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки": 104600,
@@ -2277,6 +2349,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300267561",
     "tikName": "Владивосток, Советская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 85238,
@@ -2386,6 +2461,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300267619",
     "tikName": "Владивосток, Первомайская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 113,
     "accounting": {
       "Число избирателей, внесенных в списки": 120351,
@@ -2564,6 +2642,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300268231",
     "tikName": "Владивосток, Фрунзенская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 104,
     "accounting": {
       "Число избирателей, внесенных в списки": 48236,
@@ -2733,6 +2814,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300367281",
     "tikName": "ЗАТО г.Большой Камень",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 30703,
@@ -2811,6 +2895,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300367282",
     "tikName": "Лазовская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 11461,
@@ -2894,6 +2981,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300367283",
     "tikName": "Михайловская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 26539,
@@ -2991,6 +3081,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300367284",
     "tikName": "Надеждинская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 29126,
@@ -3089,6 +3182,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300367285",
     "tikName": "Находкинская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 145,
     "accounting": {
       "Число избирателей, внесенных в списки": 121778,
@@ -3299,6 +3395,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300367286",
     "tikName": "Партизанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 20529,
@@ -3388,6 +3487,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300367287",
     "tikName": "Партизанская городская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 44233,
@@ -3494,6 +3596,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300367288",
     "tikName": "г.Уссурийск и Уссурийский район",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 101,
     "accounting": {
       "Число избирателей, внесенных в списки": 135578,
@@ -3660,6 +3765,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300367289",
     "tikName": "ЗАТО город Фокино",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 24592,
@@ -3738,6 +3846,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300367290",
     "tikName": "Хасанская",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 28593,
@@ -3830,6 +3941,9 @@ export const duma_2003_tic_431_region_25 = [
     "ballot": "party",
     "tikTvd": "325300367291",
     "tikName": "Шкотовского района",
+    "regionCode": "25",
+    "regionTvd": "100100095854",
+    "regionName": "Приморский край",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 17647,

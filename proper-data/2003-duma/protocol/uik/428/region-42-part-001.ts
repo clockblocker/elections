@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "442404866712",
+    "uikName": "УИК №358",
     "tikTvd": "342300167379",
     "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2009,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "442404866713",
+    "uikName": "УИК №359",
     "tikTvd": "342300167379",
     "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2407,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "442404866714",
+    "uikName": "УИК №360",
     "tikTvd": "342300167379",
     "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2269,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "442404866715",
+    "uikName": "УИК №361",
     "tikTvd": "342300167379",
     "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2752,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "442404866716",
+    "uikName": "УИК №362",
     "tikTvd": "342300167379",
     "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2415,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "442404866717",
+    "uikName": "УИК №363",
     "tikTvd": "342300167379",
     "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2625,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "442404866718",
+    "uikName": "УИК №364",
     "tikTvd": "342300167379",
     "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1212,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "442404866719",
+    "uikName": "УИК №365",
     "tikTvd": "342300167379",
     "tikName": "Кемерово, Кедровская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "442400166783",
+    "uikName": "УИК №1",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 939,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "442400166784",
+    "uikName": "УИК №2",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 774,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "442400166785",
+    "uikName": "УИК №3",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1124,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "442400166786",
+    "uikName": "УИК №4",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 897,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "442400166787",
+    "uikName": "УИК №5",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1050,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "442400166788",
+    "uikName": "УИК №6",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1538,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "442400166789",
+    "uikName": "УИК №7",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1585,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "442400166790",
+    "uikName": "УИК №8",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1502,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "442400166791",
+    "uikName": "УИК №9",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1007,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "442400166792",
+    "uikName": "УИК №10",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1701,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "442400166793",
+    "uikName": "УИК №11",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1281,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "442400166794",
+    "uikName": "УИК №12",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1547,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "442400166795",
+    "uikName": "УИК №13",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1083,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "442400166796",
+    "uikName": "УИК №14",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 796,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "442400166797",
+    "uikName": "УИК №15",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 952,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "442400166798",
+    "uikName": "УИК №16",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1059,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "442400166799",
+    "uikName": "УИК №17",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 721,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "442400166800",
+    "uikName": "УИК №18",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1085,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "442400166801",
+    "uikName": "УИК №19",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1180,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "442400166802",
+    "uikName": "УИК №20",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1594,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "442400166803",
+    "uikName": "УИК №21",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 989,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "442400166804",
+    "uikName": "УИК №22",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1594,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "442400166805",
+    "uikName": "УИК №23",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1386,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "442400166806",
+    "uikName": "УИК №24",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1976,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "442400166807",
+    "uikName": "УИК №25",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1376,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "442400166808",
+    "uikName": "УИК №26",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 776,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "442400166809",
+    "uikName": "УИК №27",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 759,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "442400166810",
+    "uikName": "УИК №28",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1276,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "442400166811",
+    "uikName": "УИК №29",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "442400166812",
+    "uikName": "УИК №30",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 612,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "442400166813",
+    "uikName": "УИК №31",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 704,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "442400166814",
+    "uikName": "УИК №32",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 762,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "442400166815",
+    "uikName": "УИК №33",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 836,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "442400166816",
+    "uikName": "УИК №34",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1283,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "442400166817",
+    "uikName": "УИК №35",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 904,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "442400166818",
+    "uikName": "УИК №36",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1277,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "442400166819",
+    "uikName": "УИК №37",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 935,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "442400166820",
+    "uikName": "УИК №38",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 796,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "442400166821",
+    "uikName": "УИК №39",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 886,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "442400166822",
+    "uikName": "УИК №40",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 795,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "442400166823",
+    "uikName": "УИК №41",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 854,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "442400166824",
+    "uikName": "УИК №42",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 761,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "442400166825",
+    "uikName": "УИК №43",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 923,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "442400166826",
+    "uikName": "УИК №44",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1052,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "442400166827",
+    "uikName": "УИК №45",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "442400166828",
+    "uikName": "УИК №46",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 976,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "442400166829",
+    "uikName": "УИК №47",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1065,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "442400166830",
+    "uikName": "УИК №48",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1550,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "442400166831",
+    "uikName": "УИК №49",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 655,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "442400166832",
+    "uikName": "УИК №50",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "442400166833",
+    "uikName": "УИК №51",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1766,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "442400166834",
+    "uikName": "УИК №52",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1398,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "442400166835",
+    "uikName": "УИК №53",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1487,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "442400166836",
+    "uikName": "УИК №54",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1550,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "442400166837",
+    "uikName": "УИК №55",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1390,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "442400166838",
+    "uikName": "УИК №56",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1697,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "442400166839",
+    "uikName": "УИК №57",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1683,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "442400166840",
+    "uikName": "УИК №58",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 497,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "442400166841",
+    "uikName": "УИК №59",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1136,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "442400166842",
+    "uikName": "УИК №60",
     "tikTvd": "342300167380",
     "tikName": "Анжеро-Судженская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1150,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "442400466874",
+    "uikName": "УИК №127",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1471,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "442400466875",
+    "uikName": "УИК №128",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1318,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "442400466876",
+    "uikName": "УИК №129",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1254,
       "Число бюллетеней, полученных участковыми комиссиями": 1267,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "442400466877",
+    "uikName": "УИК №130",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 943,
       "Число бюллетеней, полученных участковыми комиссиями": 964,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "442400466878",
+    "uikName": "УИК №131",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 589,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "442400466879",
+    "uikName": "УИК №132",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1186,
       "Число бюллетеней, полученных участковыми комиссиями": 1197,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "442400466880",
+    "uikName": "УИК №133",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2776,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "442400466881",
+    "uikName": "УИК №134",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "442400466882",
+    "uikName": "УИК №135",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 421,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "442400466883",
+    "uikName": "УИК №136",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2163,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "442400466884",
+    "uikName": "УИК №137",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1040,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "442400466885",
+    "uikName": "УИК №138",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "442400466886",
+    "uikName": "УИК №139",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2205,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "442400466887",
+    "uikName": "УИК №140",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1298,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "442400466888",
+    "uikName": "УИК №141",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 2185,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "442400466889",
+    "uikName": "УИК №142",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2259,
       "Число бюллетеней, полученных участковыми комиссиями": 2293,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "442400466890",
+    "uikName": "УИК №143",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1497,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "442400466891",
+    "uikName": "УИК №144",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1828,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "442400466892",
+    "uikName": "УИК №145",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2102,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "442400466893",
+    "uikName": "УИК №146",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1633,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "442400466894",
+    "uikName": "УИК №147",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1693,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "442400466895",
+    "uikName": "УИК №148",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1401,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "442400466896",
+    "uikName": "УИК №149",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "442400466897",
+    "uikName": "УИК №150",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "442400466898",
+    "uikName": "УИК №151",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "442400466899",
+    "uikName": "УИК №152",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 825,
       "Число бюллетеней, полученных участковыми комиссиями": 825,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "442400466900",
+    "uikName": "УИК №153",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 774,
       "Число бюллетеней, полученных участковыми комиссиями": 789,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "442400466901",
+    "uikName": "УИК №154",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 317,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "442400466902",
+    "uikName": "УИК №155",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 67,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "442400466903",
+    "uikName": "УИК №156",
     "tikTvd": "342300167381",
     "tikName": "Березовская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "442400767483",
+    "uikName": "УИК №187",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "442400767484",
+    "uikName": "УИК №188",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1847,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "442400767485",
+    "uikName": "УИК №189",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1385,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "442400767486",
+    "uikName": "УИК №190",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1719,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "442400767487",
+    "uikName": "УИК №191",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1667,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "442400767488",
+    "uikName": "УИК №192",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2389,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "442400767489",
+    "uikName": "УИК №193",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "442400767490",
+    "uikName": "УИК №194",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2872,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "442400767491",
+    "uikName": "УИК №195",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2486,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "442400767492",
+    "uikName": "УИК №196",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2505,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "442400767493",
+    "uikName": "УИК №197",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2090,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "442400767494",
+    "uikName": "УИК №198",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2786,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "442400767495",
+    "uikName": "УИК №199",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2686,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "442400767496",
+    "uikName": "УИК №200",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1827,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "442400767497",
+    "uikName": "УИК №201",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1735,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "442400767498",
+    "uikName": "УИК №202",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2402,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "442400767499",
+    "uikName": "УИК №203",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2631,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "442400767500",
+    "uikName": "УИК №204",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1968,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "442400767501",
+    "uikName": "УИК №205",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1837,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "442400767502",
+    "uikName": "УИК №206",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2426,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "442400767503",
+    "uikName": "УИК №207",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "442400767504",
+    "uikName": "УИК №208",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "442400767505",
+    "uikName": "УИК №209",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2546,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "442400767506",
+    "uikName": "УИК №210",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2442,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "442400767507",
+    "uikName": "УИК №211",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2696,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "442400767508",
+    "uikName": "УИК №212",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2373,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "442400767509",
+    "uikName": "УИК №213",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2125,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "442400767510",
+    "uikName": "УИК №214",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2166,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "442400767511",
+    "uikName": "УИК №215",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2496,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "442400767512",
+    "uikName": "УИК №216",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2621,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "442400767513",
+    "uikName": "УИК №217",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2847,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "442400767514",
+    "uikName": "УИК №218",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2518,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "442400767515",
+    "uikName": "УИК №219",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "442400767516",
+    "uikName": "УИК №220",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 913,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "442400767517",
+    "uikName": "УИК №221",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "442400767518",
+    "uikName": "УИК №222",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1535,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "442400767519",
+    "uikName": "УИК №223",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 829,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "442400767520",
+    "uikName": "УИК №224",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2099,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "442400767521",
+    "uikName": "УИК №225",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "442400767522",
+    "uikName": "УИК №226",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1075,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "442400767523",
+    "uikName": "УИК №227",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2593,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "442400767524",
+    "uikName": "УИК №228",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2159,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "442400767525",
+    "uikName": "УИК №229",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1968,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "442400767526",
+    "uikName": "УИК №230",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1011,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "442400767527",
+    "uikName": "УИК №231",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1295,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "442400767528",
+    "uikName": "УИК №232",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1673,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "442400767529",
+    "uikName": "УИК №233",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1542,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "442400767530",
+    "uikName": "УИК №234",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2031,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "442400767481",
+    "uikName": "УИК №235",
     "tikTvd": "342300167382",
     "tikName": "Кемерово, Заводская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1206,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "442400866824",
+    "uikName": "УИК №236",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2756,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "442400866825",
+    "uikName": "УИК №237",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2400,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "442400866826",
+    "uikName": "УИК №238",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2353,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "442400866827",
+    "uikName": "УИК №239",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2309,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "442400866828",
+    "uikName": "УИК №240",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2679,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "442400866829",
+    "uikName": "УИК №241",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2688,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "442400866830",
+    "uikName": "УИК №242",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "442400866831",
+    "uikName": "УИК №243",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2782,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "442400866832",
+    "uikName": "УИК №244",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2825,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "442400866833",
+    "uikName": "УИК №245",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2518,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "442400866834",
+    "uikName": "УИК №246",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2181,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "442400866835",
+    "uikName": "УИК №247",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2514,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "442400866836",
+    "uikName": "УИК №248",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2573,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "442400866837",
+    "uikName": "УИК №249",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2800,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "442400866838",
+    "uikName": "УИК №250",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2621,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "442400866839",
+    "uikName": "УИК №251",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2584,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "442400866840",
+    "uikName": "УИК №252",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2336,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "442400866841",
+    "uikName": "УИК №253",
     "tikTvd": "342300167383",
     "tikName": "Кемерово, Кировская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2262,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "442400966985",
+    "uikName": "УИК №254",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2301,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "442400966986",
+    "uikName": "УИК №255",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2774,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "442400966987",
+    "uikName": "УИК №256",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2594,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "442400966988",
+    "uikName": "УИК №257",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1865,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "442400966989",
+    "uikName": "УИК №258",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2586,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "442400966990",
+    "uikName": "УИК №259",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2335,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "442400966991",
+    "uikName": "УИК №260",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2922,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "442400966992",
+    "uikName": "УИК №261",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2995,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "442400966993",
+    "uikName": "УИК №262",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2284,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "442400966994",
+    "uikName": "УИК №263",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2794,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "442400966995",
+    "uikName": "УИК №264",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2887,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "442400966996",
+    "uikName": "УИК №265",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "442400966997",
+    "uikName": "УИК №266",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2225,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "442400966998",
+    "uikName": "УИК №267",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "442400966999",
+    "uikName": "УИК №268",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1853,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "442400967000",
+    "uikName": "УИК №269",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2662,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "442400967001",
+    "uikName": "УИК №270",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "442400967002",
+    "uikName": "УИК №271",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2664,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "442400967003",
+    "uikName": "УИК №272",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "442400967004",
+    "uikName": "УИК №273",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2324,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "442400967005",
+    "uikName": "УИК №274",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1977,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "442400967006",
+    "uikName": "УИК №275",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2334,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "442400967007",
+    "uikName": "УИК №276",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2277,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "442400967008",
+    "uikName": "УИК №277",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2299,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "442400967009",
+    "uikName": "УИК №278",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2337,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "442400967010",
+    "uikName": "УИК №279",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "442400967011",
+    "uikName": "УИК №280",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2207,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "442400967012",
+    "uikName": "УИК №281",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "442400967013",
+    "uikName": "УИК №282",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2671,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "442400967014",
+    "uikName": "УИК №283",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1960,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "442400967015",
+    "uikName": "УИК №284",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2404,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "442400967016",
+    "uikName": "УИК №285",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2189,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "442400967017",
+    "uikName": "УИК №286",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2260,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "442400967018",
+    "uikName": "УИК №287",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1266,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "442400967019",
+    "uikName": "УИК №288",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2349,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "442400967020",
+    "uikName": "УИК №289",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1494,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "442400967021",
+    "uikName": "УИК №290",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2351,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "442400967022",
+    "uikName": "УИК №291",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1962,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "442400967023",
+    "uikName": "УИК №292",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1493,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "442400967024",
+    "uikName": "УИК №293",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1092,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "442400967025",
+    "uikName": "УИК №294",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2751,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "442400967026",
+    "uikName": "УИК №295",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2850,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "442400967027",
+    "uikName": "УИК №296",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2689,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "442400967028",
+    "uikName": "УИК №297",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2233,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "442400967029",
+    "uikName": "УИК №298",
     "tikTvd": "342300167384",
     "tikName": "Кемерово, Ленинская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1869,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "442401066794",
+    "uikName": "УИК №339",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "442401066795",
+    "uikName": "УИК №340",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1881,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "442401066796",
+    "uikName": "УИК №341",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2130,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "442401066797",
+    "uikName": "УИК №342",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "442401066798",
+    "uikName": "УИК №343",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1113,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "442401066799",
+    "uikName": "УИК №344",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "442401066800",
+    "uikName": "УИК №345",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "442401066801",
+    "uikName": "УИК №346",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1789,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "442401066802",
+    "uikName": "УИК №347",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2332,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "442401066803",
+    "uikName": "УИК №348",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1281,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "442401066804",
+    "uikName": "УИК №349",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2199,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "442401066805",
+    "uikName": "УИК №350",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2276,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "442401066806",
+    "uikName": "УИК №351",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "442401066807",
+    "uikName": "УИК №352",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2427,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "442401066808",
+    "uikName": "УИК №353",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1800,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "442401066809",
+    "uikName": "УИК №354",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "442401066810",
+    "uikName": "УИК №355",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2408,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "442401066811",
+    "uikName": "УИК №356",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2529,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "442401066812",
+    "uikName": "УИК №357",
     "tikTvd": "342300167385",
     "tikName": "Кемерово, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2491,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "442401166777",
+    "uikName": "УИК №299",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1037,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "442401166781",
+    "uikName": "УИК №300",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "442401166782",
+    "uikName": "УИК №301",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1869,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "442401166783",
+    "uikName": "УИК №302",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2095,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "442401166784",
+    "uikName": "УИК №303",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2033,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "442401166785",
+    "uikName": "УИК №304",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "442401166786",
+    "uikName": "УИК №305",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2058,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "442401166787",
+    "uikName": "УИК №306",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1958,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "442401166788",
+    "uikName": "УИК №307",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2672,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "442401166789",
+    "uikName": "УИК №308",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1587,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "442401166790",
+    "uikName": "УИК №309",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2024,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "442401166791",
+    "uikName": "УИК №310",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1806,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "442401166792",
+    "uikName": "УИК №311",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2083,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "442401166793",
+    "uikName": "УИК №312",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2018,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "442401166794",
+    "uikName": "УИК №313",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1609,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "442401166795",
+    "uikName": "УИК №314",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2395,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "442401166796",
+    "uikName": "УИК №315",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2452,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "442401166797",
+    "uikName": "УИК №316",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2065,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "442401166798",
+    "uikName": "УИК №317",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1761,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "442401166799",
+    "uikName": "УИК №318",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1813,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_42_part_001 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "442401166800",
+    "uikName": "УИК №319",
     "tikTvd": "342300167386",
     "tikName": "Кемерово, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 89,
+      "oikTvd": "100100095863",
+      "oikName": "Кемеровский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1849,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,

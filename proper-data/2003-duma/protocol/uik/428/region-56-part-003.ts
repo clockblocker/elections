@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1352,
     "uikTvd": "456403266687",
+    "uikName": "УИК №1352",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -63,8 +72,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1353,
     "uikTvd": "456403266688",
+    "uikName": "УИК №1353",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 40,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -115,8 +133,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1354,
     "uikTvd": "456403266689",
+    "uikName": "УИК №1354",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -167,8 +194,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1355,
     "uikTvd": "456403266690",
+    "uikName": "УИК №1355",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -219,8 +255,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1356,
     "uikTvd": "456403266691",
+    "uikName": "УИК №1356",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -271,8 +316,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1357,
     "uikTvd": "456403266692",
+    "uikName": "УИК №1357",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -323,8 +377,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1358,
     "uikTvd": "456403266693",
+    "uikName": "УИК №1358",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 661,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -375,8 +438,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1359,
     "uikTvd": "456403266694",
+    "uikName": "УИК №1359",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -427,8 +499,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1360,
     "uikTvd": "456403266695",
+    "uikName": "УИК №1360",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 51,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -479,8 +560,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1361,
     "uikTvd": "456403266696",
+    "uikName": "УИК №1361",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -531,8 +621,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1362,
     "uikTvd": "456403266697",
+    "uikName": "УИК №1362",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -583,8 +682,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1363,
     "uikTvd": "456403266698",
+    "uikName": "УИК №1363",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 679,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -635,8 +743,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1364,
     "uikTvd": "456403266699",
+    "uikName": "УИК №1364",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -687,8 +804,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1365,
     "uikTvd": "456403266700",
+    "uikName": "УИК №1365",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -739,8 +865,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1366,
     "uikTvd": "456403266701",
+    "uikName": "УИК №1366",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -791,8 +926,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1367,
     "uikTvd": "456403266702",
+    "uikName": "УИК №1367",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 800,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -843,8 +987,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1368,
     "uikTvd": "456403266703",
+    "uikName": "УИК №1368",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -895,8 +1048,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1369,
     "uikTvd": "456403266704",
+    "uikName": "УИК №1369",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -947,8 +1109,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1370,
     "uikTvd": "456403266705",
+    "uikName": "УИК №1370",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -999,8 +1170,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1371,
     "uikTvd": "456403266706",
+    "uikName": "УИК №1371",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 743,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1051,8 +1231,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1372,
     "uikTvd": "456403266707",
+    "uikName": "УИК №1372",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -1103,8 +1292,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1373,
     "uikTvd": "456403266708",
+    "uikName": "УИК №1373",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -1155,8 +1353,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1374,
     "uikTvd": "456403266709",
+    "uikName": "УИК №1374",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1207,8 +1414,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1375,
     "uikTvd": "456403266710",
+    "uikName": "УИК №1375",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1259,8 +1475,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1376,
     "uikTvd": "456403266711",
+    "uikName": "УИК №1376",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1045,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -1311,8 +1536,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1377,
     "uikTvd": "456403266712",
+    "uikName": "УИК №1377",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 898,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1363,8 +1597,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1378,
     "uikTvd": "456403266713",
+    "uikName": "УИК №1378",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1415,8 +1658,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1379,
     "uikTvd": "456403266714",
+    "uikName": "УИК №1379",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1287,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1467,8 +1719,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1380,
     "uikTvd": "456403266715",
+    "uikName": "УИК №1380",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1519,8 +1780,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1381,
     "uikTvd": "456403266716",
+    "uikName": "УИК №1381",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1208,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -1571,8 +1841,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1382,
     "uikTvd": "456403266717",
+    "uikName": "УИК №1382",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1045,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1623,8 +1902,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1383,
     "uikTvd": "456403266718",
+    "uikName": "УИК №1383",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1392,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1675,8 +1963,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1384,
     "uikTvd": "456403266719",
+    "uikName": "УИК №1384",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 727,
       "Число бюллетеней, полученных участковыми комиссиями": 698,
@@ -1727,8 +2024,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1385,
     "uikTvd": "456403266720",
+    "uikName": "УИК №1385",
     "tikTvd": "256200067762",
     "tikName": "Переволоцкая",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1779,8 +2085,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1294,
     "uikTvd": "456403166673",
+    "uikName": "УИК №1294",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -1831,8 +2146,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1295,
     "uikTvd": "456403166674",
+    "uikName": "УИК №1295",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 658,
       "Число бюллетеней, полученных участковыми комиссиями": 657,
@@ -1883,8 +2207,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1296,
     "uikTvd": "456403166675",
+    "uikName": "УИК №1296",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 348,
@@ -1935,8 +2268,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1297,
     "uikTvd": "456403166676",
+    "uikName": "УИК №1297",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 547,
@@ -1987,8 +2329,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1298,
     "uikTvd": "456403166677",
+    "uikName": "УИК №1298",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 209,
@@ -2039,8 +2390,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1299,
     "uikTvd": "456403166678",
+    "uikName": "УИК №1299",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 526,
@@ -2091,8 +2451,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1300,
     "uikTvd": "456403166679",
+    "uikName": "УИК №1300",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 194,
@@ -2143,8 +2512,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1301,
     "uikTvd": "456403166680",
+    "uikName": "УИК №1301",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 569,
@@ -2195,8 +2573,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1302,
     "uikTvd": "456403166681",
+    "uikName": "УИК №1302",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -2247,8 +2634,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1303,
     "uikTvd": "456403166682",
+    "uikName": "УИК №1303",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -2299,8 +2695,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1304,
     "uikTvd": "456403166683",
+    "uikName": "УИК №1304",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 171,
@@ -2351,8 +2756,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1305,
     "uikTvd": "456403166684",
+    "uikName": "УИК №1305",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 817,
       "Число бюллетеней, полученных участковыми комиссиями": 806,
@@ -2403,8 +2817,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1306,
     "uikTvd": "456403166685",
+    "uikName": "УИК №1306",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 73,
@@ -2455,8 +2878,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1307,
     "uikTvd": "456403166686",
+    "uikName": "УИК №1307",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -2507,8 +2939,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1308,
     "uikTvd": "456403166687",
+    "uikName": "УИК №1308",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -2559,8 +3000,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1309,
     "uikTvd": "456403166688",
+    "uikName": "УИК №1309",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 88,
@@ -2611,8 +3061,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1310,
     "uikTvd": "456403166689",
+    "uikName": "УИК №1310",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 693,
       "Число бюллетеней, полученных участковыми комиссиями": 696,
@@ -2663,8 +3122,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1311,
     "uikTvd": "456403166690",
+    "uikName": "УИК №1311",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -2715,8 +3183,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1312,
     "uikTvd": "456403166691",
+    "uikName": "УИК №1312",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -2767,8 +3244,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1313,
     "uikTvd": "456403166692",
+    "uikName": "УИК №1313",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -2819,8 +3305,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1314,
     "uikTvd": "456403166693",
+    "uikName": "УИК №1314",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -2871,8 +3366,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1315,
     "uikTvd": "456403166694",
+    "uikName": "УИК №1315",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 732,
       "Число бюллетеней, полученных участковыми комиссиями": 721,
@@ -2923,8 +3427,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1316,
     "uikTvd": "456403166695",
+    "uikName": "УИК №1316",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 134,
@@ -2975,8 +3488,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1317,
     "uikTvd": "456403166696",
+    "uikName": "УИК №1317",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 311,
@@ -3027,8 +3549,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1318,
     "uikTvd": "456403166697",
+    "uikName": "УИК №1318",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 815,
       "Число бюллетеней, полученных участковыми комиссиями": 765,
@@ -3079,8 +3610,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1319,
     "uikTvd": "456403166698",
+    "uikName": "УИК №1319",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 643,
@@ -3131,8 +3671,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1320,
     "uikTvd": "456403166699",
+    "uikName": "УИК №1320",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2116,
       "Число бюллетеней, полученных участковыми комиссиями": 2022,
@@ -3183,8 +3732,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1321,
     "uikTvd": "456403166700",
+    "uikName": "УИК №1321",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 822,
       "Число бюллетеней, полученных участковыми комиссиями": 761,
@@ -3235,8 +3793,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1322,
     "uikTvd": "456403166701",
+    "uikName": "УИК №1322",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1611,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -3287,8 +3854,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1323,
     "uikTvd": "456403166702",
+    "uikName": "УИК №1323",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1429,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3339,8 +3915,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1324,
     "uikTvd": "456403166703",
+    "uikName": "УИК №1324",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 324,
       "Число бюллетеней, полученных участковыми комиссиями": 317,
@@ -3391,8 +3976,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1325,
     "uikTvd": "456403166704",
+    "uikName": "УИК №1325",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -3443,8 +4037,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1326,
     "uikTvd": "456403166705",
+    "uikName": "УИК №1326",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -3495,8 +4098,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1327,
     "uikTvd": "456403166706",
+    "uikName": "УИК №1327",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -3547,8 +4159,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1328,
     "uikTvd": "456403166707",
+    "uikName": "УИК №1328",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -3599,8 +4220,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1329,
     "uikTvd": "456403166708",
+    "uikName": "УИК №1329",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -3651,8 +4281,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1330,
     "uikTvd": "456403166709",
+    "uikName": "УИК №1330",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -3703,8 +4342,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1331,
     "uikTvd": "456403166710",
+    "uikName": "УИК №1331",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -3755,8 +4403,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1332,
     "uikTvd": "456403166711",
+    "uikName": "УИК №1332",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 84,
@@ -3807,8 +4464,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1333,
     "uikTvd": "456403166712",
+    "uikName": "УИК №1333",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 607,
       "Число бюллетеней, полученных участковыми комиссиями": 593,
@@ -3859,8 +4525,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1334,
     "uikTvd": "456403166713",
+    "uikName": "УИК №1334",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 402,
@@ -3911,8 +4586,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1335,
     "uikTvd": "456403166714",
+    "uikName": "УИК №1335",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -3963,8 +4647,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1336,
     "uikTvd": "456403166715",
+    "uikName": "УИК №1336",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -4015,8 +4708,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1337,
     "uikTvd": "456403166716",
+    "uikName": "УИК №1337",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 717,
       "Число бюллетеней, полученных участковыми комиссиями": 712,
@@ -4067,8 +4769,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1338,
     "uikTvd": "456403166717",
+    "uikName": "УИК №1338",
     "tikTvd": "256200067763",
     "tikName": "Первомайская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 622,
       "Число бюллетеней, полученных участковыми комиссиями": 625,
@@ -4119,8 +4830,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "456402066763",
+    "uikName": "УИК №767",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2226,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -4171,8 +4891,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "456402066764",
+    "uikName": "УИК №768",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2040,
       "Число бюллетеней, полученных участковыми комиссиями": 1907,
@@ -4223,8 +4952,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 769,
     "uikTvd": "456402066765",
+    "uikName": "УИК №769",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1515,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -4275,8 +5013,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 770,
     "uikTvd": "456402066766",
+    "uikName": "УИК №770",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1471,
       "Число бюллетеней, полученных участковыми комиссиями": 1272,
@@ -4327,8 +5074,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 771,
     "uikTvd": "456402066767",
+    "uikName": "УИК №771",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2626,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4379,8 +5135,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 772,
     "uikTvd": "456402066768",
+    "uikName": "УИК №772",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 353,
@@ -4431,8 +5196,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 773,
     "uikTvd": "456402066769",
+    "uikName": "УИК №773",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 44,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -4483,8 +5257,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 774,
     "uikTvd": "456402066770",
+    "uikName": "УИК №774",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -4535,8 +5318,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 775,
     "uikTvd": "456402066771",
+    "uikName": "УИК №775",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 648,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -4587,8 +5379,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "456402066772",
+    "uikName": "УИК №776",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 47,
       "Число бюллетеней, полученных участковыми комиссиями": 47,
@@ -4639,8 +5440,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "456402066773",
+    "uikName": "УИК №777",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 671,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -4691,8 +5501,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "456402066774",
+    "uikName": "УИК №778",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -4743,8 +5562,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "456402066775",
+    "uikName": "УИК №779",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -4795,8 +5623,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "456402066776",
+    "uikName": "УИК №780",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -4847,8 +5684,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "456402066777",
+    "uikName": "УИК №781",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -4899,8 +5745,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "456402066778",
+    "uikName": "УИК №782",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 714,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -4951,8 +5806,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "456402066779",
+    "uikName": "УИК №783",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -5003,8 +5867,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "456402066780",
+    "uikName": "УИК №784",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 794,
       "Число бюллетеней, полученных участковыми комиссиями": 794,
@@ -5055,8 +5928,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "456402066781",
+    "uikName": "УИК №785",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 214,
@@ -5107,8 +5989,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "456402066782",
+    "uikName": "УИК №786",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -5159,8 +6050,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "456402066783",
+    "uikName": "УИК №787",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 852,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -5211,8 +6111,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "456402066784",
+    "uikName": "УИК №788",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 52,
@@ -5263,8 +6172,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "456402066785",
+    "uikName": "УИК №789",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 39,
       "Число бюллетеней, полученных участковыми комиссиями": 39,
@@ -5315,8 +6233,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "456402066786",
+    "uikName": "УИК №790",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 701,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -5367,8 +6294,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "456402066787",
+    "uikName": "УИК №791",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -5419,8 +6355,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "456402066788",
+    "uikName": "УИК №792",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 752,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -5471,8 +6416,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "456402066789",
+    "uikName": "УИК №793",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 704,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5523,8 +6477,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "456402066790",
+    "uikName": "УИК №794",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 787,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -5575,8 +6538,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "456402066791",
+    "uikName": "УИК №795",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 887,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -5627,8 +6599,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "456402066792",
+    "uikName": "УИК №796",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -5679,8 +6660,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "456402066793",
+    "uikName": "УИК №797",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -5731,8 +6721,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "456402066794",
+    "uikName": "УИК №798",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -5783,8 +6782,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "456402066795",
+    "uikName": "УИК №799",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 449,
       "Число бюллетеней, полученных участковыми комиссиями": 447,
@@ -5835,8 +6843,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "456402066796",
+    "uikName": "УИК №800",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -5887,8 +6904,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "456402066797",
+    "uikName": "УИК №801",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 63,
       "Число бюллетеней, полученных участковыми комиссиями": 64,
@@ -5939,8 +6965,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "456402066798",
+    "uikName": "УИК №802",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 62,
@@ -5991,8 +7026,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "456402066799",
+    "uikName": "УИК №803",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -6043,8 +7087,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "456402066800",
+    "uikName": "УИК №804",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -6095,8 +7148,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "456402066801",
+    "uikName": "УИК №805",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6147,8 +7209,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "456402066802",
+    "uikName": "УИК №806",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6199,8 +7270,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "456402066803",
+    "uikName": "УИК №807",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -6251,8 +7331,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "456402066804",
+    "uikName": "УИК №808",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 969,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -6303,8 +7392,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "456402066805",
+    "uikName": "УИК №809",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 51,
       "Число бюллетеней, полученных участковыми комиссиями": 52,
@@ -6355,8 +7453,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "456402066806",
+    "uikName": "УИК №810",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -6407,8 +7514,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "456402066807",
+    "uikName": "УИК №811",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -6459,8 +7575,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "456402066808",
+    "uikName": "УИК №812",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -6511,8 +7636,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "456402066809",
+    "uikName": "УИК №813",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 633,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -6563,8 +7697,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "456402066810",
+    "uikName": "УИК №814",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -6615,8 +7758,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "456402066811",
+    "uikName": "УИК №815",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -6667,8 +7819,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "456402066812",
+    "uikName": "УИК №816",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 30,
       "Число бюллетеней, полученных участковыми комиссиями": 30,
@@ -6719,8 +7880,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "456402066813",
+    "uikName": "УИК №817",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 527,
@@ -6771,8 +7941,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "456402066814",
+    "uikName": "УИК №818",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -6823,8 +8002,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "456402066815",
+    "uikName": "УИК №819",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -6875,8 +8063,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "456402066816",
+    "uikName": "УИК №820",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -6927,8 +8124,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "456402066817",
+    "uikName": "УИК №821",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 404,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -6979,8 +8185,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "456402066818",
+    "uikName": "УИК №822",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -7031,8 +8246,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "456402066819",
+    "uikName": "УИК №823",
     "tikTvd": "256200067764",
     "tikName": "Новосергиевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -7083,8 +8307,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "456401767176",
+    "uikName": "УИК №693",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -7135,8 +8368,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "456401767177",
+    "uikName": "УИК №694",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 244,
@@ -7187,8 +8429,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "456401767178",
+    "uikName": "УИК №695",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 237,
@@ -7239,8 +8490,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "456401767179",
+    "uikName": "УИК №696",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -7291,8 +8551,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "456401767180",
+    "uikName": "УИК №697",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 723,
       "Число бюллетеней, полученных участковыми комиссиями": 725,
@@ -7343,8 +8612,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "456401767181",
+    "uikName": "УИК №698",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -7395,8 +8673,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "456401767182",
+    "uikName": "УИК №699",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -7447,8 +8734,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "456401767183",
+    "uikName": "УИК №700",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -7499,8 +8795,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "456401767184",
+    "uikName": "УИК №701",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1287,
       "Число бюллетеней, полученных участковыми комиссиями": 1267,
@@ -7551,8 +8856,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "456401767185",
+    "uikName": "УИК №702",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1388,
       "Число бюллетеней, полученных участковыми комиссиями": 1372,
@@ -7603,8 +8917,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "456401767186",
+    "uikName": "УИК №703",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 636,
       "Число бюллетеней, полученных участковыми комиссиями": 626,
@@ -7655,8 +8978,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "456401767187",
+    "uikName": "УИК №704",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -7707,8 +9039,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "456401767188",
+    "uikName": "УИК №705",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 416,
       "Число бюллетеней, полученных участковыми комиссиями": 414,
@@ -7759,8 +9100,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "456401767189",
+    "uikName": "УИК №706",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -7811,8 +9161,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "456401767190",
+    "uikName": "УИК №707",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -7863,8 +9222,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "456401767191",
+    "uikName": "УИК №708",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 319,
@@ -7915,8 +9283,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "456401767192",
+    "uikName": "УИК №709",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 261,
@@ -7967,8 +9344,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "456401767193",
+    "uikName": "УИК №710",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 525,
@@ -8019,8 +9405,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "456401767194",
+    "uikName": "УИК №711",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 484,
       "Число бюллетеней, полученных участковыми комиссиями": 478,
@@ -8071,8 +9466,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "456401767195",
+    "uikName": "УИК №712",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 932,
       "Число бюллетеней, полученных участковыми комиссиями": 923,
@@ -8123,8 +9527,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "456401767196",
+    "uikName": "УИК №713",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 424,
@@ -8175,8 +9588,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "456401767197",
+    "uikName": "УИК №714",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 176,
@@ -8227,8 +9649,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "456401767198",
+    "uikName": "УИК №715",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 196,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -8279,8 +9710,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "456401767199",
+    "uikName": "УИК №716",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -8331,8 +9771,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "456401767200",
+    "uikName": "УИК №717",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -8383,8 +9832,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "456401767201",
+    "uikName": "УИК №718",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -8435,8 +9893,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "456401767202",
+    "uikName": "УИК №719",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 317,
       "Число бюллетеней, полученных участковыми комиссиями": 312,
@@ -8487,8 +9954,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "456401767203",
+    "uikName": "УИК №720",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -8539,8 +10015,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "456401767204",
+    "uikName": "УИК №721",
     "tikTvd": "256200067765",
     "tikName": "Матвеевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -8591,8 +10076,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "456401466648",
+    "uikName": "УИК №550",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 767,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -8643,8 +10137,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "456401466649",
+    "uikName": "УИК №551",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 269,
@@ -8695,8 +10198,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "456401466650",
+    "uikName": "УИК №552",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 48,
       "Число бюллетеней, полученных участковыми комиссиями": 46,
@@ -8747,8 +10259,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "456401466651",
+    "uikName": "УИК №553",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -8799,8 +10320,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "456401466652",
+    "uikName": "УИК №554",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 576,
       "Число бюллетеней, полученных участковыми комиссиями": 583,
@@ -8851,8 +10381,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "456401466653",
+    "uikName": "УИК №555",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 63,
@@ -8903,8 +10442,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "456401466654",
+    "uikName": "УИК №556",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 113,
@@ -8955,8 +10503,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "456401466655",
+    "uikName": "УИК №557",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -9007,8 +10564,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "456401466656",
+    "uikName": "УИК №558",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 557,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -9059,8 +10625,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "456401466657",
+    "uikName": "УИК №559",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -9111,8 +10686,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "456401466658",
+    "uikName": "УИК №560",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 303,
@@ -9163,8 +10747,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "456401466659",
+    "uikName": "УИК №561",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 272,
@@ -9215,8 +10808,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "456401466660",
+    "uikName": "УИК №562",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 196,
       "Число бюллетеней, полученных участковыми комиссиями": 211,
@@ -9267,8 +10869,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "456401466661",
+    "uikName": "УИК №563",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 253,
@@ -9319,8 +10930,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "456401466662",
+    "uikName": "УИК №564",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1286,
       "Число бюллетеней, полученных участковыми комиссиями": 1255,
@@ -9371,8 +10991,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "456401466663",
+    "uikName": "УИК №565",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 321,
@@ -9423,8 +11052,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "456401466664",
+    "uikName": "УИК №566",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 509,
       "Число бюллетеней, полученных участковыми комиссиями": 492,
@@ -9475,8 +11113,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "456401466665",
+    "uikName": "УИК №567",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -9527,8 +11174,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "456401466666",
+    "uikName": "УИК №568",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -9579,8 +11235,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "456401466667",
+    "uikName": "УИК №569",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 389,
@@ -9631,8 +11296,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "456401466668",
+    "uikName": "УИК №570",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -9683,8 +11357,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "456401466669",
+    "uikName": "УИК №571",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -9735,8 +11418,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "456401466670",
+    "uikName": "УИК №572",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 359,
@@ -9787,8 +11479,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "456401466671",
+    "uikName": "УИК №573",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -9839,8 +11540,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "456401466672",
+    "uikName": "УИК №574",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 442,
       "Число бюллетеней, полученных участковыми комиссиями": 444,
@@ -9891,8 +11601,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "456401466673",
+    "uikName": "УИК №575",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 764,
       "Число бюллетеней, полученных участковыми комиссиями": 762,
@@ -9943,8 +11662,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "456401466674",
+    "uikName": "УИК №576",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -9995,8 +11723,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "456401466675",
+    "uikName": "УИК №577",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 301,
@@ -10047,8 +11784,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "456401466676",
+    "uikName": "УИК №578",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 574,
       "Число бюллетеней, полученных участковыми комиссиями": 586,
@@ -10099,8 +11845,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "456401466677",
+    "uikName": "УИК №579",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 267,
@@ -10151,8 +11906,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "456401466678",
+    "uikName": "УИК №580",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -10203,8 +11967,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "456401466679",
+    "uikName": "УИК №581",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 599,
       "Число бюллетеней, полученных участковыми комиссиями": 583,
@@ -10255,8 +12028,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "456401466680",
+    "uikName": "УИК №582",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 268,
@@ -10307,8 +12089,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "456401466681",
+    "uikName": "УИК №583",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 537,
       "Число бюллетеней, полученных участковыми комиссиями": 529,
@@ -10359,8 +12150,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "456401466682",
+    "uikName": "УИК №584",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -10411,8 +12211,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "456401466683",
+    "uikName": "УИК №585",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 148,
@@ -10463,8 +12272,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "456401466684",
+    "uikName": "УИК №586",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 332,
@@ -10515,8 +12333,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "456401466685",
+    "uikName": "УИК №587",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 844,
       "Число бюллетеней, полученных участковыми комиссиями": 834,
@@ -10567,8 +12394,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "456401466686",
+    "uikName": "УИК №588",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 666,
       "Число бюллетеней, полученных участковыми комиссиями": 655,
@@ -10619,8 +12455,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "456401466687",
+    "uikName": "УИК №589",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1432,
       "Число бюллетеней, полученных участковыми комиссиями": 1378,
@@ -10671,8 +12516,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "456401466688",
+    "uikName": "УИК №590",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1185,
       "Число бюллетеней, полученных участковыми комиссиями": 1188,
@@ -10723,8 +12577,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "456401466689",
+    "uikName": "УИК №591",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -10775,8 +12638,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "456401466690",
+    "uikName": "УИК №592",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 286,
@@ -10827,8 +12699,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "456401466691",
+    "uikName": "УИК №593",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -10879,8 +12760,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "456401466692",
+    "uikName": "УИК №594",
     "tikTvd": "256200067767",
     "tikName": "Красногвардейская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 426,
       "Число бюллетеней, полученных участковыми комиссиями": 432,
@@ -10931,8 +12821,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "456401266703",
+    "uikName": "УИК №483",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1722,
       "Число бюллетеней, полученных участковыми комиссиями": 1667,
@@ -10983,8 +12882,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "456401266704",
+    "uikName": "УИК №484",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1969,
       "Число бюллетеней, полученных участковыми комиссиями": 1949,
@@ -11035,8 +12943,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "456401266705",
+    "uikName": "УИК №485",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2180,
       "Число бюллетеней, полученных участковыми комиссиями": 2223,
@@ -11087,8 +13004,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "456401266706",
+    "uikName": "УИК №486",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -11139,8 +13065,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "456401266707",
+    "uikName": "УИК №487",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 700,
       "Число бюллетеней, полученных участковыми комиссиями": 701,
@@ -11191,8 +13126,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "456401266708",
+    "uikName": "УИК №488",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 433,
       "Число бюллетеней, полученных участковыми комиссиями": 444,
@@ -11243,8 +13187,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "456401266709",
+    "uikName": "УИК №489",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1314,
       "Число бюллетеней, полученных участковыми комиссиями": 1835,
@@ -11295,8 +13248,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "456401266710",
+    "uikName": "УИК №490",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1314,
       "Число бюллетеней, полученных участковыми комиссиями": 1291,
@@ -11347,8 +13309,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "456401266711",
+    "uikName": "УИК №491",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 908,
       "Число бюллетеней, полученных участковыми комиссиями": 892,
@@ -11399,8 +13370,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "456401266712",
+    "uikName": "УИК №492",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -11451,8 +13431,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "456401266713",
+    "uikName": "УИК №493",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11503,8 +13492,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "456401266714",
+    "uikName": "УИК №494",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 66,
@@ -11555,8 +13553,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "456401266715",
+    "uikName": "УИК №495",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1018,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -11607,8 +13614,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "456401266716",
+    "uikName": "УИК №496",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 953,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11659,8 +13675,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "456401266717",
+    "uikName": "УИК №497",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -11711,8 +13736,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "456401266718",
+    "uikName": "УИК №498",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11763,8 +13797,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "456401266719",
+    "uikName": "УИК №499",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 63,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -11815,8 +13858,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "456401266720",
+    "uikName": "УИК №500",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -11867,8 +13919,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "456401266721",
+    "uikName": "УИК №501",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -11919,8 +13980,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "456401266722",
+    "uikName": "УИК №502",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1010,
       "Число бюллетеней, полученных участковыми комиссиями": 1012,
@@ -11971,8 +14041,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "456401266723",
+    "uikName": "УИК №503",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -12023,8 +14102,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "456401266724",
+    "uikName": "УИК №504",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -12075,8 +14163,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "456401266725",
+    "uikName": "УИК №505",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -12127,8 +14224,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "456401266726",
+    "uikName": "УИК №506",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 716,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -12179,8 +14285,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "456401266727",
+    "uikName": "УИК №507",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 694,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -12231,8 +14346,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "456401266728",
+    "uikName": "УИК №508",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 807,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -12283,8 +14407,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "456401266729",
+    "uikName": "УИК №509",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 575,
@@ -12335,8 +14468,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "456401266730",
+    "uikName": "УИК №510",
     "tikTvd": "256200067768",
     "tikName": "Илекская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1740,
       "Число бюллетеней, полученных участковыми комиссиями": 1712,
@@ -12387,8 +14529,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "456401066654",
+    "uikName": "УИК №430",
     "tikTvd": "256200067769",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 539,
       "Число бюллетеней, полученных участковыми комиссиями": 558,
@@ -12439,8 +14590,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "456401066655",
+    "uikName": "УИК №431",
     "tikTvd": "256200067769",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -12491,8 +14651,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "456401066656",
+    "uikName": "УИК №432",
     "tikTvd": "256200067769",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 101,
@@ -12543,8 +14712,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "456401066657",
+    "uikName": "УИК №433",
     "tikTvd": "256200067769",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 609,
       "Число бюллетеней, полученных участковыми комиссиями": 631,
@@ -12595,8 +14773,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "456401066658",
+    "uikName": "УИК №434",
     "tikTvd": "256200067769",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1413,
       "Число бюллетеней, полученных участковыми комиссиями": 1413,
@@ -12647,8 +14834,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "456401066659",
+    "uikName": "УИК №435",
     "tikTvd": "256200067769",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1632,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -12699,8 +14895,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "456401066660",
+    "uikName": "УИК №436",
     "tikTvd": "256200067769",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2066,
       "Число бюллетеней, полученных участковыми комиссиями": 2133,
@@ -12751,8 +14956,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "456401066661",
+    "uikName": "УИК №437",
     "tikTvd": "256200067769",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -12803,8 +15017,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "456401066662",
+    "uikName": "УИК №438",
     "tikTvd": "256200067769",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -12855,8 +15078,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "456401066663",
+    "uikName": "УИК №439",
     "tikTvd": "256200067769",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 477,
@@ -12907,8 +15139,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "456401066664",
+    "uikName": "УИК №440",
     "tikTvd": "256200067769",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -12959,8 +15200,17 @@ export const duma_2003_uik_428_region_56_part_003 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "456401066665",
+    "uikName": "УИК №441",
     "tikTvd": "256200067769",
     "tikName": "Грачевская",
+    "regionCode": "56",
+    "regionTvd": "100100095743",
+    "regionName": "Оренбургская область",
+    "district": {
+      "districtNumber": 131,
+      "oikTvd": "100100095744",
+      "oikName": "Бузулукский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 333,

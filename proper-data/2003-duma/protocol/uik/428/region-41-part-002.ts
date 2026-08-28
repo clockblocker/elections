@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "441400466714",
+    "uikName": "УИК №114",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -63,8 +72,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "441400466715",
+    "uikName": "УИК №115",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2566,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -115,8 +133,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "441400466716",
+    "uikName": "УИК №116",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1509,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -167,8 +194,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "441400466717",
+    "uikName": "УИК №117",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2353,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -219,8 +255,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "441400466718",
+    "uikName": "УИК №118",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2837,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -271,8 +316,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "441400466719",
+    "uikName": "УИК №119",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1804,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -323,8 +377,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "441400466720",
+    "uikName": "УИК №120",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2331,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -375,8 +438,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "441400466721",
+    "uikName": "УИК №121",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1961,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -427,8 +499,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "441400466722",
+    "uikName": "УИК №122",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -479,8 +560,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "441400466723",
+    "uikName": "УИК №123",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3008,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -531,8 +621,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "441400466724",
+    "uikName": "УИК №124",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1382,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -583,8 +682,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "441400466725",
+    "uikName": "УИК №125",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 743,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -635,8 +743,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "441400466726",
+    "uikName": "УИК №126",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 478,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -687,8 +804,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "441400466727",
+    "uikName": "УИК №127",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 857,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -739,8 +865,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "441400466728",
+    "uikName": "УИК №128",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1060,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -791,8 +926,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "441400466729",
+    "uikName": "УИК №129",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 833,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -843,8 +987,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "441400466730",
+    "uikName": "УИК №130",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2286,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -895,8 +1048,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "441400466731",
+    "uikName": "УИК №131",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 736,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -947,8 +1109,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "441400466732",
+    "uikName": "УИК №132",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1620,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -999,8 +1170,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "441400466733",
+    "uikName": "УИК №133",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -1051,8 +1231,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "441400466734",
+    "uikName": "УИК №134",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 645,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1103,8 +1292,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "441400466735",
+    "uikName": "УИК №135",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1155,8 +1353,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "441400466736",
+    "uikName": "УИК №136",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1207,8 +1414,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "441400466737",
+    "uikName": "УИК №137",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 915,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1259,8 +1475,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "441400466738",
+    "uikName": "УИК №138",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -1311,8 +1536,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "441400466739",
+    "uikName": "УИК №139",
     "tikTvd": "241200066968",
     "tikName": "Елизовская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -1363,8 +1597,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "441400366756",
+    "uikName": "УИК №90",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1622,
       "Число бюллетеней, полученных участковыми комиссиями": 1642,
@@ -1415,8 +1658,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "441400366757",
+    "uikName": "УИК №91",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1094,
       "Число бюллетеней, полученных участковыми комиссиями": 966,
@@ -1467,8 +1719,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "441400366758",
+    "uikName": "УИК №92",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1653,
       "Число бюллетеней, полученных участковыми комиссиями": 1627,
@@ -1519,8 +1780,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "441400366759",
+    "uikName": "УИК №93",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2002,
       "Число бюллетеней, полученных участковыми комиссиями": 2001,
@@ -1571,8 +1841,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "441400366760",
+    "uikName": "УИК №94",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2035,
       "Число бюллетеней, полученных участковыми комиссиями": 2032,
@@ -1623,8 +1902,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "441400366761",
+    "uikName": "УИК №95",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1996,
       "Число бюллетеней, полученных участковыми комиссиями": 1976,
@@ -1675,8 +1963,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "441400366762",
+    "uikName": "УИК №96",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1806,
       "Число бюллетеней, полученных участковыми комиссиями": 1805,
@@ -1727,8 +2024,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "441400366763",
+    "uikName": "УИК №97",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1060,
       "Число бюллетеней, полученных участковыми комиссиями": 1055,
@@ -1779,8 +2085,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "441400366764",
+    "uikName": "УИК №98",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 321,
@@ -1831,8 +2146,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "441400366765",
+    "uikName": "УИК №99",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 587,
@@ -1883,8 +2207,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "441400366766",
+    "uikName": "УИК №100",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1724,
       "Число бюллетеней, полученных участковыми комиссиями": 1715,
@@ -1935,8 +2268,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "441400366767",
+    "uikName": "УИК №101",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1762,
       "Число бюллетеней, полученных участковыми комиссиями": 1438,
@@ -1987,8 +2329,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "441400366768",
+    "uikName": "УИК №102",
     "tikTvd": "241200066969",
     "tikName": "Вилючинская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1917,
       "Число бюллетеней, полученных участковыми комиссиями": 1937,
@@ -2039,8 +2390,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "441400666674",
+    "uikName": "УИК  103",
     "tikTvd": "241200066970",
     "tikName": "Вулканная поселковая    ",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1334,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -2091,8 +2451,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "441400166668",
+    "uikName": "УИК №173",
     "tikTvd": "241200066971",
     "tikName": "Алеутская ",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -2143,8 +2512,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "441400266628",
+    "uikName": "УИК №158",
     "tikTvd": "241200066972",
     "tikName": "Быстринская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1641,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2195,8 +2573,17 @@ export const duma_2003_uik_428_region_41_part_002 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "441400266629",
+    "uikName": "УИК №159",
     "tikTvd": "241200066972",
     "tikName": "Быстринская",
+    "regionCode": "41",
+    "regionTvd": "100100095670",
+    "regionName": "Камчатская область",
+    "district": {
+      "districtNumber": 88,
+      "oikTvd": "100100095671",
+      "oikName": "Камчатский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 420,

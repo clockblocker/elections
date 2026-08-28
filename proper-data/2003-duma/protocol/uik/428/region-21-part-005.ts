@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 956,
     "uikTvd": "421402070564",
+    "uikName": "УИК №956",
     "tikTvd": "321300266872",
     "tikName": "Чебоксары, Московская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2297,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 957,
     "uikTvd": "421402070565",
+    "uikName": "УИК №957",
     "tikTvd": "321300266872",
     "tikName": "Чебоксары, Московская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 816,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 958,
     "uikTvd": "421402070566",
+    "uikName": "УИК №958",
     "tikTvd": "321300266872",
     "tikName": "Чебоксары, Московская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 959,
     "uikTvd": "421402070567",
+    "uikName": "УИК №959",
     "tikTvd": "321300266872",
     "tikName": "Чебоксары, Московская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 960,
     "uikTvd": "421402070568",
+    "uikName": "УИК №960",
     "tikTvd": "321300266872",
     "tikName": "Чебоксары, Московская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 961,
     "uikTvd": "421402070569",
+    "uikName": "УИК №961",
     "tikTvd": "321300266872",
     "tikName": "Чебоксары, Московская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 962,
     "uikTvd": "421402070578",
+    "uikName": "УИК №962",
     "tikTvd": "321300266872",
     "tikName": "Чебоксары, Московская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 963,
     "uikTvd": "421402070579",
+    "uikName": "УИК №963",
     "tikTvd": "321300266872",
     "tikName": "Чебоксары, Московская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 964,
     "uikTvd": "421402070580",
+    "uikName": "УИК №964",
     "tikTvd": "321300266872",
     "tikName": "Чебоксары, Московская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 965,
     "uikTvd": "421402070581",
+    "uikName": "УИК №965",
     "tikTvd": "321300266872",
     "tikName": "Чебоксары, Московская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 966,
     "uikTvd": "421402070582",
+    "uikName": "УИК №966",
     "tikTvd": "321300266872",
     "tikName": "Чебоксары, Московская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 967,
     "uikTvd": "421402070583",
+    "uikName": "УИК №967",
     "tikTvd": "321300266872",
     "tikName": "Чебоксары, Московская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1091,
     "uikTvd": "421401766808",
+    "uikName": "УИК №1091",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1002,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1092,
     "uikTvd": "421401766809",
+    "uikName": "УИК №1092",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1093,
     "uikTvd": "421401766810",
+    "uikName": "УИК №1093",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1094,
     "uikTvd": "421401766811",
+    "uikName": "УИК №1094",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 721,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1095,
     "uikTvd": "421401766812",
+    "uikName": "УИК №1095",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1096,
     "uikTvd": "421401766813",
+    "uikName": "УИК №1096",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1097,
     "uikTvd": "421401766814",
+    "uikName": "УИК №1097",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1098,
     "uikTvd": "421401766815",
+    "uikName": "УИК №1098",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 766,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1099,
     "uikTvd": "421401766816",
+    "uikName": "УИК №1099",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 580,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1100,
     "uikTvd": "421401766817",
+    "uikName": "УИК №1100",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 869,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1101,
     "uikTvd": "421401766818",
+    "uikName": "УИК №1101",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1102,
     "uikTvd": "421401766819",
+    "uikName": "УИК №1102",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1103,
     "uikTvd": "421401766820",
+    "uikName": "УИК №1103",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 457,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1104,
     "uikTvd": "421401766821",
+    "uikName": "УИК №1104",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1105,
     "uikTvd": "421401766822",
+    "uikName": "УИК №1105",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1106,
     "uikTvd": "421401766823",
+    "uikName": "УИК №1106",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1107,
     "uikTvd": "421401766824",
+    "uikName": "УИК №1107",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2665,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1108,
     "uikTvd": "421401766825",
+    "uikName": "УИК №1108",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1109,
     "uikTvd": "421401766826",
+    "uikName": "УИК №1109",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1110,
     "uikTvd": "421401766827",
+    "uikName": "УИК №1110",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1111,
     "uikTvd": "421401766828",
+    "uikName": "УИК №1111",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1112,
     "uikTvd": "421401766829",
+    "uikName": "УИК №1112",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2338,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1113,
     "uikTvd": "421401766830",
+    "uikName": "УИК №1113",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2188,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1114,
     "uikTvd": "421401766831",
+    "uikName": "УИК №1114",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1789,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1115,
     "uikTvd": "421401766832",
+    "uikName": "УИК №1115",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1116,
     "uikTvd": "421401766833",
+    "uikName": "УИК №1116",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 768,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1117,
     "uikTvd": "421401766834",
+    "uikName": "УИК №1117",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 433,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1118,
     "uikTvd": "421401766835",
+    "uikName": "УИК №1118",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1021,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1119,
     "uikTvd": "421401766836",
+    "uikName": "УИК №1119",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 711,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1120,
     "uikTvd": "421401766837",
+    "uikName": "УИК №1120",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1441,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1121,
     "uikTvd": "421401766838",
+    "uikName": "УИК №1121",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 476,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1122,
     "uikTvd": "421401766839",
+    "uikName": "УИК №1122",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1123,
     "uikTvd": "421401766840",
+    "uikName": "УИК №1123",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1124,
     "uikTvd": "421401766841",
+    "uikName": "УИК №1124",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 494,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1125,
     "uikTvd": "421401766842",
+    "uikName": "УИК №1125",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 544,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1126,
     "uikTvd": "421401766843",
+    "uikName": "УИК №1126",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 976,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1127,
     "uikTvd": "421401766844",
+    "uikName": "УИК №1127",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 757,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1128,
     "uikTvd": "421401766845",
+    "uikName": "УИК №1128",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 549,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1129,
     "uikTvd": "421401766846",
+    "uikName": "УИК №1129",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1130,
     "uikTvd": "421401766847",
+    "uikName": "УИК №1130",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1131,
     "uikTvd": "421401766848",
+    "uikName": "УИК №1131",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 578,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1132,
     "uikTvd": "421401766849",
+    "uikName": "УИК №1132",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1277,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1133,
     "uikTvd": "421401766850",
+    "uikName": "УИК №1133",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -2706,8 +3201,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1134,
     "uikTvd": "421401766851",
+    "uikName": "УИК №1134",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1903,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -2755,8 +3259,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1135,
     "uikTvd": "421401766852",
+    "uikName": "УИК №1135",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -2804,8 +3317,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1136,
     "uikTvd": "421401766853",
+    "uikName": "УИК №1136",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 914,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -2853,8 +3375,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1137,
     "uikTvd": "421401766854",
+    "uikName": "УИК №1137",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -2902,8 +3433,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1138,
     "uikTvd": "421401766855",
+    "uikName": "УИК №1138",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1080,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2951,8 +3491,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1139,
     "uikTvd": "421401766856",
+    "uikName": "УИК №1139",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -3000,8 +3549,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1140,
     "uikTvd": "421401766857",
+    "uikName": "УИК №1140",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -3049,8 +3607,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1141,
     "uikTvd": "421401766858",
+    "uikName": "УИК №1141",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1382,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3098,8 +3665,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1142,
     "uikTvd": "421401766859",
+    "uikName": "УИК №1142",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -3147,8 +3723,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1143,
     "uikTvd": "421401766860",
+    "uikName": "УИК №1143",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1030,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3196,8 +3781,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1144,
     "uikTvd": "421401766861",
+    "uikName": "УИК №1144",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 883,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -3245,8 +3839,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1145,
     "uikTvd": "421401766862",
+    "uikName": "УИК №1145",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 908,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -3294,8 +3897,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1146,
     "uikTvd": "421401766863",
+    "uikName": "УИК №1146",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 416,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -3343,8 +3955,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1046,
     "uikTvd": "421401170612",
+    "uikName": "УИК №1046",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 350,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -3392,8 +4013,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1047,
     "uikTvd": "421401170613",
+    "uikName": "УИК №1047",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 759,
       "Число бюллетеней, полученных участковыми комиссиями": 734,
@@ -3441,8 +4071,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1048,
     "uikTvd": "421401170614",
+    "uikName": "УИК №1048",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1025,
       "Число бюллетеней, полученных участковыми комиссиями": 977,
@@ -3490,8 +4129,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1049,
     "uikTvd": "421401170615",
+    "uikName": "УИК №1049",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 945,
       "Число бюллетеней, полученных участковыми комиссиями": 912,
@@ -3539,8 +4187,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1050,
     "uikTvd": "421401170616",
+    "uikName": "УИК №1050",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 719,
       "Число бюллетеней, полученных участковыми комиссиями": 689,
@@ -3588,8 +4245,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1051,
     "uikTvd": "421401170617",
+    "uikName": "УИК №1051",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1072,
@@ -3637,8 +4303,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1052,
     "uikTvd": "421401170618",
+    "uikName": "УИК №1052",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1108,
       "Число бюллетеней, полученных участковыми комиссиями": 1078,
@@ -3686,8 +4361,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1053,
     "uikTvd": "421401170619",
+    "uikName": "УИК №1053",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 739,
       "Число бюллетеней, полученных участковыми комиссиями": 694,
@@ -3735,8 +4419,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1054,
     "uikTvd": "421401170620",
+    "uikName": "УИК №1054",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 723,
       "Число бюллетеней, полученных участковыми комиссиями": 726,
@@ -3784,8 +4477,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1055,
     "uikTvd": "421401170621",
+    "uikName": "УИК №1055",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 228,
@@ -3833,8 +4535,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1056,
     "uikTvd": "421401170622",
+    "uikName": "УИК №1056",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -3882,8 +4593,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1057,
     "uikTvd": "421401170623",
+    "uikName": "УИК №1057",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -3931,8 +4651,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1058,
     "uikTvd": "421401170624",
+    "uikName": "УИК №1058",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 506,
@@ -3980,8 +4709,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1059,
     "uikTvd": "421401170625",
+    "uikName": "УИК №1059",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 418,
@@ -4029,8 +4767,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1060,
     "uikTvd": "421401170626",
+    "uikName": "УИК №1060",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 545,
       "Число бюллетеней, полученных участковыми комиссиями": 538,
@@ -4078,8 +4825,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1061,
     "uikTvd": "421401170627",
+    "uikName": "УИК №1061",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -4127,8 +4883,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1062,
     "uikTvd": "421401170628",
+    "uikName": "УИК №1062",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 416,
@@ -4176,8 +4941,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1063,
     "uikTvd": "421401170629",
+    "uikName": "УИК №1063",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -4225,8 +4999,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1064,
     "uikTvd": "421401170630",
+    "uikName": "УИК №1064",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 326,
@@ -4274,8 +5057,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1065,
     "uikTvd": "421401170631",
+    "uikName": "УИК №1065",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -4323,8 +5115,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1066,
     "uikTvd": "421401170632",
+    "uikName": "УИК №1066",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 984,
       "Число бюллетеней, полученных участковыми комиссиями": 965,
@@ -4372,8 +5173,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1067,
     "uikTvd": "421401170633",
+    "uikName": "УИК №1067",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -4421,8 +5231,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1068,
     "uikTvd": "421401170634",
+    "uikName": "УИК №1068",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -4470,8 +5289,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1069,
     "uikTvd": "421401170635",
+    "uikName": "УИК №1069",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 828,
       "Число бюллетеней, полученных участковыми комиссиями": 823,
@@ -4519,8 +5347,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1070,
     "uikTvd": "421401170636",
+    "uikName": "УИК №1070",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 259,
@@ -4568,8 +5405,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1071,
     "uikTvd": "421401170637",
+    "uikName": "УИК №1071",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 508,
@@ -4617,8 +5463,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1072,
     "uikTvd": "421401170638",
+    "uikName": "УИК №1072",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 578,
       "Число бюллетеней, полученных участковыми комиссиями": 546,
@@ -4666,8 +5521,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1073,
     "uikTvd": "421401170639",
+    "uikName": "УИК №1073",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -4715,8 +5579,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1074,
     "uikTvd": "421401170640",
+    "uikName": "УИК №1074",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 271,
@@ -4764,8 +5637,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1075,
     "uikTvd": "421401170641",
+    "uikName": "УИК №1075",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -4813,8 +5695,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1076,
     "uikTvd": "421401170642",
+    "uikName": "УИК №1076",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -4862,8 +5753,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1077,
     "uikTvd": "421401170643",
+    "uikName": "УИК №1077",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -4911,8 +5811,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1078,
     "uikTvd": "421401170644",
+    "uikName": "УИК №1078",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -4960,8 +5869,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1079,
     "uikTvd": "421401170645",
+    "uikName": "УИК №1079",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 293,
@@ -5009,8 +5927,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1080,
     "uikTvd": "421401170646",
+    "uikName": "УИК №1080",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 233,
@@ -5058,8 +5985,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1081,
     "uikTvd": "421401170647",
+    "uikName": "УИК №1081",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -5107,8 +6043,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1082,
     "uikTvd": "421401170648",
+    "uikName": "УИК №1082",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -5156,8 +6101,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1083,
     "uikTvd": "421401170649",
+    "uikName": "УИК №1083",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -5205,8 +6159,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1084,
     "uikTvd": "421401170650",
+    "uikName": "УИК №1084",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 706,
       "Число бюллетеней, полученных участковыми комиссиями": 692,
@@ -5254,8 +6217,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1085,
     "uikTvd": "421401170651",
+    "uikName": "УИК №1085",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 337,
@@ -5303,8 +6275,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1086,
     "uikTvd": "421401170652",
+    "uikName": "УИК №1086",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 457,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5352,8 +6333,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1087,
     "uikTvd": "421401170653",
+    "uikName": "УИК №1087",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -5401,8 +6391,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1088,
     "uikTvd": "421401170654",
+    "uikName": "УИК №1088",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 299,
@@ -5450,8 +6449,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1089,
     "uikTvd": "421401170655",
+    "uikName": "УИК №1089",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -5499,8 +6507,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1090,
     "uikTvd": "421401170656",
+    "uikName": "УИК №1090",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -5548,8 +6565,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "421400770451",
+    "uikName": "УИК №1013",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1004,
       "Число бюллетеней, полученных участковыми комиссиями": 907,
@@ -5597,8 +6623,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "421400770452",
+    "uikName": "УИК №1014",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1269,
       "Число бюллетеней, полученных участковыми комиссиями": 1161,
@@ -5646,8 +6681,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "421400770453",
+    "uikName": "УИК №1015",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1420,
       "Число бюллетеней, полученных участковыми комиссиями": 1279,
@@ -5695,8 +6739,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "421400770454",
+    "uikName": "УИК №1016",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1467,
       "Число бюллетеней, полученных участковыми комиссиями": 1319,
@@ -5744,8 +6797,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "421400770455",
+    "uikName": "УИК №1017",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 782,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -5793,8 +6855,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "421400770456",
+    "uikName": "УИК №1018",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 826,
       "Число бюллетеней, полученных участковыми комиссиями": 751,
@@ -5842,8 +6913,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "421400770457",
+    "uikName": "УИК №1019",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1608,
       "Число бюллетеней, полученных участковыми комиссиями": 1481,
@@ -5891,8 +6971,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "421400770458",
+    "uikName": "УИК №1020",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 344,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -5940,8 +7029,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1021,
     "uikTvd": "421400770459",
+    "uikName": "УИК №1021",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 463,
@@ -5989,8 +7087,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1022,
     "uikTvd": "421400770460",
+    "uikName": "УИК №1022",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -6038,8 +7145,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1023,
     "uikTvd": "421400770461",
+    "uikName": "УИК №1023",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -6087,8 +7203,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1024,
     "uikTvd": "421400770462",
+    "uikName": "УИК №1024",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -6136,8 +7261,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1025,
     "uikTvd": "421400770463",
+    "uikName": "УИК №1025",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 808,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -6185,8 +7319,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1026,
     "uikTvd": "421400770464",
+    "uikName": "УИК №1026",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 274,
@@ -6234,8 +7377,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1027,
     "uikTvd": "421400770465",
+    "uikName": "УИК №1027",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 451,
       "Число бюллетеней, полученных участковыми комиссиями": 421,
@@ -6283,8 +7435,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1028,
     "uikTvd": "421400770466",
+    "uikName": "УИК №1028",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -6332,8 +7493,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1029,
     "uikTvd": "421400770467",
+    "uikName": "УИК №1029",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -6381,8 +7551,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1030,
     "uikTvd": "421400770468",
+    "uikName": "УИК №1030",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 670,
       "Число бюллетеней, полученных участковыми комиссиями": 623,
@@ -6430,8 +7609,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1031,
     "uikTvd": "421400770469",
+    "uikName": "УИК №1031",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -6479,8 +7667,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1032,
     "uikTvd": "421400770470",
+    "uikName": "УИК №1032",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 536,
@@ -6528,8 +7725,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1033,
     "uikTvd": "421400770471",
+    "uikName": "УИК №1033",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 393,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -6577,8 +7783,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1034,
     "uikTvd": "421400770472",
+    "uikName": "УИК №1034",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -6626,8 +7841,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1035,
     "uikTvd": "421400770473",
+    "uikName": "УИК №1035",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -6675,8 +7899,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1036,
     "uikTvd": "421400770474",
+    "uikName": "УИК №1036",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 638,
       "Число бюллетеней, полученных участковыми комиссиями": 596,
@@ -6724,8 +7957,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1037,
     "uikTvd": "421400770475",
+    "uikName": "УИК №1037",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -6773,8 +8015,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1038,
     "uikTvd": "421400770476",
+    "uikName": "УИК №1038",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -6822,8 +8073,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1039,
     "uikTvd": "421400770477",
+    "uikName": "УИК №1039",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 850,
       "Число бюллетеней, полученных участковыми комиссиями": 785,
@@ -6871,8 +8131,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1040,
     "uikTvd": "421400770478",
+    "uikName": "УИК №1040",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 658,
       "Число бюллетеней, полученных участковыми комиссиями": 588,
@@ -6920,8 +8189,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1041,
     "uikTvd": "421400770479",
+    "uikName": "УИК №1041",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 229,
@@ -6969,8 +8247,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1042,
     "uikTvd": "421400770480",
+    "uikName": "УИК №1042",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -7018,8 +8305,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1043,
     "uikTvd": "421400770481",
+    "uikName": "УИК №1043",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 332,
@@ -7067,8 +8363,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1044,
     "uikTvd": "421400770482",
+    "uikName": "УИК №1044",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -7116,8 +8421,17 @@ export const duma_2003_uik_428_region_21_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1045,
     "uikTvd": "421400770483",
+    "uikName": "УИК №1045",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 150,

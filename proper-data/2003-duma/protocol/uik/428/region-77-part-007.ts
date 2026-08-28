@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1825,
     "uikTvd": "477412470572",
+    "uikName": "УИК №1825",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2653,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1826,
     "uikTvd": "477412470573",
+    "uikName": "УИК №1826",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2579,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1827,
     "uikTvd": "477412470574",
+    "uikName": "УИК №1827",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2318,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1828,
     "uikTvd": "477412470575",
+    "uikName": "УИК №1828",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2206,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1829,
     "uikTvd": "477412470576",
+    "uikName": "УИК №1829",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2347,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1830,
     "uikTvd": "477412470577",
+    "uikName": "УИК №1830",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1727,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1831,
     "uikTvd": "477412470578",
+    "uikName": "УИК №1831",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1985,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1832,
     "uikTvd": "477412470579",
+    "uikName": "УИК №1832",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1801,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1833,
     "uikTvd": "477412470580",
+    "uikName": "УИК №1833",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2633,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1834,
     "uikTvd": "477412470581",
+    "uikName": "УИК №1834",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2535,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1835,
     "uikTvd": "477412470582",
+    "uikName": "УИК №1835",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2569,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1836,
     "uikTvd": "477412470583",
+    "uikName": "УИК №1836",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2466,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1837,
     "uikTvd": "477412470584",
+    "uikName": "УИК №1837",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1795,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1838,
     "uikTvd": "477412470585",
+    "uikName": "УИК №1838",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2317,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1839,
     "uikTvd": "477412470586",
+    "uikName": "УИК №1839",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2183,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1840,
     "uikTvd": "477412470587",
+    "uikName": "УИК №1840",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2460,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1841,
     "uikTvd": "477412470588",
+    "uikName": "УИК №1841",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2308,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1842,
     "uikTvd": "477412470589",
+    "uikName": "УИК №1842",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2219,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1843,
     "uikTvd": "477412470590",
+    "uikName": "УИК №1843",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2206,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1844,
     "uikTvd": "477412470591",
+    "uikName": "УИК №1844",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2535,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1845,
     "uikTvd": "477412470592",
+    "uikName": "УИК №1845",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2646,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 3155,
     "uikTvd": "477412470596",
+    "uikName": "УИК №3155",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1846,
     "uikTvd": "477412570505",
+    "uikName": "УИК №1846",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2736,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1847,
     "uikTvd": "477412570506",
+    "uikName": "УИК №1847",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2719,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1848,
     "uikTvd": "477412570507",
+    "uikName": "УИК №1848",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2686,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1849,
     "uikTvd": "477412570508",
+    "uikName": "УИК №1849",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2741,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1850,
     "uikTvd": "477412570509",
+    "uikName": "УИК №1850",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1981,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1851,
     "uikTvd": "477412570510",
+    "uikName": "УИК №1851",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2135,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1852,
     "uikTvd": "477412570511",
+    "uikName": "УИК №1852",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2250,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1853,
     "uikTvd": "477412570512",
+    "uikName": "УИК №1853",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1955,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1854,
     "uikTvd": "477412570513",
+    "uikName": "УИК №1854",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2291,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1855,
     "uikTvd": "477412570514",
+    "uikName": "УИК №1855",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2401,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1856,
     "uikTvd": "477412570515",
+    "uikName": "УИК №1856",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2680,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1857,
     "uikTvd": "477412570516",
+    "uikName": "УИК №1857",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2586,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1858,
     "uikTvd": "477412570517",
+    "uikName": "УИК №1858",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2441,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1859,
     "uikTvd": "477412570518",
+    "uikName": "УИК №1859",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2666,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1860,
     "uikTvd": "477412570519",
+    "uikName": "УИК №1860",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2325,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1861,
     "uikTvd": "477412570520",
+    "uikName": "УИК №1861",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2209,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1862,
     "uikTvd": "477412570521",
+    "uikName": "УИК №1862",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2148,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1863,
     "uikTvd": "477412570522",
+    "uikName": "УИК №1863",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2492,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1864,
     "uikTvd": "477412570523",
+    "uikName": "УИК №1864",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2256,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1865,
     "uikTvd": "477412570524",
+    "uikName": "УИК №1865",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2256,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1866,
     "uikTvd": "477412570525",
+    "uikName": "УИК №1866",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2712,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1867,
     "uikTvd": "477412570526",
+    "uikName": "УИК №1867",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2665,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1868,
     "uikTvd": "477412570527",
+    "uikName": "УИК №1868",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2766,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1869,
     "uikTvd": "477412570528",
+    "uikName": "УИК №1869",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2829,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1870,
     "uikTvd": "477412570529",
+    "uikName": "УИК №1870",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2673,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1871,
     "uikTvd": "477412570530",
+    "uikName": "УИК №1871",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2426,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1872,
     "uikTvd": "477412570531",
+    "uikName": "УИК №1872",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2319,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1873,
     "uikTvd": "477412570532",
+    "uikName": "УИК №1873",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2488,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1874,
     "uikTvd": "477412570533",
+    "uikName": "УИК №1874",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2666,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1875,
     "uikTvd": "477412570534",
+    "uikName": "УИК №1875",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2620,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1876,
     "uikTvd": "477412570535",
+    "uikName": "УИК №1876",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2795,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1877,
     "uikTvd": "477412570536",
+    "uikName": "УИК №1877",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2417,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1878,
     "uikTvd": "477412570537",
+    "uikName": "УИК №1878",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2490,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1879,
     "uikTvd": "477412570538",
+    "uikName": "УИК №1879",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2386,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1880,
     "uikTvd": "477412570539",
+    "uikName": "УИК №1880",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1881,
     "uikTvd": "477412570540",
+    "uikName": "УИК №1881",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2816,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2737,8 +3259,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1882,
     "uikTvd": "477412870525",
+    "uikName": "УИК №1882",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2627,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2784,8 +3315,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1883,
     "uikTvd": "477412870526",
+    "uikName": "УИК №1883",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2793,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2831,8 +3371,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1884,
     "uikTvd": "477412870527",
+    "uikName": "УИК №1884",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2194,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2878,8 +3427,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1885,
     "uikTvd": "477412870528",
+    "uikName": "УИК №1885",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2757,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -2925,8 +3483,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1886,
     "uikTvd": "477412870529",
+    "uikName": "УИК №1886",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2657,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2972,8 +3539,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1887,
     "uikTvd": "477412870530",
+    "uikName": "УИК №1887",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1762,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1888,
     "uikTvd": "477412870531",
+    "uikName": "УИК №1888",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1866,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3066,8 +3651,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1889,
     "uikTvd": "477412870532",
+    "uikName": "УИК №1889",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2080,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3113,8 +3707,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1890,
     "uikTvd": "477412870533",
+    "uikName": "УИК №1890",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2304,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3160,8 +3763,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1891,
     "uikTvd": "477412870534",
+    "uikName": "УИК №1891",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2062,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3207,8 +3819,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1892,
     "uikTvd": "477412870535",
+    "uikName": "УИК №1892",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2631,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3254,8 +3875,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1893,
     "uikTvd": "477412870536",
+    "uikName": "УИК №1893",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2277,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3301,8 +3931,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1894,
     "uikTvd": "477412870537",
+    "uikName": "УИК №1894",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2734,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3348,8 +3987,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1895,
     "uikTvd": "477412870538",
+    "uikName": "УИК №1895",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2701,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3395,8 +4043,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1896,
     "uikTvd": "477412870539",
+    "uikName": "УИК №1896",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2740,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3442,8 +4099,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1897,
     "uikTvd": "477412870540",
+    "uikName": "УИК №1897",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2630,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3489,8 +4155,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1898,
     "uikTvd": "477412870541",
+    "uikName": "УИК №1898",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2391,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3536,8 +4211,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1899,
     "uikTvd": "477412870542",
+    "uikName": "УИК №1899",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1671,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3583,8 +4267,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1900,
     "uikTvd": "477412870543",
+    "uikName": "УИК №1900",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3630,8 +4323,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1901,
     "uikTvd": "477412870544",
+    "uikName": "УИК №1901",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2031,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3677,8 +4379,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1902,
     "uikTvd": "477412870545",
+    "uikName": "УИК №1902",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1863,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3724,8 +4435,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1903,
     "uikTvd": "477412870546",
+    "uikName": "УИК №1903",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2119,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3771,8 +4491,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1904,
     "uikTvd": "477412870547",
+    "uikName": "УИК №1904",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2039,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3818,8 +4547,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1905,
     "uikTvd": "477412870548",
+    "uikName": "УИК №1905",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2383,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3865,8 +4603,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1906,
     "uikTvd": "477412870549",
+    "uikName": "УИК №1906",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3912,8 +4659,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1907,
     "uikTvd": "477412870550",
+    "uikName": "УИК №1907",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3959,8 +4715,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1908,
     "uikTvd": "477412870551",
+    "uikName": "УИК №1908",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1601,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4006,8 +4771,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1909,
     "uikTvd": "477412870552",
+    "uikName": "УИК №1909",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1985,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4053,8 +4827,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1910,
     "uikTvd": "477412870553",
+    "uikName": "УИК №1910",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2009,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4100,8 +4883,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1911,
     "uikTvd": "477412870554",
+    "uikName": "УИК №1911",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2633,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4147,8 +4939,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1912,
     "uikTvd": "477412870555",
+    "uikName": "УИК №1912",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1971,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4194,8 +4995,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1913,
     "uikTvd": "477412870556",
+    "uikName": "УИК №1913",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2594,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4241,8 +5051,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1914,
     "uikTvd": "477412870557",
+    "uikName": "УИК №1914",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2280,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4288,8 +5107,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 3156,
     "uikTvd": "477412870562",
+    "uikName": "УИК №3156",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4335,8 +5163,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 3157,
     "uikTvd": "477412870563",
+    "uikName": "УИК №3157",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 197,
+      "oikTvd": "100100095696",
+      "oikName": "Орехово-Борисовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -4382,8 +5219,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "477400270660",
+    "uikName": "УИК №876",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2631,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4429,8 +5275,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "477400270661",
+    "uikName": "УИК №877",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4476,8 +5331,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "477400270662",
+    "uikName": "УИК №878",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2506,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4523,8 +5387,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "477400270663",
+    "uikName": "УИК №879",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2564,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4570,8 +5443,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "477400270664",
+    "uikName": "УИК №880",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2619,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4617,8 +5499,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "477400270665",
+    "uikName": "УИК №881",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2112,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4664,8 +5555,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "477400270666",
+    "uikName": "УИК №882",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2379,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4711,8 +5611,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "477400270667",
+    "uikName": "УИК №883",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2026,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4758,8 +5667,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "477400270668",
+    "uikName": "УИК №884",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2612,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4805,8 +5723,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "477400270669",
+    "uikName": "УИК №885",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2477,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4852,8 +5779,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "477400270670",
+    "uikName": "УИК №886",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2450,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4899,8 +5835,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "477400270671",
+    "uikName": "УИК №887",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2617,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4946,8 +5891,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "477400270672",
+    "uikName": "УИК №888",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2659,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4993,8 +5947,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "477400270673",
+    "uikName": "УИК №889",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2330,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5040,8 +6003,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "477400270674",
+    "uikName": "УИК №890",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2843,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5087,8 +6059,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "477400270675",
+    "uikName": "УИК №891",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2495,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5134,8 +6115,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "477400270676",
+    "uikName": "УИК №892",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2492,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5181,8 +6171,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "477400270677",
+    "uikName": "УИК №893",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2285,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5228,8 +6227,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "477400270678",
+    "uikName": "УИК №894",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2024,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5275,8 +6283,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "477400270679",
+    "uikName": "УИК №895",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5322,8 +6339,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "477400270680",
+    "uikName": "УИК №896",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5369,8 +6395,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "477400270681",
+    "uikName": "УИК №897",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5416,8 +6451,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "477400270682",
+    "uikName": "УИК №898",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2162,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5463,8 +6507,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "477400270683",
+    "uikName": "УИК №899",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2167,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5510,8 +6563,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "477400270684",
+    "uikName": "УИК №900",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1671,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5557,8 +6619,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "477400270685",
+    "uikName": "УИК №901",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5604,8 +6675,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "477400270686",
+    "uikName": "УИК №902",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2628,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5651,8 +6731,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "477400270687",
+    "uikName": "УИК №903",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2746,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5698,8 +6787,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "477400270688",
+    "uikName": "УИК №904",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2438,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5745,8 +6843,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "477400270689",
+    "uikName": "УИК №905",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2664,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5792,8 +6899,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "477400270690",
+    "uikName": "УИК №906",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2633,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5839,8 +6955,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "477400270691",
+    "uikName": "УИК №907",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1905,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5886,8 +7011,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "477400270692",
+    "uikName": "УИК №908",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1995,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5933,8 +7067,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "477400270693",
+    "uikName": "УИК №909",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2152,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5980,8 +7123,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 3080,
     "uikTvd": "477400270694",
+    "uikName": "УИК №3080",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 983,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6027,8 +7179,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5013,
     "uikTvd": "477400272092",
+    "uikName": "УИК №5013",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6074,8 +7235,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5014,
     "uikTvd": "477400272093",
+    "uikName": "УИК №5014",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 23,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -6121,8 +7291,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5025,
     "uikTvd": "477400272094",
+    "uikName": "УИК №5025",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -6168,8 +7347,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5026,
     "uikTvd": "477400272095",
+    "uikName": "УИК №5026",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 8,
       "Число бюллетеней, полученных участковыми комиссиями": 15,
@@ -6215,8 +7403,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5027,
     "uikTvd": "477400272096",
+    "uikName": "УИК №5027",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -6262,8 +7459,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5126,
     "uikTvd": "477400272097",
+    "uikName": "УИК №5126",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6309,8 +7515,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5127,
     "uikTvd": "477400272098",
+    "uikName": "УИК №5127",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6356,8 +7571,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5192,
     "uikTvd": "477400272099",
+    "uikName": "УИК №5192",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -6403,8 +7627,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5194,
     "uikTvd": "477400272100",
+    "uikName": "УИК №5194",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -6450,8 +7683,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5207,
     "uikTvd": "477400272101",
+    "uikName": "УИК №5207",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -6497,8 +7739,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5208,
     "uikTvd": "477400272102",
+    "uikName": "УИК №5208",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -6544,8 +7795,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5219,
     "uikTvd": "477400272103",
+    "uikName": "УИК №5219",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -6591,8 +7851,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5220,
     "uikTvd": "477400272104",
+    "uikName": "УИК №5220",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 20,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -6638,8 +7907,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5223,
     "uikTvd": "477400272105",
+    "uikName": "УИК №5223",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6685,8 +7963,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5242,
     "uikTvd": "477400272106",
+    "uikName": "УИК №5242",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -6732,8 +8019,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5258,
     "uikTvd": "477400272107",
+    "uikName": "УИК №5258",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1374,
       "Число бюллетеней, полученных участковыми комиссиями": 18960,
@@ -6779,8 +8075,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5283,
     "uikTvd": "477400272108",
+    "uikName": "УИК №5283",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 57,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -6826,8 +8131,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5284,
     "uikTvd": "477400272109",
+    "uikName": "УИК №5284",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 706,
       "Число бюллетеней, полученных участковыми комиссиями": 7000,
@@ -6873,8 +8187,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5285,
     "uikTvd": "477400272110",
+    "uikName": "УИК №5285",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6920,8 +8243,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5286,
     "uikTvd": "477400272111",
+    "uikName": "УИК №5286",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 15,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -6967,8 +8299,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5296,
     "uikTvd": "477400272112",
+    "uikName": "УИК №5296",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 344,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -7014,8 +8355,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5307,
     "uikTvd": "477400272113",
+    "uikName": "УИК №5307",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -7061,8 +8411,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5322,
     "uikTvd": "477400272114",
+    "uikName": "УИК №5322",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7108,8 +8467,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5323,
     "uikTvd": "477400272115",
+    "uikName": "УИК №5323",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 43,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7155,8 +8523,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5325,
     "uikTvd": "477400272116",
+    "uikName": "УИК №5325",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 395,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -7202,8 +8579,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5326,
     "uikTvd": "477400272117",
+    "uikName": "УИК №5326",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7249,8 +8635,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5327,
     "uikTvd": "477400272118",
+    "uikName": "УИК №5327",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 30,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -7296,8 +8691,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5328,
     "uikTvd": "477400272119",
+    "uikName": "УИК №5328",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 45,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7343,8 +8747,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5329,
     "uikTvd": "477400272120",
+    "uikName": "УИК №5329",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 697,
       "Число бюллетеней, полученных участковыми комиссиями": 4250,
@@ -7390,8 +8803,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 5330,
     "uikTvd": "477400272121",
+    "uikName": "УИК №5330",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 53,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7437,8 +8859,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 976,
     "uikTvd": "477400570655",
+    "uikName": "УИК №976",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2290,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7484,8 +8915,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 977,
     "uikTvd": "477400570656",
+    "uikName": "УИК №977",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2373,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7531,8 +8971,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 978,
     "uikTvd": "477400570657",
+    "uikName": "УИК №978",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2659,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7578,8 +9027,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 979,
     "uikTvd": "477400570658",
+    "uikName": "УИК №979",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2640,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7625,8 +9083,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 980,
     "uikTvd": "477400570659",
+    "uikName": "УИК №980",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2551,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7672,8 +9139,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 981,
     "uikTvd": "477400570660",
+    "uikName": "УИК №981",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2525,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7719,8 +9195,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 982,
     "uikTvd": "477400570661",
+    "uikName": "УИК №982",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2535,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7766,8 +9251,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 983,
     "uikTvd": "477400570662",
+    "uikName": "УИК №983",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2763,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7813,8 +9307,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 984,
     "uikTvd": "477400570663",
+    "uikName": "УИК №984",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2457,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7860,8 +9363,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 985,
     "uikTvd": "477400570664",
+    "uikName": "УИК №985",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2578,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7907,8 +9419,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 986,
     "uikTvd": "477400570665",
+    "uikName": "УИК №986",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2771,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7954,8 +9475,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 987,
     "uikTvd": "477400570666",
+    "uikName": "УИК №987",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2611,
       "Число бюллетеней, полученных участковыми комиссиями": 2590,
@@ -8001,8 +9531,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 988,
     "uikTvd": "477400570667",
+    "uikName": "УИК №988",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1751,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8048,8 +9587,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 989,
     "uikTvd": "477400570668",
+    "uikName": "УИК №989",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1735,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8095,8 +9643,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 990,
     "uikTvd": "477400570669",
+    "uikName": "УИК №990",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2221,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8142,8 +9699,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 991,
     "uikTvd": "477400570670",
+    "uikName": "УИК №991",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2700,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8189,8 +9755,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 992,
     "uikTvd": "477400570671",
+    "uikName": "УИК №992",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2732,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8236,8 +9811,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 993,
     "uikTvd": "477400570672",
+    "uikName": "УИК №993",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2053,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8283,8 +9867,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 994,
     "uikTvd": "477400570673",
+    "uikName": "УИК №994",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2279,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8330,8 +9923,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 995,
     "uikTvd": "477400570674",
+    "uikName": "УИК №995",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8377,8 +9979,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 996,
     "uikTvd": "477400570675",
+    "uikName": "УИК №996",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2214,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8424,8 +10035,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 997,
     "uikTvd": "477400570676",
+    "uikName": "УИК №997",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2196,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8471,8 +10091,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 998,
     "uikTvd": "477400570677",
+    "uikName": "УИК №998",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2626,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8518,8 +10147,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 999,
     "uikTvd": "477400570678",
+    "uikName": "УИК №999",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2516,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8565,8 +10203,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1000,
     "uikTvd": "477400570679",
+    "uikName": "УИК №1000",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2655,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8612,8 +10259,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "477400570680",
+    "uikName": "УИК №1001",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2072,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8659,8 +10315,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "477400570681",
+    "uikName": "УИК №1002",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8706,8 +10371,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "477400570682",
+    "uikName": "УИК №1003",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2657,
       "Число бюллетеней, полученных участковыми комиссиями": 2613,
@@ -8753,8 +10427,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "477400570683",
+    "uikName": "УИК №1004",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2599,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8800,8 +10483,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "477400570684",
+    "uikName": "УИК №1005",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2663,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8847,8 +10539,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "477400570685",
+    "uikName": "УИК №1006",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2699,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8894,8 +10595,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "477400570686",
+    "uikName": "УИК №1007",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2412,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8941,8 +10651,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "477400570687",
+    "uikName": "УИК №1008",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2710,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8988,8 +10707,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "477400570688",
+    "uikName": "УИК №1009",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2576,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9035,8 +10763,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1043,
     "uikTvd": "477400770494",
+    "uikName": "УИК №1043",
     "tikTvd": "377300870584",
     "tikName": "Район Косино-Ухтомский",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2278,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9082,8 +10819,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1044,
     "uikTvd": "477400770495",
+    "uikName": "УИК №1044",
     "tikTvd": "377300870584",
     "tikName": "Район Косино-Ухтомский",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2038,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9129,8 +10875,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1045,
     "uikTvd": "477400770496",
+    "uikName": "УИК №1045",
     "tikTvd": "377300870584",
     "tikName": "Район Косино-Ухтомский",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2130,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9176,8 +10931,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1046,
     "uikTvd": "477400770497",
+    "uikName": "УИК №1046",
     "tikTvd": "377300870584",
     "tikName": "Район Косино-Ухтомский",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1790,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9223,8 +10987,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1047,
     "uikTvd": "477400770498",
+    "uikName": "УИК №1047",
     "tikTvd": "377300870584",
     "tikName": "Район Косино-Ухтомский",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2096,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9270,8 +11043,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1048,
     "uikTvd": "477400770499",
+    "uikName": "УИК №1048",
     "tikTvd": "377300870584",
     "tikName": "Район Косино-Ухтомский",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1164,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9317,8 +11099,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1059,
     "uikTvd": "477401070730",
+    "uikName": "УИК №1059",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9364,8 +11155,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1060,
     "uikTvd": "477401070731",
+    "uikName": "УИК №1060",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2469,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9411,8 +11211,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1061,
     "uikTvd": "477401070732",
+    "uikName": "УИК №1061",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2863,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9458,8 +11267,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1062,
     "uikTvd": "477401070733",
+    "uikName": "УИК №1062",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2683,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9505,8 +11323,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1063,
     "uikTvd": "477401070734",
+    "uikName": "УИК №1063",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2725,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9552,8 +11379,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1064,
     "uikTvd": "477401070735",
+    "uikName": "УИК №1064",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2611,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9599,8 +11435,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1065,
     "uikTvd": "477401070736",
+    "uikName": "УИК №1065",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9646,8 +11491,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1066,
     "uikTvd": "477401070737",
+    "uikName": "УИК №1066",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2597,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9693,8 +11547,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1067,
     "uikTvd": "477401070738",
+    "uikName": "УИК №1067",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2444,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9740,8 +11603,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1068,
     "uikTvd": "477401070739",
+    "uikName": "УИК №1068",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2798,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9787,8 +11659,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1069,
     "uikTvd": "477401070740",
+    "uikName": "УИК №1069",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2616,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9834,8 +11715,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1070,
     "uikTvd": "477401070741",
+    "uikName": "УИК №1070",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2257,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9881,8 +11771,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1071,
     "uikTvd": "477401070742",
+    "uikName": "УИК №1071",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2003,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9928,8 +11827,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1072,
     "uikTvd": "477401070743",
+    "uikName": "УИК №1072",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2260,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9975,8 +11883,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1073,
     "uikTvd": "477401070744",
+    "uikName": "УИК №1073",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2599,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10022,8 +11939,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1074,
     "uikTvd": "477401070745",
+    "uikName": "УИК №1074",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2358,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10069,8 +11995,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1075,
     "uikTvd": "477401070746",
+    "uikName": "УИК №1075",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2382,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10116,8 +12051,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1076,
     "uikTvd": "477401070747",
+    "uikName": "УИК №1076",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2443,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10163,8 +12107,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1077,
     "uikTvd": "477401070748",
+    "uikName": "УИК №1077",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2458,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10210,8 +12163,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1078,
     "uikTvd": "477401070749",
+    "uikName": "УИК №1078",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2404,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10257,8 +12219,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1079,
     "uikTvd": "477401070750",
+    "uikName": "УИК №1079",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2568,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10304,8 +12275,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1080,
     "uikTvd": "477401070751",
+    "uikName": "УИК №1080",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2582,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10351,8 +12331,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1081,
     "uikTvd": "477401070752",
+    "uikName": "УИК №1081",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2400,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10398,8 +12387,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1082,
     "uikTvd": "477401070753",
+    "uikName": "УИК №1082",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2251,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10445,8 +12443,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 3091,
     "uikTvd": "477401070754",
+    "uikName": "УИК №3091",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -10492,8 +12499,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1083,
     "uikTvd": "477400970665",
+    "uikName": "УИК №1083",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2825,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10539,8 +12555,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1084,
     "uikTvd": "477400970666",
+    "uikName": "УИК №1084",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2897,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10586,8 +12611,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1085,
     "uikTvd": "477400970667",
+    "uikName": "УИК №1085",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2961,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10633,8 +12667,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1086,
     "uikTvd": "477400970668",
+    "uikName": "УИК №1086",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2783,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10680,8 +12723,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1087,
     "uikTvd": "477400970669",
+    "uikName": "УИК №1087",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2293,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10727,8 +12779,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1088,
     "uikTvd": "477400970670",
+    "uikName": "УИК №1088",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2438,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10774,8 +12835,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1089,
     "uikTvd": "477400970671",
+    "uikName": "УИК №1089",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2253,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10821,8 +12891,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1090,
     "uikTvd": "477400970672",
+    "uikName": "УИК №1090",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2637,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10868,8 +12947,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1091,
     "uikTvd": "477400970673",
+    "uikName": "УИК №1091",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2496,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10915,8 +13003,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1092,
     "uikTvd": "477400970674",
+    "uikName": "УИК №1092",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2494,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10962,8 +13059,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1093,
     "uikTvd": "477400970675",
+    "uikName": "УИК №1093",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2891,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11009,8 +13115,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1094,
     "uikTvd": "477400970676",
+    "uikName": "УИК №1094",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2941,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11056,8 +13171,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1095,
     "uikTvd": "477400970677",
+    "uikName": "УИК №1095",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2968,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11103,8 +13227,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1096,
     "uikTvd": "477400970678",
+    "uikName": "УИК №1096",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2978,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11150,8 +13283,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1097,
     "uikTvd": "477400970679",
+    "uikName": "УИК №1097",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2804,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11197,8 +13339,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1098,
     "uikTvd": "477400970680",
+    "uikName": "УИК №1098",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2952,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11244,8 +13395,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1099,
     "uikTvd": "477400970681",
+    "uikName": "УИК №1099",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2413,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11291,8 +13451,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1100,
     "uikTvd": "477400970682",
+    "uikName": "УИК №1100",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2379,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11338,8 +13507,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1101,
     "uikTvd": "477400970683",
+    "uikName": "УИК №1101",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2449,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11385,8 +13563,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1102,
     "uikTvd": "477400970684",
+    "uikName": "УИК №1102",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2645,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11432,8 +13619,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1103,
     "uikTvd": "477400970685",
+    "uikName": "УИК №1103",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2844,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11479,8 +13675,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1104,
     "uikTvd": "477400970686",
+    "uikName": "УИК №1104",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2818,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11526,8 +13731,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1105,
     "uikTvd": "477401170601",
+    "uikName": "УИК  1105",
     "tikTvd": "377300870587",
     "tikName": "Район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2793,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11573,8 +13787,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1106,
     "uikTvd": "477401170602",
+    "uikName": "УИК  1106",
     "tikTvd": "377300870587",
     "tikName": "Район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2914,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -11620,8 +13843,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1107,
     "uikTvd": "477401170603",
+    "uikName": "УИК  1107",
     "tikTvd": "377300870587",
     "tikName": "Район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2829,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11667,8 +13899,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1108,
     "uikTvd": "477401170604",
+    "uikName": "УИК  1108",
     "tikTvd": "377300870587",
     "tikName": "Район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2731,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11714,8 +13955,17 @@ export const duma_2003_uik_428_region_77_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1109,
     "uikTvd": "477401170605",
+    "uikName": "УИК  1109",
     "tikTvd": "377300870587",
     "tikName": "Район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 198,
+      "oikTvd": "100100095697",
+      "oikName": "Перовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2990,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,

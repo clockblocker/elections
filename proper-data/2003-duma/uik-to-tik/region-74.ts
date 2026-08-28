@@ -7,13111 +7,32776 @@ export const duma_2003_uik_to_tik_region_74 = [
   {
     "uikNumber": 1,
     "uikTvd": "474400266680",
+    "uikName": "УИК  1",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "474400266681",
+    "uikName": "УИК  2",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "474400266682",
+    "uikName": "УИК  3",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "474400266683",
+    "uikName": "УИК  4",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "474400266684",
+    "uikName": "УИК  5",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "474400266685",
+    "uikName": "УИК  6",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "474400266686",
+    "uikName": "УИК  7",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "474400266687",
+    "uikName": "УИК  8",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "474400266688",
+    "uikName": "УИК  9",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "474400266689",
+    "uikName": "УИК  10",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "474400266690",
+    "uikName": "УИК  11",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "474400266691",
+    "uikName": "УИК  12",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "474400266692",
+    "uikName": "УИК  13",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "474400266693",
+    "uikName": "УИК  14",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "474400266694",
+    "uikName": "УИК  15",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "474400266695",
+    "uikName": "УИК  16",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "474400266696",
+    "uikName": "УИК  17",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "474400266697",
+    "uikName": "УИК  18",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "474400266698",
+    "uikName": "УИК  19",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "474400266699",
+    "uikName": "УИК  20",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "474400266700",
+    "uikName": "УИК  21",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "474400266701",
+    "uikName": "УИК  22",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "474400266702",
+    "uikName": "УИК  23",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "474400266703",
+    "uikName": "УИК  24",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "474400266704",
+    "uikName": "УИК  25",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "474400266705",
+    "uikName": "УИК  26",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "474400266706",
+    "uikName": "УИК  27",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "474400266707",
+    "uikName": "УИК  28",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "474400266708",
+    "uikName": "УИК  29",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "474400266709",
+    "uikName": "УИК  30",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "474400266710",
+    "uikName": "УИК  31",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "474400266711",
+    "uikName": "УИК  32",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "474400266712",
+    "uikName": "УИК  33",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "474400266713",
+    "uikName": "УИК  34",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "474400266714",
+    "uikName": "УИК  35",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "474400266715",
+    "uikName": "УИК  36",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "474400266716",
+    "uikName": "УИК  37",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "474400266717",
+    "uikName": "УИК  38",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "474400266718",
+    "uikName": "УИК  39",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "474400266719",
+    "uikName": "УИК  40",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "474400266720",
+    "uikName": "УИК  41",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "474400266721",
+    "uikName": "УИК  42",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "474400266722",
+    "uikName": "УИК  43",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "474400266723",
+    "uikName": "УИК  44",
     "tikTvd": "274200066764",
-    "tikName": "Аргаяшская"
+    "tikName": "Аргаяшская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "474401066823",
+    "uikName": "УИК №45",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "474401066824",
+    "uikName": "УИК №46",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "474401066825",
+    "uikName": "УИК №47",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "474401066826",
+    "uikName": "УИК №48",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "474401066827",
+    "uikName": "УИК №49",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "474401066828",
+    "uikName": "УИК №50",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "474401066829",
+    "uikName": "УИК №51",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "474401066830",
+    "uikName": "УИК №52",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "474401066831",
+    "uikName": "УИК №53",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "474401066832",
+    "uikName": "УИК №54",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "474401066833",
+    "uikName": "УИК №55",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "474401066834",
+    "uikName": "УИК №56",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "474401066835",
+    "uikName": "УИК №57",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "474401066836",
+    "uikName": "УИК №58",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "474401066837",
+    "uikName": "УИК №59",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "474401066838",
+    "uikName": "УИК №60",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "474401066839",
+    "uikName": "УИК №61",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "474401066840",
+    "uikName": "УИК №62",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "474401066841",
+    "uikName": "УИК №63",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "474401066842",
+    "uikName": "УИК №64",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "474401066843",
+    "uikName": "УИК №65",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "474401066844",
+    "uikName": "УИК №66",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "474401066845",
+    "uikName": "УИК №67",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "474401066846",
+    "uikName": "УИК №68",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "474401066847",
+    "uikName": "УИК №69",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "474401066848",
+    "uikName": "УИК №70",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "474401066849",
+    "uikName": "УИК №71",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "474401066850",
+    "uikName": "УИК №72",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "474401066851",
+    "uikName": "УИК №73",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "474401066852",
+    "uikName": "УИК №74",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "474401066853",
+    "uikName": "УИК №75",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "474401066854",
+    "uikName": "УИК №76",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "474401066855",
+    "uikName": "УИК №77",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "474401066856",
+    "uikName": "УИК №78",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "474401066857",
+    "uikName": "УИК №79",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "474401066858",
+    "uikName": "УИК №80",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "474401066859",
+    "uikName": "УИК №81",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "474401066860",
+    "uikName": "УИК №82",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "474401066861",
+    "uikName": "УИК №83",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "474401066862",
+    "uikName": "УИК №84",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "474401066863",
+    "uikName": "УИК №85",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "474401066864",
+    "uikName": "УИК №86",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "474401066865",
+    "uikName": "УИК №87",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "474401066866",
+    "uikName": "УИК №88",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "474401066867",
+    "uikName": "УИК №89",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "474401066868",
+    "uikName": "УИК №90",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "474401066869",
+    "uikName": "УИК №91",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "474401066870",
+    "uikName": "УИК №92",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "474401066871",
+    "uikName": "УИК №93",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "474401066872",
+    "uikName": "УИК №94",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "474401066873",
+    "uikName": "УИК №95",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "474401066874",
+    "uikName": "УИК №96",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "474401066875",
+    "uikName": "УИК №97",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "474401066876",
+    "uikName": "УИК №98",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "474401066877",
+    "uikName": "УИК №99",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "474401066878",
+    "uikName": "УИК №100",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "474401066879",
+    "uikName": "УИК №101",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "474401066880",
+    "uikName": "УИК №102",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "474401066881",
+    "uikName": "УИК №103",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "474401066882",
+    "uikName": "УИК №104",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "474401066883",
+    "uikName": "УИК №105",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "474401066884",
+    "uikName": "УИК №106",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "474401066885",
+    "uikName": "УИК №107",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "474401066886",
+    "uikName": "УИК №108",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "474401066887",
+    "uikName": "УИК №109",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "474401066888",
+    "uikName": "УИК №110",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "474401066889",
+    "uikName": "УИК №111",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "474401066890",
+    "uikName": "УИК №112",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "474401066891",
+    "uikName": "УИК №113",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "474401066892",
+    "uikName": "УИК №114",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "474401066893",
+    "uikName": "УИК №115",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "474401066894",
+    "uikName": "УИК №116",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "474401066895",
+    "uikName": "УИК №117",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "474401066896",
+    "uikName": "УИК №118",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "474401066897",
+    "uikName": "УИК №119",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "474401066898",
+    "uikName": "УИК №120",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "474401066899",
+    "uikName": "УИК №121",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "474401066900",
+    "uikName": "УИК №122",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "474401066901",
+    "uikName": "УИК №123",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "474401066902",
+    "uikName": "УИК №124",
     "tikTvd": "374300167353",
-    "tikName": "Златоустовская городская"
+    "tikName": "Златоустовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "474401166626",
+    "uikName": "УИК №125",
     "tikTvd": "274200066773",
-    "tikName": "Карабашская городская"
+    "tikName": "Карабашская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "474401166627",
+    "uikName": "УИК №126",
     "tikTvd": "274200066773",
-    "tikName": "Карабашская городская"
+    "tikName": "Карабашская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "474401166628",
+    "uikName": "УИК №127",
     "tikTvd": "274200066773",
-    "tikName": "Карабашская городская"
+    "tikName": "Карабашская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "474401166629",
+    "uikName": "УИК №128",
     "tikTvd": "274200066773",
-    "tikName": "Карабашская городская"
+    "tikName": "Карабашская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "474401166630",
+    "uikName": "УИК №129",
     "tikTvd": "274200066773",
-    "tikName": "Карабашская городская"
+    "tikName": "Карабашская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "474401166631",
+    "uikName": "УИК №130",
     "tikTvd": "274200066773",
-    "tikName": "Карабашская городская"
+    "tikName": "Карабашская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "474401166632",
+    "uikName": "УИК №131",
     "tikTvd": "274200066773",
-    "tikName": "Карабашская городская"
+    "tikName": "Карабашская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "474401166633",
+    "uikName": "УИК №132",
     "tikTvd": "274200066773",
-    "tikName": "Карабашская городская"
+    "tikName": "Карабашская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "474401166634",
+    "uikName": "УИК №133",
     "tikTvd": "274200066773",
-    "tikName": "Карабашская городская"
+    "tikName": "Карабашская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "474401166635",
+    "uikName": "УИК №134",
     "tikTvd": "274200066773",
-    "tikName": "Карабашская городская"
+    "tikName": "Карабашская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "474402966702",
+    "uikName": "УИК №135",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "474402966703",
+    "uikName": "УИК №136",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "474402966704",
+    "uikName": "УИК №137",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "474402966705",
+    "uikName": "УИК №138",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "474402966706",
+    "uikName": "УИК №139",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "474402966707",
+    "uikName": "УИК №140",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "474402966708",
+    "uikName": "УИК №141",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "474402966709",
+    "uikName": "УИК №142",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "474402966710",
+    "uikName": "УИК №143",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "474402966711",
+    "uikName": "УИК №144",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "474402966712",
+    "uikName": "УИК №145",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "474402966713",
+    "uikName": "УИК №146",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "474402966714",
+    "uikName": "УИК №147",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "474402966715",
+    "uikName": "УИК №148",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "474402966716",
+    "uikName": "УИК №149",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "474402966717",
+    "uikName": "УИК №150",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "474402966718",
+    "uikName": "УИК №151",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "474402966719",
+    "uikName": "УИК №152",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "474402966720",
+    "uikName": "УИК №153",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "474402966721",
+    "uikName": "УИК №154",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "474402966722",
+    "uikName": "УИК №155",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "474402966723",
+    "uikName": "УИК №156",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "474402966724",
+    "uikName": "УИК №157",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "474402966725",
+    "uikName": "УИК №158",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "474402966726",
+    "uikName": "УИК №159",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "474402966727",
+    "uikName": "УИК №160",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "474402966728",
+    "uikName": "УИК №161",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "474402966729",
+    "uikName": "УИК №162",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "474402966730",
+    "uikName": "УИК №163",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "474402966731",
+    "uikName": "УИК №164",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "474402966732",
+    "uikName": "УИК №165",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "474402966733",
+    "uikName": "УИК №166",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "474402966734",
+    "uikName": "УИК №167",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "474402966735",
+    "uikName": "УИК №168",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "474402966736",
+    "uikName": "УИК №169",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "474402966737",
+    "uikName": "УИК №170",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "474402966738",
+    "uikName": "УИК №171",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "474402966739",
+    "uikName": "УИК №172",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "474402966740",
+    "uikName": "УИК №173",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "474402966741",
+    "uikName": "УИК №174",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "474402966742",
+    "uikName": "УИК №175",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "474402966743",
+    "uikName": "УИК №176",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "474402966744",
+    "uikName": "УИК №177",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "474402966745",
+    "uikName": "УИК №178",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "474402966746",
+    "uikName": "УИК №179",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "474402966747",
+    "uikName": "УИК №180",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "474402966748",
+    "uikName": "УИК №181",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "474402966749",
+    "uikName": "УИК №182",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "474402966750",
+    "uikName": "УИК №183",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "474402966751",
+    "uikName": "УИК №184",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "474402966752",
+    "uikName": "УИК №185",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "474402966753",
+    "uikName": "УИК №186",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "474402966754",
+    "uikName": "УИК №187",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "474402966755",
+    "uikName": "УИК №188",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "474402966756",
+    "uikName": "УИК №189",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "474402966757",
+    "uikName": "УИК №190",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "474402966758",
+    "uikName": "УИК №191",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "474402966759",
+    "uikName": "УИК №192",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "474402966760",
+    "uikName": "УИК №193",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "474402966761",
+    "uikName": "УИК №194",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "474402966763",
+    "uikName": "УИК №196",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "474402966764",
+    "uikName": "УИК №197",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "474402966765",
+    "uikName": "УИК №198",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "474402966766",
+    "uikName": "УИК №199",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "474402966767",
+    "uikName": "УИК №200",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "474402966768",
+    "uikName": "УИК №201",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "474402966769",
+    "uikName": "УИК №202",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "474402966770",
+    "uikName": "УИК №203",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "474402966771",
+    "uikName": "УИК №204",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "474402966772",
+    "uikName": "УИК №205",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "474402966773",
+    "uikName": "УИК №206",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "474402966774",
+    "uikName": "УИК №207",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "474402966775",
+    "uikName": "УИК №208",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "474402966776",
+    "uikName": "УИК №209",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "474402966777",
+    "uikName": "УИК №210",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "474402966778",
+    "uikName": "УИК №211",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "474402966779",
+    "uikName": "УИК №212",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "474402966780",
+    "uikName": "УИК №213",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "474402966781",
+    "uikName": "УИК №214",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "474402966782",
+    "uikName": "УИК №215",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "474402966783",
+    "uikName": "УИК №216",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "474402966784",
+    "uikName": "УИК №217",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "474402966700",
+    "uikName": "УИК №218",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "474403267656",
+    "uikName": "УИК  219",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "474403266663",
+    "uikName": "УИК  220",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "474403266664",
+    "uikName": "УИК  221",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "474403266665",
+    "uikName": "УИК  222",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "474403266666",
+    "uikName": "УИК  223",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "474403266667",
+    "uikName": "УИК  224",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "474403266668",
+    "uikName": "УИК  225",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "474403266669",
+    "uikName": "УИК  226",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "474403266670",
+    "uikName": "УИК  227",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "474403266671",
+    "uikName": "УИК  228",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "474403266672",
+    "uikName": "УИК  229",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "474403266673",
+    "uikName": "УИК  230",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "474403266674",
+    "uikName": "УИК  231",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "474403266675",
+    "uikName": "УИК  232",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "474403266676",
+    "uikName": "УИК  233",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "474403266677",
+    "uikName": "УИК  234",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "474403266678",
+    "uikName": "УИК  235",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "474403266679",
+    "uikName": "УИК  236",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "474403266680",
+    "uikName": "УИК  237",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "474403266681",
+    "uikName": "УИК  238",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "474403266682",
+    "uikName": "УИК  239",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "474403266683",
+    "uikName": "УИК  240",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "474403266684",
+    "uikName": "УИК  241",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "474403266685",
+    "uikName": "УИК  242",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "474403266686",
+    "uikName": "УИК  243",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "474403266687",
+    "uikName": "УИК  244",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "474403266688",
+    "uikName": "УИК  245",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "474403266689",
+    "uikName": "УИК  246",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "474403266690",
+    "uikName": "УИК  247",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "474403266691",
+    "uikName": "УИК  248",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "474403266692",
+    "uikName": "УИК  249",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "474403266693",
+    "uikName": "УИК  250",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "474403266694",
+    "uikName": "УИК  251",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "474403266695",
+    "uikName": "УИК  252",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "474403266696",
+    "uikName": "УИК  253",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "474403266697",
+    "uikName": "УИК  254",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "474403266698",
+    "uikName": "УИК  255",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "474403266699",
+    "uikName": "УИК  256",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "474403266700",
+    "uikName": "УИК  257",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "474403266713",
+    "uikName": "УИК  258",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "474403266701",
+    "uikName": "УИК  259",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "474403266702",
+    "uikName": "УИК  260",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "474403266703",
+    "uikName": "УИК  261",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "474403266704",
+    "uikName": "УИК  262",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "474403266705",
+    "uikName": "УИК  263",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "474403266706",
+    "uikName": "УИК  264",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "474403266707",
+    "uikName": "УИК  265",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "474403266708",
+    "uikName": "УИК  266",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "474403266709",
+    "uikName": "УИК  267",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "474403266710",
+    "uikName": "УИК  268",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "474403266711",
+    "uikName": "УИК  269",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "474403266712",
+    "uikName": "УИК  270",
     "tikTvd": "274200066771",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "474403366662",
+    "uikName": "УИК №271",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "474403366663",
+    "uikName": "УИК №272",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "474403366664",
+    "uikName": "УИК №273",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "474403366665",
+    "uikName": "УИК №274",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "474403366666",
+    "uikName": "УИК №275",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "474403366667",
+    "uikName": "УИК №276",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "474403366668",
+    "uikName": "УИК №277",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "474403366669",
+    "uikName": "УИК №278",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "474403366670",
+    "uikName": "УИК №279",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "474403366671",
+    "uikName": "УИК №280",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "474403366672",
+    "uikName": "УИК №281",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "474403366673",
+    "uikName": "УИК №282",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "474403366674",
+    "uikName": "УИК №283",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "474403366675",
+    "uikName": "УИК №284",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "474403366676",
+    "uikName": "УИК №285",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "474403366677",
+    "uikName": "УИК №286",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "474403366678",
+    "uikName": "УИК №287",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "474403366679",
+    "uikName": "УИК №288",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "474403366680",
+    "uikName": "УИК №289",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "474403366681",
+    "uikName": "УИК №290",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "474403366682",
+    "uikName": "УИК №291",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "474403366683",
+    "uikName": "УИК №292",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "474403366684",
+    "uikName": "УИК №293",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "474403366685",
+    "uikName": "УИК №294",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "474403366686",
+    "uikName": "УИК №295",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "474403366687",
+    "uikName": "УИК №296",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "474403366688",
+    "uikName": "УИК №297",
     "tikTvd": "274200066770",
-    "tikName": "Пластовская городская"
+    "tikName": "Пластовская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "474403666692",
+    "uikName": "УИК №298",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "474403666694",
+    "uikName": "УИК №299",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "474403666695",
+    "uikName": "УИК №300",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "474403666696",
+    "uikName": "УИК №301",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "474403666697",
+    "uikName": "УИК №302",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "474403666698",
+    "uikName": "УИК №303",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "474403666699",
+    "uikName": "УИК №304",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "474403666700",
+    "uikName": "УИК №305",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "474403666701",
+    "uikName": "УИК №306",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "474403666702",
+    "uikName": "УИК №307",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "474403667550",
+    "uikName": "УИК №308",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "474403666704",
+    "uikName": "УИК №309",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "474403666705",
+    "uikName": "УИК №310",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "474403666706",
+    "uikName": "УИК №311",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "474403666707",
+    "uikName": "УИК №312",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "474403666708",
+    "uikName": "УИК №313",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "474403666709",
+    "uikName": "УИК №314",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "474403666710",
+    "uikName": "УИК №315",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "474403666711",
+    "uikName": "УИК №316",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "474403666712",
+    "uikName": "УИК №317",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "474403666713",
+    "uikName": "УИК №318",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "474403666714",
+    "uikName": "УИК №319",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "474403666715",
+    "uikName": "УИК №320",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "474403666716",
+    "uikName": "УИК №321",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "474403666717",
+    "uikName": "УИК №322",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "474403666920",
+    "uikName": "УИК №323",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "474403666921",
+    "uikName": "УИК №324",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "474403666720",
+    "uikName": "УИК №325",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "474403666721",
+    "uikName": "УИК №326",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "474403666722",
+    "uikName": "УИК №327",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "474403666723",
+    "uikName": "УИК №328",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "474403666724",
+    "uikName": "УИК №329",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "474403666725",
+    "uikName": "УИК №330",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "474403666726",
+    "uikName": "УИК №331",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "474403666727",
+    "uikName": "УИК №332",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "474403666728",
+    "uikName": "УИК №333",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "474403666729",
+    "uikName": "УИК №334",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "474403666730",
+    "uikName": "УИК №335",
     "tikTvd": "374300167476",
-    "tikName": "Троицкая городская"
+    "tikName": "Троицкая городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "474405066692",
+    "uikName": "УИК №336",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "474405066693",
+    "uikName": "УИК №337",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "474405066694",
+    "uikName": "УИК №338",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "474405066695",
+    "uikName": "УИК №339",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "474405066696",
+    "uikName": "УИК №340",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "474405066697",
+    "uikName": "УИК №341",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "474405066698",
+    "uikName": "УИК №342",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "474405066699",
+    "uikName": "УИК №343",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "474405066700",
+    "uikName": "УИК №344",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "474405066701",
+    "uikName": "УИК №345",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "474405066702",
+    "uikName": "УИК №346",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "474405066703",
+    "uikName": "УИК №347",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "474405066704",
+    "uikName": "УИК №348",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "474405066705",
+    "uikName": "УИК №349",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "474405066706",
+    "uikName": "УИК №350",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "474405066707",
+    "uikName": "УИК №351",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "474405066708",
+    "uikName": "УИК №352",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "474405066709",
+    "uikName": "УИК №353",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "474405066710",
+    "uikName": "УИК №354",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "474405066711",
+    "uikName": "УИК №355",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "474405066712",
+    "uikName": "УИК №356",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "474405066713",
+    "uikName": "УИК №357",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "474405066714",
+    "uikName": "УИК №358",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "474405066715",
+    "uikName": "УИК №359",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "474405066716",
+    "uikName": "УИК №360",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "474405066717",
+    "uikName": "УИК №361",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "474405066718",
+    "uikName": "УИК №362",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "474405066719",
+    "uikName": "УИК №363",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "474405066720",
+    "uikName": "УИК №364",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "474405066721",
+    "uikName": "УИК №365",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "474405066722",
+    "uikName": "УИК №366",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "474405066723",
+    "uikName": "УИК №367",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "474405066724",
+    "uikName": "УИК №368",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "474405066725",
+    "uikName": "УИК №369",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "474405066726",
+    "uikName": "УИК №370",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "474405066727",
+    "uikName": "УИК №371",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "474405066728",
+    "uikName": "УИК №372",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "474405066729",
+    "uikName": "УИК №373",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "474405066730",
+    "uikName": "УИК №374",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "474405066731",
+    "uikName": "УИК №375",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "474405066732",
+    "uikName": "УИК №376",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "474405066733",
+    "uikName": "УИК №377",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "474405066734",
+    "uikName": "УИК №378",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "474405066735",
+    "uikName": "УИК №379",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "474405066736",
+    "uikName": "УИК №380",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "474405066737",
+    "uikName": "УИК №381",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "474405066738",
+    "uikName": "УИК №382",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "474405066739",
+    "uikName": "УИК №383",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "474405066740",
+    "uikName": "УИК №384",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "474405066741",
+    "uikName": "УИК №385",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "474405067134",
+    "uikName": "УИК №386",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "474405066743",
+    "uikName": "УИК №387",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "474405066744",
+    "uikName": "УИК №388",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "474405066745",
+    "uikName": "УИК №389",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "474405066746",
+    "uikName": "УИК №390",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "474405066747",
+    "uikName": "УИК №391",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "474405066748",
+    "uikName": "УИК №392",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "474405066749",
+    "uikName": "УИК №393",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "474405066750",
+    "uikName": "УИК №394",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "474405066751",
+    "uikName": "УИК №395",
     "tikTvd": "374300167361",
-    "tikName": "Троицкая"
+    "tikName": "Троицкая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "474403866672",
+    "uikName": "УИК №398",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "474403866673",
+    "uikName": "УИК №399",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "474403866674",
+    "uikName": "УИК №400",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "474403866675",
+    "uikName": "УИК №401",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "474403866676",
+    "uikName": "УИК №402",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "474403866677",
+    "uikName": "УИК №403",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "474403866678",
+    "uikName": "УИК №404",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "474403866679",
+    "uikName": "УИК №405",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "474403866680",
+    "uikName": "УИК №406",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "474403866681",
+    "uikName": "УИК №407",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "474403866682",
+    "uikName": "УИК №408",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "474403866683",
+    "uikName": "УИК №409",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "474403866684",
+    "uikName": "УИК №410",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "474403866685",
+    "uikName": "УИК №411",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "474403866686",
+    "uikName": "УИК №412",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "474403866687",
+    "uikName": "УИК №413",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "474403866688",
+    "uikName": "УИК №414",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "474403866689",
+    "uikName": "УИК №415",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "474403866690",
+    "uikName": "УИК №416",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "474403866691",
+    "uikName": "УИК №417",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "474403866692",
+    "uikName": "УИК №418",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "474403866693",
+    "uikName": "УИК №419",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "474403866694",
+    "uikName": "УИК №420",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "474403866695",
+    "uikName": "УИК №421",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "474403866696",
+    "uikName": "УИК №422",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "474403866697",
+    "uikName": "УИК №423",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "474403866698",
+    "uikName": "УИК №424",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "474403866699",
+    "uikName": "УИК №425",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "474403866700",
+    "uikName": "УИК №426",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "474403866701",
+    "uikName": "УИК №427",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "474403866702",
+    "uikName": "УИК №428",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "474403866703",
+    "uikName": "УИК №429",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "474403866704",
+    "uikName": "УИК №430",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "474403866705",
+    "uikName": "УИК №431",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "474403866706",
+    "uikName": "УИК №432",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "474403866707",
+    "uikName": "УИК №433",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "474403866708",
+    "uikName": "УИК №434",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "474403866709",
+    "uikName": "УИК №435",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "474403866710",
+    "uikName": "УИК №436",
     "tikTvd": "274200066768",
-    "tikName": "Уйская"
+    "tikName": "Уйская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "474404066691",
+    "uikName": "УИК №437",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "474404066692",
+    "uikName": "УИК №438",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "474404066693",
+    "uikName": "УИК №439",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "474404066694",
+    "uikName": "УИК №440",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "474404066695",
+    "uikName": "УИК №441",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "474404066696",
+    "uikName": "УИК №442",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "474404066697",
+    "uikName": "УИК №443",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "474404066698",
+    "uikName": "УИК №444",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "474404066699",
+    "uikName": "УИК №445",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "474404066700",
+    "uikName": "УИК №446",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "474404066701",
+    "uikName": "УИК №447",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "474404066702",
+    "uikName": "УИК №448",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "474404066703",
+    "uikName": "УИК №449",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "474404066704",
+    "uikName": "УИК №450",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "474404066705",
+    "uikName": "УИК №451",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "474404066706",
+    "uikName": "УИК №452",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "474404066707",
+    "uikName": "УИК №453",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "474404066708",
+    "uikName": "УИК №454",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "474404066709",
+    "uikName": "УИК №455",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "474404066710",
+    "uikName": "УИК №456",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "474404066711",
+    "uikName": "УИК №457",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "474404066712",
+    "uikName": "УИК №458",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "474404066713",
+    "uikName": "УИК №459",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "474404066714",
+    "uikName": "УИК №460",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "474404066715",
+    "uikName": "УИК №461",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "474404066716",
+    "uikName": "УИК №462",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "474404066717",
+    "uikName": "УИК №463",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "474404066718",
+    "uikName": "УИК №464",
     "tikTvd": "374300167360",
-    "tikName": "Чебаркульская городская"
+    "tikName": "Чебаркульская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "474405166686",
+    "uikName": "УИК №465",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "474405166687",
+    "uikName": "УИК №466",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "474405166688",
+    "uikName": "УИК №467",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "474405166689",
+    "uikName": "УИК №468",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "474405166690",
+    "uikName": "УИК №469",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "474405166691",
+    "uikName": "УИК №470",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "474405166692",
+    "uikName": "УИК №471",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "474405166693",
+    "uikName": "УИК №472",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "474405166694",
+    "uikName": "УИК №473",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "474405166695",
+    "uikName": "УИК №474",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "474405166696",
+    "uikName": "УИК №475",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "474405166697",
+    "uikName": "УИК №476",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "474405166698",
+    "uikName": "УИК №477",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "474405166699",
+    "uikName": "УИК №478",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "474405166700",
+    "uikName": "УИК №479",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "474405166701",
+    "uikName": "УИК №480",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "474405166702",
+    "uikName": "УИК №481",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "474405166703",
+    "uikName": "УИК №482",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "474405166704",
+    "uikName": "УИК №483",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "474405166705",
+    "uikName": "УИК №484",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "474405166706",
+    "uikName": "УИК №485",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "474405166707",
+    "uikName": "УИК №486",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "474405166708",
+    "uikName": "УИК №487",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "474405166709",
+    "uikName": "УИК №488",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "474405166710",
+    "uikName": "УИК №489",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "474405166711",
+    "uikName": "УИК №490",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "474405166712",
+    "uikName": "УИК №491",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "474405166713",
+    "uikName": "УИК №492",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "474405166714",
+    "uikName": "УИК №493",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "474405166715",
+    "uikName": "УИК №494",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "474405166716",
+    "uikName": "УИК №495",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "474405166717",
+    "uikName": "УИК №496",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "474405166718",
+    "uikName": "УИК №497",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "474405166719",
+    "uikName": "УИК №498",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "474405166720",
+    "uikName": "УИК №499",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "474405166721",
+    "uikName": "УИК №500",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "474405166722",
+    "uikName": "УИК №501",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "474405166723",
+    "uikName": "УИК №502",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "474405166724",
+    "uikName": "УИК №503",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "474405166725",
+    "uikName": "УИК №504",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "474405166726",
+    "uikName": "УИК №505",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "474405166727",
+    "uikName": "УИК №506",
     "tikTvd": "374300167362",
-    "tikName": "Чебаркульская"
+    "tikName": "Чебаркульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "474404166893",
+    "uikName": "УИК №507",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "474404166894",
+    "uikName": "УИК №508",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "474404166895",
+    "uikName": "УИК №509",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "474404166896",
+    "uikName": "УИК №510",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "474404166897",
+    "uikName": "УИК №511",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "474404166898",
+    "uikName": "УИК №512",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "474404166899",
+    "uikName": "УИК №513",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "474404166900",
+    "uikName": "УИК №514",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "474404166901",
+    "uikName": "УИК №515",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "474404166902",
+    "uikName": "УИК №516",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "474404166903",
+    "uikName": "УИК №517",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "474404166904",
+    "uikName": "УИК №518",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "474404166905",
+    "uikName": "УИК №519",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "474404166906",
+    "uikName": "УИК №520",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "474404166907",
+    "uikName": "УИК №521",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "474404166908",
+    "uikName": "УИК №522",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "474404166909",
+    "uikName": "УИК №523",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "474404166910",
+    "uikName": "УИК №524",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "474404166911",
+    "uikName": "УИК №525",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "474404166912",
+    "uikName": "УИК №526",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "474404166913",
+    "uikName": "УИК №527",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "474404166914",
+    "uikName": "УИК №528",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "474404166915",
+    "uikName": "УИК №529",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "474404166916",
+    "uikName": "УИК №530",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "474404166917",
+    "uikName": "УИК №531",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "474404166918",
+    "uikName": "УИК №532",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "474404166919",
+    "uikName": "УИК №533",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "474404166920",
+    "uikName": "УИК №534",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "474404166921",
+    "uikName": "УИК №535",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "474404166922",
+    "uikName": "УИК №536",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "474404166923",
+    "uikName": "УИК №537",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "474404166924",
+    "uikName": "УИК №538",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "474404166925",
+    "uikName": "УИК №539",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "474404166926",
+    "uikName": "УИК №540",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "474404166927",
+    "uikName": "УИК №541",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "474404166928",
+    "uikName": "УИК №542",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "474404166929",
+    "uikName": "УИК №543",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "474404166930",
+    "uikName": "УИК №544",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "474404166931",
+    "uikName": "УИК №545",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "474404166932",
+    "uikName": "УИК №546",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "474404166933",
+    "uikName": "УИК №547",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "474404166934",
+    "uikName": "УИК №548",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "474404166935",
+    "uikName": "УИК №549",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "474404166936",
+    "uikName": "УИК №550",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "474404166937",
+    "uikName": "УИК №551",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "474404166938",
+    "uikName": "УИК №552",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "474404166939",
+    "uikName": "УИК №553",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "474404166940",
+    "uikName": "УИК №554",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "474404166941",
+    "uikName": "УИК №555",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "474404166942",
+    "uikName": "УИК №556",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "474404166943",
+    "uikName": "УИК №557",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "474404166944",
+    "uikName": "УИК №558",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "474404166945",
+    "uikName": "УИК №559",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "474404166946",
+    "uikName": "УИК №560",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "474404166947",
+    "uikName": "УИК №561",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "474404166948",
+    "uikName": "УИК №562",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "474404166949",
+    "uikName": "УИК №563",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "474404166950",
+    "uikName": "УИК №564",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "474404166951",
+    "uikName": "УИК №565",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "474404166952",
+    "uikName": "УИК №566",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "474404166953",
+    "uikName": "УИК №567",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "474404166954",
+    "uikName": "УИК №568",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "474404166955",
+    "uikName": "УИК №569",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "474404166956",
+    "uikName": "УИК №570",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "474404166957",
+    "uikName": "УИК №571",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "474404166958",
+    "uikName": "УИК №572",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "474404166959",
+    "uikName": "УИК №573",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "474404166960",
+    "uikName": "УИК №574",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "474404166961",
+    "uikName": "УИК №575",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "474404166962",
+    "uikName": "УИК №576",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "474404166963",
+    "uikName": "УИК №577",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "474404166964",
+    "uikName": "УИК №578",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "474404166965",
+    "uikName": "УИК №579",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "474404166966",
+    "uikName": "УИК №580",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "474404166967",
+    "uikName": "УИК №581",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "474404166968",
+    "uikName": "УИК №582",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "474404166969",
+    "uikName": "УИК №583",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "474404166970",
+    "uikName": "УИК №584",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "474404166971",
+    "uikName": "УИК №585",
     "tikTvd": "374300267862",
-    "tikName": "Челябинск, Калининская"
+    "tikName": "Челябинск, Калининская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "474404266788",
+    "uikName": "УИК №586",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "474404266789",
+    "uikName": "УИК №587",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "474404266790",
+    "uikName": "УИК №588",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "474404266791",
+    "uikName": "УИК №589",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "474404266792",
+    "uikName": "УИК №590",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "474404266793",
+    "uikName": "УИК №591",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "474404266794",
+    "uikName": "УИК №592",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "474404266795",
+    "uikName": "УИК №593",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "474404266796",
+    "uikName": "УИК №594",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "474404266797",
+    "uikName": "УИК №595",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "474404266798",
+    "uikName": "УИК №596",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "474404266799",
+    "uikName": "УИК №597",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "474404266800",
+    "uikName": "УИК №598",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "474404266801",
+    "uikName": "УИК №599",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "474404266802",
+    "uikName": "УИК №600",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "474404266803",
+    "uikName": "УИК №601",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "474404266804",
+    "uikName": "УИК №602",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "474404266805",
+    "uikName": "УИК №603",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "474404266806",
+    "uikName": "УИК №604",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "474404266807",
+    "uikName": "УИК №605",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "474404266808",
+    "uikName": "УИК №606",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "474404266809",
+    "uikName": "УИК №607",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "474404266810",
+    "uikName": "УИК №608",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "474404266811",
+    "uikName": "УИК №609",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "474404266812",
+    "uikName": "УИК №610",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "474404266813",
+    "uikName": "УИК №611",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "474404266814",
+    "uikName": "УИК №612",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "474404266815",
+    "uikName": "УИК №613",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "474404266816",
+    "uikName": "УИК №614",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "474404266817",
+    "uikName": "УИК №615",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "474404266818",
+    "uikName": "УИК №616",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "474404266819",
+    "uikName": "УИК №617",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "474404266820",
+    "uikName": "УИК №618",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "474404266821",
+    "uikName": "УИК №619",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "474404266822",
+    "uikName": "УИК №620",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "474404266823",
+    "uikName": "УИК №621",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "474404266824",
+    "uikName": "УИК №622",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "474404266825",
+    "uikName": "УИК №623",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "474404266826",
+    "uikName": "УИК №624",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "474404266827",
+    "uikName": "УИК №625",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "474404266828",
+    "uikName": "УИК №626",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "474404266829",
+    "uikName": "УИК №627",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "474404266830",
+    "uikName": "УИК №628",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "474404266831",
+    "uikName": "УИК №629",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "474404266832",
+    "uikName": "УИК №630",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "474404266833",
+    "uikName": "УИК №631",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "474404266834",
+    "uikName": "УИК №632",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "474404266835",
+    "uikName": "УИК №633",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "474404266836",
+    "uikName": "УИК №634",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "474404266837",
+    "uikName": "УИК №635",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "474404266838",
+    "uikName": "УИК №636",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "474404266839",
+    "uikName": "УИК №637",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "474404266840",
+    "uikName": "УИК №638",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "474404266841",
+    "uikName": "УИК №639",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "474404266842",
+    "uikName": "УИК №640",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "474404266843",
+    "uikName": "УИК №641",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "474404266844",
+    "uikName": "УИК №642",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "474404266845",
+    "uikName": "УИК №643",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "474404266846",
+    "uikName": "УИК №644",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "474404266847",
+    "uikName": "УИК №645",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "474404266848",
+    "uikName": "УИК №646",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "474404266849",
+    "uikName": "УИК №647",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "474404266850",
+    "uikName": "УИК №648",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "474404266851",
+    "uikName": "УИК №649",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "474404266852",
+    "uikName": "УИК №650",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "474404266853",
+    "uikName": "УИК №651",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "474404266854",
+    "uikName": "УИК №652",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "474404266855",
+    "uikName": "УИК №653",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "474404266856",
+    "uikName": "УИК №654",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "474404266857",
+    "uikName": "УИК №655",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "474404266858",
+    "uikName": "УИК №656",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "474404266859",
+    "uikName": "УИК №657",
     "tikTvd": "374300267864",
-    "tikName": "Челябинск, Курчатовская"
+    "tikName": "Челябинск, Курчатовская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "474404466723",
+    "uikName": "УИК №658",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "474404466724",
+    "uikName": "УИК №659",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "474404466725",
+    "uikName": "УИК №660",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "474404466726",
+    "uikName": "УИК №661",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "474404466727",
+    "uikName": "УИК №662",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "474404466728",
+    "uikName": "УИК №663",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "474404466729",
+    "uikName": "УИК №664",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "474404466730",
+    "uikName": "УИК №665",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "474404466731",
+    "uikName": "УИК №666",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "474404466732",
+    "uikName": "УИК №667",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "474404466733",
+    "uikName": "УИК №668",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "474404466734",
+    "uikName": "УИК №669",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "474404466735",
+    "uikName": "УИК №670",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "474404466736",
+    "uikName": "УИК №671",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "474404466737",
+    "uikName": "УИК №672",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "474404466738",
+    "uikName": "УИК №673",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "474404466739",
+    "uikName": "УИК №674",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "474404466740",
+    "uikName": "УИК №675",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "474404466741",
+    "uikName": "УИК №676",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "474404466742",
+    "uikName": "УИК №677",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "474404466743",
+    "uikName": "УИК №678",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "474404466744",
+    "uikName": "УИК №679",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "474404466745",
+    "uikName": "УИК №680",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "474404466746",
+    "uikName": "УИК №681",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "474404466747",
+    "uikName": "УИК №682",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "474404466748",
+    "uikName": "УИК №683",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "474404466749",
+    "uikName": "УИК №684",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "474404466750",
+    "uikName": "УИК №685",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "474404466751",
+    "uikName": "УИК №686",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "474404466752",
+    "uikName": "УИК №687",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "474404466753",
+    "uikName": "УИК №688",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "474404466754",
+    "uikName": "УИК №689",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "474404466755",
+    "uikName": "УИК №690",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "474404466756",
+    "uikName": "УИК №691",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "474404466757",
+    "uikName": "УИК №692",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "474404466758",
+    "uikName": "УИК №693",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "474404466759",
+    "uikName": "УИК №694",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "474404466760",
+    "uikName": "УИК №695",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "474404466761",
+    "uikName": "УИК №696",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "474404466762",
+    "uikName": "УИК №697",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "474404466763",
+    "uikName": "УИК №698",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "474404466764",
+    "uikName": "УИК №699",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "474404466765",
+    "uikName": "УИК №700",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "474404466766",
+    "uikName": "УИК №701",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "474404466767",
+    "uikName": "УИК №702",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "474404466768",
+    "uikName": "УИК №703",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "474404466769",
+    "uikName": "УИК №704",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "474404466770",
+    "uikName": "УИК №705",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "474404466771",
+    "uikName": "УИК №706",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "474404466772",
+    "uikName": "УИК №707",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "474404466773",
+    "uikName": "УИК №708",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "474404466774",
+    "uikName": "УИК №709",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "474404466775",
+    "uikName": "УИК №710",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "474404466776",
+    "uikName": "УИК №711",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "474404466777",
+    "uikName": "УИК №712",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "474404466778",
+    "uikName": "УИК №713",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "474404466779",
+    "uikName": "УИК №714",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "474404466780",
+    "uikName": "УИК №715",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "474404466781",
+    "uikName": "УИК №716",
     "tikTvd": "374300267861",
-    "tikName": "Челябинск, Металлургическая"
+    "tikName": "Челябинск, Металлургическая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "474404666742",
+    "uikName": "УИК №717",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "474404666743",
+    "uikName": "УИК №718",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "474404666744",
+    "uikName": "УИК №719",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "474404666745",
+    "uikName": "УИК №720",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "474404666746",
+    "uikName": "УИК №721",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "474404666747",
+    "uikName": "УИК №722",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "474404666748",
+    "uikName": "УИК №723",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "474404666749",
+    "uikName": "УИК №724",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "474404666750",
+    "uikName": "УИК №725",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "474404666751",
+    "uikName": "УИК №726",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "474404666752",
+    "uikName": "УИК №727",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "474404666753",
+    "uikName": "УИК №728",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "474404666754",
+    "uikName": "УИК №729",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "474404666755",
+    "uikName": "УИК №730",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "474404666756",
+    "uikName": "УИК №731",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "474404666757",
+    "uikName": "УИК №732",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "474404666758",
+    "uikName": "УИК №733",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "474404666759",
+    "uikName": "УИК №734",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "474404666760",
+    "uikName": "УИК №735",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "474404666761",
+    "uikName": "УИК №736",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "474404666762",
+    "uikName": "УИК №737",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "474404666763",
+    "uikName": "УИК №738",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "474404666764",
+    "uikName": "УИК №739",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "474404666765",
+    "uikName": "УИК №740",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "474404666766",
+    "uikName": "УИК №741",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "474404666767",
+    "uikName": "УИК №742",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "474404666768",
+    "uikName": "УИК №743",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "474404666769",
+    "uikName": "УИК №744",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "474404666770",
+    "uikName": "УИК №745",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "474404666771",
+    "uikName": "УИК №746",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "474404666772",
+    "uikName": "УИК №747",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "474404666773",
+    "uikName": "УИК №748",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "474404666774",
+    "uikName": "УИК №749",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "474404666775",
+    "uikName": "УИК №750",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "474404666776",
+    "uikName": "УИК №751",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "474404666777",
+    "uikName": "УИК №752",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "474404666778",
+    "uikName": "УИК №753",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "474404666779",
+    "uikName": "УИК №754",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "474404666780",
+    "uikName": "УИК №755",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "474404666781",
+    "uikName": "УИК №756",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "474404666782",
+    "uikName": "УИК №757",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "474404666783",
+    "uikName": "УИК №758",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "474404666784",
+    "uikName": "УИК №759",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "474404666785",
+    "uikName": "УИК №760",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "474404666786",
+    "uikName": "УИК №761",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "474404666787",
+    "uikName": "УИК №762",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "474404666788",
+    "uikName": "УИК №763",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "474404666789",
+    "uikName": "УИК №764",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "474404666790",
+    "uikName": "УИК №765",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "474404666791",
+    "uikName": "УИК №766",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "474404666792",
+    "uikName": "УИК №767",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "474404666793",
+    "uikName": "УИК №768",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "474404666794",
+    "uikName": "УИК №769",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "474404666795",
+    "uikName": "УИК №770",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "474404666796",
+    "uikName": "УИК №771",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "474404666797",
+    "uikName": "УИК №772",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "474404666726",
+    "uikName": "УИК №773",
     "tikTvd": "374300267863",
-    "tikName": "Челябинск, Тракторозаводская"
+    "tikName": "Челябинск, Тракторозаводская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "474404766752",
+    "uikName": "УИК №774",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "474404766753",
+    "uikName": "УИК №775",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "474404766754",
+    "uikName": "УИК №776",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "474404766755",
+    "uikName": "УИК №777",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "474404766756",
+    "uikName": "УИК №778",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "474404766757",
+    "uikName": "УИК №779",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "474404766758",
+    "uikName": "УИК №780",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "474404766759",
+    "uikName": "УИК №781",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "474404766760",
+    "uikName": "УИК №782",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "474404766761",
+    "uikName": "УИК №783",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "474404766762",
+    "uikName": "УИК №784",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "474404766763",
+    "uikName": "УИК №785",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "474404766764",
+    "uikName": "УИК №786",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "474404766765",
+    "uikName": "УИК №787",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "474404766766",
+    "uikName": "УИК №788",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "474404766767",
+    "uikName": "УИК №789",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "474404766768",
+    "uikName": "УИК №790",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "474404766769",
+    "uikName": "УИК №791",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "474404766770",
+    "uikName": "УИК №792",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "474404766771",
+    "uikName": "УИК №793",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "474404766772",
+    "uikName": "УИК №794",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "474404766773",
+    "uikName": "УИК №795",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "474404766774",
+    "uikName": "УИК №796",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "474404766775",
+    "uikName": "УИК №797",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "474404766776",
+    "uikName": "УИК №798",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "474404766777",
+    "uikName": "УИК №799",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "474404766778",
+    "uikName": "УИК №800",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "474404766779",
+    "uikName": "УИК №801",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "474404766780",
+    "uikName": "УИК №802",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "474404766781",
+    "uikName": "УИК №803",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "474404766782",
+    "uikName": "УИК №804",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "474404766783",
+    "uikName": "УИК №805",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "474404766784",
+    "uikName": "УИК №806",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "474404766785",
+    "uikName": "УИК №807",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "474404766786",
+    "uikName": "УИК №808",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "474404766787",
+    "uikName": "УИК №809",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "474404766788",
+    "uikName": "УИК №810",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "474404766789",
+    "uikName": "УИК №811",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "474404766790",
+    "uikName": "УИК №812",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "474404766791",
+    "uikName": "УИК №813",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "474404766792",
+    "uikName": "УИК №814",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "474404766793",
+    "uikName": "УИК №815",
     "tikTvd": "374300267865",
-    "tikName": "Челябинск, Центральная"
+    "tikName": "Челябинск, Центральная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 183,
+      "oikTvd": "100100095758",
+      "oikName": "Калининский"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "474400366890",
+    "uikName": "УИК №816",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "474400366891",
+    "uikName": "УИК №817",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "474400366892",
+    "uikName": "УИК №818",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "474400366893",
+    "uikName": "УИК №819",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "474400366894",
+    "uikName": "УИК №820",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "474400366895",
+    "uikName": "УИК №821",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "474400366896",
+    "uikName": "УИК №822",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "474400366897",
+    "uikName": "УИК №823",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "474400366898",
+    "uikName": "УИК №824",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "474400366899",
+    "uikName": "УИК №825",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "474400366900",
+    "uikName": "УИК №826",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "474400366901",
+    "uikName": "УИК №827",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "474400366902",
+    "uikName": "УИК №828",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "474400366903",
+    "uikName": "УИК №829",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "474400366904",
+    "uikName": "УИК №830",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "474400366905",
+    "uikName": "УИК №831",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "474400366906",
+    "uikName": "УИК №832",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "474400366907",
+    "uikName": "УИК №833",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "474400366908",
+    "uikName": "УИК №834",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "474400366909",
+    "uikName": "УИК №835",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "474400366910",
+    "uikName": "УИК №836",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "474400366911",
+    "uikName": "УИК №837",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "474400366912",
+    "uikName": "УИК №838",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "474400366913",
+    "uikName": "УИК №839",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "474400366914",
+    "uikName": "УИК №840",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "474400366915",
+    "uikName": "УИК №841",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "474400366916",
+    "uikName": "УИК №842",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "474400366917",
+    "uikName": "УИК №843",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "474400366918",
+    "uikName": "УИК №844",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "474400366919",
+    "uikName": "УИК №845",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "474400366920",
+    "uikName": "УИК №846",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "474400366921",
+    "uikName": "УИК №847",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "474400366922",
+    "uikName": "УИК №848",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "474400366923",
+    "uikName": "УИК №849",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "474400366924",
+    "uikName": "УИК №850",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "474400366925",
+    "uikName": "УИК №851",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "474400366926",
+    "uikName": "УИК №852",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "474400366927",
+    "uikName": "УИК №853",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "474400366928",
+    "uikName": "УИК №854",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "474400366929",
+    "uikName": "УИК №855",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "474400366930",
+    "uikName": "УИК №856",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "474400366931",
+    "uikName": "УИК №857",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "474400366932",
+    "uikName": "УИК №858",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "474400366933",
+    "uikName": "УИК №859",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "474400366934",
+    "uikName": "УИК №860",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "474400366935",
+    "uikName": "УИК №861",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "474400366936",
+    "uikName": "УИК №862",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "474400366937",
+    "uikName": "УИК №863",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "474400366938",
+    "uikName": "УИК №864",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "474400366939",
+    "uikName": "УИК №865",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "474400366940",
+    "uikName": "УИК №866",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "474400366941",
+    "uikName": "УИК №867",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "474400366942",
+    "uikName": "УИК №868",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "474400366943",
+    "uikName": "УИК №869",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "474400366944",
+    "uikName": "УИК №870",
     "tikTvd": "374300367942",
-    "tikName": "Ашинская"
+    "tikName": "Ашинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "474400766773",
+    "uikName": "УИК №874",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "474400766774",
+    "uikName": "УИК №875",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "474400766775",
+    "uikName": "УИК №876",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "474400766776",
+    "uikName": "УИК №877",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "474400766777",
+    "uikName": "УИК №878",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "474400766778",
+    "uikName": "УИК №879",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "474400766779",
+    "uikName": "УИК №880",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "474400766780",
+    "uikName": "УИК №881",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "474400766781",
+    "uikName": "УИК №882",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "474400766782",
+    "uikName": "УИК №883",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "474400766783",
+    "uikName": "УИК №884",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "474400766784",
+    "uikName": "УИК №885",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "474400766785",
+    "uikName": "УИК №886",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "474400766786",
+    "uikName": "УИК №887",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "474400766787",
+    "uikName": "УИК №888",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "474400766788",
+    "uikName": "УИК №889",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "474400766789",
+    "uikName": "УИК №890",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "474400766790",
+    "uikName": "УИК №891",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "474400766791",
+    "uikName": "УИК №892",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "474400766792",
+    "uikName": "УИК №893",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "474400766793",
+    "uikName": "УИК №894",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "474400766794",
+    "uikName": "УИК №895",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "474400766795",
+    "uikName": "УИК №896",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "474400766796",
+    "uikName": "УИК №897",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "474400766797",
+    "uikName": "УИК №898",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "474400766798",
+    "uikName": "УИК №899",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "474400766799",
+    "uikName": "УИК №900",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "474400766800",
+    "uikName": "УИК №901",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "474400766801",
+    "uikName": "УИК №902",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "474400766802",
+    "uikName": "УИК №903",
     "tikTvd": "374300367190",
-    "tikName": "Верхнеуфалейская городская"
+    "tikName": "Верхнеуфалейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "474401766660",
+    "uikName": "УИК №904",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "474401766661",
+    "uikName": "УИК №905",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "474401766662",
+    "uikName": "УИК №906",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "474401766663",
+    "uikName": "УИК №907",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "474401766664",
+    "uikName": "УИК №908",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "474401766665",
+    "uikName": "УИК №909",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "474401766666",
+    "uikName": "УИК №910",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "474401766667",
+    "uikName": "УИК №911",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "474401766668",
+    "uikName": "УИК №912",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "474401766669",
+    "uikName": "УИК №913",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "474401766670",
+    "uikName": "УИК №914",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "474401766671",
+    "uikName": "УИК №915",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "474401766672",
+    "uikName": "УИК №916",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "474401766673",
+    "uikName": "УИК №917",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "474401766674",
+    "uikName": "УИК №918",
     "tikTvd": "374300367205",
-    "tikName": "Трехгорная городская"
+    "tikName": "Трехгорная городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "474401466725",
+    "uikName": "УИК №919",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "474401466726",
+    "uikName": "УИК №920",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "474401466727",
+    "uikName": "УИК №921",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "474401466728",
+    "uikName": "УИК №922",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "474401466729",
+    "uikName": "УИК №923",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "474401466730",
+    "uikName": "УИК №924",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "474401466731",
+    "uikName": "УИК №925",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "474401466732",
+    "uikName": "УИК №926",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "474401466733",
+    "uikName": "УИК №927",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "474401466734",
+    "uikName": "УИК №928",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "474401466735",
+    "uikName": "УИК №929",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "474401466736",
+    "uikName": "УИК №930",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "474401466737",
+    "uikName": "УИК №931",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "474401466738",
+    "uikName": "УИК №932",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "474401466739",
+    "uikName": "УИК №933",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "474401466740",
+    "uikName": "УИК №934",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "474401466741",
+    "uikName": "УИК №935",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "474401466742",
+    "uikName": "УИК №936",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "474401466743",
+    "uikName": "УИК №937",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "474401466744",
+    "uikName": "УИК №938",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "474401466745",
+    "uikName": "УИК №939",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "474401466746",
+    "uikName": "УИК №940",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "474401466747",
+    "uikName": "УИК №941",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "474401466748",
+    "uikName": "УИК №942",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "474401466749",
+    "uikName": "УИК №943",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "474401466750",
+    "uikName": "УИК №944",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "474401466751",
+    "uikName": "УИК №945",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "474401466752",
+    "uikName": "УИК №946",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "474401466753",
+    "uikName": "УИК №947",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "474401466754",
+    "uikName": "УИК №948",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "474401466755",
+    "uikName": "УИК №949",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "474401466756",
+    "uikName": "УИК №950",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "474401466757",
+    "uikName": "УИК №951",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "474401466758",
+    "uikName": "УИК №952",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "474401466759",
+    "uikName": "УИК №953",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "474401466760",
+    "uikName": "УИК №954",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "474401466761",
+    "uikName": "УИК №955",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "474401466762",
+    "uikName": "УИК №956",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "474401466763",
+    "uikName": "УИК №957",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "474401466764",
+    "uikName": "УИК №958",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "474401466765",
+    "uikName": "УИК №959",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "474401466766",
+    "uikName": "УИК №960",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "474401466767",
+    "uikName": "УИК №961",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "474401466768",
+    "uikName": "УИК №962",
     "tikTvd": "374300367184",
-    "tikName": "Каслинская"
+    "tikName": "Каслинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "474401666718",
+    "uikName": "УИК №963",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "474401666720",
+    "uikName": "УИК №964",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "474401666721",
+    "uikName": "УИК №965",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "474401666722",
+    "uikName": "УИК №966",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "474401666723",
+    "uikName": "УИК №967",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "474401666724",
+    "uikName": "УИК №968",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "474401666725",
+    "uikName": "УИК №969",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "474401666726",
+    "uikName": "УИК №970",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "474401666727",
+    "uikName": "УИК №971",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "474401666728",
+    "uikName": "УИК №972",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "474401666729",
+    "uikName": "УИК №973",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "474401666730",
+    "uikName": "УИК №974",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "474401666731",
+    "uikName": "УИК №975",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "474401666732",
+    "uikName": "УИК №976",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "474401666733",
+    "uikName": "УИК №977",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "474401666734",
+    "uikName": "УИК №978",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "474401666735",
+    "uikName": "УИК №979",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "474401666736",
+    "uikName": "УИК №980",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "474401666737",
+    "uikName": "УИК №981",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "474401666738",
+    "uikName": "УИК №982",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "474401666739",
+    "uikName": "УИК №983",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "474401666740",
+    "uikName": "УИК №984",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "474401666741",
+    "uikName": "УИК №985",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "474401666742",
+    "uikName": "УИК №986",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "474401666743",
+    "uikName": "УИК №987",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "474401666744",
+    "uikName": "УИК №988",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "474401666745",
+    "uikName": "УИК №989",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "474401666746",
+    "uikName": "УИК №990",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "474401666747",
+    "uikName": "УИК №991",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "474401666748",
+    "uikName": "УИК №992",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "474401666749",
+    "uikName": "УИК №993",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "474401666750",
+    "uikName": "УИК №994",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "474401666751",
+    "uikName": "УИК №995",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "474401666752",
+    "uikName": "УИК №996",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "474401666753",
+    "uikName": "УИК №997",
     "tikTvd": "374300367204",
-    "tikName": "Катав-Ивановская"
+    "tikName": "Катав-Ивановская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "474402166667",
+    "uikName": "УИК  998",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "474402166669",
+    "uikName": "УИК  999",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "474402166670",
+    "uikName": "УИК  1000",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "474402166671",
+    "uikName": "УИК  1001",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "474402166682",
+    "uikName": "УИК  1002",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "474402166683",
+    "uikName": "УИК  1003",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "474402166684",
+    "uikName": "УИК  1004",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "474402166685",
+    "uikName": "УИК  1005",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "474402166686",
+    "uikName": "УИК  1006",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "474402166687",
+    "uikName": "УИК  1007",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "474402166688",
+    "uikName": "УИК  1008",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "474402166689",
+    "uikName": "УИК  1009",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "474402166690",
+    "uikName": "УИК  1010",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "474402166691",
+    "uikName": "УИК  1011",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "474402166692",
+    "uikName": "УИК  1012",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "474402166693",
+    "uikName": "УИК  1013",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "474402166694",
+    "uikName": "УИК  1014",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "474402166695",
+    "uikName": "УИК  1015",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "474402166696",
+    "uikName": "УИК  1016",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "474402166697",
+    "uikName": "УИК  1017",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "474402166698",
+    "uikName": "УИК  1018",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "474402166699",
+    "uikName": "УИК  1019",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "474402166700",
+    "uikName": "УИК  1020",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "474402166701",
+    "uikName": "УИК  1021",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "474402166702",
+    "uikName": "УИК  1022",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "474402166703",
+    "uikName": "УИК  1023",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "474402166704",
+    "uikName": "УИК  1024",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "474402166705",
+    "uikName": "УИК  1025",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "474402166706",
+    "uikName": "УИК  1026",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "474402166707",
+    "uikName": "УИК  1027",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "474402166708",
+    "uikName": "УИК  1028",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "474402166709",
+    "uikName": "УИК  1029",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "474402166710",
+    "uikName": "УИК  1030",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "474402166711",
+    "uikName": "УИК  1031",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "474402166712",
+    "uikName": "УИК  1032",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "474402166713",
+    "uikName": "УИК  1033",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "474402166714",
+    "uikName": "УИК  1034",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "474402166715",
+    "uikName": "УИК  1035",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "474402166716",
+    "uikName": "УИК  1036",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "474402166717",
+    "uikName": "УИК  1037",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "474402166718",
+    "uikName": "УИК  1038",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "474402166719",
+    "uikName": "УИК  1039",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "474402166720",
+    "uikName": "УИК  1040",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "474402166721",
+    "uikName": "УИК  1041",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "474402166722",
+    "uikName": "УИК  1042",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "474402166723",
+    "uikName": "УИК  1043",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "474402166724",
+    "uikName": "УИК  1044",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "474402166725",
+    "uikName": "УИК  1045",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "474402166726",
+    "uikName": "УИК  1046",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "474402166727",
+    "uikName": "УИК  1047",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "474402166728",
+    "uikName": "УИК  1048",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "474402166729",
+    "uikName": "УИК  1049",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "474402166730",
+    "uikName": "УИК  1050",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "474402166731",
+    "uikName": "УИК  1051",
     "tikTvd": "374300367206",
-    "tikName": "Красноармейская"
+    "tikName": "Красноармейская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "474402266702",
+    "uikName": "УИК №1052",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "474402266703",
+    "uikName": "УИК №1053",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "474402266704",
+    "uikName": "УИК №1054",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "474402266705",
+    "uikName": "УИК №1055",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "474402266706",
+    "uikName": "УИК №1056",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "474402266707",
+    "uikName": "УИК №1057",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "474402266708",
+    "uikName": "УИК №1058",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "474402266709",
+    "uikName": "УИК №1059",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "474402266710",
+    "uikName": "УИК №1060",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "474402266711",
+    "uikName": "УИК №1061",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "474402266712",
+    "uikName": "УИК №1062",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "474402266713",
+    "uikName": "УИК №1063",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "474402266714",
+    "uikName": "УИК №1064",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "474402266715",
+    "uikName": "УИК №1065",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "474402266716",
+    "uikName": "УИК №1066",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "474402266717",
+    "uikName": "УИК №1067",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "474402266718",
+    "uikName": "УИК №1068",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "474402266719",
+    "uikName": "УИК №1069",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "474402266720",
+    "uikName": "УИК №1070",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "474402266721",
+    "uikName": "УИК №1071",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "474402266722",
+    "uikName": "УИК №1072",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "474402266723",
+    "uikName": "УИК №1073",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "474402266724",
+    "uikName": "УИК №1074",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "474402266725",
+    "uikName": "УИК №1075",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "474402266726",
+    "uikName": "УИК №1076",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "474402266727",
+    "uikName": "УИК №1077",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "474402266728",
+    "uikName": "УИК №1078",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "474402266729",
+    "uikName": "УИК №1079",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "474402266730",
+    "uikName": "УИК №1080",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "474402266731",
+    "uikName": "УИК №1081",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "474402266732",
+    "uikName": "УИК №1082",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "474402266733",
+    "uikName": "УИК №1083",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "474402266734",
+    "uikName": "УИК №1084",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "474402266735",
+    "uikName": "УИК №1085",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "474402266736",
+    "uikName": "УИК №1086",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "474402266737",
+    "uikName": "УИК №1087",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "474402266738",
+    "uikName": "УИК №1088",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "474402266739",
+    "uikName": "УИК №1089",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "474402266740",
+    "uikName": "УИК №1090",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "474402266741",
+    "uikName": "УИК №1091",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "474402266742",
+    "uikName": "УИК №1092",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "474402266743",
+    "uikName": "УИК №1093",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "474402266744",
+    "uikName": "УИК №1094",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "474402266745",
+    "uikName": "УИК №1095",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "474402266746",
+    "uikName": "УИК №1096",
     "tikTvd": "374300367207",
-    "tikName": "Кунашакская"
+    "tikName": "Кунашакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "474402366724",
+    "uikName": "УИК №1097",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "474402366725",
+    "uikName": "УИК №1098",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "474402366726",
+    "uikName": "УИК №1099",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "474402366727",
+    "uikName": "УИК №1100",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "474402366728",
+    "uikName": "УИК №1101",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "474402366729",
+    "uikName": "УИК №1102",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "474402366730",
+    "uikName": "УИК №1103",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "474402366731",
+    "uikName": "УИК №1104",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "474402366732",
+    "uikName": "УИК №1105",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "474402366733",
+    "uikName": "УИК №1106",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "474402366734",
+    "uikName": "УИК №1107",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "474402366735",
+    "uikName": "УИК №1108",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "474402366736",
+    "uikName": "УИК №1109",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "474402366737",
+    "uikName": "УИК №1110",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "474402366738",
+    "uikName": "УИК №1111",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "474402366739",
+    "uikName": "УИК №1112",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "474402366740",
+    "uikName": "УИК №1113",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "474402366741",
+    "uikName": "УИК №1114",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "474402366742",
+    "uikName": "УИК №1115",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "474402366743",
+    "uikName": "УИК №1116",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "474402366744",
+    "uikName": "УИК №1117",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "474402366745",
+    "uikName": "УИК №1118",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "474402366746",
+    "uikName": "УИК №1119",
     "tikTvd": "374300367208",
-    "tikName": "Кусинская"
+    "tikName": "Кусинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "474402466687",
+    "uikName": "УИК №1120",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "474402466689",
+    "uikName": "УИК №1121",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "474402466702",
+    "uikName": "УИК №1122",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "474402466703",
+    "uikName": "УИК №1123",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "474402466704",
+    "uikName": "УИК №1124",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "474402466705",
+    "uikName": "УИК №1125",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "474402466706",
+    "uikName": "УИК №1126",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "474402466707",
+    "uikName": "УИК №1127",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "474402466708",
+    "uikName": "УИК №1128",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "474402466709",
+    "uikName": "УИК №1129",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "474402466710",
+    "uikName": "УИК №1130",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "474402466711",
+    "uikName": "УИК №1131",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "474402466712",
+    "uikName": "УИК №1132",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "474402466713",
+    "uikName": "УИК №1133",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "474402466714",
+    "uikName": "УИК №1134",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "474402466715",
+    "uikName": "УИК №1135",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "474402466716",
+    "uikName": "УИК №1136",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "474402466717",
+    "uikName": "УИК №1137",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "474402466718",
+    "uikName": "УИК №1138",
     "tikTvd": "374300367180",
-    "tikName": "Кыштымская городская"
+    "tikName": "Кыштымская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "474403166663",
+    "uikName": "УИК №1139",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "474403166664",
+    "uikName": "УИК №1140",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "474403166665",
+    "uikName": "УИК №1141",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "474403166666",
+    "uikName": "УИК №1142",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "474403166667",
+    "uikName": "УИК №1143",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "474403166668",
+    "uikName": "УИК №1144",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "474403166669",
+    "uikName": "УИК №1145",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "474403166670",
+    "uikName": "УИК №1146",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "474403166671",
+    "uikName": "УИК №1147",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "474403166672",
+    "uikName": "УИК №1148",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "474403166673",
+    "uikName": "УИК №1149",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "474403166674",
+    "uikName": "УИК №1150",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "474403166675",
+    "uikName": "УИК №1151",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "474403166676",
+    "uikName": "УИК №1152",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "474403166677",
+    "uikName": "УИК №1153",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "474403166678",
+    "uikName": "УИК №1154",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "474403166679",
+    "uikName": "УИК №1155",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "474403166680",
+    "uikName": "УИК №1156",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1157,
     "uikTvd": "474403166681",
+    "uikName": "УИК №1157",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "474403166682",
+    "uikName": "УИК №1158",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "474403166683",
+    "uikName": "УИК №1159",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "474403166684",
+    "uikName": "УИК №1160",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "474403166685",
+    "uikName": "УИК №1161",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "474403166686",
+    "uikName": "УИК №1162",
     "tikTvd": "374300367213",
-    "tikName": "Нязепетровская"
+    "tikName": "Нязепетровская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "474403466761",
+    "uikName": "УИК №1163",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "474403466762",
+    "uikName": "УИК №1164",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "474403466763",
+    "uikName": "УИК №1165",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "474403466764",
+    "uikName": "УИК №1166",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "474403466765",
+    "uikName": "УИК №1167",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "474403466766",
+    "uikName": "УИК №1168",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "474403466767",
+    "uikName": "УИК №1169",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "474403466768",
+    "uikName": "УИК №1170",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "474403466769",
+    "uikName": "УИК №1171",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "474403466770",
+    "uikName": "УИК №1172",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "474403466771",
+    "uikName": "УИК №1173",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1174,
     "uikTvd": "474403466772",
+    "uikName": "УИК №1174",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1175,
     "uikTvd": "474403466773",
+    "uikName": "УИК №1175",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1176,
     "uikTvd": "474403466774",
+    "uikName": "УИК №1176",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1177,
     "uikTvd": "474403466775",
+    "uikName": "УИК №1177",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "474403466776",
+    "uikName": "УИК №1178",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "474403466777",
+    "uikName": "УИК №1179",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1180,
     "uikTvd": "474403466778",
+    "uikName": "УИК №1180",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "474403466779",
+    "uikName": "УИК №1181",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "474403466780",
+    "uikName": "УИК №1182",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "474403466781",
+    "uikName": "УИК №1183",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "474403466782",
+    "uikName": "УИК №1184",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "474403466783",
+    "uikName": "УИК №1185",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1186,
     "uikTvd": "474403466784",
+    "uikName": "УИК №1186",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1187,
     "uikTvd": "474403466785",
+    "uikName": "УИК №1187",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1188,
     "uikTvd": "474403466786",
+    "uikName": "УИК №1188",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1189,
     "uikTvd": "474403466787",
+    "uikName": "УИК №1189",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1190,
     "uikTvd": "474403466788",
+    "uikName": "УИК №1190",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1191,
     "uikTvd": "474403466789",
+    "uikName": "УИК №1191",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1192,
     "uikTvd": "474403466790",
+    "uikName": "УИК №1192",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1193,
     "uikTvd": "474403466791",
+    "uikName": "УИК №1193",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1194,
     "uikTvd": "474403466792",
+    "uikName": "УИК №1194",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1195,
     "uikTvd": "474403466793",
+    "uikName": "УИК №1195",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1196,
     "uikTvd": "474403466794",
+    "uikName": "УИК №1196",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1197,
     "uikTvd": "474403466795",
+    "uikName": "УИК №1197",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1198,
     "uikTvd": "474403466796",
+    "uikName": "УИК №1198",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1199,
     "uikTvd": "474403466797",
+    "uikName": "УИК №1199",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1200,
     "uikTvd": "474403466798",
+    "uikName": "УИК №1200",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "474403466799",
+    "uikName": "УИК №1201",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "474403466800",
+    "uikName": "УИК №1202",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "474403466801",
+    "uikName": "УИК №1203",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "474403466802",
+    "uikName": "УИК №1204",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "474403466803",
+    "uikName": "УИК №1205",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "474403466804",
+    "uikName": "УИК №1206",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "474403466805",
+    "uikName": "УИК №1207",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "474403466806",
+    "uikName": "УИК №1208",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "474403466807",
+    "uikName": "УИК №1209",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "474403466808",
+    "uikName": "УИК №1210",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "474403466809",
+    "uikName": "УИК №1211",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "474403466810",
+    "uikName": "УИК №1212",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "474403466811",
+    "uikName": "УИК №1213",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "474403466812",
+    "uikName": "УИК №1214",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "474403466813",
+    "uikName": "УИК №1215",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "474403466814",
+    "uikName": "УИК №1216",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "474403466815",
+    "uikName": "УИК №1217",
     "tikTvd": "374300367214",
-    "tikName": "Саткинская"
+    "tikName": "Саткинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "474402566723",
+    "uikName": "УИК №1218",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "474402566724",
+    "uikName": "УИК №1219",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "474402566725",
+    "uikName": "УИК №1220",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "474402566726",
+    "uikName": "УИК №1221",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "474402566727",
+    "uikName": "УИК №1222",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "474402566728",
+    "uikName": "УИК №1223",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "474402566729",
+    "uikName": "УИК №1224",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "474402566730",
+    "uikName": "УИК №1225",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "474402566731",
+    "uikName": "УИК №1226",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "474402566732",
+    "uikName": "УИК №1227",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "474402566733",
+    "uikName": "УИК №1228",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "474402566734",
+    "uikName": "УИК №1229",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "474402566735",
+    "uikName": "УИК №1230",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "474402566736",
+    "uikName": "УИК №1231",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "474402566737",
+    "uikName": "УИК №1232",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "474402566738",
+    "uikName": "УИК №1233",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "474402566739",
+    "uikName": "УИК №1234",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "474402566740",
+    "uikName": "УИК №1235",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "474402566741",
+    "uikName": "УИК №1236",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "474402566742",
+    "uikName": "УИК №1237",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "474402566743",
+    "uikName": "УИК №1238",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "474402566744",
+    "uikName": "УИК №1239",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "474402566745",
+    "uikName": "УИК №1240",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1241,
     "uikTvd": "474402566746",
+    "uikName": "УИК №1241",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1242,
     "uikTvd": "474402566747",
+    "uikName": "УИК №1242",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1243,
     "uikTvd": "474402566748",
+    "uikName": "УИК №1243",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1244,
     "uikTvd": "474402566749",
+    "uikName": "УИК №1244",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1245,
     "uikTvd": "474402566750",
+    "uikName": "УИК №1245",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "474402566751",
+    "uikName": "УИК №1246",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1247,
     "uikTvd": "474402566752",
+    "uikName": "УИК №1247",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1248,
     "uikTvd": "474402566753",
+    "uikName": "УИК №1248",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1249,
     "uikTvd": "474402566754",
+    "uikName": "УИК №1249",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1250,
     "uikTvd": "474402566755",
+    "uikName": "УИК №1250",
     "tikTvd": "374300367209",
-    "tikName": "Озерская городская"
+    "tikName": "Озерская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1251,
     "uikTvd": "474401566688",
+    "uikName": "УИК №1251",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1252,
     "uikTvd": "474401566689",
+    "uikName": "УИК №1252",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1253,
     "uikTvd": "474401566690",
+    "uikName": "УИК №1253",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1254,
     "uikTvd": "474401566691",
+    "uikName": "УИК №1254",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1255,
     "uikTvd": "474401566692",
+    "uikName": "УИК №1255",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1256,
     "uikTvd": "474401566693",
+    "uikName": "УИК №1256",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1257,
     "uikTvd": "474401566694",
+    "uikName": "УИК №1257",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1258,
     "uikTvd": "474401566686",
+    "uikName": "УИК №1258",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1259,
     "uikTvd": "474401566695",
+    "uikName": "УИК №1259",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1260,
     "uikTvd": "474401566696",
+    "uikName": "УИК №1260",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1261,
     "uikTvd": "474401566697",
+    "uikName": "УИК №1261",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1262,
     "uikTvd": "474401566698",
+    "uikName": "УИК №1262",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1263,
     "uikTvd": "474401566699",
+    "uikName": "УИК №1263",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1264,
     "uikTvd": "474401566700",
+    "uikName": "УИК №1264",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1265,
     "uikTvd": "474401566701",
+    "uikName": "УИК №1265",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1266,
     "uikTvd": "474401566702",
+    "uikName": "УИК №1266",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1267,
     "uikTvd": "474401566703",
+    "uikName": "УИК №1267",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1268,
     "uikTvd": "474401566704",
+    "uikName": "УИК №1268",
     "tikTvd": "374300367186",
-    "tikName": "Снежинская городская"
+    "tikName": "Снежинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1269,
     "uikTvd": "474403966712",
+    "uikName": "УИК №1269",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1270,
     "uikTvd": "474403966713",
+    "uikName": "УИК №1270",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1271,
     "uikTvd": "474403966714",
+    "uikName": "УИК №1271",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1272,
     "uikTvd": "474403966715",
+    "uikName": "УИК №1272",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1273,
     "uikTvd": "474403967402",
+    "uikName": "УИК №1273",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1274,
     "uikTvd": "474403966717",
+    "uikName": "УИК №1274",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1275,
     "uikTvd": "474403966718",
+    "uikName": "УИК №1275",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1276,
     "uikTvd": "474403966719",
+    "uikName": "УИК №1276",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1277,
     "uikTvd": "474403966720",
+    "uikName": "УИК №1277",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1278,
     "uikTvd": "474403966721",
+    "uikName": "УИК №1278",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1279,
     "uikTvd": "474403966722",
+    "uikName": "УИК №1279",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1280,
     "uikTvd": "474403966723",
+    "uikName": "УИК №1280",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1281,
     "uikTvd": "474403966724",
+    "uikName": "УИК №1281",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1282,
     "uikTvd": "474403966725",
+    "uikName": "УИК №1282",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1283,
     "uikTvd": "474403966726",
+    "uikName": "УИК №1283",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1284,
     "uikTvd": "474403966727",
+    "uikName": "УИК №1284",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1285,
     "uikTvd": "474403966728",
+    "uikName": "УИК №1285",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1286,
     "uikTvd": "474403966729",
+    "uikName": "УИК №1286",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1287,
     "uikTvd": "474403966730",
+    "uikName": "УИК №1287",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1288,
     "uikTvd": "474403966731",
+    "uikName": "УИК №1288",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1289,
     "uikTvd": "474403966732",
+    "uikName": "УИК №1289",
     "tikTvd": "374300367215",
-    "tikName": "Усть-Катавская городская"
+    "tikName": "Усть-Катавская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 184,
+      "oikTvd": "100100095759",
+      "oikName": "Кыштымский"
+    }
   },
   {
     "uikNumber": 1290,
     "uikTvd": "474402666867",
+    "uikName": "УИК №1290",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1291,
     "uikTvd": "474402666674",
+    "uikName": "УИК №1291",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1292,
     "uikTvd": "474402666676",
+    "uikName": "УИК №1292",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1293,
     "uikTvd": "474402666678",
+    "uikName": "УИК №1293",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1294,
     "uikTvd": "474402666680",
+    "uikName": "УИК №1294",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1295,
     "uikTvd": "474402666682",
+    "uikName": "УИК №1295",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1296,
     "uikTvd": "474402666684",
+    "uikName": "УИК №1296",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1297,
     "uikTvd": "474402666686",
+    "uikName": "УИК №1297",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1298,
     "uikTvd": "474402666688",
+    "uikName": "УИК №1298",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1299,
     "uikTvd": "474402666690",
+    "uikName": "УИК №1299",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1300,
     "uikTvd": "474402666692",
+    "uikName": "УИК №1300",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "474402666694",
+    "uikName": "УИК №1301",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "474402666696",
+    "uikName": "УИК №1302",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "474402666698",
+    "uikName": "УИК №1303",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "474402666700",
+    "uikName": "УИК №1304",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "474402666702",
+    "uikName": "УИК №1305",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "474402666704",
+    "uikName": "УИК №1306",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "474402666706",
+    "uikName": "УИК №1307",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "474402666708",
+    "uikName": "УИК №1308",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "474402666710",
+    "uikName": "УИК №1309",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "474402666712",
+    "uikName": "УИК №1310",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "474402666714",
+    "uikName": "УИК №1311",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "474402666716",
+    "uikName": "УИК №1312",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "474402666718",
+    "uikName": "УИК №1313",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "474402666720",
+    "uikName": "УИК №1314",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "474402666722",
+    "uikName": "УИК №1315",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "474402666724",
+    "uikName": "УИК №1316",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "474402666726",
+    "uikName": "УИК №1317",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "474402666728",
+    "uikName": "УИК №1318",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "474402666730",
+    "uikName": "УИК №1319",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "474402666732",
+    "uikName": "УИК №1320",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "474402666734",
+    "uikName": "УИК №1321",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "474402666736",
+    "uikName": "УИК №1322",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "474402666738",
+    "uikName": "УИК №1323",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "474402666740",
+    "uikName": "УИК №1324",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "474402666742",
+    "uikName": "УИК №1325",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "474402666744",
+    "uikName": "УИК №1326",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "474402666746",
+    "uikName": "УИК №1327",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "474402666748",
+    "uikName": "УИК №1328",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "474402666750",
+    "uikName": "УИК №1329",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1330,
     "uikTvd": "474402666752",
+    "uikName": "УИК №1330",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1331,
     "uikTvd": "474402666754",
+    "uikName": "УИК №1331",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1332,
     "uikTvd": "474402666756",
+    "uikName": "УИК №1332",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1333,
     "uikTvd": "474402666758",
+    "uikName": "УИК №1333",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1334,
     "uikTvd": "474402666760",
+    "uikName": "УИК №1334",
     "tikTvd": "374300467153",
-    "tikName": "Ленинский район города Магнитогорска "
+    "tikName": "Ленинский район города Магнитогорска ",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1336,
     "uikTvd": "474402866718",
+    "uikName": "УИК №1336",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1337,
     "uikTvd": "474402866719",
+    "uikName": "УИК №1337",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1338,
     "uikTvd": "474402866720",
+    "uikName": "УИК №1338",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1339,
     "uikTvd": "474402866721",
+    "uikName": "УИК №1339",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1340,
     "uikTvd": "474402866722",
+    "uikName": "УИК №1340",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1341,
     "uikTvd": "474402866723",
+    "uikName": "УИК №1341",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1342,
     "uikTvd": "474402866724",
+    "uikName": "УИК №1342",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1343,
     "uikTvd": "474402866725",
+    "uikName": "УИК №1343",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1344,
     "uikTvd": "474402866726",
+    "uikName": "УИК №1344",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1345,
     "uikTvd": "474402866727",
+    "uikName": "УИК №1345",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1346,
     "uikTvd": "474402866728",
+    "uikName": "УИК №1346",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1347,
     "uikTvd": "474402866729",
+    "uikName": "УИК №1347",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1348,
     "uikTvd": "474402866730",
+    "uikName": "УИК №1348",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1349,
     "uikTvd": "474402866731",
+    "uikName": "УИК №1349",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1350,
     "uikTvd": "474402866732",
+    "uikName": "УИК №1350",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1351,
     "uikTvd": "474402866733",
+    "uikName": "УИК №1351",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1352,
     "uikTvd": "474402866734",
+    "uikName": "УИК №1352",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1353,
     "uikTvd": "474402866735",
+    "uikName": "УИК №1353",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1354,
     "uikTvd": "474402866736",
+    "uikName": "УИК №1354",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1355,
     "uikTvd": "474402866737",
+    "uikName": "УИК №1355",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1356,
     "uikTvd": "474402866738",
+    "uikName": "УИК №1356",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1357,
     "uikTvd": "474402866739",
+    "uikName": "УИК №1357",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1358,
     "uikTvd": "474402866740",
+    "uikName": "УИК №1358",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1359,
     "uikTvd": "474402866741",
+    "uikName": "УИК №1359",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1360,
     "uikTvd": "474402866742",
+    "uikName": "УИК №1360",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1361,
     "uikTvd": "474402866743",
+    "uikName": "УИК №1361",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1362,
     "uikTvd": "474402866744",
+    "uikName": "УИК №1362",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1363,
     "uikTvd": "474402866745",
+    "uikName": "УИК №1363",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1364,
     "uikTvd": "474402866746",
+    "uikName": "УИК №1364",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1365,
     "uikTvd": "474402866747",
+    "uikName": "УИК №1365",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1366,
     "uikTvd": "474402866748",
+    "uikName": "УИК №1366",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1367,
     "uikTvd": "474402866749",
+    "uikName": "УИК №1367",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1368,
     "uikTvd": "474402866750",
+    "uikName": "УИК №1368",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1369,
     "uikTvd": "474402866751",
+    "uikName": "УИК №1369",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1370,
     "uikTvd": "474402866752",
+    "uikName": "УИК №1370",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1371,
     "uikTvd": "474402866753",
+    "uikName": "УИК №1371",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1372,
     "uikTvd": "474402866754",
+    "uikName": "УИК №1372",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1373,
     "uikTvd": "474402866755",
+    "uikName": "УИК №1373",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1374,
     "uikTvd": "474402866756",
+    "uikName": "УИК №1374",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1375,
     "uikTvd": "474402866757",
+    "uikName": "УИК №1375",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1376,
     "uikTvd": "474402866758",
+    "uikName": "УИК №1376",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1377,
     "uikTvd": "474402866759",
+    "uikName": "УИК №1377",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1378,
     "uikTvd": "474402866760",
+    "uikName": "УИК №1378",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1379,
     "uikTvd": "474402866761",
+    "uikName": "УИК №1379",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1380,
     "uikTvd": "474402866762",
+    "uikName": "УИК №1380",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1381,
     "uikTvd": "474402866763",
+    "uikName": "УИК №1381",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1382,
     "uikTvd": "474402866764",
+    "uikName": "УИК №1382",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1383,
     "uikTvd": "474402866765",
+    "uikName": "УИК №1383",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1384,
     "uikTvd": "474402866766",
+    "uikName": "УИК №1384",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1385,
     "uikTvd": "474402866767",
+    "uikName": "УИК №1385",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1386,
     "uikTvd": "474402866768",
+    "uikName": "УИК №1386",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1387,
     "uikTvd": "474402866769",
+    "uikName": "УИК №1387",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1388,
     "uikTvd": "474402866770",
+    "uikName": "УИК №1388",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1389,
     "uikTvd": "474402866771",
+    "uikName": "УИК №1389",
     "tikTvd": "374300467157",
-    "tikName": "Магнитогорск, Правобережная"
+    "tikName": "Магнитогорск, Правобережная",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1390,
     "uikTvd": "474402766875",
+    "uikName": "УИК №1390",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1391,
     "uikTvd": "474402766740",
+    "uikName": "УИК №1391",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1392,
     "uikTvd": "474402766741",
+    "uikName": "УИК №1392",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1393,
     "uikTvd": "474402766742",
+    "uikName": "УИК №1393",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1394,
     "uikTvd": "474402766743",
+    "uikName": "УИК №1394",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1395,
     "uikTvd": "474402766744",
+    "uikName": "УИК №1395",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1396,
     "uikTvd": "474402766745",
+    "uikName": "УИК №1396",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1397,
     "uikTvd": "474402766746",
+    "uikName": "УИК №1397",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1398,
     "uikTvd": "474402766747",
+    "uikName": "УИК №1398",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1399,
     "uikTvd": "474402766748",
+    "uikName": "УИК №1399",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1400,
     "uikTvd": "474402766749",
+    "uikName": "УИК №1400",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "474402766750",
+    "uikName": "УИК №1401",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "474402766751",
+    "uikName": "УИК №1402",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "474402766752",
+    "uikName": "УИК №1403",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "474402766753",
+    "uikName": "УИК №1404",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "474402766754",
+    "uikName": "УИК №1405",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "474402766755",
+    "uikName": "УИК №1406",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "474402766756",
+    "uikName": "УИК №1407",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "474402766757",
+    "uikName": "УИК №1408",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "474402766758",
+    "uikName": "УИК №1409",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "474402766759",
+    "uikName": "УИК №1410",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "474402766760",
+    "uikName": "УИК №1411",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "474402766761",
+    "uikName": "УИК №1412",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "474402766762",
+    "uikName": "УИК №1413",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "474402766763",
+    "uikName": "УИК №1414",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "474402766764",
+    "uikName": "УИК №1415",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "474402766765",
+    "uikName": "УИК №1416",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "474402766766",
+    "uikName": "УИК №1417",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "474402766767",
+    "uikName": "УИК №1418",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "474402766768",
+    "uikName": "УИК №1419",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1420,
     "uikTvd": "474402766769",
+    "uikName": "УИК №1420",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1421,
     "uikTvd": "474402766770",
+    "uikName": "УИК №1421",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1422,
     "uikTvd": "474402766771",
+    "uikName": "УИК №1422",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1423,
     "uikTvd": "474402766772",
+    "uikName": "УИК №1423",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1424,
     "uikTvd": "474402766773",
+    "uikName": "УИК №1424",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1425,
     "uikTvd": "474402766870",
+    "uikName": "УИК №1425",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1426,
     "uikTvd": "474402766774",
+    "uikName": "УИК №1426",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1427,
     "uikTvd": "474402766775",
+    "uikName": "УИК №1427",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1428,
     "uikTvd": "474402766776",
+    "uikName": "УИК №1428",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1429,
     "uikTvd": "474402766777",
+    "uikName": "УИК №1429",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1430,
     "uikTvd": "474402766778",
+    "uikName": "УИК №1430",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1431,
     "uikTvd": "474402766779",
+    "uikName": "УИК №1431",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1432,
     "uikTvd": "474402766780",
+    "uikName": "УИК №1432",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1433,
     "uikTvd": "474402766781",
+    "uikName": "УИК №1433",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1434,
     "uikTvd": "474402766782",
+    "uikName": "УИК №1434",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1435,
     "uikTvd": "474402766783",
+    "uikName": "УИК №1435",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1436,
     "uikTvd": "474402766784",
+    "uikName": "УИК №1436",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1437,
     "uikTvd": "474402766785",
+    "uikName": "УИК №1437",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1438,
     "uikTvd": "474402766786",
+    "uikName": "УИК №1438",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1439,
     "uikTvd": "474402766787",
+    "uikName": "УИК №1439",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1440,
     "uikTvd": "474402766788",
+    "uikName": "УИК №1440",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1441,
     "uikTvd": "474402766789",
+    "uikName": "УИК №1441",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1442,
     "uikTvd": "474402766790",
+    "uikName": "УИК №1442",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1443,
     "uikTvd": "474402766791",
+    "uikName": "УИК №1443",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1444,
     "uikTvd": "474402766792",
+    "uikName": "УИК №1444",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1445,
     "uikTvd": "474402766793",
+    "uikName": "УИК №1445",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1446,
     "uikTvd": "474402766794",
+    "uikName": "УИК №1446",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1447,
     "uikTvd": "474402766795",
+    "uikName": "УИК №1447",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1448,
     "uikTvd": "474402766796",
+    "uikName": "УИК №1448",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1449,
     "uikTvd": "474402766797",
+    "uikName": "УИК №1449",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1450,
     "uikTvd": "474402766798",
+    "uikName": "УИК №1450",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1451,
     "uikTvd": "474402766799",
+    "uikName": "УИК №1451",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1452,
     "uikTvd": "474402766800",
+    "uikName": "УИК №1452",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1453,
     "uikTvd": "474402766801",
+    "uikName": "УИК №1453",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1454,
     "uikTvd": "474402766802",
+    "uikName": "УИК №1454",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1455,
     "uikTvd": "474402766803",
+    "uikName": "УИК №1455",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1456,
     "uikTvd": "474402766804",
+    "uikName": "УИК №1456",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1457,
     "uikTvd": "474402766805",
+    "uikName": "УИК №1457",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1458,
     "uikTvd": "474402766806",
+    "uikName": "УИК №1458",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1459,
     "uikTvd": "474402766807",
+    "uikName": "УИК №1459",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1460,
     "uikTvd": "474402766808",
+    "uikName": "УИК №1460",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1461,
     "uikTvd": "474402766809",
+    "uikName": "УИК №1461",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1462,
     "uikTvd": "474402766810",
+    "uikName": "УИК №1462",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1463,
     "uikTvd": "474402766811",
+    "uikName": "УИК №1463",
     "tikTvd": "374300467155",
-    "tikName": "Магнитогорск, Орджоникидзевская"
+    "tikName": "Магнитогорск, Орджоникидзевская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1465,
     "uikTvd": "474400666683",
+    "uikName": "УИК №1465",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1466,
     "uikTvd": "474400666684",
+    "uikName": "УИК №1466",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1467,
     "uikTvd": "474400666685",
+    "uikName": "УИК №1467",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1468,
     "uikTvd": "474400666686",
+    "uikName": "УИК №1468",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1469,
     "uikTvd": "474400666687",
+    "uikName": "УИК №1469",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1470,
     "uikTvd": "474400666688",
+    "uikName": "УИК №1470",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1471,
     "uikTvd": "474400666689",
+    "uikName": "УИК №1471",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1472,
     "uikTvd": "474400666690",
+    "uikName": "УИК №1472",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1473,
     "uikTvd": "474400666691",
+    "uikName": "УИК №1473",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1474,
     "uikTvd": "474400666692",
+    "uikName": "УИК №1474",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1475,
     "uikTvd": "474400666693",
+    "uikName": "УИК №1475",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1476,
     "uikTvd": "474400666694",
+    "uikName": "УИК №1476",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1477,
     "uikTvd": "474400666695",
+    "uikName": "УИК №1477",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1478,
     "uikTvd": "474400666696",
+    "uikName": "УИК №1478",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1479,
     "uikTvd": "474400666697",
+    "uikName": "УИК №1479",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1480,
     "uikTvd": "474400666698",
+    "uikName": "УИК №1480",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1481,
     "uikTvd": "474400666699",
+    "uikName": "УИК №1481",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1482,
     "uikTvd": "474400666700",
+    "uikName": "УИК №1482",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1483,
     "uikTvd": "474400666701",
+    "uikName": "УИК №1483",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1484,
     "uikTvd": "474400666702",
+    "uikName": "УИК №1484",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1485,
     "uikTvd": "474400666703",
+    "uikName": "УИК №1485",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1486,
     "uikTvd": "474400666704",
+    "uikName": "УИК №1486",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1487,
     "uikTvd": "474400666705",
+    "uikName": "УИК №1487",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1488,
     "uikTvd": "474400666706",
+    "uikName": "УИК №1488",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1489,
     "uikTvd": "474400666707",
+    "uikName": "УИК №1489",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1490,
     "uikTvd": "474400666708",
+    "uikName": "УИК №1490",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1491,
     "uikTvd": "474400666709",
+    "uikName": "УИК №1491",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1492,
     "uikTvd": "474400666710",
+    "uikName": "УИК №1492",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1493,
     "uikTvd": "474400666711",
+    "uikName": "УИК №1493",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1494,
     "uikTvd": "474400666712",
+    "uikName": "УИК №1494",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1495,
     "uikTvd": "474400666713",
+    "uikName": "УИК №1495",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1496,
     "uikTvd": "474400666714",
+    "uikName": "УИК №1496",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1497,
     "uikTvd": "474400666715",
+    "uikName": "УИК №1497",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1498,
     "uikTvd": "474400666716",
+    "uikName": "УИК №1498",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1499,
     "uikTvd": "474400666717",
+    "uikName": "УИК №1499",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1500,
     "uikTvd": "474400666718",
+    "uikName": "УИК №1500",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "474400666719",
+    "uikName": "УИК №1501",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "474400666720",
+    "uikName": "УИК №1502",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "474400666721",
+    "uikName": "УИК №1503",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "474400666722",
+    "uikName": "УИК №1504",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "474400666723",
+    "uikName": "УИК №1505",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "474400666724",
+    "uikName": "УИК №1506",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "474400666725",
+    "uikName": "УИК №1507",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "474400666726",
+    "uikName": "УИК №1508",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "474400666727",
+    "uikName": "УИК №1509",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "474400666728",
+    "uikName": "УИК №1510",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "474400666729",
+    "uikName": "УИК №1511",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "474400666730",
+    "uikName": "УИК №1512",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "474400666731",
+    "uikName": "УИК №1513",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "474400666732",
+    "uikName": "УИК №1514",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "474400666733",
+    "uikName": "УИК №1515",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "474400666734",
+    "uikName": "УИК №1516",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "474400666735",
+    "uikName": "УИК №1517",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "474400666736",
+    "uikName": "УИК №1518",
     "tikTvd": "374300467145",
-    "tikName": "Верхнеуральский район"
+    "tikName": "Верхнеуральский район",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "474400166686",
+    "uikName": "УИК №1519",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "474400166687",
+    "uikName": "УИК №1520",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "474400166688",
+    "uikName": "УИК №1521",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "474400166689",
+    "uikName": "УИК №1522",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "474400166690",
+    "uikName": "УИК №1523",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "474400166691",
+    "uikName": "УИК №1524",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "474400166692",
+    "uikName": "УИК №1525",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1526,
     "uikTvd": "474400166693",
+    "uikName": "УИК №1526",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1527,
     "uikTvd": "474400166694",
+    "uikName": "УИК №1527",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1528,
     "uikTvd": "474400166695",
+    "uikName": "УИК №1528",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1529,
     "uikTvd": "474400166696",
+    "uikName": "УИК №1529",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1530,
     "uikTvd": "474400166697",
+    "uikName": "УИК №1530",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1531,
     "uikTvd": "474400166698",
+    "uikName": "УИК №1531",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1532,
     "uikTvd": "474400166699",
+    "uikName": "УИК №1532",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1533,
     "uikTvd": "474400166700",
+    "uikName": "УИК №1533",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1534,
     "uikTvd": "474400166701",
+    "uikName": "УИК №1534",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1535,
     "uikTvd": "474400166702",
+    "uikName": "УИК №1535",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1536,
     "uikTvd": "474400166703",
+    "uikName": "УИК №1536",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1537,
     "uikTvd": "474400166704",
+    "uikName": "УИК №1537",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1538,
     "uikTvd": "474400166705",
+    "uikName": "УИК №1538",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1539,
     "uikTvd": "474400166706",
+    "uikName": "УИК №1539",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1540,
     "uikTvd": "474400166707",
+    "uikName": "УИК №1540",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1541,
     "uikTvd": "474400166708",
+    "uikName": "УИК №1541",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1542,
     "uikTvd": "474400166709",
+    "uikName": "УИК №1542",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1543,
     "uikTvd": "474400166710",
+    "uikName": "УИК №1543",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1544,
     "uikTvd": "474400166711",
+    "uikName": "УИК №1544",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1545,
     "uikTvd": "474400166712",
+    "uikName": "УИК №1545",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1546,
     "uikTvd": "474400166713",
+    "uikName": "УИК №1546",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1547,
     "uikTvd": "474400166714",
+    "uikName": "УИК №1547",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1548,
     "uikTvd": "474400166715",
+    "uikName": "УИК №1548",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1549,
     "uikTvd": "474400166716",
+    "uikName": "УИК №1549",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1550,
     "uikTvd": "474400166717",
+    "uikName": "УИК №1550",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1551,
     "uikTvd": "474400166718",
+    "uikName": "УИК №1551",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1552,
     "uikTvd": "474400166719",
+    "uikName": "УИК №1552",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1553,
     "uikTvd": "474400166720",
+    "uikName": "УИК №1553",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1554,
     "uikTvd": "474400166721",
+    "uikName": "УИК №1554",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1555,
     "uikTvd": "474400166722",
+    "uikName": "УИК №1555",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1556,
     "uikTvd": "474400166723",
+    "uikName": "УИК №1556",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1557,
     "uikTvd": "474400166724",
+    "uikName": "УИК №1557",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1558,
     "uikTvd": "474400166725",
+    "uikName": "УИК №1558",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1559,
     "uikTvd": "474400166726",
+    "uikName": "УИК №1559",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1560,
     "uikTvd": "474400166727",
+    "uikName": "УИК №1560",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1561,
     "uikTvd": "474400166728",
+    "uikName": "УИК №1561",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1562,
     "uikTvd": "474400166729",
+    "uikName": "УИК №1562",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1563,
     "uikTvd": "474400166730",
+    "uikName": "УИК №1563",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1564,
     "uikTvd": "474400166731",
+    "uikName": "УИК №1564",
     "tikTvd": "374300467171",
-    "tikName": "Агаповская"
+    "tikName": "Агаповская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1565,
     "uikTvd": "474400466738",
+    "uikName": "УИК №1565",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1566,
     "uikTvd": "474400466739",
+    "uikName": "УИК №1566",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1567,
     "uikTvd": "474400466740",
+    "uikName": "УИК №1567",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1568,
     "uikTvd": "474400466741",
+    "uikName": "УИК №1568",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1569,
     "uikTvd": "474400466742",
+    "uikName": "УИК №1569",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1570,
     "uikTvd": "474400466743",
+    "uikName": "УИК №1570",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1571,
     "uikTvd": "474400466744",
+    "uikName": "УИК №1571",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1572,
     "uikTvd": "474400466745",
+    "uikName": "УИК №1572",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1573,
     "uikTvd": "474400466746",
+    "uikName": "УИК №1573",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1574,
     "uikTvd": "474400466747",
+    "uikName": "УИК №1574",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1575,
     "uikTvd": "474400466748",
+    "uikName": "УИК №1575",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1576,
     "uikTvd": "474400466749",
+    "uikName": "УИК №1576",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1577,
     "uikTvd": "474400466750",
+    "uikName": "УИК №1577",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1578,
     "uikTvd": "474400466751",
+    "uikName": "УИК №1578",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1579,
     "uikTvd": "474400466752",
+    "uikName": "УИК №1579",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1580,
     "uikTvd": "474400466753",
+    "uikName": "УИК №1580",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1581,
     "uikTvd": "474400466754",
+    "uikName": "УИК №1581",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1582,
     "uikTvd": "474400466755",
+    "uikName": "УИК №1582",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1583,
     "uikTvd": "474400466756",
+    "uikName": "УИК №1583",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1584,
     "uikTvd": "474400466757",
+    "uikName": "УИК №1584",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1585,
     "uikTvd": "474400466758",
+    "uikName": "УИК №1585",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1586,
     "uikTvd": "474400466759",
+    "uikName": "УИК №1586",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1587,
     "uikTvd": "474400466760",
+    "uikName": "УИК №1587",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1588,
     "uikTvd": "474400466761",
+    "uikName": "УИК №1588",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1589,
     "uikTvd": "474400466762",
+    "uikName": "УИК №1589",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1590,
     "uikTvd": "474400466763",
+    "uikName": "УИК №1590",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1591,
     "uikTvd": "474400466764",
+    "uikName": "УИК №1591",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1592,
     "uikTvd": "474400466765",
+    "uikName": "УИК №1592",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1593,
     "uikTvd": "474400466766",
+    "uikName": "УИК №1593",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1594,
     "uikTvd": "474400466767",
+    "uikName": "УИК №1594",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1595,
     "uikTvd": "474400466768",
+    "uikName": "УИК №1595",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1596,
     "uikTvd": "474400466769",
+    "uikName": "УИК №1596",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1597,
     "uikTvd": "474400466770",
+    "uikName": "УИК №1597",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1598,
     "uikTvd": "474400466771",
+    "uikName": "УИК №1598",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1599,
     "uikTvd": "474400466772",
+    "uikName": "УИК №1599",
     "tikTvd": "374300467141",
-    "tikName": "Брединская"
+    "tikName": "Брединская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1600,
     "uikTvd": "474400566729",
+    "uikName": "УИК №1600",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "474400566730",
+    "uikName": "УИК №1601",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "474400566731",
+    "uikName": "УИК №1602",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "474400566732",
+    "uikName": "УИК №1603",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "474400566733",
+    "uikName": "УИК №1604",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "474400566734",
+    "uikName": "УИК №1605",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "474400566735",
+    "uikName": "УИК №1606",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "474400566736",
+    "uikName": "УИК №1607",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "474400566737",
+    "uikName": "УИК №1608",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "474400566738",
+    "uikName": "УИК №1609",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "474400566739",
+    "uikName": "УИК №1610",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "474400566740",
+    "uikName": "УИК №1611",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "474400566741",
+    "uikName": "УИК №1612",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "474400566742",
+    "uikName": "УИК №1613",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "474400566743",
+    "uikName": "УИК №1614",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1615,
     "uikTvd": "474400566744",
+    "uikName": "УИК №1615",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1616,
     "uikTvd": "474400566745",
+    "uikName": "УИК №1616",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1617,
     "uikTvd": "474400566746",
+    "uikName": "УИК №1617",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1618,
     "uikTvd": "474400566747",
+    "uikName": "УИК №1618",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1619,
     "uikTvd": "474400566748",
+    "uikName": "УИК №1619",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1620,
     "uikTvd": "474400566749",
+    "uikName": "УИК №1620",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1621,
     "uikTvd": "474400566750",
+    "uikName": "УИК №1621",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1622,
     "uikTvd": "474400566751",
+    "uikName": "УИК №1622",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1623,
     "uikTvd": "474400566752",
+    "uikName": "УИК №1623",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1624,
     "uikTvd": "474400566753",
+    "uikName": "УИК №1624",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1625,
     "uikTvd": "474400566754",
+    "uikName": "УИК №1625",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1626,
     "uikTvd": "474400566755",
+    "uikName": "УИК №1626",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1627,
     "uikTvd": "474400566756",
+    "uikName": "УИК №1627",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1628,
     "uikTvd": "474400566757",
+    "uikName": "УИК №1628",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1629,
     "uikTvd": "474400566758",
+    "uikName": "УИК №1629",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1630,
     "uikTvd": "474400566759",
+    "uikName": "УИК №1630",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1631,
     "uikTvd": "474400566760",
+    "uikName": "УИК №1631",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1632,
     "uikTvd": "474400566761",
+    "uikName": "УИК №1632",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1633,
     "uikTvd": "474400566762",
+    "uikName": "УИК №1633",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1634,
     "uikTvd": "474400566763",
+    "uikName": "УИК №1634",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1635,
     "uikTvd": "474400566764",
+    "uikName": "УИК №1635",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1636,
     "uikTvd": "474400566765",
+    "uikName": "УИК №1636",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1637,
     "uikTvd": "474400566766",
+    "uikName": "УИК №1637",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1638,
     "uikTvd": "474400566767",
+    "uikName": "УИК №1638",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1639,
     "uikTvd": "474400566768",
+    "uikName": "УИК №1639",
     "tikTvd": "374300467143",
-    "tikName": "Варненская"
+    "tikName": "Варненская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1640,
     "uikTvd": "474401366743",
+    "uikName": "УИК №1640",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1641,
     "uikTvd": "474401366744",
+    "uikName": "УИК №1641",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1642,
     "uikTvd": "474401366745",
+    "uikName": "УИК №1642",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1643,
     "uikTvd": "474401366746",
+    "uikName": "УИК №1643",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1644,
     "uikTvd": "474401366747",
+    "uikName": "УИК №1644",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1645,
     "uikTvd": "474401366748",
+    "uikName": "УИК №1645",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1646,
     "uikTvd": "474401366749",
+    "uikName": "УИК №1646",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1647,
     "uikTvd": "474401366750",
+    "uikName": "УИК №1647",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1648,
     "uikTvd": "474401366751",
+    "uikName": "УИК №1648",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1649,
     "uikTvd": "474401366752",
+    "uikName": "УИК №1649",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1650,
     "uikTvd": "474401366753",
+    "uikName": "УИК №1650",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1651,
     "uikTvd": "474401366754",
+    "uikName": "УИК №1651",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1652,
     "uikTvd": "474401366755",
+    "uikName": "УИК №1652",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1653,
     "uikTvd": "474401366756",
+    "uikName": "УИК №1653",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1654,
     "uikTvd": "474401366757",
+    "uikName": "УИК №1654",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1655,
     "uikTvd": "474401366758",
+    "uikName": "УИК №1655",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1656,
     "uikTvd": "474401366759",
+    "uikName": "УИК №1656",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1657,
     "uikTvd": "474401366760",
+    "uikName": "УИК №1657",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1658,
     "uikTvd": "474401366761",
+    "uikName": "УИК №1658",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1659,
     "uikTvd": "474401366762",
+    "uikName": "УИК №1659",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1660,
     "uikTvd": "474401366763",
+    "uikName": "УИК №1660",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1661,
     "uikTvd": "474401366764",
+    "uikName": "УИК №1661",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1662,
     "uikTvd": "474401366765",
+    "uikName": "УИК №1662",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1663,
     "uikTvd": "474401366766",
+    "uikName": "УИК №1663",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1664,
     "uikTvd": "474401366767",
+    "uikName": "УИК №1664",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1665,
     "uikTvd": "474401366768",
+    "uikName": "УИК №1665",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1666,
     "uikTvd": "474401366769",
+    "uikName": "УИК №1666",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1667,
     "uikTvd": "474401366770",
+    "uikName": "УИК №1667",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1668,
     "uikTvd": "474401366771",
+    "uikName": "УИК №1668",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1669,
     "uikTvd": "474401366772",
+    "uikName": "УИК №1669",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1670,
     "uikTvd": "474401366773",
+    "uikName": "УИК №1670",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1671,
     "uikTvd": "474401366774",
+    "uikName": "УИК №1671",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1672,
     "uikTvd": "474401366775",
+    "uikName": "УИК №1672",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1673,
     "uikTvd": "474401366776",
+    "uikName": "УИК №1673",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1674,
     "uikTvd": "474401366777",
+    "uikName": "УИК №1674",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1675,
     "uikTvd": "474401366778",
+    "uikName": "УИК №1675",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1676,
     "uikTvd": "474401366779",
+    "uikName": "УИК №1676",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1677,
     "uikTvd": "474401366780",
+    "uikName": "УИК №1677",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1678,
     "uikTvd": "474401366781",
+    "uikName": "УИК №1678",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1679,
     "uikTvd": "474401366782",
+    "uikName": "УИК №1679",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1680,
     "uikTvd": "474401366783",
+    "uikName": "УИК №1680",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1681,
     "uikTvd": "474401366784",
+    "uikName": "УИК №1681",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1682,
     "uikTvd": "474401366785",
+    "uikName": "УИК №1682",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1683,
     "uikTvd": "474401366786",
+    "uikName": "УИК №1683",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1684,
     "uikTvd": "474401366787",
+    "uikName": "УИК №1684",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1685,
     "uikTvd": "474401366788",
+    "uikName": "УИК №1685",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1686,
     "uikTvd": "474401366789",
+    "uikName": "УИК №1686",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1687,
     "uikTvd": "474401366790",
+    "uikName": "УИК №1687",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1688,
     "uikTvd": "474401366791",
+    "uikName": "УИК №1688",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1689,
     "uikTvd": "474401366792",
+    "uikName": "УИК №1689",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1690,
     "uikTvd": "474401366793",
+    "uikName": "УИК №1690",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1691,
     "uikTvd": "474401366794",
+    "uikName": "УИК №1691",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1692,
     "uikTvd": "474401366795",
+    "uikName": "УИК №1692",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1693,
     "uikTvd": "474401366796",
+    "uikName": "УИК №1693",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1694,
     "uikTvd": "474401366797",
+    "uikName": "УИК №1694",
     "tikTvd": "374300467149",
-    "tikName": "Карталинская"
+    "tikName": "Карталинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1695,
     "uikTvd": "474401266655",
+    "uikName": "УИК  1695",
     "tikTvd": "374300467147",
-    "tikName": "Локомотивная поселковая"
+    "tikName": "Локомотивная поселковая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1696,
     "uikTvd": "474401266656",
+    "uikName": "УИК  1696",
     "tikTvd": "374300467147",
-    "tikName": "Локомотивная поселковая"
+    "tikName": "Локомотивная поселковая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1697,
     "uikTvd": "474401266657",
+    "uikName": "УИК  1697",
     "tikTvd": "374300467147",
-    "tikName": "Локомотивная поселковая"
+    "tikName": "Локомотивная поселковая",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1698,
     "uikTvd": "474401866678",
+    "uikName": "УИК №1698",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1699,
     "uikTvd": "474401866679",
+    "uikName": "УИК №1699",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1700,
     "uikTvd": "474401866680",
+    "uikName": "УИК №1700",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1701,
     "uikTvd": "474401866681",
+    "uikName": "УИК №1701",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "474401866682",
+    "uikName": "УИК №1702",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "474401866683",
+    "uikName": "УИК №1703",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1704,
     "uikTvd": "474401866684",
+    "uikName": "УИК №1704",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "474401866685",
+    "uikName": "УИК №1705",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1706,
     "uikTvd": "474401866686",
+    "uikName": "УИК №1706",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "474401866687",
+    "uikName": "УИК №1707",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1708,
     "uikTvd": "474401866688",
+    "uikName": "УИК №1708",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "474401866689",
+    "uikName": "УИК №1709",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "474401866690",
+    "uikName": "УИК №1710",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "474401866691",
+    "uikName": "УИК №1711",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1712,
     "uikTvd": "474401866692",
+    "uikName": "УИК №1712",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1713,
     "uikTvd": "474401866693",
+    "uikName": "УИК №1713",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1714,
     "uikTvd": "474401866694",
+    "uikName": "УИК №1714",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "474401866695",
+    "uikName": "УИК №1715",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1716,
     "uikTvd": "474401866696",
+    "uikName": "УИК №1716",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1717,
     "uikTvd": "474401866697",
+    "uikName": "УИК №1717",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1718,
     "uikTvd": "474401866698",
+    "uikName": "УИК №1718",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "474401866699",
+    "uikName": "УИК №1719",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "474401866700",
+    "uikName": "УИК №1720",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "474401866701",
+    "uikName": "УИК №1721",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "474401866702",
+    "uikName": "УИК №1722",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1723,
     "uikTvd": "474401866703",
+    "uikName": "УИК №1723",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1724,
     "uikTvd": "474401866704",
+    "uikName": "УИК №1724",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1725,
     "uikTvd": "474401866705",
+    "uikName": "УИК №1725",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1726,
     "uikTvd": "474401866706",
+    "uikName": "УИК №1726",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1727,
     "uikTvd": "474401866707",
+    "uikName": "УИК №1727",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1728,
     "uikTvd": "474401866708",
+    "uikName": "УИК №1728",
     "tikTvd": "374300467151",
-    "tikName": "Кизильская"
+    "tikName": "Кизильская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1729,
     "uikTvd": "474403066700",
+    "uikName": "УИК №1729",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1730,
     "uikTvd": "474403066701",
+    "uikName": "УИК №1730",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1731,
     "uikTvd": "474403066702",
+    "uikName": "УИК №1731",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1732,
     "uikTvd": "474403066703",
+    "uikName": "УИК №1732",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1733,
     "uikTvd": "474403066704",
+    "uikName": "УИК №1733",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1734,
     "uikTvd": "474403066705",
+    "uikName": "УИК №1734",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1735,
     "uikTvd": "474403066706",
+    "uikName": "УИК №1735",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1736,
     "uikTvd": "474403066707",
+    "uikName": "УИК №1736",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1737,
     "uikTvd": "474403066708",
+    "uikName": "УИК №1737",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1738,
     "uikTvd": "474403066709",
+    "uikName": "УИК №1738",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1739,
     "uikTvd": "474403066710",
+    "uikName": "УИК №1739",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1740,
     "uikTvd": "474403066711",
+    "uikName": "УИК №1740",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1741,
     "uikTvd": "474403066712",
+    "uikName": "УИК №1741",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1742,
     "uikTvd": "474403066713",
+    "uikName": "УИК №1742",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1743,
     "uikTvd": "474403066714",
+    "uikName": "УИК №1743",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1744,
     "uikTvd": "474403066715",
+    "uikName": "УИК №1744",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1745,
     "uikTvd": "474403066716",
+    "uikName": "УИК №1745",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1746,
     "uikTvd": "474403066717",
+    "uikName": "УИК №1746",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1747,
     "uikTvd": "474403066718",
+    "uikName": "УИК №1747",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1748,
     "uikTvd": "474403066719",
+    "uikName": "УИК №1748",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1749,
     "uikTvd": "474403066720",
+    "uikName": "УИК №1749",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1750,
     "uikTvd": "474403066721",
+    "uikName": "УИК №1750",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1751,
     "uikTvd": "474403066722",
+    "uikName": "УИК №1751",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1752,
     "uikTvd": "474403066723",
+    "uikName": "УИК №1752",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1753,
     "uikTvd": "474403066724",
+    "uikName": "УИК №1753",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1754,
     "uikTvd": "474403066725",
+    "uikName": "УИК №1754",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1755,
     "uikTvd": "474403066726",
+    "uikName": "УИК №1755",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1756,
     "uikTvd": "474403066727",
+    "uikName": "УИК №1756",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1757,
     "uikTvd": "474403066728",
+    "uikName": "УИК №1757",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1758,
     "uikTvd": "474403066729",
+    "uikName": "УИК №1758",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1759,
     "uikTvd": "474403066730",
+    "uikName": "УИК №1759",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1760,
     "uikTvd": "474403066731",
+    "uikName": "УИК №1760",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1761,
     "uikTvd": "474403066732",
+    "uikName": "УИК №1761",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1762,
     "uikTvd": "474403066733",
+    "uikName": "УИК №1762",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1763,
     "uikTvd": "474403066734",
+    "uikName": "УИК №1763",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1764,
     "uikTvd": "474403066735",
+    "uikName": "УИК №1764",
     "tikTvd": "374300467159",
-    "tikName": "Нагайбакская"
+    "tikName": "Нагайбакская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1765,
     "uikTvd": "474404866816",
+    "uikName": "УИК №1765",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1766,
     "uikTvd": "474404866817",
+    "uikName": "УИК №1766",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1767,
     "uikTvd": "474404866818",
+    "uikName": "УИК №1767",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1768,
     "uikTvd": "474404866819",
+    "uikName": "УИК №1768",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1769,
     "uikTvd": "474404866820",
+    "uikName": "УИК №1769",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1770,
     "uikTvd": "474404866821",
+    "uikName": "УИК №1770",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1771,
     "uikTvd": "474404866822",
+    "uikName": "УИК №1771",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1772,
     "uikTvd": "474404866823",
+    "uikName": "УИК №1772",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1773,
     "uikTvd": "474404866824",
+    "uikName": "УИК №1773",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1774,
     "uikTvd": "474404866825",
+    "uikName": "УИК №1774",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1775,
     "uikTvd": "474404866826",
+    "uikName": "УИК №1775",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1776,
     "uikTvd": "474404866827",
+    "uikName": "УИК №1776",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1777,
     "uikTvd": "474404866828",
+    "uikName": "УИК №1777",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1778,
     "uikTvd": "474404866829",
+    "uikName": "УИК №1778",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1779,
     "uikTvd": "474404866830",
+    "uikName": "УИК №1779",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1780,
     "uikTvd": "474404866831",
+    "uikName": "УИК №1780",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1781,
     "uikTvd": "474404866832",
+    "uikName": "УИК №1781",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1782,
     "uikTvd": "474404866833",
+    "uikName": "УИК №1782",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1783,
     "uikTvd": "474404866834",
+    "uikName": "УИК №1783",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1784,
     "uikTvd": "474404866835",
+    "uikName": "УИК №1784",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1785,
     "uikTvd": "474404866836",
+    "uikName": "УИК №1785",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1786,
     "uikTvd": "474404866837",
+    "uikName": "УИК №1786",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1787,
     "uikTvd": "474404866838",
+    "uikName": "УИК №1787",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1788,
     "uikTvd": "474404866839",
+    "uikName": "УИК №1788",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1789,
     "uikTvd": "474404866840",
+    "uikName": "УИК №1789",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1790,
     "uikTvd": "474404866841",
+    "uikName": "УИК №1790",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1791,
     "uikTvd": "474404866842",
+    "uikName": "УИК №1791",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1792,
     "uikTvd": "474404866843",
+    "uikName": "УИК №1792",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1793,
     "uikTvd": "474404866844",
+    "uikName": "УИК №1793",
     "tikTvd": "374300467161",
-    "tikName": "Чесменская"
+    "tikName": "Чесменская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 185,
+      "oikTvd": "100100095760",
+      "oikName": "Магнитогорский"
+    }
   },
   {
     "uikNumber": 1794,
     "uikTvd": "474400867047",
+    "uikName": "УИК  1794",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1795,
     "uikTvd": "474400867017",
+    "uikName": "УИК №1795",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1796,
     "uikTvd": "474400867018",
+    "uikName": "УИК №1796",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1797,
     "uikTvd": "474400867019",
+    "uikName": "УИК №1797",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1798,
     "uikTvd": "474400867020",
+    "uikName": "УИК №1798",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1799,
     "uikTvd": "474400867021",
+    "uikName": "УИК №1799",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1800,
     "uikTvd": "474400867022",
+    "uikName": "УИК №1800",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "474400867023",
+    "uikName": "УИК №1801",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "474400867024",
+    "uikName": "УИК №1802",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "474400867025",
+    "uikName": "УИК №1803",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1804,
     "uikTvd": "474400867026",
+    "uikName": "УИК №1804",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1805,
     "uikTvd": "474400867027",
+    "uikName": "УИК №1805",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1806,
     "uikTvd": "474400867028",
+    "uikName": "УИК №1806",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1807,
     "uikTvd": "474400867029",
+    "uikName": "УИК №1807",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "474400867030",
+    "uikName": "УИК №1808",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "474400867031",
+    "uikName": "УИК №1809",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "474400867032",
+    "uikName": "УИК №1810",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "474400867033",
+    "uikName": "УИК №1811",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "474400867034",
+    "uikName": "УИК №1812",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1813,
     "uikTvd": "474400867035",
+    "uikName": "УИК №1813",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "474400867036",
+    "uikName": "УИК №1814",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "474400867037",
+    "uikName": "УИК №1815",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1816,
     "uikTvd": "474400867038",
+    "uikName": "УИК №1816",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "474400867039",
+    "uikName": "УИК №1817",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1818,
     "uikTvd": "474400867040",
+    "uikName": "УИК №1818",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "474400867041",
+    "uikName": "УИК №1819",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "474400867042",
+    "uikName": "УИК №1820",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1821,
     "uikTvd": "474400867043",
+    "uikName": "УИК №1821",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "474400867044",
+    "uikName": "УИК №1822",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "474400867045",
+    "uikName": "УИК №1823",
     "tikTvd": "374300567248",
-    "tikName": "Еманжелинская городская\r\n"
+    "tikName": "Еманжелинская городская\r\n",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "474400966744",
+    "uikName": "УИК №1824",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1825,
     "uikTvd": "474400966745",
+    "uikName": "УИК №1825",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1826,
     "uikTvd": "474400966746",
+    "uikName": "УИК №1826",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1827,
     "uikTvd": "474400966747",
+    "uikName": "УИК №1827",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1828,
     "uikTvd": "474400966748",
+    "uikName": "УИК №1828",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1829,
     "uikTvd": "474400966749",
+    "uikName": "УИК №1829",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1830,
     "uikTvd": "474400966750",
+    "uikName": "УИК №1830",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1831,
     "uikTvd": "474400966751",
+    "uikName": "УИК №1831",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1832,
     "uikTvd": "474400966752",
+    "uikName": "УИК №1832",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1833,
     "uikTvd": "474400966753",
+    "uikName": "УИК №1833",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1834,
     "uikTvd": "474400966754",
+    "uikName": "УИК №1834",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1835,
     "uikTvd": "474400966755",
+    "uikName": "УИК №1835",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1836,
     "uikTvd": "474400966756",
+    "uikName": "УИК №1836",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1837,
     "uikTvd": "474400966757",
+    "uikName": "УИК №1837",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1838,
     "uikTvd": "474400966758",
+    "uikName": "УИК №1838",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1839,
     "uikTvd": "474400966759",
+    "uikName": "УИК №1839",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1840,
     "uikTvd": "474400966760",
+    "uikName": "УИК №1840",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1841,
     "uikTvd": "474400966761",
+    "uikName": "УИК №1841",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1842,
     "uikTvd": "474400966762",
+    "uikName": "УИК №1842",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1843,
     "uikTvd": "474400966763",
+    "uikName": "УИК №1843",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1844,
     "uikTvd": "474400966764",
+    "uikName": "УИК №1844",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1845,
     "uikTvd": "474400966765",
+    "uikName": "УИК №1845",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1846,
     "uikTvd": "474400966766",
+    "uikName": "УИК №1846",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1847,
     "uikTvd": "474400966767",
+    "uikName": "УИК №1847",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1848,
     "uikTvd": "474400966768",
+    "uikName": "УИК №1848",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1849,
     "uikTvd": "474400966769",
+    "uikName": "УИК №1849",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1850,
     "uikTvd": "474400966770",
+    "uikName": "УИК №1850",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1851,
     "uikTvd": "474400966771",
+    "uikName": "УИК №1851",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1852,
     "uikTvd": "474400966772",
+    "uikName": "УИК №1852",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1853,
     "uikTvd": "474400966773",
+    "uikName": "УИК №1853",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1854,
     "uikTvd": "474400966774",
+    "uikName": "УИК №1854",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1855,
     "uikTvd": "474400966775",
+    "uikName": "УИК №1855",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1856,
     "uikTvd": "474400966776",
+    "uikName": "УИК №1856",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1857,
     "uikTvd": "474400966777",
+    "uikName": "УИК №1857",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1858,
     "uikTvd": "474400966778",
+    "uikName": "УИК №1858",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1859,
     "uikTvd": "474400966779",
+    "uikName": "УИК №1859",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1860,
     "uikTvd": "474400966780",
+    "uikName": "УИК №1860",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1861,
     "uikTvd": "474400966781",
+    "uikName": "УИК №1861",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1862,
     "uikTvd": "474400966782",
+    "uikName": "УИК №1862",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1863,
     "uikTvd": "474400966783",
+    "uikName": "УИК №1863",
     "tikTvd": "374300567245",
-    "tikName": "Еткульская"
+    "tikName": "Еткульская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1864,
     "uikTvd": "474401966702",
+    "uikName": "УИК №1864",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1865,
     "uikTvd": "474401966704",
+    "uikName": "УИК №1865",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1866,
     "uikTvd": "474401966706",
+    "uikName": "УИК №1866",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1867,
     "uikTvd": "474401966708",
+    "uikName": "УИК №1867",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1868,
     "uikTvd": "474401966710",
+    "uikName": "УИК №1868",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1869,
     "uikTvd": "474401966712",
+    "uikName": "УИК №1869",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1870,
     "uikTvd": "474401966714",
+    "uikName": "УИК №1870",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1871,
     "uikTvd": "474401966716",
+    "uikName": "УИК №1871",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1872,
     "uikTvd": "474401966718",
+    "uikName": "УИК №1872",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1873,
     "uikTvd": "474401966720",
+    "uikName": "УИК №1873",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1874,
     "uikTvd": "474401966722",
+    "uikName": "УИК №1874",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1875,
     "uikTvd": "474401966724",
+    "uikName": "УИК №1875",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1876,
     "uikTvd": "474401966726",
+    "uikName": "УИК №1876",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1877,
     "uikTvd": "474401966728",
+    "uikName": "УИК №1877",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1878,
     "uikTvd": "474401966730",
+    "uikName": "УИК №1878",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1879,
     "uikTvd": "474401966732",
+    "uikName": "УИК №1879",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1880,
     "uikTvd": "474401966734",
+    "uikName": "УИК №1880",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1881,
     "uikTvd": "474401966736",
+    "uikName": "УИК №1881",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1882,
     "uikTvd": "474401966738",
+    "uikName": "УИК №1882",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1883,
     "uikTvd": "474401966740",
+    "uikName": "УИК №1883",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1884,
     "uikTvd": "474401966742",
+    "uikName": "УИК №1884",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1885,
     "uikTvd": "474401966744",
+    "uikName": "УИК №1885",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1886,
     "uikTvd": "474401966746",
+    "uikName": "УИК №1886",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1887,
     "uikTvd": "474401966748",
+    "uikName": "УИК №1887",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1888,
     "uikTvd": "474401966750",
+    "uikName": "УИК №1888",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1889,
     "uikTvd": "474401966752",
+    "uikName": "УИК №1889",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1890,
     "uikTvd": "474401966754",
+    "uikName": "УИК №1890",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1891,
     "uikTvd": "474401966756",
+    "uikName": "УИК №1891",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1892,
     "uikTvd": "474401966758",
+    "uikName": "УИК №1892",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1893,
     "uikTvd": "474401966760",
+    "uikName": "УИК №1893",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1894,
     "uikTvd": "474401966762",
+    "uikName": "УИК №1894",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1895,
     "uikTvd": "474401966764",
+    "uikName": "УИК №1895",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1896,
     "uikTvd": "474401966766",
+    "uikName": "УИК №1896",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1897,
     "uikTvd": "474401966768",
+    "uikName": "УИК №1897",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1898,
     "uikTvd": "474401966770",
+    "uikName": "УИК №1898",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1899,
     "uikTvd": "474401966772",
+    "uikName": "УИК №1899",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1900,
     "uikTvd": "474401966774",
+    "uikName": "УИК №1900",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1901,
     "uikTvd": "474401966776",
+    "uikName": "УИК №1901",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1902,
     "uikTvd": "474401966778",
+    "uikName": "УИК №1902",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1903,
     "uikTvd": "474401966780",
+    "uikName": "УИК №1903",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "474401966782",
+    "uikName": "УИК №1904",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "474401966784",
+    "uikName": "УИК №1905",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "474401966786",
+    "uikName": "УИК №1906",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "474401966788",
+    "uikName": "УИК №1907",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "474401966790",
+    "uikName": "УИК №1908",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "474401966792",
+    "uikName": "УИК №1909",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "474401966794",
+    "uikName": "УИК №1910",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "474401966796",
+    "uikName": "УИК №1911",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "474401966798",
+    "uikName": "УИК №1912",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "474401966800",
+    "uikName": "УИК №1913",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "474401966802",
+    "uikName": "УИК №1914",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "474401966804",
+    "uikName": "УИК №1915",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1916,
     "uikTvd": "474401966806",
+    "uikName": "УИК №1916",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1917,
     "uikTvd": "474401966808",
+    "uikName": "УИК №1917",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1918,
     "uikTvd": "474401966810",
+    "uikName": "УИК №1918",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1919,
     "uikTvd": "474401966812",
+    "uikName": "УИК №1919",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1920,
     "uikTvd": "474401966814",
+    "uikName": "УИК №1920",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1921,
     "uikTvd": "474401966816",
+    "uikName": "УИК №1921",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1922,
     "uikTvd": "474401966818",
+    "uikName": "УИК №1922",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1923,
     "uikTvd": "474401966820",
+    "uikName": "УИК №1923",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1924,
     "uikTvd": "474401966822",
+    "uikName": "УИК №1924",
     "tikTvd": "374300567264",
-    "tikName": "Копейская городская"
+    "tikName": "Копейская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1925,
     "uikTvd": "474402066767",
+    "uikName": "УИК №1925",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1926,
     "uikTvd": "474402066769",
+    "uikName": "УИК №1926",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1927,
     "uikTvd": "474402066770",
+    "uikName": "УИК №1927",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1928,
     "uikTvd": "474402066771",
+    "uikName": "УИК №1928",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1929,
     "uikTvd": "474402066772",
+    "uikName": "УИК №1929",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1930,
     "uikTvd": "474402066773",
+    "uikName": "УИК №1930",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1931,
     "uikTvd": "474402066774",
+    "uikName": "УИК №1931",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1932,
     "uikTvd": "474402066775",
+    "uikName": "УИК №1932",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1933,
     "uikTvd": "474402066776",
+    "uikName": "УИК №1933",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1934,
     "uikTvd": "474402066777",
+    "uikName": "УИК №1934",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1935,
     "uikTvd": "474402066778",
+    "uikName": "УИК №1935",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1936,
     "uikTvd": "474402066779",
+    "uikName": "УИК №1936",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1937,
     "uikTvd": "474402066780",
+    "uikName": "УИК №1937",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1938,
     "uikTvd": "474402066781",
+    "uikName": "УИК №1938",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1939,
     "uikTvd": "474402066782",
+    "uikName": "УИК №1939",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1940,
     "uikTvd": "474402066783",
+    "uikName": "УИК №1940",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1941,
     "uikTvd": "474402066784",
+    "uikName": "УИК №1941",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1942,
     "uikTvd": "474402066785",
+    "uikName": "УИК №1942",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1943,
     "uikTvd": "474402066786",
+    "uikName": "УИК №1943",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1944,
     "uikTvd": "474402066787",
+    "uikName": "УИК №1944",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1945,
     "uikTvd": "474402066788",
+    "uikName": "УИК №1945",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1946,
     "uikTvd": "474402066789",
+    "uikName": "УИК №1946",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1947,
     "uikTvd": "474402066790",
+    "uikName": "УИК №1947",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1948,
     "uikTvd": "474402066791",
+    "uikName": "УИК №1948",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1949,
     "uikTvd": "474402066792",
+    "uikName": "УИК №1949",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1950,
     "uikTvd": "474402066793",
+    "uikName": "УИК №1950",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1951,
     "uikTvd": "474402066794",
+    "uikName": "УИК №1951",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1952,
     "uikTvd": "474402066795",
+    "uikName": "УИК №1952",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1953,
     "uikTvd": "474402066796",
+    "uikName": "УИК №1953",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1954,
     "uikTvd": "474402066797",
+    "uikName": "УИК №1954",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1955,
     "uikTvd": "474402066798",
+    "uikName": "УИК №1955",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1956,
     "uikTvd": "474402066799",
+    "uikName": "УИК №1956",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1957,
     "uikTvd": "474402066800",
+    "uikName": "УИК №1957",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1958,
     "uikTvd": "474402066801",
+    "uikName": "УИК №1958",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1959,
     "uikTvd": "474402066802",
+    "uikName": "УИК №1959",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1960,
     "uikTvd": "474402066803",
+    "uikName": "УИК №1960",
     "tikTvd": "374300567252",
-    "tikName": "Коркинская городская"
+    "tikName": "Коркинская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1961,
     "uikTvd": "474404366684",
+    "uikName": "УИК №1961",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1962,
     "uikTvd": "474404366686",
+    "uikName": "УИК №1962",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1963,
     "uikTvd": "474404366687",
+    "uikName": "УИК №1963",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1964,
     "uikTvd": "474404366688",
+    "uikName": "УИК №1964",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1965,
     "uikTvd": "474404366689",
+    "uikName": "УИК №1965",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1966,
     "uikTvd": "474404366690",
+    "uikName": "УИК №1966",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1967,
     "uikTvd": "474404366691",
+    "uikName": "УИК №1967",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1968,
     "uikTvd": "474404366692",
+    "uikName": "УИК №1968",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1969,
     "uikTvd": "474404366693",
+    "uikName": "УИК №1969",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1970,
     "uikTvd": "474404366694",
+    "uikName": "УИК №1970",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1971,
     "uikTvd": "474404366695",
+    "uikName": "УИК №1971",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1972,
     "uikTvd": "474404366696",
+    "uikName": "УИК №1972",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1973,
     "uikTvd": "474404366697",
+    "uikName": "УИК №1973",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1974,
     "uikTvd": "474404366698",
+    "uikName": "УИК №1974",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1975,
     "uikTvd": "474404366699",
+    "uikName": "УИК №1975",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1976,
     "uikTvd": "474404366700",
+    "uikName": "УИК №1976",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1977,
     "uikTvd": "474404366701",
+    "uikName": "УИК №1977",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1978,
     "uikTvd": "474404366702",
+    "uikName": "УИК №1978",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1979,
     "uikTvd": "474404366703",
+    "uikName": "УИК №1979",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1980,
     "uikTvd": "474404366704",
+    "uikName": "УИК №1980",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1981,
     "uikTvd": "474404366705",
+    "uikName": "УИК №1981",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1982,
     "uikTvd": "474404366706",
+    "uikName": "УИК №1982",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1983,
     "uikTvd": "474404366707",
+    "uikName": "УИК №1983",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1984,
     "uikTvd": "474404366708",
+    "uikName": "УИК №1984",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1985,
     "uikTvd": "474404366709",
+    "uikName": "УИК №1985",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1986,
     "uikTvd": "474404366710",
+    "uikName": "УИК №1986",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1987,
     "uikTvd": "474404366711",
+    "uikName": "УИК №1987",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1988,
     "uikTvd": "474404366712",
+    "uikName": "УИК №1988",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1989,
     "uikTvd": "474404366713",
+    "uikName": "УИК №1989",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1990,
     "uikTvd": "474404366714",
+    "uikName": "УИК №1990",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1991,
     "uikTvd": "474404366715",
+    "uikName": "УИК №1991",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1992,
     "uikTvd": "474404366716",
+    "uikName": "УИК №1992",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1993,
     "uikTvd": "474404366717",
+    "uikName": "УИК №1993",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1994,
     "uikTvd": "474404366718",
+    "uikName": "УИК №1994",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1995,
     "uikTvd": "474404366719",
+    "uikName": "УИК №1995",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1996,
     "uikTvd": "474404366720",
+    "uikName": "УИК №1996",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1997,
     "uikTvd": "474404366721",
+    "uikName": "УИК №1997",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1998,
     "uikTvd": "474404366722",
+    "uikName": "УИК №1998",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 1999,
     "uikTvd": "474404366723",
+    "uikName": "УИК №1999",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2000,
     "uikTvd": "474404366724",
+    "uikName": "УИК №2000",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2001,
     "uikTvd": "474404366725",
+    "uikName": "УИК №2001",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2002,
     "uikTvd": "474404366726",
+    "uikName": "УИК №2002",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2003,
     "uikTvd": "474404366727",
+    "uikName": "УИК №2003",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2004,
     "uikTvd": "474404366728",
+    "uikName": "УИК №2004",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2005,
     "uikTvd": "474404366729",
+    "uikName": "УИК №2005",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2006,
     "uikTvd": "474404366730",
+    "uikName": "УИК №2006",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2007,
     "uikTvd": "474404366731",
+    "uikName": "УИК №2007",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2008,
     "uikTvd": "474404366732",
+    "uikName": "УИК №2008",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2009,
     "uikTvd": "474404366733",
+    "uikName": "УИК №2009",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2010,
     "uikTvd": "474404366734",
+    "uikName": "УИК №2010",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2011,
     "uikTvd": "474404366735",
+    "uikName": "УИК №2011",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2012,
     "uikTvd": "474404366736",
+    "uikName": "УИК №2012",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2013,
     "uikTvd": "474404366737",
+    "uikName": "УИК №2013",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2014,
     "uikTvd": "474404366738",
+    "uikName": "УИК №2014",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2015,
     "uikTvd": "474404366739",
+    "uikName": "УИК №2015",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2016,
     "uikTvd": "474404366740",
+    "uikName": "УИК №2016",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2017,
     "uikTvd": "474404366741",
+    "uikName": "УИК №2017",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2018,
     "uikTvd": "474404366742",
+    "uikName": "УИК №2018",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2019,
     "uikTvd": "474404366743",
+    "uikName": "УИК №2019",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2020,
     "uikTvd": "474404366744",
+    "uikName": "УИК №2020",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2021,
     "uikTvd": "474404366745",
+    "uikName": "УИК №2021",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2022,
     "uikTvd": "474404366746",
+    "uikName": "УИК №2022",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2023,
     "uikTvd": "474404366747",
+    "uikName": "УИК №2023",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2024,
     "uikTvd": "474404366748",
+    "uikName": "УИК №2024",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2025,
     "uikTvd": "474404366749",
+    "uikName": "УИК №2025",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2026,
     "uikTvd": "474404366750",
+    "uikName": "УИК №2026",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2027,
     "uikTvd": "474404366751",
+    "uikName": "УИК №2027",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2028,
     "uikTvd": "474404366752",
+    "uikName": "УИК №2028",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2029,
     "uikTvd": "474404366753",
+    "uikName": "УИК №2029",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2030,
     "uikTvd": "474404366754",
+    "uikName": "УИК №2030",
     "tikTvd": "374300567260",
-    "tikName": "Челябинск, Ленинская"
+    "tikName": "Челябинск, Ленинская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2031,
     "uikTvd": "474404566710",
+    "uikName": "УИК №2031",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2032,
     "uikTvd": "474404566711",
+    "uikName": "УИК №2032",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2033,
     "uikTvd": "474404566712",
+    "uikName": "УИК №2033",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2034,
     "uikTvd": "474404566713",
+    "uikName": "УИК №2034",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2035,
     "uikTvd": "474404566714",
+    "uikName": "УИК №2035",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2036,
     "uikTvd": "474404566715",
+    "uikName": "УИК №2036",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2037,
     "uikTvd": "474404566716",
+    "uikName": "УИК №2037",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2038,
     "uikTvd": "474404566717",
+    "uikName": "УИК №2038",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2039,
     "uikTvd": "474404566718",
+    "uikName": "УИК №2039",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2040,
     "uikTvd": "474404566719",
+    "uikName": "УИК №2040",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2041,
     "uikTvd": "474404566720",
+    "uikName": "УИК №2041",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2042,
     "uikTvd": "474404566721",
+    "uikName": "УИК №2042",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2043,
     "uikTvd": "474404566722",
+    "uikName": "УИК №2043",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2044,
     "uikTvd": "474404566723",
+    "uikName": "УИК №2044",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2045,
     "uikTvd": "474404566724",
+    "uikName": "УИК №2045",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2046,
     "uikTvd": "474404566725",
+    "uikName": "УИК №2046",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2047,
     "uikTvd": "474404566726",
+    "uikName": "УИК №2047",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2048,
     "uikTvd": "474404566727",
+    "uikName": "УИК №2048",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2049,
     "uikTvd": "474404566728",
+    "uikName": "УИК №2049",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2050,
     "uikTvd": "474404566729",
+    "uikName": "УИК №2050",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2051,
     "uikTvd": "474404566730",
+    "uikName": "УИК №2051",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2052,
     "uikTvd": "474404566731",
+    "uikName": "УИК №2052",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2053,
     "uikTvd": "474404566732",
+    "uikName": "УИК №2053",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2054,
     "uikTvd": "474404566733",
+    "uikName": "УИК №2054",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2055,
     "uikTvd": "474404566734",
+    "uikName": "УИК №2055",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2056,
     "uikTvd": "474404566735",
+    "uikName": "УИК №2056",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2057,
     "uikTvd": "474404566736",
+    "uikName": "УИК №2057",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2058,
     "uikTvd": "474404566737",
+    "uikName": "УИК №2058",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2059,
     "uikTvd": "474404566738",
+    "uikName": "УИК №2059",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2060,
     "uikTvd": "474404566739",
+    "uikName": "УИК №2060",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2061,
     "uikTvd": "474404566740",
+    "uikName": "УИК №2061",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2062,
     "uikTvd": "474404566741",
+    "uikName": "УИК №2062",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2063,
     "uikTvd": "474404566742",
+    "uikName": "УИК №2063",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2064,
     "uikTvd": "474404566743",
+    "uikName": "УИК №2064",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2065,
     "uikTvd": "474404566744",
+    "uikName": "УИК №2065",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2066,
     "uikTvd": "474404566745",
+    "uikName": "УИК №2066",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2067,
     "uikTvd": "474404566746",
+    "uikName": "УИК №2067",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2068,
     "uikTvd": "474404566747",
+    "uikName": "УИК №2068",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2069,
     "uikTvd": "474404566748",
+    "uikName": "УИК №2069",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2070,
     "uikTvd": "474404566749",
+    "uikName": "УИК №2070",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2071,
     "uikTvd": "474404566750",
+    "uikName": "УИК №2071",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2072,
     "uikTvd": "474404566751",
+    "uikName": "УИК №2072",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2073,
     "uikTvd": "474404566752",
+    "uikName": "УИК №2073",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2074,
     "uikTvd": "474404566753",
+    "uikName": "УИК №2074",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2075,
     "uikTvd": "474404566754",
+    "uikName": "УИК №2075",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2076,
     "uikTvd": "474404566755",
+    "uikName": "УИК №2076",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2077,
     "uikTvd": "474404566756",
+    "uikName": "УИК №2077",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2078,
     "uikTvd": "474404566757",
+    "uikName": "УИК №2078",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2079,
     "uikTvd": "474404566758",
+    "uikName": "УИК №2079",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2080,
     "uikTvd": "474404566759",
+    "uikName": "УИК №2080",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2081,
     "uikTvd": "474404566760",
+    "uikName": "УИК №2081",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2082,
     "uikTvd": "474404566761",
+    "uikName": "УИК №2082",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2083,
     "uikTvd": "474404566762",
+    "uikName": "УИК №2083",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2084,
     "uikTvd": "474404566763",
+    "uikName": "УИК №2084",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2085,
     "uikTvd": "474404566764",
+    "uikName": "УИК №2085",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2086,
     "uikTvd": "474404566765",
+    "uikName": "УИК №2086",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2087,
     "uikTvd": "474404566766",
+    "uikName": "УИК №2087",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2088,
     "uikTvd": "474404566767",
+    "uikName": "УИК №2088",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2089,
     "uikTvd": "474404566768",
+    "uikName": "УИК №2089",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2090,
     "uikTvd": "474404566769",
+    "uikName": "УИК №2090",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2091,
     "uikTvd": "474404566770",
+    "uikName": "УИК №2091",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2092,
     "uikTvd": "474404566771",
+    "uikName": "УИК №2092",
     "tikTvd": "374300567262",
-    "tikName": "Челябинск, Советская"
+    "tikName": "Челябинск, Советская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2093,
     "uikTvd": "474403566703",
+    "uikName": "УИК №2093",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2094,
     "uikTvd": "474403566705",
+    "uikName": "УИК №2094",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2095,
     "uikTvd": "474403566706",
+    "uikName": "УИК №2095",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2096,
     "uikTvd": "474403566707",
+    "uikName": "УИК №2096",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2097,
     "uikTvd": "474403566708",
+    "uikName": "УИК №2097",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2098,
     "uikTvd": "474403566709",
+    "uikName": "УИК №2098",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2099,
     "uikTvd": "474403566710",
+    "uikName": "УИК №2099",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2100,
     "uikTvd": "474403566711",
+    "uikName": "УИК №2100",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2101,
     "uikTvd": "474403566712",
+    "uikName": "УИК №2101",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2102,
     "uikTvd": "474403566713",
+    "uikName": "УИК №2102",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2103,
     "uikTvd": "474403566714",
+    "uikName": "УИК №2103",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2104,
     "uikTvd": "474403566715",
+    "uikName": "УИК №2104",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2105,
     "uikTvd": "474403566716",
+    "uikName": "УИК №2105",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2106,
     "uikTvd": "474403566717",
+    "uikName": "УИК №2106",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2107,
     "uikTvd": "474403566718",
+    "uikName": "УИК №2107",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2108,
     "uikTvd": "474403566719",
+    "uikName": "УИК №2108",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2109,
     "uikTvd": "474403566720",
+    "uikName": "УИК №2109",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2110,
     "uikTvd": "474403566721",
+    "uikName": "УИК №2110",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2111,
     "uikTvd": "474403566722",
+    "uikName": "УИК №2111",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2112,
     "uikTvd": "474403566723",
+    "uikName": "УИК №2112",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2113,
     "uikTvd": "474403566724",
+    "uikName": "УИК №2113",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2114,
     "uikTvd": "474403566725",
+    "uikName": "УИК №2114",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2115,
     "uikTvd": "474403566726",
+    "uikName": "УИК №2115",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2116,
     "uikTvd": "474403566727",
+    "uikName": "УИК №2116",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2117,
     "uikTvd": "474403566728",
+    "uikName": "УИК №2117",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2118,
     "uikTvd": "474403566729",
+    "uikName": "УИК №2118",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2119,
     "uikTvd": "474403566730",
+    "uikName": "УИК №2119",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2120,
     "uikTvd": "474403566731",
+    "uikName": "УИК №2120",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2121,
     "uikTvd": "474403566732",
+    "uikName": "УИК №2121",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2122,
     "uikTvd": "474403566733",
+    "uikName": "УИК №2122",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2123,
     "uikTvd": "474403566734",
+    "uikName": "УИК №2123",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2124,
     "uikTvd": "474403566735",
+    "uikName": "УИК №2124",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2125,
     "uikTvd": "474403566736",
+    "uikName": "УИК №2125",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2126,
     "uikTvd": "474403566737",
+    "uikName": "УИК №2126",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2127,
     "uikTvd": "474403566738",
+    "uikName": "УИК №2127",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2128,
     "uikTvd": "474403566739",
+    "uikName": "УИК №2128",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2129,
     "uikTvd": "474403566740",
+    "uikName": "УИК №2129",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2130,
     "uikTvd": "474403566741",
+    "uikName": "УИК №2130",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2131,
     "uikTvd": "474403566742",
+    "uikName": "УИК №2131",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2132,
     "uikTvd": "474403566743",
+    "uikName": "УИК №2132",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2133,
     "uikTvd": "474403566744",
+    "uikName": "УИК №2133",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2134,
     "uikTvd": "474403566745",
+    "uikName": "УИК №2134",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2135,
     "uikTvd": "474403566746",
+    "uikName": "УИК №2135",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2136,
     "uikTvd": "474403566747",
+    "uikName": "УИК №2136",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2137,
     "uikTvd": "474403566748",
+    "uikName": "УИК №2137",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2138,
     "uikTvd": "474403566749",
+    "uikName": "УИК №2138",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2139,
     "uikTvd": "474403566750",
+    "uikName": "УИК №2139",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2140,
     "uikTvd": "474403566751",
+    "uikName": "УИК №2140",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2141,
     "uikTvd": "474403566752",
+    "uikName": "УИК №2141",
     "tikTvd": "374300567256",
-    "tikName": "Сосновская"
+    "tikName": "Сосновская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2142,
     "uikTvd": "474403768038",
+    "uikName": "УИК №2142",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2143,
     "uikTvd": "474403768039",
+    "uikName": "УИК №2143",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2144,
     "uikTvd": "474403768040",
+    "uikName": "УИК №2144",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2145,
     "uikTvd": "474403768041",
+    "uikName": "УИК №2145",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2146,
     "uikTvd": "474403768042",
+    "uikName": "УИК №2146",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2147,
     "uikTvd": "474403768043",
+    "uikName": "УИК №2147",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2148,
     "uikTvd": "474403768044",
+    "uikName": "УИК №2148",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2149,
     "uikTvd": "474403768045",
+    "uikName": "УИК №2149",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2150,
     "uikTvd": "474403768046",
+    "uikName": "УИК №2150",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2151,
     "uikTvd": "474403768047",
+    "uikName": "УИК №2151",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2152,
     "uikTvd": "474403768048",
+    "uikName": "УИК №2152",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2153,
     "uikTvd": "474403768049",
+    "uikName": "УИК №2153",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2154,
     "uikTvd": "474403768050",
+    "uikName": "УИК №2154",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2155,
     "uikTvd": "474403768051",
+    "uikName": "УИК №2155",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2156,
     "uikTvd": "474403768052",
+    "uikName": "УИК №2156",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2157,
     "uikTvd": "474403768053",
+    "uikName": "УИК №2157",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2158,
     "uikTvd": "474403768054",
+    "uikName": "УИК №2158",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2159,
     "uikTvd": "474403768055",
+    "uikName": "УИК №2159",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2160,
     "uikTvd": "474403768056",
+    "uikName": "УИК №2160",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2161,
     "uikTvd": "474403768057",
+    "uikName": "УИК №2161",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2162,
     "uikTvd": "474403768058",
+    "uikName": "УИК №2162",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2163,
     "uikTvd": "474403768059",
+    "uikName": "УИК №2163",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2164,
     "uikTvd": "474403768060",
+    "uikName": "УИК №2164",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2165,
     "uikTvd": "474403768061",
+    "uikName": "УИК №2165",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2166,
     "uikTvd": "474403768062",
+    "uikName": "УИК №2166",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2167,
     "uikTvd": "474403768063",
+    "uikName": "УИК №2167",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2168,
     "uikTvd": "474403768064",
+    "uikName": "УИК №2168",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2169,
     "uikTvd": "474403768065",
+    "uikName": "УИК №2169",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2170,
     "uikTvd": "474403768066",
+    "uikName": "УИК №2170",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2171,
     "uikTvd": "474403768067",
+    "uikName": "УИК №2171",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2172,
     "uikTvd": "474403768068",
+    "uikName": "УИК №2172",
     "tikTvd": "374300567258",
-    "tikName": "Увельская"
+    "tikName": "Увельская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2173,
     "uikTvd": "474404966641",
+    "uikName": "УИК №2173",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2174,
     "uikTvd": "474404966642",
+    "uikName": "УИК №2174",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2175,
     "uikTvd": "474404966643",
+    "uikName": "УИК №2175",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2176,
     "uikTvd": "474404966644",
+    "uikName": "УИК №2176",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2177,
     "uikTvd": "474404966645",
+    "uikName": "УИК №2177",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2178,
     "uikTvd": "474404966646",
+    "uikName": "УИК №2178",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2179,
     "uikTvd": "474404966647",
+    "uikName": "УИК №2179",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2180,
     "uikTvd": "474404966648",
+    "uikName": "УИК №2180",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2181,
     "uikTvd": "474404966649",
+    "uikName": "УИК №2181",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2182,
     "uikTvd": "474404966650",
+    "uikName": "УИК №2182",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2183,
     "uikTvd": "474404966651",
+    "uikName": "УИК №2183",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2184,
     "uikTvd": "474404966652",
+    "uikName": "УИК №2184",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2185,
     "uikTvd": "474404966653",
+    "uikName": "УИК №2185",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2186,
     "uikTvd": "474404966654",
+    "uikName": "УИК №2186",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2187,
     "uikTvd": "474404966655",
+    "uikName": "УИК №2187",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2188,
     "uikTvd": "474404966656",
+    "uikName": "УИК №2188",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2189,
     "uikTvd": "474404966657",
+    "uikName": "УИК №2189",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2190,
     "uikTvd": "474404966658",
+    "uikName": "УИК №2190",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2191,
     "uikTvd": "474404966659",
+    "uikName": "УИК №2191",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2192,
     "uikTvd": "474404966637",
+    "uikName": "УИК №2192",
     "tikTvd": "374300567265",
-    "tikName": "Южноуральская городская"
+    "tikName": "Южноуральская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 186,
+      "oikTvd": "100100095761",
+      "oikName": "Советский"
+    }
   },
   {
     "uikNumber": 2193,
     "uikTvd": "474402969226",
+    "uikName": "УИК №2193",
     "tikTvd": "374300167355",
-    "tikName": "Миасская городская"
+    "tikName": "Миасская городская",
+    "regionCode": "74",
+    "regionTvd": "100100095756",
+    "regionName": "Челябинская область",
+    "district": {
+      "districtNumber": 182,
+      "oikTvd": "100100095757",
+      "oikName": "Златоустовский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

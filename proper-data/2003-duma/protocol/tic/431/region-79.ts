@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_79 = [
     "ballot": "party",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 9052,
@@ -95,6 +98,9 @@ export const duma_2003_tic_431_region_79 = [
     "ballot": "party",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 19641,
@@ -181,6 +187,9 @@ export const duma_2003_tic_431_region_79 = [
     "ballot": "party",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 15847,
@@ -272,6 +281,9 @@ export const duma_2003_tic_431_region_79 = [
     "ballot": "party",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 24528,
@@ -366,6 +378,9 @@ export const duma_2003_tic_431_region_79 = [
     "ballot": "party",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 8684,
@@ -445,6 +460,9 @@ export const duma_2003_tic_431_region_79 = [
     "ballot": "party",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 54026,

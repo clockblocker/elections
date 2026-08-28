@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "435402670760",
+    "uikName": "УИК №1001",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2811,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "435402670761",
+    "uikName": "УИК №1002",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2773,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "435402670762",
+    "uikName": "УИК №1003",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2842,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "435402670763",
+    "uikName": "УИК №1004",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2518,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "435402670764",
+    "uikName": "УИК №1005",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "435402670765",
+    "uikName": "УИК №1006",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1144,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "435402670766",
+    "uikName": "УИК №1007",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2562,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "435402670767",
+    "uikName": "УИК №1008",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2581,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "435402670768",
+    "uikName": "УИК №1009",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2546,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "435402670769",
+    "uikName": "УИК №1010",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2455,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "435402670770",
+    "uikName": "УИК №1011",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2741,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "435402670771",
+    "uikName": "УИК №1012",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2274,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "435402670772",
+    "uikName": "УИК №1013",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 46,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "435402670773",
+    "uikName": "УИК №1014",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2729,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "435402670774",
+    "uikName": "УИК №1015",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2571,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "435402670775",
+    "uikName": "УИК №1016",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2440,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "435402670776",
+    "uikName": "УИК №1017",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2757,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "435402670777",
+    "uikName": "УИК №1018",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2750,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "435402670778",
+    "uikName": "УИК №1019",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2702,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "435402670779",
+    "uikName": "УИК №1020",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2799,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1021,
     "uikTvd": "435402670780",
+    "uikName": "УИК №1021",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2609,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1022,
     "uikTvd": "435402670781",
+    "uikName": "УИК №1022",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2718,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1023,
     "uikTvd": "435402670782",
+    "uikName": "УИК №1023",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2743,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1024,
     "uikTvd": "435402670783",
+    "uikName": "УИК №1024",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2558,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1025,
     "uikTvd": "435402670784",
+    "uikName": "УИК №1025",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 16,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1026,
     "uikTvd": "435402670785",
+    "uikName": "УИК №1026",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2629,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1027,
     "uikTvd": "435402670786",
+    "uikName": "УИК №1027",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2462,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1028,
     "uikTvd": "435402670787",
+    "uikName": "УИК №1028",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2642,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1029,
     "uikTvd": "435402670788",
+    "uikName": "УИК №1029",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2522,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1030,
     "uikTvd": "435402670789",
+    "uikName": "УИК №1030",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2757,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1031,
     "uikTvd": "435402670790",
+    "uikName": "УИК №1031",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2768,
       "Число бюллетеней, полученных участковыми комиссиями": 2530,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1032,
     "uikTvd": "435402670791",
+    "uikName": "УИК №1032",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2710,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1033,
     "uikTvd": "435402670792",
+    "uikName": "УИК №1033",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2754,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1034,
     "uikTvd": "435402670793",
+    "uikName": "УИК №1034",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2679,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1035,
     "uikTvd": "435402670794",
+    "uikName": "УИК №1035",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2829,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1036,
     "uikTvd": "435402670795",
+    "uikName": "УИК №1036",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2813,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1037,
     "uikTvd": "435402670796",
+    "uikName": "УИК №1037",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2594,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1038,
     "uikTvd": "435402670797",
+    "uikName": "УИК №1038",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2799,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1039,
     "uikTvd": "435402670798",
+    "uikName": "УИК №1039",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2770,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1040,
     "uikTvd": "435402670799",
+    "uikName": "УИК №1040",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2811,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1041,
     "uikTvd": "435402670800",
+    "uikName": "УИК №1041",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2800,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1042,
     "uikTvd": "435402670801",
+    "uikName": "УИК №1042",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1043,
     "uikTvd": "435402670802",
+    "uikName": "УИК №1043",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 37,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1044,
     "uikTvd": "435402670803",
+    "uikName": "УИК №1044",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2733,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1045,
     "uikTvd": "435402670804",
+    "uikName": "УИК №1045",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2789,
       "Число бюллетеней, полученных участковыми комиссиями": 2530,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1046,
     "uikTvd": "435402670805",
+    "uikName": "УИК №1046",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2800,
       "Число бюллетеней, полученных участковыми комиссиями": 2535,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1047,
     "uikTvd": "435402670806",
+    "uikName": "УИК №1047",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2589,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1048,
     "uikTvd": "435402670807",
+    "uikName": "УИК №1048",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2755,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1049,
     "uikTvd": "435402670808",
+    "uikName": "УИК №1049",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2743,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1050,
     "uikTvd": "435402670809",
+    "uikName": "УИК №1050",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2504,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1051,
     "uikTvd": "435402670810",
+    "uikName": "УИК №1051",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2412,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1052,
     "uikTvd": "435402670811",
+    "uikName": "УИК №1052",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2812,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1053,
     "uikTvd": "435402670812",
+    "uikName": "УИК №1053",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2857,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1054,
     "uikTvd": "435402670813",
+    "uikName": "УИК №1054",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2791,
       "Число бюллетеней, полученных участковыми комиссиями": 2530,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1055,
     "uikTvd": "435402670814",
+    "uikName": "УИК №1055",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1056,
     "uikTvd": "435402670815",
+    "uikName": "УИК №1056",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 21,
       "Число бюллетеней, полученных участковыми комиссиями": 21,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1057,
     "uikTvd": "435402670816",
+    "uikName": "УИК №1057",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2560,
       "Число бюллетеней, полученных участковыми комиссиями": 2345,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1058,
     "uikTvd": "435402670817",
+    "uikName": "УИК №1058",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2595,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2737,8 +3259,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1059,
     "uikTvd": "435402670818",
+    "uikName": "УИК №1059",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2372,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -2784,8 +3315,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1060,
     "uikTvd": "435402670819",
+    "uikName": "УИК №1060",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2723,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -2831,8 +3371,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1061,
     "uikTvd": "435402670820",
+    "uikName": "УИК №1061",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2632,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2878,8 +3427,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1062,
     "uikTvd": "435402870504",
+    "uikName": "УИК №1062",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 479,
@@ -2925,8 +3483,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1063,
     "uikTvd": "435402870505",
+    "uikName": "УИК №1063",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1633,
       "Число бюллетеней, полученных участковыми комиссиями": 1563,
@@ -2972,8 +3539,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1064,
     "uikTvd": "435402870506",
+    "uikName": "УИК №1064",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2438,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1065,
     "uikTvd": "435402870507",
+    "uikName": "УИК №1065",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1395,
       "Число бюллетеней, полученных участковыми комиссиями": 1341,
@@ -3066,8 +3651,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1066,
     "uikTvd": "435402870508",
+    "uikName": "УИК №1066",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2812,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3113,8 +3707,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1067,
     "uikTvd": "435402870509",
+    "uikName": "УИК №1067",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2598,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3160,8 +3763,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1068,
     "uikTvd": "435402870510",
+    "uikName": "УИК №1068",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1254,
       "Число бюллетеней, полученных участковыми комиссиями": 1217,
@@ -3207,8 +3819,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1069,
     "uikTvd": "435402870511",
+    "uikName": "УИК №1069",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2939,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -3254,8 +3875,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1070,
     "uikTvd": "435402870512",
+    "uikName": "УИК №1070",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 686,
       "Число бюллетеней, полученных участковыми комиссиями": 637,
@@ -3301,8 +3931,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1071,
     "uikTvd": "435402870513",
+    "uikName": "УИК №1071",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1908,
       "Число бюллетеней, полученных участковыми комиссиями": 1771,
@@ -3348,8 +3987,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1072,
     "uikTvd": "435402870514",
+    "uikName": "УИК №1072",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -3395,8 +4043,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1073,
     "uikTvd": "435402870515",
+    "uikName": "УИК №1073",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 472,
       "Число бюллетеней, полученных участковыми комиссиями": 467,
@@ -3442,8 +4099,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1074,
     "uikTvd": "435402870516",
+    "uikName": "УИК №1074",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -3489,8 +4155,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1075,
     "uikTvd": "435402870517",
+    "uikName": "УИК №1075",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -3536,8 +4211,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1076,
     "uikTvd": "435402870518",
+    "uikName": "УИК №1076",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 326,
@@ -3583,8 +4267,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1077,
     "uikTvd": "435402870519",
+    "uikName": "УИК №1077",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -3630,8 +4323,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1078,
     "uikTvd": "435402870520",
+    "uikName": "УИК №1078",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -3677,8 +4379,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1079,
     "uikTvd": "435402870521",
+    "uikName": "УИК №1079",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -3724,8 +4435,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1080,
     "uikTvd": "435402870522",
+    "uikName": "УИК №1080",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -3771,8 +4491,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1081,
     "uikTvd": "435402870523",
+    "uikName": "УИК №1081",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -3818,8 +4547,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1082,
     "uikTvd": "435402870524",
+    "uikName": "УИК №1082",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 233,
@@ -3865,8 +4603,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1083,
     "uikTvd": "435402870525",
+    "uikName": "УИК №1083",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -3912,8 +4659,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1084,
     "uikTvd": "435402870526",
+    "uikName": "УИК №1084",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 393,
@@ -3959,8 +4715,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1085,
     "uikTvd": "435402870527",
+    "uikName": "УИК №1085",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -4006,8 +4771,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1086,
     "uikTvd": "435402870528",
+    "uikName": "УИК №1086",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -4053,8 +4827,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1087,
     "uikTvd": "435402870529",
+    "uikName": "УИК №1087",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1015,
       "Число бюллетеней, полученных участковыми комиссиями": 1001,
@@ -4100,8 +4883,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1088,
     "uikTvd": "435402870530",
+    "uikName": "УИК №1088",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -4147,8 +4939,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1089,
     "uikTvd": "435402870531",
+    "uikName": "УИК №1089",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -4194,8 +4995,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1090,
     "uikTvd": "435402870532",
+    "uikName": "УИК №1090",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 302,
@@ -4241,8 +5051,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1091,
     "uikTvd": "435402870533",
+    "uikName": "УИК №1091",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -4288,8 +5107,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1092,
     "uikTvd": "435402870534",
+    "uikName": "УИК №1092",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 274,
@@ -4335,8 +5163,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1093,
     "uikTvd": "435402870535",
+    "uikName": "УИК №1093",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 705,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4382,8 +5219,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1094,
     "uikTvd": "435402870536",
+    "uikName": "УИК №1094",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -4429,8 +5275,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1095,
     "uikTvd": "435402870537",
+    "uikName": "УИК №1095",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 274,
@@ -4476,8 +5331,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1096,
     "uikTvd": "435402870538",
+    "uikName": "УИК №1096",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 857,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -4523,8 +5387,17 @@ export const duma_2003_uik_428_region_35_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1097,
     "uikTvd": "435402870539",
+    "uikName": "УИК №1097",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 315,

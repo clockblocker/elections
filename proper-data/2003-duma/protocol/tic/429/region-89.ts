@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_89 = [
     "ballot": "single-member",
     "tikTvd": "289200068563",
     "tikName": "Муравленковская городская",
+    "regionCode": "89",
+    "regionTvd": "100100095624",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100095625",
+      "oikName": "Ямало-Ненецкий"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки": 24120,
@@ -68,6 +76,14 @@ export const duma_2003_tic_429_region_89 = [
     "ballot": "single-member",
     "tikTvd": "289200068564",
     "tikName": "Лабытнангская городская",
+    "regionCode": "89",
+    "regionTvd": "100100095624",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100095625",
+      "oikName": "Ямало-Ненецкий"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 21678,
@@ -134,6 +150,14 @@ export const duma_2003_tic_429_region_89 = [
     "ballot": "single-member",
     "tikTvd": "289200068565",
     "tikName": "Красноселькупская",
+    "regionCode": "89",
+    "regionTvd": "100100095624",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100095625",
+      "oikName": "Ямало-Ненецкий"
+    },
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в списки": 4412,
@@ -183,6 +207,14 @@ export const duma_2003_tic_429_region_89 = [
     "ballot": "single-member",
     "tikTvd": "289200068566",
     "tikName": "Ямальская",
+    "regionCode": "89",
+    "regionTvd": "100100095624",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100095625",
+      "oikName": "Ямало-Ненецкий"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки": 9265,
@@ -240,6 +272,14 @@ export const duma_2003_tic_429_region_89 = [
     "ballot": "single-member",
     "tikTvd": "289200068567",
     "tikName": "Губкинская городская",
+    "regionCode": "89",
+    "regionTvd": "100100095624",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100095625",
+      "oikName": "Ямало-Ненецкий"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки": 13898,
@@ -293,6 +333,14 @@ export const duma_2003_tic_429_region_89 = [
     "ballot": "single-member",
     "tikTvd": "289200068568",
     "tikName": "Тазовская",
+    "regionCode": "89",
+    "regionTvd": "100100095624",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100095625",
+      "oikName": "Ямало-Ненецкий"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки": 10206,
@@ -349,6 +397,14 @@ export const duma_2003_tic_429_region_89 = [
     "ballot": "single-member",
     "tikTvd": "289200068569",
     "tikName": "Салехардская городская",
+    "regionCode": "89",
+    "regionTvd": "100100095624",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100095625",
+      "oikName": "Ямало-Ненецкий"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки": 25484,
@@ -407,6 +463,14 @@ export const duma_2003_tic_429_region_89 = [
     "ballot": "single-member",
     "tikTvd": "289200068570",
     "tikName": "Шурышкарская",
+    "regionCode": "89",
+    "regionTvd": "100100095624",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100095625",
+      "oikName": "Ямало-Ненецкий"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки": 5906,
@@ -462,6 +526,14 @@ export const duma_2003_tic_429_region_89 = [
     "ballot": "single-member",
     "tikTvd": "289200068571",
     "tikName": "Ноябрьская городская",
+    "regionCode": "89",
+    "regionTvd": "100100095624",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100095625",
+      "oikName": "Ямало-Ненецкий"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 80316,
@@ -541,6 +613,14 @@ export const duma_2003_tic_429_region_89 = [
     "ballot": "single-member",
     "tikTvd": "289200068572",
     "tikName": "Приуральская",
+    "regionCode": "89",
+    "regionTvd": "100100095624",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100095625",
+      "oikName": "Ямало-Ненецкий"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки": 4925,
@@ -595,6 +675,14 @@ export const duma_2003_tic_429_region_89 = [
     "ballot": "single-member",
     "tikTvd": "289200068573",
     "tikName": "Пуровская",
+    "regionCode": "89",
+    "regionTvd": "100100095624",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100095625",
+      "oikName": "Ямало-Ненецкий"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 30654,
@@ -660,6 +748,14 @@ export const duma_2003_tic_429_region_89 = [
     "ballot": "single-member",
     "tikTvd": "289200068574",
     "tikName": "Новоуренгойская городская",
+    "regionCode": "89",
+    "regionTvd": "100100095624",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100095625",
+      "oikName": "Ямало-Ненецкий"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 72393,
@@ -746,6 +842,14 @@ export const duma_2003_tic_429_region_89 = [
     "ballot": "single-member",
     "tikTvd": "289200068575",
     "tikName": "Надымская",
+    "regionCode": "89",
+    "regionTvd": "100100095624",
+    "regionName": "Ямало-Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 225,
+      "oikTvd": "100100095625",
+      "oikName": "Ямало-Ненецкий"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки": 53490,

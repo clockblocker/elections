@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070460",
     "tikName": "Маревская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки": 4328,
@@ -87,6 +90,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070461",
     "tikName": "Маловишерская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 16744,
@@ -172,6 +178,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070462",
     "tikName": "Шимская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 9672,
@@ -256,6 +265,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070463",
     "tikName": "Холмская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 5830,
@@ -340,6 +352,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070464",
     "tikName": "Чудовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 20263,
@@ -424,6 +439,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070465",
     "tikName": "Любытинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 9374,
@@ -512,6 +530,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070466",
     "tikName": "Крестецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 12178,
@@ -593,6 +614,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070467",
     "tikName": "Демянская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 12222,
@@ -679,6 +703,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070468",
     "tikName": "Волотовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки": 4189,
@@ -756,6 +783,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070469",
     "tikName": "Валдайская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 23130,
@@ -852,6 +882,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070470",
     "tikName": "Батецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки": 5300,
@@ -929,6 +962,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070471",
     "tikName": "Боровичcкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки": 62775,
@@ -1056,6 +1092,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070472",
     "tikName": "Хвойнинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 13088,
@@ -1141,6 +1180,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070473",
     "tikName": "Старорусская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 41470,
@@ -1250,6 +1292,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070474",
     "tikName": "Солецкая",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 14569,
@@ -1337,6 +1382,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070475",
     "tikName": "Пестовская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 17791,
@@ -1427,6 +1475,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070476",
     "tikName": "Поддорская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки": 4222,
@@ -1501,6 +1552,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070477",
     "tikName": "Парфинская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 12031,
@@ -1584,6 +1638,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070478",
     "tikName": "Новгородская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки": 43442,
@@ -1691,6 +1748,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070479",
     "tikName": "Окуловская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 25405,
@@ -1784,6 +1844,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070480",
     "tikName": "Новгородcкая городская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 81,
     "accounting": {
       "Число избирателей, внесенных в списки": 182137,
@@ -1930,6 +1993,9 @@ export const duma_2003_tic_431_region_53 = [
     "ballot": "party",
     "tikTvd": "253200070481",
     "tikName": "Мошенская",
+    "regionCode": "53",
+    "regionTvd": "100100095930",
+    "regionName": "Новгородская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 6935,

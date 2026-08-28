@@ -7,3325 +7,8311 @@ export const duma_2003_uik_to_tik_region_86 = [
   {
     "uikNumber": 1,
     "uikTvd": "486400866666",
+    "uikName": "УИК №1",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "486400866667",
+    "uikName": "УИК №2",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "486400866668",
+    "uikName": "УИК №3",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "486400866669",
+    "uikName": "УИК №4",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "486400866670",
+    "uikName": "УИК №5",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "486400866671",
+    "uikName": "УИК №6",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "486400866672",
+    "uikName": "УИК №7",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "486400866673",
+    "uikName": "УИК №8",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "486400866674",
+    "uikName": "УИК №9",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "486400866675",
+    "uikName": "УИК №10",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "486400866676",
+    "uikName": "УИК №11",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "486400866677",
+    "uikName": "УИК №12",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "486400866678",
+    "uikName": "УИК №13",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "486400866679",
+    "uikName": "УИК №14",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "486400866680",
+    "uikName": "УИК №15",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "486400866681",
+    "uikName": "УИК №16",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "486400866682",
+    "uikName": "УИК №17",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "486400866683",
+    "uikName": "УИК №18",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "486400866684",
+    "uikName": "УИК №19",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "486400866685",
+    "uikName": "УИК №20",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "486400866686",
+    "uikName": "УИК №21",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "486400866687",
+    "uikName": "УИК №22",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "486400866688",
+    "uikName": "УИК №23",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "486400866689",
+    "uikName": "УИК №24",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "486400866690",
+    "uikName": "УИК №25",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "486400866691",
+    "uikName": "УИК №26",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "486400866692",
+    "uikName": "УИК №27",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "486400866693",
+    "uikName": "УИК №28",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "486400866694",
+    "uikName": "УИК №29",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "486400866695",
+    "uikName": "УИК №30",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "486400866696",
+    "uikName": "УИК №31",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "486400866697",
+    "uikName": "УИК №32",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "486400866698",
+    "uikName": "УИК №33",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "486400866699",
+    "uikName": "УИК №34",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "486400866700",
+    "uikName": "УИК №35",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "486400866701",
+    "uikName": "УИК №36",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "486400866702",
+    "uikName": "УИК №37",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "486400866703",
+    "uikName": "УИК №38",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "486400866704",
+    "uikName": "УИК №39",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "486400866705",
+    "uikName": "УИК №40",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "486400866706",
+    "uikName": "УИК №41",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "486400866707",
+    "uikName": "УИК №42",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "486400866708",
+    "uikName": "УИК №43",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "486400866709",
+    "uikName": "УИК №44",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "486400866710",
+    "uikName": "УИК №45",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "486400866711",
+    "uikName": "УИК №46",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "486400866712",
+    "uikName": "УИК №47",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "486400866713",
+    "uikName": "УИК №48",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "486400866714",
+    "uikName": "УИК №49",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "486400866715",
+    "uikName": "УИК №50",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "486400866716",
+    "uikName": "УИК №51",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "486400866717",
+    "uikName": "УИК №52",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "486400866718",
+    "uikName": "УИК №53",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "486400866719",
+    "uikName": "УИК №54",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "486400866720",
+    "uikName": "УИК №55",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "486400866721",
+    "uikName": "УИК №56",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "486400866722",
+    "uikName": "УИК №57",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "486400866723",
+    "uikName": "УИК №58",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "486400866724",
+    "uikName": "УИК №59",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "486400866725",
+    "uikName": "УИК №60",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "486400866726",
+    "uikName": "УИК №61",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "486400866727",
+    "uikName": "УИК №62",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "486400866728",
+    "uikName": "УИК №63",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "486400866729",
+    "uikName": "УИК №64",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "486400866730",
+    "uikName": "УИК №65",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "486400866731",
+    "uikName": "УИК №66",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "486400866732",
+    "uikName": "УИК №67",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "486400866733",
+    "uikName": "УИК №68",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "486400866734",
+    "uikName": "УИК №69",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "486400866735",
+    "uikName": "УИК №70",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "486400866736",
+    "uikName": "УИК №71",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "486400866737",
+    "uikName": "УИК №72",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "486400866738",
+    "uikName": "УИК №73",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "486400866739",
+    "uikName": "УИК №74",
     "tikTvd": "286200066719",
-    "tikName": "Нижневартовская городская"
+    "tikName": "Нижневартовская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "486400566626",
+    "uikName": "УИК №75",
     "tikTvd": "286200066717",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "486400566627",
+    "uikName": "УИК №76",
     "tikTvd": "286200066717",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "486400566628",
+    "uikName": "УИК №77",
     "tikTvd": "286200066717",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "486400566629",
+    "uikName": "УИК №78",
     "tikTvd": "286200066717",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "486400566630",
+    "uikName": "УИК №79",
     "tikTvd": "286200066717",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "486400566631",
+    "uikName": "УИК №80",
     "tikTvd": "286200066717",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "486400566632",
+    "uikName": "УИК №81",
     "tikTvd": "286200066717",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "486400566633",
+    "uikName": "УИК №82",
     "tikTvd": "286200066717",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "486400566634",
+    "uikName": "УИК №83",
     "tikTvd": "286200066717",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "486400566635",
+    "uikName": "УИК №84",
     "tikTvd": "286200066717",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "486400566636",
+    "uikName": "УИК №85",
     "tikTvd": "286200066717",
-    "tikName": "Лангепасская городская"
+    "tikName": "Лангепасская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "486400666633",
+    "uikName": "УИК №86",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "486400666634",
+    "uikName": "УИК №87",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "486400666635",
+    "uikName": "УИК №88",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "486400666636",
+    "uikName": "УИК №89",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "486400666637",
+    "uikName": "УИК №90",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "486400666638",
+    "uikName": "УИК №91",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "486400666639",
+    "uikName": "УИК №92",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "486400666640",
+    "uikName": "УИК №93",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "486400666641",
+    "uikName": "УИК №94",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "486400666642",
+    "uikName": "УИК №95",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "486400666643",
+    "uikName": "УИК №96",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "486400666644",
+    "uikName": "УИК №97",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "486400666645",
+    "uikName": "УИК №98",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "486400666646",
+    "uikName": "УИК №99",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "486400666647",
+    "uikName": "УИК №100",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "486400666648",
+    "uikName": "УИК №101",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "486400666649",
+    "uikName": "УИК №102",
     "tikTvd": "286200066718",
-    "tikName": "Мегионская городская"
+    "tikName": "Мегионская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "486401166645",
+    "uikName": "УИК №103",
     "tikTvd": "286200066721",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "486401166646",
+    "uikName": "УИК №104",
     "tikTvd": "286200066721",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "486401166647",
+    "uikName": "УИК №105",
     "tikTvd": "286200066721",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "486401166648",
+    "uikName": "УИК №106",
     "tikTvd": "286200066721",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "486401166649",
+    "uikName": "УИК №107",
     "tikTvd": "286200066721",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "486401166650",
+    "uikName": "УИК №108",
     "tikTvd": "286200066721",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "486401166651",
+    "uikName": "УИК №109",
     "tikTvd": "286200066721",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "486401166652",
+    "uikName": "УИК №110",
     "tikTvd": "286200066721",
-    "tikName": "Покачевская городская"
+    "tikName": "Покачевская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "486401366648",
+    "uikName": "УИК №111",
     "tikTvd": "286200066722",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "486401366649",
+    "uikName": "УИК №112",
     "tikTvd": "286200066722",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "486401366650",
+    "uikName": "УИК №113",
     "tikTvd": "286200066722",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "486401366651",
+    "uikName": "УИК №114",
     "tikTvd": "286200066722",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "486401366652",
+    "uikName": "УИК №115",
     "tikTvd": "286200066722",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "486401366653",
+    "uikName": "УИК №116",
     "tikTvd": "286200066722",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "486401366654",
+    "uikName": "УИК №117",
     "tikTvd": "286200066722",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "486401366655",
+    "uikName": "УИК №118",
     "tikTvd": "286200066722",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "486401366656",
+    "uikName": "УИК №119",
     "tikTvd": "286200066722",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "486401366657",
+    "uikName": "УИК №120",
     "tikTvd": "286200066722",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "486401366658",
+    "uikName": "УИК №121",
     "tikTvd": "286200066722",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "486401366659",
+    "uikName": "УИК №122",
     "tikTvd": "286200066722",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "486401366660",
+    "uikName": "УИК №123",
     "tikTvd": "286200066722",
-    "tikName": "Радужнинская городская"
+    "tikName": "Радужнинская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "486401566705",
+    "uikName": "УИК №124",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "486401566706",
+    "uikName": "УИК №125",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "486401566707",
+    "uikName": "УИК №126",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "486401566708",
+    "uikName": "УИК №127",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "486401566709",
+    "uikName": "УИК №128",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "486401566710",
+    "uikName": "УИК №129",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "486401566711",
+    "uikName": "УИК №130",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "486401566712",
+    "uikName": "УИК №131",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "486401566713",
+    "uikName": "УИК №132",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "486401566714",
+    "uikName": "УИК №133",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "486401566715",
+    "uikName": "УИК №134",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "486401566716",
+    "uikName": "УИК №135",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "486401566717",
+    "uikName": "УИК №136",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "486401566718",
+    "uikName": "УИК №137",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "486401566719",
+    "uikName": "УИК №138",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "486401566720",
+    "uikName": "УИК №139",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "486401566721",
+    "uikName": "УИК №140",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "486401566722",
+    "uikName": "УИК №141",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "486401566723",
+    "uikName": "УИК №142",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "486401566724",
+    "uikName": "УИК №143",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "486401566725",
+    "uikName": "УИК №144",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "486401566726",
+    "uikName": "УИК №145",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "486401566727",
+    "uikName": "УИК №146",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "486401566728",
+    "uikName": "УИК №147",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "486401566729",
+    "uikName": "УИК №148",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "486401566730",
+    "uikName": "УИК №149",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "486401566731",
+    "uikName": "УИК №150",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "486401566732",
+    "uikName": "УИК №151",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "486401566733",
+    "uikName": "УИК №152",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "486401566734",
+    "uikName": "УИК №153",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "486401566735",
+    "uikName": "УИК №154",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "486401566736",
+    "uikName": "УИК №155",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "486401566737",
+    "uikName": "УИК №156",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "486401566738",
+    "uikName": "УИК №157",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "486401566739",
+    "uikName": "УИК №158",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "486401566740",
+    "uikName": "УИК №159",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "486401566741",
+    "uikName": "УИК №160",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "486401566742",
+    "uikName": "УИК №161",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "486401566743",
+    "uikName": "УИК №162",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "486401566744",
+    "uikName": "УИК №163",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "486401566745",
+    "uikName": "УИК №164",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "486401566746",
+    "uikName": "УИК №165",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "486401566747",
+    "uikName": "УИК №166",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "486401566748",
+    "uikName": "УИК №167",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "486401566749",
+    "uikName": "УИК №168",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "486401566750",
+    "uikName": "УИК №169",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "486401566751",
+    "uikName": "УИК №170",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "486401566752",
+    "uikName": "УИК №171",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "486401566753",
+    "uikName": "УИК №172",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "486401566754",
+    "uikName": "УИК №173",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "486401566755",
+    "uikName": "УИК №174",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "486401566756",
+    "uikName": "УИК №175",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "486401566757",
+    "uikName": "УИК №176",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "486401566758",
+    "uikName": "УИК №177",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "486401566759",
+    "uikName": "УИК №178",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "486401566760",
+    "uikName": "УИК №179",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "486401566761",
+    "uikName": "УИК №180",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "486401566762",
+    "uikName": "УИК №181",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "486401566763",
+    "uikName": "УИК №182",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "486401566764",
+    "uikName": "УИК №183",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "486401566765",
+    "uikName": "УИК №184",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "486401566766",
+    "uikName": "УИК №185",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "486401566767",
+    "uikName": "УИК №186",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "486401566768",
+    "uikName": "УИК №187",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "486401566769",
+    "uikName": "УИК №188",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "486401566770",
+    "uikName": "УИК №189",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "486401566771",
+    "uikName": "УИК №190",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "486401566772",
+    "uikName": "УИК №191",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "486401566773",
+    "uikName": "УИК №192",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "486401566774",
+    "uikName": "УИК №193",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "486401566775",
+    "uikName": "УИК №194",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "486401566776",
+    "uikName": "УИК №195",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "486401566777",
+    "uikName": "УИК №196",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "486401566778",
+    "uikName": "УИК №197",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "486401566779",
+    "uikName": "УИК №198",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "486401566780",
+    "uikName": "УИК №199",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "486401566781",
+    "uikName": "УИК №200",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "486401566782",
+    "uikName": "УИК №201",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "486401566783",
+    "uikName": "УИК №202",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "486401566784",
+    "uikName": "УИК №203",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "486401566785",
+    "uikName": "УИК №204",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "486401566786",
+    "uikName": "УИК №205",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "486401566787",
+    "uikName": "УИК №206",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "486401566788",
+    "uikName": "УИК №207",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "486401566789",
+    "uikName": "УИК №208",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "486401566790",
+    "uikName": "УИК №209",
     "tikTvd": "286200066723",
-    "tikName": "Сургутская городская"
+    "tikName": "Сургутская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "486400066637",
+    "uikName": "УИК №210",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "486400066638",
+    "uikName": "УИК №211",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "486400066639",
+    "uikName": "УИК №212",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "486400066640",
+    "uikName": "УИК №213",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "486400066641",
+    "uikName": "УИК №214",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "486400066642",
+    "uikName": "УИК №215",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "486400066643",
+    "uikName": "УИК №216",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "486400066644",
+    "uikName": "УИК №217",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "486400066645",
+    "uikName": "УИК №218",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "486400066646",
+    "uikName": "УИК №219",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "486400066647",
+    "uikName": "УИК №220",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "486400066648",
+    "uikName": "УИК №221",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "486400066649",
+    "uikName": "УИК №222",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "486400066650",
+    "uikName": "УИК №223",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "486400066651",
+    "uikName": "УИК №224",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "486400066652",
+    "uikName": "УИК №225",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "486400066653",
+    "uikName": "УИК №226",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "486400066654",
+    "uikName": "УИК №227",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "486400066655",
+    "uikName": "УИК №228",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "486400066656",
+    "uikName": "УИК №229",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "486400066657",
+    "uikName": "УИК №230",
     "tikTvd": "286200066720",
-    "tikName": "Нижневартовская"
+    "tikName": "Нижневартовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "486401666686",
+    "uikName": "УИК №231",
     "tikTvd": "286200066724",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "486401666687",
+    "uikName": "УИК №232",
     "tikTvd": "286200066724",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "486401666688",
+    "uikName": "УИК №233",
     "tikTvd": "286200066724",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "486401666689",
+    "uikName": "УИК №234",
     "tikTvd": "286200066724",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "486401666690",
+    "uikName": "УИК №235",
     "tikTvd": "286200066724",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "486401666691",
+    "uikName": "УИК №236",
     "tikTvd": "286200066724",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "486401666692",
+    "uikName": "УИК №237",
     "tikTvd": "286200066724",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "486401666693",
+    "uikName": "УИК №238",
     "tikTvd": "286200066724",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 221,
+      "oikTvd": "100100095847",
+      "oikName": "Нижневартовский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "486401666732",
+    "uikName": "УИК №239",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "486401666733",
+    "uikName": "УИК №240",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "486401666734",
+    "uikName": "УИК №241",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "486401666735",
+    "uikName": "УИК №242",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "486401666736",
+    "uikName": "УИК №243",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "486401666737",
+    "uikName": "УИК №244",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "486401666738",
+    "uikName": "УИК №245",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "486401666739",
+    "uikName": "УИК №246",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "486401666740",
+    "uikName": "УИК №247",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "486401666741",
+    "uikName": "УИК №248",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "486401666742",
+    "uikName": "УИК №249",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "486401666743",
+    "uikName": "УИК №250",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "486401666744",
+    "uikName": "УИК №251",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "486401666745",
+    "uikName": "УИК №252",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "486401666746",
+    "uikName": "УИК №253",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "486401666747",
+    "uikName": "УИК №254",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "486401666748",
+    "uikName": "УИК №255",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "486401666749",
+    "uikName": "УИК №256",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "486401666750",
+    "uikName": "УИК №257",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "486401666751",
+    "uikName": "УИК №258",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "486401666752",
+    "uikName": "УИК №259",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "486401666753",
+    "uikName": "УИК №260",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "486401666754",
+    "uikName": "УИК №261",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "486401666755",
+    "uikName": "УИК №262",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "486401666756",
+    "uikName": "УИК №263",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "486401666757",
+    "uikName": "УИК №264",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "486401666758",
+    "uikName": "УИК №265",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "486401666759",
+    "uikName": "УИК №266",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "486401666760",
+    "uikName": "УИК №267",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "486401666761",
+    "uikName": "УИК №268",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "486401666762",
+    "uikName": "УИК №269",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "486401666763",
+    "uikName": "УИК №270",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "486401666764",
+    "uikName": "УИК №271",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "486401666765",
+    "uikName": "УИК №272",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "486401666766",
+    "uikName": "УИК №273",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "486401666767",
+    "uikName": "УИК №274",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "486401666768",
+    "uikName": "УИК №275",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "486401666769",
+    "uikName": "УИК №276",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "486401666770",
+    "uikName": "УИК №277",
     "tikTvd": "386300267050",
-    "tikName": "Сургутская"
+    "tikName": "Сургутская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "486400166681",
+    "uikName": "УИК №278",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "486400166682",
+    "uikName": "УИК №279",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "486400166683",
+    "uikName": "УИК №280",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "486400166684",
+    "uikName": "УИК №281",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "486400166685",
+    "uikName": "УИК №282",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "486400166686",
+    "uikName": "УИК №283",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "486400166687",
+    "uikName": "УИК №284",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "486400166688",
+    "uikName": "УИК №285",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "486400166689",
+    "uikName": "УИК №286",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "486400166690",
+    "uikName": "УИК №287",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "486400166691",
+    "uikName": "УИК №288",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "486400166698",
+    "uikName": "УИК №289",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "486400166692",
+    "uikName": "УИК №290",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "486400166693",
+    "uikName": "УИК №291",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "486400166694",
+    "uikName": "УИК №292",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "486400166695",
+    "uikName": "УИК №293",
     "tikTvd": "286200066725",
-    "tikName": "Белоярская"
+    "tikName": "Белоярская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "486400366625",
+    "uikName": "УИК №294",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "486400366626",
+    "uikName": "УИК №295",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "486400366627",
+    "uikName": "УИК №296",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "486400366628",
+    "uikName": "УИК №297",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "486400366629",
+    "uikName": "УИК №298",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "486400366630",
+    "uikName": "УИК №299",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "486400366631",
+    "uikName": "УИК №300",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "486400366632",
+    "uikName": "УИК №301",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "486400366633",
+    "uikName": "УИК №302",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "486400366634",
+    "uikName": "УИК №303",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "486400366635",
+    "uikName": "УИК №304",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "486400366636",
+    "uikName": "УИК №305",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "486400366637",
+    "uikName": "УИК №306",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "486400366638",
+    "uikName": "УИК №307",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "486400366639",
+    "uikName": "УИК №308",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "486400366640",
+    "uikName": "УИК №309",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "486400366641",
+    "uikName": "УИК №310",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "486400366642",
+    "uikName": "УИК №311",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "486400366643",
+    "uikName": "УИК №312",
     "tikTvd": "286200066727",
-    "tikName": "Когалымская городская"
+    "tikName": "Когалымская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "486400766633",
+    "uikName": "УИК №313",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "486400766634",
+    "uikName": "УИК №314",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "486400766635",
+    "uikName": "УИК №315",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "486400766636",
+    "uikName": "УИК №316",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "486400766637",
+    "uikName": "УИК №317",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "486400766638",
+    "uikName": "УИК №318",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "486400766639",
+    "uikName": "УИК №319",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "486400766640",
+    "uikName": "УИК №320",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "486400766641",
+    "uikName": "УИК №321",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "486400766642",
+    "uikName": "УИК №322",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "486400766643",
+    "uikName": "УИК №323",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "486400766644",
+    "uikName": "УИК №324",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "486400766645",
+    "uikName": "УИК №325",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "486400766646",
+    "uikName": "УИК №326",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "486400766647",
+    "uikName": "УИК №327",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "486400766648",
+    "uikName": "УИК №328",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "486400766649",
+    "uikName": "УИК №329",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "486400766650",
+    "uikName": "УИК №330",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "486400766651",
+    "uikName": "УИК №331",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "486400766652",
+    "uikName": "УИК №332",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "486400766653",
+    "uikName": "УИК №333",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "486400766654",
+    "uikName": "УИК №334",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "486400766655",
+    "uikName": "УИК №335",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "486400766656",
+    "uikName": "УИК №336",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "486400766657",
+    "uikName": "УИК №337",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "486400766658",
+    "uikName": "УИК №338",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "486400766659",
+    "uikName": "УИК №339",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "486400766660",
+    "uikName": "УИК №340",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "486400766661",
+    "uikName": "УИК №341",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "486400766662",
+    "uikName": "УИК №342",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "486400766663",
+    "uikName": "УИК №343",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "486400766664",
+    "uikName": "УИК №344",
     "tikTvd": "286200066729",
-    "tikName": "Нефтеюганская городская"
+    "tikName": "Нефтеюганская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "486400966666",
+    "uikName": "УИК №345",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "486400966667",
+    "uikName": "УИК №346",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "486400966668",
+    "uikName": "УИК №347",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "486400966669",
+    "uikName": "УИК №348",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "486400966670",
+    "uikName": "УИК №349",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "486400966671",
+    "uikName": "УИК №350",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "486400966672",
+    "uikName": "УИК №351",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "486400966673",
+    "uikName": "УИК №352",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "486400966674",
+    "uikName": "УИК №353",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "486400966675",
+    "uikName": "УИК №354",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "486400966676",
+    "uikName": "УИК №355",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "486400966677",
+    "uikName": "УИК №356",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "486400966678",
+    "uikName": "УИК №357",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "486400966679",
+    "uikName": "УИК №358",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "486400966680",
+    "uikName": "УИК №359",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "486400966681",
+    "uikName": "УИК №360",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "486400966682",
+    "uikName": "УИК №361",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "486400966683",
+    "uikName": "УИК №362",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "486400966684",
+    "uikName": "УИК №363",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "486400966685",
+    "uikName": "УИК №364",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "486400966686",
+    "uikName": "УИК №365",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "486400966687",
+    "uikName": "УИК №366",
     "tikTvd": "286200066731",
-    "tikName": "Няганьская городская"
+    "tikName": "Няганьская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "486401266634",
+    "uikName": "УИК №367",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "486401266635",
+    "uikName": "УИК №368",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "486401266636",
+    "uikName": "УИК №369",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "486401266637",
+    "uikName": "УИК №370",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "486401266638",
+    "uikName": "УИК №371",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "486401266639",
+    "uikName": "УИК №372",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "486401266640",
+    "uikName": "УИК №373",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "486401266641",
+    "uikName": "УИК №374",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "486401266642",
+    "uikName": "УИК №375",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "486401266643",
+    "uikName": "УИК №376",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "486401266644",
+    "uikName": "УИК №377",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "486401266645",
+    "uikName": "УИК №378",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "486401266646",
+    "uikName": "УИК №379",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "486401266647",
+    "uikName": "УИК №380",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "486401266648",
+    "uikName": "УИК №381",
     "tikTvd": "286200066733",
-    "tikName": "Пыть-Яхская городская"
+    "tikName": "Пыть-Яхская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "486401766687",
+    "uikName": "УИК №382",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "486401766688",
+    "uikName": "УИК №383",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "486401766689",
+    "uikName": "УИК №384",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "486401766690",
+    "uikName": "УИК №385",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "486401766691",
+    "uikName": "УИК №386",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "486401766692",
+    "uikName": "УИК №387",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "486401766693",
+    "uikName": "УИК №388",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "486401766694",
+    "uikName": "УИК №389",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "486401766695",
+    "uikName": "УИК №390",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "486401766696",
+    "uikName": "УИК №391",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "486401766697",
+    "uikName": "УИК №392",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "486401766698",
+    "uikName": "УИК №393",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "486401766699",
+    "uikName": "УИК №394",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "486401766685",
+    "uikName": "УИК №395",
     "tikTvd": "286200066735",
-    "tikName": "Урайская городская"
+    "tikName": "Урайская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "486400266683",
+    "uikName": "УИК №396",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "486400266684",
+    "uikName": "УИК №397",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "486400266685",
+    "uikName": "УИК №398",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "486400266686",
+    "uikName": "УИК №399",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "486400266687",
+    "uikName": "УИК №400",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "486400266688",
+    "uikName": "УИК №401",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "486400266689",
+    "uikName": "УИК №402",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "486400266690",
+    "uikName": "УИК №403",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "486400266691",
+    "uikName": "УИК №404",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "486400266692",
+    "uikName": "УИК №405",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "486400266693",
+    "uikName": "УИК №406",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "486400266694",
+    "uikName": "УИК №407",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "486400266695",
+    "uikName": "УИК №408",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "486400266696",
+    "uikName": "УИК №409",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "486400266697",
+    "uikName": "УИК №410",
     "tikTvd": "286200066726",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "486400466708",
+    "uikName": "УИК №411",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "486400466709",
+    "uikName": "УИК №412",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "486400466710",
+    "uikName": "УИК №413",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "486400466711",
+    "uikName": "УИК №414",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "486400466712",
+    "uikName": "УИК №415",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "486400466713",
+    "uikName": "УИК №416",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "486400466714",
+    "uikName": "УИК №417",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "486400466715",
+    "uikName": "УИК №418",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "486400466716",
+    "uikName": "УИК №419",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "486400466717",
+    "uikName": "УИК №420",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "486400466718",
+    "uikName": "УИК №421",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "486400466719",
+    "uikName": "УИК №422",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "486400466720",
+    "uikName": "УИК №423",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "486400466721",
+    "uikName": "УИК №424",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "486400466722",
+    "uikName": "УИК №425",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "486400466723",
+    "uikName": "УИК №426",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "486400466724",
+    "uikName": "УИК №427",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "486400466725",
+    "uikName": "УИК №428",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "486400466726",
+    "uikName": "УИК №429",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "486400466727",
+    "uikName": "УИК №430",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "486400466728",
+    "uikName": "УИК №431",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "486400466729",
+    "uikName": "УИК №432",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "486400466730",
+    "uikName": "УИК №433",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "486400466731",
+    "uikName": "УИК №434",
     "tikTvd": "286200066728",
-    "tikName": "Кондинская"
+    "tikName": "Кондинская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "486401966662",
+    "uikName": "УИК №435",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "486401966663",
+    "uikName": "УИК №436",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "486401966664",
+    "uikName": "УИК №437",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "486401966665",
+    "uikName": "УИК №438",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "486401966666",
+    "uikName": "УИК №439",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "486401966667",
+    "uikName": "УИК №440",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "486401966668",
+    "uikName": "УИК №441",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "486401966669",
+    "uikName": "УИК №442",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "486401966670",
+    "uikName": "УИК №443",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "486401966671",
+    "uikName": "УИК №444",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "486401966672",
+    "uikName": "УИК №445",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "486401966673",
+    "uikName": "УИК №446",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "486401966674",
+    "uikName": "УИК №447",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "486401966675",
+    "uikName": "УИК №448",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "486401966676",
+    "uikName": "УИК №449",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "486401966677",
+    "uikName": "УИК №450",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "486401966678",
+    "uikName": "УИК №451",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "486401966679",
+    "uikName": "УИК №452",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "486401966680",
+    "uikName": "УИК №453",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "486401966681",
+    "uikName": "УИК №454",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "486401966682",
+    "uikName": "УИК №455",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "486401966683",
+    "uikName": "УИК №456",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "486401966684",
+    "uikName": "УИК №457",
     "tikTvd": "286200066730",
-    "tikName": "Нефтеюганская"
+    "tikName": "Нефтеюганская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "486401066690",
+    "uikName": "УИК №458",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "486401066691",
+    "uikName": "УИК №459",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "486401066692",
+    "uikName": "УИК №460",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "486401066693",
+    "uikName": "УИК №461",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "486401066694",
+    "uikName": "УИК №462",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "486401066695",
+    "uikName": "УИК №463",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "486401066696",
+    "uikName": "УИК №464",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "486401066697",
+    "uikName": "УИК №465",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "486401066698",
+    "uikName": "УИК №466",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "486401066699",
+    "uikName": "УИК №467",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "486401066700",
+    "uikName": "УИК №468",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "486401066701",
+    "uikName": "УИК №469",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "486401066702",
+    "uikName": "УИК №470",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "486401066703",
+    "uikName": "УИК №471",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "486401066704",
+    "uikName": "УИК №472",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "486401066705",
+    "uikName": "УИК №473",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "486401066706",
+    "uikName": "УИК №474",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "486401066707",
+    "uikName": "УИК №475",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "486401066708",
+    "uikName": "УИК №476",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "486401066709",
+    "uikName": "УИК №477",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "486401066710",
+    "uikName": "УИК №478",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "486401066711",
+    "uikName": "УИК №479",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "486401066712",
+    "uikName": "УИК №480",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "486401066713",
+    "uikName": "УИК №481",
     "tikTvd": "286200066732",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "486401466649",
+    "uikName": "УИК №482",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "486401466650",
+    "uikName": "УИК №483",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "486401466651",
+    "uikName": "УИК №484",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "486401466652",
+    "uikName": "УИК №485",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "486401466653",
+    "uikName": "УИК №486",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "486401466654",
+    "uikName": "УИК №487",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "486401466655",
+    "uikName": "УИК №488",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "486401466656",
+    "uikName": "УИК №489",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "486401466657",
+    "uikName": "УИК №490",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "486401466658",
+    "uikName": "УИК №491",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "486401466659",
+    "uikName": "УИК №492",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "486401466660",
+    "uikName": "УИК №493",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "486401466661",
+    "uikName": "УИК №494",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "486401466662",
+    "uikName": "УИК №495",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "486401466663",
+    "uikName": "УИК №496",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "486401466664",
+    "uikName": "УИК №497",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "486401466665",
+    "uikName": "УИК №498",
     "tikTvd": "286200066734",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "486402166695",
+    "uikName": "УИК №499",
     "tikTvd": "286200066738",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "486402166696",
+    "uikName": "УИК №500",
     "tikTvd": "286200066738",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "486402166697",
+    "uikName": "УИК №501",
     "tikTvd": "286200066738",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "486402166698",
+    "uikName": "УИК №502",
     "tikTvd": "286200066738",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "486402166699",
+    "uikName": "УИК №503",
     "tikTvd": "286200066738",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "486402166700",
+    "uikName": "УИК №504",
     "tikTvd": "286200066738",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "486402166701",
+    "uikName": "УИК №505",
     "tikTvd": "286200066738",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "486402166702",
+    "uikName": "УИК №506",
     "tikTvd": "286200066738",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "486402166703",
+    "uikName": "УИК №507",
     "tikTvd": "286200066738",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "486402166704",
+    "uikName": "УИК №508",
     "tikTvd": "286200066738",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "486402166705",
+    "uikName": "УИК №509",
     "tikTvd": "286200066738",
-    "tikName": "Югорская городская"
+    "tikName": "Югорская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "486401866671",
+    "uikName": "УИК №510",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "486401866672",
+    "uikName": "УИК №511",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "486401866673",
+    "uikName": "УИК №512",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "486401866674",
+    "uikName": "УИК №513",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "486401866675",
+    "uikName": "УИК №514",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "486401866676",
+    "uikName": "УИК №515",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "486401866677",
+    "uikName": "УИК №516",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "486401866678",
+    "uikName": "УИК №517",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "486401866679",
+    "uikName": "УИК №518",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "486401866680",
+    "uikName": "УИК №519",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "486401866681",
+    "uikName": "УИК №520",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "486401866682",
+    "uikName": "УИК №521",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "486401866683",
+    "uikName": "УИК №522",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "486401866684",
+    "uikName": "УИК №523",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "486401866685",
+    "uikName": "УИК №524",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "486401866686",
+    "uikName": "УИК №525",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "486401866687",
+    "uikName": "УИК №526",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "486401866688",
+    "uikName": "УИК №527",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "486401866689",
+    "uikName": "УИК №528",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "486401866690",
+    "uikName": "УИК №529",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "486401866691",
+    "uikName": "УИК №530",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "486401866692",
+    "uikName": "УИК №531",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "486401866693",
+    "uikName": "УИК №532",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "486401866694",
+    "uikName": "УИК №533",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "486401866695",
+    "uikName": "УИК №534",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "486401866696",
+    "uikName": "УИК №535",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "486401866697",
+    "uikName": "УИК №536",
     "tikTvd": "286200066736",
-    "tikName": "Ханты-Мансийская"
+    "tikName": "Ханты-Мансийская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "486402066660",
+    "uikName": "УИК №537",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "486402066661",
+    "uikName": "УИК №538",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "486402066662",
+    "uikName": "УИК №539",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "486402066663",
+    "uikName": "УИК №540",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "486402066664",
+    "uikName": "УИК №541",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "486402066665",
+    "uikName": "УИК №542",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "486402066666",
+    "uikName": "УИК №543",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "486402066667",
+    "uikName": "УИК №544",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "486402066668",
+    "uikName": "УИК №545",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "486402066669",
+    "uikName": "УИК №546",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "486402066670",
+    "uikName": "УИК №547",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "486402066671",
+    "uikName": "УИК №548",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "486402066672",
+    "uikName": "УИК №549",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "486402066673",
+    "uikName": "УИК №550",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "486402066674",
+    "uikName": "УИК №551",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "486402066675",
+    "uikName": "УИК №552",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "486402066676",
+    "uikName": "УИК №553",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "486402066677",
+    "uikName": "УИК №554",
     "tikTvd": "286200066737",
-    "tikName": "Ханты-Мансийская городская"
+    "tikName": "Ханты-Мансийская городская",
+    "regionCode": "86",
+    "regionTvd": "100100095846",
+    "regionName": "Ханты-Мансийский автономный округ",
+    "district": {
+      "districtNumber": 222,
+      "oikTvd": "100100095848",
+      "oikName": "Ханты-Мансийский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

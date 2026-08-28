@@ -7,337 +7,841 @@ export const duma_2003_uik_to_tik_region_80 = [
   {
     "uikNumber": 1,
     "uikTvd": "480400166708",
+    "uikName": "УИК  1",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "480400166709",
+    "uikName": "УИК  2",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "480400166710",
+    "uikName": "УИК  3",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "480400166711",
+    "uikName": "УИК  4",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "480400166712",
+    "uikName": "УИК  5",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "480400166713",
+    "uikName": "УИК  6",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "480400166714",
+    "uikName": "УИК  7",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "480400166715",
+    "uikName": "УИК  8",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "480400166716",
+    "uikName": "УИК  9",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "480400166717",
+    "uikName": "УИК  10",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "480400166718",
+    "uikName": "УИК  11",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "480400166719",
+    "uikName": "УИК  12",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "480400166720",
+    "uikName": "УИК  13",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "480400166721",
+    "uikName": "УИК  14",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "480400166722",
+    "uikName": "УИК  15",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "480400166723",
+    "uikName": "УИК  16",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "480400166724",
+    "uikName": "УИК  17",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "480400166725",
+    "uikName": "УИК  18",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "480400166726",
+    "uikName": "УИК  19",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "480400166727",
+    "uikName": "УИК  20",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "480400166728",
+    "uikName": "УИК  21",
     "tikTvd": "280200066814",
-    "tikName": "Агинская"
+    "tikName": "Агинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "480400266642",
+    "uikName": "УИК  22",
     "tikTvd": "280200066813",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "480400266643",
+    "uikName": "УИК  23",
     "tikTvd": "280200066813",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "480400266644",
+    "uikName": "УИК  24",
     "tikTvd": "280200066813",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "480400266645",
+    "uikName": "УИК  25",
     "tikTvd": "280200066813",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "480400266646",
+    "uikName": "УИК  26",
     "tikTvd": "280200066813",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "480400266647",
+    "uikName": "УИК  27",
     "tikTvd": "280200066813",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "480400266648",
+    "uikName": "УИК  28",
     "tikTvd": "280200066813",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "480400266649",
+    "uikName": "УИК  29",
     "tikTvd": "280200066813",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "480400266650",
+    "uikName": "УИК  30",
     "tikTvd": "280200066813",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "480400266651",
+    "uikName": "УИК  31",
     "tikTvd": "280200066813",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "480400266652",
+    "uikName": "УИК  32",
     "tikTvd": "280200066813",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "480400266653",
+    "uikName": "УИК  33",
     "tikTvd": "280200066813",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "480400266654",
+    "uikName": "УИК  34",
     "tikTvd": "280200066813",
-    "tikName": "Дульдургинская"
+    "tikName": "Дульдургинская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "480400366734",
+    "uikName": "УИК №35",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "480400366736",
+    "uikName": "УИК №36",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "480400366738",
+    "uikName": "УИК №37",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "480400366709",
+    "uikName": "УИК №38",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "480400366691",
+    "uikName": "УИК №39",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "480400366695",
+    "uikName": "УИК №40",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "480400366711",
+    "uikName": "УИК №41",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "480400366713",
+    "uikName": "УИК №42",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "480400366697",
+    "uikName": "УИК №43",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "480400366715",
+    "uikName": "УИК №44",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "480400366717",
+    "uikName": "УИК №45",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "480400366699",
+    "uikName": "УИК №46",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "480400366701",
+    "uikName": "УИК №47",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "480400366703",
+    "uikName": "УИК №48",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "480400366719",
+    "uikName": "УИК №49",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "480400366721",
+    "uikName": "УИК №50",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "480400366723",
+    "uikName": "УИК №51",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "480400366705",
+    "uikName": "УИК №52",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "480400366725",
+    "uikName": "УИК №53",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "480400366727",
+    "uikName": "УИК №54",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "480400366729",
+    "uikName": "УИК №55",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "480400366731",
+    "uikName": "УИК №56",
     "tikTvd": "280200066812",
-    "tikName": "Могойтуйская"
+    "tikName": "Могойтуйская",
+    "regionCode": "80",
+    "regionTvd": "100100095735",
+    "regionName": "Агинский Бурятский автономный округ                                    ",
+    "district": {
+      "districtNumber": 215,
+      "oikTvd": "100100095736",
+      "oikName": "Агинский Бурятский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

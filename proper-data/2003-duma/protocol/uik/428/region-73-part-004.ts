@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 828,
     "uikTvd": "473402266733",
+    "uikName": "УИК №828",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2116,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -66,8 +75,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 829,
     "uikTvd": "473402266734",
+    "uikName": "УИК №829",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2735,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -121,8 +139,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 830,
     "uikTvd": "473402266735",
+    "uikName": "УИК №830",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 515,
       "Число бюллетеней, полученных участковыми комиссиями": 524,
@@ -176,8 +203,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 831,
     "uikTvd": "473402266736",
+    "uikName": "УИК №831",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2017,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -231,8 +267,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 832,
     "uikTvd": "473402266737",
+    "uikName": "УИК №832",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2905,
       "Число бюллетеней, полученных участковыми комиссиями": 2890,
@@ -286,8 +331,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 833,
     "uikTvd": "473402266738",
+    "uikName": "УИК №833",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -341,8 +395,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 834,
     "uikTvd": "473402266739",
+    "uikName": "УИК №834",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2695,
       "Число бюллетеней, полученных участковыми комиссиями": 2690,
@@ -396,8 +459,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 835,
     "uikTvd": "473402266740",
+    "uikName": "УИК №835",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1952,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -451,8 +523,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 836,
     "uikTvd": "473402266741",
+    "uikName": "УИК №836",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2352,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -506,8 +587,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 837,
     "uikTvd": "473402266742",
+    "uikName": "УИК №837",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2661,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -561,8 +651,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 838,
     "uikTvd": "473402266743",
+    "uikName": "УИК №838",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2491,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -616,8 +715,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 839,
     "uikTvd": "473402266744",
+    "uikName": "УИК №839",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -671,8 +779,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 840,
     "uikTvd": "473402266745",
+    "uikName": "УИК №840",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -726,8 +843,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 841,
     "uikTvd": "473402266707",
+    "uikName": "УИК №841",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1991,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -781,8 +907,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 972,
     "uikTvd": "473402166842",
+    "uikName": "УИК №972",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1864,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -836,8 +971,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 973,
     "uikTvd": "473402166843",
+    "uikName": "УИК №973",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1020,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -891,8 +1035,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 974,
     "uikTvd": "473402166844",
+    "uikName": "УИК №974",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2410,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -946,8 +1099,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 975,
     "uikTvd": "473402166845",
+    "uikName": "УИК №975",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2164,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1001,8 +1163,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 976,
     "uikTvd": "473402166846",
+    "uikName": "УИК №976",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2661,
       "Число бюллетеней, полученных участковыми комиссиями": 2630,
@@ -1056,8 +1227,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 977,
     "uikTvd": "473402166847",
+    "uikName": "УИК №977",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2509,
       "Число бюллетеней, полученных участковыми комиссиями": 2340,
@@ -1111,8 +1291,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 978,
     "uikTvd": "473402166848",
+    "uikName": "УИК №978",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1166,8 +1355,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 979,
     "uikTvd": "473402166849",
+    "uikName": "УИК №979",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 813,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1221,8 +1419,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 980,
     "uikTvd": "473402166850",
+    "uikName": "УИК №980",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -1276,8 +1483,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 981,
     "uikTvd": "473402166851",
+    "uikName": "УИК №981",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2641,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1331,8 +1547,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 982,
     "uikTvd": "473402166852",
+    "uikName": "УИК №982",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2334,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1386,8 +1611,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 983,
     "uikTvd": "473402166853",
+    "uikName": "УИК №983",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2409,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1441,8 +1675,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 984,
     "uikTvd": "473402166854",
+    "uikName": "УИК №984",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2640,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -1496,8 +1739,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 985,
     "uikTvd": "473402166855",
+    "uikName": "УИК №985",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1281,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1551,8 +1803,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 986,
     "uikTvd": "473402166856",
+    "uikName": "УИК №986",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2365,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -1606,8 +1867,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 987,
     "uikTvd": "473402166857",
+    "uikName": "УИК №987",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1851,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -1661,8 +1931,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 988,
     "uikTvd": "473402166858",
+    "uikName": "УИК №988",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1324,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -1716,8 +1995,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 989,
     "uikTvd": "473402166859",
+    "uikName": "УИК №989",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1980,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -1771,8 +2059,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 990,
     "uikTvd": "473402166860",
+    "uikName": "УИК №990",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1597,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -1826,8 +2123,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 991,
     "uikTvd": "473402166861",
+    "uikName": "УИК №991",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2114,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1881,8 +2187,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 992,
     "uikTvd": "473402166862",
+    "uikName": "УИК №992",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 997,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -1936,8 +2251,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 993,
     "uikTvd": "473402166863",
+    "uikName": "УИК №993",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1554,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1991,8 +2315,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 994,
     "uikTvd": "473402166864",
+    "uikName": "УИК №994",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1305,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -2046,8 +2379,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 995,
     "uikTvd": "473402166865",
+    "uikName": "УИК №995",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -2101,8 +2443,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 996,
     "uikTvd": "473402166866",
+    "uikName": "УИК №996",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2043,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2156,8 +2507,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 997,
     "uikTvd": "473402166867",
+    "uikName": "УИК №997",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1697,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2211,8 +2571,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 998,
     "uikTvd": "473402166868",
+    "uikName": "УИК №998",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2266,8 +2635,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 999,
     "uikTvd": "473402166869",
+    "uikName": "УИК №999",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2607,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -2321,8 +2699,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1000,
     "uikTvd": "473402166870",
+    "uikName": "УИК №1000",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2678,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2376,8 +2763,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "473402166871",
+    "uikName": "УИК №1001",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2736,
       "Число бюллетеней, полученных участковыми комиссиями": 2590,
@@ -2431,8 +2827,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "473402166872",
+    "uikName": "УИК №1002",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -2486,8 +2891,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "473402166873",
+    "uikName": "УИК №1003",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2882,
       "Число бюллетеней, полученных участковыми комиссиями": 2780,
@@ -2541,8 +2955,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "473402166874",
+    "uikName": "УИК №1004",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2849,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2596,8 +3019,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "473402166875",
+    "uikName": "УИК №1005",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2786,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -2651,8 +3083,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "473402166876",
+    "uikName": "УИК №1006",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2209,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2706,8 +3147,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "473402166877",
+    "uikName": "УИК №1007",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 910,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2761,8 +3211,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "473402166878",
+    "uikName": "УИК №1008",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2486,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2816,8 +3275,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "473402166879",
+    "uikName": "УИК №1009",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2217,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2871,8 +3339,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "473402166880",
+    "uikName": "УИК №1010",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2881,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2926,8 +3403,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "473402166881",
+    "uikName": "УИК №1011",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1822,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -2981,8 +3467,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "473402166882",
+    "uikName": "УИК №1012",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2153,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3036,8 +3531,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "473402166883",
+    "uikName": "УИК №1013",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2794,
       "Число бюллетеней, полученных участковыми комиссиями": 2790,
@@ -3091,8 +3595,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "473402166884",
+    "uikName": "УИК №1014",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2600,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -3146,8 +3659,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "473402166885",
+    "uikName": "УИК №1015",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 622,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3201,8 +3723,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "473402166886",
+    "uikName": "УИК №1016",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1028,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -3256,8 +3787,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "473402166887",
+    "uikName": "УИК №1017",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2491,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -3311,8 +3851,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "473402166888",
+    "uikName": "УИК №1018",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1656,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -3366,8 +3915,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "473402166889",
+    "uikName": "УИК №1019",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3421,8 +3979,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "473402166890",
+    "uikName": "УИК №1020",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -3476,8 +4043,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1021,
     "uikTvd": "473402166840",
+    "uikName": "УИК №1021",
     "tikTvd": "273200070526",
     "tikName": "Ульяновск, Ленинская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -3531,8 +4107,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "473402066792",
+    "uikName": "УИК №877",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1907,
       "Число бюллетеней, полученных участковыми комиссиями": 1881,
@@ -3586,8 +4171,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "473402066793",
+    "uikName": "УИК №878",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1885,
       "Число бюллетеней, полученных участковыми комиссиями": 1827,
@@ -3641,8 +4235,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "473402066794",
+    "uikName": "УИК №879",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1820,
       "Число бюллетеней, полученных участковыми комиссиями": 1797,
@@ -3696,8 +4299,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "473402066795",
+    "uikName": "УИК №880",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1853,
@@ -3751,8 +4363,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "473402066796",
+    "uikName": "УИК №881",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1491,
       "Число бюллетеней, полученных участковыми комиссиями": 1464,
@@ -3806,8 +4427,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "473402066797",
+    "uikName": "УИК №882",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1992,
       "Число бюллетеней, полученных участковыми комиссиями": 1949,
@@ -3861,8 +4491,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "473402066798",
+    "uikName": "УИК №883",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 492,
@@ -3916,8 +4555,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "473402066799",
+    "uikName": "УИК №884",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2280,
       "Число бюллетеней, полученных участковыми комиссиями": 2249,
@@ -3971,8 +4619,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "473402066800",
+    "uikName": "УИК №885",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1343,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -4026,8 +4683,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "473402066801",
+    "uikName": "УИК №886",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2422,
       "Число бюллетеней, полученных участковыми комиссиями": 2309,
@@ -4081,8 +4747,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "473402066802",
+    "uikName": "УИК №887",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1461,
       "Число бюллетеней, полученных участковыми комиссиями": 1451,
@@ -4136,8 +4811,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "473402066803",
+    "uikName": "УИК №888",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1905,
       "Число бюллетеней, полученных участковыми комиссиями": 1881,
@@ -4191,8 +4875,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "473402066804",
+    "uikName": "УИК №889",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1761,
       "Число бюллетеней, полученных участковыми комиссиями": 1746,
@@ -4246,8 +4939,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "473402066805",
+    "uikName": "УИК №890",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1848,
       "Число бюллетеней, полученных участковыми комиссиями": 1816,
@@ -4301,8 +5003,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "473402066806",
+    "uikName": "УИК №891",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1569,
       "Число бюллетеней, полученных участковыми комиссиями": 1545,
@@ -4356,8 +5067,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "473402066807",
+    "uikName": "УИК №892",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2083,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -4411,8 +5131,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "473402066808",
+    "uikName": "УИК №893",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2181,
       "Число бюллетеней, полученных участковыми комиссиями": 2146,
@@ -4466,8 +5195,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "473402066809",
+    "uikName": "УИК №894",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1705,
       "Число бюллетеней, полученных участковыми комиссиями": 1683,
@@ -4521,8 +5259,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "473402066810",
+    "uikName": "УИК №895",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1577,
       "Число бюллетеней, полученных участковыми комиссиями": 1565,
@@ -4576,8 +5323,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "473402066811",
+    "uikName": "УИК №896",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1404,
       "Число бюллетеней, полученных участковыми комиссиями": 1374,
@@ -4631,8 +5387,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "473402066812",
+    "uikName": "УИК №897",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2862,
       "Число бюллетеней, полученных участковыми комиссиями": 2795,
@@ -4686,8 +5451,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "473402066813",
+    "uikName": "УИК №898",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1705,
       "Число бюллетеней, полученных участковыми комиссиями": 1671,
@@ -4741,8 +5515,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "473402066814",
+    "uikName": "УИК №899",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1728,
       "Число бюллетеней, полученных участковыми комиссиями": 1697,
@@ -4796,8 +5579,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "473402066815",
+    "uikName": "УИК №900",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2643,
       "Число бюллетеней, полученных участковыми комиссиями": 2613,
@@ -4851,8 +5643,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "473402066816",
+    "uikName": "УИК №901",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1743,
       "Число бюллетеней, полученных участковыми комиссиями": 1721,
@@ -4906,8 +5707,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "473402066817",
+    "uikName": "УИК №902",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1801,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -4961,8 +5771,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "473402066818",
+    "uikName": "УИК №903",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1890,
       "Число бюллетеней, полученных участковыми комиссиями": 1863,
@@ -5016,8 +5835,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "473402066819",
+    "uikName": "УИК №904",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1467,
       "Число бюллетеней, полученных участковыми комиссиями": 1431,
@@ -5071,8 +5899,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "473402066820",
+    "uikName": "УИК №905",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1757,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -5126,8 +5963,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "473402066821",
+    "uikName": "УИК №906",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 21,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -5181,8 +6027,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "473402066822",
+    "uikName": "УИК №907",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1504,
       "Число бюллетеней, полученных участковыми комиссиями": 1484,
@@ -5236,8 +6091,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "473402066823",
+    "uikName": "УИК №908",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2072,
       "Число бюллетеней, полученных участковыми комиссиями": 2051,
@@ -5291,8 +6155,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "473402066824",
+    "uikName": "УИК №909",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2519,
       "Число бюллетеней, полученных участковыми комиссиями": 2466,
@@ -5346,8 +6219,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "473402066825",
+    "uikName": "УИК №910",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1918,
       "Число бюллетеней, полученных участковыми комиссиями": 1868,
@@ -5401,8 +6283,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "473402066826",
+    "uikName": "УИК №911",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1671,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -5456,8 +6347,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "473402066827",
+    "uikName": "УИК №912",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1925,
       "Число бюллетеней, полученных участковыми комиссиями": 1888,
@@ -5511,8 +6411,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 913,
     "uikTvd": "473402066828",
+    "uikName": "УИК №913",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1750,
       "Число бюллетеней, полученных участковыми комиссиями": 1693,
@@ -5566,8 +6475,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "473402066829",
+    "uikName": "УИК №914",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2787,
       "Число бюллетеней, полученных участковыми комиссиями": 2756,
@@ -5621,8 +6539,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "473402066830",
+    "uikName": "УИК №915",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2239,
@@ -5676,8 +6603,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "473402066831",
+    "uikName": "УИК №916",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1027,
       "Число бюллетеней, полученных участковыми комиссиями": 1013,
@@ -5731,8 +6667,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 917,
     "uikTvd": "473402066832",
+    "uikName": "УИК №917",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1451,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -5786,8 +6731,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 918,
     "uikTvd": "473402066833",
+    "uikName": "УИК №918",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1558,
       "Число бюллетеней, полученных участковыми комиссиями": 1532,
@@ -5841,8 +6795,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 919,
     "uikTvd": "473402066834",
+    "uikName": "УИК №919",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1779,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -5896,8 +6859,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 920,
     "uikTvd": "473402066835",
+    "uikName": "УИК №920",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1483,
       "Число бюллетеней, полученных участковыми комиссиями": 1461,
@@ -5951,8 +6923,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 921,
     "uikTvd": "473402066836",
+    "uikName": "УИК №921",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2114,
       "Число бюллетеней, полученных участковыми комиссиями": 2074,
@@ -6006,8 +6987,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 922,
     "uikTvd": "473402066837",
+    "uikName": "УИК №922",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2688,
       "Число бюллетеней, полученных участковыми комиссиями": 2631,
@@ -6061,8 +7051,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 923,
     "uikTvd": "473402066838",
+    "uikName": "УИК №923",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2015,
       "Число бюллетеней, полученных участковыми комиссиями": 1983,
@@ -6116,8 +7115,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 924,
     "uikTvd": "473402066839",
+    "uikName": "УИК №924",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1615,
       "Число бюллетеней, полученных участковыми комиссиями": 1593,
@@ -6171,8 +7179,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 925,
     "uikTvd": "473402066840",
+    "uikName": "УИК №925",
     "tikTvd": "273200070527",
     "tikName": "Ульяновск, Засвияжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2095,
       "Число бюллетеней, полученных участковыми комиссиями": 2064,
@@ -6226,8 +7243,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 766,
     "uikTvd": "473401966767",
+    "uikName": "УИК №766",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -6281,8 +7307,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "473401966768",
+    "uikName": "УИК №767",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2209,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6336,8 +7371,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "473401966769",
+    "uikName": "УИК №768",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1591,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6391,8 +7435,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 769,
     "uikTvd": "473401966770",
+    "uikName": "УИК №769",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2045,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6446,8 +7499,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 770,
     "uikTvd": "473401966771",
+    "uikName": "УИК №770",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6501,8 +7563,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 771,
     "uikTvd": "473401966772",
+    "uikName": "УИК №771",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6556,8 +7627,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 772,
     "uikTvd": "473401966773",
+    "uikName": "УИК №772",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2244,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6611,8 +7691,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 773,
     "uikTvd": "473401966774",
+    "uikName": "УИК №773",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2081,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6666,8 +7755,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 774,
     "uikTvd": "473401966775",
+    "uikName": "УИК №774",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2250,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6721,8 +7819,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 775,
     "uikTvd": "473401966776",
+    "uikName": "УИК №775",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1441,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6776,8 +7883,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "473401966777",
+    "uikName": "УИК №776",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6831,8 +7947,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "473401966778",
+    "uikName": "УИК №777",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1362,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6886,8 +8011,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "473401966779",
+    "uikName": "УИК №778",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1738,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6941,8 +8075,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "473401966780",
+    "uikName": "УИК №779",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2785,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -6996,8 +8139,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "473401966781",
+    "uikName": "УИК №780",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1333,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7051,8 +8203,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "473401966782",
+    "uikName": "УИК №781",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7106,8 +8267,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "473401966783",
+    "uikName": "УИК №782",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2199,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -7161,8 +8331,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "473401966784",
+    "uikName": "УИК №783",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2618,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -7216,8 +8395,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "473401966785",
+    "uikName": "УИК №784",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2739,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7271,8 +8459,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "473401966786",
+    "uikName": "УИК №785",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -7326,8 +8523,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "473401966787",
+    "uikName": "УИК №786",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2483,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7381,8 +8587,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "473401966788",
+    "uikName": "УИК №787",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2740,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -7436,8 +8651,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "473401966789",
+    "uikName": "УИК №788",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2777,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7491,8 +8715,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "473401966790",
+    "uikName": "УИК №789",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2247,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7546,8 +8779,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "473401966791",
+    "uikName": "УИК №790",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2810,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7601,8 +8843,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "473401966792",
+    "uikName": "УИК №791",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2560,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7656,8 +8907,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "473401966793",
+    "uikName": "УИК №792",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2297,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7711,8 +8971,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "473401966794",
+    "uikName": "УИК №793",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1837,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7766,8 +9035,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "473401966795",
+    "uikName": "УИК №794",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1781,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7821,8 +9099,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "473401966796",
+    "uikName": "УИК №795",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1053,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7876,8 +9163,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "473401966797",
+    "uikName": "УИК №796",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 832,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -7931,8 +9227,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "473401966798",
+    "uikName": "УИК №797",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7986,8 +9291,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "473401966799",
+    "uikName": "УИК №798",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 869,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -8041,8 +9355,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "473401966800",
+    "uikName": "УИК №799",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1281,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8096,8 +9419,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "473401966801",
+    "uikName": "УИК №800",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -8151,8 +9483,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "473401966802",
+    "uikName": "УИК №801",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2069,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8206,8 +9547,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "473401966803",
+    "uikName": "УИК №802",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2658,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -8261,8 +9611,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "473401966804",
+    "uikName": "УИК №803",
     "tikTvd": "273200070528",
     "tikName": "Ульяновск, Железнодорожная",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8316,8 +9675,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 926,
     "uikTvd": "473402966744",
+    "uikName": "УИК №926",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1639,
       "Число бюллетеней, полученных участковыми комиссиями": 1622,
@@ -8371,8 +9739,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 927,
     "uikTvd": "473402966745",
+    "uikName": "УИК №927",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1573,
       "Число бюллетеней, полученных участковыми комиссиями": 1551,
@@ -8426,8 +9803,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 928,
     "uikTvd": "473402966746",
+    "uikName": "УИК №928",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1352,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -8481,8 +9867,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "473402966747",
+    "uikName": "УИК №929",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2332,
       "Число бюллетеней, полученных участковыми комиссиями": 2317,
@@ -8536,8 +9931,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "473402966748",
+    "uikName": "УИК №930",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1916,
       "Число бюллетеней, полученных участковыми комиссиями": 1912,
@@ -8591,8 +9995,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "473402966749",
+    "uikName": "УИК №931",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2057,
       "Число бюллетеней, полученных участковыми комиссиями": 2053,
@@ -8646,8 +10059,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "473402966750",
+    "uikName": "УИК №932",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1958,
       "Число бюллетеней, полученных участковыми комиссиями": 1922,
@@ -8701,8 +10123,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "473402966751",
+    "uikName": "УИК №933",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2728,
       "Число бюллетеней, полученных участковыми комиссиями": 2662,
@@ -8756,8 +10187,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "473402966752",
+    "uikName": "УИК №934",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2662,
       "Число бюллетеней, полученных участковыми комиссиями": 2634,
@@ -8811,8 +10251,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "473402966753",
+    "uikName": "УИК №935",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2742,
       "Число бюллетеней, полученных участковыми комиссиями": 2724,
@@ -8866,8 +10315,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "473402966754",
+    "uikName": "УИК №936",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2867,
       "Число бюллетеней, полученных участковыми комиссиями": 2820,
@@ -8921,8 +10379,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "473402966755",
+    "uikName": "УИК №937",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2671,
       "Число бюллетеней, полученных участковыми комиссиями": 2669,
@@ -8976,8 +10443,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "473402966756",
+    "uikName": "УИК №938",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2082,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -9031,8 +10507,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 939,
     "uikTvd": "473402966757",
+    "uikName": "УИК №939",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2741,
       "Число бюллетеней, полученных участковыми комиссиями": 2713,
@@ -9086,8 +10571,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 940,
     "uikTvd": "473402966758",
+    "uikName": "УИК №940",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1739,
       "Число бюллетеней, полученных участковыми комиссиями": 1726,
@@ -9141,8 +10635,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 941,
     "uikTvd": "473402966759",
+    "uikName": "УИК №941",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2198,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9196,8 +10699,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 942,
     "uikTvd": "473402966760",
+    "uikName": "УИК №942",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2503,
       "Число бюллетеней, полученных участковыми комиссиями": 2471,
@@ -9251,8 +10763,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 943,
     "uikTvd": "473402966761",
+    "uikName": "УИК №943",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2358,
       "Число бюллетеней, полученных участковыми комиссиями": 2346,
@@ -9306,8 +10827,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 944,
     "uikTvd": "473402966762",
+    "uikName": "УИК №944",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1644,
       "Число бюллетеней, полученных участковыми комиссиями": 1613,
@@ -9361,8 +10891,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 945,
     "uikTvd": "473402966763",
+    "uikName": "УИК №945",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1613,
       "Число бюллетеней, полученных участковыми комиссиями": 1621,
@@ -9416,8 +10955,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 946,
     "uikTvd": "473402966764",
+    "uikName": "УИК №946",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1945,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -9471,8 +11019,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 947,
     "uikTvd": "473402966765",
+    "uikName": "УИК №947",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2092,
       "Число бюллетеней, полученных участковыми комиссиями": 2089,
@@ -9526,8 +11083,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 948,
     "uikTvd": "473402966766",
+    "uikName": "УИК №948",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2071,
       "Число бюллетеней, полученных участковыми комиссиями": 2043,
@@ -9581,8 +11147,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 949,
     "uikTvd": "473402966767",
+    "uikName": "УИК №949",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1967,
       "Число бюллетеней, полученных участковыми комиссиями": 1959,
@@ -9636,8 +11211,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 950,
     "uikTvd": "473402966768",
+    "uikName": "УИК №950",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1803,
       "Число бюллетеней, полученных участковыми комиссиями": 1771,
@@ -9691,8 +11275,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 951,
     "uikTvd": "473402966769",
+    "uikName": "УИК №951",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2029,
       "Число бюллетеней, полученных участковыми комиссиями": 2028,
@@ -9746,8 +11339,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 952,
     "uikTvd": "473402966770",
+    "uikName": "УИК №952",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2728,
       "Число бюллетеней, полученных участковыми комиссиями": 2707,
@@ -9801,8 +11403,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 953,
     "uikTvd": "473402966771",
+    "uikName": "УИК №953",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2836,
       "Число бюллетеней, полученных участковыми комиссиями": 2817,
@@ -9856,8 +11467,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 954,
     "uikTvd": "473402966772",
+    "uikName": "УИК №954",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2525,
       "Число бюллетеней, полученных участковыми комиссиями": 2513,
@@ -9911,8 +11531,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 955,
     "uikTvd": "473402966773",
+    "uikName": "УИК №955",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2366,
       "Число бюллетеней, полученных участковыми комиссиями": 2353,
@@ -9966,8 +11595,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 956,
     "uikTvd": "473402966774",
+    "uikName": "УИК №956",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2933,
       "Число бюллетеней, полученных участковыми комиссиями": 2897,
@@ -10021,8 +11659,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 957,
     "uikTvd": "473402966775",
+    "uikName": "УИК №957",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2345,
       "Число бюллетеней, полученных участковыми комиссиями": 2314,
@@ -10076,8 +11723,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 958,
     "uikTvd": "473402966776",
+    "uikName": "УИК №958",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2891,
       "Число бюллетеней, полученных участковыми комиссиями": 2864,
@@ -10131,8 +11787,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 959,
     "uikTvd": "473402966777",
+    "uikName": "УИК №959",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2825,
       "Число бюллетеней, полученных участковыми комиссиями": 2792,
@@ -10186,8 +11851,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 960,
     "uikTvd": "473402966778",
+    "uikName": "УИК №960",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2853,
       "Число бюллетеней, полученных участковыми комиссиями": 2825,
@@ -10241,8 +11915,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 961,
     "uikTvd": "473402966779",
+    "uikName": "УИК №961",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2851,
       "Число бюллетеней, полученных участковыми комиссиями": 2830,
@@ -10296,8 +11979,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 962,
     "uikTvd": "473402966780",
+    "uikName": "УИК №962",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2061,
       "Число бюллетеней, полученных участковыми комиссиями": 2039,
@@ -10351,8 +12043,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 963,
     "uikTvd": "473402966781",
+    "uikName": "УИК №963",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1532,
       "Число бюллетеней, полученных участковыми комиссиями": 1496,
@@ -10406,8 +12107,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 964,
     "uikTvd": "473402966782",
+    "uikName": "УИК №964",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2045,
       "Число бюллетеней, полученных участковыми комиссиями": 2038,
@@ -10461,8 +12171,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 965,
     "uikTvd": "473402966783",
+    "uikName": "УИК №965",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1696,
       "Число бюллетеней, полученных участковыми комиссиями": 1667,
@@ -10516,8 +12235,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 966,
     "uikTvd": "473402966784",
+    "uikName": "УИК №966",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -10571,8 +12299,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 967,
     "uikTvd": "473402966785",
+    "uikName": "УИК №967",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1527,
       "Число бюллетеней, полученных участковыми комиссиями": 1496,
@@ -10626,8 +12363,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 968,
     "uikTvd": "473402966786",
+    "uikName": "УИК №968",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2464,
       "Число бюллетеней, полученных участковыми комиссиями": 2434,
@@ -10681,8 +12427,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 969,
     "uikTvd": "473402966787",
+    "uikName": "УИК №969",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 950,
       "Число бюллетеней, полученных участковыми комиссиями": 936,
@@ -10736,8 +12491,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 970,
     "uikTvd": "473402966788",
+    "uikName": "УИК №970",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 411,
       "Число бюллетеней, полученных участковыми комиссиями": 406,
@@ -10791,8 +12555,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 971,
     "uikTvd": "473402966789",
+    "uikName": "УИК №971",
     "tikTvd": "273200070529",
     "tikName": "Ульяновск, Засвияжская №2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -10846,8 +12619,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 842,
     "uikTvd": "473402866774",
+    "uikName": "УИК №842",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2301,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -10901,8 +12683,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 843,
     "uikTvd": "473402866775",
+    "uikName": "УИК №843",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -10956,8 +12747,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 844,
     "uikTvd": "473402866776",
+    "uikName": "УИК №844",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2932,
       "Число бюллетеней, полученных участковыми комиссиями": 2930,
@@ -11011,8 +12811,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 845,
     "uikTvd": "473402866777",
+    "uikName": "УИК №845",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2806,
       "Число бюллетеней, полученных участковыми комиссиями": 2810,
@@ -11066,8 +12875,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 846,
     "uikTvd": "473402866778",
+    "uikName": "УИК №846",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2930,
       "Число бюллетеней, полученных участковыми комиссиями": 2910,
@@ -11121,8 +12939,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 847,
     "uikTvd": "473402866779",
+    "uikName": "УИК №847",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2883,
       "Число бюллетеней, полученных участковыми комиссиями": 2830,
@@ -11176,8 +13003,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 848,
     "uikTvd": "473402866780",
+    "uikName": "УИК №848",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2949,
       "Число бюллетеней, полученных участковыми комиссиями": 2940,
@@ -11231,8 +13067,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 849,
     "uikTvd": "473402866781",
+    "uikName": "УИК №849",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2482,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -11286,8 +13131,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 850,
     "uikTvd": "473402866782",
+    "uikName": "УИК №850",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2506,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -11341,8 +13195,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 851,
     "uikTvd": "473402866783",
+    "uikName": "УИК №851",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2820,
       "Число бюллетеней, полученных участковыми комиссиями": 2780,
@@ -11396,8 +13259,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 852,
     "uikTvd": "473402866784",
+    "uikName": "УИК №852",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1953,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -11451,8 +13323,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 853,
     "uikTvd": "473402866785",
+    "uikName": "УИК №853",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2204,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -11506,8 +13387,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 854,
     "uikTvd": "473402866786",
+    "uikName": "УИК №854",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2359,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -11561,8 +13451,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 855,
     "uikTvd": "473402866787",
+    "uikName": "УИК №855",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2749,
       "Число бюллетеней, полученных участковыми комиссиями": 2730,
@@ -11616,8 +13515,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 856,
     "uikTvd": "473402866788",
+    "uikName": "УИК №856",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2740,
       "Число бюллетеней, полученных участковыми комиссиями": 2730,
@@ -11671,8 +13579,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 857,
     "uikTvd": "473402866789",
+    "uikName": "УИК №857",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2827,
       "Число бюллетеней, полученных участковыми комиссиями": 2740,
@@ -11726,8 +13643,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 858,
     "uikTvd": "473402866790",
+    "uikName": "УИК №858",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2559,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -11781,8 +13707,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 859,
     "uikTvd": "473402866791",
+    "uikName": "УИК №859",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2574,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -11836,8 +13771,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 860,
     "uikTvd": "473402866792",
+    "uikName": "УИК №860",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2669,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -11891,8 +13835,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 861,
     "uikTvd": "473402866793",
+    "uikName": "УИК №861",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2776,
       "Число бюллетеней, полученных участковыми комиссиями": 2760,
@@ -11946,8 +13899,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 862,
     "uikTvd": "473402866794",
+    "uikName": "УИК №862",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2547,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -12001,8 +13963,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 863,
     "uikTvd": "473402866795",
+    "uikName": "УИК №863",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2581,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -12056,8 +14027,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 864,
     "uikTvd": "473402866796",
+    "uikName": "УИК №864",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2898,
       "Число бюллетеней, полученных участковыми комиссиями": 2860,
@@ -12111,8 +14091,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 865,
     "uikTvd": "473402866797",
+    "uikName": "УИК №865",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2417,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -12166,8 +14155,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 866,
     "uikTvd": "473402866798",
+    "uikName": "УИК №866",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2502,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -12221,8 +14219,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 867,
     "uikTvd": "473402866799",
+    "uikName": "УИК №867",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2417,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -12276,8 +14283,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 868,
     "uikTvd": "473402866800",
+    "uikName": "УИК №868",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2148,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -12331,8 +14347,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 869,
     "uikTvd": "473402866801",
+    "uikName": "УИК №869",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2241,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -12386,8 +14411,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "473402866802",
+    "uikName": "УИК №870",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2144,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -12441,8 +14475,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "473402866803",
+    "uikName": "УИК №871",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2326,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -12496,8 +14539,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "473402866804",
+    "uikName": "УИК №872",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2482,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -12551,8 +14603,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "473402866805",
+    "uikName": "УИК №873",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1321,
       "Число бюллетеней, полученных участковыми комиссиями": 2730,
@@ -12606,8 +14667,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "473402866806",
+    "uikName": "УИК №874",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2835,
       "Число бюллетеней, полученных участковыми комиссиями": 2820,
@@ -12661,8 +14731,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "473402866807",
+    "uikName": "УИК №875",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1910,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -12716,8 +14795,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "473402866808",
+    "uikName": "УИК №876",
     "tikTvd": "273200070530",
     "tikName": "Ульяновск, Заволжская N2",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1917,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -12771,8 +14859,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "473402366666",
+    "uikName": "УИК №657",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2500,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -12826,8 +14923,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "473402366667",
+    "uikName": "УИК №658",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2399,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -12881,8 +14987,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "473402366668",
+    "uikName": "УИК №659",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2906,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -12936,8 +15051,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "473402366669",
+    "uikName": "УИК №660",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2346,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -12991,8 +15115,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "473402366670",
+    "uikName": "УИК №661",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2117,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -13046,8 +15179,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "473402366671",
+    "uikName": "УИК №662",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 734,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -13101,8 +15243,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "473402366672",
+    "uikName": "УИК №663",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2308,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -13156,8 +15307,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "473402366673",
+    "uikName": "УИК №664",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1473,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -13211,8 +15371,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "473402366674",
+    "uikName": "УИК №665",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2328,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -13266,8 +15435,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "473402366675",
+    "uikName": "УИК №666",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2251,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -13321,8 +15499,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "473402366676",
+    "uikName": "УИК №667",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1726,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -13376,8 +15563,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "473402366677",
+    "uikName": "УИК №668",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1178,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -13431,8 +15627,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "473402366678",
+    "uikName": "УИК №669",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -13486,8 +15691,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "473402366679",
+    "uikName": "УИК №670",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -13541,8 +15755,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "473402366680",
+    "uikName": "УИК №671",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 737,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -13596,8 +15819,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "473402366681",
+    "uikName": "УИК №672",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -13651,8 +15883,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "473402366682",
+    "uikName": "УИК №673",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -13706,8 +15947,17 @@ export const duma_2003_uik_428_region_73_part_004 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "473402366683",
+    "uikName": "УИК №674",
     "tikTvd": "273200070531",
     "tikName": "Ульяновская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1880,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,

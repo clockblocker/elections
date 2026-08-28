@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "426400670598",
+    "uikName": "УИК №257",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2685,
       "Число бюллетеней, полученных участковыми комиссиями": 2910,
@@ -67,8 +76,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "426400670599",
+    "uikName": "УИК №258",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 861,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -123,8 +141,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "426400670600",
+    "uikName": "УИК №259",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 966,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -179,8 +206,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "426400670601",
+    "uikName": "УИК №260",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1346,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -235,8 +271,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "426400670602",
+    "uikName": "УИК №261",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1277,
       "Число бюллетеней, полученных участковыми комиссиями": 1329,
@@ -291,8 +336,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "426400670603",
+    "uikName": "УИК №262",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1640,
       "Число бюллетеней, полученных участковыми комиссиями": 1579,
@@ -347,8 +401,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "426400670604",
+    "uikName": "УИК №263",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -403,8 +466,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "426400670605",
+    "uikName": "УИК №264",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2217,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -459,8 +531,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "426400670606",
+    "uikName": "УИК №265",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1537,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -515,8 +596,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "426400670607",
+    "uikName": "УИК №266",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2058,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -571,8 +661,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "426400670608",
+    "uikName": "УИК №267",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2748,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -627,8 +726,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "426400670609",
+    "uikName": "УИК №268",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1983,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -683,8 +791,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "426400670610",
+    "uikName": "УИК №269",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 931,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -739,8 +856,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "426400670611",
+    "uikName": "УИК №270",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -795,8 +921,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "426400670612",
+    "uikName": "УИК №271",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -851,8 +986,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "426400670613",
+    "uikName": "УИК №272",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2038,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -907,8 +1051,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "426400670614",
+    "uikName": "УИК №273",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2078,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -963,8 +1116,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "426400670615",
+    "uikName": "УИК №274",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -1019,8 +1181,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "426400670616",
+    "uikName": "УИК №275",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1496,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1075,8 +1246,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "426400670617",
+    "uikName": "УИК №276",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1131,8 +1311,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "426400670618",
+    "uikName": "УИК №277",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2786,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -1187,8 +1376,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "426400670619",
+    "uikName": "УИК №278",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1259,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1243,8 +1441,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "426400670620",
+    "uikName": "УИК №279",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -1299,8 +1506,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "426400670621",
+    "uikName": "УИК №280",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1142,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1355,8 +1571,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "426400670622",
+    "uikName": "УИК №281",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 928,
       "Число бюллетеней, полученных участковыми комиссиями": 897,
@@ -1411,8 +1636,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "426400670623",
+    "uikName": "УИК №282",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1212,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1467,8 +1701,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "426400670624",
+    "uikName": "УИК №283",
     "tikTvd": "326300171246",
     "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 393,
       "Число бюллетеней, полученных участковыми комиссиями": 399,
@@ -1523,8 +1766,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "426400170370",
+    "uikName": "УИК №149",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2298,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -1579,8 +1831,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "426400170371",
+    "uikName": "УИК №150",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1810,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -1635,8 +1896,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "426400170372",
+    "uikName": "УИК №151",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1915,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -1691,8 +1961,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "426400170373",
+    "uikName": "УИК №152",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1384,
       "Число бюллетеней, полученных участковыми комиссиями": 1335,
@@ -1747,8 +2026,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "426400170374",
+    "uikName": "УИК №153",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1731,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -1803,8 +2091,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "426400170375",
+    "uikName": "УИК №154",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1819,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -1859,8 +2156,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "426400170376",
+    "uikName": "УИК №155",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1560,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -1915,8 +2221,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "426400170377",
+    "uikName": "УИК №156",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 768,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -1971,8 +2286,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "426400170378",
+    "uikName": "УИК №157",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2037,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -2027,8 +2351,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "426400170379",
+    "uikName": "УИК №158",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1458,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -2083,8 +2416,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "426400170380",
+    "uikName": "УИК №159",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -2139,8 +2481,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "426400170381",
+    "uikName": "УИК №160",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1671,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -2195,8 +2546,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "426400170382",
+    "uikName": "УИК №161",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1416,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -2251,8 +2611,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "426400170383",
+    "uikName": "УИК №162",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -2307,8 +2676,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "426400170384",
+    "uikName": "УИК №163",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2618,
       "Число бюллетеней, полученных участковыми комиссиями": 2615,
@@ -2363,8 +2741,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "426400170385",
+    "uikName": "УИК №164",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2419,8 +2806,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "426400170386",
+    "uikName": "УИК №165",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1197,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -2475,8 +2871,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "426400170387",
+    "uikName": "УИК №166",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 2265,
@@ -2531,8 +2936,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "426400170388",
+    "uikName": "УИК №167",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2349,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -2587,8 +3001,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "426400170389",
+    "uikName": "УИК №168",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -2643,8 +3066,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "426400170390",
+    "uikName": "УИК №169",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1637,
       "Число бюллетеней, полученных участковыми комиссиями": 1635,
@@ -2699,8 +3131,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "426400170391",
+    "uikName": "УИК №170",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1236,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -2755,8 +3196,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "426400170392",
+    "uikName": "УИК №171",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1905,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -2811,8 +3261,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "426400170393",
+    "uikName": "УИК №172",
     "tikTvd": "326300171846",
     "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1132,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -2867,8 +3326,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "426400772599",
+    "uikName": "УИК №284",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2152,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -2923,8 +3391,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "426400772600",
+    "uikName": "УИК №285",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2566,
       "Число бюллетеней, полученных участковыми комиссиями": 2515,
@@ -2979,8 +3456,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "426400772601",
+    "uikName": "УИК №286",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2912,
       "Число бюллетеней, полученных участковыми комиссиями": 2930,
@@ -3035,8 +3521,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "426400772602",
+    "uikName": "УИК №287",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1542,
       "Число бюллетеней, полученных участковыми комиссиями": 1507,
@@ -3091,8 +3586,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "426400772603",
+    "uikName": "УИК №288",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1934,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -3147,8 +3651,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "426400772604",
+    "uikName": "УИК №289",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2143,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -3203,8 +3716,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 290,
     "uikTvd": "426400772605",
+    "uikName": "УИК №290",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1940,
       "Число бюллетеней, полученных участковыми комиссиями": 1947,
@@ -3259,8 +3781,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 291,
     "uikTvd": "426400772606",
+    "uikName": "УИК №291",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 459,
@@ -3315,8 +3846,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 292,
     "uikTvd": "426400772607",
+    "uikName": "УИК №292",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1068,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -3371,8 +3911,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 293,
     "uikTvd": "426400772608",
+    "uikName": "УИК №293",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1965,
@@ -3427,8 +3976,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 294,
     "uikTvd": "426400772609",
+    "uikName": "УИК №294",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -3483,8 +4041,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "426400772610",
+    "uikName": "УИК №295",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2769,
       "Число бюллетеней, полученных участковыми комиссиями": 2810,
@@ -3539,8 +4106,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "426400772611",
+    "uikName": "УИК №296",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 877,
       "Число бюллетеней, полученных участковыми комиссиями": 902,
@@ -3595,8 +4171,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "426400772612",
+    "uikName": "УИК №297",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2580,
       "Число бюллетеней, полученных участковыми комиссиями": 2580,
@@ -3651,8 +4236,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "426400772613",
+    "uikName": "УИК №298",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2570,
       "Число бюллетеней, полученных участковыми комиссиями": 2584,
@@ -3707,8 +4301,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "426400772614",
+    "uikName": "УИК №299",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2497,
       "Число бюллетеней, полученных участковыми комиссиями": 2456,
@@ -3763,8 +4366,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "426400772615",
+    "uikName": "УИК №300",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1371,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -3819,8 +4431,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "426400772616",
+    "uikName": "УИК №301",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2488,
       "Число бюллетеней, полученных участковыми комиссиями": 2557,
@@ -3875,8 +4496,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "426400772617",
+    "uikName": "УИК №302",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 403,
@@ -3931,8 +4561,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "426400772618",
+    "uikName": "УИК №303",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2206,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3987,8 +4626,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "426400772619",
+    "uikName": "УИК №304",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 995,
       "Число бюллетеней, полученных участковыми комиссиями": 998,
@@ -4043,8 +4691,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "426400772620",
+    "uikName": "УИК №305",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2380,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -4099,8 +4756,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "426400772621",
+    "uikName": "УИК №306",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1588,
       "Число бюллетеней, полученных участковыми комиссиями": 1576,
@@ -4155,8 +4821,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "426400772622",
+    "uikName": "УИК №307",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1829,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -4211,8 +4886,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "426400772623",
+    "uikName": "УИК №308",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2548,
       "Число бюллетеней, полученных участковыми комиссиями": 2558,
@@ -4267,8 +4951,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "426400772624",
+    "uikName": "УИК №309",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1819,
       "Число бюллетеней, полученных участковыми комиссиями": 1828,
@@ -4323,8 +5016,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "426400772625",
+    "uikName": "УИК №310",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2545,
       "Число бюллетеней, полученных участковыми комиссиями": 2574,
@@ -4379,8 +5081,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "426400772626",
+    "uikName": "УИК №311",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2711,
       "Число бюллетеней, полученных участковыми комиссиями": 2727,
@@ -4435,8 +5146,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "426400772627",
+    "uikName": "УИК №312",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1532,
       "Число бюллетеней, полученных участковыми комиссиями": 1561,
@@ -4491,8 +5211,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "426400772628",
+    "uikName": "УИК №313",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2137,
       "Число бюллетеней, полученных участковыми комиссиями": 1866,
@@ -4547,8 +5276,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "426400772629",
+    "uikName": "УИК №314",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -4603,8 +5341,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "426400772630",
+    "uikName": "УИК №315",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2339,
       "Число бюллетеней, полученных участковыми комиссиями": 2284,
@@ -4659,8 +5406,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "426400772631",
+    "uikName": "УИК №316",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2162,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4715,8 +5471,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "426400772632",
+    "uikName": "УИК №317",
     "tikTvd": "326300171847",
     "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2359,
       "Число бюллетеней, полученных участковыми комиссиями": 2282,
@@ -4771,8 +5536,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "426401370408",
+    "uikName": "УИК №518",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2773,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4827,8 +5601,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "426401370409",
+    "uikName": "УИК №519",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2815,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4883,8 +5666,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "426401370410",
+    "uikName": "УИК №520",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2335,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4939,8 +5731,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "426401370411",
+    "uikName": "УИК №521",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2864,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4995,8 +5796,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "426401370412",
+    "uikName": "УИК №522",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5051,8 +5861,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "426401370413",
+    "uikName": "УИК №523",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2559,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5107,8 +5926,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "426401370414",
+    "uikName": "УИК №524",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1514,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5163,8 +5991,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "426401370415",
+    "uikName": "УИК №525",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1391,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5219,8 +6056,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "426401370416",
+    "uikName": "УИК №526",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -5275,8 +6121,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "426401370417",
+    "uikName": "УИК №527",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2345,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5331,8 +6186,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "426401370418",
+    "uikName": "УИК №528",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1702,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5387,8 +6251,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "426401370419",
+    "uikName": "УИК №529",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1697,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5443,8 +6316,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "426401370420",
+    "uikName": "УИК №530",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5499,8 +6381,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "426401370421",
+    "uikName": "УИК №531",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1643,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5555,8 +6446,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "426401370422",
+    "uikName": "УИК №532",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5611,8 +6511,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "426401370423",
+    "uikName": "УИК №533",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2379,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5667,8 +6576,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "426401370424",
+    "uikName": "УИК №534",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2064,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5723,8 +6641,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "426401370425",
+    "uikName": "УИК №535",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2139,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5779,8 +6706,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "426401370426",
+    "uikName": "УИК №536",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2142,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5835,8 +6771,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "426401370427",
+    "uikName": "УИК №537",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2090,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5891,8 +6836,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "426401370428",
+    "uikName": "УИК №538",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1840,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5947,8 +6901,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "426401370429",
+    "uikName": "УИК №539",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2156,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6003,8 +6966,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "426401370430",
+    "uikName": "УИК №540",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 669,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6059,8 +7031,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "426401370431",
+    "uikName": "УИК №541",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2863,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6115,8 +7096,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "426401370432",
+    "uikName": "УИК №542",
     "tikTvd": "326300171848",
     "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 915,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -6171,8 +7161,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "426401770416",
+    "uikName": "УИК №665",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1776,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -6227,8 +7226,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "426401770417",
+    "uikName": "УИК №666",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1848,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6283,8 +7291,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "426401770418",
+    "uikName": "УИК №667",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1764,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -6339,8 +7356,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "426401770419",
+    "uikName": "УИК №668",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6395,8 +7421,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "426401770420",
+    "uikName": "УИК №669",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1229,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6451,8 +7486,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "426401770421",
+    "uikName": "УИК №670",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1044,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6507,8 +7551,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "426401770422",
+    "uikName": "УИК №671",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 505,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6563,8 +7616,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "426401770423",
+    "uikName": "УИК №672",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -6619,8 +7681,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "426401770424",
+    "uikName": "УИК №673",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6675,8 +7746,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "426401770425",
+    "uikName": "УИК №674",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1319,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6731,8 +7811,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "426401770426",
+    "uikName": "УИК №675",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1515,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6787,8 +7876,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "426401770427",
+    "uikName": "УИК №676",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 616,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6843,8 +7941,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "426401770428",
+    "uikName": "УИК №677",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 948,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -6899,8 +8006,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "426401770429",
+    "uikName": "УИК №678",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2793,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -6955,8 +8071,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "426401770430",
+    "uikName": "УИК №679",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1142,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -7011,8 +8136,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "426401770431",
+    "uikName": "УИК №680",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1492,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -7067,8 +8201,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "426401770432",
+    "uikName": "УИК №681",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 568,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7123,8 +8266,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "426401770433",
+    "uikName": "УИК №682",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1565,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -7179,8 +8331,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "426401770434",
+    "uikName": "УИК №683",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1254,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7235,8 +8396,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "426401770435",
+    "uikName": "УИК №684",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7291,8 +8461,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "426401770436",
+    "uikName": "УИК №685",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 719,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -7347,8 +8526,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "426401770437",
+    "uikName": "УИК №686",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 844,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -7403,8 +8591,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "426401770438",
+    "uikName": "УИК №687",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1376,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7459,8 +8656,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "426401770439",
+    "uikName": "УИК №688",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2464,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -7515,8 +8721,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "426401770440",
+    "uikName": "УИК №689",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 415,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7571,8 +8786,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "426401770441",
+    "uikName": "УИК №690",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -7627,8 +8851,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "426401770442",
+    "uikName": "УИК №691",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1059,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7683,8 +8916,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "426401770443",
+    "uikName": "УИК №692",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -7739,8 +8981,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "426401770444",
+    "uikName": "УИК №693",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 692,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7795,8 +9046,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "426401770445",
+    "uikName": "УИК №694",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 964,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -7851,8 +9111,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "426401770446",
+    "uikName": "УИК №695",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -7907,8 +9176,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "426401770447",
+    "uikName": "УИК №696",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -7963,8 +9241,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "426401770448",
+    "uikName": "УИК №697",
     "tikTvd": "326300171849",
     "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 915,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -8019,8 +9306,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "426401870403",
+    "uikName": "УИК №698",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2201,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -8075,8 +9371,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "426401870404",
+    "uikName": "УИК №699",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2124,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8131,8 +9436,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "426401870405",
+    "uikName": "УИК №700",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2006,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -8187,8 +9501,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "426401870406",
+    "uikName": "УИК №701",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2049,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -8243,8 +9566,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "426401870407",
+    "uikName": "УИК №702",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1735,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -8299,8 +9631,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "426401870408",
+    "uikName": "УИК №703",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2112,
       "Число бюллетеней, полученных участковыми комиссиями": 2135,
@@ -8355,8 +9696,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "426401870409",
+    "uikName": "УИК №704",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1030,
       "Число бюллетеней, полученных участковыми комиссиями": 1015,
@@ -8411,8 +9761,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "426401870410",
+    "uikName": "УИК №705",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1835,
       "Число бюллетеней, полученных участковыми комиссиями": 1855,
@@ -8467,8 +9826,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "426401870411",
+    "uikName": "УИК №706",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2943,
       "Число бюллетеней, полученных участковыми комиссиями": 2955,
@@ -8523,8 +9891,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "426401870412",
+    "uikName": "УИК №707",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1693,
       "Число бюллетеней, полученных участковыми комиссиями": 1665,
@@ -8579,8 +9956,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "426401870413",
+    "uikName": "УИК №708",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1673,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -8635,8 +10021,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "426401870414",
+    "uikName": "УИК №709",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -8691,8 +10086,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "426401870415",
+    "uikName": "УИК №710",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1468,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -8747,8 +10151,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "426401870416",
+    "uikName": "УИК №711",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1225,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -8803,8 +10216,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "426401870757",
+    "uikName": "УИК  712",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1120,
       "Число бюллетеней, полученных участковыми комиссиями": 1015,
@@ -8859,8 +10281,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "426401870418",
+    "uikName": "УИК №713",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -8915,8 +10346,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "426401870419",
+    "uikName": "УИК №714",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1021,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -8971,8 +10411,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "426401870420",
+    "uikName": "УИК №715",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -9027,8 +10476,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "426401870421",
+    "uikName": "УИК №716",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 854,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -9083,8 +10541,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "426401870422",
+    "uikName": "УИК №717",
     "tikTvd": "326300171850",
     "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1358,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -9139,8 +10606,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 841,
     "uikTvd": "426402270769",
+    "uikName": "УИК №841",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2039,
       "Число бюллетеней, полученных участковыми комиссиями": 2027,
@@ -9195,8 +10671,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 842,
     "uikTvd": "426402270770",
+    "uikName": "УИК №842",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2030,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -9251,8 +10736,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 843,
     "uikTvd": "426402270771",
+    "uikName": "УИК №843",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2812,
       "Число бюллетеней, полученных участковыми комиссиями": 2795,
@@ -9307,8 +10801,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 844,
     "uikTvd": "426402270772",
+    "uikName": "УИК №844",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2404,
       "Число бюллетеней, полученных участковыми комиссиями": 2411,
@@ -9363,8 +10866,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 845,
     "uikTvd": "426402270773",
+    "uikName": "УИК №845",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2275,
       "Число бюллетеней, полученных участковыми комиссиями": 2291,
@@ -9419,8 +10931,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 846,
     "uikTvd": "426402270774",
+    "uikName": "УИК №846",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2098,
       "Число бюллетеней, полученных участковыми комиссиями": 2083,
@@ -9475,8 +10996,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 847,
     "uikTvd": "426402270775",
+    "uikName": "УИК №847",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1183,
       "Число бюллетеней, полученных участковыми комиссиями": 1185,
@@ -9531,8 +11061,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 848,
     "uikTvd": "426402270776",
+    "uikName": "УИК №848",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2331,
       "Число бюллетеней, полученных участковыми комиссиями": 2438,
@@ -9587,8 +11126,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 849,
     "uikTvd": "426402270777",
+    "uikName": "УИК №849",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1863,
       "Число бюллетеней, полученных участковыми комиссиями": 1858,
@@ -9643,8 +11191,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 850,
     "uikTvd": "426402270778",
+    "uikName": "УИК №850",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -9699,8 +11256,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 851,
     "uikTvd": "426402270779",
+    "uikName": "УИК №851",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1596,
       "Число бюллетеней, полученных участковыми комиссиями": 1587,
@@ -9755,8 +11321,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 852,
     "uikTvd": "426402270780",
+    "uikName": "УИК №852",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1439,
       "Число бюллетеней, полученных участковыми комиссиями": 1422,
@@ -9811,8 +11386,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 853,
     "uikTvd": "426402270781",
+    "uikName": "УИК №853",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1389,
       "Число бюллетеней, полученных участковыми комиссиями": 1394,
@@ -9867,8 +11451,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 854,
     "uikTvd": "426402270782",
+    "uikName": "УИК №854",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 729,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -9923,8 +11516,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 855,
     "uikTvd": "426402270783",
+    "uikName": "УИК №855",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 867,
       "Число бюллетеней, полученных участковыми комиссиями": 859,
@@ -9979,8 +11581,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 856,
     "uikTvd": "426402270784",
+    "uikName": "УИК №856",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 515,
@@ -10035,8 +11646,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 857,
     "uikTvd": "426402270785",
+    "uikName": "УИК №857",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 511,
@@ -10091,8 +11711,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 858,
     "uikTvd": "426402270786",
+    "uikName": "УИК №858",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 921,
       "Число бюллетеней, полученных участковыми комиссиями": 914,
@@ -10147,8 +11776,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 859,
     "uikTvd": "426402270787",
+    "uikName": "УИК №859",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1075,
       "Число бюллетеней, полученных участковыми комиссиями": 1079,
@@ -10203,8 +11841,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 860,
     "uikTvd": "426402270788",
+    "uikName": "УИК №860",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -10259,8 +11906,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 861,
     "uikTvd": "426402270789",
+    "uikName": "УИК №861",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2099,
       "Число бюллетеней, полученных участковыми комиссиями": 2099,
@@ -10315,8 +11971,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 862,
     "uikTvd": "426402270790",
+    "uikName": "УИК №862",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1821,
       "Число бюллетеней, полученных участковыми комиссиями": 1825,
@@ -10371,8 +12036,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 863,
     "uikTvd": "426402270791",
+    "uikName": "УИК №863",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -10427,8 +12101,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 864,
     "uikTvd": "426402270792",
+    "uikName": "УИК №864",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2126,
       "Число бюллетеней, полученных участковыми комиссиями": 2111,
@@ -10483,8 +12166,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 865,
     "uikTvd": "426402270793",
+    "uikName": "УИК №865",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 214,
@@ -10539,8 +12231,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 866,
     "uikTvd": "426402270794",
+    "uikName": "УИК №866",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1673,
@@ -10595,8 +12296,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 867,
     "uikTvd": "426402270795",
+    "uikName": "УИК №867",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -10651,8 +12361,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 868,
     "uikTvd": "426402270796",
+    "uikName": "УИК №868",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 409,
@@ -10707,8 +12426,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 869,
     "uikTvd": "426402270797",
+    "uikName": "УИК №869",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -10763,8 +12491,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "426402270798",
+    "uikName": "УИК №870",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 585,
       "Число бюллетеней, полученных участковыми комиссиями": 582,
@@ -10819,8 +12556,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "426402270799",
+    "uikName": "УИК №871",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2230,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -10875,8 +12621,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "426402270800",
+    "uikName": "УИК №872",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1437,
       "Число бюллетеней, полученных участковыми комиссиями": 1437,
@@ -10931,8 +12686,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "426402270801",
+    "uikName": "УИК №873",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 460,
       "Число бюллетеней, полученных участковыми комиссиями": 452,
@@ -10987,8 +12751,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "426402270802",
+    "uikName": "УИК №874",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 774,
       "Число бюллетеней, полученных участковыми комиссиями": 767,
@@ -11043,8 +12816,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "426402270803",
+    "uikName": "УИК №875",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -11099,8 +12881,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "426402270804",
+    "uikName": "УИК №876",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1971,
       "Число бюллетеней, полученных участковыми комиссиями": 1969,
@@ -11155,8 +12946,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "426402270805",
+    "uikName": "УИК №877",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1758,
       "Число бюллетеней, полученных участковыми комиссиями": 1761,
@@ -11211,8 +13011,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "426402270806",
+    "uikName": "УИК №878",
     "tikTvd": "326300171851",
     "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 779,
       "Число бюллетеней, полученных участковыми комиссиями": 775,
@@ -11267,8 +13076,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "426402470556",
+    "uikName": "УИК №930",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2412,
       "Число бюллетеней, полученных участковыми комиссиями": 2492,
@@ -11323,8 +13141,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "426402470557",
+    "uikName": "УИК №931",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1496,
       "Число бюллетеней, полученных участковыми комиссиями": 1557,
@@ -11379,8 +13206,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "426402470558",
+    "uikName": "УИК №932",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1986,
       "Число бюллетеней, полученных участковыми комиссиями": 2053,
@@ -11435,8 +13271,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "426402470559",
+    "uikName": "УИК №933",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1708,
       "Число бюллетеней, полученных участковыми комиссиями": 1819,
@@ -11491,8 +13336,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "426402470560",
+    "uikName": "УИК №934",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2158,
       "Число бюллетеней, полученных участковыми комиссиями": 2288,
@@ -11547,8 +13401,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "426402470561",
+    "uikName": "УИК №935",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2009,
       "Число бюллетеней, полученных участковыми комиссиями": 2132,
@@ -11603,8 +13466,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "426402470562",
+    "uikName": "УИК №936",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1025,
       "Число бюллетеней, полученных участковыми комиссиями": 1057,
@@ -11659,8 +13531,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "426402470563",
+    "uikName": "УИК №937",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 819,
       "Число бюллетеней, полученных участковыми комиссиями": 873,
@@ -11715,8 +13596,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "426402470564",
+    "uikName": "УИК №938",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -11771,8 +13661,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 939,
     "uikTvd": "426402470565",
+    "uikName": "УИК №939",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1767,
       "Число бюллетеней, полученных участковыми комиссиями": 1856,
@@ -11827,8 +13726,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 940,
     "uikTvd": "426402470566",
+    "uikName": "УИК №940",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -11883,8 +13791,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 941,
     "uikTvd": "426402470567",
+    "uikName": "УИК №941",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1032,
       "Число бюллетеней, полученных участковыми комиссиями": 1076,
@@ -11939,8 +13856,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 942,
     "uikTvd": "426402470568",
+    "uikName": "УИК №942",
     "tikTvd": "326300171852",
     "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 810,
       "Число бюллетеней, полученных участковыми комиссиями": 853,
@@ -11995,8 +13921,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1104,
     "uikTvd": "426402870389",
+    "uikName": "УИК №1104",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -12051,8 +13986,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1105,
     "uikTvd": "426402870390",
+    "uikName": "УИК №1105",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2779,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -12107,8 +14051,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1106,
     "uikTvd": "426402870391",
+    "uikName": "УИК №1106",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2518,
       "Число бюллетеней, полученных участковыми комиссиями": 2372,
@@ -12163,8 +14116,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1107,
     "uikTvd": "426402870392",
+    "uikName": "УИК №1107",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2044,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -12219,8 +14181,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1108,
     "uikTvd": "426402870393",
+    "uikName": "УИК №1108",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1515,
       "Число бюллетеней, полученных участковыми комиссиями": 1364,
@@ -12275,8 +14246,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1109,
     "uikTvd": "426402870394",
+    "uikName": "УИК №1109",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1843,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -12331,8 +14311,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1110,
     "uikTvd": "426402870395",
+    "uikName": "УИК №1110",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1311,
       "Число бюллетеней, полученных участковыми комиссиями": 1225,
@@ -12387,8 +14376,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1111,
     "uikTvd": "426402870396",
+    "uikName": "УИК №1111",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2114,
       "Число бюллетеней, полученных участковыми комиссиями": 1991,
@@ -12443,8 +14441,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1112,
     "uikTvd": "426402870397",
+    "uikName": "УИК №1112",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1782,
       "Число бюллетеней, полученных участковыми комиссиями": 1633,
@@ -12499,8 +14506,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1113,
     "uikTvd": "426402870398",
+    "uikName": "УИК №1113",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1590,
       "Число бюллетеней, полученных участковыми комиссиями": 1449,
@@ -12555,8 +14571,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1114,
     "uikTvd": "426402870399",
+    "uikName": "УИК №1114",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1371,
       "Число бюллетеней, полученных участковыми комиссиями": 1289,
@@ -12611,8 +14636,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1115,
     "uikTvd": "426402870400",
+    "uikName": "УИК №1115",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1533,
       "Число бюллетеней, полученных участковыми комиссиями": 1394,
@@ -12667,8 +14701,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1116,
     "uikTvd": "426402870401",
+    "uikName": "УИК №1116",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -12723,8 +14766,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1117,
     "uikTvd": "426402870402",
+    "uikName": "УИК №1117",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1598,
       "Число бюллетеней, полученных участковыми комиссиями": 1468,
@@ -12779,8 +14831,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1118,
     "uikTvd": "426402870403",
+    "uikName": "УИК №1118",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2324,
       "Число бюллетеней, полученных участковыми комиссиями": 2149,
@@ -12835,8 +14896,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1119,
     "uikTvd": "426402870404",
+    "uikName": "УИК №1119",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1884,
       "Число бюллетеней, полученных участковыми комиссиями": 1702,
@@ -12891,8 +14961,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1120,
     "uikTvd": "426402870405",
+    "uikName": "УИК №1120",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -12947,8 +15026,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1121,
     "uikTvd": "426402870406",
+    "uikName": "УИК №1121",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -13003,8 +15091,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1122,
     "uikTvd": "426402870407",
+    "uikName": "УИК №1122",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2474,
       "Число бюллетеней, полученных участковыми комиссиями": 2306,
@@ -13059,8 +15156,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1123,
     "uikTvd": "426402870408",
+    "uikName": "УИК №1123",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2116,
       "Число бюллетеней, полученных участковыми комиссиями": 1997,
@@ -13115,8 +15221,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1124,
     "uikTvd": "426402870409",
+    "uikName": "УИК №1124",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1426,
       "Число бюллетеней, полученных участковыми комиссиями": 1346,
@@ -13171,8 +15286,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1125,
     "uikTvd": "426402870410",
+    "uikName": "УИК №1125",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 611,
       "Число бюллетеней, полученных участковыми комиссиями": 585,
@@ -13227,8 +15351,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1126,
     "uikTvd": "426402870411",
+    "uikName": "УИК №1126",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 555,
       "Число бюллетеней, полученных участковыми комиссиями": 542,
@@ -13283,8 +15416,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1127,
     "uikTvd": "426402870412",
+    "uikName": "УИК №1127",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1479,
       "Число бюллетеней, полученных участковыми комиссиями": 1406,
@@ -13339,8 +15481,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1128,
     "uikTvd": "426402870413",
+    "uikName": "УИК №1128",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1702,
       "Число бюллетеней, полученных участковыми комиссиями": 1611,
@@ -13395,8 +15546,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1129,
     "uikTvd": "426402870414",
+    "uikName": "УИК №1129",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2285,
       "Число бюллетеней, полученных участковыми комиссиями": 2155,
@@ -13451,8 +15611,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1130,
     "uikTvd": "426402870415",
+    "uikName": "УИК №1130",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2476,
       "Число бюллетеней, полученных участковыми комиссиями": 2324,
@@ -13507,8 +15676,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1131,
     "uikTvd": "426402870416",
+    "uikName": "УИК №1131",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -13563,8 +15741,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1132,
     "uikTvd": "426402870417",
+    "uikName": "УИК №1132",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -13619,8 +15806,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1133,
     "uikTvd": "426402870418",
+    "uikName": "УИК №1133",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 921,
       "Число бюллетеней, полученных участковыми комиссиями": 853,
@@ -13675,8 +15871,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1134,
     "uikTvd": "426402870419",
+    "uikName": "УИК №1134",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2957,
       "Число бюллетеней, полученных участковыми комиссиями": 2843,
@@ -13731,8 +15936,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1135,
     "uikTvd": "426402870420",
+    "uikName": "УИК №1135",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2245,
       "Число бюллетеней, полученных участковыми комиссиями": 2128,
@@ -13787,8 +16001,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1136,
     "uikTvd": "426402870421",
+    "uikName": "УИК №1136",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1221,
@@ -13843,8 +16066,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1137,
     "uikTvd": "426402870422",
+    "uikName": "УИК №1137",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1065,
       "Число бюллетеней, полученных участковыми комиссиями": 1003,
@@ -13899,8 +16131,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1138,
     "uikTvd": "426402870423",
+    "uikName": "УИК №1138",
     "tikTvd": "326300171853",
     "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -13955,8 +16196,17 @@ export const duma_2003_uik_428_region_26_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1139,
     "uikTvd": "426403270614",
+    "uikName": "УИК №1139",
     "tikTvd": "326300171854",
     "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 841,
       "Число бюллетеней, полученных участковыми комиссиями": 852,

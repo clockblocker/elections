@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "473400666878",
+    "uikName": "УИК №228",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 291,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "473400666880",
+    "uikName": "УИК №229",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 891,
       "Число бюллетеней, полученных участковыми комиссиями": 897,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "473400666882",
+    "uikName": "УИК №230",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 957,
       "Число бюллетеней, полученных участковыми комиссиями": 961,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "473400666884",
+    "uikName": "УИК №231",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 683,
       "Число бюллетеней, полученных участковыми комиссиями": 691,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "473400666886",
+    "uikName": "УИК №232",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 402,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "473400666888",
+    "uikName": "УИК №233",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 612,
       "Число бюллетеней, полученных участковыми комиссиями": 613,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "473400666890",
+    "uikName": "УИК №234",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 166,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "473400666892",
+    "uikName": "УИК №235",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 616,
       "Число бюллетеней, полученных участковыми комиссиями": 616,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "473400666894",
+    "uikName": "УИК №236",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 324,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "473400666896",
+    "uikName": "УИК №237",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 691,
       "Число бюллетеней, полученных участковыми комиссиями": 691,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "473400666898",
+    "uikName": "УИК №238",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "473400666900",
+    "uikName": "УИК №239",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2347,
       "Число бюллетеней, полученных участковыми комиссиями": 2358,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "473400666902",
+    "uikName": "УИК №240",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 777,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "473400666904",
+    "uikName": "УИК №241",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 976,
       "Число бюллетеней, полученных участковыми комиссиями": 977,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "473400666906",
+    "uikName": "УИК №242",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 412,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "473400666908",
+    "uikName": "УИК №243",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 191,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "473400666910",
+    "uikName": "УИК №244",
     "tikTvd": "273200070518",
     "tikName": "Карсунская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 488,
       "Число бюллетеней, полученных участковыми комиссиями": 492,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "473400566743",
+    "uikName": "УИК №158",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1203,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "473400566744",
+    "uikName": "УИК №159",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "473400566745",
+    "uikName": "УИК №160",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1641,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "473400566746",
+    "uikName": "УИК №161",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1525,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "473400566747",
+    "uikName": "УИК №162",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 950,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "473400566748",
+    "uikName": "УИК №163",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 581,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "473400566749",
+    "uikName": "УИК №164",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "473400566750",
+    "uikName": "УИК №165",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1316,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "473400566751",
+    "uikName": "УИК №166",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1628,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "473400566752",
+    "uikName": "УИК №167",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "473400566753",
+    "uikName": "УИК №168",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 980,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "473400566754",
+    "uikName": "УИК №169",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1542,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "473400566755",
+    "uikName": "УИК №170",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 989,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "473400566756",
+    "uikName": "УИК №171",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "473400566757",
+    "uikName": "УИК №172",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1168,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "473400566758",
+    "uikName": "УИК №173",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 504,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "473400566759",
+    "uikName": "УИК №174",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 421,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "473400566760",
+    "uikName": "УИК №175",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 754,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "473400566761",
+    "uikName": "УИК №176",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "473400566762",
+    "uikName": "УИК №177",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 364,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "473400566763",
+    "uikName": "УИК №178",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "473400566764",
+    "uikName": "УИК №179",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "473400566765",
+    "uikName": "УИК №180",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "473400566766",
+    "uikName": "УИК №181",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "473400566767",
+    "uikName": "УИК №182",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 332,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "473400566768",
+    "uikName": "УИК №183",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 381,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "473400566769",
+    "uikName": "УИК №184",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 588,
       "Число бюллетеней, полученных участковыми комиссиями": 601,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "473400566770",
+    "uikName": "УИК №185",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "473400566771",
+    "uikName": "УИК №186",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 483,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "473400566772",
+    "uikName": "УИК №187",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "473400566773",
+    "uikName": "УИК №188",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 313,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "473400566774",
+    "uikName": "УИК №189",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "473400566775",
+    "uikName": "УИК №190",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 339,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "473400566776",
+    "uikName": "УИК №191",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "473400566777",
+    "uikName": "УИК №192",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 274,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "473400566778",
+    "uikName": "УИК №193",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 746,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "473400566779",
+    "uikName": "УИК №194",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 358,
       "Число бюллетеней, полученных участковыми комиссиями": 354,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "473400566780",
+    "uikName": "УИК №195",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 197,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "473400566781",
+    "uikName": "УИК №196",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "473400566782",
+    "uikName": "УИК №197",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 97,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "473400566783",
+    "uikName": "УИК №198",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -2737,8 +3259,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "473400566784",
+    "uikName": "УИК №199",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 368,
@@ -2784,8 +3315,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "473400566785",
+    "uikName": "УИК №200",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -2831,8 +3371,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "473400566786",
+    "uikName": "УИК №201",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -2878,8 +3427,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "473400566787",
+    "uikName": "УИК №202",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2925,8 +3483,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "473400566788",
+    "uikName": "УИК №203",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 382,
@@ -2972,8 +3539,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "473400566789",
+    "uikName": "УИК №204",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 316,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "473400566790",
+    "uikName": "УИК №205",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 800,
       "Число бюллетеней, полученных участковыми комиссиями": 797,
@@ -3066,8 +3651,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "473400566791",
+    "uikName": "УИК №206",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 861,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -3113,8 +3707,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "473400566792",
+    "uikName": "УИК №207",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 805,
       "Число бюллетеней, полученных участковыми комиссиями": 775,
@@ -3160,8 +3763,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "473400566793",
+    "uikName": "УИК №208",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 323,
@@ -3207,8 +3819,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "473400566794",
+    "uikName": "УИК №209",
     "tikTvd": "273200070519",
     "tikName": "Инзенская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -3254,8 +3875,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "473400466742",
+    "uikName": "УИК №110",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -3301,8 +3931,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "473400466743",
+    "uikName": "УИК №111",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2341,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3348,8 +3987,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "473400466744",
+    "uikName": "УИК №112",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2020,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3395,8 +4043,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "473400466745",
+    "uikName": "УИК №113",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3442,8 +4099,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "473400466746",
+    "uikName": "УИК №114",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1704,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3489,8 +4155,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "473400466747",
+    "uikName": "УИК №115",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2218,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3536,8 +4211,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "473400466748",
+    "uikName": "УИК №116",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2236,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3583,8 +4267,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "473400466749",
+    "uikName": "УИК №117",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2219,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3630,8 +4323,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "473400466750",
+    "uikName": "УИК №118",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2257,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3677,8 +4379,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "473400466751",
+    "uikName": "УИК №119",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2610,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3724,8 +4435,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "473400466752",
+    "uikName": "УИК №120",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2293,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3771,8 +4491,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "473400466753",
+    "uikName": "УИК №121",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2328,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3818,8 +4547,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "473400466754",
+    "uikName": "УИК №122",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2036,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3865,8 +4603,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "473400466755",
+    "uikName": "УИК №123",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2142,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3912,8 +4659,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "473400466756",
+    "uikName": "УИК №124",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2317,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3959,8 +4715,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "473400466757",
+    "uikName": "УИК №125",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2252,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4006,8 +4771,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "473400466758",
+    "uikName": "УИК №126",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2598,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4053,8 +4827,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "473400466759",
+    "uikName": "УИК №127",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1574,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4100,8 +4883,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "473400466760",
+    "uikName": "УИК №128",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1388,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4147,8 +4939,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "473400466761",
+    "uikName": "УИК №129",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2184,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4194,8 +4995,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "473400466762",
+    "uikName": "УИК №130",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1716,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4241,8 +5051,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "473400466763",
+    "uikName": "УИК №131",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2197,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4288,8 +5107,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "473400466764",
+    "uikName": "УИК №132",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2736,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4335,8 +5163,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "473400466765",
+    "uikName": "УИК №133",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2681,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4382,8 +5219,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "473400466766",
+    "uikName": "УИК №134",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2753,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4429,8 +5275,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "473400466767",
+    "uikName": "УИК №135",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2604,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4476,8 +5331,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "473400466768",
+    "uikName": "УИК №136",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2655,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4523,8 +5387,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "473400466769",
+    "uikName": "УИК №137",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2003,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4570,8 +5443,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "473400466770",
+    "uikName": "УИК №138",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2292,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4617,8 +5499,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "473400466771",
+    "uikName": "УИК №139",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2772,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4664,8 +5555,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "473400466772",
+    "uikName": "УИК №140",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2327,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4711,8 +5611,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "473400466773",
+    "uikName": "УИК №141",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2821,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -4758,8 +5667,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "473400466774",
+    "uikName": "УИК №142",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2177,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4805,8 +5723,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "473400466775",
+    "uikName": "УИК №143",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2620,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4852,8 +5779,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "473400466776",
+    "uikName": "УИК №144",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1809,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4899,8 +5835,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "473400466777",
+    "uikName": "УИК №145",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2830,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4946,8 +5891,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "473400466778",
+    "uikName": "УИК №146",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1964,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4993,8 +5947,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "473400466779",
+    "uikName": "УИК №147",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2285,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5040,8 +6003,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "473400466780",
+    "uikName": "УИК №148",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2006,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5087,8 +6059,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "473400466781",
+    "uikName": "УИК №149",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2536,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5134,8 +6115,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "473400466782",
+    "uikName": "УИК №150",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2664,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5181,8 +6171,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "473400466783",
+    "uikName": "УИК №151",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2079,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5228,8 +6227,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "473400466784",
+    "uikName": "УИК №152",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1870,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5275,8 +6283,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "473400466785",
+    "uikName": "УИК №153",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2500,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5322,8 +6339,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "473400466786",
+    "uikName": "УИК №154",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2089,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5369,8 +6395,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "473400466787",
+    "uikName": "УИК №155",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1944,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5416,8 +6451,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "473400466740",
+    "uikName": "УИК №156",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1228,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5463,8 +6507,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "473400466738",
+    "uikName": "УИК №157",
     "tikTvd": "273200070520",
     "tikName": "Димитровградская городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -5510,8 +6563,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "473400370875",
+    "uikName": "УИК №82",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 511,
@@ -5557,8 +6619,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "473400370879",
+    "uikName": "УИК №83",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1077,
       "Число бюллетеней, полученных участковыми комиссиями": 961,
@@ -5604,8 +6675,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "473400370877",
+    "uikName": "УИК №84",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -5651,8 +6731,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "473400370880",
+    "uikName": "УИК №85",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 850,
       "Число бюллетеней, полученных участковыми комиссиями": 744,
@@ -5698,8 +6787,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "473400370881",
+    "uikName": "УИК №86",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -5745,8 +6843,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "473400370882",
+    "uikName": "УИК №87",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 599,
       "Число бюллетеней, полученных участковыми комиссиями": 532,
@@ -5792,8 +6899,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "473400370883",
+    "uikName": "УИК №88",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 428,
@@ -5839,8 +6955,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "473400370884",
+    "uikName": "УИК №89",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 276,
@@ -5886,8 +7011,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "473400370885",
+    "uikName": "УИК №90",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 734,
       "Число бюллетеней, полученных участковыми комиссиями": 643,
@@ -5933,8 +7067,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "473400370886",
+    "uikName": "УИК №91",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -5980,8 +7123,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "473400370887",
+    "uikName": "УИК №92",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -6027,8 +7179,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "473400370888",
+    "uikName": "УИК №93",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 154,
@@ -6074,8 +7235,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "473400370889",
+    "uikName": "УИК №94",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1369,
       "Число бюллетеней, полученных участковыми комиссиями": 1137,
@@ -6121,8 +7291,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "473400370890",
+    "uikName": "УИК №95",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1536,
       "Число бюллетеней, полученных участковыми комиссиями": 1344,
@@ -6168,8 +7347,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "473400370891",
+    "uikName": "УИК №96",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1637,
       "Число бюллетеней, полученных участковыми комиссиями": 1463,
@@ -6215,8 +7403,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "473400370892",
+    "uikName": "УИК №97",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1475,
       "Число бюллетеней, полученных участковыми комиссиями": 1308,
@@ -6262,8 +7459,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "473400370893",
+    "uikName": "УИК №98",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 396,
@@ -6309,8 +7515,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "473400370894",
+    "uikName": "УИК №99",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1305,
       "Число бюллетеней, полученных участковыми комиссиями": 1181,
@@ -6356,8 +7571,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "473400370895",
+    "uikName": "УИК №100",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -6403,8 +7627,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "473400370896",
+    "uikName": "УИК №101",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 166,
@@ -6450,8 +7683,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "473400370897",
+    "uikName": "УИК №102",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2252,
       "Число бюллетеней, полученных участковыми комиссиями": 2062,
@@ -6497,8 +7739,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "473400370898",
+    "uikName": "УИК №103",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 299,
@@ -6544,8 +7795,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "473400370899",
+    "uikName": "УИК №104",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 953,
       "Число бюллетеней, полученных участковыми комиссиями": 854,
@@ -6591,8 +7851,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "473400370900",
+    "uikName": "УИК №105",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 231,
@@ -6638,8 +7907,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "473400370901",
+    "uikName": "УИК №106",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 239,
@@ -6685,8 +7963,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "473400370902",
+    "uikName": "УИК №107",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -6732,8 +8019,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "473400370903",
+    "uikName": "УИК №108",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 291,
@@ -6779,8 +8075,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "473400370904",
+    "uikName": "УИК №109",
     "tikTvd": "273200070521",
     "tikName": "Вешкаймская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -6826,8 +8131,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "473400266650",
+    "uikName": "УИК №69",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1359,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -6873,8 +8187,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "473400266651",
+    "uikName": "УИК №70",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1489,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -6920,8 +8243,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "473400266652",
+    "uikName": "УИК №71",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1494,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -6967,8 +8299,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "473400266653",
+    "uikName": "УИК №72",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 695,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7014,8 +8355,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "473400266654",
+    "uikName": "УИК №73",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 904,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -7061,8 +8411,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "473400266655",
+    "uikName": "УИК №74",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1461,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -7108,8 +8467,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "473400266656",
+    "uikName": "УИК №75",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 741,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7155,8 +8523,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "473400266657",
+    "uikName": "УИК №76",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 874,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -7202,8 +8579,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "473400266658",
+    "uikName": "УИК №77",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 812,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -7249,8 +8635,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "473400266659",
+    "uikName": "УИК №78",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1472,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -7296,8 +8691,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "473400266660",
+    "uikName": "УИК №79",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -7343,8 +8747,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "473400266661",
+    "uikName": "УИК №80",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1613,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7390,8 +8803,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "473400266648",
+    "uikName": "УИК №81",
     "tikTvd": "273200070522",
     "tikName": "Барышcкая городская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1607,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -7437,8 +8859,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "473402666802",
+    "uikName": "УИК №22",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 737,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7484,8 +8915,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "473402666803",
+    "uikName": "УИК №23",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 863,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -7531,8 +8971,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "473402666804",
+    "uikName": "УИК №24",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1584,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7578,8 +9027,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "473402666805",
+    "uikName": "УИК №25",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1237,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7625,8 +9083,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "473402666806",
+    "uikName": "УИК №26",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1773,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7672,8 +9139,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "473402666807",
+    "uikName": "УИК №27",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 811,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -7719,8 +9195,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "473402666808",
+    "uikName": "УИК №28",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 774,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -7766,8 +9251,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "473402666809",
+    "uikName": "УИК №29",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1594,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7813,8 +9307,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "473402666810",
+    "uikName": "УИК №30",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1677,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7860,8 +9363,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "473402666811",
+    "uikName": "УИК №31",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 857,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -7907,8 +9419,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "473402666812",
+    "uikName": "УИК №32",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -7954,8 +9475,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "473402666813",
+    "uikName": "УИК №33",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8001,8 +9531,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "473402666814",
+    "uikName": "УИК №34",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -8048,8 +9587,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "473402666815",
+    "uikName": "УИК №35",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -8095,8 +9643,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "473402666816",
+    "uikName": "УИК №36",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 71,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -8142,8 +9699,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "473402666817",
+    "uikName": "УИК №37",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 790,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -8189,8 +9755,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "473402666818",
+    "uikName": "УИК №38",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8236,8 +9811,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "473402666819",
+    "uikName": "УИК №39",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 525,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8283,8 +9867,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "473402666820",
+    "uikName": "УИК №40",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -8330,8 +9923,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "473402666821",
+    "uikName": "УИК №41",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -8377,8 +9979,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "473402666822",
+    "uikName": "УИК №42",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 649,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -8424,8 +10035,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "473402666823",
+    "uikName": "УИК №43",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -8471,8 +10091,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "473402666824",
+    "uikName": "УИК №44",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -8518,8 +10147,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "473402666825",
+    "uikName": "УИК №45",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -8565,8 +10203,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "473402666826",
+    "uikName": "УИК №46",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8612,8 +10259,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "473402666827",
+    "uikName": "УИК №47",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -8659,8 +10315,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "473402666828",
+    "uikName": "УИК №48",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1372,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -8706,8 +10371,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "473402666829",
+    "uikName": "УИК №49",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -8753,8 +10427,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "473402666830",
+    "uikName": "УИК №50",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -8800,8 +10483,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "473402666831",
+    "uikName": "УИК №51",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 603,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8847,8 +10539,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "473402666832",
+    "uikName": "УИК №52",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -8894,8 +10595,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "473402666833",
+    "uikName": "УИК №53",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -8941,8 +10651,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "473402666834",
+    "uikName": "УИК №54",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8988,8 +10707,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "473402666835",
+    "uikName": "УИК №55",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -9035,8 +10763,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "473402666836",
+    "uikName": "УИК №56",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -9082,8 +10819,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "473402666837",
+    "uikName": "УИК №57",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9129,8 +10875,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "473402666838",
+    "uikName": "УИК №58",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -9176,8 +10931,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "473402666839",
+    "uikName": "УИК №59",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -9223,8 +10987,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "473402666840",
+    "uikName": "УИК №60",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -9270,8 +11043,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "473402666841",
+    "uikName": "УИК №61",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -9317,8 +11099,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "473402666842",
+    "uikName": "УИК №62",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -9364,8 +11155,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "473402666843",
+    "uikName": "УИК №63",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 843,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -9411,8 +11211,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "473402666844",
+    "uikName": "УИК №64",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -9458,8 +11267,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "473402666845",
+    "uikName": "УИК №65",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -9505,8 +11323,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "473402666846",
+    "uikName": "УИК №66",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -9552,8 +11379,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "473402666847",
+    "uikName": "УИК №67",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 815,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -9599,8 +11435,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "473402666848",
+    "uikName": "УИК №68",
     "tikTvd": "273200070523",
     "tikName": "Барышская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -9646,8 +11491,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "473400166661",
+    "uikName": "УИК  1",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1400,
       "Число бюллетеней, полученных участковыми комиссиями": 1369,
@@ -9693,8 +11547,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "473400166662",
+    "uikName": "УИК  2",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1316,
       "Число бюллетеней, полученных участковыми комиссиями": 1306,
@@ -9740,8 +11603,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "473400166663",
+    "uikName": "УИК  3",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1379,
       "Число бюллетеней, полученных участковыми комиссиями": 1366,
@@ -9787,8 +11659,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "473400166664",
+    "uikName": "УИК  4",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 309,
@@ -9834,8 +11715,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "473400166665",
+    "uikName": "УИК  5",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -9881,8 +11771,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "473400166666",
+    "uikName": "УИК  6",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -9928,8 +11827,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "473400166667",
+    "uikName": "УИК  7",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -9975,8 +11883,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "473400166668",
+    "uikName": "УИК  8",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 73,
@@ -10022,8 +11939,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "473400166669",
+    "uikName": "УИК  9",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 368,
@@ -10069,8 +11995,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "473400166670",
+    "uikName": "УИК  10",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 453,
@@ -10116,8 +12051,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "473400166671",
+    "uikName": "УИК  11",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 166,
@@ -10163,8 +12107,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "473400166672",
+    "uikName": "УИК  12",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 231,
@@ -10210,8 +12163,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "473400166673",
+    "uikName": "УИК  13",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 560,
       "Число бюллетеней, полученных участковыми комиссиями": 562,
@@ -10257,8 +12219,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "473400166674",
+    "uikName": "УИК  14",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -10304,8 +12275,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "473400166675",
+    "uikName": "УИК  15",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -10351,8 +12331,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "473400166676",
+    "uikName": "УИК  16",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 449,
@@ -10398,8 +12387,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "473400166677",
+    "uikName": "УИК  17",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -10445,8 +12443,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "473400166678",
+    "uikName": "УИК  18",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -10492,8 +12499,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "473400166679",
+    "uikName": "УИК  19",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -10539,8 +12555,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "473400166680",
+    "uikName": "УИК  20",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -10586,8 +12611,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "473400166681",
+    "uikName": "УИК  21",
     "tikTvd": "273200070524",
     "tikName": "Базарносызганская",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 180,
+      "oikTvd": "100100095844",
+      "oikName": "Мелекесский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 434,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -10633,8 +12667,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "473402266709",
+    "uikName": "УИК №804",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1553,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -10688,8 +12731,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "473402266710",
+    "uikName": "УИК №805",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2171,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -10743,8 +12795,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "473402266711",
+    "uikName": "УИК №806",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2466,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -10798,8 +12859,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "473402266712",
+    "uikName": "УИК №807",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2651,
       "Число бюллетеней, полученных участковыми комиссиями": 2640,
@@ -10853,8 +12923,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "473402266713",
+    "uikName": "УИК №808",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2794,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -10908,8 +12987,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "473402266714",
+    "uikName": "УИК №809",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2756,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10963,8 +13051,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "473402266715",
+    "uikName": "УИК №810",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2148,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -11018,8 +13115,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "473402266716",
+    "uikName": "УИК №811",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11073,8 +13179,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "473402266717",
+    "uikName": "УИК №812",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2872,
       "Число бюллетеней, полученных участковыми комиссиями": 2860,
@@ -11128,8 +13243,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "473402266718",
+    "uikName": "УИК №813",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2285,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -11183,8 +13307,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "473402266719",
+    "uikName": "УИК №814",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2772,
       "Число бюллетеней, полученных участковыми комиссиями": 2740,
@@ -11238,8 +13371,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "473402266720",
+    "uikName": "УИК №815",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2130,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -11293,8 +13435,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "473402266721",
+    "uikName": "УИК №816",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2057,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -11348,8 +13499,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "473402266722",
+    "uikName": "УИК №817",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2626,
       "Число бюллетеней, полученных участковыми комиссиями": 2630,
@@ -11403,8 +13563,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "473402266723",
+    "uikName": "УИК №818",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -11458,8 +13627,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "473402266724",
+    "uikName": "УИК №819",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2431,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -11513,8 +13691,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "473402266725",
+    "uikName": "УИК №820",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1519,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -11568,8 +13755,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "473402266726",
+    "uikName": "УИК №821",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1767,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -11623,8 +13819,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "473402266727",
+    "uikName": "УИК №822",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2708,
       "Число бюллетеней, полученных участковыми комиссиями": 2720,
@@ -11678,8 +13883,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "473402266728",
+    "uikName": "УИК №823",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3252,
       "Число бюллетеней, полученных участковыми комиссиями": 2740,
@@ -11733,8 +13947,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 824,
     "uikTvd": "473402266729",
+    "uikName": "УИК №824",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1516,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -11788,8 +14011,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 825,
     "uikTvd": "473402266730",
+    "uikName": "УИК №825",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2718,
       "Число бюллетеней, полученных участковыми комиссиями": 2720,
@@ -11843,8 +14075,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 826,
     "uikTvd": "473402266731",
+    "uikName": "УИК №826",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2699,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11898,8 +14139,17 @@ export const duma_2003_uik_428_region_73_part_003 = [
     "ballot": "single-member",
     "uikNumber": 827,
     "uikTvd": "473402266732",
+    "uikName": "УИК №827",
     "tikTvd": "273200070525",
     "tikName": "Ульяновск, Заволжская N1",
+    "regionCode": "73",
+    "regionTvd": "100100095843",
+    "regionName": "Ульяновская область",
+    "district": {
+      "districtNumber": 181,
+      "oikTvd": "100100095845",
+      "oikName": "Ульяновский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2137,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,

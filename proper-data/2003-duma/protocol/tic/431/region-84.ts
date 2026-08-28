@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_84 = [
     "ballot": "party",
     "tikTvd": "284200066702",
     "tikName": "Хатангская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки": 4575,
@@ -86,6 +89,9 @@ export const duma_2003_tic_431_region_84 = [
     "ballot": "party",
     "tikTvd": "284200066703",
     "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 21675,
@@ -166,6 +172,9 @@ export const duma_2003_tic_431_region_84 = [
     "ballot": "party",
     "tikTvd": "284200066704",
     "tikName": "Усть-Енисейская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки": 2508,
@@ -237,6 +246,9 @@ export const duma_2003_tic_431_region_84 = [
     "ballot": "party",
     "tikTvd": "284200066705",
     "tikName": "Диксонская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в списки": 922,

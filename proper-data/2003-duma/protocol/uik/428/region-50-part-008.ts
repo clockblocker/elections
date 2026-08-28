@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1723,
     "uikTvd": "450403370674",
+    "uikName": "УИК №1723",
     "tikTvd": "350300670571",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2324,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1724,
     "uikTvd": "450403370675",
+    "uikName": "УИК №1724",
     "tikTvd": "350300670571",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 301,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1725,
     "uikTvd": "450403370676",
+    "uikName": "УИК №1725",
     "tikTvd": "350300670571",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 711,
       "Число бюллетеней, полученных участковыми комиссиями": 737,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1726,
     "uikTvd": "450403370677",
+    "uikName": "УИК №1726",
     "tikTvd": "350300670571",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 273,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1727,
     "uikTvd": "450403370678",
+    "uikName": "УИК №1727",
     "tikTvd": "350300670571",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 711,
       "Число бюллетеней, полученных участковыми комиссиями": 636,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1728,
     "uikTvd": "450403370679",
+    "uikName": "УИК №1728",
     "tikTvd": "350300670571",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1729,
     "uikTvd": "450403370680",
+    "uikName": "УИК №1729",
     "tikTvd": "350300670571",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 218,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1730,
     "uikTvd": "450403370681",
+    "uikName": "УИК №1730",
     "tikTvd": "350300670571",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 867,
       "Число бюллетеней, полученных участковыми комиссиями": 878,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1731,
     "uikTvd": "450403370682",
+    "uikName": "УИК №1731",
     "tikTvd": "350300670571",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1487,
       "Число бюллетеней, полученных участковыми комиссиями": 1506,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1732,
     "uikTvd": "450403370683",
+    "uikName": "УИК №1732",
     "tikTvd": "350300670571",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 496,
       "Число бюллетеней, полученных участковыми комиссиями": 513,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1733,
     "uikTvd": "450403370684",
+    "uikName": "УИК №1733",
     "tikTvd": "350300670571",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 686,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1734,
     "uikTvd": "450403370685",
+    "uikName": "УИК №1734",
     "tikTvd": "350300670571",
     "tikName": "Ногинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2612,
       "Число бюллетеней, полученных участковыми комиссиями": 2561,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3078,
     "uikTvd": "450406271550",
+    "uikName": "УИК №3078",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2094,
       "Число бюллетеней, полученных участковыми комиссиями": 2081,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3079,
     "uikTvd": "450406271551",
+    "uikName": "УИК №3079",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2547,
       "Число бюллетеней, полученных участковыми комиссиями": 2459,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3080,
     "uikTvd": "450406271552",
+    "uikName": "УИК №3080",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2537,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3081,
     "uikTvd": "450406271553",
+    "uikName": "УИК №3081",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1389,
       "Число бюллетеней, полученных участковыми комиссиями": 1323,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3082,
     "uikTvd": "450406271554",
+    "uikName": "УИК №3082",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2358,
       "Число бюллетеней, полученных участковыми комиссиями": 2317,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3083,
     "uikTvd": "450406271555",
+    "uikName": "УИК №3083",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2198,
       "Число бюллетеней, полученных участковыми комиссиями": 2153,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3084,
     "uikTvd": "450406271556",
+    "uikName": "УИК №3084",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1682,
       "Число бюллетеней, полученных участковыми комиссиями": 1666,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3085,
     "uikTvd": "450406271557",
+    "uikName": "УИК №3085",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1130,
       "Число бюллетеней, полученных участковыми комиссиями": 2074,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3086,
     "uikTvd": "450406271558",
+    "uikName": "УИК №3086",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1326,
       "Число бюллетеней, полученных участковыми комиссиями": 2624,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3087,
     "uikTvd": "450406271559",
+    "uikName": "УИК №3087",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1973,
       "Число бюллетеней, полученных участковыми комиссиями": 1965,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3088,
     "uikTvd": "450406271560",
+    "uikName": "УИК №3088",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2191,
       "Число бюллетеней, полученных участковыми комиссиями": 2227,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3089,
     "uikTvd": "450406271561",
+    "uikName": "УИК №3089",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2012,
       "Число бюллетеней, полученных участковыми комиссиями": 1989,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3090,
     "uikTvd": "450406271562",
+    "uikName": "УИК №3090",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2264,
       "Число бюллетеней, полученных участковыми комиссиями": 2278,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3091,
     "uikTvd": "450406271563",
+    "uikName": "УИК №3091",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 798,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3092,
     "uikTvd": "450406271564",
+    "uikName": "УИК №3092",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2512,
       "Число бюллетеней, полученных участковыми комиссиями": 2411,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3093,
     "uikTvd": "450406271565",
+    "uikName": "УИК №3093",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1691,
       "Число бюллетеней, полученных участковыми комиссиями": 1671,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3094,
     "uikTvd": "450406271566",
+    "uikName": "УИК №3094",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1881,
       "Число бюллетеней, полученных участковыми комиссиями": 1857,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3095,
     "uikTvd": "450406271567",
+    "uikName": "УИК №3095",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1613,
       "Число бюллетеней, полученных участковыми комиссиями": 1615,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3096,
     "uikTvd": "450406271568",
+    "uikName": "УИК №3096",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1501,
       "Число бюллетеней, полученных участковыми комиссиями": 1538,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3097,
     "uikTvd": "450406271569",
+    "uikName": "УИК №3097",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1786,
       "Число бюллетеней, полученных участковыми комиссиями": 1757,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3098,
     "uikTvd": "450406271548",
+    "uikName": "УИК №3098",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1608,
       "Число бюллетеней, полученных участковыми комиссиями": 1534,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3099,
     "uikTvd": "450406271570",
+    "uikName": "УИК №3099",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2090,
       "Число бюллетеней, полученных участковыми комиссиями": 2051,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3100,
     "uikTvd": "450406271571",
+    "uikName": "УИК №3100",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2575,
       "Число бюллетеней, полученных участковыми комиссиями": 2502,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3101,
     "uikTvd": "450406271572",
+    "uikName": "УИК №3101",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1884,
       "Число бюллетеней, полученных участковыми комиссиями": 1892,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3102,
     "uikTvd": "450406271573",
+    "uikName": "УИК №3102",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2755,
       "Число бюллетеней, полученных участковыми комиссиями": 2601,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3103,
     "uikTvd": "450406271574",
+    "uikName": "УИК №3103",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 2035,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3104,
     "uikTvd": "450406271575",
+    "uikName": "УИК №3104",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1572,
       "Число бюллетеней, полученных участковыми комиссиями": 1594,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3105,
     "uikTvd": "450406271576",
+    "uikName": "УИК №3105",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1584,
       "Число бюллетеней, полученных участковыми комиссиями": 1477,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3106,
     "uikTvd": "450406271577",
+    "uikName": "УИК №3106",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2422,
       "Число бюллетеней, полученных участковыми комиссиями": 2396,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3107,
     "uikTvd": "450406271578",
+    "uikName": "УИК №3107",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2799,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3108,
     "uikTvd": "450406271579",
+    "uikName": "УИК №3108",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 518,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3109,
     "uikTvd": "450406271580",
+    "uikName": "УИК №3109",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 583,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3110,
     "uikTvd": "450406271581",
+    "uikName": "УИК №3110",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3111,
     "uikTvd": "450406271582",
+    "uikName": "УИК №3111",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2024,
       "Число бюллетеней, полученных участковыми комиссиями": 2058,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3112,
     "uikTvd": "450406271583",
+    "uikName": "УИК №3112",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 2186,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3113,
     "uikTvd": "450406271584",
+    "uikName": "УИК №3113",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2315,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3114,
     "uikTvd": "450406271585",
+    "uikName": "УИК №3114",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2661,
       "Число бюллетеней, полученных участковыми комиссиями": 2757,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3115,
     "uikTvd": "450406271586",
+    "uikName": "УИК №3115",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2830,
       "Число бюллетеней, полученных участковыми комиссиями": 2708,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3116,
     "uikTvd": "450406271587",
+    "uikName": "УИК №3116",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2385,
       "Число бюллетеней, полученных участковыми комиссиями": 2601,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3117,
     "uikTvd": "450406271588",
+    "uikName": "УИК №3117",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2521,
       "Число бюллетеней, полученных участковыми комиссиями": 2440,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3118,
     "uikTvd": "450406271589",
+    "uikName": "УИК №3118",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2406,
       "Число бюллетеней, полученных участковыми комиссиями": 2557,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3119,
     "uikTvd": "450406271590",
+    "uikName": "УИК №3119",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2182,
       "Число бюллетеней, полученных участковыми комиссиями": 2356,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3120,
     "uikTvd": "450406271591",
+    "uikName": "УИК №3120",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2761,
       "Число бюллетеней, полученных участковыми комиссиями": 2805,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3121,
     "uikTvd": "450406271592",
+    "uikName": "УИК №3121",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2139,
       "Число бюллетеней, полученных участковыми комиссиями": 2197,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3122,
     "uikTvd": "450406271593",
+    "uikName": "УИК №3122",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2679,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3123,
     "uikTvd": "450406271594",
+    "uikName": "УИК №3123",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2857,
       "Число бюллетеней, полученных участковыми комиссиями": 2793,
@@ -2737,8 +3259,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3124,
     "uikTvd": "450406271595",
+    "uikName": "УИК №3124",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2737,
       "Число бюллетеней, полученных участковыми комиссиями": 2626,
@@ -2784,8 +3315,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3125,
     "uikTvd": "450406271596",
+    "uikName": "УИК №3125",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2716,
       "Число бюллетеней, полученных участковыми комиссиями": 2698,
@@ -2831,8 +3371,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3126,
     "uikTvd": "450406271597",
+    "uikName": "УИК №3126",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2615,
       "Число бюллетеней, полученных участковыми комиссиями": 2514,
@@ -2878,8 +3427,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3127,
     "uikTvd": "450406271598",
+    "uikName": "УИК №3127",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1981,
       "Число бюллетеней, полученных участковыми комиссиями": 1938,
@@ -2925,8 +3483,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3128,
     "uikTvd": "450406271599",
+    "uikName": "УИК №3128",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2036,
       "Число бюллетеней, полученных участковыми комиссиями": 2066,
@@ -2972,8 +3539,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3129,
     "uikTvd": "450406271600",
+    "uikName": "УИК №3129",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1491,
       "Число бюллетеней, полученных участковыми комиссиями": 1422,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3130,
     "uikTvd": "450406271601",
+    "uikName": "УИК №3130",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2322,
       "Число бюллетеней, полученных участковыми комиссиями": 2299,
@@ -3066,8 +3651,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3131,
     "uikTvd": "450406271602",
+    "uikName": "УИК №3131",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2268,
@@ -3113,8 +3707,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3132,
     "uikTvd": "450406271603",
+    "uikName": "УИК №3132",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 631,
       "Число бюллетеней, полученных участковыми комиссиями": 1411,
@@ -3160,8 +3763,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3133,
     "uikTvd": "450406271604",
+    "uikName": "УИК №3133",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2278,
       "Число бюллетеней, полученных участковыми комиссиями": 2278,
@@ -3207,8 +3819,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3134,
     "uikTvd": "450406271605",
+    "uikName": "УИК №3134",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2004,
       "Число бюллетеней, полученных участковыми комиссиями": 2003,
@@ -3254,8 +3875,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3135,
     "uikTvd": "450406271606",
+    "uikName": "УИК №3135",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2097,
       "Число бюллетеней, полученных участковыми комиссиями": 2178,
@@ -3301,8 +3931,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3136,
     "uikTvd": "450406271607",
+    "uikName": "УИК №3136",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1398,
       "Число бюллетеней, полученных участковыми комиссиями": 1404,
@@ -3348,8 +3987,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3137,
     "uikTvd": "450406271608",
+    "uikName": "УИК №3137",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 929,
       "Число бюллетеней, полученных участковыми комиссиями": 903,
@@ -3395,8 +4043,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3138,
     "uikTvd": "450406271609",
+    "uikName": "УИК №3138",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1570,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -3442,8 +4099,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3139,
     "uikTvd": "450406271610",
+    "uikName": "УИК №3139",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 910,
       "Число бюллетеней, полученных участковыми комиссиями": 1741,
@@ -3489,8 +4155,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3140,
     "uikTvd": "450406271611",
+    "uikName": "УИК №3140",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1699,
       "Число бюллетеней, полученных участковыми комиссиями": 1505,
@@ -3536,8 +4211,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3141,
     "uikTvd": "450406271612",
+    "uikName": "УИК №3141",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 880,
       "Число бюллетеней, полученных участковыми комиссиями": 849,
@@ -3583,8 +4267,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3142,
     "uikTvd": "450406271613",
+    "uikName": "УИК №3142",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -3630,8 +4323,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3143,
     "uikTvd": "450406271614",
+    "uikName": "УИК №3143",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -3677,8 +4379,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3144,
     "uikTvd": "450406271615",
+    "uikName": "УИК №3144",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1674,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -3724,8 +4435,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3145,
     "uikTvd": "450406271616",
+    "uikName": "УИК №3145",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 635,
       "Число бюллетеней, полученных участковыми комиссиями": 618,
@@ -3771,8 +4491,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3146,
     "uikTvd": "450406271617",
+    "uikName": "УИК №3146",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 823,
       "Число бюллетеней, полученных участковыми комиссиями": 805,
@@ -3818,8 +4547,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3147,
     "uikTvd": "450406271618",
+    "uikName": "УИК №3147",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1631,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -3865,8 +4603,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3148,
     "uikTvd": "450406271619",
+    "uikName": "УИК №3148",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2616,
       "Число бюллетеней, полученных участковыми комиссиями": 2696,
@@ -3912,8 +4659,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3149,
     "uikTvd": "450406271620",
+    "uikName": "УИК №3149",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 409,
@@ -3959,8 +4715,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3150,
     "uikTvd": "450406271621",
+    "uikName": "УИК №3150",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1364,
       "Число бюллетеней, полученных участковыми комиссиями": 1322,
@@ -4006,8 +4771,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3151,
     "uikTvd": "450406271622",
+    "uikName": "УИК №3151",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 257,
@@ -4053,8 +4827,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3152,
     "uikTvd": "450406271623",
+    "uikName": "УИК №3152",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 479,
@@ -4100,8 +4883,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3153,
     "uikTvd": "450406271624",
+    "uikName": "УИК №3153",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -4147,8 +4939,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3154,
     "uikTvd": "450406271625",
+    "uikName": "УИК №3154",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 491,
       "Число бюллетеней, полученных участковыми комиссиями": 501,
@@ -4194,8 +4995,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3155,
     "uikTvd": "450406271626",
+    "uikName": "УИК №3155",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 362,
@@ -4241,8 +5051,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3156,
     "uikTvd": "450406271627",
+    "uikName": "УИК №3156",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 353,
@@ -4288,8 +5107,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3157,
     "uikTvd": "450406271628",
+    "uikName": "УИК №3157",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 845,
       "Число бюллетеней, полученных участковыми комиссиями": 934,
@@ -4335,8 +5163,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3158,
     "uikTvd": "450406271629",
+    "uikName": "УИК №3158",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1971,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -4382,8 +5219,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3159,
     "uikTvd": "450406271630",
+    "uikName": "УИК №3159",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 242,
@@ -4429,8 +5275,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3160,
     "uikTvd": "450406271631",
+    "uikName": "УИК №3160",
     "tikTvd": "350300670572",
     "tikName": "Щелковская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -4476,8 +5331,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3186,
     "uikTvd": "450406470543",
+    "uikName": "УИК №3186",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2610,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4523,8 +5387,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3187,
     "uikTvd": "450406470544",
+    "uikName": "УИК №3187",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2547,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4570,8 +5443,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3188,
     "uikTvd": "450406470545",
+    "uikName": "УИК №3188",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2745,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4617,8 +5499,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3189,
     "uikTvd": "450406470546",
+    "uikName": "УИК №3189",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2718,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4664,8 +5555,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3190,
     "uikTvd": "450406470547",
+    "uikName": "УИК №3190",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2380,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4711,8 +5611,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3191,
     "uikTvd": "450406470548",
+    "uikName": "УИК №3191",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2499,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4758,8 +5667,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3192,
     "uikTvd": "450406470549",
+    "uikName": "УИК №3192",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4805,8 +5723,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3193,
     "uikTvd": "450406470550",
+    "uikName": "УИК №3193",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4852,8 +5779,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3194,
     "uikTvd": "450406470551",
+    "uikName": "УИК №3194",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2774,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4899,8 +5835,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3195,
     "uikTvd": "450406470552",
+    "uikName": "УИК №3195",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2505,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4946,8 +5891,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3196,
     "uikTvd": "450406470553",
+    "uikName": "УИК №3196",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2517,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4993,8 +5947,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3197,
     "uikTvd": "450406470554",
+    "uikName": "УИК №3197",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5040,8 +6003,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3198,
     "uikTvd": "450406470555",
+    "uikName": "УИК №3198",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2400,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5087,8 +6059,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3199,
     "uikTvd": "450406470556",
+    "uikName": "УИК №3199",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2129,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5134,8 +6115,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3200,
     "uikTvd": "450406470557",
+    "uikName": "УИК №3200",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2539,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5181,8 +6171,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3201,
     "uikTvd": "450406470558",
+    "uikName": "УИК №3201",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2903,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -5228,8 +6227,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3202,
     "uikTvd": "450406470559",
+    "uikName": "УИК №3202",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2600,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5275,8 +6283,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3203,
     "uikTvd": "450406470560",
+    "uikName": "УИК №3203",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2938,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -5322,8 +6339,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3204,
     "uikTvd": "450406470561",
+    "uikName": "УИК №3204",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2585,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -5369,8 +6395,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3205,
     "uikTvd": "450406470562",
+    "uikName": "УИК №3205",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2780,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -5416,8 +6451,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3206,
     "uikTvd": "450406470563",
+    "uikName": "УИК №3206",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2674,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -5463,8 +6507,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3207,
     "uikTvd": "450406470564",
+    "uikName": "УИК №3207",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2632,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5510,8 +6563,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3208,
     "uikTvd": "450406470565",
+    "uikName": "УИК №3208",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2383,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -5557,8 +6619,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3209,
     "uikTvd": "450406470566",
+    "uikName": "УИК №3209",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5604,8 +6675,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3210,
     "uikTvd": "450406470567",
+    "uikName": "УИК №3210",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2507,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5651,8 +6731,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3211,
     "uikTvd": "450406470568",
+    "uikName": "УИК №3211",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2081,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5698,8 +6787,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3212,
     "uikTvd": "450406470569",
+    "uikName": "УИК №3212",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2620,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5745,8 +6843,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3213,
     "uikTvd": "450406470570",
+    "uikName": "УИК №3213",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -5792,8 +6899,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3214,
     "uikTvd": "450406470571",
+    "uikName": "УИК №3214",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2459,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5839,8 +6955,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3215,
     "uikTvd": "450406470572",
+    "uikName": "УИК №3215",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2547,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5886,8 +7011,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3216,
     "uikTvd": "450406470573",
+    "uikName": "УИК №3216",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2739,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -5933,8 +7067,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3217,
     "uikTvd": "450406470574",
+    "uikName": "УИК №3217",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2611,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -5980,8 +7123,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3218,
     "uikTvd": "450406470575",
+    "uikName": "УИК №3218",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2841,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -6027,8 +7179,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3219,
     "uikTvd": "450406470576",
+    "uikName": "УИК №3219",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2601,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6074,8 +7235,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3220,
     "uikTvd": "450406470577",
+    "uikName": "УИК №3220",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6121,8 +7291,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3221,
     "uikTvd": "450406470578",
+    "uikName": "УИК №3221",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -6168,8 +7347,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3222,
     "uikTvd": "450406470579",
+    "uikName": "УИК №3222",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2875,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -6215,8 +7403,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3223,
     "uikTvd": "450406470580",
+    "uikName": "УИК №3223",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2820,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -6262,8 +7459,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3224,
     "uikTvd": "450406470581",
+    "uikName": "УИК №3224",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2637,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6309,8 +7515,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3225,
     "uikTvd": "450406470582",
+    "uikName": "УИК №3225",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2875,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -6356,8 +7571,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3226,
     "uikTvd": "450406470583",
+    "uikName": "УИК №3226",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2623,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6403,8 +7627,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3227,
     "uikTvd": "450406470584",
+    "uikName": "УИК №3227",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2082,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -6450,8 +7683,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3228,
     "uikTvd": "450406470585",
+    "uikName": "УИК №3228",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2398,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -6497,8 +7739,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3229,
     "uikTvd": "450406470586",
+    "uikName": "УИК №3229",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2684,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -6544,8 +7795,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3230,
     "uikTvd": "450406470587",
+    "uikName": "УИК №3230",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2631,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -6591,8 +7851,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3231,
     "uikTvd": "450406470588",
+    "uikName": "УИК №3231",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2404,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6638,8 +7907,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3232,
     "uikTvd": "450406470589",
+    "uikName": "УИК №3232",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2180,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6685,8 +7963,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3233,
     "uikTvd": "450406470590",
+    "uikName": "УИК №3233",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6732,8 +8019,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3234,
     "uikTvd": "450406470591",
+    "uikName": "УИК №3234",
     "tikTvd": "350300670893",
     "tikName": "Электростальская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 110,
+      "oikTvd": "100100095711",
+      "oikName": "Ногинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6779,8 +8075,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "450401370661",
+    "uikName": "УИК №585",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 832,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -6832,8 +8137,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "450401370662",
+    "uikName": "УИК №586",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 800,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -6885,8 +8199,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "450401370663",
+    "uikName": "УИК №587",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 795,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -6938,8 +8261,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "450401370664",
+    "uikName": "УИК №588",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 941,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -6991,8 +8323,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "450401370665",
+    "uikName": "УИК №589",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1251,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -7044,8 +8385,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "450401370666",
+    "uikName": "УИК №590",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1256,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -7097,8 +8447,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "450401370667",
+    "uikName": "УИК №591",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 951,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -7150,8 +8509,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "450401370668",
+    "uikName": "УИК №592",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 637,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -7203,8 +8571,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "450401370669",
+    "uikName": "УИК №593",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -7256,8 +8633,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "450401370670",
+    "uikName": "УИК №594",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1465,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7309,8 +8695,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "450401370671",
+    "uikName": "УИК №595",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -7362,8 +8757,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "450401370672",
+    "uikName": "УИК №596",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1356,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -7415,8 +8819,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "450401370673",
+    "uikName": "УИК №597",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -7468,8 +8881,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "450401370659",
+    "uikName": "УИК №598",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 833,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -7521,8 +8943,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5004,
     "uikTvd": "450401370701",
+    "uikName": "УИК  5004",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2049,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7574,8 +9005,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5005,
     "uikTvd": "450401370702",
+    "uikName": "УИК  5005",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7627,8 +9067,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5109,
     "uikTvd": "450401370703",
+    "uikName": "УИК  5109",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1097,
       "Число бюллетеней, полученных участковыми комиссиями": 791,
@@ -7680,8 +9129,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5110,
     "uikTvd": "450401370704",
+    "uikName": "УИК  5110",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1043,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7733,8 +9191,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5111,
     "uikTvd": "450401370705",
+    "uikName": "УИК  5111",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 64,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7786,8 +9253,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5112,
     "uikTvd": "450401370706",
+    "uikName": "УИК  5112",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 10,
       "Число бюллетеней, полученных участковыми комиссиями": 30,
@@ -7839,8 +9315,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5116,
     "uikTvd": "450401370707",
+    "uikName": "УИК  5116",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -7892,8 +9377,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5117,
     "uikTvd": "450401370708",
+    "uikName": "УИК  5117",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 474,
       "Число бюллетеней, полученных участковыми комиссиями": 7000,
@@ -7945,8 +9439,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5118,
     "uikTvd": "450401370709",
+    "uikName": "УИК  5118",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -7998,8 +9501,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5119,
     "uikTvd": "450401370710",
+    "uikName": "УИК  5119",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8051,8 +9563,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5120,
     "uikTvd": "450401370711",
+    "uikName": "УИК  5120",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 703,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -8104,8 +9625,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5121,
     "uikTvd": "450401370712",
+    "uikName": "УИК  5121",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8157,8 +9687,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5122,
     "uikTvd": "450401370713",
+    "uikName": "УИК  5122",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8210,8 +9749,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5123,
     "uikTvd": "450401370714",
+    "uikName": "УИК  5123",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8263,8 +9811,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5124,
     "uikTvd": "450401370715",
+    "uikName": "УИК  5124",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 622,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8316,8 +9873,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5125,
     "uikTvd": "450401370716",
+    "uikName": "УИК  5125",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2165,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8369,8 +9935,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5134,
     "uikTvd": "450401370717",
+    "uikName": "УИК  5134",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1275,
       "Число бюллетеней, полученных участковыми комиссиями": 1995,
@@ -8422,8 +9997,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5224,
     "uikTvd": "450401370718",
+    "uikName": "УИК  5224",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8475,8 +10059,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5225,
     "uikTvd": "450401370719",
+    "uikName": "УИК  5225",
     "tikTvd": "350300771047",
     "tikName": "Звенигородская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 786,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8528,8 +10121,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1073,
     "uikTvd": "450403570371",
+    "uikName": "УИК №1073",
     "tikTvd": "350300771048",
     "tikName": "Краснознаменская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2988,
       "Число бюллетеней, полученных участковыми комиссиями": 2680,
@@ -8581,8 +10183,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1074,
     "uikTvd": "450403570372",
+    "uikName": "УИК №1074",
     "tikTvd": "350300771048",
     "tikName": "Краснознаменская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2926,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -8634,8 +10245,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1075,
     "uikTvd": "450403570373",
+    "uikName": "УИК №1075",
     "tikTvd": "350300771048",
     "tikName": "Краснознаменская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2878,
       "Число бюллетеней, полученных участковыми комиссиями": 2590,
@@ -8687,8 +10307,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1076,
     "uikTvd": "450403570374",
+    "uikName": "УИК №1076",
     "tikTvd": "350300771048",
     "tikName": "Краснознаменская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2961,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -8740,8 +10369,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1077,
     "uikTvd": "450403570375",
+    "uikName": "УИК №1077",
     "tikTvd": "350300771048",
     "tikName": "Краснознаменская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2968,
       "Число бюллетеней, полученных участковыми комиссиями": 2640,
@@ -8793,8 +10431,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1078,
     "uikTvd": "450403570376",
+    "uikName": "УИК №1078",
     "tikTvd": "350300771048",
     "tikName": "Краснознаменская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2937,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -8846,8 +10493,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1079,
     "uikTvd": "450403570377",
+    "uikName": "УИК №1079",
     "tikTvd": "350300771048",
     "tikName": "Краснознаменская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2246,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -8899,8 +10555,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1080,
     "uikTvd": "450403570378",
+    "uikName": "УИК №1080",
     "tikTvd": "350300771048",
     "tikName": "Краснознаменская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3015,
       "Число бюллетеней, полученных участковыми комиссиями": 2680,
@@ -8952,8 +10617,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1081,
     "uikTvd": "450402470423",
+    "uikName": "УИК №1081",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1106,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -9005,8 +10679,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1082,
     "uikTvd": "450402470424",
+    "uikName": "УИК №1082",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1525,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -9058,8 +10741,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1083,
     "uikTvd": "450402470425",
+    "uikName": "УИК №1083",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2497,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -9111,8 +10803,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1084,
     "uikTvd": "450402470426",
+    "uikName": "УИК №1084",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2440,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -9164,8 +10865,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1085,
     "uikTvd": "450402470427",
+    "uikName": "УИК №1085",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1785,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -9217,8 +10927,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1086,
     "uikTvd": "450402470428",
+    "uikName": "УИК №1086",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2188,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9270,8 +10989,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1087,
     "uikTvd": "450402470429",
+    "uikName": "УИК №1087",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1440,
       "Число бюллетеней, полученных участковыми комиссиями": 2710,
@@ -9323,8 +11051,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1088,
     "uikTvd": "450402470430",
+    "uikName": "УИК №1088",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1919,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -9376,8 +11113,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1089,
     "uikTvd": "450402470431",
+    "uikName": "УИК №1089",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1991,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9429,8 +11175,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1090,
     "uikTvd": "450402470432",
+    "uikName": "УИК №1090",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1776,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -9482,8 +11237,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1091,
     "uikTvd": "450402470433",
+    "uikName": "УИК №1091",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2487,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -9535,8 +11299,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1092,
     "uikTvd": "450402470434",
+    "uikName": "УИК №1092",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2071,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -9588,8 +11361,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1093,
     "uikTvd": "450402470435",
+    "uikName": "УИК №1093",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2122,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9641,8 +11423,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1094,
     "uikTvd": "450402470436",
+    "uikName": "УИК №1094",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2014,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9694,8 +11485,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1095,
     "uikTvd": "450402470437",
+    "uikName": "УИК №1095",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 909,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -9747,8 +11547,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1096,
     "uikTvd": "450402470438",
+    "uikName": "УИК №1096",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1648,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9800,8 +11609,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1097,
     "uikTvd": "450402470439",
+    "uikName": "УИК №1097",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2676,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -9853,8 +11671,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1098,
     "uikTvd": "450402470440",
+    "uikName": "УИК №1098",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -9906,8 +11733,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1099,
     "uikTvd": "450402470441",
+    "uikName": "УИК №1099",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1669,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9959,8 +11795,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1100,
     "uikTvd": "450402470442",
+    "uikName": "УИК №1100",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 800,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -10012,8 +11857,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1101,
     "uikTvd": "450402470443",
+    "uikName": "УИК №1101",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -10065,8 +11919,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1102,
     "uikTvd": "450402470444",
+    "uikName": "УИК №1102",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1071,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -10118,8 +11981,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1103,
     "uikTvd": "450402470445",
+    "uikName": "УИК №1103",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1729,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10171,8 +12043,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1104,
     "uikTvd": "450402470446",
+    "uikName": "УИК №1104",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1339,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -10224,8 +12105,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1105,
     "uikTvd": "450402470447",
+    "uikName": "УИК №1105",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -10277,8 +12167,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1106,
     "uikTvd": "450402470448",
+    "uikName": "УИК №1106",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -10330,8 +12229,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1107,
     "uikTvd": "450402470449",
+    "uikName": "УИК №1107",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1397,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -10383,8 +12291,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1108,
     "uikTvd": "450402470450",
+    "uikName": "УИК №1108",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1240,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -10436,8 +12353,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1109,
     "uikTvd": "450402470451",
+    "uikName": "УИК №1109",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1682,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10489,8 +12415,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1110,
     "uikTvd": "450402470452",
+    "uikName": "УИК №1110",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 481,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -10542,8 +12477,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1111,
     "uikTvd": "450402470453",
+    "uikName": "УИК №1111",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1381,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -10595,8 +12539,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1112,
     "uikTvd": "450402470454",
+    "uikName": "УИК №1112",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1403,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10648,8 +12601,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1113,
     "uikTvd": "450402470455",
+    "uikName": "УИК №1113",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2314,
       "Число бюллетеней, полученных участковыми комиссиями": 2320,
@@ -10701,8 +12663,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1114,
     "uikTvd": "450402470456",
+    "uikName": "УИК №1114",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -10754,8 +12725,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1115,
     "uikTvd": "450402470457",
+    "uikName": "УИК №1115",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -10807,8 +12787,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1116,
     "uikTvd": "450402470458",
+    "uikName": "УИК №1116",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -10860,8 +12849,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1117,
     "uikTvd": "450402470459",
+    "uikName": "УИК №1117",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 484,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -10913,8 +12911,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1118,
     "uikTvd": "450402470460",
+    "uikName": "УИК №1118",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -10966,8 +12973,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1119,
     "uikTvd": "450402470461",
+    "uikName": "УИК №1119",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -11019,8 +13035,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1120,
     "uikTvd": "450402470462",
+    "uikName": "УИК №1120",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1160,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -11072,8 +13097,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1121,
     "uikTvd": "450402470463",
+    "uikName": "УИК №1121",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 582,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -11125,8 +13159,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1122,
     "uikTvd": "450402470464",
+    "uikName": "УИК №1122",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2677,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11178,8 +13221,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1123,
     "uikTvd": "450402470465",
+    "uikName": "УИК №1123",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2657,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -11231,8 +13283,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1124,
     "uikTvd": "450402470466",
+    "uikName": "УИК №1124",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2536,
       "Число бюллетеней, полученных участковыми комиссиями": 2440,
@@ -11284,8 +13345,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1125,
     "uikTvd": "450402470467",
+    "uikName": "УИК №1125",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -11337,8 +13407,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1126,
     "uikTvd": "450402470468",
+    "uikName": "УИК №1126",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 835,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -11390,8 +13469,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1127,
     "uikTvd": "450402470469",
+    "uikName": "УИК №1127",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2221,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -11443,8 +13531,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1128,
     "uikTvd": "450402470470",
+    "uikName": "УИК №1128",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2120,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -11496,8 +13593,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1129,
     "uikTvd": "450402470471",
+    "uikName": "УИК №1129",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1745,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -11549,8 +13655,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1130,
     "uikTvd": "450402470472",
+    "uikName": "УИК №1130",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1169,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -11602,8 +13717,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1131,
     "uikTvd": "450402470473",
+    "uikName": "УИК №1131",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2543,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -11655,8 +13779,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1132,
     "uikTvd": "450402470474",
+    "uikName": "УИК №1132",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -11708,8 +13841,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1133,
     "uikTvd": "450402470475",
+    "uikName": "УИК №1133",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1986,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11761,8 +13903,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1134,
     "uikTvd": "450402470476",
+    "uikName": "УИК №1134",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -11814,8 +13965,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1135,
     "uikTvd": "450402470477",
+    "uikName": "УИК №1135",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -11867,8 +14027,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1136,
     "uikTvd": "450402470478",
+    "uikName": "УИК №1136",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2197,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -11920,8 +14089,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1137,
     "uikTvd": "450402470479",
+    "uikName": "УИК №1137",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2149,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -11973,8 +14151,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1138,
     "uikTvd": "450402470480",
+    "uikName": "УИК №1138",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2708,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -12026,8 +14213,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1139,
     "uikTvd": "450402470481",
+    "uikName": "УИК №1139",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2718,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -12079,8 +14275,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1140,
     "uikTvd": "450402470482",
+    "uikName": "УИК №1140",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1253,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -12132,8 +14337,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1141,
     "uikTvd": "450402470483",
+    "uikName": "УИК №1141",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -12185,8 +14399,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1142,
     "uikTvd": "450402470484",
+    "uikName": "УИК №1142",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -12238,8 +14461,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1143,
     "uikTvd": "450402470485",
+    "uikName": "УИК №1143",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2256,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -12291,8 +14523,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1144,
     "uikTvd": "450402470486",
+    "uikName": "УИК №1144",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -12344,8 +14585,17 @@ export const duma_2003_uik_428_region_50_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1145,
     "uikTvd": "450402470487",
+    "uikName": "УИК №1145",
     "tikTvd": "350300771049",
     "tikName": "Ленинская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 111,
+      "oikTvd": "100100095712",
+      "oikName": "Одинцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2860,
       "Число бюллетеней, полученных участковыми комиссиями": 2770,

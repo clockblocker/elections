@@ -7,337 +7,841 @@ export const duma_2003_uik_to_tik_region_83 = [
   {
     "uikNumber": 1,
     "uikTvd": "483400270564",
+    "uikName": "УИК №1",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "483400270565",
+    "uikName": "УИК №2",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "483400270566",
+    "uikName": "УИК №3",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "483400270567",
+    "uikName": "УИК №4",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "483400270568",
+    "uikName": "УИК №5",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "483400270569",
+    "uikName": "УИК №6",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "483400270570",
+    "uikName": "УИК №7",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "483400270571",
+    "uikName": "УИК №8",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "483400270572",
+    "uikName": "УИК №9",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "483400270573",
+    "uikName": "УИК №10",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "483400270574",
+    "uikName": "УИК №11",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "483400270575",
+    "uikName": "УИК №12",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "483400270576",
+    "uikName": "УИК №13",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "483400270577",
+    "uikName": "УИК №14",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "483400270578",
+    "uikName": "УИК №15",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "483400270579",
+    "uikName": "УИК №16",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "483400270580",
+    "uikName": "УИК №17",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "483400270581",
+    "uikName": "УИК №18",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "483400270582",
+    "uikName": "УИК №19",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "483400270583",
+    "uikName": "УИК №20",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "483400270584",
+    "uikName": "УИК №21",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "483400270585",
+    "uikName": "УИК №22",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "483400270586",
+    "uikName": "УИК №23",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "483400270587",
+    "uikName": "УИК №24",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "483400270588",
+    "uikName": "УИК №25",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "483400270589",
+    "uikName": "УИК №26",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "483400270590",
+    "uikName": "УИК №27",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "483400270591",
+    "uikName": "УИК №28",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "483400270592",
+    "uikName": "УИК №29",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "483400270593",
+    "uikName": "УИК №30",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "483400270594",
+    "uikName": "УИК №31",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "483400270595",
+    "uikName": "УИК №32",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "483400270596",
+    "uikName": "УИК №33",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "483400270597",
+    "uikName": "УИК №34",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "483400270598",
+    "uikName": "УИК №35",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "483400270599",
+    "uikName": "УИК №36",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "483400270600",
+    "uikName": "УИК №37",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "483400270601",
+    "uikName": "УИК №38",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "483400270602",
+    "uikName": "УИК №39",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "483400270603",
+    "uikName": "УИК №40",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "483400270604",
+    "uikName": "УИК №41",
     "tikTvd": "283200070441",
-    "tikName": "Искательская"
+    "tikName": "Искательская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "483400170484",
+    "uikName": "УИК №42",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "483400170485",
+    "uikName": "УИК №43",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "483400170486",
+    "uikName": "УИК №44",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "483400170487",
+    "uikName": "УИК №45",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "483400170488",
+    "uikName": "УИК №46",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "483400170489",
+    "uikName": "УИК №47",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "483400170490",
+    "uikName": "УИК №48",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "483400170491",
+    "uikName": "УИК №49",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "483400170492",
+    "uikName": "УИК №50",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "483400170493",
+    "uikName": "УИК №51",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "483400170494",
+    "uikName": "УИК №52",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "483400170495",
+    "uikName": "УИК №53",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "483400170496",
+    "uikName": "УИК №54",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "483400170497",
+    "uikName": "УИК №55",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "483400170482",
+    "uikName": "УИК №56",
     "tikTvd": "283200070442",
-    "tikName": "Нарьян-Марская"
+    "tikName": "Нарьян-Марская",
+    "regionCode": "83",
+    "regionTvd": "100100095801",
+    "regionName": "Ненецкий автономный округ",
+    "district": {
+      "districtNumber": 218,
+      "oikTvd": "100100095802",
+      "oikName": "Ненецкий"
+    }
   }
 ] satisfies readonly UikTikRelation[];

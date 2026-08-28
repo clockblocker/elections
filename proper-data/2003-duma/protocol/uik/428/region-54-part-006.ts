@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1474,
     "uikTvd": "454402167339",
+    "uikName": "УИК №1474",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1927,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1475,
     "uikTvd": "454402167340",
+    "uikName": "УИК №1475",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2278,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1476,
     "uikTvd": "454402167341",
+    "uikName": "УИК №1476",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1477,
     "uikTvd": "454402167342",
+    "uikName": "УИК №1477",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2586,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1478,
     "uikTvd": "454402167343",
+    "uikName": "УИК №1478",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1453,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1479,
     "uikTvd": "454402167344",
+    "uikName": "УИК №1479",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1609,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1480,
     "uikTvd": "454402167345",
+    "uikName": "УИК №1480",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2172,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1481,
     "uikTvd": "454402167346",
+    "uikName": "УИК №1481",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1796,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1482,
     "uikTvd": "454402167347",
+    "uikName": "УИК №1482",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1930,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1483,
     "uikTvd": "454402167348",
+    "uikName": "УИК №1483",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2069,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1484,
     "uikTvd": "454402167349",
+    "uikName": "УИК №1484",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2015,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1485,
     "uikTvd": "454402167350",
+    "uikName": "УИК №1485",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2198,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1486,
     "uikTvd": "454402167351",
+    "uikName": "УИК №1486",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1678,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1487,
     "uikTvd": "454402167352",
+    "uikName": "УИК №1487",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1562,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1488,
     "uikTvd": "454402167353",
+    "uikName": "УИК №1488",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1489,
     "uikTvd": "454402167354",
+    "uikName": "УИК №1489",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1490,
     "uikTvd": "454402167355",
+    "uikName": "УИК №1490",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1491,
     "uikTvd": "454402167356",
+    "uikName": "УИК №1491",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1853,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1492,
     "uikTvd": "454402167357",
+    "uikName": "УИК №1492",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1372,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1493,
     "uikTvd": "454402167358",
+    "uikName": "УИК №1493",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2026,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1494,
     "uikTvd": "454402167359",
+    "uikName": "УИК №1494",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1874,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1495,
     "uikTvd": "454402167360",
+    "uikName": "УИК №1495",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1987,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1496,
     "uikTvd": "454402167361",
+    "uikName": "УИК №1496",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1756,
       "Число бюллетеней, полученных участковыми комиссиями": 2060,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1497,
     "uikTvd": "454402167362",
+    "uikName": "УИК №1497",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2203,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1498,
     "uikTvd": "454402167363",
+    "uikName": "УИК №1498",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2328,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1499,
     "uikTvd": "454402167364",
+    "uikName": "УИК №1499",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2106,
       "Число бюллетеней, полученных участковыми комиссиями": 2110,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1500,
     "uikTvd": "454402167365",
+    "uikName": "УИК №1500",
     "tikTvd": "354300367102",
     "tikName": "Новосибирск, Дзержинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2116,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1501,
     "uikTvd": "454402267264",
+    "uikName": "УИК №1501",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1978,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1502,
     "uikTvd": "454402267265",
+    "uikName": "УИК №1502",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2757,
       "Число бюллетеней, полученных участковыми комиссиями": 2989,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1503,
     "uikTvd": "454402267266",
+    "uikName": "УИК №1503",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2672,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1504,
     "uikTvd": "454402267267",
+    "uikName": "УИК №1504",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1964,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1505,
     "uikTvd": "454402267268",
+    "uikName": "УИК №1505",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2382,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1506,
     "uikTvd": "454402267269",
+    "uikName": "УИК №1506",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2518,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1507,
     "uikTvd": "454402267270",
+    "uikName": "УИК №1507",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2000,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1508,
     "uikTvd": "454402267271",
+    "uikName": "УИК №1508",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1715,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1509,
     "uikTvd": "454402267272",
+    "uikName": "УИК №1509",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2136,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1510,
     "uikTvd": "454402267273",
+    "uikName": "УИК №1510",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2821,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1511,
     "uikTvd": "454402267274",
+    "uikName": "УИК №1511",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2683,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1512,
     "uikTvd": "454402267275",
+    "uikName": "УИК №1512",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2521,
       "Число бюллетеней, полученных участковыми комиссиями": 2503,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1513,
     "uikTvd": "454402267276",
+    "uikName": "УИК №1513",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2783,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1514,
     "uikTvd": "454402267277",
+    "uikName": "УИК №1514",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1900,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1515,
     "uikTvd": "454402267278",
+    "uikName": "УИК №1515",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2771,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1516,
     "uikTvd": "454402267279",
+    "uikName": "УИК №1516",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2631,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1517,
     "uikTvd": "454402267280",
+    "uikName": "УИК №1517",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3062,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1518,
     "uikTvd": "454402267281",
+    "uikName": "УИК №1518",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3017,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1519,
     "uikTvd": "454402267282",
+    "uikName": "УИК №1519",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2987,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1520,
     "uikTvd": "454402267283",
+    "uikName": "УИК №1520",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3169,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1521,
     "uikTvd": "454402267284",
+    "uikName": "УИК №1521",
     "tikTvd": "354300367103",
     "tikName": "Новосибирск, Железнодорожная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2195,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1522,
     "uikTvd": "454402367520",
+    "uikName": "УИК №1522",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2115,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1523,
     "uikTvd": "454402367521",
+    "uikName": "УИК №1523",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2359,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1524,
     "uikTvd": "454402367522",
+    "uikName": "УИК №1524",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2956,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1525,
     "uikTvd": "454402367523",
+    "uikName": "УИК №1525",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1877,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1526,
     "uikTvd": "454402367524",
+    "uikName": "УИК №1526",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1220,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1527,
     "uikTvd": "454402367525",
+    "uikName": "УИК №1527",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1909,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1528,
     "uikTvd": "454402367526",
+    "uikName": "УИК №1528",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1876,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -2706,8 +3201,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1529,
     "uikTvd": "454402367527",
+    "uikName": "УИК №1529",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1799,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -2755,8 +3259,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1530,
     "uikTvd": "454402367528",
+    "uikName": "УИК №1530",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2506,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2804,8 +3317,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1531,
     "uikTvd": "454402367529",
+    "uikName": "УИК №1531",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2199,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -2853,8 +3375,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1532,
     "uikTvd": "454402367530",
+    "uikName": "УИК №1532",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2137,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -2902,8 +3433,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1533,
     "uikTvd": "454402367531",
+    "uikName": "УИК №1533",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1552,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -2951,8 +3491,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1534,
     "uikTvd": "454402367532",
+    "uikName": "УИК №1534",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2433,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3000,8 +3549,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1535,
     "uikTvd": "454402367533",
+    "uikName": "УИК №1535",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1984,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -3049,8 +3607,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1536,
     "uikTvd": "454402367534",
+    "uikName": "УИК №1536",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2693,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -3098,8 +3665,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1537,
     "uikTvd": "454402367535",
+    "uikName": "УИК №1537",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2212,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -3147,8 +3723,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1538,
     "uikTvd": "454402367536",
+    "uikName": "УИК №1538",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2335,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3196,8 +3781,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1539,
     "uikTvd": "454402367537",
+    "uikName": "УИК №1539",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1312,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -3245,8 +3839,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1540,
     "uikTvd": "454402367538",
+    "uikName": "УИК №1540",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2390,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -3294,8 +3897,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1541,
     "uikTvd": "454402367539",
+    "uikName": "УИК №1541",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1521,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3343,8 +3955,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1542,
     "uikTvd": "454402367540",
+    "uikName": "УИК №1542",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2120,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -3392,8 +4013,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1543,
     "uikTvd": "454402367541",
+    "uikName": "УИК №1543",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3441,8 +4071,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1544,
     "uikTvd": "454402367542",
+    "uikName": "УИК №1544",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -3490,8 +4129,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1545,
     "uikTvd": "454402367543",
+    "uikName": "УИК №1545",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1982,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -3539,8 +4187,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1546,
     "uikTvd": "454402367544",
+    "uikName": "УИК №1546",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1764,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -3588,8 +4245,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1547,
     "uikTvd": "454402367545",
+    "uikName": "УИК №1547",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1360,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -3637,8 +4303,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1548,
     "uikTvd": "454402367546",
+    "uikName": "УИК №1548",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2225,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -3686,8 +4361,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1549,
     "uikTvd": "454402367547",
+    "uikName": "УИК №1549",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2604,
       "Число бюллетеней, полученных участковыми комиссиями": 2610,
@@ -3735,8 +4419,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1550,
     "uikTvd": "454402367548",
+    "uikName": "УИК №1550",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2221,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3784,8 +4477,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1551,
     "uikTvd": "454402367549",
+    "uikName": "УИК №1551",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1612,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -3833,8 +4535,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1552,
     "uikTvd": "454402367550",
+    "uikName": "УИК №1552",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1478,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -3882,8 +4593,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1553,
     "uikTvd": "454402367551",
+    "uikName": "УИК №1553",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1914,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -3931,8 +4651,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1554,
     "uikTvd": "454402367552",
+    "uikName": "УИК №1554",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1929,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -3980,8 +4709,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1555,
     "uikTvd": "454402367553",
+    "uikName": "УИК №1555",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1863,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -4029,8 +4767,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1556,
     "uikTvd": "454402367554",
+    "uikName": "УИК №1556",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1784,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4078,8 +4825,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1557,
     "uikTvd": "454402367555",
+    "uikName": "УИК №1557",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1455,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -4127,8 +4883,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1558,
     "uikTvd": "454402367556",
+    "uikName": "УИК №1558",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1525,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -4176,8 +4941,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1559,
     "uikTvd": "454402367557",
+    "uikName": "УИК №1559",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1186,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -4225,8 +4999,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1560,
     "uikTvd": "454402367558",
+    "uikName": "УИК №1560",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1532,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -4274,8 +5057,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1561,
     "uikTvd": "454402367559",
+    "uikName": "УИК №1561",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2182,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -4323,8 +5115,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1562,
     "uikTvd": "454402367560",
+    "uikName": "УИК №1562",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 46,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4372,8 +5173,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1563,
     "uikTvd": "454402367561",
+    "uikName": "УИК №1563",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 687,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -4421,8 +5231,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1564,
     "uikTvd": "454402367562",
+    "uikName": "УИК №1564",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1535,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -4470,8 +5289,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1565,
     "uikTvd": "454402367563",
+    "uikName": "УИК №1565",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1316,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4519,8 +5347,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1566,
     "uikTvd": "454402367564",
+    "uikName": "УИК №1566",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1467,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -4568,8 +5405,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1567,
     "uikTvd": "454402367565",
+    "uikName": "УИК №1567",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1329,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -4617,8 +5463,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1568,
     "uikTvd": "454402367566",
+    "uikName": "УИК №1568",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1540,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4666,8 +5521,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1569,
     "uikTvd": "454402367567",
+    "uikName": "УИК №1569",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1592,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -4715,8 +5579,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1570,
     "uikTvd": "454402367568",
+    "uikName": "УИК №1570",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 18,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4764,8 +5637,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1571,
     "uikTvd": "454402367569",
+    "uikName": "УИК №1571",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2599,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -4813,8 +5695,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1572,
     "uikTvd": "454402367570",
+    "uikName": "УИК №1572",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1375,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4862,8 +5753,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1573,
     "uikTvd": "454402367571",
+    "uikName": "УИК №1573",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1584,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -4911,8 +5811,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1574,
     "uikTvd": "454402367572",
+    "uikName": "УИК №1574",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1653,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -4960,8 +5869,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1575,
     "uikTvd": "454402367573",
+    "uikName": "УИК №1575",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -5009,8 +5927,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1576,
     "uikTvd": "454402367574",
+    "uikName": "УИК №1576",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5058,8 +5985,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1577,
     "uikTvd": "454402367575",
+    "uikName": "УИК №1577",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1561,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -5107,8 +6043,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1578,
     "uikTvd": "454402367576",
+    "uikName": "УИК №1578",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1270,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -5156,8 +6101,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1579,
     "uikTvd": "454402367577",
+    "uikName": "УИК №1579",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -5205,8 +6159,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1580,
     "uikTvd": "454402367578",
+    "uikName": "УИК №1580",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1037,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -5254,8 +6217,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1581,
     "uikTvd": "454402367579",
+    "uikName": "УИК №1581",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2048,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -5303,8 +6275,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1582,
     "uikTvd": "454402367580",
+    "uikName": "УИК №1582",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1281,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -5352,8 +6333,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1583,
     "uikTvd": "454402367581",
+    "uikName": "УИК №1583",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1497,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -5401,8 +6391,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1584,
     "uikTvd": "454402367582",
+    "uikName": "УИК №1584",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1493,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -5450,8 +6449,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1585,
     "uikTvd": "454402367583",
+    "uikName": "УИК №1585",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2516,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5499,8 +6507,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1586,
     "uikTvd": "454402367584",
+    "uikName": "УИК №1586",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 648,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -5548,8 +6565,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1587,
     "uikTvd": "454402367585",
+    "uikName": "УИК №1587",
     "tikTvd": "354300367104",
     "tikName": "Новосибирск, Заельцовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -5597,8 +6623,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1588,
     "uikTvd": "454402467419",
+    "uikName": "УИК №1588",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2631,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5646,8 +6681,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1589,
     "uikTvd": "454402467420",
+    "uikName": "УИК №1589",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2697,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5695,8 +6739,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1590,
     "uikTvd": "454402467421",
+    "uikName": "УИК №1590",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2632,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5744,8 +6797,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1591,
     "uikTvd": "454402467422",
+    "uikName": "УИК №1591",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2421,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5793,8 +6855,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1592,
     "uikTvd": "454402467423",
+    "uikName": "УИК №1592",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 928,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -5842,8 +6913,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1593,
     "uikTvd": "454402467424",
+    "uikName": "УИК №1593",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2101,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5891,8 +6971,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1594,
     "uikTvd": "454402467425",
+    "uikName": "УИК №1594",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1751,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5940,8 +7029,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1595,
     "uikTvd": "454402467426",
+    "uikName": "УИК №1595",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1945,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5989,8 +7087,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1596,
     "uikTvd": "454402467427",
+    "uikName": "УИК №1596",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1687,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6038,8 +7145,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1597,
     "uikTvd": "454402467428",
+    "uikName": "УИК №1597",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1399,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6087,8 +7203,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1598,
     "uikTvd": "454402467429",
+    "uikName": "УИК №1598",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1486,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6136,8 +7261,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1599,
     "uikTvd": "454402467430",
+    "uikName": "УИК №1599",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2061,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6185,8 +7319,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1600,
     "uikTvd": "454402467431",
+    "uikName": "УИК №1600",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1639,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6234,8 +7377,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1601,
     "uikTvd": "454402467432",
+    "uikName": "УИК №1601",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2012,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6283,8 +7435,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1602,
     "uikTvd": "454402467433",
+    "uikName": "УИК №1602",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1365,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6332,8 +7493,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1603,
     "uikTvd": "454402467434",
+    "uikName": "УИК №1603",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1524,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6381,8 +7551,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1604,
     "uikTvd": "454402467435",
+    "uikName": "УИК №1604",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1177,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6430,8 +7609,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1605,
     "uikTvd": "454402467436",
+    "uikName": "УИК №1605",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1401,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6479,8 +7667,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1606,
     "uikTvd": "454402467437",
+    "uikName": "УИК №1606",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1991,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6528,8 +7725,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1607,
     "uikTvd": "454402467438",
+    "uikName": "УИК №1607",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1899,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6577,8 +7783,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1608,
     "uikTvd": "454402467439",
+    "uikName": "УИК №1608",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 196,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -6626,8 +7841,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1609,
     "uikTvd": "454402467440",
+    "uikName": "УИК №1609",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1508,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6675,8 +7899,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1610,
     "uikTvd": "454402467441",
+    "uikName": "УИК №1610",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6724,8 +7957,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1611,
     "uikTvd": "454402467442",
+    "uikName": "УИК №1611",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1995,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6773,8 +8015,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1612,
     "uikTvd": "454402467443",
+    "uikName": "УИК №1612",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1686,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6822,8 +8073,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1613,
     "uikTvd": "454402467444",
+    "uikName": "УИК №1613",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1383,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6871,8 +8131,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1614,
     "uikTvd": "454402467445",
+    "uikName": "УИК №1614",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6920,8 +8189,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1615,
     "uikTvd": "454402467446",
+    "uikName": "УИК №1615",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2135,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6969,8 +8247,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1616,
     "uikTvd": "454402467447",
+    "uikName": "УИК №1616",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2159,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7018,8 +8305,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1617,
     "uikTvd": "454402467448",
+    "uikName": "УИК №1617",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1466,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7067,8 +8363,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1618,
     "uikTvd": "454402467449",
+    "uikName": "УИК №1618",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2643,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7116,8 +8421,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1619,
     "uikTvd": "454402467450",
+    "uikName": "УИК №1619",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1614,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7165,8 +8479,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1620,
     "uikTvd": "454402467451",
+    "uikName": "УИК №1620",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7214,8 +8537,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1621,
     "uikTvd": "454402467452",
+    "uikName": "УИК №1621",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7263,8 +8595,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1622,
     "uikTvd": "454402467453",
+    "uikName": "УИК №1622",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1382,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -7312,8 +8653,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1623,
     "uikTvd": "454402467454",
+    "uikName": "УИК №1623",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2843,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7361,8 +8711,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1624,
     "uikTvd": "454402467455",
+    "uikName": "УИК №1624",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7410,8 +8769,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1625,
     "uikTvd": "454402467456",
+    "uikName": "УИК №1625",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1558,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7459,8 +8827,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1626,
     "uikTvd": "454402467457",
+    "uikName": "УИК №1626",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2320,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7508,8 +8885,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1627,
     "uikTvd": "454402467458",
+    "uikName": "УИК №1627",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2930,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7557,8 +8943,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1628,
     "uikTvd": "454402467459",
+    "uikName": "УИК №1628",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2282,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7606,8 +9001,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1629,
     "uikTvd": "454402467460",
+    "uikName": "УИК №1629",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2839,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7655,8 +9059,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1630,
     "uikTvd": "454402467461",
+    "uikName": "УИК №1630",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2994,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -7704,8 +9117,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1631,
     "uikTvd": "454402467462",
+    "uikName": "УИК №1631",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2780,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7753,8 +9175,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1632,
     "uikTvd": "454402467463",
+    "uikName": "УИК №1632",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2735,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7802,8 +9233,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1633,
     "uikTvd": "454402467464",
+    "uikName": "УИК №1633",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2806,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7851,8 +9291,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1634,
     "uikTvd": "454402467465",
+    "uikName": "УИК №1634",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2694,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7900,8 +9349,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1635,
     "uikTvd": "454402467466",
+    "uikName": "УИК №1635",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2788,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7949,8 +9407,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1636,
     "uikTvd": "454402467467",
+    "uikName": "УИК №1636",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2781,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7998,8 +9465,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1637,
     "uikTvd": "454402467468",
+    "uikName": "УИК №1637",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2736,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8047,8 +9523,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1638,
     "uikTvd": "454402467469",
+    "uikName": "УИК №1638",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2794,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8096,8 +9581,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1639,
     "uikTvd": "454402467470",
+    "uikName": "УИК №1639",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2913,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -8145,8 +9639,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1640,
     "uikTvd": "454402467471",
+    "uikName": "УИК №1640",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2916,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -8194,8 +9697,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1641,
     "uikTvd": "454402467472",
+    "uikName": "УИК №1641",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2507,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8243,8 +9755,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1642,
     "uikTvd": "454402467473",
+    "uikName": "УИК №1642",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2168,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8292,8 +9813,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1643,
     "uikTvd": "454402467474",
+    "uikName": "УИК №1643",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2396,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8341,8 +9871,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1644,
     "uikTvd": "454402467475",
+    "uikName": "УИК №1644",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2225,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8390,8 +9929,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1645,
     "uikTvd": "454402467476",
+    "uikName": "УИК №1645",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2288,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8439,8 +9987,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1646,
     "uikTvd": "454402467477",
+    "uikName": "УИК №1646",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2675,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8488,8 +10045,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1647,
     "uikTvd": "454402467478",
+    "uikName": "УИК №1647",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2452,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8537,8 +10103,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1648,
     "uikTvd": "454402467479",
+    "uikName": "УИК №1648",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2911,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8586,8 +10161,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1649,
     "uikTvd": "454402467480",
+    "uikName": "УИК №1649",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2829,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8635,8 +10219,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1650,
     "uikTvd": "454402467481",
+    "uikName": "УИК №1650",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2904,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8684,8 +10277,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1651,
     "uikTvd": "454402467482",
+    "uikName": "УИК №1651",
     "tikTvd": "354300367105",
     "tikName": "Новосибирск, Калининская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2925,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8733,8 +10335,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1961,
     "uikTvd": "454403066824",
+    "uikName": "УИК  1961",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1858,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8782,8 +10393,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1962,
     "uikTvd": "454403066662",
+    "uikName": "УИК  1962",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2283,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8831,8 +10451,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1963,
     "uikTvd": "454403066882",
+    "uikName": "УИК  1963",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1894,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8880,8 +10509,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1964,
     "uikTvd": "454403066664",
+    "uikName": "УИК  1964",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1473,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8929,8 +10567,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1965,
     "uikTvd": "454403066665",
+    "uikName": "УИК  1965",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1877,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8978,8 +10625,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1966,
     "uikTvd": "454403066666",
+    "uikName": "УИК  1966",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2157,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9027,8 +10683,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1967,
     "uikTvd": "454403066667",
+    "uikName": "УИК  1967",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9076,8 +10741,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1968,
     "uikTvd": "454403066668",
+    "uikName": "УИК  1968",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1646,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9125,8 +10799,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1969,
     "uikTvd": "454403066669",
+    "uikName": "УИК  1969",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1754,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9174,8 +10857,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1970,
     "uikTvd": "454403066670",
+    "uikName": "УИК  1970",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1532,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9223,8 +10915,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1971,
     "uikTvd": "454403066671",
+    "uikName": "УИК  1971",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1992,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9272,8 +10973,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1972,
     "uikTvd": "454403066672",
+    "uikName": "УИК  1972",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9321,8 +11031,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1973,
     "uikTvd": "454403066673",
+    "uikName": "УИК  1973",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2206,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9370,8 +11089,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1974,
     "uikTvd": "454403066674",
+    "uikName": "УИК  1974",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2583,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9419,8 +11147,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1975,
     "uikTvd": "454403066675",
+    "uikName": "УИК  1975",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2364,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9468,8 +11205,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1976,
     "uikTvd": "454403066676",
+    "uikName": "УИК  1976",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2370,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9517,8 +11263,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1977,
     "uikTvd": "454403066677",
+    "uikName": "УИК  1977",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1640,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9566,8 +11321,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1978,
     "uikTvd": "454403066678",
+    "uikName": "УИК  1978",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2257,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9615,8 +11379,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1979,
     "uikTvd": "454403066679",
+    "uikName": "УИК  1979",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9664,8 +11437,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1980,
     "uikTvd": "454403066680",
+    "uikName": "УИК  1980",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2473,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9713,8 +11495,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1981,
     "uikTvd": "454403066681",
+    "uikName": "УИК  1981",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2529,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9762,8 +11553,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1982,
     "uikTvd": "454403066682",
+    "uikName": "УИК  1982",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1458,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9811,8 +11611,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1983,
     "uikTvd": "454403066683",
+    "uikName": "УИК  1983",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2613,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9860,8 +11669,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1984,
     "uikTvd": "454403066684",
+    "uikName": "УИК  1984",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2992,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -9909,8 +11727,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1985,
     "uikTvd": "454403066685",
+    "uikName": "УИК  1985",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2838,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9958,8 +11785,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1986,
     "uikTvd": "454403066686",
+    "uikName": "УИК  1986",
     "tikTvd": "354300367106",
     "tikName": "Новосибирск, Центральная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 126,
+      "oikTvd": "100100095905",
+      "oikName": "Заельцовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2980,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -10007,8 +11843,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1308,
     "uikTvd": "454400366724",
+    "uikName": "УИК №1308",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1814,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -10056,8 +11901,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1309,
     "uikTvd": "454400366725",
+    "uikName": "УИК №1309",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1005,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -10105,8 +11959,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1310,
     "uikTvd": "454400366726",
+    "uikName": "УИК №1310",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 652,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10154,8 +12017,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1311,
     "uikTvd": "454400366727",
+    "uikName": "УИК №1311",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2355,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -10203,8 +12075,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1312,
     "uikTvd": "454400366728",
+    "uikName": "УИК №1312",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2155,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10252,8 +12133,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1313,
     "uikTvd": "454400366729",
+    "uikName": "УИК №1313",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1791,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -10301,8 +12191,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1314,
     "uikTvd": "454400366730",
+    "uikName": "УИК №1314",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1947,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -10350,8 +12249,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1315,
     "uikTvd": "454400366731",
+    "uikName": "УИК №1315",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1709,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -10399,8 +12307,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1316,
     "uikTvd": "454400366732",
+    "uikName": "УИК №1316",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1659,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -10448,8 +12365,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1317,
     "uikTvd": "454400366733",
+    "uikName": "УИК №1317",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1784,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -10497,8 +12423,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1318,
     "uikTvd": "454400366734",
+    "uikName": "УИК №1318",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -10546,8 +12481,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1319,
     "uikTvd": "454400366735",
+    "uikName": "УИК №1319",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1817,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -10595,8 +12539,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1320,
     "uikTvd": "454400366736",
+    "uikName": "УИК №1320",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1701,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -10644,8 +12597,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1321,
     "uikTvd": "454400366737",
+    "uikName": "УИК №1321",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1843,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -10693,8 +12655,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1322,
     "uikTvd": "454400366738",
+    "uikName": "УИК №1322",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1752,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -10742,8 +12713,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1323,
     "uikTvd": "454400366739",
+    "uikName": "УИК №1323",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1806,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -10791,8 +12771,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1324,
     "uikTvd": "454400366740",
+    "uikName": "УИК №1324",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1759,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -10840,8 +12829,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1325,
     "uikTvd": "454400366741",
+    "uikName": "УИК №1325",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1872,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -10889,8 +12887,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1326,
     "uikTvd": "454400366742",
+    "uikName": "УИК №1326",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1945,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -10938,8 +12945,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1327,
     "uikTvd": "454400366743",
+    "uikName": "УИК №1327",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2020,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -10987,8 +13003,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1328,
     "uikTvd": "454400366744",
+    "uikName": "УИК №1328",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1849,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -11036,8 +13061,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1329,
     "uikTvd": "454400366745",
+    "uikName": "УИК №1329",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2588,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -11085,8 +13119,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1330,
     "uikTvd": "454400366746",
+    "uikName": "УИК №1330",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1960,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -11134,8 +13177,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1331,
     "uikTvd": "454400366747",
+    "uikName": "УИК №1331",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1786,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11183,8 +13235,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1332,
     "uikTvd": "454400366748",
+    "uikName": "УИК №1332",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1820,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -11232,8 +13293,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1333,
     "uikTvd": "454400366749",
+    "uikName": "УИК №1333",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -11281,8 +13351,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1334,
     "uikTvd": "454400366750",
+    "uikName": "УИК №1334",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1921,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11330,8 +13409,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1335,
     "uikTvd": "454400366751",
+    "uikName": "УИК №1335",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1956,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11379,8 +13467,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1336,
     "uikTvd": "454400366752",
+    "uikName": "УИК №1336",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2058,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -11428,8 +13525,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1337,
     "uikTvd": "454400366753",
+    "uikName": "УИК №1337",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1806,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -11477,8 +13583,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1338,
     "uikTvd": "454400366754",
+    "uikName": "УИК №1338",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1886,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11526,8 +13641,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1339,
     "uikTvd": "454400366755",
+    "uikName": "УИК №1339",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1827,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -11575,8 +13699,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1340,
     "uikTvd": "454400366756",
+    "uikName": "УИК №1340",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1955,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -11624,8 +13757,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1341,
     "uikTvd": "454400366757",
+    "uikName": "УИК №1341",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1728,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -11673,8 +13815,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1342,
     "uikTvd": "454400366758",
+    "uikName": "УИК №1342",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1641,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -11722,8 +13873,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1343,
     "uikTvd": "454400366759",
+    "uikName": "УИК №1343",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1664,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11771,8 +13931,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1344,
     "uikTvd": "454400366760",
+    "uikName": "УИК №1344",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1761,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -11820,8 +13989,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1345,
     "uikTvd": "454400366761",
+    "uikName": "УИК №1345",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1710,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -11869,8 +14047,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1346,
     "uikTvd": "454400366762",
+    "uikName": "УИК №1346",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1697,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -11918,8 +14105,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1347,
     "uikTvd": "454400366763",
+    "uikName": "УИК №1347",
     "tikTvd": "354300467265",
     "tikName": "Бердская городская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1786,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11967,8 +14163,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "454400466738",
+    "uikName": "УИК №81",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -12016,8 +14221,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "454400466739",
+    "uikName": "УИК №82",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -12065,8 +14279,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "454400466740",
+    "uikName": "УИК №83",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -12114,8 +14337,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "454400466741",
+    "uikName": "УИК №84",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 680,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -12163,8 +14395,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "454400466742",
+    "uikName": "УИК №85",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -12212,8 +14453,17 @@ export const duma_2003_uik_428_region_54_part_006 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "454400466743",
+    "uikName": "УИК №86",
     "tikTvd": "354300467267",
     "tikName": "Болотнинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 127,
+      "oikTvd": "100100095906",
+      "oikName": "Искитимский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 578,
       "Число бюллетеней, полученных участковыми комиссиями": 580,

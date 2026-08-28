@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 827,
     "uikTvd": "443402770461",
+    "uikName": "УИК №827",
     "tikTvd": "243200070847",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 633,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 828,
     "uikTvd": "443402770462",
+    "uikName": "УИК №828",
     "tikTvd": "243200070847",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 829,
     "uikTvd": "443402770463",
+    "uikName": "УИК №829",
     "tikTvd": "243200070847",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 917,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 830,
     "uikTvd": "443402770464",
+    "uikName": "УИК №830",
     "tikTvd": "243200070847",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 831,
     "uikTvd": "443402770465",
+    "uikName": "УИК №831",
     "tikTvd": "243200070847",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 832,
     "uikTvd": "443402770466",
+    "uikName": "УИК №832",
     "tikTvd": "243200070847",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 833,
     "uikTvd": "443402770467",
+    "uikName": "УИК №833",
     "tikTvd": "243200070847",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 768,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 834,
     "uikTvd": "443402770468",
+    "uikName": "УИК №834",
     "tikTvd": "243200070847",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 792,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 835,
     "uikTvd": "443402770469",
+    "uikName": "УИК №835",
     "tikTvd": "243200070847",
     "tikName": "Нолинская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1227,
     "uikTvd": "443404270464",
+    "uikName": "УИК №1227",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1228,
     "uikTvd": "443404270465",
+    "uikName": "УИК №1228",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1229,
     "uikTvd": "443404270466",
+    "uikName": "УИК №1229",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 639,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1230,
     "uikTvd": "443404270467",
+    "uikName": "УИК №1230",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1231,
     "uikTvd": "443404270468",
+    "uikName": "УИК №1231",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1232,
     "uikTvd": "443404270469",
+    "uikName": "УИК №1232",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 576,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1233,
     "uikTvd": "443404270470",
+    "uikName": "УИК №1233",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 505,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1234,
     "uikTvd": "443404270471",
+    "uikName": "УИК №1234",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1235,
     "uikTvd": "443404270472",
+    "uikName": "УИК №1235",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1236,
     "uikTvd": "443404270473",
+    "uikName": "УИК №1236",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1237,
     "uikTvd": "443404270474",
+    "uikName": "УИК №1237",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1238,
     "uikTvd": "443404270475",
+    "uikName": "УИК №1238",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1239,
     "uikTvd": "443404270476",
+    "uikName": "УИК №1239",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1240,
     "uikTvd": "443404270477",
+    "uikName": "УИК №1240",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1241,
     "uikTvd": "443404270478",
+    "uikName": "УИК №1241",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1242,
     "uikTvd": "443404270479",
+    "uikName": "УИК №1242",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 323,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1243,
     "uikTvd": "443404270480",
+    "uikName": "УИК №1243",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 780,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1244,
     "uikTvd": "443404270481",
+    "uikName": "УИК №1244",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 349,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1245,
     "uikTvd": "443404270482",
+    "uikName": "УИК №1245",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1246,
     "uikTvd": "443404270483",
+    "uikName": "УИК №1246",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1247,
     "uikTvd": "443404270484",
+    "uikName": "УИК №1247",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1609,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1248,
     "uikTvd": "443404270485",
+    "uikName": "УИК №1248",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1061,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1249,
     "uikTvd": "443404270486",
+    "uikName": "УИК №1249",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 591,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1250,
     "uikTvd": "443404270487",
+    "uikName": "УИК №1250",
     "tikTvd": "243200070848",
     "tikName": "Фаленская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1181,
     "uikTvd": "443404170510",
+    "uikName": "УИК №1181",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1307,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1182,
     "uikTvd": "443404170511",
+    "uikName": "УИК №1182",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1094,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1183,
     "uikTvd": "443404170512",
+    "uikName": "УИК №1183",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1851,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1184,
     "uikTvd": "443404170513",
+    "uikName": "УИК №1184",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1456,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1185,
     "uikTvd": "443404170514",
+    "uikName": "УИК №1185",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1366,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1186,
     "uikTvd": "443404170515",
+    "uikName": "УИК №1186",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1716,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1187,
     "uikTvd": "443404170516",
+    "uikName": "УИК №1187",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 643,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1188,
     "uikTvd": "443404170517",
+    "uikName": "УИК №1188",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1189,
     "uikTvd": "443404170518",
+    "uikName": "УИК №1189",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 684,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1190,
     "uikTvd": "443404170519",
+    "uikName": "УИК №1190",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1087,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1191,
     "uikTvd": "443404170520",
+    "uikName": "УИК №1191",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 113,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1192,
     "uikTvd": "443404170521",
+    "uikName": "УИК №1192",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1193,
     "uikTvd": "443404170522",
+    "uikName": "УИК №1193",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 782,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1194,
     "uikTvd": "443404170523",
+    "uikName": "УИК №1194",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1195,
     "uikTvd": "443404170524",
+    "uikName": "УИК №1195",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 357,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1196,
     "uikTvd": "443404170525",
+    "uikName": "УИК №1196",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 532,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1197,
     "uikTvd": "443404170526",
+    "uikName": "УИК №1197",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1198,
     "uikTvd": "443404170527",
+    "uikName": "УИК №1198",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1199,
     "uikTvd": "443404170528",
+    "uikName": "УИК №1199",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1200,
     "uikTvd": "443404170529",
+    "uikName": "УИК №1200",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1201,
     "uikTvd": "443404170530",
+    "uikName": "УИК №1201",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1050,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1202,
     "uikTvd": "443404170531",
+    "uikName": "УИК №1202",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1203,
     "uikTvd": "443404170532",
+    "uikName": "УИК №1203",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1204,
     "uikTvd": "443404170533",
+    "uikName": "УИК №1204",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1205,
     "uikTvd": "443404170534",
+    "uikName": "УИК №1205",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -2737,8 +3259,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1206,
     "uikTvd": "443404170535",
+    "uikName": "УИК №1206",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -2784,8 +3315,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1207,
     "uikTvd": "443404170536",
+    "uikName": "УИК №1207",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -2831,8 +3371,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1208,
     "uikTvd": "443404170537",
+    "uikName": "УИК №1208",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -2878,8 +3427,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1209,
     "uikTvd": "443404170538",
+    "uikName": "УИК №1209",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -2925,8 +3483,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1210,
     "uikTvd": "443404170539",
+    "uikName": "УИК №1210",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -2972,8 +3539,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1211,
     "uikTvd": "443404170540",
+    "uikName": "УИК №1211",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1110,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1212,
     "uikTvd": "443404170541",
+    "uikName": "УИК №1212",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -3066,8 +3651,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1213,
     "uikTvd": "443404170542",
+    "uikName": "УИК №1213",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 349,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3113,8 +3707,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1214,
     "uikTvd": "443404170543",
+    "uikName": "УИК №1214",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -3160,8 +3763,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1215,
     "uikTvd": "443404170544",
+    "uikName": "УИК №1215",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -3207,8 +3819,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1216,
     "uikTvd": "443404170545",
+    "uikName": "УИК №1216",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -3254,8 +3875,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1217,
     "uikTvd": "443404170546",
+    "uikName": "УИК №1217",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -3301,8 +3931,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1218,
     "uikTvd": "443404170547",
+    "uikName": "УИК №1218",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 765,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -3348,8 +3987,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1219,
     "uikTvd": "443404170548",
+    "uikName": "УИК №1219",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 426,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -3395,8 +4043,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1220,
     "uikTvd": "443404170549",
+    "uikName": "УИК №1220",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -3442,8 +4099,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1221,
     "uikTvd": "443404170550",
+    "uikName": "УИК №1221",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 68,
@@ -3489,8 +4155,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1222,
     "uikTvd": "443404170551",
+    "uikName": "УИК №1222",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 414,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -3536,8 +4211,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1223,
     "uikTvd": "443404170552",
+    "uikName": "УИК №1223",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1129,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3583,8 +4267,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1224,
     "uikTvd": "443404170553",
+    "uikName": "УИК №1224",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -3630,8 +4323,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1225,
     "uikTvd": "443404170554",
+    "uikName": "УИК №1225",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -3677,8 +4379,17 @@ export const duma_2003_uik_428_region_43_part_006 = [
     "ballot": "single-member",
     "uikNumber": 1226,
     "uikTvd": "443404170555",
+    "uikName": "УИК №1226",
     "tikTvd": "243200070849",
     "tikName": "Уржумская",
+    "regionCode": "43",
+    "regionTvd": "100100095684",
+    "regionName": "Кировская область",
+    "district": {
+      "districtNumber": 94,
+      "oikTvd": "100100095686",
+      "oikName": "Советский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 257,

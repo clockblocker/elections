@@ -24,6 +24,7 @@ REPORT_KIND = {
     463: ("uik", "candidate"),
 }
 UIK_RE = re.compile(r"^(?:УИК|Участок)\s*№?\s*(\d+)$", re.IGNORECASE)
+OIK_RE = re.compile(r"^(?:ОИК)\s*№?\s*(\d+)$", re.IGNORECASE)
 LINK_RE = re.compile(r"href=[\"']([^\"']+)[\"']", re.IGNORECASE)
 
 
@@ -45,7 +46,9 @@ def merge_hierarchy(payloads: Iterable[tuple[bytes, str]]) -> list[dict[str, Any
     return [asdict(merged[key]) for key in sorted(merged)]
 
 
-def hierarchy_summary(nodes: list[dict[str, Any]]) -> dict[str, Any]:
+def hierarchy_summary(
+    nodes: list[dict[str, Any]], *, include_oik: bool = False
+) -> dict[str, Any]:
     by_id = {str(node["node_id"]): node for node in nodes if node.get("node_id")}
     children: defaultdict[str, list[dict[str, Any]]] = defaultdict(list)
     for node in nodes:
@@ -57,37 +60,92 @@ def hierarchy_summary(nodes: list[dict[str, Any]]) -> dict[str, Any]:
         if node.get("is_uik") or UIK_RE.match(str(node.get("text", "")))
     ]
     tik_ids = sorted({str(node["parent_id"]) for node in uiks if node.get("parent_id")})
-    roots = [node for node in nodes if node.get("parent_id") is None]
+    root_ids = {
+        str(node["node_id"])
+        for node in nodes
+        if node.get("node_id") and node.get("parent_id") is None
+    }
     region_ids = {
         str(node["node_id"])
         for node in nodes
-        if any(str(root.get("node_id")) == str(node.get("parent_id")) for root in roots)
+        if node.get("node_id") and str(node.get("parent_id")) in root_ids
     }
     unresolved = [
         str(node["node_id"])
         for node in nodes
         if node.get("load_on_demand") and not children[str(node["node_id"])]
     ]
+    relations: list[dict[str, Any]] = []
+    district_ids: set[str] = set()
+    for node in sorted(
+        uiks,
+        key=lambda item: (str(item.get("region")), str(item.get("node_id"))),
+    ):
+        uik_match = UIK_RE.match(str(node.get("text", "")))
+        if not uik_match or not node.get("parent_id"):
+            continue
+        tik = by_id.get(str(node["parent_id"]), {})
+        chain: list[dict[str, Any]] = []
+        current = tik
+        seen: set[str] = set()
+        while current and current.get("node_id"):
+            current_id = str(current["node_id"])
+            if current_id in seen:
+                raise ValueError(f"hierarchy cycle at {current_id}")
+            seen.add(current_id)
+            chain.append(current)
+            parent_id = current.get("parent_id")
+            if parent_id is None:
+                break
+            current = by_id.get(str(parent_id), {})
+        region = next(
+            (ancestor for ancestor in chain if str(ancestor.get("node_id")) in region_ids),
+            {},
+        )
+        # Intermediate tiers are election-specific. 2007/2011, for example, have
+        # territorial grouping nodes at this depth which are not OIKs. Callers for
+        # a known single-member hierarchy opt in to interpreting the sole tier.
+        between = []
+        if region:
+            for ancestor in chain:
+                if str(ancestor.get("node_id")) == str(region.get("node_id")):
+                    break
+                if str(ancestor.get("node_id")) != str(tik.get("node_id")):
+                    between.append(ancestor)
+        oik = between[0] if include_oik and len(between) == 1 else {}
+        if oik.get("node_id"):
+            district_ids.add(str(oik["node_id"]))
+        district_match = OIK_RE.match(str(oik.get("text", ""))) if oik else None
+        relation = {
+            "uik_number": int(uik_match.group(1)),
+            "uik_tvd": str(node["node_id"]),
+            "uik_name": str(node.get("text", "")),
+            "tik_tvd": str(node["parent_id"]),
+            "tik_name": str(tik.get("text", "")),
+            # ``region`` is retained for compatibility with existing callers.
+            "region": str(node.get("region") or region.get("region") or ""),
+            "region_code": str(region.get("region") or node.get("region") or ""),
+            "region_tvd": str(region.get("node_id") or ""),
+            "region_name": str(region.get("text") or ""),
+        }
+        if oik:
+            relation.update(
+                {
+                    "oik_tvd": str(oik.get("node_id") or ""),
+                    "oik_name": str(oik.get("text") or ""),
+                }
+            )
+            if district_match:
+                relation["district_number"] = int(district_match.group(1))
+        relations.append(relation)
     return {
         "regions": len(region_ids),
+        "districts": len(district_ids),
         "tiks": len(tik_ids),
         "uiks": len(uiks),
         "unresolved_load_nodes": unresolved,
         "complete": not unresolved,
-        "uik_to_tik": [
-            {
-                "uik_number": int(UIK_RE.match(str(node["text"])).group(1)),
-                "uik_tvd": str(node["node_id"]),
-                "tik_tvd": str(node["parent_id"]),
-                "tik_name": str(by_id.get(str(node["parent_id"]), {}).get("text", "")),
-                "region": str(node.get("region") or ""),
-            }
-            for node in sorted(
-                uiks,
-                key=lambda item: (str(item.get("region")), str(item.get("node_id"))),
-            )
-            if UIK_RE.match(str(node.get("text", "")))
-        ],
+        "uik_to_tik": relations,
     }
 
 
@@ -152,8 +210,10 @@ def make_plan(
     direct_uik: bool = False,
     region_filter: set[str] | None = None,
     report_links: dict[str, dict[str, str]] | None = None,
+    candidate_registries: list[dict[str, Any]] | None = None,
+    include_oik: bool = False,
 ) -> dict[str, Any]:
-    summary = hierarchy_summary(nodes)
+    summary = hierarchy_summary(nodes, include_oik=include_oik)
     by_id = {str(node["node_id"]): node for node in nodes if node.get("node_id")}
     requests: list[dict[str, Any]] = []
     mappings = summary["uik_to_tik"]
@@ -195,13 +255,30 @@ def make_plan(
                         "url_source": "synthesized",
                     }
                 )
+    for district in candidate_registries or []:
+        if region_filter and str(district.get("region_code")) not in region_filter:
+            continue
+        requests.append(
+            {
+                "class": "district-220",
+                "report_type": 220,
+                "entity_id": str(district["oik_tvd"]),
+                "oik_tvd": str(district["oik_tvd"]),
+                "district_number": int(district["district_number"]),
+                "region": str(district.get("region_code") or ""),
+                "region_tvd": str(district.get("region_tvd") or ""),
+                "url": str(district["candidate_registry_url"]),
+                "url_source": "official-navigation",
+            }
+        )
     counts = Counter(item["class"] for item in requests)
     url_sources = Counter(item["url_source"] for item in requests)
     return {
         "schema_version": 1,
         "election_vrn": DUMA_VRN,
         "hierarchy": {
-            key: summary[key] for key in ("regions", "tiks", "uiks", "complete")
+            key: summary[key]
+            for key in ("regions", "districts", "tiks", "uiks", "complete")
         },
         "request_classes": dict(sorted(counts.items())),
         "url_sources": dict(sorted(url_sources.items())),

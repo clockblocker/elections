@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "442400567710",
+    "uikName": "УИК  166",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 824,
       "Число бюллетеней, полученных участковыми комиссиями": 777,
@@ -56,8 +65,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "442400567711",
+    "uikName": "УИК  167",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 579,
       "Число бюллетеней, полученных участковыми комиссиями": 583,
@@ -101,8 +119,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "442400567712",
+    "uikName": "УИК  168",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1603,
       "Число бюллетеней, полученных участковыми комиссиями": 1593,
@@ -146,8 +173,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "442400567713",
+    "uikName": "УИК  169",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1339,
       "Число бюллетеней, полученных участковыми комиссиями": 1333,
@@ -191,8 +227,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "442400567714",
+    "uikName": "УИК  170",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 960,
       "Число бюллетеней, полученных участковыми комиссиями": 1038,
@@ -236,8 +281,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "442400567715",
+    "uikName": "УИК  171",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1027,
       "Число бюллетеней, полученных участковыми комиссиями": 1082,
@@ -281,8 +335,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "442400567716",
+    "uikName": "УИК  172",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 501,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -326,8 +389,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "442400567717",
+    "uikName": "УИК  173",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1126,
       "Число бюллетеней, полученных участковыми комиссиями": 1138,
@@ -371,8 +443,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "442400567718",
+    "uikName": "УИК  174",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 555,
       "Число бюллетеней, полученных участковыми комиссиями": 662,
@@ -416,8 +497,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "442400567719",
+    "uikName": "УИК  175",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 903,
       "Число бюллетеней, полученных участковыми комиссиями": 904,
@@ -461,8 +551,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "442400567720",
+    "uikName": "УИК  176",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -506,8 +605,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "442400567721",
+    "uikName": "УИК  177",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -551,8 +659,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "442400567722",
+    "uikName": "УИК  178",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 652,
       "Число бюллетеней, полученных участковыми комиссиями": 735,
@@ -596,8 +713,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "442400567723",
+    "uikName": "УИК  179",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 914,
       "Число бюллетеней, полученных участковыми комиссиями": 948,
@@ -641,8 +767,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "442400567724",
+    "uikName": "УИК  180",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1053,
       "Число бюллетеней, полученных участковыми комиссиями": 1112,
@@ -686,8 +821,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "442400567725",
+    "uikName": "УИК  181",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1057,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -731,8 +875,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "442400567726",
+    "uikName": "УИК  182",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1168,
       "Число бюллетеней, полученных участковыми комиссиями": 1149,
@@ -776,8 +929,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "442400567727",
+    "uikName": "УИК  183",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1201,
       "Число бюллетеней, полученных участковыми комиссиями": 1222,
@@ -821,8 +983,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "442400567728",
+    "uikName": "УИК  184",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -866,8 +1037,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "442400567729",
+    "uikName": "УИК  185",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 356,
@@ -911,8 +1091,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "442400567730",
+    "uikName": "УИК  186",
     "tikTvd": "342300467002",
     "tikName": "Гурьевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 729,
@@ -956,8 +1145,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "442401366850",
+    "uikName": "УИК №366",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1059,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1001,8 +1199,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "442401366851",
+    "uikName": "УИК №367",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1851,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1046,8 +1253,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "442401366852",
+    "uikName": "УИК №368",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 715,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1091,8 +1307,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "442401366853",
+    "uikName": "УИК №369",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1136,8 +1361,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "442401366854",
+    "uikName": "УИК №370",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 718,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1181,8 +1415,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "442401366855",
+    "uikName": "УИК №371",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 912,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1226,8 +1469,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "442401366856",
+    "uikName": "УИК №372",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 713,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1271,8 +1523,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "442401366857",
+    "uikName": "УИК №373",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1316,8 +1577,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "442401366858",
+    "uikName": "УИК №374",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 767,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1361,8 +1631,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "442401366859",
+    "uikName": "УИК №375",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1230,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1406,8 +1685,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "442401366860",
+    "uikName": "УИК №376",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1246,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1451,8 +1739,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "442401366861",
+    "uikName": "УИК №377",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2008,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1496,8 +1793,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "442401366862",
+    "uikName": "УИК №378",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1541,8 +1847,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "442401366863",
+    "uikName": "УИК №379",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 775,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -1586,8 +1901,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "442401366864",
+    "uikName": "УИК №380",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1854,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1631,8 +1955,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "442401366865",
+    "uikName": "УИК №381",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1355,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1676,8 +2009,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "442401366866",
+    "uikName": "УИК №382",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 836,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1721,8 +2063,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "442401366867",
+    "uikName": "УИК №383",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2399,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1766,8 +2117,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "442401366868",
+    "uikName": "УИК №384",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1145,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1811,8 +2171,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "442401366869",
+    "uikName": "УИК №385",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 755,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1856,8 +2225,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "442401366870",
+    "uikName": "УИК №386",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1013,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1901,8 +2279,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "442401366871",
+    "uikName": "УИК №387",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1127,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -1946,8 +2333,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "442401366872",
+    "uikName": "УИК №388",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1667,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1991,8 +2387,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "442401366873",
+    "uikName": "УИК №389",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1086,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2036,8 +2441,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "442401366874",
+    "uikName": "УИК №390",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1677,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2081,8 +2495,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "442401366875",
+    "uikName": "УИК №391",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2242,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2126,8 +2549,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "442401366876",
+    "uikName": "УИК №392",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1867,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2171,8 +2603,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "442401366877",
+    "uikName": "УИК №393",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1436,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2216,8 +2657,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "442401366878",
+    "uikName": "УИК №394",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1170,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2261,8 +2711,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "442401366879",
+    "uikName": "УИК №395",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1307,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2306,8 +2765,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "442401366880",
+    "uikName": "УИК №396",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 701,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -2351,8 +2819,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "442401366881",
+    "uikName": "УИК №397",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 862,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2396,8 +2873,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "442401366882",
+    "uikName": "УИК №398",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1986,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2441,8 +2927,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "442401366883",
+    "uikName": "УИК №399",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 805,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2486,8 +2981,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "442401366884",
+    "uikName": "УИК №400",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1121,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2531,8 +3035,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "442401366885",
+    "uikName": "УИК №401",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1166,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2576,8 +3089,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "442401366886",
+    "uikName": "УИК №402",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1688,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2621,8 +3143,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "442401366887",
+    "uikName": "УИК №403",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 675,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2666,8 +3197,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "442401366888",
+    "uikName": "УИК №404",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1646,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2711,8 +3251,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "442401366889",
+    "uikName": "УИК №405",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1817,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2756,8 +3305,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "442401366890",
+    "uikName": "УИК №406",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2190,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2801,8 +3359,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "442401366891",
+    "uikName": "УИК №407",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2105,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2846,8 +3413,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "442401366892",
+    "uikName": "УИК №408",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2761,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2891,8 +3467,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "442401366893",
+    "uikName": "УИК №409",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1963,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2936,8 +3521,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "442401366894",
+    "uikName": "УИК №410",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1913,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2981,8 +3575,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "442401366895",
+    "uikName": "УИК №411",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2341,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3026,8 +3629,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "442401366896",
+    "uikName": "УИК №412",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1247,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3071,8 +3683,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "442401366897",
+    "uikName": "УИК №413",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -3116,8 +3737,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "442401366898",
+    "uikName": "УИК №414",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 875,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3161,8 +3791,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "442401366899",
+    "uikName": "УИК №415",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1401,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3206,8 +3845,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "442401366900",
+    "uikName": "УИК №416",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -3251,8 +3899,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "442401366901",
+    "uikName": "УИК №417",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 929,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3296,8 +3953,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "442401366902",
+    "uikName": "УИК №418",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 778,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -3341,8 +4007,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "442401366903",
+    "uikName": "УИК №419",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 783,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3386,8 +4061,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "442401366904",
+    "uikName": "УИК №420",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1345,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3431,8 +4115,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "442401366905",
+    "uikName": "УИК №421",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3476,8 +4169,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "442401366906",
+    "uikName": "УИК №422",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1017,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3521,8 +4223,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "442401366907",
+    "uikName": "УИК №423",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1307,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3566,8 +4277,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "442401366908",
+    "uikName": "УИК №424",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 879,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3611,8 +4331,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "442401366909",
+    "uikName": "УИК №425",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1041,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3656,8 +4385,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "442401366910",
+    "uikName": "УИК №426",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1196,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3701,8 +4439,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "442401366911",
+    "uikName": "УИК №427",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1055,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3746,8 +4493,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "442401366912",
+    "uikName": "УИК №428",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1047,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3791,8 +4547,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "442401366913",
+    "uikName": "УИК №429",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1150,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3836,8 +4601,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "442401366914",
+    "uikName": "УИК №430",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1250,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3881,8 +4655,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "442401366915",
+    "uikName": "УИК №431",
     "tikTvd": "342300467003",
     "tikName": "Киселевская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1050,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -3926,8 +4709,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "442401866808",
+    "uikName": "УИК №551",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1618,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3971,8 +4763,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "442401866857",
+    "uikName": "УИК №552",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2351,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4016,8 +4817,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "442401866858",
+    "uikName": "УИК №553",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2597,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4061,8 +4871,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "442401866859",
+    "uikName": "УИК №554",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2704,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4106,8 +4925,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "442401866860",
+    "uikName": "УИК №555",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2720,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4151,8 +4979,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "442401866861",
+    "uikName": "УИК №556",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2407,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4196,8 +5033,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "442401866862",
+    "uikName": "УИК №557",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1097,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4241,8 +5087,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "442401866863",
+    "uikName": "УИК №558",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2301,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4286,8 +5141,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "442401866864",
+    "uikName": "УИК №559",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1611,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4331,8 +5195,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "442401866865",
+    "uikName": "УИК №560",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1660,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4376,8 +5249,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "442401866866",
+    "uikName": "УИК №561",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1858,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4421,8 +5303,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "442401866867",
+    "uikName": "УИК №562",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1620,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4466,8 +5357,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "442401866868",
+    "uikName": "УИК №563",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1619,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4511,8 +5411,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "442401866869",
+    "uikName": "УИК №564",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 971,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -4556,8 +5465,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "442401866870",
+    "uikName": "УИК №565",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1339,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4601,8 +5519,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "442401866871",
+    "uikName": "УИК №566",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1350,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4646,8 +5573,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "442401866872",
+    "uikName": "УИК №567",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1501,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4691,8 +5627,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "442401866873",
+    "uikName": "УИК №568",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1933,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4736,8 +5681,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "442401866874",
+    "uikName": "УИК №569",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1131,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -4781,8 +5735,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "442401866875",
+    "uikName": "УИК №570",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2128,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4826,8 +5789,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "442401866876",
+    "uikName": "УИК №571",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1752,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4871,8 +5843,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "442401866877",
+    "uikName": "УИК №572",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2159,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4916,8 +5897,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "442401866878",
+    "uikName": "УИК №573",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2332,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4961,8 +5951,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "442401866879",
+    "uikName": "УИК №574",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2347,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5006,8 +6005,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "442401866880",
+    "uikName": "УИК №575",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2056,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5051,8 +6059,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "442401866881",
+    "uikName": "УИК №576",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1507,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5096,8 +6113,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "442401866882",
+    "uikName": "УИК №577",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 806,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5141,8 +6167,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "442401866883",
+    "uikName": "УИК №578",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1415,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5186,8 +6221,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "442401866884",
+    "uikName": "УИК №579",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -5231,8 +6275,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "442401866885",
+    "uikName": "УИК №580",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5276,8 +6329,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "442401866886",
+    "uikName": "УИК №581",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -5321,8 +6383,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "442401866887",
+    "uikName": "УИК №582",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -5366,8 +6437,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "442401866888",
+    "uikName": "УИК №583",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5411,8 +6491,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "442401866889",
+    "uikName": "УИК №584",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -5456,8 +6545,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "442401866890",
+    "uikName": "УИК №585",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1411,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5501,8 +6599,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "442401866891",
+    "uikName": "УИК №586",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 557,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5546,8 +6653,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "442401866892",
+    "uikName": "УИК №587",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 740,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -5591,8 +6707,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "442401866893",
+    "uikName": "УИК №588",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1748,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5636,8 +6761,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "442401866894",
+    "uikName": "УИК №589",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1628,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5681,8 +6815,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "442401866895",
+    "uikName": "УИК №590",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2877,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5726,8 +6869,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "442401866896",
+    "uikName": "УИК №591",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1431,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5771,8 +6923,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "442401866897",
+    "uikName": "УИК №592",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2935,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -5816,8 +6977,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "442401866898",
+    "uikName": "УИК №593",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2770,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5861,8 +7031,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "442401866899",
+    "uikName": "УИК №594",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2125,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5906,8 +7085,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "442401866900",
+    "uikName": "УИК №595",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1869,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5951,8 +7139,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "442401866901",
+    "uikName": "УИК №596",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1865,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5996,8 +7193,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "442401866902",
+    "uikName": "УИК №597",
     "tikTvd": "342300467004",
     "tikName": "Междуреченская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6041,8 +7247,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "442401966709",
+    "uikName": "УИК №598",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -6086,8 +7301,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "442401966710",
+    "uikName": "УИК №599",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -6131,8 +7355,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "442401966711",
+    "uikName": "УИК №600",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1956,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6176,8 +7409,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "442401966712",
+    "uikName": "УИК №601",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1078,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6221,8 +7463,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "442401966713",
+    "uikName": "УИК №602",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6266,8 +7517,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "442401966714",
+    "uikName": "УИК №603",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2025,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6311,8 +7571,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "442401966715",
+    "uikName": "УИК №604",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1405,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6356,8 +7625,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "442401966716",
+    "uikName": "УИК №605",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2213,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6401,8 +7679,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "442401966717",
+    "uikName": "УИК №606",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1465,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6446,8 +7733,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "442401966718",
+    "uikName": "УИК №607",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2026,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6491,8 +7787,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "442401966719",
+    "uikName": "УИК №608",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6536,8 +7841,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "442401966720",
+    "uikName": "УИК №609",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6581,8 +7895,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "442401966721",
+    "uikName": "УИК №610",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1660,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6626,8 +7949,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "442401966722",
+    "uikName": "УИК №611",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1066,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6671,8 +8003,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "442401966723",
+    "uikName": "УИК №612",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2098,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6716,8 +8057,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "442401966724",
+    "uikName": "УИК №613",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1105,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6761,8 +8111,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "442401966725",
+    "uikName": "УИК №614",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 692,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -6806,8 +8165,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "442401966726",
+    "uikName": "УИК №615",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6851,8 +8219,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "442401966727",
+    "uikName": "УИК №616",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1467,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6896,8 +8273,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "442401966728",
+    "uikName": "УИК №617",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1781,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6941,8 +8327,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "442401966729",
+    "uikName": "УИК №618",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1559,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6986,8 +8381,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "442401966730",
+    "uikName": "УИК №619",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1451,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7031,8 +8435,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "442401966731",
+    "uikName": "УИК №620",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1854,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7076,8 +8489,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "442401966732",
+    "uikName": "УИК №621",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1806,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7121,8 +8543,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "442401966733",
+    "uikName": "УИК №622",
     "tikTvd": "342300467005",
     "tikName": "Мысковская городская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1226,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7166,8 +8597,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 918,
     "uikTvd": "442402866844",
+    "uikName": "УИК №918",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7211,8 +8651,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 919,
     "uikTvd": "442402866845",
+    "uikName": "УИК №919",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -7256,8 +8705,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 920,
     "uikTvd": "442402866846",
+    "uikName": "УИК №920",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1069,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7301,8 +8759,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 921,
     "uikTvd": "442402866847",
+    "uikName": "УИК №921",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2533,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7346,8 +8813,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 922,
     "uikTvd": "442402866848",
+    "uikName": "УИК №922",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2924,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7391,8 +8867,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 923,
     "uikTvd": "442402866849",
+    "uikName": "УИК №923",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2885,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7436,8 +8921,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 924,
     "uikTvd": "442402866850",
+    "uikName": "УИК №924",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1924,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7481,8 +8975,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 925,
     "uikTvd": "442402866851",
+    "uikName": "УИК №925",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 43,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -7526,8 +9029,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 926,
     "uikTvd": "442402866852",
+    "uikName": "УИК №926",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2656,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7571,8 +9083,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 927,
     "uikTvd": "442402866853",
+    "uikName": "УИК №927",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2025,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7616,8 +9137,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 928,
     "uikTvd": "442402866854",
+    "uikName": "УИК №928",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 850,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -7661,8 +9191,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "442402866855",
+    "uikName": "УИК №929",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1774,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7706,8 +9245,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "442402866856",
+    "uikName": "УИК №930",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2845,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -7751,8 +9299,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "442402866857",
+    "uikName": "УИК №931",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2633,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7796,8 +9353,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "442402866858",
+    "uikName": "УИК №932",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1612,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7841,8 +9407,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "442402866859",
+    "uikName": "УИК №933",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2015,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7886,8 +9461,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "442402866860",
+    "uikName": "УИК №934",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2251,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7931,8 +9515,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "442402866861",
+    "uikName": "УИК №935",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1793,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7976,8 +9569,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "442402866862",
+    "uikName": "УИК №936",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2629,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8021,8 +9623,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "442402866863",
+    "uikName": "УИК №937",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 617,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8066,8 +9677,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "442402866864",
+    "uikName": "УИК №938",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1384,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8111,8 +9731,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 939,
     "uikTvd": "442402866865",
+    "uikName": "УИК №939",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -8156,8 +9785,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 940,
     "uikTvd": "442402866866",
+    "uikName": "УИК №940",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8201,8 +9839,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 941,
     "uikTvd": "442402866867",
+    "uikName": "УИК №941",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1665,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8246,8 +9893,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 942,
     "uikTvd": "442402866868",
+    "uikName": "УИК №942",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1519,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8291,8 +9947,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 943,
     "uikTvd": "442402866869",
+    "uikName": "УИК №943",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1738,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8336,8 +10001,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 944,
     "uikTvd": "442402866870",
+    "uikName": "УИК №944",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1145,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8381,8 +10055,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 945,
     "uikTvd": "442402866871",
+    "uikName": "УИК №945",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 907,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8426,8 +10109,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 946,
     "uikTvd": "442402866872",
+    "uikName": "УИК №946",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 544,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8471,8 +10163,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 947,
     "uikTvd": "442402866873",
+    "uikName": "УИК №947",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8516,8 +10217,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 948,
     "uikTvd": "442402866874",
+    "uikName": "УИК №948",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1806,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8561,8 +10271,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 949,
     "uikTvd": "442402866875",
+    "uikName": "УИК №949",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 33,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -8606,8 +10325,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 950,
     "uikTvd": "442402866876",
+    "uikName": "УИК №950",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1108,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8651,8 +10379,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 951,
     "uikTvd": "442402866877",
+    "uikName": "УИК №951",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1342,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8696,8 +10433,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 952,
     "uikTvd": "442402866878",
+    "uikName": "УИК №952",
     "tikTvd": "342300467006",
     "tikName": "Прокопьевск, Зенковская",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1482,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8741,8 +10487,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 853,
     "uikTvd": "442402967261",
+    "uikName": "УИК №853",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 397,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -8786,8 +10541,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 854,
     "uikTvd": "442402967262",
+    "uikName": "УИК №854",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -8831,8 +10595,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 855,
     "uikTvd": "442402967263",
+    "uikName": "УИК №855",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2820,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8876,8 +10649,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 856,
     "uikTvd": "442402967264",
+    "uikName": "УИК №856",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -8921,8 +10703,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 857,
     "uikTvd": "442402967265",
+    "uikName": "УИК №857",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2630,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8966,8 +10757,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 858,
     "uikTvd": "442402967266",
+    "uikName": "УИК №858",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9011,8 +10811,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 859,
     "uikTvd": "442402967267",
+    "uikName": "УИК №859",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2629,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9056,8 +10865,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 860,
     "uikTvd": "442402967268",
+    "uikName": "УИК №860",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2805,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9101,8 +10919,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 861,
     "uikTvd": "442402967269",
+    "uikName": "УИК №861",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2375,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9146,8 +10973,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 862,
     "uikTvd": "442402967270",
+    "uikName": "УИК №862",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2423,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9191,8 +11027,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 863,
     "uikTvd": "442402967271",
+    "uikName": "УИК №863",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2277,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9236,8 +11081,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 864,
     "uikTvd": "442402967272",
+    "uikName": "УИК №864",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2366,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9281,8 +11135,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 865,
     "uikTvd": "442402967273",
+    "uikName": "УИК №865",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2238,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9326,8 +11189,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 866,
     "uikTvd": "442402967274",
+    "uikName": "УИК №866",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2497,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9371,8 +11243,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 867,
     "uikTvd": "442402967275",
+    "uikName": "УИК №867",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2030,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9416,8 +11297,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 868,
     "uikTvd": "442402967276",
+    "uikName": "УИК №868",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2464,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9461,8 +11351,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 869,
     "uikTvd": "442402967277",
+    "uikName": "УИК №869",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9506,8 +11405,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "442402967278",
+    "uikName": "УИК №870",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2766,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9551,8 +11459,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "442402967279",
+    "uikName": "УИК №871",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2555,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9596,8 +11513,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "442402967280",
+    "uikName": "УИК №872",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1415,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9641,8 +11567,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "442402967281",
+    "uikName": "УИК №873",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2401,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9686,8 +11621,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "442402967282",
+    "uikName": "УИК №874",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9731,8 +11675,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "442402967283",
+    "uikName": "УИК №875",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2390,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9776,8 +11729,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "442402967284",
+    "uikName": "УИК №876",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2186,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9821,8 +11783,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "442402967285",
+    "uikName": "УИК №877",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2317,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9866,8 +11837,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "442402967286",
+    "uikName": "УИК №878",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2062,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9911,8 +11891,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "442402967287",
+    "uikName": "УИК №879",
     "tikTvd": "342300467007",
     "tikName": "Прокопьевск, Рудничная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1789,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9956,8 +11945,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "442403066867",
+    "uikName": "УИК №880",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1611,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10001,8 +11999,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "442403066868",
+    "uikName": "УИК №881",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2045,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10046,8 +12053,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "442403066869",
+    "uikName": "УИК №882",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 44,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -10091,8 +12107,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "442403066870",
+    "uikName": "УИК №883",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -10136,8 +12161,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "442403066871",
+    "uikName": "УИК №884",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2447,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10181,8 +12215,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "442403066872",
+    "uikName": "УИК №885",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2007,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10226,8 +12269,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "442403066873",
+    "uikName": "УИК №886",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2437,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10271,8 +12323,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "442403066874",
+    "uikName": "УИК №887",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2365,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10316,8 +12377,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "442403066875",
+    "uikName": "УИК №888",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 619,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -10361,8 +12431,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "442403066876",
+    "uikName": "УИК №889",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -10406,8 +12485,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "442403066877",
+    "uikName": "УИК №890",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 48,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -10451,8 +12539,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "442403066878",
+    "uikName": "УИК №891",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1538,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10496,8 +12593,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "442403066879",
+    "uikName": "УИК №892",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2449,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10541,8 +12647,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "442403066880",
+    "uikName": "УИК №893",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 724,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -10586,8 +12701,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "442403066881",
+    "uikName": "УИК №894",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2447,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10631,8 +12755,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "442403066882",
+    "uikName": "УИК №895",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -10676,8 +12809,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "442403066883",
+    "uikName": "УИК №896",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1016,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10721,8 +12863,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "442403066884",
+    "uikName": "УИК №897",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2147,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10766,8 +12917,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "442403066885",
+    "uikName": "УИК №898",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 64,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -10811,8 +12971,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "442403066886",
+    "uikName": "УИК №899",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1191,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10856,8 +13025,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "442403066887",
+    "uikName": "УИК №900",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1340,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10901,8 +13079,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "442403066888",
+    "uikName": "УИК №901",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10946,8 +13133,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "442403066889",
+    "uikName": "УИК №902",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2031,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10991,8 +13187,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "442403066890",
+    "uikName": "УИК №903",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2319,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11036,8 +13241,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "442403066891",
+    "uikName": "УИК №904",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2426,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11081,8 +13295,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "442403066892",
+    "uikName": "УИК №905",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1911,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11126,8 +13349,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "442403066893",
+    "uikName": "УИК №906",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 40,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -11171,8 +13403,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "442403066894",
+    "uikName": "УИК №907",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2089,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11216,8 +13457,17 @@ export const duma_2003_uik_428_region_42_part_006 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "442403066895",
+    "uikName": "УИК №908",
     "tikTvd": "342300467008",
     "tikName": "Прокопьевск, Центральная",
+    "regionCode": "42",
+    "regionTvd": "100100095862",
+    "regionName": "Кемеровская область",
+    "district": {
+      "districtNumber": 92,
+      "oikTvd": "100100095866",
+      "oikName": "Прокопьевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2556,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,

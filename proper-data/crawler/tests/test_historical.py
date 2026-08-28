@@ -11,7 +11,12 @@ FIXTURES = Path(__file__).parent / "fixtures"
 sys.path.insert(0, str(CRAWLER))
 
 from decode_script_result import decode_script_tables
-from generate_historical_typescript import generate as generate_historical_typescript
+from generate_historical_typescript import (
+    generate as generate_historical_typescript,
+)
+from generate_historical_typescript import (
+    write_types as write_historical_types,
+)
 from historical import (
     _uik_number,
     build_sample_requests,
@@ -21,7 +26,13 @@ from historical import (
     make_plan,
     spec_requests,
 )
-from historical_nationwide import decoded_rows, report_kind, transpose
+from historical_nationwide import (
+    decoded_rows,
+    enriched_relations,
+    oik_breadcrumbs,
+    report_kind,
+    transpose,
+)
 from pipeline import UIK_RE as NATIONWIDE_UIK_RE
 from shared_rate import SharedRateLimiter
 
@@ -50,8 +61,12 @@ class HistoricalFamilyTests(unittest.TestCase):
             "records": [
                 {
                     "region": "1",
+                    "region_code": "1",
+                    "region_tvd": "r1",
+                    "region_name": "Test Region",
                     "uik_number": 1,
                     "uik_tvd": "u1",
+                    "uik_name": "УИК №1",
                     "tik_tvd": "t1",
                     "tik_name": "Test TIK",
                     "party_accounting": {"Число избирателей": 10},
@@ -63,6 +78,9 @@ class HistoricalFamilyTests(unittest.TestCase):
                     "tik_tvd": "t1",
                     "tik_name": "Test TIK",
                     "region": "1",
+                    "region_code": "1",
+                    "region_tvd": "r1",
+                    "region_name": "Test Region",
                     "party": source,
                 }
             ],
@@ -80,8 +98,12 @@ class HistoricalFamilyTests(unittest.TestCase):
             "relations": [
                 {
                     "region": "1",
+                    "region_code": "1",
+                    "region_tvd": "r1",
+                    "region_name": "Test Region",
                     "uik_number": 1,
                     "uik_tvd": "u1",
+                    "uik_name": "УИК №1",
                     "tik_tvd": "t1",
                     "tik_name": "Test TIK",
                 }
@@ -97,8 +119,15 @@ class HistoricalFamilyTests(unittest.TestCase):
             shard = (
                 output / "protocol" / "uik" / "242" / "region-1-part-001.ts"
             ).read_text(encoding="utf-8")
+            root = (output / "uik-to-tik" / "region-1.ts").read_text(
+                encoding="utf-8"
+            )
         self.assertEqual(result["uiks"], 1)
         self.assertIn('election: "2007-duma"', types)
+        self.assertIn("regionTvd: string", types)
+        self.assertIn('"regionName": "Test Region"', shard)
+        self.assertIn('"district": null', root)
+        self.assertNotIn('"oikTvd"', root)
         self.assertIn('"sourceReportType": 233', shard)
         self.assertFalse(stale.exists())
 
@@ -114,8 +143,12 @@ class HistoricalFamilyTests(unittest.TestCase):
             "records": [
                 {
                     "region": "1",
+                    "region_code": "1",
+                    "region_tvd": "r1",
+                    "region_name": "Test Region",
                     "uik_number": 1,
                     "uik_tvd": "u1",
+                    "uik_name": "УИК №1",
                     "tik_tvd": "t1",
                     "tik_name": "Test TIK",
                     "candidate_accounting": {"Число избирателей": 10},
@@ -127,6 +160,9 @@ class HistoricalFamilyTests(unittest.TestCase):
                     "tik_tvd": "t1",
                     "tik_name": "Test TIK",
                     "region": "1",
+                    "region_code": "1",
+                    "region_tvd": "r1",
+                    "region_name": "Test Region",
                     "candidate": source,
                 }
             ],
@@ -144,8 +180,12 @@ class HistoricalFamilyTests(unittest.TestCase):
             "relations": [
                 {
                     "region": "1",
+                    "region_code": "1",
+                    "region_tvd": "r1",
+                    "region_name": "Test Region",
                     "uik_number": 1,
                     "uik_tvd": "u1",
+                    "uik_name": "УИК №1",
                     "tik_tvd": "t1",
                     "tik_name": "Test TIK",
                 }
@@ -157,7 +197,58 @@ class HistoricalFamilyTests(unittest.TestCase):
             types = (output / "protocol" / "types.ts").read_text(encoding="utf-8")
             root = (output / "uik-to-tik.ts").read_text(encoding="utf-8")
         self.assertIn('ballot: "presidential"', types)
+        self.assertNotIn("district: DistrictRef", types.split("export type PresidentialUikProtocol", 1)[1].split("export type UikProtocol", 1)[0])
         self.assertIn("president_2018_uik_to_tik", root)
+
+    def test_historical_oik_ancestry_requires_single_member_election(self):
+        nodes = [
+            {"node_id": "cec", "parent_id": None, "text": "ЦИК России", "region": "0"},
+            {"node_id": "r1", "parent_id": "cec", "text": "Region", "region": "1"},
+            {"node_id": "o1", "parent_id": "r1", "text": "District", "region": "1"},
+            {"node_id": "t1", "parent_id": "o1", "text": "TIK", "region": "1"},
+            {"node_id": "u1", "parent_id": "t1", "text": "УИК №1", "region": "1", "is_uik": True},
+        ]
+        party = enriched_relations(
+            {"election": "2007-duma", "contests": {"party": {}}, "nodes": nodes}
+        )[0]
+        single = enriched_relations(
+            {
+                "election": "2016-duma",
+                "contests": {"party": {}, "candidate": {}},
+                "nodes": nodes,
+            }
+        )[0]
+        self.assertNotIn("oik_tvd", party)
+        self.assertEqual(single["oik_tvd"], "o1")
+        self.assertEqual(single["region_tvd"], "r1")
+
+    def test_extracts_exact_official_oik_breadcrumb(self):
+        payload = (
+            '<a href="region/izbirkom?action=show&amp;tvd=official-oik">'
+            'ОИК №219</a><a href="?tvd=other">УИК №1</a>'
+        ).encode()
+        self.assertEqual(oik_breadcrumbs(payload), [("official-oik", 219)])
+
+    def test_historical_types_discriminate_single_member_report_type(self):
+        with tempfile.TemporaryDirectory() as temporary:
+            output = Path(temporary)
+            write_historical_types(
+                {
+                    "election": "2016-duma",
+                    "contests": {
+                        "party": {"tic": 233, "uik": 242},
+                        "candidate": {"tic": 464, "uik": 463},
+                    },
+                },
+                output,
+            )
+            types = (output / "protocol" / "types.ts").read_text(encoding="utf-8")
+        self.assertIn("reportType: 463;\n  ballot: \"single-member\";", types)
+        self.assertIn("district: DistrictRef;", types)
+        self.assertIn(
+            "export type UikProtocol = PartyUikProtocol | SingleMemberUikProtocol;",
+            types,
+        )
 
     def test_nationwide_merges_split_presidential_column_tables(self):
         payload = """<html data-vrn="100100084849062">

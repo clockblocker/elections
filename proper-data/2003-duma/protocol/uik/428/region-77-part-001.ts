@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1325,
     "uikTvd": "477409270416",
+    "uikName": "УИК №1325",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1966,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1326,
     "uikTvd": "477409270417",
+    "uikName": "УИК №1326",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1453,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1327,
     "uikTvd": "477409270418",
+    "uikName": "УИК №1327",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1888,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1328,
     "uikTvd": "477409270419",
+    "uikName": "УИК №1328",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1529,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1329,
     "uikTvd": "477409270420",
+    "uikName": "УИК №1329",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1522,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1330,
     "uikTvd": "477409270421",
+    "uikName": "УИК №1330",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1534,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1331,
     "uikTvd": "477409270422",
+    "uikName": "УИК №1331",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1841,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1332,
     "uikTvd": "477409270423",
+    "uikName": "УИК №1332",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1568,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1333,
     "uikTvd": "477409270424",
+    "uikName": "УИК №1333",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2458,
       "Число бюллетеней, полученных участковыми комиссиями": 2440,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1334,
     "uikTvd": "477409270425",
+    "uikName": "УИК №1334",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2730,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1335,
     "uikTvd": "477409270426",
+    "uikName": "УИК №1335",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2149,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1336,
     "uikTvd": "477409270427",
+    "uikName": "УИК №1336",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2597,
       "Число бюллетеней, полученных участковыми комиссиями": 2640,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1337,
     "uikTvd": "477409270428",
+    "uikName": "УИК №1337",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3198,
       "Число бюллетеней, полученных участковыми комиссиями": 2590,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1338,
     "uikTvd": "477409270429",
+    "uikName": "УИК №1338",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1762,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1339,
     "uikTvd": "477409270430",
+    "uikName": "УИК №1339",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1202,
       "Число бюллетеней, полученных участковыми комиссиями": 1010,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1340,
     "uikTvd": "477409270431",
+    "uikName": "УИК №1340",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3172,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1341,
     "uikTvd": "477409270432",
+    "uikName": "УИК №1341",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2046,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1342,
     "uikTvd": "477409270433",
+    "uikName": "УИК №1342",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2387,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1343,
     "uikTvd": "477409270434",
+    "uikName": "УИК №1343",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1344,
     "uikTvd": "477409270435",
+    "uikName": "УИК №1344",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2704,
       "Число бюллетеней, полученных участковыми комиссиями": 2740,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1345,
     "uikTvd": "477409270436",
+    "uikName": "УИК №1345",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2590,
       "Число бюллетеней, полученных участковыми комиссиями": 2620,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1346,
     "uikTvd": "477409270437",
+    "uikName": "УИК №1346",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2620,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1347,
     "uikTvd": "477409270438",
+    "uikName": "УИК №1347",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2515,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1348,
     "uikTvd": "477409270439",
+    "uikName": "УИК №1348",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2278,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3117,
     "uikTvd": "477409270440",
+    "uikName": "УИК  3117",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3118,
     "uikTvd": "477409270441",
+    "uikName": "УИК  3118",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 9,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3119,
     "uikTvd": "477409270442",
+    "uikName": "УИК  3119",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1458,
     "uikTvd": "477409670430",
+    "uikName": "УИК №1458",
     "tikTvd": "377300170417",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1051,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1459,
     "uikTvd": "477409670431",
+    "uikName": "УИК №1459",
     "tikTvd": "377300170417",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2776,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1460,
     "uikTvd": "477409670432",
+    "uikName": "УИК №1460",
     "tikTvd": "377300170417",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2432,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1461,
     "uikTvd": "477409670433",
+    "uikName": "УИК №1461",
     "tikTvd": "377300170417",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1937,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1462,
     "uikTvd": "477409670434",
+    "uikName": "УИК №1462",
     "tikTvd": "377300170417",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1468,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1463,
     "uikTvd": "477409670435",
+    "uikName": "УИК №1463",
     "tikTvd": "377300170417",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1584,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1464,
     "uikTvd": "477409670436",
+    "uikName": "УИК №1464",
     "tikTvd": "377300170417",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2764,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1465,
     "uikTvd": "477409670437",
+    "uikName": "УИК №1465",
     "tikTvd": "377300170417",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2576,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1466,
     "uikTvd": "477409670438",
+    "uikName": "УИК №1466",
     "tikTvd": "377300170417",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2616,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1467,
     "uikTvd": "477409670439",
+    "uikName": "УИК №1467",
     "tikTvd": "377300170417",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1088,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1468,
     "uikTvd": "477409670440",
+    "uikName": "УИК №1468",
     "tikTvd": "377300170417",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1712,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1469,
     "uikTvd": "477409670441",
+    "uikName": "УИК №1469",
     "tikTvd": "377300170417",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2532,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1470,
     "uikTvd": "477409770451",
+    "uikName": "УИК №1470",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2490,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1471,
     "uikTvd": "477409770452",
+    "uikName": "УИК №1471",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2562,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1472,
     "uikTvd": "477409770453",
+    "uikName": "УИК №1472",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2061,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1473,
     "uikTvd": "477409770454",
+    "uikName": "УИК №1473",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2468,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1474,
     "uikTvd": "477409770455",
+    "uikName": "УИК №1474",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2328,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1475,
     "uikTvd": "477409770456",
+    "uikName": "УИК №1475",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2349,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1476,
     "uikTvd": "477409770457",
+    "uikName": "УИК №1476",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1973,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1477,
     "uikTvd": "477409770458",
+    "uikName": "УИК №1477",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2625,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1478,
     "uikTvd": "477409770459",
+    "uikName": "УИК №1478",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2277,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1479,
     "uikTvd": "477409770460",
+    "uikName": "УИК №1479",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2168,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1480,
     "uikTvd": "477409770461",
+    "uikName": "УИК №1480",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2416,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1481,
     "uikTvd": "477409770462",
+    "uikName": "УИК №1481",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2873,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1482,
     "uikTvd": "477409770463",
+    "uikName": "УИК №1482",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2617,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1483,
     "uikTvd": "477409770464",
+    "uikName": "УИК №1483",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2023,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1484,
     "uikTvd": "477409770465",
+    "uikName": "УИК №1484",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1485,
     "uikTvd": "477409770466",
+    "uikName": "УИК №1485",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2838,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1486,
     "uikTvd": "477409770467",
+    "uikName": "УИК №1486",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2960,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1487,
     "uikTvd": "477409770468",
+    "uikName": "УИК №1487",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2681,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1488,
     "uikTvd": "477409770469",
+    "uikName": "УИК №1488",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1518,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2737,8 +3259,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1489,
     "uikTvd": "477409770470",
+    "uikName": "УИК №1489",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2954,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2784,8 +3315,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1490,
     "uikTvd": "477409770471",
+    "uikName": "УИК №1490",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2547,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2831,8 +3371,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3125,
     "uikTvd": "477409770476",
+    "uikName": "УИК №3125",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 46,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2878,8 +3427,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3126,
     "uikTvd": "477409770477",
+    "uikName": "УИК №3126",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2925,8 +3483,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3127,
     "uikTvd": "477409770481",
+    "uikName": "УИК №3127",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2972,8 +3539,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1491,
     "uikTvd": "477409870475",
+    "uikName": "УИК №1491",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2808,
       "Число бюллетеней, полученных участковыми комиссиями": 2530,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1492,
     "uikTvd": "477409870476",
+    "uikName": "УИК №1492",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2879,
       "Число бюллетеней, полученных участковыми комиссиями": 2610,
@@ -3066,8 +3651,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1493,
     "uikTvd": "477409870477",
+    "uikName": "УИК №1493",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2658,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3113,8 +3707,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1494,
     "uikTvd": "477409870478",
+    "uikName": "УИК №1494",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2719,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -3160,8 +3763,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1495,
     "uikTvd": "477409870479",
+    "uikName": "УИК №1495",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1064,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -3207,8 +3819,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1496,
     "uikTvd": "477409870480",
+    "uikName": "УИК №1496",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1952,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3254,8 +3875,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1497,
     "uikTvd": "477409870481",
+    "uikName": "УИК №1497",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1728,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3301,8 +3931,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1498,
     "uikTvd": "477409870482",
+    "uikName": "УИК №1498",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2883,
       "Число бюллетеней, полученных участковыми комиссиями": 2610,
@@ -3348,8 +3987,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1499,
     "uikTvd": "477409870483",
+    "uikName": "УИК №1499",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -3395,8 +4043,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1500,
     "uikTvd": "477409870484",
+    "uikName": "УИК №1500",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1553,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3442,8 +4099,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1501,
     "uikTvd": "477409870485",
+    "uikName": "УИК №1501",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2196,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3489,8 +4155,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1502,
     "uikTvd": "477409870486",
+    "uikName": "УИК №1502",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1947,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -3536,8 +4211,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1503,
     "uikTvd": "477409870487",
+    "uikName": "УИК №1503",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1784,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -3583,8 +4267,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1504,
     "uikTvd": "477409870488",
+    "uikName": "УИК №1504",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1337,
       "Число бюллетеней, полученных участковыми комиссиями": 1210,
@@ -3630,8 +4323,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1505,
     "uikTvd": "477409870489",
+    "uikName": "УИК №1505",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -3677,8 +4379,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1506,
     "uikTvd": "477409870490",
+    "uikName": "УИК №1506",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1827,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -3724,8 +4435,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1507,
     "uikTvd": "477409870491",
+    "uikName": "УИК №1507",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2698,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -3771,8 +4491,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1508,
     "uikTvd": "477409870492",
+    "uikName": "УИК №1508",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1904,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -3818,8 +4547,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1509,
     "uikTvd": "477409870493",
+    "uikName": "УИК №1509",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2527,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -3865,8 +4603,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1510,
     "uikTvd": "477409870494",
+    "uikName": "УИК №1510",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2673,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -3912,8 +4659,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1511,
     "uikTvd": "477409870495",
+    "uikName": "УИК №1511",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2575,
       "Число бюллетеней, полученных участковыми комиссиями": 2320,
@@ -3959,8 +4715,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1512,
     "uikTvd": "477409870496",
+    "uikName": "УИК №1512",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2390,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -4006,8 +4771,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1513,
     "uikTvd": "477409870497",
+    "uikName": "УИК №1513",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1956,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -4053,8 +4827,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1514,
     "uikTvd": "477409870498",
+    "uikName": "УИК №1514",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2723,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -4100,8 +4883,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1515,
     "uikTvd": "477409870499",
+    "uikName": "УИК №1515",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2442,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4147,8 +4939,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1516,
     "uikTvd": "477409970489",
+    "uikName": "УИК №1516",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2021,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4194,8 +4995,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1517,
     "uikTvd": "477409970490",
+    "uikName": "УИК №1517",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2577,
       "Число бюллетеней, полученных участковыми комиссиями": 2370,
@@ -4241,8 +5051,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1518,
     "uikTvd": "477409970491",
+    "uikName": "УИК №1518",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2305,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -4288,8 +5107,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1519,
     "uikTvd": "477409970492",
+    "uikName": "УИК №1519",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2531,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -4335,8 +5163,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1520,
     "uikTvd": "477409970493",
+    "uikName": "УИК №1520",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2512,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -4382,8 +5219,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1521,
     "uikTvd": "477409970494",
+    "uikName": "УИК №1521",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2626,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4429,8 +5275,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1522,
     "uikTvd": "477409970495",
+    "uikName": "УИК №1522",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2856,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -4476,8 +5331,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1523,
     "uikTvd": "477409970496",
+    "uikName": "УИК №1523",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2340,
       "Число бюллетеней, полученных участковыми комиссиями": 2060,
@@ -4523,8 +5387,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1524,
     "uikTvd": "477409970497",
+    "uikName": "УИК №1524",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2505,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -4570,8 +5443,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1525,
     "uikTvd": "477409970498",
+    "uikName": "УИК №1525",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2081,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -4617,8 +5499,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1526,
     "uikTvd": "477409970499",
+    "uikName": "УИК №1526",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2549,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -4664,8 +5555,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1527,
     "uikTvd": "477409970500",
+    "uikName": "УИК №1527",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2191,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -4711,8 +5611,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1528,
     "uikTvd": "477409970501",
+    "uikName": "УИК №1528",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -4758,8 +5667,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1529,
     "uikTvd": "477409970502",
+    "uikName": "УИК №1529",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1762,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -4805,8 +5723,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1530,
     "uikTvd": "477409970503",
+    "uikName": "УИК №1530",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2748,
       "Число бюллетеней, полученных участковыми комиссиями": 2420,
@@ -4852,8 +5779,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1531,
     "uikTvd": "477409970504",
+    "uikName": "УИК №1531",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1823,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -4899,8 +5835,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1532,
     "uikTvd": "477409970505",
+    "uikName": "УИК №1532",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2029,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -4946,8 +5891,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1533,
     "uikTvd": "477409970506",
+    "uikName": "УИК №1533",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1594,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -4993,8 +5947,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1534,
     "uikTvd": "477409970507",
+    "uikName": "УИК №1534",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2492,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -5040,8 +6003,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1535,
     "uikTvd": "477409970508",
+    "uikName": "УИК №1535",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1805,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5087,8 +6059,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1536,
     "uikTvd": "477409970509",
+    "uikName": "УИК №1536",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1962,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -5134,8 +6115,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1537,
     "uikTvd": "477409970510",
+    "uikName": "УИК №1537",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2367,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -5181,8 +6171,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1538,
     "uikTvd": "477409970511",
+    "uikName": "УИК №1538",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1893,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -5228,8 +6227,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1539,
     "uikTvd": "477409970512",
+    "uikName": "УИК №1539",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2714,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -5275,8 +6283,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1540,
     "uikTvd": "477409970513",
+    "uikName": "УИК №1540",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2453,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -5322,8 +6339,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1541,
     "uikTvd": "477409970514",
+    "uikName": "УИК №1541",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1618,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -5369,8 +6395,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1542,
     "uikTvd": "477409970487",
+    "uikName": "УИК №1542",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1755,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -5416,8 +6451,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3128,
     "uikTvd": "477409970541",
+    "uikName": "УИК  3128",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 43,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -5463,8 +6507,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3129,
     "uikTvd": "477409970542",
+    "uikName": "УИК  3129",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -5510,8 +6563,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3130,
     "uikTvd": "477409970543",
+    "uikName": "УИК  3130",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 299,
@@ -5557,8 +6619,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1543,
     "uikTvd": "477410070450",
+    "uikName": "УИК №1543",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2702,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5604,8 +6675,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1544,
     "uikTvd": "477410070451",
+    "uikName": "УИК №1544",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2503,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5651,8 +6731,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1545,
     "uikTvd": "477410070452",
+    "uikName": "УИК №1545",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2182,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5698,8 +6787,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1546,
     "uikTvd": "477410070453",
+    "uikName": "УИК №1546",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1642,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5745,8 +6843,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1547,
     "uikTvd": "477410070454",
+    "uikName": "УИК №1547",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1665,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -5792,8 +6899,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1548,
     "uikTvd": "477410070455",
+    "uikName": "УИК №1548",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1753,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5839,8 +6955,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1549,
     "uikTvd": "477410070456",
+    "uikName": "УИК №1549",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2120,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5886,8 +7011,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1550,
     "uikTvd": "477410070457",
+    "uikName": "УИК №1550",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2831,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5933,8 +7067,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1551,
     "uikTvd": "477410070458",
+    "uikName": "УИК №1551",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1310,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -5980,8 +7123,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1552,
     "uikTvd": "477410070459",
+    "uikName": "УИК №1552",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1575,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6027,8 +7179,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1553,
     "uikTvd": "477410070460",
+    "uikName": "УИК №1553",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1990,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6074,8 +7235,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1554,
     "uikTvd": "477410070461",
+    "uikName": "УИК №1554",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2066,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6121,8 +7291,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1555,
     "uikTvd": "477410070462",
+    "uikName": "УИК №1555",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1842,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6168,8 +7347,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1556,
     "uikTvd": "477410070463",
+    "uikName": "УИК №1556",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1878,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6215,8 +7403,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1557,
     "uikTvd": "477410070464",
+    "uikName": "УИК №1557",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1041,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6262,8 +7459,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1558,
     "uikTvd": "477410070465",
+    "uikName": "УИК №1558",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1557,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6309,8 +7515,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1559,
     "uikTvd": "477410070466",
+    "uikName": "УИК №1559",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6356,8 +7571,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1560,
     "uikTvd": "477410070467",
+    "uikName": "УИК №1560",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1724,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6403,8 +7627,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1561,
     "uikTvd": "477410070468",
+    "uikName": "УИК №1561",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1159,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6450,8 +7683,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1562,
     "uikTvd": "477410070469",
+    "uikName": "УИК №1562",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2565,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6497,8 +7739,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1563,
     "uikTvd": "477410070470",
+    "uikName": "УИК №1563",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2566,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6544,8 +7795,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3131,
     "uikTvd": "477410070485",
+    "uikName": "УИК №3131",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 7,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6591,8 +7851,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3132,
     "uikTvd": "477410070486",
+    "uikName": "УИК №3132",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -6638,8 +7907,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3133,
     "uikTvd": "477410070487",
+    "uikName": "УИК №3133",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 37,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6685,8 +7963,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3134,
     "uikTvd": "477410070488",
+    "uikName": "УИК №3134",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6732,8 +8019,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1650,
     "uikTvd": "477411670532",
+    "uikName": "УИК №1650",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2362,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6779,8 +8075,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1651,
     "uikTvd": "477411670533",
+    "uikName": "УИК №1651",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2543,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6826,8 +8131,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1652,
     "uikTvd": "477411670534",
+    "uikName": "УИК №1652",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2184,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6873,8 +8187,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1653,
     "uikTvd": "477411670535",
+    "uikName": "УИК №1653",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2124,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6920,8 +8243,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1654,
     "uikTvd": "477411670536",
+    "uikName": "УИК №1654",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2291,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6967,8 +8299,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1655,
     "uikTvd": "477411670537",
+    "uikName": "УИК №1655",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2319,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7014,8 +8355,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1656,
     "uikTvd": "477411670538",
+    "uikName": "УИК №1656",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2216,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7061,8 +8411,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1657,
     "uikTvd": "477411670539",
+    "uikName": "УИК №1657",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2570,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7108,8 +8467,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1658,
     "uikTvd": "477411670540",
+    "uikName": "УИК №1658",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1852,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7155,8 +8523,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1659,
     "uikTvd": "477411670541",
+    "uikName": "УИК №1659",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1886,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7202,8 +8579,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1660,
     "uikTvd": "477411670542",
+    "uikName": "УИК №1660",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2882,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7249,8 +8635,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1661,
     "uikTvd": "477411670543",
+    "uikName": "УИК №1661",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2667,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -7296,8 +8691,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1662,
     "uikTvd": "477411670544",
+    "uikName": "УИК №1662",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1503,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7343,8 +8747,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1663,
     "uikTvd": "477411670545",
+    "uikName": "УИК №1663",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7390,8 +8803,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1664,
     "uikTvd": "477411670546",
+    "uikName": "УИК №1664",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2105,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7437,8 +8859,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1665,
     "uikTvd": "477411670547",
+    "uikName": "УИК №1665",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2133,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7484,8 +8915,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1666,
     "uikTvd": "477411670548",
+    "uikName": "УИК №1666",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2539,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7531,8 +8971,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1667,
     "uikTvd": "477411670549",
+    "uikName": "УИК №1667",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2284,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7578,8 +9027,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1668,
     "uikTvd": "477411670550",
+    "uikName": "УИК №1668",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2505,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7625,8 +9083,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1669,
     "uikTvd": "477411670551",
+    "uikName": "УИК №1669",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2454,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7672,8 +9139,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1670,
     "uikTvd": "477411670552",
+    "uikName": "УИК №1670",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1929,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7719,8 +9195,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1671,
     "uikTvd": "477411670553",
+    "uikName": "УИК №1671",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2268,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7766,8 +9251,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1672,
     "uikTvd": "477411670554",
+    "uikName": "УИК №1672",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2501,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7813,8 +9307,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1673,
     "uikTvd": "477411670555",
+    "uikName": "УИК №1673",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2658,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7860,8 +9363,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1674,
     "uikTvd": "477411670556",
+    "uikName": "УИК №1674",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1731,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7907,8 +9419,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1675,
     "uikTvd": "477411670557",
+    "uikName": "УИК №1675",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2309,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7954,8 +9475,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3135,
     "uikTvd": "477411670563",
+    "uikName": "УИК №3135",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8001,8 +9531,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3136,
     "uikTvd": "477411670564",
+    "uikName": "УИК №3136",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 21,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8048,8 +9587,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3137,
     "uikTvd": "477411670565",
+    "uikName": "УИК №3137",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 16,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -8095,8 +9643,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1676,
     "uikTvd": "477411770442",
+    "uikName": "УИК №1676",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1894,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8142,8 +9699,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1677,
     "uikTvd": "477411770443",
+    "uikName": "УИК №1677",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1781,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8189,8 +9755,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1678,
     "uikTvd": "477411770444",
+    "uikName": "УИК №1678",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1975,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8236,8 +9811,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1679,
     "uikTvd": "477411770445",
+    "uikName": "УИК №1679",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1839,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8283,8 +9867,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1680,
     "uikTvd": "477411770446",
+    "uikName": "УИК №1680",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1703,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8330,8 +9923,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1681,
     "uikTvd": "477411770447",
+    "uikName": "УИК №1681",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 921,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8377,8 +9979,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1682,
     "uikTvd": "477411770448",
+    "uikName": "УИК №1682",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1784,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8424,8 +10035,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1683,
     "uikTvd": "477411770449",
+    "uikName": "УИК №1683",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1919,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8471,8 +10091,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1684,
     "uikTvd": "477411770450",
+    "uikName": "УИК №1684",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1656,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8518,8 +10147,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1685,
     "uikTvd": "477411770451",
+    "uikName": "УИК №1685",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2214,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8565,8 +10203,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1686,
     "uikTvd": "477411770452",
+    "uikName": "УИК №1686",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2424,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8612,8 +10259,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1687,
     "uikTvd": "477411770453",
+    "uikName": "УИК №1687",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8659,8 +10315,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1688,
     "uikTvd": "477411770454",
+    "uikName": "УИК №1688",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2338,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8706,8 +10371,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1689,
     "uikTvd": "477411770455",
+    "uikName": "УИК №1689",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2392,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8753,8 +10427,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1690,
     "uikTvd": "477411770456",
+    "uikName": "УИК №1690",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2600,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8800,8 +10483,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3138,
     "uikTvd": "477411770483",
+    "uikName": "УИК №3138",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 14,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -8847,8 +10539,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3140,
     "uikTvd": "477411770485",
+    "uikName": "УИК №3140",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 35,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -8894,8 +10595,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3141,
     "uikTvd": "477411770486",
+    "uikName": "УИК №3141",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 9,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -8941,8 +10651,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1781,
     "uikTvd": "477412270574",
+    "uikName": "УИК №1781",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1841,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8988,8 +10707,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1782,
     "uikTvd": "477412270575",
+    "uikName": "УИК №1782",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2098,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9035,8 +10763,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1783,
     "uikTvd": "477412270576",
+    "uikName": "УИК №1783",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2443,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9082,8 +10819,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1784,
     "uikTvd": "477412270577",
+    "uikName": "УИК №1784",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2315,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9129,8 +10875,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1785,
     "uikTvd": "477412270578",
+    "uikName": "УИК №1785",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2155,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9176,8 +10931,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1786,
     "uikTvd": "477412270579",
+    "uikName": "УИК №1786",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2679,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9223,8 +10987,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1787,
     "uikTvd": "477412270580",
+    "uikName": "УИК №1787",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9270,8 +11043,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1788,
     "uikTvd": "477412270581",
+    "uikName": "УИК №1788",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2373,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9317,8 +11099,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1789,
     "uikTvd": "477412270582",
+    "uikName": "УИК №1789",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9364,8 +11155,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1790,
     "uikTvd": "477412270583",
+    "uikName": "УИК №1790",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2647,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9411,8 +11211,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1791,
     "uikTvd": "477412270584",
+    "uikName": "УИК №1791",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2126,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9458,8 +11267,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1792,
     "uikTvd": "477412270585",
+    "uikName": "УИК №1792",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9505,8 +11323,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1793,
     "uikTvd": "477412270586",
+    "uikName": "УИК №1793",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1536,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9552,8 +11379,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1794,
     "uikTvd": "477412270587",
+    "uikName": "УИК №1794",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1448,
       "Число бюллетеней, полученных участковыми комиссиями": 1432,
@@ -9599,8 +11435,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1795,
     "uikTvd": "477412270588",
+    "uikName": "УИК №1795",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2810,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -9646,8 +11491,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1796,
     "uikTvd": "477412270589",
+    "uikName": "УИК №1796",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2527,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9693,8 +11547,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1797,
     "uikTvd": "477412270590",
+    "uikName": "УИК №1797",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2303,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9740,8 +11603,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1798,
     "uikTvd": "477412270591",
+    "uikName": "УИК №1798",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2663,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9787,8 +11659,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1799,
     "uikTvd": "477412270592",
+    "uikName": "УИК №1799",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9834,8 +11715,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1800,
     "uikTvd": "477412270593",
+    "uikName": "УИК №1800",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2171,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9881,8 +11771,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1801,
     "uikTvd": "477412270594",
+    "uikName": "УИК №1801",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2580,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9928,8 +11827,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1802,
     "uikTvd": "477412270595",
+    "uikName": "УИК №1802",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2424,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9975,8 +11883,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1803,
     "uikTvd": "477412270596",
+    "uikName": "УИК №1803",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2181,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10022,8 +11939,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1804,
     "uikTvd": "477412270597",
+    "uikName": "УИК №1804",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2101,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10069,8 +11995,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1805,
     "uikTvd": "477412270598",
+    "uikName": "УИК №1805",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2703,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10116,8 +12051,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1806,
     "uikTvd": "477412270599",
+    "uikName": "УИК №1806",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2689,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10163,8 +12107,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1807,
     "uikTvd": "477412270600",
+    "uikName": "УИК №1807",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1801,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10210,8 +12163,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1808,
     "uikTvd": "477412270601",
+    "uikName": "УИК №1808",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1916,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10257,8 +12219,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1809,
     "uikTvd": "477412270602",
+    "uikName": "УИК №1809",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2077,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10304,8 +12275,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1810,
     "uikTvd": "477412270603",
+    "uikName": "УИК №1810",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10351,8 +12331,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1811,
     "uikTvd": "477412270604",
+    "uikName": "УИК №1811",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2101,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10398,8 +12387,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1812,
     "uikTvd": "477412270605",
+    "uikName": "УИК №1812",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 946,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -10445,8 +12443,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3153,
     "uikTvd": "477412270610",
+    "uikName": "УИК  3153",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 16,
       "Число бюллетеней, полученных участковыми комиссиями": 30,
@@ -10492,8 +12499,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3154,
     "uikTvd": "477412270611",
+    "uikName": "УИК  3154",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -10539,8 +12555,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1759,
     "uikTvd": "477412170543",
+    "uikName": "УИК №1759",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1299,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -10586,8 +12611,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1760,
     "uikTvd": "477412170544",
+    "uikName": "УИК №1760",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1844,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10633,8 +12667,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1761,
     "uikTvd": "477412170545",
+    "uikName": "УИК №1761",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1683,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -10680,8 +12723,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1762,
     "uikTvd": "477412170546",
+    "uikName": "УИК №1762",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2379,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -10727,8 +12779,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1763,
     "uikTvd": "477412170547",
+    "uikName": "УИК №1763",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1511,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -10774,8 +12835,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1764,
     "uikTvd": "477412170548",
+    "uikName": "УИК №1764",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1894,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -10821,8 +12891,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1765,
     "uikTvd": "477412170549",
+    "uikName": "УИК №1765",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1792,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -10868,8 +12947,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1766,
     "uikTvd": "477412170550",
+    "uikName": "УИК №1766",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1694,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -10915,8 +13003,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1767,
     "uikTvd": "477412170551",
+    "uikName": "УИК №1767",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2233,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -10962,8 +13059,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1768,
     "uikTvd": "477412170552",
+    "uikName": "УИК №1768",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2448,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -11009,8 +13115,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1769,
     "uikTvd": "477412170553",
+    "uikName": "УИК №1769",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2377,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -11056,8 +13171,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1770,
     "uikTvd": "477412170554",
+    "uikName": "УИК №1770",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2260,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -11103,8 +13227,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1771,
     "uikTvd": "477412170555",
+    "uikName": "УИК №1771",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1941,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11150,8 +13283,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1772,
     "uikTvd": "477412170556",
+    "uikName": "УИК №1772",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -11197,8 +13339,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1773,
     "uikTvd": "477412170557",
+    "uikName": "УИК №1773",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1262,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -11244,8 +13395,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1774,
     "uikTvd": "477412170558",
+    "uikName": "УИК №1774",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2034,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -11291,8 +13451,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1775,
     "uikTvd": "477412170559",
+    "uikName": "УИК №1775",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1822,
       "Число бюллетеней, полученных участковыми комиссиями": 1665,
@@ -11338,8 +13507,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1776,
     "uikTvd": "477412170560",
+    "uikName": "УИК №1776",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2419,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -11385,8 +13563,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1777,
     "uikTvd": "477412170561",
+    "uikName": "УИК №1777",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2062,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -11432,8 +13619,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1778,
     "uikTvd": "477412170562",
+    "uikName": "УИК №1778",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1534,
       "Число бюллетеней, полученных участковыми комиссиями": 1390,
@@ -11479,8 +13675,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1779,
     "uikTvd": "477412170563",
+    "uikName": "УИК №1779",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2502,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -11526,8 +13731,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1780,
     "uikTvd": "477412170564",
+    "uikName": "УИК №1780",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2616,
       "Число бюллетеней, полученных участковыми комиссиями": 2410,
@@ -11573,8 +13787,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3148,
     "uikTvd": "477412170572",
+    "uikName": "УИК №3148",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -11620,8 +13843,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3149,
     "uikTvd": "477412170573",
+    "uikName": "УИК №3149",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 27,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -11667,8 +13899,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3150,
     "uikTvd": "477412170574",
+    "uikName": "УИК №3150",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11714,8 +13955,17 @@ export const duma_2003_uik_428_region_77_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3151,
     "uikTvd": "477412170575",
+    "uikName": "УИК №3151",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
+    "district": {
+      "districtNumber": 191,
+      "oikTvd": "100100095690",
+      "oikName": "Автозаводский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 650,

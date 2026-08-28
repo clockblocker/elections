@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1389,
     "uikTvd": "466401766738",
+    "uikName": "УИК №1389",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2129,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1390,
     "uikTvd": "466401766739",
+    "uikName": "УИК №1390",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1489,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1391,
     "uikTvd": "466401766740",
+    "uikName": "УИК №1391",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1059,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1392,
     "uikTvd": "466401766741",
+    "uikName": "УИК №1392",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1564,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1393,
     "uikTvd": "466401766742",
+    "uikName": "УИК №1393",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1708,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1394,
     "uikTvd": "466401766743",
+    "uikName": "УИК №1394",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2426,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1395,
     "uikTvd": "466401766744",
+    "uikName": "УИК №1395",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2268,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1396,
     "uikTvd": "466401766745",
+    "uikName": "УИК №1396",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2101,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1397,
     "uikTvd": "466401766746",
+    "uikName": "УИК №1397",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1398,
     "uikTvd": "466401766747",
+    "uikName": "УИК №1398",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1649,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1399,
     "uikTvd": "466401766748",
+    "uikName": "УИК №1399",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1519,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1400,
     "uikTvd": "466401766749",
+    "uikName": "УИК №1400",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1401,
     "uikTvd": "466401766750",
+    "uikName": "УИК №1401",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1899,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1402,
     "uikTvd": "466401766751",
+    "uikName": "УИК №1402",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1626,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1403,
     "uikTvd": "466401766752",
+    "uikName": "УИК №1403",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1404,
     "uikTvd": "466401766753",
+    "uikName": "УИК №1404",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2406,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1405,
     "uikTvd": "466401766754",
+    "uikName": "УИК №1405",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1462,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1406,
     "uikTvd": "466401766755",
+    "uikName": "УИК №1406",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1348,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1407,
     "uikTvd": "466401766756",
+    "uikName": "УИК №1407",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1818,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1408,
     "uikTvd": "466401766757",
+    "uikName": "УИК №1408",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1409,
     "uikTvd": "466401766758",
+    "uikName": "УИК №1409",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2000,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1410,
     "uikTvd": "466401766759",
+    "uikName": "УИК №1410",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1515,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1411,
     "uikTvd": "466401766760",
+    "uikName": "УИК №1411",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1602,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1412,
     "uikTvd": "466401766761",
+    "uikName": "УИК №1412",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2040,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1413,
     "uikTvd": "466401766762",
+    "uikName": "УИК №1413",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2271,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1414,
     "uikTvd": "466401766763",
+    "uikName": "УИК №1414",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2435,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1415,
     "uikTvd": "466401766764",
+    "uikName": "УИК №1415",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2432,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1416,
     "uikTvd": "466401766765",
+    "uikName": "УИК №1416",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1417,
     "uikTvd": "466401766766",
+    "uikName": "УИК №1417",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1730,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1418,
     "uikTvd": "466401766767",
+    "uikName": "УИК №1418",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1832,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1419,
     "uikTvd": "466401766768",
+    "uikName": "УИК №1419",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1690,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1420,
     "uikTvd": "466401766769",
+    "uikName": "УИК №1420",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1889,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1421,
     "uikTvd": "466401766770",
+    "uikName": "УИК №1421",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1705,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1422,
     "uikTvd": "466401766771",
+    "uikName": "УИК №1422",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1970,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1423,
     "uikTvd": "466401766772",
+    "uikName": "УИК №1423",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1627,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1424,
     "uikTvd": "466401766773",
+    "uikName": "УИК №1424",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1543,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1425,
     "uikTvd": "466401766774",
+    "uikName": "УИК №1425",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1426,
     "uikTvd": "466401766775",
+    "uikName": "УИК №1426",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1427,
     "uikTvd": "466401766776",
+    "uikName": "УИК №1427",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2052,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1428,
     "uikTvd": "466401766777",
+    "uikName": "УИК №1428",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1429,
     "uikTvd": "466401766778",
+    "uikName": "УИК №1429",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2308,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1430,
     "uikTvd": "466401766779",
+    "uikName": "УИК №1430",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2059,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1431,
     "uikTvd": "466401766780",
+    "uikName": "УИК №1431",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2234,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1432,
     "uikTvd": "466401766781",
+    "uikName": "УИК №1432",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2267,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1433,
     "uikTvd": "466401766782",
+    "uikName": "УИК №1433",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1538,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1434,
     "uikTvd": "466401766783",
+    "uikName": "УИК №1434",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2457,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1435,
     "uikTvd": "466401766784",
+    "uikName": "УИК №1435",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1271,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1436,
     "uikTvd": "466401766785",
+    "uikName": "УИК №1436",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1937,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1437,
     "uikTvd": "466401766786",
+    "uikName": "УИК №1437",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2156,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1438,
     "uikTvd": "466401766787",
+    "uikName": "УИК №1438",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2272,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1439,
     "uikTvd": "466401766788",
+    "uikName": "УИК №1439",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1862,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1440,
     "uikTvd": "466401766789",
+    "uikName": "УИК №1440",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2001,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1441,
     "uikTvd": "466401766790",
+    "uikName": "УИК №1441",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1706,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1442,
     "uikTvd": "466401766791",
+    "uikName": "УИК №1442",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2043,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1443,
     "uikTvd": "466401766792",
+    "uikName": "УИК №1443",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1501,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2706,8 +3201,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1444,
     "uikTvd": "466401766793",
+    "uikName": "УИК №1444",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 933,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2755,8 +3259,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1445,
     "uikTvd": "466401766794",
+    "uikName": "УИК №1445",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 762,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -2804,8 +3317,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1446,
     "uikTvd": "466401766795",
+    "uikName": "УИК №1446",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1857,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -2853,8 +3375,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1447,
     "uikTvd": "466401766796",
+    "uikName": "УИК №1447",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -2902,8 +3433,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1448,
     "uikTvd": "466401766797",
+    "uikName": "УИК №1448",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2698,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -2951,8 +3491,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1449,
     "uikTvd": "466401766798",
+    "uikName": "УИК №1449",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2575,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3000,8 +3549,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1450,
     "uikTvd": "466401766799",
+    "uikName": "УИК №1450",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2637,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -3049,8 +3607,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1451,
     "uikTvd": "466401766800",
+    "uikName": "УИК №1451",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3098,8 +3665,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1452,
     "uikTvd": "466401766801",
+    "uikName": "УИК №1452",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3147,8 +3723,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1453,
     "uikTvd": "466401766802",
+    "uikName": "УИК №1453",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2180,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3196,8 +3781,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1454,
     "uikTvd": "466401766803",
+    "uikName": "УИК №1454",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2121,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3245,8 +3839,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1455,
     "uikTvd": "466401766804",
+    "uikName": "УИК №1455",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1674,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3294,8 +3897,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1456,
     "uikTvd": "466401766805",
+    "uikName": "УИК №1456",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1883,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3343,8 +3955,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1457,
     "uikTvd": "466401766806",
+    "uikName": "УИК №1457",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1716,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3392,8 +4013,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1458,
     "uikTvd": "466401766807",
+    "uikName": "УИК №1458",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1384,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -3441,8 +4071,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1459,
     "uikTvd": "466401766808",
+    "uikName": "УИК №1459",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2744,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3490,8 +4129,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1460,
     "uikTvd": "466401766809",
+    "uikName": "УИК №1460",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2395,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3539,8 +4187,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1461,
     "uikTvd": "466401766810",
+    "uikName": "УИК №1461",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2758,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -3588,8 +4245,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1462,
     "uikTvd": "466401766811",
+    "uikName": "УИК №1462",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2614,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -3637,8 +4303,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1463,
     "uikTvd": "466401766812",
+    "uikName": "УИК №1463",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2043,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3686,8 +4361,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1464,
     "uikTvd": "466401766813",
+    "uikName": "УИК №1464",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2655,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -3735,8 +4419,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1465,
     "uikTvd": "466401766814",
+    "uikName": "УИК №1465",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2276,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3784,8 +4477,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1466,
     "uikTvd": "466401766815",
+    "uikName": "УИК №1466",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2317,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3833,8 +4535,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1467,
     "uikTvd": "466401766816",
+    "uikName": "УИК №1467",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1262,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3882,8 +4593,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1568,
     "uikTvd": "466401766921",
+    "uikName": "УИК №1568",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2579,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3931,8 +4651,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1569,
     "uikTvd": "466401766922",
+    "uikName": "УИК №1569",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -3980,8 +4709,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1570,
     "uikTvd": "466401766923",
+    "uikName": "УИК №1570",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2421,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4029,8 +4767,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1571,
     "uikTvd": "466401766924",
+    "uikName": "УИК №1571",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2401,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4078,8 +4825,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1572,
     "uikTvd": "466401766925",
+    "uikName": "УИК №1572",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2700,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4127,8 +4883,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1573,
     "uikTvd": "466401766926",
+    "uikName": "УИК №1573",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2616,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4176,8 +4941,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1574,
     "uikTvd": "466401766919",
+    "uikName": "УИК №1574",
     "tikTvd": "366300666775",
     "tikName": "Екатеринбург, Кировская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2525,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4225,8 +4999,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1596,
     "uikTvd": "466402066725",
+    "uikName": "УИК №1596",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4274,8 +5057,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1597,
     "uikTvd": "466402066726",
+    "uikName": "УИК №1597",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -4323,8 +5115,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1598,
     "uikTvd": "466402066727",
+    "uikName": "УИК №1598",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1908,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -4372,8 +5173,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1599,
     "uikTvd": "466402066728",
+    "uikName": "УИК №1599",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1836,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -4421,8 +5231,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1600,
     "uikTvd": "466402066729",
+    "uikName": "УИК №1600",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1818,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -4470,8 +5289,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1601,
     "uikTvd": "466402066730",
+    "uikName": "УИК №1601",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2051,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -4519,8 +5347,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1602,
     "uikTvd": "466402066731",
+    "uikName": "УИК №1602",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2432,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -4568,8 +5405,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1603,
     "uikTvd": "466402066732",
+    "uikName": "УИК №1603",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1510,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4617,8 +5463,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1604,
     "uikTvd": "466402066733",
+    "uikName": "УИК №1604",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1641,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -4666,8 +5521,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1605,
     "uikTvd": "466402066734",
+    "uikName": "УИК №1605",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1151,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -4715,8 +5579,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1606,
     "uikTvd": "466402066735",
+    "uikName": "УИК №1606",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2259,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -4764,8 +5637,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1607,
     "uikTvd": "466402066736",
+    "uikName": "УИК №1607",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1157,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -4813,8 +5695,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1608,
     "uikTvd": "466402066737",
+    "uikName": "УИК №1608",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 750,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -4862,8 +5753,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1609,
     "uikTvd": "466402066738",
+    "uikName": "УИК №1609",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1544,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -4911,8 +5811,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1610,
     "uikTvd": "466402066739",
+    "uikName": "УИК №1610",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1553,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -4960,8 +5869,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1611,
     "uikTvd": "466402066740",
+    "uikName": "УИК №1611",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1745,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -5009,8 +5927,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1612,
     "uikTvd": "466402066741",
+    "uikName": "УИК №1612",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1535,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -5058,8 +5985,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1613,
     "uikTvd": "466402066742",
+    "uikName": "УИК №1613",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1875,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -5107,8 +6043,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1614,
     "uikTvd": "466402066743",
+    "uikName": "УИК №1614",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1529,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -5156,8 +6101,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1615,
     "uikTvd": "466402066744",
+    "uikName": "УИК №1615",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1800,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5205,8 +6159,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1616,
     "uikTvd": "466402066745",
+    "uikName": "УИК №1616",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2244,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5254,8 +6217,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1617,
     "uikTvd": "466402066746",
+    "uikName": "УИК №1617",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1582,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -5303,8 +6275,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1618,
     "uikTvd": "466402066747",
+    "uikName": "УИК №1618",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1546,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -5352,8 +6333,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1619,
     "uikTvd": "466402066748",
+    "uikName": "УИК №1619",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2767,
       "Число бюллетеней, полученных участковыми комиссиями": 2730,
@@ -5401,8 +6391,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1620,
     "uikTvd": "466402066749",
+    "uikName": "УИК №1620",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2306,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -5450,8 +6449,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1621,
     "uikTvd": "466402066750",
+    "uikName": "УИК №1621",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2443,
       "Число бюллетеней, полученных участковыми комиссиями": 2410,
@@ -5499,8 +6507,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1622,
     "uikTvd": "466402066751",
+    "uikName": "УИК №1622",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1937,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -5548,8 +6565,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1623,
     "uikTvd": "466402066752",
+    "uikName": "УИК №1623",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -5597,8 +6623,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1624,
     "uikTvd": "466402066753",
+    "uikName": "УИК №1624",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2466,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -5646,8 +6681,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1625,
     "uikTvd": "466402066754",
+    "uikName": "УИК №1625",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1807,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5695,8 +6739,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1626,
     "uikTvd": "466402066755",
+    "uikName": "УИК №1626",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1572,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -5744,8 +6797,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1627,
     "uikTvd": "466402066756",
+    "uikName": "УИК №1627",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1697,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -5793,8 +6855,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1628,
     "uikTvd": "466402066757",
+    "uikName": "УИК №1628",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1489,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -5842,8 +6913,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1629,
     "uikTvd": "466402066758",
+    "uikName": "УИК №1629",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1843,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -5891,8 +6971,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1630,
     "uikTvd": "466402066759",
+    "uikName": "УИК №1630",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1878,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -5940,8 +7029,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1631,
     "uikTvd": "466402066760",
+    "uikName": "УИК №1631",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2306,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -5989,8 +7087,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1632,
     "uikTvd": "466402066761",
+    "uikName": "УИК №1632",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2229,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -6038,8 +7145,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1633,
     "uikTvd": "466402066762",
+    "uikName": "УИК №1633",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1928,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -6087,8 +7203,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1634,
     "uikTvd": "466402066763",
+    "uikName": "УИК №1634",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2662,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -6136,8 +7261,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1635,
     "uikTvd": "466402066764",
+    "uikName": "УИК №1635",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2479,
       "Число бюллетеней, полученных участковыми комиссиями": 2470,
@@ -6185,8 +7319,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1636,
     "uikTvd": "466402066765",
+    "uikName": "УИК №1636",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2301,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6234,8 +7377,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1637,
     "uikTvd": "466402066766",
+    "uikName": "УИК №1637",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2007,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6283,8 +7435,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1638,
     "uikTvd": "466402066767",
+    "uikName": "УИК №1638",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1973,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -6332,8 +7493,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1639,
     "uikTvd": "466402066768",
+    "uikName": "УИК №1639",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2301,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -6381,8 +7551,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1640,
     "uikTvd": "466402066769",
+    "uikName": "УИК №1640",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2761,
       "Число бюллетеней, полученных участковыми комиссиями": 2740,
@@ -6430,8 +7609,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1641,
     "uikTvd": "466402066770",
+    "uikName": "УИК №1641",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2513,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -6479,8 +7667,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1642,
     "uikTvd": "466402066771",
+    "uikName": "УИК №1642",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2587,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -6528,8 +7725,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1643,
     "uikTvd": "466402066772",
+    "uikName": "УИК №1643",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2546,
       "Число бюллетеней, полученных участковыми комиссиями": 2530,
@@ -6577,8 +7783,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1644,
     "uikTvd": "466402066773",
+    "uikName": "УИК №1644",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1511,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -6626,8 +7841,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1645,
     "uikTvd": "466402066774",
+    "uikName": "УИК №1645",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1946,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -6675,8 +7899,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1646,
     "uikTvd": "466402066775",
+    "uikName": "УИК №1646",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2182,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -6724,8 +7957,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1647,
     "uikTvd": "466402066776",
+    "uikName": "УИК №1647",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2802,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -6773,8 +8015,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1648,
     "uikTvd": "466402066777",
+    "uikName": "УИК №1648",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2858,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -6822,8 +8073,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1649,
     "uikTvd": "466402066778",
+    "uikName": "УИК №1649",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2982,
       "Число бюллетеней, полученных участковыми комиссиями": 2960,
@@ -6871,8 +8131,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1650,
     "uikTvd": "466402066779",
+    "uikName": "УИК №1650",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2658,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -6920,8 +8189,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1651,
     "uikTvd": "466402066780",
+    "uikName": "УИК №1651",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2377,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -6969,8 +8247,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1652,
     "uikTvd": "466402066781",
+    "uikName": "УИК №1652",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1965,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -7018,8 +8305,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1653,
     "uikTvd": "466402066782",
+    "uikName": "УИК №1653",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2580,
       "Число бюллетеней, полученных участковыми комиссиями": 2530,
@@ -7067,8 +8363,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1654,
     "uikTvd": "466402066783",
+    "uikName": "УИК №1654",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2245,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -7116,8 +8421,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1655,
     "uikTvd": "466402066784",
+    "uikName": "УИК №1655",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2943,
       "Число бюллетеней, полученных участковыми комиссиями": 2910,
@@ -7165,8 +8479,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1656,
     "uikTvd": "466402066785",
+    "uikName": "УИК №1656",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -7214,8 +8537,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1657,
     "uikTvd": "466402066786",
+    "uikName": "УИК №1657",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2529,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7263,8 +8595,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1658,
     "uikTvd": "466402066787",
+    "uikName": "УИК №1658",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2638,
       "Число бюллетеней, полученных участковыми комиссиями": 2620,
@@ -7312,8 +8653,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1659,
     "uikTvd": "466402066788",
+    "uikName": "УИК №1659",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2311,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7361,8 +8711,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1660,
     "uikTvd": "466402066789",
+    "uikName": "УИК №1660",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2227,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -7410,8 +8769,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1661,
     "uikTvd": "466402066790",
+    "uikName": "УИК №1661",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2656,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -7459,8 +8827,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1662,
     "uikTvd": "466402066791",
+    "uikName": "УИК №1662",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2607,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -7508,8 +8885,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1663,
     "uikTvd": "466402066792",
+    "uikName": "УИК №1663",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2881,
       "Число бюллетеней, полученных участковыми комиссиями": 2820,
@@ -7557,8 +8943,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1664,
     "uikTvd": "466402066793",
+    "uikName": "УИК №1664",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2850,
       "Число бюллетеней, полученных участковыми комиссиями": 2950,
@@ -7606,8 +9001,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1665,
     "uikTvd": "466402066794",
+    "uikName": "УИК №1665",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2839,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -7655,8 +9059,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1666,
     "uikTvd": "466402066795",
+    "uikName": "УИК №1666",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2776,
       "Число бюллетеней, полученных участковыми комиссиями": 2730,
@@ -7704,8 +9117,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1667,
     "uikTvd": "466402066796",
+    "uikName": "УИК №1667",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2857,
       "Число бюллетеней, полученных участковыми комиссиями": 2820,
@@ -7753,8 +9175,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1668,
     "uikTvd": "466402066797",
+    "uikName": "УИК №1668",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2782,
       "Число бюллетеней, полученных участковыми комиссиями": 2770,
@@ -7802,8 +9233,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1669,
     "uikTvd": "466402066798",
+    "uikName": "УИК №1669",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2768,
       "Число бюллетеней, полученных участковыми комиссиями": 2730,
@@ -7851,8 +9291,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1670,
     "uikTvd": "466402066799",
+    "uikName": "УИК №1670",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1895,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7900,8 +9349,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1671,
     "uikTvd": "466402066800",
+    "uikName": "УИК №1671",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2616,
       "Число бюллетеней, полученных участковыми комиссиями": 2590,
@@ -7949,8 +9407,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1672,
     "uikTvd": "466402066801",
+    "uikName": "УИК №1672",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1870,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -7998,8 +9465,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1673,
     "uikTvd": "466402066802",
+    "uikName": "УИК №1673",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1802,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8047,8 +9523,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1674,
     "uikTvd": "466402066803",
+    "uikName": "УИК №1674",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2511,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8096,8 +9581,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1675,
     "uikTvd": "466402066804",
+    "uikName": "УИК №1675",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2726,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -8145,8 +9639,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1676,
     "uikTvd": "466402066805",
+    "uikName": "УИК №1676",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2688,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -8194,8 +9697,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1677,
     "uikTvd": "466402066806",
+    "uikName": "УИК №1677",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -8243,8 +9755,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1678,
     "uikTvd": "466402066807",
+    "uikName": "УИК №1678",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1905,
       "Число бюллетеней, полученных участковыми комиссиями": 1880,
@@ -8292,8 +9813,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1679,
     "uikTvd": "466402066808",
+    "uikName": "УИК №1679",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1969,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -8341,8 +9871,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1680,
     "uikTvd": "466402066809",
+    "uikName": "УИК №1680",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1826,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8390,8 +9929,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1681,
     "uikTvd": "466402066810",
+    "uikName": "УИК №1681",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2749,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -8439,8 +9987,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1682,
     "uikTvd": "466402066811",
+    "uikName": "УИК №1682",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1926,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -8488,8 +10045,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1683,
     "uikTvd": "466402066812",
+    "uikName": "УИК №1683",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1509,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8537,8 +10103,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1684,
     "uikTvd": "466402066813",
+    "uikName": "УИК №1684",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1628,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8586,8 +10161,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1685,
     "uikTvd": "466402066814",
+    "uikName": "УИК №1685",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1690,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8635,8 +10219,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1686,
     "uikTvd": "466402066815",
+    "uikName": "УИК №1686",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1597,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -8684,8 +10277,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1687,
     "uikTvd": "466402066816",
+    "uikName": "УИК №1687",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1561,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -8733,8 +10335,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1688,
     "uikTvd": "466402066817",
+    "uikName": "УИК №1688",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1885,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -8782,8 +10393,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1689,
     "uikTvd": "466402066818",
+    "uikName": "УИК №1689",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2433,
       "Число бюллетеней, полученных участковыми комиссиями": 2410,
@@ -8831,8 +10451,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1690,
     "uikTvd": "466402066819",
+    "uikName": "УИК №1690",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8880,8 +10509,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1691,
     "uikTvd": "466402066820",
+    "uikName": "УИК №1691",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2103,
       "Число бюллетеней, полученных участковыми комиссиями": 2060,
@@ -8929,8 +10567,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1692,
     "uikTvd": "466402066821",
+    "uikName": "УИК №1692",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2135,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -8978,8 +10625,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1693,
     "uikTvd": "466402066822",
+    "uikName": "УИК №1693",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9027,8 +10683,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1694,
     "uikTvd": "466402066823",
+    "uikName": "УИК №1694",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2774,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -9076,8 +10741,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1695,
     "uikTvd": "466402066824",
+    "uikName": "УИК №1695",
     "tikTvd": "366300666776",
     "tikName": "Екатеринбург, Орджоникидзевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 165,
+      "oikTvd": "100100095922",
+      "oikName": "Орджоникидзевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 34,
       "Число бюллетеней, полученных участковыми комиссиями": 34,
@@ -9125,8 +10799,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "466406466694",
+    "uikName": "УИК №1",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1673,
       "Число бюллетеней, полученных участковыми комиссиями": 1673,
@@ -9177,8 +10860,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "466406466695",
+    "uikName": "УИК №2",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 911,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -9229,8 +10921,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "466406466696",
+    "uikName": "УИК №3",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1916,
       "Число бюллетеней, полученных участковыми комиссиями": 1902,
@@ -9281,8 +10982,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "466406466697",
+    "uikName": "УИК №4",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1883,
       "Число бюллетеней, полученных участковыми комиссиями": 1901,
@@ -9333,8 +11043,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "466406466698",
+    "uikName": "УИК №5",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1955,
       "Число бюллетеней, полученных участковыми комиссиями": 1902,
@@ -9385,8 +11104,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "466406466699",
+    "uikName": "УИК №6",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1090,
       "Число бюллетеней, полученных участковыми комиссиями": 1038,
@@ -9437,8 +11165,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "466406466700",
+    "uikName": "УИК №7",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 592,
       "Число бюллетеней, полученных участковыми комиссиями": 595,
@@ -9489,8 +11226,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "466406466701",
+    "uikName": "УИК №8",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 556,
       "Число бюллетеней, полученных участковыми комиссиями": 551,
@@ -9541,8 +11287,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "466406466702",
+    "uikName": "УИК №9",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 811,
       "Число бюллетеней, полученных участковыми комиссиями": 805,
@@ -9593,8 +11348,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "466406466703",
+    "uikName": "УИК №10",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1249,
       "Число бюллетеней, полученных участковыми комиссиями": 1246,
@@ -9645,8 +11409,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "466406466704",
+    "uikName": "УИК №11",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 800,
       "Число бюллетеней, полученных участковыми комиссиями": 789,
@@ -9697,8 +11470,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "466406466705",
+    "uikName": "УИК №12",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -9749,8 +11531,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "466406466706",
+    "uikName": "УИК №13",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -9801,8 +11592,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "466406466707",
+    "uikName": "УИК №14",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 362,
@@ -9853,8 +11653,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "466406466708",
+    "uikName": "УИК №15",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -9905,8 +11714,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "466406466709",
+    "uikName": "УИК №16",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -9957,8 +11775,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "466406466710",
+    "uikName": "УИК №17",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -10009,8 +11836,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "466406466711",
+    "uikName": "УИК №18",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -10061,8 +11897,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "466406466712",
+    "uikName": "УИК №19",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 624,
@@ -10113,8 +11958,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "466406466713",
+    "uikName": "УИК №20",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 53,
       "Число бюллетеней, полученных участковыми комиссиями": 52,
@@ -10165,8 +12019,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "466406466714",
+    "uikName": "УИК №21",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 366,
@@ -10217,8 +12080,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "466406466715",
+    "uikName": "УИК №22",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -10269,8 +12141,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "466406466716",
+    "uikName": "УИК №23",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 378,
@@ -10321,8 +12202,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "466406466717",
+    "uikName": "УИК №24",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 89,
@@ -10373,8 +12263,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "466406466718",
+    "uikName": "УИК №25",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -10425,8 +12324,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "466406466719",
+    "uikName": "УИК №26",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 726,
       "Число бюллетеней, полученных участковыми комиссиями": 729,
@@ -10477,8 +12385,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "466406466720",
+    "uikName": "УИК №27",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 124,
@@ -10529,8 +12446,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "466406466721",
+    "uikName": "УИК №28",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 514,
@@ -10581,8 +12507,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "466406466722",
+    "uikName": "УИК №29",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 943,
       "Число бюллетеней, полученных участковыми комиссиями": 937,
@@ -10633,8 +12568,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "466406466723",
+    "uikName": "УИК №30",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 537,
@@ -10685,8 +12629,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "466406466724",
+    "uikName": "УИК №31",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 732,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -10737,8 +12690,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "466406466725",
+    "uikName": "УИК №32",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 771,
       "Число бюллетеней, полученных участковыми комиссиями": 769,
@@ -10789,8 +12751,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "466406466726",
+    "uikName": "УИК №33",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 231,
@@ -10841,8 +12812,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "466406466727",
+    "uikName": "УИК №34",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -10893,8 +12873,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "466406466728",
+    "uikName": "УИК №35",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 706,
       "Число бюллетеней, полученных участковыми комиссиями": 699,
@@ -10945,8 +12934,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "466406466729",
+    "uikName": "УИК №36",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -10997,8 +12995,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "466406466730",
+    "uikName": "УИК №37",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 906,
       "Число бюллетеней, полученных участковыми комиссиями": 912,
@@ -11049,8 +13056,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "466406466731",
+    "uikName": "УИК №38",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -11101,8 +13117,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "466406466732",
+    "uikName": "УИК №39",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 873,
       "Число бюллетеней, полученных участковыми комиссиями": 867,
@@ -11153,8 +13178,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "466406466733",
+    "uikName": "УИК №40",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -11205,8 +13239,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "466406466734",
+    "uikName": "УИК №41",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 298,
@@ -11257,8 +13300,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "466406466735",
+    "uikName": "УИК №42",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -11309,8 +13361,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "466406466736",
+    "uikName": "УИК №43",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -11361,8 +13422,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "466406466737",
+    "uikName": "УИК №44",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -11413,8 +13483,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "466406466738",
+    "uikName": "УИК №45",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1135,
       "Число бюллетеней, полученных участковыми комиссиями": 1134,
@@ -11465,8 +13544,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "466406466739",
+    "uikName": "УИК №46",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -11517,8 +13605,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "466406466740",
+    "uikName": "УИК №47",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -11569,8 +13666,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "466406466741",
+    "uikName": "УИК №48",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 809,
       "Число бюллетеней, полученных участковыми комиссиями": 806,
@@ -11621,8 +13727,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "466406466742",
+    "uikName": "УИК №49",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 666,
       "Число бюллетеней, полученных участковыми комиссиями": 667,
@@ -11673,8 +13788,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "466406466743",
+    "uikName": "УИК №50",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 237,
@@ -11725,8 +13849,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "466406466744",
+    "uikName": "УИК №51",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 403,
@@ -11777,8 +13910,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "466406466745",
+    "uikName": "УИК №52",
     "tikTvd": "366300766742",
     "tikName": "Алапаевская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 803,
       "Число бюллетеней, полученных участковыми комиссиями": 796,
@@ -11829,8 +13971,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "466406566793",
+    "uikName": "УИК №55",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2023,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11881,8 +14032,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "466406566794",
+    "uikName": "УИК №56",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 834,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -11933,8 +14093,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "466406566795",
+    "uikName": "УИК №57",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1337,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -11985,8 +14154,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "466406566796",
+    "uikName": "УИК №58",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2547,
       "Число бюллетеней, полученных участковыми комиссиями": 2535,
@@ -12037,8 +14215,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "466406566797",
+    "uikName": "УИК №59",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 914,
       "Число бюллетеней, полученных участковыми комиссиями": 905,
@@ -12089,8 +14276,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "466406566798",
+    "uikName": "УИК №60",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1721,
       "Число бюллетеней, полученных участковыми комиссиями": 1695,
@@ -12141,8 +14337,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "466406566799",
+    "uikName": "УИК №61",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 621,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -12193,8 +14398,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "466406566800",
+    "uikName": "УИК №62",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1471,
       "Число бюллетеней, полученных участковыми комиссиями": 1455,
@@ -12245,8 +14459,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "466406566801",
+    "uikName": "УИК №63",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1088,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -12297,8 +14520,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "466406566802",
+    "uikName": "УИК №64",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 2225,
@@ -12349,8 +14581,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "466406566803",
+    "uikName": "УИК №65",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2280,
       "Число бюллетеней, полученных участковыми комиссиями": 2255,
@@ -12401,8 +14642,17 @@ export const duma_2003_uik_428_region_66_part_008 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "466406566804",
+    "uikName": "УИК №66",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2365,
       "Число бюллетеней, полученных участковыми комиссиями": 2390,

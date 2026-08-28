@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072723",
     "tikName": "Александровская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 27936,
@@ -103,6 +106,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072724",
     "tikName": "Соликамская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 10337,
@@ -185,6 +191,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072725",
     "tikName": "Чусовская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 51,
     "accounting": {
       "Число избирателей, внесенных в списки": 59020,
@@ -301,6 +310,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072726",
     "tikName": "Чердынская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 18174,
@@ -399,6 +411,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072727",
     "tikName": "Усольская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 9439,
@@ -483,6 +498,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072728",
     "tikName": "Соликамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 74942,
@@ -588,6 +606,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072729",
     "tikName": "Красновишерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 19580,
@@ -689,6 +710,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072730",
     "tikName": "Кизеловская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 25245,
@@ -773,6 +797,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072731",
     "tikName": "Добрянская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки": 45211,
@@ -883,6 +910,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072732",
     "tikName": "Губахинская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 33124,
@@ -974,6 +1004,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072733",
     "tikName": "Гремячинская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 14305,
@@ -1054,6 +1087,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072734",
     "tikName": "Горнозаводская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 22384,
@@ -1140,6 +1176,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072735",
     "tikName": "Березниковская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 67,
     "accounting": {
       "Число избирателей, внесенных в списки": 133352,
@@ -1272,6 +1311,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072744",
     "tikName": "Звездная поселковая",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки": 7383,
@@ -1343,6 +1385,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072746",
     "tikName": "Пермь, Ленинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 43722,
@@ -1437,6 +1482,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072749",
     "tikName": "Пермская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки": 65074,
@@ -1564,6 +1612,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072752",
     "tikName": "Пермь, Свердловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 91,
     "accounting": {
       "Число избирателей, внесенных в списки": 175976,
@@ -1720,6 +1771,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072753",
     "tikName": "Пермь, Орджоникидзевская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 85179,
@@ -1835,6 +1889,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072754",
     "tikName": "Пермь, Мотовилихинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 74,
     "accounting": {
       "Число избирателей, внесенных в списки": 132766,
@@ -1974,6 +2031,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072755",
     "tikName": "Краснокамская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 55492,
@@ -2079,6 +2139,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "259200072756",
     "tikName": "Ильинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 15826,
@@ -2168,6 +2231,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266782",
     "tikName": "Бардымская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки": 19712,
@@ -2279,6 +2345,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266784",
     "tikName": "Березовская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 12923,
@@ -2384,6 +2453,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266786",
     "tikName": "Большесосновская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 11250,
@@ -2468,6 +2540,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266788",
     "tikName": "Верещагинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 32989,
@@ -2570,6 +2645,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266790",
     "tikName": "Еловская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 9078,
@@ -2648,6 +2726,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266792",
     "tikName": "Кишертская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 11669,
@@ -2737,6 +2818,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266794",
     "tikName": "Куединская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 22431,
@@ -2843,6 +2927,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266796",
     "tikName": "Кунгурская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 51526,
@@ -2935,6 +3022,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266798",
     "tikName": "Лысьвенская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки": 67753,
@@ -3049,6 +3139,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266800",
     "tikName": "Октябрьская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 45,
     "accounting": {
       "Число избирателей, внесенных в списки": 24742,
@@ -3159,6 +3252,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266802",
     "tikName": "Ординская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 12070,
@@ -3247,6 +3343,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266804",
     "tikName": "Осинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 24487,
@@ -3340,6 +3439,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266806",
     "tikName": "Оханская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 12142,
@@ -3418,6 +3520,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266808",
     "tikName": "Очерская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 18869,
@@ -3510,6 +3615,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266810",
     "tikName": "Суксунская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 16540,
@@ -3599,6 +3707,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266812",
     "tikName": "Уинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 9103,
@@ -3687,6 +3798,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266814",
     "tikName": "Чайковская городская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки": 81696,
@@ -3800,6 +3914,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266816",
     "tikName": "Частинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 10060,
@@ -3885,6 +4002,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266818",
     "tikName": "Чернушинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 39268,
@@ -3989,6 +4109,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300266820",
     "tikName": "Кунгурская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в списки": 31789,
@@ -4113,6 +4236,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300366979",
     "tikName": "Карагайская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 17566,
@@ -4204,6 +4330,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300366980",
     "tikName": "Нытвенская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 35921,
@@ -4301,6 +4430,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300366982",
     "tikName": "Пермь, Дзержинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки": 116352,
@@ -4428,6 +4560,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300366983",
     "tikName": "Пермь, Индустриальная",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 64,
     "accounting": {
       "Число избирателей, внесенных в списки": 117344,
@@ -4557,6 +4692,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300366984",
     "tikName": "Пермь, Кировская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 55,
     "accounting": {
       "Число избирателей, внесенных в списки": 100186,
@@ -4677,6 +4815,9 @@ export const duma_2003_tic_431_region_59 = [
     "ballot": "party",
     "tikTvd": "359300366986",
     "tikName": "Сивинская",
+    "regionCode": "59",
+    "regionTvd": "100100095747",
+    "regionName": "Пермская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 12009,

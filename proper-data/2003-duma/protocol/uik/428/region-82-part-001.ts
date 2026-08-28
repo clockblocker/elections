@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "482400367371",
+    "uikName": "УИК  23",
     "tikTvd": "282200067448",
     "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 62,
       "Число бюллетеней, полученных участковыми комиссиями": 62,
@@ -56,8 +65,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "482400367372",
+    "uikName": "УИК  24",
     "tikTvd": "282200067448",
     "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 684,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -101,8 +119,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "482400367373",
+    "uikName": "УИК  25",
     "tikTvd": "282200067448",
     "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 232,
@@ -146,8 +173,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "482400367374",
+    "uikName": "УИК  26",
     "tikTvd": "282200067448",
     "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 476,
@@ -191,8 +227,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "482400367375",
+    "uikName": "УИК  27",
     "tikTvd": "282200067448",
     "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -236,8 +281,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "482400367376",
+    "uikName": "УИК  28",
     "tikTvd": "282200067448",
     "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -281,8 +335,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "482400367377",
+    "uikName": "УИК  29",
     "tikTvd": "282200067448",
     "tikName": "Пенжинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 229,
@@ -326,8 +389,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "482400467381",
+    "uikName": "УИК  1",
     "tikTvd": "282200067450",
     "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -371,8 +443,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "482400467382",
+    "uikName": "УИК  2",
     "tikTvd": "282200067450",
     "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 974,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -416,8 +497,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "482400467383",
+    "uikName": "УИК  3",
     "tikTvd": "282200067450",
     "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -461,8 +551,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "482400467384",
+    "uikName": "УИК  4",
     "tikTvd": "282200067450",
     "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 426,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -506,8 +605,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "482400467385",
+    "uikName": "УИК  5",
     "tikTvd": "282200067450",
     "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1603,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -551,8 +659,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "482400467386",
+    "uikName": "УИК  6",
     "tikTvd": "282200067450",
     "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -596,8 +713,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "482400467387",
+    "uikName": "УИК  7",
     "tikTvd": "282200067450",
     "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2743,
       "Число бюллетеней, полученных участковыми комиссиями": 2630,
@@ -641,8 +767,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "482400467388",
+    "uikName": "УИК  8",
     "tikTvd": "282200067450",
     "tikName": "Тигильская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -686,8 +821,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "482400171652",
+    "uikName": "УИК №9",
     "tikTvd": "282200067987",
     "tikName": "Карагинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 805,
       "Число бюллетеней, полученных участковыми комиссиями": 777,
@@ -731,8 +875,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "482400166718",
+    "uikName": "УИК №10",
     "tikTvd": "282200067987",
     "tikName": "Карагинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -776,8 +929,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "482400166716",
+    "uikName": "УИК №11",
     "tikTvd": "282200067987",
     "tikName": "Карагинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 368,
@@ -821,8 +983,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "482400166720",
+    "uikName": "УИК №12",
     "tikTvd": "282200067987",
     "tikName": "Карагинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2523,
       "Число бюллетеней, полученных участковыми комиссиями": 2495,
@@ -866,8 +1037,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "482400166722",
+    "uikName": "УИК №13",
     "tikTvd": "282200067987",
     "tikName": "Карагинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 600,
       "Число бюллетеней, полученных участковыми комиссиями": 592,
@@ -911,8 +1091,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "482400166724",
+    "uikName": "УИК №14",
     "tikTvd": "282200067987",
     "tikName": "Карагинская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 259,
@@ -956,8 +1145,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "4824002161030",
+    "uikName": "УИК №15",
     "tikTvd": "282200068144",
     "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 307,
@@ -1001,8 +1199,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "4824002161031",
+    "uikName": "УИК №16",
     "tikTvd": "282200068144",
     "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1202,
       "Число бюллетеней, полученных участковыми комиссиями": 1018,
@@ -1046,8 +1253,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "4824002161032",
+    "uikName": "УИК №17",
     "tikTvd": "282200068144",
     "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1384,
       "Число бюллетеней, полученных участковыми комиссиями": 1294,
@@ -1091,8 +1307,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "4824002161033",
+    "uikName": "УИК №18",
     "tikTvd": "282200068144",
     "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 528,
@@ -1136,8 +1361,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "4824002161034",
+    "uikName": "УИК №19",
     "tikTvd": "282200068144",
     "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 444,
@@ -1181,8 +1415,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "4824002161035",
+    "uikName": "УИК №20",
     "tikTvd": "282200068144",
     "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 294,
@@ -1226,8 +1469,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "4824002161036",
+    "uikName": "УИК №21",
     "tikTvd": "282200068144",
     "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -1271,8 +1523,17 @@ export const duma_2003_uik_428_region_82_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "4824002161037",
+    "uikName": "УИК №22",
     "tikTvd": "282200068144",
     "tikName": "Олюторская",
+    "regionCode": "82",
+    "regionTvd": "100100095799",
+    "regionName": "Корякский автономный округ",
+    "district": {
+      "districtNumber": 217,
+      "oikTvd": "100100095800",
+      "oikName": "Корякский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 367,

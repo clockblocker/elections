@@ -7,11089 +7,27721 @@ export const duma_2003_uik_to_tik_region_78 = [
   {
     "uikNumber": 1,
     "uikTvd": "478400170474",
+    "uikName": "УИК №1",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "478400170475",
+    "uikName": "УИК №2",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "478400170476",
+    "uikName": "УИК №3",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "478400170477",
+    "uikName": "УИК №4",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "478400170478",
+    "uikName": "УИК №5",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "478400170479",
+    "uikName": "УИК №6",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "478400170480",
+    "uikName": "УИК №7",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "478400170481",
+    "uikName": "УИК №8",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "478400170482",
+    "uikName": "УИК №9",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "478400170483",
+    "uikName": "УИК №10",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "478400170484",
+    "uikName": "УИК №11",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "478400170485",
+    "uikName": "УИК №12",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "478400170486",
+    "uikName": "УИК №13",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "478400170487",
+    "uikName": "УИК №14",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "478400170488",
+    "uikName": "УИК №15",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "478400170489",
+    "uikName": "УИК №16",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "478400170490",
+    "uikName": "УИК №17",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "478400170491",
+    "uikName": "УИК №18",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "478400170492",
+    "uikName": "УИК №19",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "478400170493",
+    "uikName": "УИК №20",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "478400170494",
+    "uikName": "УИК №21",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "478400170495",
+    "uikName": "УИК №22",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "478400170496",
+    "uikName": "УИК №23",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "478400170497",
+    "uikName": "УИК №24",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "478400170498",
+    "uikName": "УИК №25",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "478400170499",
+    "uikName": "УИК №26",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "478400170500",
+    "uikName": "УИК №27",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "478400170501",
+    "uikName": "УИК №28",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "478400170502",
+    "uikName": "УИК №29",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "478400170503",
+    "uikName": "УИК №30",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "478400170504",
+    "uikName": "УИК №31",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "478400170505",
+    "uikName": "УИК №32",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "478400170506",
+    "uikName": "УИК №33",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "478400170507",
+    "uikName": "УИК №34",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "478400170508",
+    "uikName": "УИК №35",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "478400170509",
+    "uikName": "УИК №36",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "478400170510",
+    "uikName": "УИК №37",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "478400170511",
+    "uikName": "УИК №38",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "478400170512",
+    "uikName": "УИК №39",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "478400170513",
+    "uikName": "УИК №40",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "478400170514",
+    "uikName": "УИК №41",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "478400170515",
+    "uikName": "УИК №42",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "478400170516",
+    "uikName": "УИК №43",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "478400170517",
+    "uikName": "УИК №44",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "478400170518",
+    "uikName": "УИК №45",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "478400170519",
+    "uikName": "УИК №46",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "478400170520",
+    "uikName": "УИК №47",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "478400170521",
+    "uikName": "УИК №48",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "478400170522",
+    "uikName": "УИК №49",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "478400170523",
+    "uikName": "УИК №50",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "478400170524",
+    "uikName": "УИК №51",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "478400170525",
+    "uikName": "УИК №52",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "478400170526",
+    "uikName": "УИК №53",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "478400170527",
+    "uikName": "УИК №54",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "478400170528",
+    "uikName": "УИК №55",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "478400170529",
+    "uikName": "УИК №56",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "478400170530",
+    "uikName": "УИК №57",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "478400170531",
+    "uikName": "УИК №58",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "478400170532",
+    "uikName": "УИК №59",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "478400170533",
+    "uikName": "УИК №60",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "478400170534",
+    "uikName": "УИК №61",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "478400170535",
+    "uikName": "УИК №62",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "478400170536",
+    "uikName": "УИК №63",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "478400170537",
+    "uikName": "УИК №64",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "478400170538",
+    "uikName": "УИК №65",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "478400170539",
+    "uikName": "УИК №66",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "478400170540",
+    "uikName": "УИК №67",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "478400170541",
+    "uikName": "УИК №68",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "478400170542",
+    "uikName": "УИК №69",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "478400170543",
+    "uikName": "УИК №70",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "478400171245",
+    "uikName": "УИК №71",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "478400171246",
+    "uikName": "УИК №72",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "478400171247",
+    "uikName": "УИК №73",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "478400171243",
+    "uikName": "УИК №74",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "478400270432",
+    "uikName": "УИК №84",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "478400270433",
+    "uikName": "УИК №85",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "478400270434",
+    "uikName": "УИК №86",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "478400270435",
+    "uikName": "УИК №87",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "478400270436",
+    "uikName": "УИК №88",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "478400270437",
+    "uikName": "УИК №89",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "478400270438",
+    "uikName": "УИК №90",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "478400270439",
+    "uikName": "УИК №91",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "478400270440",
+    "uikName": "УИК №92",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "478400270441",
+    "uikName": "УИК №93",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "478400270442",
+    "uikName": "УИК №94",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "478400270443",
+    "uikName": "УИК №95",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "478400270444",
+    "uikName": "УИК №96",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "478400270445",
+    "uikName": "УИК №97",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "478400270446",
+    "uikName": "УИК №98",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "478400270447",
+    "uikName": "УИК №99",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "478400270448",
+    "uikName": "УИК №100",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "478400270449",
+    "uikName": "УИК №101",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "478400270450",
+    "uikName": "УИК №102",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "478400270451",
+    "uikName": "УИК №103",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "478400270452",
+    "uikName": "УИК №104",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "478400270453",
+    "uikName": "УИК №105",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "478400270454",
+    "uikName": "УИК №106",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "478400270455",
+    "uikName": "УИК №107",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "478400270456",
+    "uikName": "УИК №108",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "478400270457",
+    "uikName": "УИК №109",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "478400270458",
+    "uikName": "УИК №110",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "478400270459",
+    "uikName": "УИК №111",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "478400270460",
+    "uikName": "УИК №112",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "478400270461",
+    "uikName": "УИК №113",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "478400270462",
+    "uikName": "УИК №114",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "478400270463",
+    "uikName": "УИК №115",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "478400270464",
+    "uikName": "УИК №116",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "478400270465",
+    "uikName": "УИК №117",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "478400270466",
+    "uikName": "УИК №118",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "478400270467",
+    "uikName": "УИК №119",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "478400270468",
+    "uikName": "УИК №120",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "478400270469",
+    "uikName": "УИК №121",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "478400270470",
+    "uikName": "УИК №122",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "478400270471",
+    "uikName": "УИК №123",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "478400270472",
+    "uikName": "УИК №124",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "478400270473",
+    "uikName": "УИК №125",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "478400270474",
+    "uikName": "УИК №126",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "478400270475",
+    "uikName": "УИК №127",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "478400270476",
+    "uikName": "УИК №128",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "478400270477",
+    "uikName": "УИК №129",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "478400270478",
+    "uikName": "УИК №130",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "478400270479",
+    "uikName": "УИК №131",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "478400270480",
+    "uikName": "УИК №132",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "478400270481",
+    "uikName": "УИК №133",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "478400270482",
+    "uikName": "УИК №134",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "478400270483",
+    "uikName": "УИК №135",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "478400270484",
+    "uikName": "УИК №136",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "478400270485",
+    "uikName": "УИК №137",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "478400270486",
+    "uikName": "УИК №138",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "478400270487",
+    "uikName": "УИК №139",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "478400270488",
+    "uikName": "УИК №140",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "478400270489",
+    "uikName": "УИК №141",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "478400270490",
+    "uikName": "УИК №142",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "478400270491",
+    "uikName": "УИК №143",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "478400270492",
+    "uikName": "УИК №144",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "478400270493",
+    "uikName": "УИК №145",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "478400270494",
+    "uikName": "УИК №146",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "478400270495",
+    "uikName": "УИК №147",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "478400270496",
+    "uikName": "УИК №148",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "478400270497",
+    "uikName": "УИК №149",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "478400270498",
+    "uikName": "УИК №150",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "478400270499",
+    "uikName": "УИК №151",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "478400270500",
+    "uikName": "УИК №152",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "478400270501",
+    "uikName": "УИК №153",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "478400270502",
+    "uikName": "УИК №154",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "478400270503",
+    "uikName": "УИК №155",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "478400270504",
+    "uikName": "УИК №156",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "478400270505",
+    "uikName": "УИК №157",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "478400270506",
+    "uikName": "УИК №158",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "478400271151",
+    "uikName": "УИК №159",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "478400271152",
+    "uikName": "УИК №160",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "478400271153",
+    "uikName": "УИК №161",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "478400270507",
+    "uikName": "УИК №162",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "478400270508",
+    "uikName": "УИК №163",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "478400271154",
+    "uikName": "УИК №164",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "478400271155",
+    "uikName": "УИК №165",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "478400271156",
+    "uikName": "УИК №166",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "478400271157",
+    "uikName": "УИК №167",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "478400271158",
+    "uikName": "УИК №168",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "478400370529",
+    "uikName": "УИК №169",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "478400370642",
+    "uikName": "УИК №170",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "478400370643",
+    "uikName": "УИК №171",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "478400370644",
+    "uikName": "УИК №172",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "478400370645",
+    "uikName": "УИК №173",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "478400370646",
+    "uikName": "УИК №174",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "478400370647",
+    "uikName": "УИК №175",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "478400370648",
+    "uikName": "УИК №176",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "478400370649",
+    "uikName": "УИК №177",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "478400370650",
+    "uikName": "УИК №178",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "478400370651",
+    "uikName": "УИК №179",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "478400370652",
+    "uikName": "УИК №180",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "478400370653",
+    "uikName": "УИК №181",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "478400370757",
+    "uikName": "УИК №182",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "478400370654",
+    "uikName": "УИК №183",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "478400370655",
+    "uikName": "УИК №184",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "478400370656",
+    "uikName": "УИК №185",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "478400370657",
+    "uikName": "УИК №186",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "478400370658",
+    "uikName": "УИК №187",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "478400370659",
+    "uikName": "УИК №188",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "478400370660",
+    "uikName": "УИК №189",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "478400370661",
+    "uikName": "УИК №190",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "478400370662",
+    "uikName": "УИК №191",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "478400370663",
+    "uikName": "УИК №192",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "478400370664",
+    "uikName": "УИК №193",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "478400370665",
+    "uikName": "УИК №194",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "478400370666",
+    "uikName": "УИК №195",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "478400370667",
+    "uikName": "УИК №196",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "478400370668",
+    "uikName": "УИК №197",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "478400370669",
+    "uikName": "УИК №198",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "478400370670",
+    "uikName": "УИК №199",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "478400370671",
+    "uikName": "УИК №200",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "478400370672",
+    "uikName": "УИК №201",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "478400370673",
+    "uikName": "УИК №202",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "478400370674",
+    "uikName": "УИК №203",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "478400370675",
+    "uikName": "УИК №204",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "478400370676",
+    "uikName": "УИК №205",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "478400370677",
+    "uikName": "УИК №206",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "478400370678",
+    "uikName": "УИК №207",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "478400370679",
+    "uikName": "УИК №208",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "478400370680",
+    "uikName": "УИК №209",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "478400370681",
+    "uikName": "УИК №210",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "478400370682",
+    "uikName": "УИК №211",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "478400370683",
+    "uikName": "УИК №212",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "478400370684",
+    "uikName": "УИК №213",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "478400370758",
+    "uikName": "УИК №214",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "478400370759",
+    "uikName": "УИК №215",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "478400370685",
+    "uikName": "УИК №216",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "478400370686",
+    "uikName": "УИК №217",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "478400370687",
+    "uikName": "УИК №218",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "478400370688",
+    "uikName": "УИК №219",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "478400370689",
+    "uikName": "УИК №220",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "478400370690",
+    "uikName": "УИК №221",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "478400370691",
+    "uikName": "УИК №222",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "478400370692",
+    "uikName": "УИК №223",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "478400370693",
+    "uikName": "УИК №224",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "478400370694",
+    "uikName": "УИК №225",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "478400370695",
+    "uikName": "УИК №226",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "478400370696",
+    "uikName": "УИК №227",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "478400370697",
+    "uikName": "УИК №228",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "478400370698",
+    "uikName": "УИК №229",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "478400370699",
+    "uikName": "УИК №230",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "478400370700",
+    "uikName": "УИК №231",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "478400370701",
+    "uikName": "УИК №232",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "478400370702",
+    "uikName": "УИК №233",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "478400370703",
+    "uikName": "УИК №234",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "478400370704",
+    "uikName": "УИК №235",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "478400370705",
+    "uikName": "УИК №236",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "478400370760",
+    "uikName": "УИК №237",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "478400370761",
+    "uikName": "УИК №238",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "478400370762",
+    "uikName": "УИК №239",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "478400370706",
+    "uikName": "УИК №240",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "478400370707",
+    "uikName": "УИК №241",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "478400370708",
+    "uikName": "УИК №242",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "478400370709",
+    "uikName": "УИК №243",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "478400370710",
+    "uikName": "УИК №244",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "478400370711",
+    "uikName": "УИК №245",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "478400370712",
+    "uikName": "УИК №246",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "478400370713",
+    "uikName": "УИК №247",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "478400370714",
+    "uikName": "УИК №248",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "478400370715",
+    "uikName": "УИК №249",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "478400370716",
+    "uikName": "УИК №250",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "478400370717",
+    "uikName": "УИК №251",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "478400370718",
+    "uikName": "УИК №252",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "478400370719",
+    "uikName": "УИК №253",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "478400370720",
+    "uikName": "УИК №254",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "478400370721",
+    "uikName": "УИК №255",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "478400370722",
+    "uikName": "УИК №256",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "478400370723",
+    "uikName": "УИК №257",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "478400370724",
+    "uikName": "УИК №258",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "478400370725",
+    "uikName": "УИК №259",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "478400370726",
+    "uikName": "УИК №260",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "478400370727",
+    "uikName": "УИК №261",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "478400370728",
+    "uikName": "УИК №262",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "478400370729",
+    "uikName": "УИК №263",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "478400370730",
+    "uikName": "УИК №264",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "478400370731",
+    "uikName": "УИК №265",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "478400370732",
+    "uikName": "УИК №266",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "478400370733",
+    "uikName": "УИК №267",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "478400370734",
+    "uikName": "УИК №268",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "478400370735",
+    "uikName": "УИК №269",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "478400370736",
+    "uikName": "УИК №270",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "478400370737",
+    "uikName": "УИК №271",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "478400370738",
+    "uikName": "УИК №272",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "478400370739",
+    "uikName": "УИК №273",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "478400370740",
+    "uikName": "УИК №274",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "478400370741",
+    "uikName": "УИК №275",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "478400370742",
+    "uikName": "УИК №276",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "478400370743",
+    "uikName": "УИК №277",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "478400370744",
+    "uikName": "УИК №278",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "478400370745",
+    "uikName": "УИК №279",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "478400370746",
+    "uikName": "УИК №280",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "478400370747",
+    "uikName": "УИК №281",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "478400370748",
+    "uikName": "УИК №282",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "478400370865",
+    "uikName": "УИК №283",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "478400371833",
+    "uikName": "УИК №284",
     "tikTvd": "378300470432",
-    "tikName": "Выборгская № 10"
+    "tikName": "Выборгская № 10",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "478401870412",
+    "uikName": "УИК №286",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "478401870413",
+    "uikName": "УИК №287",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "478401870414",
+    "uikName": "УИК №288",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "478401870415",
+    "uikName": "УИК №289",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "478401870416",
+    "uikName": "УИК №290",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "478401870417",
+    "uikName": "УИК №291",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "478401870418",
+    "uikName": "УИК №292",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "478401870419",
+    "uikName": "УИК №293",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "478401870420",
+    "uikName": "УИК №294",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "478401870421",
+    "uikName": "УИК №295",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "478401870422",
+    "uikName": "УИК №296",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "478401870423",
+    "uikName": "УИК №297",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "478401870424",
+    "uikName": "УИК №298",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "478401870425",
+    "uikName": "УИК №299",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "478401870426",
+    "uikName": "УИК №300",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "478401870427",
+    "uikName": "УИК №301",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "478401870428",
+    "uikName": "УИК №302",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "478401870429",
+    "uikName": "УИК №303",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "478401870430",
+    "uikName": "УИК №304",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "478401870431",
+    "uikName": "УИК №305",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "478401870432",
+    "uikName": "УИК №306",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "478401870433",
+    "uikName": "УИК №307",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "478401870434",
+    "uikName": "УИК №308",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "478401870435",
+    "uikName": "УИК №309",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "478401870436",
+    "uikName": "УИК №310",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "478401870437",
+    "uikName": "УИК №311",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "478401870438",
+    "uikName": "УИК №312",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "478401870439",
+    "uikName": "УИК №313",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "478401870440",
+    "uikName": "УИК №314",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "478401870441",
+    "uikName": "УИК №315",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "478401870442",
+    "uikName": "УИК №316",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "478401870443",
+    "uikName": "УИК №317",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "478401870444",
+    "uikName": "УИК №318",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "478401870445",
+    "uikName": "УИК №319",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "478401870446",
+    "uikName": "УИК №320",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "478401870447",
+    "uikName": "УИК №321",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "478401870448",
+    "uikName": "УИК №322",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "478401870449",
+    "uikName": "УИК №323",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "478401870450",
+    "uikName": "УИК №324",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "478401870451",
+    "uikName": "УИК №325",
     "tikTvd": "378300570635",
-    "tikName": "Выборгская № 14"
+    "tikName": "Выборгская № 14",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "478400470513",
+    "uikName": "УИК №329",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "478400470514",
+    "uikName": "УИК №330",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "478400470515",
+    "uikName": "УИК №331",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "478400470516",
+    "uikName": "УИК №332",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "478400470517",
+    "uikName": "УИК №333",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "478400470518",
+    "uikName": "УИК №334",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "478400470519",
+    "uikName": "УИК №335",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "478400470520",
+    "uikName": "УИК №336",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "478400470521",
+    "uikName": "УИК №337",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "478400470522",
+    "uikName": "УИК №338",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "478400470523",
+    "uikName": "УИК №339",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "478400470524",
+    "uikName": "УИК №340",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "478400470525",
+    "uikName": "УИК №341",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "478400470526",
+    "uikName": "УИК №342",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "478400470527",
+    "uikName": "УИК №343",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "478400470528",
+    "uikName": "УИК №344",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "478400470529",
+    "uikName": "УИК №345",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "478400470530",
+    "uikName": "УИК №346",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "478400470531",
+    "uikName": "УИК №347",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "478400470532",
+    "uikName": "УИК №348",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "478400470533",
+    "uikName": "УИК №349",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "478400470534",
+    "uikName": "УИК №350",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "478400470535",
+    "uikName": "УИК №351",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "478400470536",
+    "uikName": "УИК №352",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "478400470537",
+    "uikName": "УИК №353",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "478400470538",
+    "uikName": "УИК №354",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "478400470539",
+    "uikName": "УИК №355",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "478400470540",
+    "uikName": "УИК №356",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "478400470541",
+    "uikName": "УИК №357",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "478400470542",
+    "uikName": "УИК №358",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "478400470543",
+    "uikName": "УИК №359",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "478400470544",
+    "uikName": "УИК №360",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "478400470545",
+    "uikName": "УИК №361",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "478400470546",
+    "uikName": "УИК №362",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "478400470547",
+    "uikName": "УИК №363",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "478400470548",
+    "uikName": "УИК №364",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "478400470549",
+    "uikName": "УИК №365",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "478400470550",
+    "uikName": "УИК №366",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "478400470551",
+    "uikName": "УИК №367",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "478400470552",
+    "uikName": "УИК №368",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "478400470553",
+    "uikName": "УИК №369",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "478400470554",
+    "uikName": "УИК №370",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "478400470555",
+    "uikName": "УИК №371",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "478400470556",
+    "uikName": "УИК №372",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "478400470557",
+    "uikName": "УИК №373",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "478400470558",
+    "uikName": "УИК №374",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "478400470559",
+    "uikName": "УИК №375",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "478400470560",
+    "uikName": "УИК №376",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "478400470561",
+    "uikName": "УИК №377",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "478400470562",
+    "uikName": "УИК №378",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "478400470563",
+    "uikName": "УИК №379",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "478400470564",
+    "uikName": "УИК №380",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "478400470565",
+    "uikName": "УИК №381",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "478400470566",
+    "uikName": "УИК №382",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "478400470567",
+    "uikName": "УИК №383",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "478400470568",
+    "uikName": "УИК №384",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "478400470569",
+    "uikName": "УИК №385",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "478400470570",
+    "uikName": "УИК №386",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "478400470571",
+    "uikName": "УИК №387",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "478400470572",
+    "uikName": "УИК №388",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "478400470573",
+    "uikName": "УИК №389",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "478400470574",
+    "uikName": "УИК №390",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "478400470575",
+    "uikName": "УИК №391",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "478400470576",
+    "uikName": "УИК №392",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "478400470577",
+    "uikName": "УИК №393",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "478400470578",
+    "uikName": "УИК №394",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "478400470579",
+    "uikName": "УИК №395",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "478400470580",
+    "uikName": "УИК №396",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "478400470581",
+    "uikName": "УИК №397",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "478400470582",
+    "uikName": "УИК №398",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "478400470583",
+    "uikName": "УИК №399",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "478400470584",
+    "uikName": "УИК №400",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "478400470585",
+    "uikName": "УИК №401",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "478400470586",
+    "uikName": "УИК №402",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "478400470587",
+    "uikName": "УИК №403",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "478400470588",
+    "uikName": "УИК №404",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "478400470589",
+    "uikName": "УИК №405",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "478400470590",
+    "uikName": "УИК №406",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "478400470591",
+    "uikName": "УИК №407",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "478400470592",
+    "uikName": "УИК №408",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "478400470593",
+    "uikName": "УИК №409",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "478400470594",
+    "uikName": "УИК №410",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "478400470595",
+    "uikName": "УИК №411",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "478400470596",
+    "uikName": "УИК №412",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "478400470597",
+    "uikName": "УИК №413",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "478400470598",
+    "uikName": "УИК №414",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "478400471107",
+    "uikName": "УИК №415",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "478400470600",
+    "uikName": "УИК №416",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "478400470601",
+    "uikName": "УИК №417",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "478400470602",
+    "uikName": "УИК №418",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "478400470603",
+    "uikName": "УИК №419",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "478400471336",
+    "uikName": "УИК №420",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "478401970831",
+    "uikName": "УИК №423",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "478401970832",
+    "uikName": "УИК №424",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "478401970833",
+    "uikName": "УИК №425",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "478401970834",
+    "uikName": "УИК №426",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "478401970835",
+    "uikName": "УИК №427",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "478401970836",
+    "uikName": "УИК №428",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "478401970837",
+    "uikName": "УИК №429",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "478401970838",
+    "uikName": "УИК №430",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "478401970839",
+    "uikName": "УИК №431",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "478401970840",
+    "uikName": "УИК №432",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "478401970841",
+    "uikName": "УИК №433",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "478401970842",
+    "uikName": "УИК №434",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "478401970843",
+    "uikName": "УИК №435",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "478401970844",
+    "uikName": "УИК №436",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "478401970845",
+    "uikName": "УИК №437",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "478401970846",
+    "uikName": "УИК №438",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "478401970847",
+    "uikName": "УИК №439",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "478401970848",
+    "uikName": "УИК №440",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "478401970849",
+    "uikName": "УИК №441",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "478401970850",
+    "uikName": "УИК №442",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "478401970851",
+    "uikName": "УИК №443",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "478401970852",
+    "uikName": "УИК №444",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "478401970853",
+    "uikName": "УИК №445",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "478401970854",
+    "uikName": "УИК №446",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "478401970855",
+    "uikName": "УИК №447",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "478401970856",
+    "uikName": "УИК №448",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "478401970857",
+    "uikName": "УИК №449",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "478401970858",
+    "uikName": "УИК №450",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "478401970859",
+    "uikName": "УИК №451",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "478401970860",
+    "uikName": "УИК №452",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "478401970861",
+    "uikName": "УИК №453",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "478401970862",
+    "uikName": "УИК №454",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "478401970863",
+    "uikName": "УИК №455",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "478401970864",
+    "uikName": "УИК №456",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "478401970865",
+    "uikName": "УИК №457",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "478401970866",
+    "uikName": "УИК №458",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "478401970867",
+    "uikName": "УИК №459",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "478401970868",
+    "uikName": "УИК №460",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "478401970869",
+    "uikName": "УИК №461",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "478401970870",
+    "uikName": "УИК №462",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "478401970871",
+    "uikName": "УИК №463",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "478401970872",
+    "uikName": "УИК №464",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "478401970873",
+    "uikName": "УИК №465",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "478401970874",
+    "uikName": "УИК №466",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "478401970875",
+    "uikName": "УИК №467",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "478401970876",
+    "uikName": "УИК №468",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "478401970877",
+    "uikName": "УИК №469",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "478401970878",
+    "uikName": "УИК №470",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "478401970879",
+    "uikName": "УИК №471",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "478401970880",
+    "uikName": "УИК №472",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "478401970881",
+    "uikName": "УИК №473",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "478401970882",
+    "uikName": "УИК №474",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "478401970883",
+    "uikName": "УИК №475",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "478401970884",
+    "uikName": "УИК №476",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "478401970885",
+    "uikName": "УИК №477",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "478401970886",
+    "uikName": "УИК №478",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "478401970887",
+    "uikName": "УИК №479",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "478401970888",
+    "uikName": "УИК №480",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "478401970889",
+    "uikName": "УИК №481",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "478401970965",
+    "uikName": "УИК №482",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "478401970966",
+    "uikName": "УИК №483",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "478401970967",
+    "uikName": "УИК №484",
     "tikTvd": "378300670482",
-    "tikName": "Калининская № 17"
+    "tikName": "Калининская № 17",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "478400570540",
+    "uikName": "УИК №485",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "478400570541",
+    "uikName": "УИК №486",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "478400570542",
+    "uikName": "УИК №487",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "478400570543",
+    "uikName": "УИК №488",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "478400570544",
+    "uikName": "УИК №489",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "478400570545",
+    "uikName": "УИК №490",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "478400570546",
+    "uikName": "УИК №491",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "478400570547",
+    "uikName": "УИК №492",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "478400570548",
+    "uikName": "УИК №493",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "478400570549",
+    "uikName": "УИК №494",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "478400570550",
+    "uikName": "УИК №495",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "478400570551",
+    "uikName": "УИК №496",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "478400570552",
+    "uikName": "УИК №497",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "478400570553",
+    "uikName": "УИК №498",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "478400570554",
+    "uikName": "УИК №499",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "478400570555",
+    "uikName": "УИК №500",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "478400570556",
+    "uikName": "УИК №501",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "478400570557",
+    "uikName": "УИК №502",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "478400570558",
+    "uikName": "УИК №503",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "478400570559",
+    "uikName": "УИК №504",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "478400570560",
+    "uikName": "УИК №505",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "478400570561",
+    "uikName": "УИК №506",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "478400570562",
+    "uikName": "УИК №507",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "478400570563",
+    "uikName": "УИК №508",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "478400570564",
+    "uikName": "УИК №509",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "478400570565",
+    "uikName": "УИК №510",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "478400570566",
+    "uikName": "УИК №511",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "478400570567",
+    "uikName": "УИК №512",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "478400570568",
+    "uikName": "УИК №513",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "478400570569",
+    "uikName": "УИК №514",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "478400570570",
+    "uikName": "УИК №515",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "478400570571",
+    "uikName": "УИК №516",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "478400570572",
+    "uikName": "УИК №517",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "478400570573",
+    "uikName": "УИК №518",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "478400570574",
+    "uikName": "УИК №519",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "478400570575",
+    "uikName": "УИК №520",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "478400570576",
+    "uikName": "УИК №521",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "478400570577",
+    "uikName": "УИК №522",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "478400570578",
+    "uikName": "УИК №523",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "478400570579",
+    "uikName": "УИК №524",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "478400570580",
+    "uikName": "УИК №525",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "478400570581",
+    "uikName": "УИК №526",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "478400570582",
+    "uikName": "УИК №527",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "478400570583",
+    "uikName": "УИК №528",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "478400570584",
+    "uikName": "УИК №529",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "478400570585",
+    "uikName": "УИК №530",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "478400570586",
+    "uikName": "УИК №531",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "478400570587",
+    "uikName": "УИК №532",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "478400570588",
+    "uikName": "УИК №533",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "478400570589",
+    "uikName": "УИК №534",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "478400570590",
+    "uikName": "УИК №535",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "478400570591",
+    "uikName": "УИК №536",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "478400570592",
+    "uikName": "УИК №537",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "478400570593",
+    "uikName": "УИК №538",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "478400570594",
+    "uikName": "УИК №539",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "478400570595",
+    "uikName": "УИК №540",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "478400570596",
+    "uikName": "УИК №541",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "478400570597",
+    "uikName": "УИК №542",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "478400570598",
+    "uikName": "УИК №543",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "478400570599",
+    "uikName": "УИК №544",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "478400570600",
+    "uikName": "УИК №545",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "478400570601",
+    "uikName": "УИК №546",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "478400570602",
+    "uikName": "УИК №547",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "478400570603",
+    "uikName": "УИК №548",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "478400570604",
+    "uikName": "УИК №549",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "478400570605",
+    "uikName": "УИК №550",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "478400570606",
+    "uikName": "УИК №551",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "478400570607",
+    "uikName": "УИК №552",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "478400570608",
+    "uikName": "УИК №553",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "478400570609",
+    "uikName": "УИК №554",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "478400570610",
+    "uikName": "УИК №555",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "478400570611",
+    "uikName": "УИК №556",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "478400570612",
+    "uikName": "УИК №557",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "478400570613",
+    "uikName": "УИК №558",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "478400570614",
+    "uikName": "УИК №559",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "478400570615",
+    "uikName": "УИК №560",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "478400570616",
+    "uikName": "УИК №561",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "478400570617",
+    "uikName": "УИК №562",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "478400570618",
+    "uikName": "УИК №563",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "478400570619",
+    "uikName": "УИК №564",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "478400570620",
+    "uikName": "УИК №565",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "478400570621",
+    "uikName": "УИК №566",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "478400570622",
+    "uikName": "УИК №567",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "478400570623",
+    "uikName": "УИК №568",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "478400570624",
+    "uikName": "УИК №569",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "478402070403",
+    "uikName": "УИК №574",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "478402070405",
+    "uikName": "УИК №575",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "478402070406",
+    "uikName": "УИК №576",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "478402070407",
+    "uikName": "УИК №577",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "478402070408",
+    "uikName": "УИК №578",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "478402070409",
+    "uikName": "УИК №579",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "478402070410",
+    "uikName": "УИК №580",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "478402070411",
+    "uikName": "УИК №581",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "478402070412",
+    "uikName": "УИК №582",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "478402070413",
+    "uikName": "УИК №583",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "478402070414",
+    "uikName": "УИК №584",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "478402070415",
+    "uikName": "УИК №585",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "478402070416",
+    "uikName": "УИК №586",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "478402070417",
+    "uikName": "УИК №587",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "478402070418",
+    "uikName": "УИК №588",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "478402070419",
+    "uikName": "УИК №589",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "478402070420",
+    "uikName": "УИК №590",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "478402070421",
+    "uikName": "УИК №591",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "478402070422",
+    "uikName": "УИК №592",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "478402070423",
+    "uikName": "УИК №593",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "478402070424",
+    "uikName": "УИК №594",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "478402070425",
+    "uikName": "УИК №595",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "478402070426",
+    "uikName": "УИК №596",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "478402070427",
+    "uikName": "УИК №597",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "478402070428",
+    "uikName": "УИК №598",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "478402070429",
+    "uikName": "УИК №599",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "478402070430",
+    "uikName": "УИК №600",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "478402070431",
+    "uikName": "УИК №601",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "478402070432",
+    "uikName": "УИК №602",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "478402070433",
+    "uikName": "УИК №603",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "478402070434",
+    "uikName": "УИК №604",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "478402070435",
+    "uikName": "УИК №605",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "478402070436",
+    "uikName": "УИК №606",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "478402070437",
+    "uikName": "УИК №607",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "478402070438",
+    "uikName": "УИК №608",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "478402070439",
+    "uikName": "УИК №609",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "478402070440",
+    "uikName": "УИК №610",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "478402070441",
+    "uikName": "УИК №611",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "478402070442",
+    "uikName": "УИК №612",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "478402070443",
+    "uikName": "УИК №613",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "478402070444",
+    "uikName": "УИК №614",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "478402070445",
+    "uikName": "УИК №615",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "478402070446",
+    "uikName": "УИК №616",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "478402070447",
+    "uikName": "УИК №617",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "478402070448",
+    "uikName": "УИК №618",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "478402070449",
+    "uikName": "УИК №619",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "478402070450",
+    "uikName": "УИК №620",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "478402070451",
+    "uikName": "УИК №621",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "478402070452",
+    "uikName": "УИК №622",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "478402070453",
+    "uikName": "УИК №623",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "478402070454",
+    "uikName": "УИК №624",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "478402070455",
+    "uikName": "УИК №625",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "478402070456",
+    "uikName": "УИК №626",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "478402070457",
+    "uikName": "УИК №627",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "478402070458",
+    "uikName": "УИК №628",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "478402070459",
+    "uikName": "УИК №629",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "478402070527",
+    "uikName": "УИК №630",
     "tikTvd": "378300370413",
-    "tikName": "Кировская № 7"
+    "tikName": "Кировская № 7",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "478400670435",
+    "uikName": "УИК №634",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "478400670436",
+    "uikName": "УИК №635",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "478400670437",
+    "uikName": "УИК №636",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "478400670438",
+    "uikName": "УИК №637",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "478400670439",
+    "uikName": "УИК №638",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "478400670440",
+    "uikName": "УИК №639",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "478400670441",
+    "uikName": "УИК №640",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "478400670442",
+    "uikName": "УИК №641",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "478400670443",
+    "uikName": "УИК №642",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "478400670444",
+    "uikName": "УИК №643",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "478400670445",
+    "uikName": "УИК №644",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "478400670446",
+    "uikName": "УИК №645",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "478400670447",
+    "uikName": "УИК №646",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "478400670448",
+    "uikName": "УИК №647",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "478400670449",
+    "uikName": "УИК №648",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "478400670450",
+    "uikName": "УИК №649",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "478400670451",
+    "uikName": "УИК №650",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "478400670452",
+    "uikName": "УИК №651",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "478400670453",
+    "uikName": "УИК №652",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "478400670454",
+    "uikName": "УИК №653",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "478400670455",
+    "uikName": "УИК №654",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "478400670456",
+    "uikName": "УИК №655",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "478400670457",
+    "uikName": "УИК №656",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "478400670458",
+    "uikName": "УИК №657",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "478400670459",
+    "uikName": "УИК №658",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "478400670460",
+    "uikName": "УИК №659",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "478400670461",
+    "uikName": "УИК №660",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "478400670462",
+    "uikName": "УИК №661",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "478400670463",
+    "uikName": "УИК №662",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "478400670464",
+    "uikName": "УИК №663",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "478400670465",
+    "uikName": "УИК №664",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "478400670466",
+    "uikName": "УИК №665",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "478400670467",
+    "uikName": "УИК №666",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "478400670468",
+    "uikName": "УИК №667",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "478400670469",
+    "uikName": "УИК №668",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "478400670470",
+    "uikName": "УИК №669",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "478400670471",
+    "uikName": "УИК №670",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "478400670472",
+    "uikName": "УИК №671",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "478400670473",
+    "uikName": "УИК №672",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "478400670474",
+    "uikName": "УИК №673",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "478400670475",
+    "uikName": "УИК №674",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "478400670476",
+    "uikName": "УИК №675",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "478400670477",
+    "uikName": "УИК №676",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "478400670478",
+    "uikName": "УИК №677",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "478400670479",
+    "uikName": "УИК №678",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "478400670480",
+    "uikName": "УИК №679",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "478400670481",
+    "uikName": "УИК №680",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "478400670482",
+    "uikName": "УИК №681",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "478400670483",
+    "uikName": "УИК №682",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "478400670484",
+    "uikName": "УИК №683",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "478400670485",
+    "uikName": "УИК №684",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "478400670486",
+    "uikName": "УИК №685",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "478400670487",
+    "uikName": "УИК №686",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "478400670488",
+    "uikName": "УИК №687",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "478400670489",
+    "uikName": "УИК №688",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "478400670490",
+    "uikName": "УИК №689",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "478400670491",
+    "uikName": "УИК №690",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "478400670492",
+    "uikName": "УИК №691",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "478400670493",
+    "uikName": "УИК №692",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "478400670494",
+    "uikName": "УИК №693",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "478400670495",
+    "uikName": "УИК №694",
     "tikTvd": "378300770493",
-    "tikName": "Колпинская № 21"
+    "tikName": "Колпинская № 21",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "478400770465",
+    "uikName": "УИК №699",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "478400770466",
+    "uikName": "УИК №700",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "478400770467",
+    "uikName": "УИК №701",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "478400770468",
+    "uikName": "УИК №702",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "478400770469",
+    "uikName": "УИК №703",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "478400770534",
+    "uikName": "УИК №704",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "478400770470",
+    "uikName": "УИК №705",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "478400770471",
+    "uikName": "УИК №706",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "478400770472",
+    "uikName": "УИК №707",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "478400770530",
+    "uikName": "УИК №708",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "478400770473",
+    "uikName": "УИК №709",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "478400770474",
+    "uikName": "УИК №710",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "478400770475",
+    "uikName": "УИК №711",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "478400770476",
+    "uikName": "УИК №712",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "478400770477",
+    "uikName": "УИК №713",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "478400770478",
+    "uikName": "УИК №714",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "478400770479",
+    "uikName": "УИК №715",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "478400770480",
+    "uikName": "УИК №716",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "478400770481",
+    "uikName": "УИК №717",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "478400770482",
+    "uikName": "УИК №718",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "478400770483",
+    "uikName": "УИК №719",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "478400770484",
+    "uikName": "УИК №720",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "478400770485",
+    "uikName": "УИК №721",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "478400770486",
+    "uikName": "УИК №722",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "478400770487",
+    "uikName": "УИК №723",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "478400770488",
+    "uikName": "УИК №724",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "478400770489",
+    "uikName": "УИК №725",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "478400770490",
+    "uikName": "УИК №726",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "478400770491",
+    "uikName": "УИК №727",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "478400770492",
+    "uikName": "УИК №728",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "478400770493",
+    "uikName": "УИК №729",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "478400770494",
+    "uikName": "УИК №730",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "478400770495",
+    "uikName": "УИК №731",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "478400770496",
+    "uikName": "УИК №732",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "478400770497",
+    "uikName": "УИК №733",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "478400770498",
+    "uikName": "УИК №734",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "478400770499",
+    "uikName": "УИК №735",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "478400770500",
+    "uikName": "УИК №736",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "478400770501",
+    "uikName": "УИК №737",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "478400770502",
+    "uikName": "УИК №738",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "478400770503",
+    "uikName": "УИК №739",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "478400770504",
+    "uikName": "УИК №740",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "478400770505",
+    "uikName": "УИК №741",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "478400770506",
+    "uikName": "УИК №742",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "478400770507",
+    "uikName": "УИК №743",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "478400770531",
+    "uikName": "УИК №744",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "478400770508",
+    "uikName": "УИК №745",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "478400770509",
+    "uikName": "УИК №746",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "478400770510",
+    "uikName": "УИК №747",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "478400770511",
+    "uikName": "УИК №748",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "478400770512",
+    "uikName": "УИК №749",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "478400770513",
+    "uikName": "УИК №750",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "478400770514",
+    "uikName": "УИК №751",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "478400770515",
+    "uikName": "УИК №752",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "478400770516",
+    "uikName": "УИК №753",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "478400770517",
+    "uikName": "УИК №754",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "478400770518",
+    "uikName": "УИК №755",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "478400770519",
+    "uikName": "УИК №756",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "478400770520",
+    "uikName": "УИК №757",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "478400770521",
+    "uikName": "УИК №758",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "478400770522",
+    "uikName": "УИК №759",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "478400770523",
+    "uikName": "УИК №760",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "478400770524",
+    "uikName": "УИК №761",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "478400770525",
+    "uikName": "УИК №762",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "478400770526",
+    "uikName": "УИК №763",
     "tikTvd": "378300270603",
-    "tikName": "Красногвардейская № 4"
+    "tikName": "Красногвардейская № 4",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "478402570447",
+    "uikName": "УИК №765",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "478402570448",
+    "uikName": "УИК №766",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "478402570449",
+    "uikName": "УИК №767",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "478402570510",
+    "uikName": "УИК №768",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "478402570450",
+    "uikName": "УИК №769",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "478402570451",
+    "uikName": "УИК №770",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "478402570452",
+    "uikName": "УИК №771",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "478402570453",
+    "uikName": "УИК №772",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "478402570454",
+    "uikName": "УИК №773",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "478402570455",
+    "uikName": "УИК №774",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "478402570456",
+    "uikName": "УИК №775",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "478402570457",
+    "uikName": "УИК №776",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "478402570458",
+    "uikName": "УИК №777",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "478402570459",
+    "uikName": "УИК №778",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "478402570460",
+    "uikName": "УИК №779",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "478402570461",
+    "uikName": "УИК №780",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "478402570462",
+    "uikName": "УИК №781",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "478402570463",
+    "uikName": "УИК №782",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "478402570464",
+    "uikName": "УИК №783",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "478402570511",
+    "uikName": "УИК №784",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "478402570465",
+    "uikName": "УИК №785",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "478402570466",
+    "uikName": "УИК №786",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "478402570467",
+    "uikName": "УИК №787",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "478402570468",
+    "uikName": "УИК №788",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "478402570469",
+    "uikName": "УИК №789",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "478402570470",
+    "uikName": "УИК №790",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "478402570471",
+    "uikName": "УИК №791",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "478402570472",
+    "uikName": "УИК №792",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "478402570473",
+    "uikName": "УИК №793",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "478402570474",
+    "uikName": "УИК №794",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "478402570475",
+    "uikName": "УИК №795",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "478402570476",
+    "uikName": "УИК №796",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "478402570477",
+    "uikName": "УИК №797",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "478402570478",
+    "uikName": "УИК №798",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "478402570479",
+    "uikName": "УИК №799",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "478402570480",
+    "uikName": "УИК №800",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "478402570481",
+    "uikName": "УИК №801",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "478402570482",
+    "uikName": "УИК №802",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "478402570483",
+    "uikName": "УИК №803",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "478402570484",
+    "uikName": "УИК №804",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "478402570485",
+    "uikName": "УИК №805",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "478402570486",
+    "uikName": "УИК №806",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "478402570487",
+    "uikName": "УИК №807",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "478402570488",
+    "uikName": "УИК №808",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "478402570489",
+    "uikName": "УИК №809",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "478402570490",
+    "uikName": "УИК №810",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "478402570491",
+    "uikName": "УИК №811",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "478402570492",
+    "uikName": "УИК №812",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "478402570493",
+    "uikName": "УИК №813",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "478402570494",
+    "uikName": "УИК №814",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "478402570495",
+    "uikName": "УИК №815",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "478402570496",
+    "uikName": "УИК №816",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "478402570497",
+    "uikName": "УИК №817",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "478402570498",
+    "uikName": "УИК №818",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "478402570499",
+    "uikName": "УИК №819",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "478402570500",
+    "uikName": "УИК №820",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "478402570501",
+    "uikName": "УИК №821",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "478402570502",
+    "uikName": "УИК №822",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "478402570503",
+    "uikName": "УИК №823",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "478402570504",
+    "uikName": "УИК №824",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "478402570505",
+    "uikName": "УИК №825",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "478402570506",
+    "uikName": "УИК №826",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "478400870384",
+    "uikName": "УИК №830",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "478400870385",
+    "uikName": "УИК №831",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "478400870386",
+    "uikName": "УИК №832",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "478400870387",
+    "uikName": "УИК №833",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "478400870388",
+    "uikName": "УИК №834",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "478400870389",
+    "uikName": "УИК №835",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "478400870390",
+    "uikName": "УИК №836",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "478400870391",
+    "uikName": "УИК №837",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "478400870392",
+    "uikName": "УИК №838",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "478400870393",
+    "uikName": "УИК №839",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "478400870394",
+    "uikName": "УИК №840",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "478400870395",
+    "uikName": "УИК №841",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "478400870396",
+    "uikName": "УИК №842",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "478400870397",
+    "uikName": "УИК №843",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "478400870398",
+    "uikName": "УИК №844",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "478400870399",
+    "uikName": "УИК №845",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "478400870400",
+    "uikName": "УИК №846",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "478400870401",
+    "uikName": "УИК №847",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "478400870402",
+    "uikName": "УИК №848",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "478400870403",
+    "uikName": "УИК №849",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "478400870404",
+    "uikName": "УИК №850",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "478400870405",
+    "uikName": "УИК №851",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "478400870406",
+    "uikName": "УИК №852",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "478400870407",
+    "uikName": "УИК №855",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "478400870408",
+    "uikName": "УИК №856",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "478400870409",
+    "uikName": "УИК №857",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "478400870410",
+    "uikName": "УИК №858",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "478400870411",
+    "uikName": "УИК №859",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "478400870412",
+    "uikName": "УИК №860",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "478400870413",
+    "uikName": "УИК №861",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "478400870414",
+    "uikName": "УИК №862",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "478400870415",
+    "uikName": "УИК №863",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "478400870416",
+    "uikName": "УИК №864",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "478400870417",
+    "uikName": "УИК №865",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "478400870418",
+    "uikName": "УИК №866",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "478400870419",
+    "uikName": "УИК №867",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "478400870420",
+    "uikName": "УИК №868",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "478400870421",
+    "uikName": "УИК №869",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "478400870422",
+    "uikName": "УИК №870",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "478400870423",
+    "uikName": "УИК №871",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "478400870424",
+    "uikName": "УИК №872",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "478400870425",
+    "uikName": "УИК №875",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "478400870426",
+    "uikName": "УИК №876",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "478400870427",
+    "uikName": "УИК №877",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "478400870428",
+    "uikName": "УИК №878",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "478400870429",
+    "uikName": "УИК №879",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "478400870430",
+    "uikName": "УИК №880",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "478400870431",
+    "uikName": "УИК №881",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "478400870432",
+    "uikName": "УИК №882",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "478400870433",
+    "uikName": "УИК №883",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "478400870434",
+    "uikName": "УИК №884",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "478400870435",
+    "uikName": "УИК №885",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "478400870436",
+    "uikName": "УИК №886",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "478400870437",
+    "uikName": "УИК №887",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "478400870438",
+    "uikName": "УИК №888",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "478400870439",
+    "uikName": "УИК №889",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "478400870440",
+    "uikName": "УИК №890",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "478400870441",
+    "uikName": "УИК №891",
     "tikTvd": "378300370412",
-    "tikName": "Красносельская  №6"
+    "tikName": "Красносельская  №6",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "478402670376",
+    "uikName": "УИК №892",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "478402670377",
+    "uikName": "УИК №893",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "478402670378",
+    "uikName": "УИК №894",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "478402670379",
+    "uikName": "УИК №895",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "478402670380",
+    "uikName": "УИК №896",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "478402670381",
+    "uikName": "УИК №897",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "478402670382",
+    "uikName": "УИК №898",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "478402670383",
+    "uikName": "УИК №899",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "478402670384",
+    "uikName": "УИК №900",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "478402670385",
+    "uikName": "УИК №901",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "478402670386",
+    "uikName": "УИК №902",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "478402670387",
+    "uikName": "УИК №903",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "478402670388",
+    "uikName": "УИК №904",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "478402670389",
+    "uikName": "УИК №905",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "478402670390",
+    "uikName": "УИК №906",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "478402670391",
+    "uikName": "УИК №907",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "478402670392",
+    "uikName": "УИК №908",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "478402670393",
+    "uikName": "УИК №909",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "478402670394",
+    "uikName": "УИК №910",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "478402670395",
+    "uikName": "УИК №913",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "478402670396",
+    "uikName": "УИК №914",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "478402670397",
+    "uikName": "УИК №915",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "478402670398",
+    "uikName": "УИК №916",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "478402670399",
+    "uikName": "УИК №917",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "478402670400",
+    "uikName": "УИК №918",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "478402670401",
+    "uikName": "УИК №919",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "478402670402",
+    "uikName": "УИК №920",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "478402670403",
+    "uikName": "УИК №921",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "478402670404",
+    "uikName": "УИК №922",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "478402670405",
+    "uikName": "УИК №923",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "478402670406",
+    "uikName": "УИК №924",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "478402670407",
+    "uikName": "УИК №925",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "478402670408",
+    "uikName": "УИК №926",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "478402670409",
+    "uikName": "УИК №927",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "478402670410",
+    "uikName": "УИК №928",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "478402670411",
+    "uikName": "УИК №929",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "478402670412",
+    "uikName": "УИК №930",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "478402670413",
+    "uikName": "УИК №931",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "478402670414",
+    "uikName": "УИК №932",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "478402670415",
+    "uikName": "УИК №933",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "478402670416",
+    "uikName": "УИК №936",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "478402670417",
+    "uikName": "УИК №937",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "478402670418",
+    "uikName": "УИК №938",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "478402670419",
+    "uikName": "УИК №939",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "478402670420",
+    "uikName": "УИК №940",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "478402670421",
+    "uikName": "УИК №941",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "478402670422",
+    "uikName": "УИК №942",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "478402670423",
+    "uikName": "УИК №943",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "478402670424",
+    "uikName": "УИК №944",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "478402670425",
+    "uikName": "УИК №945",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "478402670426",
+    "uikName": "УИК №946",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "478402670427",
+    "uikName": "УИК №947",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "478402670428",
+    "uikName": "УИК №948",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "478402670429",
+    "uikName": "УИК №949",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "478402670430",
+    "uikName": "УИК №950",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "478402670431",
+    "uikName": "УИК №951",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "478402670432",
+    "uikName": "УИК №952",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "478402670433",
+    "uikName": "УИК №953",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "478402670434",
+    "uikName": "УИК №954",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "478402670435",
+    "uikName": "УИК №955",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "478402170382",
+    "uikName": "УИК №956",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "478402170383",
+    "uikName": "УИК №957",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "478402170384",
+    "uikName": "УИК №958",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "478402170385",
+    "uikName": "УИК №959",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "478402170386",
+    "uikName": "УИК №960",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "478402170387",
+    "uikName": "УИК №961",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "478402170388",
+    "uikName": "УИК №962",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "478402170389",
+    "uikName": "УИК №963",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "478402170390",
+    "uikName": "УИК №964",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "478402170391",
+    "uikName": "УИК №965",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "478402170392",
+    "uikName": "УИК №966",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "478402170393",
+    "uikName": "УИК №967",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "478402170394",
+    "uikName": "УИК №968",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "478402170395",
+    "uikName": "УИК №969",
     "tikTvd": "378300570636",
-    "tikName": "Кронштадтская №15"
+    "tikName": "Кронштадтская №15",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "478400970387",
+    "uikName": "УИК  973",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "478400970388",
+    "uikName": "УИК  974",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "478400970389",
+    "uikName": "УИК  975",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "478400970390",
+    "uikName": "УИК  976",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "478400970391",
+    "uikName": "УИК  977",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "478400970392",
+    "uikName": "УИК  978",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "478400970393",
+    "uikName": "УИК  979",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "478400970394",
+    "uikName": "УИК  980",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "478400970395",
+    "uikName": "УИК  981",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "478400970396",
+    "uikName": "УИК  982",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "478400970397",
+    "uikName": "УИК  983",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "478400970398",
+    "uikName": "УИК  984",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "478400970399",
+    "uikName": "УИК  985",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "478400970400",
+    "uikName": "УИК  986",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "478400970401",
+    "uikName": "УИК  987",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "478400970402",
+    "uikName": "УИК  988",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "478400970403",
+    "uikName": "УИК  989",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "478400970404",
+    "uikName": "УИК  990",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "478400970405",
+    "uikName": "УИК  991",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "478400970406",
+    "uikName": "УИК  992",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "478400970407",
+    "uikName": "УИК  993",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "478400970408",
+    "uikName": "УИК  994",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "478400970409",
+    "uikName": "УИК  995",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "478400970410",
+    "uikName": "УИК  996",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "478400970411",
+    "uikName": "УИК  997",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "478400970480",
+    "uikName": "УИК №998",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "478400970482",
+    "uikName": "УИК №999",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "478400970484",
+    "uikName": "УИК №1000",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "478400970486",
+    "uikName": "УИК №1001",
     "tikTvd": "378300570634",
-    "tikName": "Курортная №13"
+    "tikName": "Курортная №13",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "478402370345",
+    "uikName": "УИК №1006",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "478402370346",
+    "uikName": "УИК №1007",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "478402370347",
+    "uikName": "УИК №1008",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "478402370348",
+    "uikName": "УИК №1009",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "478402370349",
+    "uikName": "УИК №1010",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "478402370350",
+    "uikName": "УИК №1011",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "478402370351",
+    "uikName": "УИК №1012",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "478402370352",
+    "uikName": "УИК №1013",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "478402370353",
+    "uikName": "УИК №1014",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "478402370354",
+    "uikName": "УИК №1015",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "478402370355",
+    "uikName": "УИК №1016",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "478402370356",
+    "uikName": "УИК №1017",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "478402370357",
+    "uikName": "УИК №1018",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "478402370358",
+    "uikName": "УИК №1019",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "478402370359",
+    "uikName": "УИК №1020",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "478402370360",
+    "uikName": "УИК №1021",
     "tikTvd": "378300370415",
-    "tikName": "Ломоносовская № 9"
+    "tikName": "Ломоносовская № 9",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "478401070460",
+    "uikName": "УИК №1025",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "478401070461",
+    "uikName": "УИК №1026",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "478401070462",
+    "uikName": "УИК №1027",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "478401070463",
+    "uikName": "УИК №1028",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "478401070464",
+    "uikName": "УИК №1029",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "478401070465",
+    "uikName": "УИК №1030",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "478401070466",
+    "uikName": "УИК №1031",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "478401070467",
+    "uikName": "УИК №1032",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "478401070468",
+    "uikName": "УИК №1033",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "478401070469",
+    "uikName": "УИК №1034",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "478401070470",
+    "uikName": "УИК №1035",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "478401070471",
+    "uikName": "УИК №1036",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "478401070472",
+    "uikName": "УИК №1037",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "478401070473",
+    "uikName": "УИК №1038",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "478401070474",
+    "uikName": "УИК №1039",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "478401070475",
+    "uikName": "УИК №1040",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "478401070476",
+    "uikName": "УИК №1041",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "478401070477",
+    "uikName": "УИК №1042",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "478401070478",
+    "uikName": "УИК №1043",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "478401070479",
+    "uikName": "УИК №1044",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "478401070480",
+    "uikName": "УИК №1045",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "478401070481",
+    "uikName": "УИК №1046",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "478401070482",
+    "uikName": "УИК №1047",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "478401070483",
+    "uikName": "УИК №1048",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "478401070484",
+    "uikName": "УИК №1049",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "478401070485",
+    "uikName": "УИК №1050",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "478401070486",
+    "uikName": "УИК №1051",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "478401070487",
+    "uikName": "УИК №1052",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "478401070488",
+    "uikName": "УИК №1053",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "478401070489",
+    "uikName": "УИК №1054",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "478401070490",
+    "uikName": "УИК №1055",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "478401070491",
+    "uikName": "УИК №1056",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "478401070492",
+    "uikName": "УИК №1057",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "478401070493",
+    "uikName": "УИК №1058",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "478401070494",
+    "uikName": "УИК №1059",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "478401070495",
+    "uikName": "УИК №1060",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "478401070496",
+    "uikName": "УИК №1061",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "478401070497",
+    "uikName": "УИК №1062",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "478401070498",
+    "uikName": "УИК №1063",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "478401070499",
+    "uikName": "УИК №1064",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "478401070500",
+    "uikName": "УИК №1065",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "478401070501",
+    "uikName": "УИК №1066",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "478401070502",
+    "uikName": "УИК №1067",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "478401070503",
+    "uikName": "УИК №1068",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "478401070504",
+    "uikName": "УИК №1069",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "478401070505",
+    "uikName": "УИК №1070",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "478401070506",
+    "uikName": "УИК №1071",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "478401070507",
+    "uikName": "УИК №1072",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "478401070508",
+    "uikName": "УИК №1073",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "478401070509",
+    "uikName": "УИК №1074",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "478401070510",
+    "uikName": "УИК №1075",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "478401070511",
+    "uikName": "УИК №1076",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "478401070512",
+    "uikName": "УИК №1077",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "478401070513",
+    "uikName": "УИК №1078",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "478401070514",
+    "uikName": "УИК №1079",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "478401070515",
+    "uikName": "УИК №1080",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "478401070516",
+    "uikName": "УИК №1081",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "478401070517",
+    "uikName": "УИК №1082",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "478401070518",
+    "uikName": "УИК №1083",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "478401070519",
+    "uikName": "УИК №1084",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "478401070520",
+    "uikName": "УИК №1085",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "478401070521",
+    "uikName": "УИК №1086",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "478401070522",
+    "uikName": "УИК №1087",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "478402770415",
+    "uikName": "УИК №1091",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "478402770416",
+    "uikName": "УИК №1092",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "478402770417",
+    "uikName": "УИК №1093",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "478402770418",
+    "uikName": "УИК №1094",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "478402770419",
+    "uikName": "УИК №1095",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "478402770420",
+    "uikName": "УИК №1096",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "478402770421",
+    "uikName": "УИК №1097",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "478402770422",
+    "uikName": "УИК №1098",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "478402770423",
+    "uikName": "УИК №1099",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "478402770424",
+    "uikName": "УИК №1100",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "478402770425",
+    "uikName": "УИК №1101",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "478402770426",
+    "uikName": "УИК №1102",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "478402770427",
+    "uikName": "УИК №1103",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "478402770428",
+    "uikName": "УИК №1104",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "478402770429",
+    "uikName": "УИК №1105",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "478402770430",
+    "uikName": "УИК №1106",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "478402770431",
+    "uikName": "УИК №1107",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "478402770432",
+    "uikName": "УИК №1108",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "478402770433",
+    "uikName": "УИК №1109",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "478402770434",
+    "uikName": "УИК №1110",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "478402770435",
+    "uikName": "УИК №1111",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "478402770436",
+    "uikName": "УИК №1112",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "478402770437",
+    "uikName": "УИК №1113",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "478402770438",
+    "uikName": "УИК №1114",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "478402770439",
+    "uikName": "УИК №1115",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "478402770440",
+    "uikName": "УИК №1116",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "478402770441",
+    "uikName": "УИК №1117",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "478402770442",
+    "uikName": "УИК №1118",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "478402770443",
+    "uikName": "УИК №1119",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "478402770444",
+    "uikName": "УИК №1120",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "478402770445",
+    "uikName": "УИК №1121",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "478402770446",
+    "uikName": "УИК №1122",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "478402770447",
+    "uikName": "УИК №1123",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "478402770448",
+    "uikName": "УИК №1124",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "478402770449",
+    "uikName": "УИК №1125",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "478402770450",
+    "uikName": "УИК №1126",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "478402770451",
+    "uikName": "УИК №1127",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "478402770452",
+    "uikName": "УИК №1128",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "478402770453",
+    "uikName": "УИК №1129",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "478402770454",
+    "uikName": "УИК №1130",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "478402770455",
+    "uikName": "УИК №1131",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "478402770456",
+    "uikName": "УИК №1132",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "478402770457",
+    "uikName": "УИК №1133",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "478402770458",
+    "uikName": "УИК №1134",
     "tikTvd": "378300770491",
-    "tikName": "Московская № 27"
+    "tikName": "Московская № 27",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "478401170739",
+    "uikName": "УИК №1137",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "478401170740",
+    "uikName": "УИК №1138",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "478401170741",
+    "uikName": "УИК №1139",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "478401170742",
+    "uikName": "УИК №1140",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "478401170743",
+    "uikName": "УИК №1141",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "478401170744",
+    "uikName": "УИК №1142",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "478401170745",
+    "uikName": "УИК №1143",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "478401170746",
+    "uikName": "УИК №1144",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "478401170747",
+    "uikName": "УИК №1145",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "478401170748",
+    "uikName": "УИК №1146",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "478401170749",
+    "uikName": "УИК №1147",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "478401170750",
+    "uikName": "УИК №1148",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "478401170751",
+    "uikName": "УИК №1149",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "478401170752",
+    "uikName": "УИК №1150",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "478401170753",
+    "uikName": "УИК №1151",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "478401170754",
+    "uikName": "УИК №1152",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "478401170755",
+    "uikName": "УИК №1153",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "478401170756",
+    "uikName": "УИК №1154",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "478401170757",
+    "uikName": "УИК №1155",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "478401170758",
+    "uikName": "УИК №1156",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1157,
     "uikTvd": "478401170759",
+    "uikName": "УИК №1157",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "478401170760",
+    "uikName": "УИК №1158",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "478401170761",
+    "uikName": "УИК №1159",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "478401170762",
+    "uikName": "УИК №1160",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "478401170763",
+    "uikName": "УИК №1161",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "478401170764",
+    "uikName": "УИК №1162",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "478401170765",
+    "uikName": "УИК №1163",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "478401170766",
+    "uikName": "УИК №1164",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "478401170767",
+    "uikName": "УИК №1165",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "478401170768",
+    "uikName": "УИК №1166",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "478401170769",
+    "uikName": "УИК №1167",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "478401170770",
+    "uikName": "УИК №1168",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "478401170771",
+    "uikName": "УИК №1169",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "478401170772",
+    "uikName": "УИК №1170",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "478401170773",
+    "uikName": "УИК №1171",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "478401170774",
+    "uikName": "УИК №1172",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "478401170775",
+    "uikName": "УИК №1173",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1174,
     "uikTvd": "478401170776",
+    "uikName": "УИК №1174",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1175,
     "uikTvd": "478401170777",
+    "uikName": "УИК №1175",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1176,
     "uikTvd": "478401170778",
+    "uikName": "УИК №1176",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1177,
     "uikTvd": "478401170779",
+    "uikName": "УИК №1177",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "478401170780",
+    "uikName": "УИК №1178",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "478401170781",
+    "uikName": "УИК №1179",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1180,
     "uikTvd": "478401170782",
+    "uikName": "УИК №1180",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "478401170783",
+    "uikName": "УИК №1181",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "478401170784",
+    "uikName": "УИК №1182",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "478401170785",
+    "uikName": "УИК №1183",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "478401170786",
+    "uikName": "УИК №1184",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "478401170787",
+    "uikName": "УИК №1185",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1186,
     "uikTvd": "478401170788",
+    "uikName": "УИК №1186",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1187,
     "uikTvd": "478401170789",
+    "uikName": "УИК №1187",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1188,
     "uikTvd": "478401170790",
+    "uikName": "УИК №1188",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1189,
     "uikTvd": "478401170791",
+    "uikName": "УИК №1189",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1190,
     "uikTvd": "478401170792",
+    "uikName": "УИК №1190",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1191,
     "uikTvd": "478401170793",
+    "uikName": "УИК №1191",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1192,
     "uikTvd": "478401170794",
+    "uikName": "УИК №1192",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1193,
     "uikTvd": "478401170795",
+    "uikName": "УИК №1193",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1194,
     "uikTvd": "478401170796",
+    "uikName": "УИК №1194",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1195,
     "uikTvd": "478401170797",
+    "uikName": "УИК №1195",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1196,
     "uikTvd": "478401170798",
+    "uikName": "УИК №1196",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1197,
     "uikTvd": "478401170799",
+    "uikName": "УИК №1197",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1198,
     "uikTvd": "478401170800",
+    "uikName": "УИК №1198",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1199,
     "uikTvd": "478401170801",
+    "uikName": "УИК №1199",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1200,
     "uikTvd": "478401170802",
+    "uikName": "УИК №1200",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "478401170803",
+    "uikName": "УИК №1201",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "478401170804",
+    "uikName": "УИК №1202",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "478401170805",
+    "uikName": "УИК №1203",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "478401170806",
+    "uikName": "УИК №1204",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "478401170807",
+    "uikName": "УИК №1205",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "478401170808",
+    "uikName": "УИК №1206",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "478401170809",
+    "uikName": "УИК №1207",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "478401170810",
+    "uikName": "УИК №1208",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "478401170811",
+    "uikName": "УИК №1209",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "478401170812",
+    "uikName": "УИК №1210",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "478401170813",
+    "uikName": "УИК №1211",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "478401170814",
+    "uikName": "УИК №1212",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "478401170815",
+    "uikName": "УИК №1213",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "478401170816",
+    "uikName": "УИК №1214",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "478401170817",
+    "uikName": "УИК №1215",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "478401170818",
+    "uikName": "УИК №1216",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "478401170819",
+    "uikName": "УИК №1217",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "478401170820",
+    "uikName": "УИК №1218",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "478401170942",
+    "uikName": "УИК  1219",
     "tikTvd": "378300270599",
-    "tikName": "Невская № 5"
+    "tikName": "Невская № 5",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "478402270466",
+    "uikName": "УИК №1221",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "478402270467",
+    "uikName": "УИК №1222",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "478402270468",
+    "uikName": "УИК №1223",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "478402270469",
+    "uikName": "УИК №1224",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "478402270470",
+    "uikName": "УИК №1225",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "478402270471",
+    "uikName": "УИК №1226",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "478402270472",
+    "uikName": "УИК №1227",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "478402270473",
+    "uikName": "УИК №1228",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "478402270474",
+    "uikName": "УИК №1229",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "478402270475",
+    "uikName": "УИК №1230",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "478402270476",
+    "uikName": "УИК №1231",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "478402270477",
+    "uikName": "УИК №1232",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "478402270478",
+    "uikName": "УИК №1233",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "478402270479",
+    "uikName": "УИК №1234",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "478402270480",
+    "uikName": "УИК №1235",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "478402270481",
+    "uikName": "УИК №1236",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "478402270482",
+    "uikName": "УИК №1237",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "478402270483",
+    "uikName": "УИК №1238",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "478402270484",
+    "uikName": "УИК №1239",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "478402270485",
+    "uikName": "УИК №1240",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1241,
     "uikTvd": "478402270486",
+    "uikName": "УИК №1241",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1242,
     "uikTvd": "478402270487",
+    "uikName": "УИК №1242",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1243,
     "uikTvd": "478402270488",
+    "uikName": "УИК №1243",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1244,
     "uikTvd": "478402270489",
+    "uikName": "УИК №1244",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1245,
     "uikTvd": "478402270490",
+    "uikName": "УИК №1245",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "478402270491",
+    "uikName": "УИК №1246",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1247,
     "uikTvd": "478402270492",
+    "uikName": "УИК №1247",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1248,
     "uikTvd": "478402270493",
+    "uikName": "УИК №1248",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1249,
     "uikTvd": "478402270494",
+    "uikName": "УИК №1249",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1250,
     "uikTvd": "478402270495",
+    "uikName": "УИК №1250",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1251,
     "uikTvd": "478402270496",
+    "uikName": "УИК №1251",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1252,
     "uikTvd": "478402270497",
+    "uikName": "УИК №1252",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1253,
     "uikTvd": "478402270498",
+    "uikName": "УИК №1253",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1254,
     "uikTvd": "478402270499",
+    "uikName": "УИК №1254",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1255,
     "uikTvd": "478402270500",
+    "uikName": "УИК №1255",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1256,
     "uikTvd": "478402270501",
+    "uikName": "УИК №1256",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1257,
     "uikTvd": "478402270502",
+    "uikName": "УИК №1257",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1258,
     "uikTvd": "478402270503",
+    "uikName": "УИК №1258",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1259,
     "uikTvd": "478402270504",
+    "uikName": "УИК №1259",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1260,
     "uikTvd": "478402270505",
+    "uikName": "УИК №1260",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1261,
     "uikTvd": "478402270506",
+    "uikName": "УИК №1261",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1262,
     "uikTvd": "478402270507",
+    "uikName": "УИК №1262",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1263,
     "uikTvd": "478402270508",
+    "uikName": "УИК №1263",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1264,
     "uikTvd": "478402270509",
+    "uikName": "УИК №1264",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1265,
     "uikTvd": "478402270510",
+    "uikName": "УИК №1265",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1266,
     "uikTvd": "478402270511",
+    "uikName": "УИК №1266",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1267,
     "uikTvd": "478402270512",
+    "uikName": "УИК №1267",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1268,
     "uikTvd": "478402270513",
+    "uikName": "УИК №1268",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1269,
     "uikTvd": "478402270514",
+    "uikName": "УИК №1269",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1270,
     "uikTvd": "478402270515",
+    "uikName": "УИК №1270",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1271,
     "uikTvd": "478402270516",
+    "uikName": "УИК №1271",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1272,
     "uikTvd": "478402270517",
+    "uikName": "УИК №1272",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1273,
     "uikTvd": "478402270518",
+    "uikName": "УИК №1273",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1274,
     "uikTvd": "478402270519",
+    "uikName": "УИК №1274",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1275,
     "uikTvd": "478402270520",
+    "uikName": "УИК №1275",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1276,
     "uikTvd": "478402270521",
+    "uikName": "УИК №1276",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1277,
     "uikTvd": "478402270522",
+    "uikName": "УИК №1277",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1278,
     "uikTvd": "478402270523",
+    "uikName": "УИК №1278",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1279,
     "uikTvd": "478402270524",
+    "uikName": "УИК №1279",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1280,
     "uikTvd": "478402270525",
+    "uikName": "УИК №1280",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1281,
     "uikTvd": "478402270526",
+    "uikName": "УИК №1281",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1282,
     "uikTvd": "478402270527",
+    "uikName": "УИК №1282",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1283,
     "uikTvd": "478402270528",
+    "uikName": "УИК №1283",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1284,
     "uikTvd": "478402270529",
+    "uikName": "УИК №1284",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1285,
     "uikTvd": "478402270530",
+    "uikName": "УИК №1285",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1286,
     "uikTvd": "478402270531",
+    "uikName": "УИК №1286",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1287,
     "uikTvd": "478402270532",
+    "uikName": "УИК №1287",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1288,
     "uikTvd": "478402270533",
+    "uikName": "УИК №1288",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1289,
     "uikTvd": "478402270534",
+    "uikName": "УИК №1289",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1290,
     "uikTvd": "478402270535",
+    "uikName": "УИК №1290",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1291,
     "uikTvd": "478402270536",
+    "uikName": "УИК №1291",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1292,
     "uikTvd": "478402270537",
+    "uikName": "УИК №1292",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1293,
     "uikTvd": "478402270605",
+    "uikName": "УИК №1293",
     "tikTvd": "378300870570",
-    "tikName": "Невская № 24"
+    "tikName": "Невская № 24",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1294,
     "uikTvd": "478402470386",
+    "uikName": "УИК №1294",
     "tikTvd": "378300770494",
-    "tikName": "Павловская № 22"
+    "tikName": "Павловская № 22",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1295,
     "uikTvd": "478402470388",
+    "uikName": "УИК №1295",
     "tikTvd": "378300770494",
-    "tikName": "Павловская № 22"
+    "tikName": "Павловская № 22",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1296,
     "uikTvd": "478402470389",
+    "uikName": "УИК №1296",
     "tikTvd": "378300770494",
-    "tikName": "Павловская № 22"
+    "tikName": "Павловская № 22",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1297,
     "uikTvd": "478402470390",
+    "uikName": "УИК №1297",
     "tikTvd": "378300770494",
-    "tikName": "Павловская № 22"
+    "tikName": "Павловская № 22",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1298,
     "uikTvd": "478402470391",
+    "uikName": "УИК №1298",
     "tikTvd": "378300770494",
-    "tikName": "Павловская № 22"
+    "tikName": "Павловская № 22",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1299,
     "uikTvd": "478402470392",
+    "uikName": "УИК №1299",
     "tikTvd": "378300770494",
-    "tikName": "Павловская № 22"
+    "tikName": "Павловская № 22",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1300,
     "uikTvd": "478402470393",
+    "uikName": "УИК №1300",
     "tikTvd": "378300770494",
-    "tikName": "Павловская № 22"
+    "tikName": "Павловская № 22",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "478402470394",
+    "uikName": "УИК №1301",
     "tikTvd": "378300770494",
-    "tikName": "Павловская № 22"
+    "tikName": "Павловская № 22",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "478402470395",
+    "uikName": "УИК №1302",
     "tikTvd": "378300770494",
-    "tikName": "Павловская № 22"
+    "tikName": "Павловская № 22",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "478401270402",
+    "uikName": "УИК №1305",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "478401270403",
+    "uikName": "УИК №1306",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "478401270404",
+    "uikName": "УИК №1307",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "478401270405",
+    "uikName": "УИК №1308",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "478401270406",
+    "uikName": "УИК №1309",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "478401270407",
+    "uikName": "УИК №1310",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "478401270408",
+    "uikName": "УИК №1311",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "478401270409",
+    "uikName": "УИК №1312",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "478401270410",
+    "uikName": "УИК №1313",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "478401270411",
+    "uikName": "УИК №1314",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "478401270412",
+    "uikName": "УИК №1315",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "478401270413",
+    "uikName": "УИК №1316",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "478401270414",
+    "uikName": "УИК №1317",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "478401270415",
+    "uikName": "УИК №1318",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "478401270416",
+    "uikName": "УИК №1319",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "478401270417",
+    "uikName": "УИК №1320",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "478401270418",
+    "uikName": "УИК №1321",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "478401270419",
+    "uikName": "УИК №1322",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "478401270420",
+    "uikName": "УИК №1323",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "478401270421",
+    "uikName": "УИК №1324",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "478401270422",
+    "uikName": "УИК №1325",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "478401270423",
+    "uikName": "УИК №1326",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "478401270424",
+    "uikName": "УИК №1327",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "478401270425",
+    "uikName": "УИК №1328",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "478401270426",
+    "uikName": "УИК №1329",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1330,
     "uikTvd": "478401270427",
+    "uikName": "УИК №1330",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1331,
     "uikTvd": "478401270428",
+    "uikName": "УИК №1331",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1332,
     "uikTvd": "478401270429",
+    "uikName": "УИК №1332",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1333,
     "uikTvd": "478401270430",
+    "uikName": "УИК №1333",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1334,
     "uikTvd": "478401270431",
+    "uikName": "УИК №1334",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1335,
     "uikTvd": "478401270432",
+    "uikName": "УИК №1335",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1336,
     "uikTvd": "478401270433",
+    "uikName": "УИК №1336",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1337,
     "uikTvd": "478401270434",
+    "uikName": "УИК №1337",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1338,
     "uikTvd": "478401270435",
+    "uikName": "УИК №1338",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1339,
     "uikTvd": "478401270436",
+    "uikName": "УИК №1339",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1340,
     "uikTvd": "478401270437",
+    "uikName": "УИК №1340",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1341,
     "uikTvd": "478401270438",
+    "uikName": "УИК №1341",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1342,
     "uikTvd": "478401270439",
+    "uikName": "УИК №1342",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1343,
     "uikTvd": "478401270440",
+    "uikName": "УИК №1343",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1344,
     "uikTvd": "478401270441",
+    "uikName": "УИК №1344",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1345,
     "uikTvd": "478401270442",
+    "uikName": "УИК №1345",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1346,
     "uikTvd": "478401270443",
+    "uikName": "УИК №1346",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1347,
     "uikTvd": "478401270444",
+    "uikName": "УИК №1347",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1348,
     "uikTvd": "478401270445",
+    "uikName": "УИК №1348",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1349,
     "uikTvd": "478401270446",
+    "uikName": "УИК №1349",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1350,
     "uikTvd": "478401270447",
+    "uikName": "УИК №1350",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1351,
     "uikTvd": "478401270448",
+    "uikName": "УИК №1351",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1352,
     "uikTvd": "478401270449",
+    "uikName": "УИК №1352",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1353,
     "uikTvd": "478401270450",
+    "uikName": "УИК №1353",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1354,
     "uikTvd": "478401270451",
+    "uikName": "УИК №1354",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1355,
     "uikTvd": "478401270452",
+    "uikName": "УИК №1355",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1356,
     "uikTvd": "478401270453",
+    "uikName": "УИК №1356",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1357,
     "uikTvd": "478401270454",
+    "uikName": "УИК №1357",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1358,
     "uikTvd": "478401270455",
+    "uikName": "УИК №1358",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1359,
     "uikTvd": "478401270456",
+    "uikName": "УИК №1359",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1360,
     "uikTvd": "478401270457",
+    "uikName": "УИК №1360",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1361,
     "uikTvd": "478401270458",
+    "uikName": "УИК №1361",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1362,
     "uikTvd": "478401270459",
+    "uikName": "УИК №1362",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1363,
     "uikTvd": "478401270460",
+    "uikName": "УИК №1363",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1364,
     "uikTvd": "478401270461",
+    "uikName": "УИК №1364",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1365,
     "uikTvd": "478401270462",
+    "uikName": "УИК №1365",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1366,
     "uikTvd": "478401270463",
+    "uikName": "УИК №1366",
     "tikTvd": "378300670481",
-    "tikName": "Петроградская № 18"
+    "tikName": "Петроградская № 18",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1369,
     "uikTvd": "478401370375",
+    "uikName": "УИК №1369",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1370,
     "uikTvd": "478401370376",
+    "uikName": "УИК №1370",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1371,
     "uikTvd": "478401370377",
+    "uikName": "УИК №1371",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1372,
     "uikTvd": "478401370378",
+    "uikName": "УИК №1372",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1373,
     "uikTvd": "478401370379",
+    "uikName": "УИК №1373",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1374,
     "uikTvd": "478401370380",
+    "uikName": "УИК №1374",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1375,
     "uikTvd": "478401370381",
+    "uikName": "УИК №1375",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1376,
     "uikTvd": "478401370382",
+    "uikName": "УИК №1376",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1377,
     "uikTvd": "478401370383",
+    "uikName": "УИК №1377",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1378,
     "uikTvd": "478401370384",
+    "uikName": "УИК №1378",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1379,
     "uikTvd": "478401370385",
+    "uikName": "УИК №1379",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1380,
     "uikTvd": "478401370386",
+    "uikName": "УИК №1380",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1381,
     "uikTvd": "478401370387",
+    "uikName": "УИК №1381",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1382,
     "uikTvd": "478401370388",
+    "uikName": "УИК №1382",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1383,
     "uikTvd": "478401370389",
+    "uikName": "УИК №1383",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1384,
     "uikTvd": "478401370390",
+    "uikName": "УИК №1384",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1385,
     "uikTvd": "478401370391",
+    "uikName": "УИК №1385",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1386,
     "uikTvd": "478401370392",
+    "uikName": "УИК №1386",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1387,
     "uikTvd": "478401370393",
+    "uikName": "УИК №1387",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1388,
     "uikTvd": "478401370394",
+    "uikName": "УИК №1388",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1389,
     "uikTvd": "478401370395",
+    "uikName": "УИК №1389",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1390,
     "uikTvd": "478401370396",
+    "uikName": "УИК №1390",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1391,
     "uikTvd": "478401370397",
+    "uikName": "УИК №1391",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1392,
     "uikTvd": "478401370398",
+    "uikName": "УИК №1392",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1393,
     "uikTvd": "478401370399",
+    "uikName": "УИК №1393",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1394,
     "uikTvd": "478401370400",
+    "uikName": "УИК №1394",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1395,
     "uikTvd": "478401370401",
+    "uikName": "УИК №1395",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1396,
     "uikTvd": "478401370402",
+    "uikName": "УИК №1396",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1397,
     "uikTvd": "478401370403",
+    "uikName": "УИК №1397",
     "tikTvd": "378300370414",
-    "tikName": "Петродворцовая № 8"
+    "tikName": "Петродворцовая № 8",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 1400,
     "uikTvd": "478401470511",
+    "uikName": "УИК №1400",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "478401470512",
+    "uikName": "УИК №1401",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "478401470513",
+    "uikName": "УИК №1402",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "478401470514",
+    "uikName": "УИК №1403",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "478401470515",
+    "uikName": "УИК №1404",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "478401470516",
+    "uikName": "УИК №1405",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1406,
     "uikTvd": "478401470517",
+    "uikName": "УИК №1406",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "478401470518",
+    "uikName": "УИК №1407",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "478401470519",
+    "uikName": "УИК №1408",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "478401470520",
+    "uikName": "УИК №1409",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "478401470521",
+    "uikName": "УИК №1410",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "478401470522",
+    "uikName": "УИК №1411",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "478401470523",
+    "uikName": "УИК №1412",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "478401470524",
+    "uikName": "УИК №1413",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "478401470525",
+    "uikName": "УИК №1414",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "478401470526",
+    "uikName": "УИК №1415",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "478401470527",
+    "uikName": "УИК №1416",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "478401470528",
+    "uikName": "УИК №1417",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "478401470529",
+    "uikName": "УИК №1418",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "478401470530",
+    "uikName": "УИК №1419",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1420,
     "uikTvd": "478401470531",
+    "uikName": "УИК №1420",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1421,
     "uikTvd": "478401470532",
+    "uikName": "УИК №1421",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1422,
     "uikTvd": "478401470533",
+    "uikName": "УИК №1422",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1423,
     "uikTvd": "478401470534",
+    "uikName": "УИК №1423",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1424,
     "uikTvd": "478401470535",
+    "uikName": "УИК №1424",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1425,
     "uikTvd": "478401470536",
+    "uikName": "УИК №1425",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1426,
     "uikTvd": "478401470537",
+    "uikName": "УИК №1426",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1427,
     "uikTvd": "478401470538",
+    "uikName": "УИК №1427",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1428,
     "uikTvd": "478401470539",
+    "uikName": "УИК №1428",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1429,
     "uikTvd": "478401470540",
+    "uikName": "УИК №1429",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1430,
     "uikTvd": "478401470541",
+    "uikName": "УИК №1430",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1431,
     "uikTvd": "478401470542",
+    "uikName": "УИК №1431",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1432,
     "uikTvd": "478401470543",
+    "uikName": "УИК №1432",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1433,
     "uikTvd": "478401470544",
+    "uikName": "УИК №1433",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1434,
     "uikTvd": "478401470545",
+    "uikName": "УИК №1434",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1435,
     "uikTvd": "478401470546",
+    "uikName": "УИК №1435",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1436,
     "uikTvd": "478401470547",
+    "uikName": "УИК №1436",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1437,
     "uikTvd": "478401470548",
+    "uikName": "УИК №1437",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1438,
     "uikTvd": "478401470549",
+    "uikName": "УИК №1438",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1439,
     "uikTvd": "478401470550",
+    "uikName": "УИК №1439",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1440,
     "uikTvd": "478401470551",
+    "uikName": "УИК №1440",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1441,
     "uikTvd": "478401470552",
+    "uikName": "УИК №1441",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1442,
     "uikTvd": "478401470553",
+    "uikName": "УИК №1442",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1443,
     "uikTvd": "478401470554",
+    "uikName": "УИК №1443",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1444,
     "uikTvd": "478401470555",
+    "uikName": "УИК №1444",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1445,
     "uikTvd": "478401470556",
+    "uikName": "УИК №1445",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1446,
     "uikTvd": "478401470557",
+    "uikName": "УИК №1446",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1447,
     "uikTvd": "478401470558",
+    "uikName": "УИК №1447",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1448,
     "uikTvd": "478401470559",
+    "uikName": "УИК №1448",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1449,
     "uikTvd": "478401470560",
+    "uikName": "УИК №1449",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1450,
     "uikTvd": "478401470561",
+    "uikName": "УИК №1450",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1451,
     "uikTvd": "478401470562",
+    "uikName": "УИК №1451",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1452,
     "uikTvd": "478401470563",
+    "uikName": "УИК №1452",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1453,
     "uikTvd": "478401470564",
+    "uikName": "УИК №1453",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1454,
     "uikTvd": "478401470565",
+    "uikName": "УИК №1454",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1455,
     "uikTvd": "478401470566",
+    "uikName": "УИК №1455",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1456,
     "uikTvd": "478401470567",
+    "uikName": "УИК №1456",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1457,
     "uikTvd": "478401470568",
+    "uikName": "УИК №1457",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1458,
     "uikTvd": "478401470569",
+    "uikName": "УИК №1458",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1459,
     "uikTvd": "478401470570",
+    "uikName": "УИК №1459",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1460,
     "uikTvd": "478401470571",
+    "uikName": "УИК №1460",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1461,
     "uikTvd": "478401470572",
+    "uikName": "УИК №1461",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1462,
     "uikTvd": "478401470573",
+    "uikName": "УИК №1462",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1463,
     "uikTvd": "478401470574",
+    "uikName": "УИК №1463",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1464,
     "uikTvd": "478401470575",
+    "uikName": "УИК №1464",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1465,
     "uikTvd": "478401470576",
+    "uikName": "УИК №1465",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1466,
     "uikTvd": "478401470577",
+    "uikName": "УИК №1466",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1467,
     "uikTvd": "478401470578",
+    "uikName": "УИК №1467",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1468,
     "uikTvd": "478401470579",
+    "uikName": "УИК №1468",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1469,
     "uikTvd": "478401470580",
+    "uikName": "УИК №1469",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1470,
     "uikTvd": "478401470581",
+    "uikName": "УИК №1470",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1471,
     "uikTvd": "478401470582",
+    "uikName": "УИК №1471",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1472,
     "uikTvd": "478401470583",
+    "uikName": "УИК №1472",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1473,
     "uikTvd": "478401470584",
+    "uikName": "УИК №1473",
     "tikTvd": "378300570632",
-    "tikName": "Приморская №12"
+    "tikName": "Приморская №12",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1478,
     "uikTvd": "478402870427",
+    "uikName": "УИК №1478",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1479,
     "uikTvd": "478402870428",
+    "uikName": "УИК №1479",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1480,
     "uikTvd": "478402870429",
+    "uikName": "УИК №1480",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1481,
     "uikTvd": "478402870430",
+    "uikName": "УИК №1481",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1482,
     "uikTvd": "478402870431",
+    "uikName": "УИК №1482",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1483,
     "uikTvd": "478402870432",
+    "uikName": "УИК №1483",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1484,
     "uikTvd": "478402870433",
+    "uikName": "УИК №1484",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1485,
     "uikTvd": "478402870434",
+    "uikName": "УИК №1485",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1486,
     "uikTvd": "478402870435",
+    "uikName": "УИК №1486",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1487,
     "uikTvd": "478402870436",
+    "uikName": "УИК №1487",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1488,
     "uikTvd": "478402870437",
+    "uikName": "УИК №1488",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1489,
     "uikTvd": "478402870438",
+    "uikName": "УИК №1489",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1490,
     "uikTvd": "478402870439",
+    "uikName": "УИК №1490",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1491,
     "uikTvd": "478402870440",
+    "uikName": "УИК №1491",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1492,
     "uikTvd": "478402870441",
+    "uikName": "УИК №1492",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1493,
     "uikTvd": "478402870442",
+    "uikName": "УИК №1493",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1494,
     "uikTvd": "478402870443",
+    "uikName": "УИК №1494",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1495,
     "uikTvd": "478402870444",
+    "uikName": "УИК №1495",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1496,
     "uikTvd": "478402870445",
+    "uikName": "УИК №1496",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1497,
     "uikTvd": "478402870446",
+    "uikName": "УИК №1497",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1498,
     "uikTvd": "478402870447",
+    "uikName": "УИК №1498",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1499,
     "uikTvd": "478402870448",
+    "uikName": "УИК №1499",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1500,
     "uikTvd": "478402870449",
+    "uikName": "УИК №1500",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "478402870450",
+    "uikName": "УИК №1501",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "478402870451",
+    "uikName": "УИК №1502",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "478402870452",
+    "uikName": "УИК №1503",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "478402870453",
+    "uikName": "УИК №1504",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "478402870454",
+    "uikName": "УИК №1505",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "478402870455",
+    "uikName": "УИК №1506",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "478402870456",
+    "uikName": "УИК №1507",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "478402870457",
+    "uikName": "УИК №1508",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "478402870458",
+    "uikName": "УИК №1509",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "478402870459",
+    "uikName": "УИК №1510",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "478402870460",
+    "uikName": "УИК №1511",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "478402870461",
+    "uikName": "УИК №1512",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "478402870462",
+    "uikName": "УИК №1513",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "478402870463",
+    "uikName": "УИК №1514",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "478402870464",
+    "uikName": "УИК №1515",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "478402870465",
+    "uikName": "УИК №1516",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "478402870466",
+    "uikName": "УИК №1517",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "478402870467",
+    "uikName": "УИК №1518",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "478402870468",
+    "uikName": "УИК №1519",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "478402870469",
+    "uikName": "УИК №1520",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "478402870470",
+    "uikName": "УИК №1521",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "478402870471",
+    "uikName": "УИК №1522",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "478402870472",
+    "uikName": "УИК №1523",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "478402870473",
+    "uikName": "УИК №1524",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "478402870474",
+    "uikName": "УИК №1525",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1526,
     "uikTvd": "478402870475",
+    "uikName": "УИК №1526",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1527,
     "uikTvd": "478402870476",
+    "uikName": "УИК №1527",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1528,
     "uikTvd": "478402870477",
+    "uikName": "УИК №1528",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1529,
     "uikTvd": "478402870478",
+    "uikName": "УИК №1529",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1530,
     "uikTvd": "478402870479",
+    "uikName": "УИК №1530",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1531,
     "uikTvd": "478402870480",
+    "uikName": "УИК №1531",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1532,
     "uikTvd": "478402870481",
+    "uikName": "УИК №1532",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1533,
     "uikTvd": "478402870544",
+    "uikName": "УИК №1533",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   },
   {
     "uikNumber": 1537,
     "uikTvd": "478401570481",
+    "uikName": "УИК №1537",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1538,
     "uikTvd": "478401570482",
+    "uikName": "УИК №1538",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1539,
     "uikTvd": "478401570483",
+    "uikName": "УИК №1539",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1540,
     "uikTvd": "478401570484",
+    "uikName": "УИК №1540",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1541,
     "uikTvd": "478401570485",
+    "uikName": "УИК №1541",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1542,
     "uikTvd": "478401570486",
+    "uikName": "УИК №1542",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1543,
     "uikTvd": "478401570487",
+    "uikName": "УИК №1543",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1544,
     "uikTvd": "478401570488",
+    "uikName": "УИК №1544",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1545,
     "uikTvd": "478401570489",
+    "uikName": "УИК №1545",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1546,
     "uikTvd": "478401570490",
+    "uikName": "УИК №1546",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1547,
     "uikTvd": "478401570491",
+    "uikName": "УИК №1547",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1548,
     "uikTvd": "478401570492",
+    "uikName": "УИК №1548",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1549,
     "uikTvd": "478401570493",
+    "uikName": "УИК №1549",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1550,
     "uikTvd": "478401570494",
+    "uikName": "УИК №1550",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1551,
     "uikTvd": "478401570495",
+    "uikName": "УИК №1551",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1552,
     "uikTvd": "478401570496",
+    "uikName": "УИК №1552",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1553,
     "uikTvd": "478401570497",
+    "uikName": "УИК №1553",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1554,
     "uikTvd": "478401570498",
+    "uikName": "УИК №1554",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1555,
     "uikTvd": "478401570499",
+    "uikName": "УИК №1555",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1556,
     "uikTvd": "478401570500",
+    "uikName": "УИК №1556",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1557,
     "uikTvd": "478401570501",
+    "uikName": "УИК №1557",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1559,
     "uikTvd": "478401570502",
+    "uikName": "УИК №1559",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1560,
     "uikTvd": "478401570503",
+    "uikName": "УИК №1560",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1561,
     "uikTvd": "478401570504",
+    "uikName": "УИК №1561",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1562,
     "uikTvd": "478401570505",
+    "uikName": "УИК №1562",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1563,
     "uikTvd": "478401570506",
+    "uikName": "УИК №1563",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1564,
     "uikTvd": "478401570507",
+    "uikName": "УИК №1564",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1565,
     "uikTvd": "478401570508",
+    "uikName": "УИК №1565",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1566,
     "uikTvd": "478401570509",
+    "uikName": "УИК №1566",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1567,
     "uikTvd": "478401570510",
+    "uikName": "УИК №1567",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1568,
     "uikTvd": "478401570511",
+    "uikName": "УИК №1568",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1569,
     "uikTvd": "478401570512",
+    "uikName": "УИК №1569",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1570,
     "uikTvd": "478401570513",
+    "uikName": "УИК №1570",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1571,
     "uikTvd": "478401570514",
+    "uikName": "УИК №1571",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1572,
     "uikTvd": "478401570515",
+    "uikName": "УИК №1572",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1573,
     "uikTvd": "478401570516",
+    "uikName": "УИК №1573",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1574,
     "uikTvd": "478401570517",
+    "uikName": "УИК №1574",
     "tikTvd": "378300770492",
-    "tikName": "Пушкинская № 20"
+    "tikName": "Пушкинская № 20",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 1576,
     "uikTvd": "478401670457",
+    "uikName": "УИК №1576",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1577,
     "uikTvd": "478401670458",
+    "uikName": "УИК №1577",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1578,
     "uikTvd": "478401670459",
+    "uikName": "УИК №1578",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1579,
     "uikTvd": "478401670460",
+    "uikName": "УИК №1579",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1580,
     "uikTvd": "478401670461",
+    "uikName": "УИК №1580",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1581,
     "uikTvd": "478401670462",
+    "uikName": "УИК №1581",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1582,
     "uikTvd": "478401670463",
+    "uikName": "УИК №1582",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1583,
     "uikTvd": "478401670464",
+    "uikName": "УИК №1583",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1584,
     "uikTvd": "478401670465",
+    "uikName": "УИК №1584",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1585,
     "uikTvd": "478401670466",
+    "uikName": "УИК №1585",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1586,
     "uikTvd": "478401670467",
+    "uikName": "УИК №1586",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1587,
     "uikTvd": "478401670468",
+    "uikName": "УИК №1587",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1588,
     "uikTvd": "478401670469",
+    "uikName": "УИК №1588",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1589,
     "uikTvd": "478401670470",
+    "uikName": "УИК №1589",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1590,
     "uikTvd": "478401670471",
+    "uikName": "УИК №1590",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1591,
     "uikTvd": "478401670472",
+    "uikName": "УИК №1591",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1592,
     "uikTvd": "478401670473",
+    "uikName": "УИК №1592",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1593,
     "uikTvd": "478401670474",
+    "uikName": "УИК №1593",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1594,
     "uikTvd": "478401670475",
+    "uikName": "УИК №1594",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1595,
     "uikTvd": "478401670476",
+    "uikName": "УИК №1595",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1596,
     "uikTvd": "478401670477",
+    "uikName": "УИК №1596",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1597,
     "uikTvd": "478401670478",
+    "uikName": "УИК №1597",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1598,
     "uikTvd": "478401670479",
+    "uikName": "УИК №1598",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1599,
     "uikTvd": "478401670480",
+    "uikName": "УИК №1599",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1600,
     "uikTvd": "478401670481",
+    "uikName": "УИК №1600",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "478401670482",
+    "uikName": "УИК №1601",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "478401670483",
+    "uikName": "УИК №1602",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "478401670484",
+    "uikName": "УИК №1603",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "478401670485",
+    "uikName": "УИК №1604",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "478401670486",
+    "uikName": "УИК №1605",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "478401670487",
+    "uikName": "УИК №1606",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "478401670488",
+    "uikName": "УИК №1607",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "478401670489",
+    "uikName": "УИК №1608",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "478401670490",
+    "uikName": "УИК №1609",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "478401670491",
+    "uikName": "УИК №1610",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "478401670492",
+    "uikName": "УИК №1611",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "478401670493",
+    "uikName": "УИК №1612",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "478401670494",
+    "uikName": "УИК №1613",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "478401670495",
+    "uikName": "УИК №1614",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1615,
     "uikTvd": "478401670496",
+    "uikName": "УИК №1615",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1616,
     "uikTvd": "478401670497",
+    "uikName": "УИК №1616",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1617,
     "uikTvd": "478401670498",
+    "uikName": "УИК №1617",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1618,
     "uikTvd": "478401670499",
+    "uikName": "УИК №1618",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1619,
     "uikTvd": "478401670500",
+    "uikName": "УИК №1619",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1620,
     "uikTvd": "478401670501",
+    "uikName": "УИК №1620",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1621,
     "uikTvd": "478401670502",
+    "uikName": "УИК №1621",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1622,
     "uikTvd": "478401670503",
+    "uikName": "УИК №1622",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1623,
     "uikTvd": "478401670504",
+    "uikName": "УИК №1623",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1624,
     "uikTvd": "478401670505",
+    "uikName": "УИК №1624",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1625,
     "uikTvd": "478401670506",
+    "uikName": "УИК №1625",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1626,
     "uikTvd": "478401670507",
+    "uikName": "УИК №1626",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1627,
     "uikTvd": "478401670508",
+    "uikName": "УИК №1627",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1628,
     "uikTvd": "478401670509",
+    "uikName": "УИК №1628",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1629,
     "uikTvd": "478401670510",
+    "uikName": "УИК №1629",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1630,
     "uikTvd": "478401670511",
+    "uikName": "УИК №1630",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1631,
     "uikTvd": "478401670512",
+    "uikName": "УИК №1631",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1632,
     "uikTvd": "478401670513",
+    "uikName": "УИК №1632",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1633,
     "uikTvd": "478401670514",
+    "uikName": "УИК №1633",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1634,
     "uikTvd": "478401670515",
+    "uikName": "УИК №1634",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1635,
     "uikTvd": "478401670516",
+    "uikName": "УИК №1635",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1636,
     "uikTvd": "478401670517",
+    "uikName": "УИК №1636",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1637,
     "uikTvd": "478401670518",
+    "uikName": "УИК №1637",
     "tikTvd": "378300870569",
-    "tikName": "Фрунзенская №23 "
+    "tikName": "Фрунзенская №23 ",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1642,
     "uikTvd": "478402970403",
+    "uikName": "УИК №1642",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1643,
     "uikTvd": "478402970490",
+    "uikName": "УИК №1643",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1644,
     "uikTvd": "478402970491",
+    "uikName": "УИК №1644",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1645,
     "uikTvd": "478402970492",
+    "uikName": "УИК №1645",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1646,
     "uikTvd": "478402970493",
+    "uikName": "УИК №1646",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1647,
     "uikTvd": "478402970494",
+    "uikName": "УИК №1647",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1648,
     "uikTvd": "478402970495",
+    "uikName": "УИК №1648",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1649,
     "uikTvd": "478402970496",
+    "uikName": "УИК №1649",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1650,
     "uikTvd": "478402970497",
+    "uikName": "УИК №1650",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1651,
     "uikTvd": "478402970498",
+    "uikName": "УИК №1651",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1652,
     "uikTvd": "478402970499",
+    "uikName": "УИК №1652",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1653,
     "uikTvd": "478402970500",
+    "uikName": "УИК №1653",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1654,
     "uikTvd": "478402970501",
+    "uikName": "УИК №1654",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1655,
     "uikTvd": "478402970502",
+    "uikName": "УИК №1655",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1656,
     "uikTvd": "478402970503",
+    "uikName": "УИК №1656",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1657,
     "uikTvd": "478402970504",
+    "uikName": "УИК №1657",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1658,
     "uikTvd": "478402970505",
+    "uikName": "УИК №1658",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1659,
     "uikTvd": "478402970506",
+    "uikName": "УИК №1659",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1660,
     "uikTvd": "478402970507",
+    "uikName": "УИК №1660",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1661,
     "uikTvd": "478402970508",
+    "uikName": "УИК №1661",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1662,
     "uikTvd": "478402970509",
+    "uikName": "УИК №1662",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1663,
     "uikTvd": "478402970510",
+    "uikName": "УИК №1663",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1664,
     "uikTvd": "478402970511",
+    "uikName": "УИК №1664",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1665,
     "uikTvd": "478402970512",
+    "uikName": "УИК №1665",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1666,
     "uikTvd": "478402970513",
+    "uikName": "УИК №1666",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1667,
     "uikTvd": "478402970514",
+    "uikName": "УИК №1667",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1668,
     "uikTvd": "478402970515",
+    "uikName": "УИК №1668",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1669,
     "uikTvd": "478402970516",
+    "uikName": "УИК №1669",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1670,
     "uikTvd": "478402970517",
+    "uikName": "УИК №1670",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1671,
     "uikTvd": "478402970518",
+    "uikName": "УИК №1671",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1672,
     "uikTvd": "478402970519",
+    "uikName": "УИК №1672",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1673,
     "uikTvd": "478402970520",
+    "uikName": "УИК №1673",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1674,
     "uikTvd": "478402970521",
+    "uikName": "УИК №1674",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1675,
     "uikTvd": "478402970522",
+    "uikName": "УИК №1675",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1676,
     "uikTvd": "478402970523",
+    "uikName": "УИК №1676",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1677,
     "uikTvd": "478402970524",
+    "uikName": "УИК №1677",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1678,
     "uikTvd": "478402970525",
+    "uikName": "УИК №1678",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1679,
     "uikTvd": "478402970526",
+    "uikName": "УИК №1679",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1680,
     "uikTvd": "478402970527",
+    "uikName": "УИК №1680",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1681,
     "uikTvd": "478402970528",
+    "uikName": "УИК №1681",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1682,
     "uikTvd": "478402970529",
+    "uikName": "УИК №1682",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1683,
     "uikTvd": "478402970530",
+    "uikName": "УИК №1683",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1684,
     "uikTvd": "478402970531",
+    "uikName": "УИК №1684",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1685,
     "uikTvd": "478402970532",
+    "uikName": "УИК №1685",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1686,
     "uikTvd": "478402970533",
+    "uikName": "УИК №1686",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1687,
     "uikTvd": "478402970534",
+    "uikName": "УИК №1687",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1688,
     "uikTvd": "478402970535",
+    "uikName": "УИК №1688",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1689,
     "uikTvd": "478402970536",
+    "uikName": "УИК №1689",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1690,
     "uikTvd": "478402970537",
+    "uikName": "УИК №1690",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1691,
     "uikTvd": "478402970538",
+    "uikName": "УИК №1691",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1692,
     "uikTvd": "478402970539",
+    "uikName": "УИК №1692",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1693,
     "uikTvd": "478402970540",
+    "uikName": "УИК №1693",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1694,
     "uikTvd": "478402970541",
+    "uikName": "УИК №1694",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1695,
     "uikTvd": "478402970542",
+    "uikName": "УИК №1695",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1696,
     "uikTvd": "478402970543",
+    "uikName": "УИК №1696",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1697,
     "uikTvd": "478402970544",
+    "uikName": "УИК №1697",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1698,
     "uikTvd": "478402970545",
+    "uikName": "УИК №1698",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1699,
     "uikTvd": "478402970546",
+    "uikName": "УИК №1699",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1700,
     "uikTvd": "478402970547",
+    "uikName": "УИК №1700",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1701,
     "uikTvd": "478402970548",
+    "uikName": "УИК №1701",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "478402970549",
+    "uikName": "УИК №1702",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "478402970550",
+    "uikName": "УИК №1703",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1704,
     "uikTvd": "478402970551",
+    "uikName": "УИК №1704",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "478402970552",
+    "uikName": "УИК №1705",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1706,
     "uikTvd": "478402970553",
+    "uikName": "УИК №1706",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "478402970554",
+    "uikName": "УИК №1707",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1708,
     "uikTvd": "478402970555",
+    "uikName": "УИК №1708",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "478402970556",
+    "uikName": "УИК №1709",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "478402971187",
+    "uikName": "УИК №1710",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "478402971185",
+    "uikName": "УИК №1711",
     "tikTvd": "378300870571",
-    "tikName": "Фрунзенская №29"
+    "tikName": "Фрунзенская №29",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 213,
+      "oikTvd": "100100095789",
+      "oikName": "Южный"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "478401770475",
+    "uikName": "УИК №1715",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1716,
     "uikTvd": "478401770476",
+    "uikName": "УИК №1716",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1717,
     "uikTvd": "478401770477",
+    "uikName": "УИК №1717",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1718,
     "uikTvd": "478401770478",
+    "uikName": "УИК №1718",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "478401770479",
+    "uikName": "УИК №1719",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "478401770480",
+    "uikName": "УИК №1720",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "478401770481",
+    "uikName": "УИК №1721",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "478401770482",
+    "uikName": "УИК №1722",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1723,
     "uikTvd": "478401770483",
+    "uikName": "УИК №1723",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1724,
     "uikTvd": "478401770484",
+    "uikName": "УИК №1724",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1725,
     "uikTvd": "478401770485",
+    "uikName": "УИК №1725",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1726,
     "uikTvd": "478401770486",
+    "uikName": "УИК №1726",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1727,
     "uikTvd": "478401770487",
+    "uikName": "УИК №1727",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1728,
     "uikTvd": "478401770488",
+    "uikName": "УИК №1728",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1729,
     "uikTvd": "478401770489",
+    "uikName": "УИК №1729",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1730,
     "uikTvd": "478401770490",
+    "uikName": "УИК №1730",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1731,
     "uikTvd": "478401770491",
+    "uikName": "УИК №1731",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1732,
     "uikTvd": "478401770492",
+    "uikName": "УИК №1732",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1733,
     "uikTvd": "478401770493",
+    "uikName": "УИК №1733",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1734,
     "uikTvd": "478401770494",
+    "uikName": "УИК №1734",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1735,
     "uikTvd": "478401770495",
+    "uikName": "УИК №1735",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1736,
     "uikTvd": "478401770496",
+    "uikName": "УИК №1736",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1737,
     "uikTvd": "478401770527",
+    "uikName": "УИК №1737",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1738,
     "uikTvd": "478401770497",
+    "uikName": "УИК №1738",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1739,
     "uikTvd": "478401770498",
+    "uikName": "УИК №1739",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1740,
     "uikTvd": "478401770499",
+    "uikName": "УИК №1740",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1741,
     "uikTvd": "478401770500",
+    "uikName": "УИК №1741",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1742,
     "uikTvd": "478401770501",
+    "uikName": "УИК №1742",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1743,
     "uikTvd": "478401770502",
+    "uikName": "УИК №1743",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1744,
     "uikTvd": "478401770503",
+    "uikName": "УИК №1744",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1745,
     "uikTvd": "478401770504",
+    "uikName": "УИК №1745",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1746,
     "uikTvd": "478401770505",
+    "uikName": "УИК №1746",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1747,
     "uikTvd": "478401770506",
+    "uikName": "УИК №1747",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1748,
     "uikTvd": "478401770507",
+    "uikName": "УИК №1748",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1749,
     "uikTvd": "478401770508",
+    "uikName": "УИК №1749",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1750,
     "uikTvd": "478401770509",
+    "uikName": "УИК №1750",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1751,
     "uikTvd": "478401770510",
+    "uikName": "УИК №1751",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1752,
     "uikTvd": "478401770511",
+    "uikName": "УИК №1752",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1753,
     "uikTvd": "478401770512",
+    "uikName": "УИК №1753",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1754,
     "uikTvd": "478401770513",
+    "uikName": "УИК №1754",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1755,
     "uikTvd": "478401770514",
+    "uikName": "УИК №1755",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1756,
     "uikTvd": "478401770515",
+    "uikName": "УИК №1756",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1757,
     "uikTvd": "478401770516",
+    "uikName": "УИК №1757",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1758,
     "uikTvd": "478401770517",
+    "uikName": "УИК №1758",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1759,
     "uikTvd": "478401770518",
+    "uikName": "УИК №1759",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1760,
     "uikTvd": "478401770519",
+    "uikName": "УИК №1760",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1761,
     "uikTvd": "478401770520",
+    "uikName": "УИК №1761",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1762,
     "uikTvd": "478401770521",
+    "uikName": "УИК №1762",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1763,
     "uikTvd": "478401770522",
+    "uikName": "УИК №1763",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1764,
     "uikTvd": "478401770523",
+    "uikName": "УИК №1764",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1765,
     "uikTvd": "478401770804",
+    "uikName": "УИК  1765",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1766,
     "uikTvd": "478401770805",
+    "uikName": "УИК  1766",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1767,
     "uikTvd": "478403070427",
+    "uikName": "УИК №1767",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1768,
     "uikTvd": "478403070428",
+    "uikName": "УИК №1768",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1769,
     "uikTvd": "478403070429",
+    "uikName": "УИК №1769",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1770,
     "uikTvd": "478403070430",
+    "uikName": "УИК №1770",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1771,
     "uikTvd": "478403070431",
+    "uikName": "УИК №1771",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1772,
     "uikTvd": "478403070432",
+    "uikName": "УИК №1772",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1773,
     "uikTvd": "478403070433",
+    "uikName": "УИК №1773",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1774,
     "uikTvd": "478403070434",
+    "uikName": "УИК №1774",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1775,
     "uikTvd": "478403070435",
+    "uikName": "УИК №1775",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1776,
     "uikTvd": "478403070436",
+    "uikName": "УИК №1776",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1777,
     "uikTvd": "478403070437",
+    "uikName": "УИК №1777",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1778,
     "uikTvd": "478403070438",
+    "uikName": "УИК №1778",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1779,
     "uikTvd": "478403070439",
+    "uikName": "УИК №1779",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1780,
     "uikTvd": "478403070440",
+    "uikName": "УИК №1780",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1781,
     "uikTvd": "478403070441",
+    "uikName": "УИК №1781",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1782,
     "uikTvd": "478403070442",
+    "uikName": "УИК №1782",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1783,
     "uikTvd": "478403070443",
+    "uikName": "УИК №1783",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1784,
     "uikTvd": "478403070444",
+    "uikName": "УИК №1784",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1785,
     "uikTvd": "478403070445",
+    "uikName": "УИК №1785",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1786,
     "uikTvd": "478403070446",
+    "uikName": "УИК №1786",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1787,
     "uikTvd": "478403070447",
+    "uikName": "УИК №1787",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1788,
     "uikTvd": "478403070448",
+    "uikName": "УИК №1788",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1789,
     "uikTvd": "478403070449",
+    "uikName": "УИК №1789",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1790,
     "uikTvd": "478403070450",
+    "uikName": "УИК №1790",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1791,
     "uikTvd": "478403070451",
+    "uikName": "УИК №1791",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1792,
     "uikTvd": "478403070452",
+    "uikName": "УИК №1792",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1793,
     "uikTvd": "478403070453",
+    "uikName": "УИК №1793",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1794,
     "uikTvd": "478403070454",
+    "uikName": "УИК №1794",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1795,
     "uikTvd": "478403070455",
+    "uikName": "УИК №1795",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1796,
     "uikTvd": "478403070456",
+    "uikName": "УИК №1796",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1797,
     "uikTvd": "478403070457",
+    "uikName": "УИК №1797",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1798,
     "uikTvd": "478403070458",
+    "uikName": "УИК №1798",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1799,
     "uikTvd": "478403070459",
+    "uikName": "УИК №1799",
     "tikTvd": "378300670480",
-    "tikName": "Центральная № 30"
+    "tikName": "Центральная № 30",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "478400271385",
+    "uikName": "УИК №1801",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "478400271386",
+    "uikName": "УИК №1802",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "478400271387",
+    "uikName": "УИК №1803",
     "tikTvd": "378300170722",
-    "tikName": "Василеостровская № 2"
+    "tikName": "Василеостровская № 2",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1804,
     "uikTvd": "478400571041",
+    "uikName": "УИК №1804",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1805,
     "uikTvd": "478400571042",
+    "uikName": "УИК №1805",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1806,
     "uikTvd": "478400571043",
+    "uikName": "УИК №1806",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1807,
     "uikTvd": "478400571044",
+    "uikName": "УИК №1807",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "478400571045",
+    "uikName": "УИК №1808",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "478400571046",
+    "uikName": "УИК №1809",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "478400571047",
+    "uikName": "УИК №1810",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "478400571048",
+    "uikName": "УИК №1811",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "478400571049",
+    "uikName": "УИК №1812",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1813,
     "uikTvd": "478400571050",
+    "uikName": "УИК №1813",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "478400571051",
+    "uikName": "УИК №1814",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "478400571052",
+    "uikName": "УИК №1815",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1816,
     "uikTvd": "478400571053",
+    "uikName": "УИК №1816",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "478400571054",
+    "uikName": "УИК №1817",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1818,
     "uikTvd": "478400571055",
+    "uikName": "УИК №1818",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "478400571056",
+    "uikName": "УИК №1819",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "478400571057",
+    "uikName": "УИК №1820",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1821,
     "uikTvd": "478400571058",
+    "uikName": "УИК №1821",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "478400571059",
+    "uikName": "УИК №1822",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "478400571060",
+    "uikName": "УИК №1823",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "478400571061",
+    "uikName": "УИК №1824",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1825,
     "uikTvd": "478400571062",
+    "uikName": "УИК №1825",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1826,
     "uikTvd": "478400571063",
+    "uikName": "УИК №1826",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1827,
     "uikTvd": "478400571064",
+    "uikName": "УИК №1827",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1828,
     "uikTvd": "478400571065",
+    "uikName": "УИК №1828",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1829,
     "uikTvd": "478400571066",
+    "uikName": "УИК №1829",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1830,
     "uikTvd": "478400571067",
+    "uikName": "УИК №1830",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1831,
     "uikTvd": "478400571068",
+    "uikName": "УИК №1831",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1832,
     "uikTvd": "478400571069",
+    "uikName": "УИК №1832",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1833,
     "uikTvd": "478400571070",
+    "uikName": "УИК №1833",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1834,
     "uikTvd": "478400571071",
+    "uikName": "УИК №1834",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1835,
     "uikTvd": "478400571072",
+    "uikName": "УИК №1835",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1836,
     "uikTvd": "478400571073",
+    "uikName": "УИК №1836",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1837,
     "uikTvd": "478400571074",
+    "uikName": "УИК №1837",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1838,
     "uikTvd": "478400571075",
+    "uikName": "УИК №1838",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1839,
     "uikTvd": "478400571076",
+    "uikName": "УИК №1839",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1840,
     "uikTvd": "478400571077",
+    "uikName": "УИК №1840",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1841,
     "uikTvd": "478400571078",
+    "uikName": "УИК №1841",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1842,
     "uikTvd": "478400571079",
+    "uikName": "УИК №1842",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1843,
     "uikTvd": "478400571080",
+    "uikName": "УИК №1843",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1844,
     "uikTvd": "478400571081",
+    "uikName": "УИК №1844",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1845,
     "uikTvd": "478400571082",
+    "uikName": "УИК №1845",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1846,
     "uikTvd": "478400571083",
+    "uikName": "УИК №1846",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1847,
     "uikTvd": "478400571084",
+    "uikName": "УИК №1847",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1848,
     "uikTvd": "478400571085",
+    "uikName": "УИК №1848",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1849,
     "uikTvd": "478400571086",
+    "uikName": "УИК №1849",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1850,
     "uikTvd": "478400571087",
+    "uikName": "УИК №1850",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1851,
     "uikTvd": "478400571088",
+    "uikName": "УИК №1851",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1852,
     "uikTvd": "478400571089",
+    "uikName": "УИК №1852",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1853,
     "uikTvd": "478400571090",
+    "uikName": "УИК №1853",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1854,
     "uikTvd": "478400571091",
+    "uikName": "УИК №1854",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1855,
     "uikTvd": "478400571092",
+    "uikName": "УИК №1855",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1856,
     "uikTvd": "478400571093",
+    "uikName": "УИК №1856",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1857,
     "uikTvd": "478400571094",
+    "uikName": "УИК №1857",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1858,
     "uikTvd": "478400571095",
+    "uikName": "УИК №1858",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1859,
     "uikTvd": "478400571096",
+    "uikName": "УИК №1859",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1860,
     "uikTvd": "478400571097",
+    "uikName": "УИК №1860",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1861,
     "uikTvd": "478400571098",
+    "uikName": "УИК №1861",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1862,
     "uikTvd": "478400571099",
+    "uikName": "УИК №1862",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1864,
     "uikTvd": "478400571100",
+    "uikName": "УИК №1864",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1865,
     "uikTvd": "478400571101",
+    "uikName": "УИК №1865",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1866,
     "uikTvd": "478400571102",
+    "uikName": "УИК №1866",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1867,
     "uikTvd": "478400571103",
+    "uikName": "УИК №1867",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1868,
     "uikTvd": "478400571104",
+    "uikName": "УИК №1868",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1869,
     "uikTvd": "478400571105",
+    "uikName": "УИК №1869",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1870,
     "uikTvd": "478400571106",
+    "uikName": "УИК №1870",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1871,
     "uikTvd": "478400571107",
+    "uikName": "УИК №1871",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1872,
     "uikTvd": "478400571108",
+    "uikName": "УИК №1872",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1873,
     "uikTvd": "478400571109",
+    "uikName": "УИК №1873",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1874,
     "uikTvd": "478400571110",
+    "uikName": "УИК №1874",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1875,
     "uikTvd": "478400571111",
+    "uikName": "УИК №1875",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1876,
     "uikTvd": "478400571112",
+    "uikName": "УИК №1876",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1877,
     "uikTvd": "478400571113",
+    "uikName": "УИК №1877",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1878,
     "uikTvd": "478400571114",
+    "uikName": "УИК №1878",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1879,
     "uikTvd": "478400571115",
+    "uikName": "УИК №1879",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1880,
     "uikTvd": "478400571116",
+    "uikName": "УИК №1880",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1881,
     "uikTvd": "478400571117",
+    "uikName": "УИК №1881",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1882,
     "uikTvd": "478400571118",
+    "uikName": "УИК №1882",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1883,
     "uikTvd": "478400571119",
+    "uikName": "УИК №1883",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1884,
     "uikTvd": "478400571120",
+    "uikName": "УИК №1884",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1885,
     "uikTvd": "478400571121",
+    "uikName": "УИК №1885",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1886,
     "uikTvd": "478400571122",
+    "uikName": "УИК №1886",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1887,
     "uikTvd": "478400571123",
+    "uikName": "УИК №1887",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1888,
     "uikTvd": "478400571124",
+    "uikName": "УИК №1888",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1889,
     "uikTvd": "478400571125",
+    "uikName": "УИК №1889",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1890,
     "uikTvd": "478400571126",
+    "uikName": "УИК №1890",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1891,
     "uikTvd": "478400571127",
+    "uikName": "УИК №1891",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1892,
     "uikTvd": "478400571128",
+    "uikName": "УИК №1892",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1893,
     "uikTvd": "478400571129",
+    "uikName": "УИК №1893",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1894,
     "uikTvd": "478400571130",
+    "uikName": "УИК №1894",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1895,
     "uikTvd": "478400571131",
+    "uikName": "УИК №1895",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1896,
     "uikTvd": "478400571132",
+    "uikName": "УИК №1896",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1897,
     "uikTvd": "478400571133",
+    "uikName": "УИК №1897",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1898,
     "uikTvd": "478400571134",
+    "uikName": "УИК №1898",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1900,
     "uikTvd": "478400571136",
+    "uikName": "УИК №1900",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1901,
     "uikTvd": "478400571137",
+    "uikName": "УИК №1901",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1902,
     "uikTvd": "478400571138",
+    "uikName": "УИК №1902",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1903,
     "uikTvd": "478400571139",
+    "uikName": "УИК №1903",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "478400571140",
+    "uikName": "УИК №1904",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "478400571141",
+    "uikName": "УИК №1905",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "478400571142",
+    "uikName": "УИК №1906",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "478400571143",
+    "uikName": "УИК №1907",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "478400571144",
+    "uikName": "УИК №1908",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "478400571145",
+    "uikName": "УИК №1909",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "478400571146",
+    "uikName": "УИК №1910",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "478400571147",
+    "uikName": "УИК №1911",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "478400571148",
+    "uikName": "УИК №1912",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "478400571149",
+    "uikName": "УИК №1913",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "478400571150",
+    "uikName": "УИК №1914",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "478400571151",
+    "uikName": "УИК №1915",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1916,
     "uikTvd": "478400571152",
+    "uikName": "УИК №1916",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 1917,
     "uikTvd": "478400571039",
+    "uikName": "УИК №1917",
     "tikTvd": "378300170723",
-    "tikName": "Кировская №3"
+    "tikName": "Кировская №3",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 5230,
     "uikTvd": "478400471409",
+    "uikName": "УИК №5230",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 5232,
     "uikTvd": "478400471410",
+    "uikName": "УИК №5232",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 5235,
     "uikTvd": "478400471411",
+    "uikName": "УИК №5235",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 5236,
     "uikTvd": "478400471412",
+    "uikName": "УИК №5236",
     "tikTvd": "378300470433",
-    "tikName": "Калининская № 11"
+    "tikName": "Калининская № 11",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 209,
+      "oikTvd": "100100095785",
+      "oikName": "Северный"
+    }
   },
   {
     "uikNumber": 5292,
     "uikTvd": "478400171152",
+    "uikName": "УИК №5292",
     "tikTvd": "378300170721",
-    "tikName": "Адмиралтейская № 1"
+    "tikName": "Адмиралтейская № 1",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 206,
+      "oikTvd": "100100095782",
+      "oikName": "Адмиралтейский"
+    }
   },
   {
     "uikNumber": 5294,
     "uikTvd": "478401770643",
+    "uikName": "УИК №5294",
     "tikTvd": "378300670479",
-    "tikName": "Центральная № 16"
+    "tikName": "Центральная № 16",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 211,
+      "oikTvd": "100100095787",
+      "oikName": "Центральный"
+    }
   },
   {
     "uikNumber": 5295,
     "uikTvd": "478401070665",
+    "uikName": "УИК  5295",
     "tikTvd": "378300770490",
-    "tikName": "Московская № 19"
+    "tikName": "Московская № 19",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 212,
+      "oikTvd": "100100095788",
+      "oikName": "Юго-Западный"
+    }
   },
   {
     "uikNumber": 5345,
     "uikTvd": "478402570644",
+    "uikName": "УИК №5345",
     "tikTvd": "378300270605",
-    "tikName": "Красногвардейская № 25"
+    "tikName": "Красногвардейская № 25",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 207,
+      "oikTvd": "100100095783",
+      "oikName": "Восточный"
+    }
   },
   {
     "uikNumber": 5346,
     "uikTvd": "478402670634",
+    "uikName": "УИК  5346",
     "tikTvd": "378300370416",
-    "tikName": "Красносельская  №26"
+    "tikName": "Красносельская  №26",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 208,
+      "oikTvd": "100100095784",
+      "oikName": "Западный"
+    }
   },
   {
     "uikNumber": 5347,
     "uikTvd": "478402870549",
+    "uikName": "УИК  5347",
     "tikTvd": "378300570633",
-    "tikName": "Приморская №28"
+    "tikName": "Приморская №28",
+    "regionCode": "78",
+    "regionTvd": "100100095781",
+    "regionName": "Город Санкт-Петербург",
+    "district": {
+      "districtNumber": 210,
+      "oikTvd": "100100095786",
+      "oikName": "Северо-Западный"
+    }
   }
 ] satisfies readonly UikTikRelation[];

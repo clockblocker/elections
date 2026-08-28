@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300170415",
     "tikName": "Район Лефортово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 53078,
@@ -103,6 +106,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300170417",
     "tikName": "Нижегородский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки": 24583,
@@ -180,6 +186,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300170419",
     "tikName": "Район Печатники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 51810,
@@ -269,6 +278,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300170421",
     "tikName": "Рязанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 55519,
@@ -359,6 +371,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300170423",
     "tikName": "Район Текстильщики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 60954,
@@ -454,6 +469,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300170425",
     "tikName": "Южнопортовый район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 42403,
@@ -544,6 +562,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300170427",
     "tikName": "Даниловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 60356,
@@ -638,6 +659,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300170429",
     "tikName": "Донской район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 31464,
@@ -722,6 +746,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300170431",
     "tikName": "Район Нагатинский Затон",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 70661,
@@ -821,6 +848,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300170433",
     "tikName": "район Нагатино-Садовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 45585,
@@ -913,6 +943,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300270400",
     "tikName": "Район Сокольники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 42106,
@@ -1005,6 +1038,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300270401",
     "tikName": " Алексеевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 45392,
@@ -1093,6 +1129,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300270402",
     "tikName": "Бабушкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 65581,
@@ -1208,6 +1247,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300270403",
     "tikName": "Бутырский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 40746,
@@ -1290,6 +1332,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300270404",
     "tikName": "Лосиноостровский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 58168,
@@ -1379,6 +1424,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300270405",
     "tikName": "Район Марфино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки": 15785,
@@ -1451,6 +1499,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300270406",
     "tikName": "Район Марьина Роща",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 38838,
@@ -1534,6 +1585,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300270407",
     "tikName": " Останкинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 38014,
@@ -1615,6 +1669,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300270408",
     "tikName": "Район Ростокино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 23806,
@@ -1694,6 +1751,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300270409",
     "tikName": "Район Свиблово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 34863,
@@ -1773,6 +1833,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300270410",
     "tikName": "Ярославский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 56554,
@@ -1860,6 +1923,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300370619",
     "tikName": "Район Крылатское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 60523,
@@ -1969,6 +2035,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300370620",
     "tikName": "Район Дорогомилово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 41993,
@@ -2054,6 +2123,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300370621",
     "tikName": "Район Кунцево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки": 91238,
@@ -2162,6 +2234,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300370622",
     "tikName": "Можайский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 85252,
@@ -2264,6 +2339,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300370623",
     "tikName": "Район Очаково-Матвеевское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 60566,
@@ -2359,6 +2437,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300370624",
     "tikName": "Район Филёвский парк",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 46985,
@@ -2449,6 +2530,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300370625",
     "tikName": "Район Фили-Давыдково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 65576,
@@ -2542,6 +2626,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300470644",
     "tikName": "Район Аэропорт",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 46290,
@@ -2628,6 +2715,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300470646",
     "tikName": "Район Беговой",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 27106,
@@ -2706,6 +2796,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300470648",
     "tikName": "Войковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 45549,
@@ -2791,6 +2884,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300470650",
     "tikName": "Головинский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 66650,
@@ -2882,6 +2978,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300470652",
     "tikName": "Район  Коптево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 61468,
@@ -2974,6 +3073,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300470654",
     "tikName": "Савеловский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 37797,
@@ -3056,6 +3158,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300470660",
     "tikName": "Район Сокол",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 33118,
@@ -3137,6 +3242,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300470664",
     "tikName": "Тимирязевский  район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 58,
     "accounting": {
       "Число избирателей, внесенных в списки": 77911,
@@ -3260,6 +3368,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300470666",
     "tikName": "Хорошевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 39160,
@@ -3341,6 +3452,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300470669",
     "tikName": "Район Южное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 64631,
@@ -3435,6 +3549,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300570360",
     "tikName": "Район Выхино-Жулебино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 56,
     "accounting": {
       "Число избирателей, внесенных в списки": 125076,
@@ -3556,6 +3673,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300570362",
     "tikName": "Район Капотня",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 20844,
@@ -3635,6 +3755,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300570364",
     "tikName": "Район Кузьмики",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 79692,
@@ -3735,6 +3858,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300570366",
     "tikName": "Район Люблино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 91826,
@@ -3850,6 +3976,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300570368",
     "tikName": "Район Марьино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в списки": 150646,
@@ -3975,6 +4104,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300570370",
     "tikName": "Район Некрасовка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в списки": 6005,
@@ -4044,6 +4176,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300670399",
     "tikName": "Алтуфьевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 34322,
@@ -4122,6 +4257,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300670400",
     "tikName": "Район Лианозово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 53232,
@@ -4209,6 +4347,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300670401",
     "tikName": "Район Отрадное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 49,
     "accounting": {
       "Число избирателей, внесенных в списки": 122988,
@@ -4323,6 +4464,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300670402",
     "tikName": "Район Северный",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в списки": 6291,
@@ -4391,6 +4535,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300670404",
     "tikName": "Район Южное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 47429,
@@ -4475,6 +4622,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300670405",
     "tikName": "Район Бибирево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в списки": 117778,
@@ -4605,6 +4755,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300671163",
     "tikName": "Район Северное Медведково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 68485,
@@ -4699,6 +4852,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300770597",
     "tikName": "Район Бирюлево Восточное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 83510,
@@ -4802,6 +4958,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300770598",
     "tikName": "Район Братеево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 61210,
@@ -4893,6 +5052,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300770599",
     "tikName": "Район Зябликово ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 78550,
@@ -4990,6 +5152,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300770600",
     "tikName": "Район Москворечье-Сабурово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 42113,
@@ -5077,6 +5242,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300770601",
     "tikName": "Район Орехово-Борисово Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 77980,
@@ -5176,6 +5344,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300770602",
     "tikName": "Район Орехово-Борисово Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 89544,
@@ -5277,6 +5448,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300770603",
     "tikName": "Район Царицыно",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 76658,
@@ -5377,6 +5551,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300870582",
     "tikName": "Район Вешняки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в списки": 88805,
@@ -5507,6 +5684,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300870583",
     "tikName": "Район Ивановское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 83352,
@@ -5606,6 +5786,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300870584",
     "tikName": "Район Косино-Ухтомский",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки": 11501,
@@ -5677,6 +5860,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300870585",
     "tikName": "Район Новогиреево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 60119,
@@ -5767,6 +5953,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300870586",
     "tikName": "Район Новокосино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 59228,
@@ -5854,6 +6043,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300870587",
     "tikName": "Район Перово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 84352,
@@ -5959,6 +6151,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300870588",
     "tikName": "Район Соколиная гора",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 57893,
@@ -6052,6 +6247,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300970399",
     "tikName": "Район Богородское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 65357,
@@ -6145,6 +6343,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300970400",
     "tikName": "Район Восточное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 45934,
@@ -6233,6 +6434,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300970401",
     "tikName": "Район Гольяново",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки": 109261,
@@ -6340,6 +6544,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300970402",
     "tikName": "Район Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 67306,
@@ -6444,6 +6651,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300970403",
     "tikName": "Район Метрогородок",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 24087,
@@ -6524,6 +6734,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300970404",
     "tikName": "Район Восточный",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в списки": 7830,
@@ -6593,6 +6806,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300970405",
     "tikName": "Район Преображенское",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 54014,
@@ -6683,6 +6899,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377300970406",
     "tikName": "Район Северное Измайлово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 58196,
@@ -6773,6 +6992,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301070620",
     "tikName": "Район Куркино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в списки": 2724,
@@ -6841,6 +7063,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301070621",
     "tikName": "Район Митино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 97730,
@@ -6943,6 +7168,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301070622",
     "tikName": "Район Покровское - Стрешнево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 34028,
@@ -7029,6 +7257,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301070623",
     "tikName": "Район Северное Тушино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 97216,
@@ -7133,6 +7364,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301070624",
     "tikName": "Район Строгино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 91233,
@@ -7239,6 +7473,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301070625",
     "tikName": "Район Щукино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 68302,
@@ -7340,6 +7577,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301070626",
     "tikName": "Район  Хорошево - Мневники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки": 100112,
@@ -7453,6 +7693,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301170499",
     "tikName": "Район Внуково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 19477,
@@ -7533,6 +7776,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301170500",
     "tikName": "Район Ново-Переделкино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 62980,
@@ -7624,6 +7870,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301170501",
     "tikName": "Район Проспект Вернадского",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 38268,
@@ -7709,6 +7958,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301170502",
     "tikName": "Район Раменки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 73941,
@@ -7811,6 +8063,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301170503",
     "tikName": "Район Солнцево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 59633,
@@ -7902,6 +8157,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301170504",
     "tikName": "Район Тропарево-Никулино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 61222,
@@ -7993,6 +8251,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301170505",
     "tikName": "Гагаринский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 51061,
@@ -8080,6 +8341,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301170506",
     "tikName": "Ломоносовский район ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 55024,
@@ -8167,6 +8431,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301170507",
     "tikName": "Обручевский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 38289,
@@ -8255,6 +8522,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301270383",
     "tikName": "Район Арбат",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки": 17407,
@@ -8329,6 +8599,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301270385",
     "tikName": "Басманный район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 71690,
@@ -8432,6 +8705,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301270387",
     "tikName": "Район Замоскворечье",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 33152,
@@ -8517,6 +8793,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301270389",
     "tikName": "Красносельский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 26214,
@@ -8596,6 +8875,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301270391",
     "tikName": "Мещанский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 37639,
@@ -8681,6 +8963,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301270393",
     "tikName": "Пресненский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 88176,
@@ -8786,6 +9071,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301270395",
     "tikName": "Таганский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 46,
     "accounting": {
       "Число избирателей, внесенных в списки": 80668,
@@ -8897,6 +9185,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301270397",
     "tikName": "Тверской район ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 53902,
@@ -8995,6 +9286,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301270399",
     "tikName": "Район Хамовники",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 64210,
@@ -9095,6 +9389,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301270401",
     "tikName": "Район Якиманка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 9,
     "accounting": {
       "Число избирателей, внесенных в списки": 16033,
@@ -9169,6 +9466,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301370529",
     "tikName": "Район Ясенево",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 57,
     "accounting": {
       "Число избирателей, внесенных в списки": 125075,
@@ -9291,6 +9591,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301370530",
     "tikName": "Район Черемушки",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 61745,
@@ -9384,6 +9687,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301370531",
     "tikName": "Район Теплый Стан",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 82987,
@@ -9486,6 +9792,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301370532",
     "tikName": "Район Коньково",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 102499,
@@ -9591,6 +9900,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301370533",
     "tikName": "Район Зюзино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 74330,
@@ -9688,6 +10000,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301370534",
     "tikName": "Академический район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 63435,
@@ -9781,6 +10096,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301470453",
     "tikName": "Нагорный район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 43270,
@@ -9866,6 +10184,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301470454",
     "tikName": "Район Чертаново Северное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 66600,
@@ -9959,6 +10280,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301470455",
     "tikName": "Район Бирюлево Западное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 51298,
@@ -10046,6 +10370,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301470456",
     "tikName": "Район Чертаново Центральное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 69153,
@@ -10141,6 +10468,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301470457",
     "tikName": "Район Чертаново Южное",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 88256,
@@ -10246,6 +10576,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301470458",
     "tikName": "Район Котловка",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 40567,
@@ -10327,6 +10660,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301470459",
     "tikName": "Район Северное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 49713,
@@ -10414,6 +10750,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301470460",
     "tikName": "Район Южное Бутово",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 76035,
@@ -10512,6 +10851,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301570554",
     "tikName": "Зеленоградский административный округ",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 69,
     "accounting": {
       "Число избирателей, внесенных в списки": 162730,
@@ -10646,6 +10988,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301570556",
     "tikName": "Район Ховрино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 55729,
@@ -10733,6 +11078,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301570557",
     "tikName": "Молжаниновский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 1,
     "accounting": {
       "Число избирателей, внесенных в списки": 1872,
@@ -10799,6 +11147,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301570558",
     "tikName": " Левобережный район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 34064,
@@ -10880,6 +11231,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301570559",
     "tikName": "Район Западное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 48351,
@@ -10965,6 +11319,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301570560",
     "tikName": "Дмитровский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 54066,
@@ -11054,6 +11411,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301570561",
     "tikName": "Район Восточное Дегунино",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 59979,
@@ -11142,6 +11502,9 @@ export const duma_2003_tic_431_region_77 = [
     "ballot": "party",
     "tikTvd": "377301570562",
     "tikName": "Бескудниковский район",
+    "regionCode": "77",
+    "regionTvd": "100100095689",
+    "regionName": "Город Москва",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 48942,

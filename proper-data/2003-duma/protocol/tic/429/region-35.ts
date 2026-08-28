@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170479",
     "tikName": "Вологодская городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 137,
     "accounting": {
       "Число избирателей, включенных в списки": 246993,
@@ -195,6 +203,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170480",
     "tikName": "Вологодская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 38419,
@@ -288,6 +304,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170481",
     "tikName": "Бабушкинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 11027,
@@ -359,6 +383,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170482",
     "tikName": "Великоустюгская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки": 50705,
@@ -463,6 +495,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170483",
     "tikName": "Верховажская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 11347,
@@ -538,6 +578,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170484",
     "tikName": "Грязовецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 58,
     "accounting": {
       "Число избирателей, включенных в списки": 31875,
@@ -643,6 +691,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170485",
     "tikName": "Кичменгско-городецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 15833,
@@ -718,6 +774,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170486",
     "tikName": "Междуреченская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 5710,
@@ -777,6 +841,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170487",
     "tikName": "Никольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 19169,
@@ -865,6 +937,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170488",
     "tikName": "Нюксенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 8686,
@@ -935,6 +1015,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170489",
     "tikName": "Сокольская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки": 46018,
@@ -1029,6 +1117,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170490",
     "tikName": "Сямженская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 7517,
@@ -1099,6 +1195,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170491",
     "tikName": "Тарногская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 10910,
@@ -1170,6 +1274,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300170492",
     "tikName": "Тотемская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 74,
+      "oikTvd": "100100095813",
+      "oikName": "Вологодский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 19604,
@@ -1247,6 +1359,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270660",
     "tikName": "Бабаевская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки": 20719,
@@ -1333,6 +1453,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270661",
     "tikName": "Белозерская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 16004,
@@ -1413,6 +1541,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270662",
     "tikName": "Вашкинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 7490,
@@ -1480,6 +1616,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270663",
     "tikName": "Вожегодская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки": 13821,
@@ -1559,6 +1703,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270664",
     "tikName": "Вытегорская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 24400,
@@ -1652,6 +1804,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270665",
     "tikName": "Кадуйская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 14097,
@@ -1723,6 +1883,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270666",
     "tikName": "Кирилловская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки": 14387,
@@ -1802,6 +1970,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270667",
     "tikName": "Усть-Кубинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 7532,
@@ -1869,6 +2045,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270668",
     "tikName": "Устюженская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 15707,
@@ -1953,6 +2137,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270669",
     "tikName": "Харовская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 15946,
@@ -2030,6 +2222,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270670",
     "tikName": "Чагодощенская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 12098,
@@ -2096,6 +2296,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270671",
     "tikName": "Череповецкая",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки": 31181,
@@ -2198,6 +2406,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270672",
     "tikName": "Череповецкая городская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 108,
     "accounting": {
       "Число избирателей, включенных в списки": 251404,
@@ -2354,6 +2570,14 @@ export const duma_2003_tic_429_region_35 = [
     "ballot": "single-member",
     "tikTvd": "335300270673",
     "tikName": "Шекснинская",
+    "regionCode": "35",
+    "regionTvd": "100100095812",
+    "regionName": "Вологодская область",
+    "district": {
+      "districtNumber": 75,
+      "oikTvd": "100100095814",
+      "oikName": "Череповецкий"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 25725,

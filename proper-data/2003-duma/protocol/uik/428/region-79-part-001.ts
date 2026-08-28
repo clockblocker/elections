@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "479400666743",
+    "uikName": "УИК №105",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1437,
       "Число бюллетеней, полученных участковыми комиссиями": 1328,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "479400666744",
+    "uikName": "УИК №106",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 875,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "479400666745",
+    "uikName": "УИК №107",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 695,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "479400666746",
+    "uikName": "УИК №108",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 635,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "479400666747",
+    "uikName": "УИК №109",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "479400666748",
+    "uikName": "УИК №110",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 419,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "479400666749",
+    "uikName": "УИК №111",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 969,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "479400666750",
+    "uikName": "УИК №112",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "479400666751",
+    "uikName": "УИК №113",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "479400666752",
+    "uikName": "УИК №114",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "479400666753",
+    "uikName": "УИК №115",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 857,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "479400666754",
+    "uikName": "УИК №116",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "479400666755",
+    "uikName": "УИК №117",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 237,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "479400666756",
+    "uikName": "УИК №118",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 746,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "479400666757",
+    "uikName": "УИК №119",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "479400666758",
+    "uikName": "УИК №120",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "479400666759",
+    "uikName": "УИК №121",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "479400666760",
+    "uikName": "УИК №122",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "479400666761",
+    "uikName": "УИК №123",
     "tikTvd": "279200066697",
     "tikName": "Биробиджанская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "479400566729",
+    "uikName": "УИК №70",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 542,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "479400566730",
+    "uikName": "УИК №71",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "479400566731",
+    "uikName": "УИК №72",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1473,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "479400566732",
+    "uikName": "УИК №73",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1384,
       "Число бюллетеней, полученных участковыми комиссиями": 1428,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "479400566733",
+    "uikName": "УИК №74",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "479400566734",
+    "uikName": "УИК №75",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 685,
       "Число бюллетеней, полученных участковыми комиссиями": 669,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "479400566735",
+    "uikName": "УИК №76",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 726,
       "Число бюллетеней, полученных участковыми комиссиями": 718,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "479400566736",
+    "uikName": "УИК №77",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 849,
       "Число бюллетеней, полученных участковыми комиссиями": 856,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "479400566737",
+    "uikName": "УИК №78",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1615,
       "Число бюллетеней, полученных участковыми комиссиями": 1596,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "479400566738",
+    "uikName": "УИК №79",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "479400566739",
+    "uikName": "УИК №80",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "479400566740",
+    "uikName": "УИК №81",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 862,
       "Число бюллетеней, полученных участковыми комиссиями": 874,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "479400566741",
+    "uikName": "УИК №82",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 539,
       "Число бюллетеней, полученных участковыми комиссиями": 542,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "479400566742",
+    "uikName": "УИК №83",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1075,
       "Число бюллетеней, полученных участковыми комиссиями": 1023,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "479400566743",
+    "uikName": "УИК №84",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1312,
       "Число бюллетеней, полученных участковыми комиссиями": 1294,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "479400566744",
+    "uikName": "УИК №85",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1496,
       "Число бюллетеней, полученных участковыми комиссиями": 1497,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "479400566745",
+    "uikName": "УИК №86",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1454,
       "Число бюллетеней, полученных участковыми комиссиями": 1399,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "479400566746",
+    "uikName": "УИК №87",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1235,
       "Число бюллетеней, полученных участковыми комиссиями": 1227,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "479400566747",
+    "uikName": "УИК №88",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1389,
       "Число бюллетеней, полученных участковыми комиссиями": 1394,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "479400566748",
+    "uikName": "УИК №89",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "479400566749",
+    "uikName": "УИК №90",
     "tikTvd": "279200066698",
     "tikName": "Смидовичская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 663,
       "Число бюллетеней, полученных участковыми комиссиями": 646,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "479400266772",
+    "uikName": "УИК №124",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "479400266773",
+    "uikName": "УИК №125",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "479400266774",
+    "uikName": "УИК №126",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 372,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "479400266775",
+    "uikName": "УИК №127",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1380,
       "Число бюллетеней, полученных участковыми комиссиями": 1528,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "479400266776",
+    "uikName": "УИК №128",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 151,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "479400266777",
+    "uikName": "УИК №129",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "479400266778",
+    "uikName": "УИК №130",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 124,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "479400266779",
+    "uikName": "УИК №131",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1808,
       "Число бюллетеней, полученных участковыми комиссиями": 1721,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "479400266780",
+    "uikName": "УИК №132",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1040,
       "Число бюллетеней, полученных участковыми комиссиями": 1155,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "479400266781",
+    "uikName": "УИК №133",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2250,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "479400266782",
+    "uikName": "УИК №134",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 702,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "479400266783",
+    "uikName": "УИК №135",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 594,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "479400266784",
+    "uikName": "УИК №136",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 776,
       "Число бюллетеней, полученных участковыми комиссиями": 791,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "479400266785",
+    "uikName": "УИК №137",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "479400266786",
+    "uikName": "УИК №138",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "479400266787",
+    "uikName": "УИК №139",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 481,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "479400266788",
+    "uikName": "УИК №140",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1325,
       "Число бюллетеней, полученных участковыми комиссиями": 1382,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "479400266789",
+    "uikName": "УИК №141",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -2737,8 +3259,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "479400266790",
+    "uikName": "УИК №142",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 267,
@@ -2784,8 +3315,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "479400266791",
+    "uikName": "УИК №143",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 464,
@@ -2831,8 +3371,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "479400266792",
+    "uikName": "УИК №144",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -2878,8 +3427,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "479400266793",
+    "uikName": "УИК №145",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 658,
       "Число бюллетеней, полученных участковыми комиссиями": 674,
@@ -2925,8 +3483,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "479400266794",
+    "uikName": "УИК №146",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 257,
@@ -2972,8 +3539,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "479400266795",
+    "uikName": "УИК №147",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "479400266796",
+    "uikName": "УИК №148",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -3066,8 +3651,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "479400266797",
+    "uikName": "УИК №149",
     "tikTvd": "279200066699",
     "tikName": "Ленинская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1206,
       "Число бюллетеней, полученных участковыми комиссиями": 1103,
@@ -3113,8 +3707,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "479400366713",
+    "uikName": "УИК №41",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 754,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -3160,8 +3763,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "479400366714",
+    "uikName": "УИК №42",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -3207,8 +3819,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "479400366715",
+    "uikName": "УИК №43",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1292,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -3254,8 +3875,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "479400366716",
+    "uikName": "УИК №44",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1512,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -3301,8 +3931,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "479400366717",
+    "uikName": "УИК №45",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1121,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -3348,8 +3987,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "479400366718",
+    "uikName": "УИК №46",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 741,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -3395,8 +4043,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "479400366719",
+    "uikName": "УИК №47",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 966,
       "Число бюллетеней, полученных участковыми комиссиями": 990,
@@ -3442,8 +4099,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "479400366720",
+    "uikName": "УИК №48",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 945,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3489,8 +4155,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "479400366721",
+    "uikName": "УИК №49",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1521,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -3536,8 +4211,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "479400366722",
+    "uikName": "УИК №50",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -3583,8 +4267,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "479400366723",
+    "uikName": "УИК №51",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -3630,8 +4323,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "479400366724",
+    "uikName": "УИК №52",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3677,8 +4379,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "479400366725",
+    "uikName": "УИК №53",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -3724,8 +4435,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "479400366726",
+    "uikName": "УИК №54",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -3771,8 +4491,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "479400366727",
+    "uikName": "УИК №55",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -3818,8 +4547,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "479400366728",
+    "uikName": "УИК №56",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -3865,8 +4603,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "479400366729",
+    "uikName": "УИК №57",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1615,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -3912,8 +4659,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "479400366730",
+    "uikName": "УИК №58",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1400,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -3959,8 +4715,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "479400366731",
+    "uikName": "УИК №59",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -4006,8 +4771,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "479400366732",
+    "uikName": "УИК №60",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1739,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4053,8 +4827,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "479400366733",
+    "uikName": "УИК №61",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2182,
       "Число бюллетеней, полученных участковыми комиссиями": 2278,
@@ -4100,8 +4883,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "479400366734",
+    "uikName": "УИК №62",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 980,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -4147,8 +4939,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "479400366735",
+    "uikName": "УИК №63",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -4194,8 +4995,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "479400366736",
+    "uikName": "УИК №64",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -4241,8 +5051,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "479400366737",
+    "uikName": "УИК №65",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1042,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -4288,8 +5107,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "479400366738",
+    "uikName": "УИК №66",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -4335,8 +5163,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "479400366739",
+    "uikName": "УИК №67",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1167,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4382,8 +5219,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "479400366740",
+    "uikName": "УИК №68",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 972,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -4429,8 +5275,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "479400366741",
+    "uikName": "УИК №69",
     "tikTvd": "279200066700",
     "tikName": "Облученская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4476,8 +5331,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "479400466741",
+    "uikName": "УИК №91",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1847,
       "Число бюллетеней, полученных участковыми комиссиями": 1844,
@@ -4523,8 +5387,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "479400466742",
+    "uikName": "УИК №92",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1993,
       "Число бюллетеней, полученных участковыми комиссиями": 1981,
@@ -4570,8 +5443,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "479400466743",
+    "uikName": "УИК №93",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4617,8 +5499,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "479400466744",
+    "uikName": "УИК №94",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 557,
@@ -4664,8 +5555,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "479400466745",
+    "uikName": "УИК №95",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 661,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -4711,8 +5611,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "479400466746",
+    "uikName": "УИК №96",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 302,
@@ -4758,8 +5667,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "479400466747",
+    "uikName": "УИК №97",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 404,
@@ -4805,8 +5723,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "479400466748",
+    "uikName": "УИК №98",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -4852,8 +5779,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "479400466749",
+    "uikName": "УИК №99",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -4899,8 +5835,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "479400466750",
+    "uikName": "УИК №100",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 156,
@@ -4946,8 +5891,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "479400466751",
+    "uikName": "УИК №101",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 460,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -4993,8 +5947,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "479400466752",
+    "uikName": "УИК №102",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5040,8 +6003,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "479400466753",
+    "uikName": "УИК №103",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1258,
       "Число бюллетеней, полученных участковыми комиссиями": 1265,
@@ -5087,8 +6059,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "479400466754",
+    "uikName": "УИК №104",
     "tikTvd": "279200066701",
     "tikName": "Октябрьская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -5134,8 +6115,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "479400166766",
+    "uikName": "УИК №1",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2515,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5181,8 +6171,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "479400166770",
+    "uikName": "УИК №2",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2489,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -5228,8 +6227,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "479400166772",
+    "uikName": "УИК №3",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2293,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -5275,8 +6283,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "479400166774",
+    "uikName": "УИК №4",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1646,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -5322,8 +6339,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "479400166776",
+    "uikName": "УИК №5",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2341,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -5369,8 +6395,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "479400166778",
+    "uikName": "УИК №6",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2319,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5416,8 +6451,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "479400166780",
+    "uikName": "УИК №7",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2059,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5463,8 +6507,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "479400166782",
+    "uikName": "УИК №8",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2338,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5510,8 +6563,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "479400166784",
+    "uikName": "УИК №9",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1560,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -5557,8 +6619,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "479400166786",
+    "uikName": "УИК №10",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2202,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5604,8 +6675,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "479400166788",
+    "uikName": "УИК №11",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1578,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5651,8 +6731,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "479400166790",
+    "uikName": "УИК №12",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1382,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5698,8 +6787,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "479400166792",
+    "uikName": "УИК №13",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1336,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -5745,8 +6843,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "479400166794",
+    "uikName": "УИК №14",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5792,8 +6899,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "479400166825",
+    "uikName": "УИК №15",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 403,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -5839,8 +6955,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "479400166826",
+    "uikName": "УИК №16",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1395,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5886,8 +7011,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "479400166827",
+    "uikName": "УИК №17",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1720,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -5933,8 +7067,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "479400166828",
+    "uikName": "УИК №18",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 888,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -5980,8 +7123,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "479400166829",
+    "uikName": "УИК №19",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6027,8 +7179,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "479400166830",
+    "uikName": "УИК №20",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1228,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6074,8 +7235,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "479400166831",
+    "uikName": "УИК №21",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 642,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -6121,8 +7291,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "479400166832",
+    "uikName": "УИК №22",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1045,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -6168,8 +7347,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "479400166833",
+    "uikName": "УИК №23",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1540,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6215,8 +7403,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "479400166834",
+    "uikName": "УИК №24",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 585,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6262,8 +7459,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "479400166835",
+    "uikName": "УИК №25",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 579,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6309,8 +7515,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "479400166836",
+    "uikName": "УИК №26",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1733,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -6356,8 +7571,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "479400166837",
+    "uikName": "УИК №27",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 639,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -6403,8 +7627,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "479400166838",
+    "uikName": "УИК №28",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1264,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -6450,8 +7683,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "479400166839",
+    "uikName": "УИК №29",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 477,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6497,8 +7739,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "479400166840",
+    "uikName": "УИК №30",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -6544,8 +7795,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "479400166841",
+    "uikName": "УИК №31",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2180,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -6591,8 +7851,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "479400166842",
+    "uikName": "УИК №32",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1318,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6638,8 +7907,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "479400166843",
+    "uikName": "УИК №33",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -6685,8 +7963,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "479400166844",
+    "uikName": "УИК №34",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1121,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -6732,8 +8019,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "479400166845",
+    "uikName": "УИК №35",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 27,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -6779,8 +8075,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "479400166846",
+    "uikName": "УИК №36",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1313,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -6826,8 +8131,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "479400166847",
+    "uikName": "УИК №37",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1623,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -6873,8 +8187,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "479400166848",
+    "uikName": "УИК №38",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1249,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6920,8 +8243,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "479400166849",
+    "uikName": "УИК №39",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1414,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -6967,8 +8299,17 @@ export const duma_2003_uik_428_region_79_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "479400166850",
+    "uikName": "УИК №40",
     "tikTvd": "279200066702",
     "tikName": "Биробиджанская городская",
+    "regionCode": "79",
+    "regionTvd": "100100095795",
+    "regionName": "Еврейская автономная область",
+    "district": {
+      "districtNumber": 214,
+      "oikTvd": "100100095796",
+      "oikName": "Биробиджанский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 360,

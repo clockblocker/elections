@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "445400267102",
+    "uikName": "УИК №227",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "445400267103",
+    "uikName": "УИК №228",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "445400267104",
+    "uikName": "УИК №229",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "445400267105",
+    "uikName": "УИК №230",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "445400267106",
+    "uikName": "УИК №231",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 76,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "445400267107",
+    "uikName": "УИК №232",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 124,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "445400267108",
+    "uikName": "УИК №233",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "445400267109",
+    "uikName": "УИК №234",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "445400267110",
+    "uikName": "УИК №235",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 86,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "445400267111",
+    "uikName": "УИК №236",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 162,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "445400267112",
+    "uikName": "УИК №237",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "445400267113",
+    "uikName": "УИК №238",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "445400267114",
+    "uikName": "УИК №239",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "445400267115",
+    "uikName": "УИК №240",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "445400267116",
+    "uikName": "УИК №241",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "445400267117",
+    "uikName": "УИК №242",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 187,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "445400267118",
+    "uikName": "УИК №243",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "445400267119",
+    "uikName": "УИК №244",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "445400267120",
+    "uikName": "УИК №245",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "445400267121",
+    "uikName": "УИК №246",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 99,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "445400267122",
+    "uikName": "УИК №247",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "445400267123",
+    "uikName": "УИК №248",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "445400267124",
+    "uikName": "УИК №249",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 693,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "445400267125",
+    "uikName": "УИК №250",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "445400267126",
+    "uikName": "УИК №251",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 252,
     "uikTvd": "445400267127",
+    "uikName": "УИК №252",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 253,
     "uikTvd": "445400267128",
+    "uikName": "УИК №253",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 254,
     "uikTvd": "445400267129",
+    "uikName": "УИК №254",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 255,
     "uikTvd": "445400267130",
+    "uikName": "УИК №255",
     "tikTvd": "245200068445",
     "tikName": "Белозерская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 256,
     "uikTvd": "445400367634",
+    "uikName": "УИК №256",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1055,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 257,
     "uikTvd": "445400367635",
+    "uikName": "УИК №257",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 937,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 258,
     "uikTvd": "445400367636",
+    "uikName": "УИК №258",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 934,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 259,
     "uikTvd": "445400367637",
+    "uikName": "УИК №259",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 566,
       "Число бюллетеней, полученных участковыми комиссиями": 537,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 260,
     "uikTvd": "445400367638",
+    "uikName": "УИК №260",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 608,
       "Число бюллетеней, полученных участковыми комиссиями": 604,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 261,
     "uikTvd": "445400367639",
+    "uikName": "УИК №261",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 869,
       "Число бюллетеней, полученных участковыми комиссиями": 825,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 262,
     "uikTvd": "445400367640",
+    "uikName": "УИК №262",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 821,
       "Число бюллетеней, полученных участковыми комиссиями": 775,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 263,
     "uikTvd": "445400367641",
+    "uikName": "УИК №263",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 813,
       "Число бюллетеней, полученных участковыми комиссиями": 825,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 264,
     "uikTvd": "445400367642",
+    "uikName": "УИК №264",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 807,
       "Число бюллетеней, полученных участковыми комиссиями": 835,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 265,
     "uikTvd": "445400367643",
+    "uikName": "УИК №265",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 266,
     "uikTvd": "445400367644",
+    "uikName": "УИК №266",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 379,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 267,
     "uikTvd": "445400367645",
+    "uikName": "УИК №267",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 358,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 268,
     "uikTvd": "445400367646",
+    "uikName": "УИК №268",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 269,
     "uikTvd": "445400367647",
+    "uikName": "УИК №269",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 270,
     "uikTvd": "445400367648",
+    "uikName": "УИК №270",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 395,
       "Число бюллетеней, полученных участковыми комиссиями": 392,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 271,
     "uikTvd": "445400367649",
+    "uikName": "УИК №271",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 272,
     "uikTvd": "445400367650",
+    "uikName": "УИК №272",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 466,
       "Число бюллетеней, полученных участковыми комиссиями": 464,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 273,
     "uikTvd": "445400367651",
+    "uikName": "УИК №273",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 340,
       "Число бюллетеней, полученных участковыми комиссиями": 349,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 274,
     "uikTvd": "445400367652",
+    "uikName": "УИК №274",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 413,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 275,
     "uikTvd": "445400367653",
+    "uikName": "УИК №275",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 838,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 276,
     "uikTvd": "445400367654",
+    "uikName": "УИК №276",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 277,
     "uikTvd": "445400367655",
+    "uikName": "УИК №277",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 407,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 278,
     "uikTvd": "445400367656",
+    "uikName": "УИК №278",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 534,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 279,
     "uikTvd": "445400367657",
+    "uikName": "УИК №279",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 108,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 280,
     "uikTvd": "445400367658",
+    "uikName": "УИК №280",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 430,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 281,
     "uikTvd": "445400367659",
+    "uikName": "УИК №281",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 377,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 282,
     "uikTvd": "445400367660",
+    "uikName": "УИК №282",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 283,
     "uikTvd": "445400367661",
+    "uikName": "УИК №283",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 284,
     "uikTvd": "445400367662",
+    "uikName": "УИК №284",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 318,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 285,
     "uikTvd": "445400367663",
+    "uikName": "УИК №285",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 277,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 286,
     "uikTvd": "445400367664",
+    "uikName": "УИК №286",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 544,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 287,
     "uikTvd": "445400367665",
+    "uikName": "УИК №287",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 288,
     "uikTvd": "445400367666",
+    "uikName": "УИК №288",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 426,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 289,
     "uikTvd": "445400367667",
+    "uikName": "УИК №289",
     "tikTvd": "245200069120",
     "tikName": "Варгашинская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1117,
     "uikTvd": "445402567025",
+    "uikName": "УИК №1117",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 460,
       "Число бюллетеней, полученных участковыми комиссиями": 481,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1118,
     "uikTvd": "445402567026",
+    "uikName": "УИК №1118",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1119,
     "uikTvd": "445402567027",
+    "uikName": "УИК №1119",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 519,
       "Число бюллетеней, полученных участковыми комиссиями": 541,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1120,
     "uikTvd": "445402567028",
+    "uikName": "УИК №1120",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1121,
     "uikTvd": "445402567029",
+    "uikName": "УИК №1121",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 995,
       "Число бюллетеней, полученных участковыми комиссиями": 997,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1122,
     "uikTvd": "445402567030",
+    "uikName": "УИК №1122",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1123,
     "uikTvd": "445402567031",
+    "uikName": "УИК №1123",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 697,
       "Число бюллетеней, полученных участковыми комиссиями": 696,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1124,
     "uikTvd": "445402567032",
+    "uikName": "УИК №1124",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1125,
     "uikTvd": "445402567033",
+    "uikName": "УИК №1125",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 744,
       "Число бюллетеней, полученных участковыми комиссиями": 823,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1126,
     "uikTvd": "445402567034",
+    "uikName": "УИК №1126",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 261,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1127,
     "uikTvd": "445402567035",
+    "uikName": "УИК №1127",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 898,
       "Число бюллетеней, полученных участковыми комиссиями": 922,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1128,
     "uikTvd": "445402567036",
+    "uikName": "УИК №1128",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 64,
       "Число бюллетеней, полученных участковыми комиссиями": 67,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1129,
     "uikTvd": "445402567037",
+    "uikName": "УИК №1129",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1130,
     "uikTvd": "445402567038",
+    "uikName": "УИК №1130",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 371,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1131,
     "uikTvd": "445402567039",
+    "uikName": "УИК №1131",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 663,
       "Число бюллетеней, полученных участковыми комиссиями": 729,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1132,
     "uikTvd": "445402567040",
+    "uikName": "УИК №1132",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1133,
     "uikTvd": "445402567041",
+    "uikName": "УИК №1133",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1134,
     "uikTvd": "445402567042",
+    "uikName": "УИК №1134",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 635,
       "Число бюллетеней, полученных участковыми комиссиями": 569,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1135,
     "uikTvd": "445402567043",
+    "uikName": "УИК №1135",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 363,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1136,
     "uikTvd": "445402567044",
+    "uikName": "УИК №1136",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 312,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1137,
     "uikTvd": "445402567045",
+    "uikName": "УИК №1137",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 399,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1138,
     "uikTvd": "445402567046",
+    "uikName": "УИК №1138",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 644,
       "Число бюллетеней, полученных участковыми комиссиями": 661,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1139,
     "uikTvd": "445402567047",
+    "uikName": "УИК №1139",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 338,
       "Число бюллетеней, полученных участковыми комиссиями": 348,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1140,
     "uikTvd": "445402567048",
+    "uikName": "УИК №1140",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1141,
     "uikTvd": "445402567049",
+    "uikName": "УИК №1141",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1142,
     "uikTvd": "445402567050",
+    "uikName": "УИК №1142",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 519,
       "Число бюллетеней, полученных участковыми комиссиями": 548,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1143,
     "uikTvd": "445402567051",
+    "uikName": "УИК №1143",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1144,
     "uikTvd": "445402567052",
+    "uikName": "УИК №1144",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1145,
     "uikTvd": "445402567053",
+    "uikName": "УИК №1145",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 959,
       "Число бюллетеней, полученных участковыми комиссиями": 945,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1146,
     "uikTvd": "445402567054",
+    "uikName": "УИК №1146",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 995,
       "Число бюллетеней, полученных участковыми комиссиями": 941,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1147,
     "uikTvd": "445402567055",
+    "uikName": "УИК №1147",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 875,
       "Число бюллетеней, полученных участковыми комиссиями": 877,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1148,
     "uikTvd": "445402567056",
+    "uikName": "УИК №1148",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 761,
       "Число бюллетеней, полученных участковыми комиссиями": 805,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1149,
     "uikTvd": "445402567057",
+    "uikName": "УИК №1149",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1387,
       "Число бюллетеней, полученных участковыми комиссиями": 1387,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1150,
     "uikTvd": "445402567058",
+    "uikName": "УИК №1150",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 740,
       "Число бюллетеней, полученных участковыми комиссиями": 722,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1151,
     "uikTvd": "445402567059",
+    "uikName": "УИК №1151",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 641,
       "Число бюллетеней, полученных участковыми комиссиями": 635,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1152,
     "uikTvd": "445402567060",
+    "uikName": "УИК №1152",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1109,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 1153,
     "uikTvd": "445402567061",
+    "uikName": "УИК №1153",
     "tikTvd": "245200069277",
     "tikName": "Юргамышская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 136,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "445400867238",
+    "uikName": "УИК №450",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1107,
       "Число бюллетеней, полученных участковыми комиссиями": 1148,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "445400867087",
+    "uikName": "УИК №451",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1014,
       "Число бюллетеней, полученных участковыми комиссиями": 1044,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "445400867088",
+    "uikName": "УИК №452",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1302,
       "Число бюллетеней, полученных участковыми комиссиями": 1337,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "445400867089",
+    "uikName": "УИК №453",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1235,
       "Число бюллетеней, полученных участковыми комиссиями": 1274,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "445400867090",
+    "uikName": "УИК №454",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1130,
       "Число бюллетеней, полученных участковыми комиссиями": 1182,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "445400867091",
+    "uikName": "УИК №455",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 373,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "445400867092",
+    "uikName": "УИК №456",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1568,
       "Число бюллетеней, полученных участковыми комиссиями": 1559,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "445400867093",
+    "uikName": "УИК №457",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1347,
       "Число бюллетеней, полученных участковыми комиссиями": 1353,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "445400867094",
+    "uikName": "УИК №458",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1022,
       "Число бюллетеней, полученных участковыми комиссиями": 1045,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "445400867095",
+    "uikName": "УИК №459",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 543,
       "Число бюллетеней, полученных участковыми комиссиями": 542,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "445400867096",
+    "uikName": "УИК №460",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 389,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "445400867097",
+    "uikName": "УИК №461",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 749,
       "Число бюллетеней, полученных участковыми комиссиями": 756,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "445400867098",
+    "uikName": "УИК №462",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 397,
       "Число бюллетеней, полученных участковыми комиссиями": 398,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "445400867099",
+    "uikName": "УИК №463",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1081,
       "Число бюллетеней, полученных участковыми комиссиями": 1112,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "445400867100",
+    "uikName": "УИК №464",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "445400867101",
+    "uikName": "УИК №465",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 600,
       "Число бюллетеней, полученных участковыми комиссиями": 609,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "445400867102",
+    "uikName": "УИК №466",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 504,
       "Число бюллетеней, полученных участковыми комиссиями": 524,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "445400867103",
+    "uikName": "УИК №467",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 356,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "445400867104",
+    "uikName": "УИК №468",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 710,
       "Число бюллетеней, полученных участковыми комиссиями": 718,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "445400867105",
+    "uikName": "УИК №469",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 187,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "445400867106",
+    "uikName": "УИК №470",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 653,
       "Число бюллетеней, полученных участковыми комиссиями": 668,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "445400867107",
+    "uikName": "УИК №471",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 890,
       "Число бюллетеней, полученных участковыми комиссиями": 886,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "445400867108",
+    "uikName": "УИК №472",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "445400867109",
+    "uikName": "УИК №473",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "445400867110",
+    "uikName": "УИК №474",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "445400867111",
+    "uikName": "УИК №475",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 795,
       "Число бюллетеней, полученных участковыми комиссиями": 789,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "445400867112",
+    "uikName": "УИК №476",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 237,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "445400867113",
+    "uikName": "УИК №477",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1342,
       "Число бюллетеней, полученных участковыми комиссиями": 1391,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "445400867114",
+    "uikName": "УИК №478",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 261,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "445400867115",
+    "uikName": "УИК №479",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1843,
       "Число бюллетеней, полученных участковыми комиссиями": 1891,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "445400867116",
+    "uikName": "УИК №480",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1383,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "445400867117",
+    "uikName": "УИК №481",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 96,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "445400867118",
+    "uikName": "УИК №482",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 292,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "445400867119",
+    "uikName": "УИК №483",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1860,
       "Число бюллетеней, полученных участковыми комиссиями": 1889,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "445400867120",
+    "uikName": "УИК №484",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1339,
       "Число бюллетеней, полученных участковыми комиссиями": 1344,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "445400867121",
+    "uikName": "УИК №485",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 415,
       "Число бюллетеней, полученных участковыми комиссиями": 417,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "445400867122",
+    "uikName": "УИК №486",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 584,
       "Число бюллетеней, полученных участковыми комиссиями": 582,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "445400867123",
+    "uikName": "УИК №487",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 176,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "445400867124",
+    "uikName": "УИК №488",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1931,
       "Число бюллетеней, полученных участковыми комиссиями": 1988,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "445400867125",
+    "uikName": "УИК №489",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 643,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "445400867126",
+    "uikName": "УИК №490",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1561,
       "Число бюллетеней, полученных участковыми комиссиями": 1606,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "445400867127",
+    "uikName": "УИК №491",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 835,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "445400867128",
+    "uikName": "УИК №492",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1136,
       "Число бюллетеней, полученных участковыми комиссиями": 1168,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "445400867129",
+    "uikName": "УИК №493",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 321,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "445400867130",
+    "uikName": "УИК №494",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 465,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "445400867131",
+    "uikName": "УИК №495",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 479,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "445400867132",
+    "uikName": "УИК №496",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 484,
       "Число бюллетеней, полученных участковыми комиссиями": 492,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "445400867133",
+    "uikName": "УИК №497",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1001,
       "Число бюллетеней, полученных участковыми комиссиями": 1017,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "445400867134",
+    "uikName": "УИК №498",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 370,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "445400867135",
+    "uikName": "УИК №499",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1649,
       "Число бюллетеней, полученных участковыми комиссиями": 1679,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "445400867136",
+    "uikName": "УИК №500",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 361,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "445400867137",
+    "uikName": "УИК №501",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_45_part_005 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "445400867138",
+    "uikName": "УИК №502",
     "tikTvd": "245200069466",
     "tikName": "Кетовская",
+    "regionCode": "45",
+    "regionTvd": "100100095815",
+    "regionName": "Курганская область",
+    "district": {
+      "districtNumber": 96,
+      "oikTvd": "100100095816",
+      "oikName": "Курганский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 144,

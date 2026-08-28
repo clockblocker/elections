@@ -21,6 +21,7 @@ from common import (
     extract_tree_nodes,
 )
 from decode_script_result import decode_script_tables
+from duma2021 import extract_oik_breadcrumbs, parse_candidate_registry
 from generate_typescript import generate
 from pipeline import classify_result, hierarchy_summary, make_plan, reconcile
 from transport import (
@@ -351,6 +352,49 @@ class DecodeAndHierarchyTests(unittest.TestCase):
             all("old.izbirkom.ru" in row["url"] for row in plan["requests"])
         )
 
+    def test_duma_hierarchy_preserves_region_and_opt_in_oik_ancestors(self):
+        nodes = hierarchy_nodes()
+        nodes.insert(
+            2,
+            {
+                **nodes[1],
+                "node_id": "oik",
+                "parent_id": "region",
+                "text": "District commission",
+                "tvd": "oik",
+            },
+        )
+        next(item for item in nodes if item["node_id"] == "tik")["parent_id"] = "oik"
+        relation = hierarchy_summary(nodes, include_oik=True)["uik_to_tik"][0]
+        self.assertEqual(relation["region_tvd"], "region")
+        self.assertEqual(relation["region_name"], "Region")
+        self.assertEqual(relation["oik_tvd"], "oik")
+        self.assertNotIn(
+            "oik_tvd", hierarchy_summary(nodes)["uik_to_tik"][0]
+        )
+
+    def test_exact_oik_breadcrumb_uses_document_base(self):
+        payload = b'<base href="http://old.izbirkom.ru/"><a href="region/x?action=show&amp;tvd=1001">' + "ОИК №1".encode() + b"</a>"
+        self.assertEqual(
+            extract_oik_breadcrumbs(payload, "http://wrong.test/path/page"),
+            [
+                {
+                    "district_number": 1,
+                    "oik_tvd": "1001",
+                    "url": "http://old.izbirkom.ru/region/x?action=show&tvd=1001",
+                }
+            ],
+        )
+
+    def test_candidate_registry_parses_official_type_220_shape(self):
+        payload = (Path(__file__).parent / "fixtures/duma_2021_candidate_220.html").read_bytes()
+        parsed = parse_candidate_registry(payload)
+        self.assertTrue(parsed["valid_candidate_registry"])
+        self.assertEqual(parsed["district_numbers"], [20])
+        self.assertEqual(parsed["candidates"][0]["candidate_vibid"], "4934014202239")
+        self.assertEqual(parsed["candidates"][0]["nominating_entity"], 'Всероссийская политическая партия "ЕДИНАЯ РОССИЯ"')
+        self.assertTrue(parsed["candidates"][0]["is_elected"])
+
 
 class ValidationAndGenerationTests(unittest.TestCase):
     def test_report_type_classification_uses_contents(self):
@@ -405,6 +449,13 @@ class ValidationAndGenerationTests(unittest.TestCase):
             "tik_tvd": "tik",
             "tik_name": "TIK",
             "region": "1",
+            "region_code": "1",
+            "region_tvd": "region",
+            "region_name": "Region",
+            "district_number": 20,
+            "oik_tvd": "oik",
+            "oik_name": "District commission",
+            "uik_name": "УИК №7",
             "party_accounting": {"registered": 10},
             "party_votes": {"A": 4},
             "candidate_accounting": {"registered": 10},
@@ -420,6 +471,27 @@ class ValidationAndGenerationTests(unittest.TestCase):
                     "region": "1",
                     "party": source,
                     "candidate": source,
+                }
+            ],
+            "districts": [
+                {
+                    "district_number": 20,
+                    "oik_tvd": "oik",
+                    "oik_name": "District commission",
+                    "region_code": "1",
+                    "region_tvd": "region",
+                    "region_name": "Region",
+                    "winner_candidate_vibid": "candidate",
+                    "candidates": [
+                        {
+                            "candidate_vibid": "candidate",
+                            "full_name": "Candidate Name",
+                            "nominating_entity": "Nominator",
+                            "registration_status": "registered",
+                            "is_elected": True,
+                        }
+                    ],
+                    "source": source,
                 }
             ],
         }
@@ -439,6 +511,9 @@ class ValidationAndGenerationTests(unittest.TestCase):
             self.assertNotIn(b"password", joined)
             self.assertIn(b"extracted-tic-column", joined)
             self.assertIn(b'"derivation": "direct"', joined)
+            self.assertIn(b'"districtnumber": 20', joined)
+            self.assertIn("districts/region-1.ts", after)
+            self.assertIn(b"UikSingleMemberProtocol", after["protocol/types.ts"])
 
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
@@ -454,6 +529,8 @@ class ValidationAndGenerationTests(unittest.TestCase):
             self.assertIn("protocol/uik/242/region-1-part-001.ts", after)
             self.assertIn("protocol/tic/464/region-1.ts", after)
             self.assertIn("uik-to-tik/region-1.ts", after)
+            self.assertIn("districts/region-1.ts", after)
+            self.assertIn(b'"regionTvd": "region"', after["uik-to-tik/region-1.ts"])
 
 
 if __name__ == "__main__":

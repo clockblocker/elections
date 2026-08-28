@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "452401870447",
+    "uikName": "УИК №681",
     "tikTvd": "352300270487",
     "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "452401870448",
+    "uikName": "УИК №682",
     "tikTvd": "352300270487",
     "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 648,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2490,
     "uikTvd": "452401870449",
+    "uikName": "УИК №2490",
     "tikTvd": "352300270487",
     "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2491,
     "uikTvd": "452401870450",
+    "uikName": "УИК №2491",
     "tikTvd": "352300270487",
     "tikName": "Выксунская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "452401970425",
+    "uikName": "УИК №683",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 898,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "452401970426",
+    "uikName": "УИК №684",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1479,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "452401970427",
+    "uikName": "УИК №685",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 982,
       "Число бюллетеней, полученных участковыми комиссиями": 793,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "452401970428",
+    "uikName": "УИК №686",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "452401970429",
+    "uikName": "УИК №687",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "452401970430",
+    "uikName": "УИК №688",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "452401970431",
+    "uikName": "УИК №689",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "452401970432",
+    "uikName": "УИК №690",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "452401970433",
+    "uikName": "УИК №691",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 244,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "452401970434",
+    "uikName": "УИК №692",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 284,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "452401970435",
+    "uikName": "УИК №693",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "452401970436",
+    "uikName": "УИК №694",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "452401970437",
+    "uikName": "УИК №695",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 101,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "452401970438",
+    "uikName": "УИК №696",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 81,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "452401970439",
+    "uikName": "УИК №697",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 530,
       "Число бюллетеней, полученных участковыми комиссиями": 496,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "452401970440",
+    "uikName": "УИК №698",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "452401970441",
+    "uikName": "УИК №699",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 261,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "452401970442",
+    "uikName": "УИК №700",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 431,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "452401970443",
+    "uikName": "УИК №701",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 96,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "452401970444",
+    "uikName": "УИК №702",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "452401970445",
+    "uikName": "УИК №703",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "452401970446",
+    "uikName": "УИК №704",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "452401970447",
+    "uikName": "УИК №705",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "452401970448",
+    "uikName": "УИК №706",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 129,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "452401970449",
+    "uikName": "УИК №707",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 267,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "452401970450",
+    "uikName": "УИК №708",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 56,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "452401970451",
+    "uikName": "УИК №709",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "452401970452",
+    "uikName": "УИК №710",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "452401970453",
+    "uikName": "УИК №711",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "452401970454",
+    "uikName": "УИК №712",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "452401970455",
+    "uikName": "УИК №713",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 297,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "452401970456",
+    "uikName": "УИК №714",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "452401970457",
+    "uikName": "УИК №715",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "452401970458",
+    "uikName": "УИК №716",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 273,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "452401970459",
+    "uikName": "УИК №717",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "452401970460",
+    "uikName": "УИК №718",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "452401970461",
+    "uikName": "УИК №719",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 574,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "452401970462",
+    "uikName": "УИК №720",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "452401970463",
+    "uikName": "УИК №721",
     "tikTvd": "352300270488",
     "tikName": "Гагинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 942,
     "uikTvd": "452402370399",
+    "uikName": "УИК №942",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 943,
     "uikTvd": "452402370400",
+    "uikName": "УИК №943",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 944,
     "uikTvd": "452402370401",
+    "uikName": "УИК №944",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 554,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 945,
     "uikTvd": "452402370402",
+    "uikName": "УИК №945",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 946,
     "uikTvd": "452402370403",
+    "uikName": "УИК №946",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1259,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 947,
     "uikTvd": "452402370404",
+    "uikName": "УИК №947",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1361,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 948,
     "uikTvd": "452402370405",
+    "uikName": "УИК №948",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 625,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 949,
     "uikTvd": "452402370406",
+    "uikName": "УИК №949",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 481,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 950,
     "uikTvd": "452402370407",
+    "uikName": "УИК №950",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 248,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 951,
     "uikTvd": "452402370408",
+    "uikName": "УИК №951",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 525,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 952,
     "uikTvd": "452402370409",
+    "uikName": "УИК №952",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 519,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 953,
     "uikTvd": "452402370410",
+    "uikName": "УИК №953",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 954,
     "uikTvd": "452402370411",
+    "uikName": "УИК №954",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 955,
     "uikTvd": "452402370412",
+    "uikName": "УИК №955",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 956,
     "uikTvd": "452402370413",
+    "uikName": "УИК №956",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 957,
     "uikTvd": "452402370414",
+    "uikName": "УИК №957",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 958,
     "uikTvd": "452402370415",
+    "uikName": "УИК №958",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2277,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 959,
     "uikTvd": "452402370416",
+    "uikName": "УИК №959",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 960,
     "uikTvd": "452402370417",
+    "uikName": "УИК №960",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 961,
     "uikTvd": "452402370418",
+    "uikName": "УИК №961",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 457,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 962,
     "uikTvd": "452402370419",
+    "uikName": "УИК №962",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 43,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 963,
     "uikTvd": "452402370420",
+    "uikName": "УИК №963",
     "tikTvd": "352300270489",
     "tikName": "Дивеевская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1136,
     "uikTvd": "452403070453",
+    "uikName": "УИК №1136",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 998,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1137,
     "uikTvd": "452403070454",
+    "uikName": "УИК №1137",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1138,
       "Число бюллетеней, полученных участковыми комиссиями": 1040,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1138,
     "uikTvd": "452403070455",
+    "uikName": "УИК №1138",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1360,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1139,
     "uikTvd": "452403070456",
+    "uikName": "УИК №1139",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1021,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1140,
     "uikTvd": "452403070457",
+    "uikName": "УИК №1140",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1256,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1141,
     "uikTvd": "452403070458",
+    "uikName": "УИК №1141",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1312,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1142,
     "uikTvd": "452403070459",
+    "uikName": "УИК №1142",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1137,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1143,
     "uikTvd": "452403070460",
+    "uikName": "УИК №1143",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1152,
       "Число бюллетеней, полученных участковыми комиссиями": 1060,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1144,
     "uikTvd": "452403070461",
+    "uikName": "УИК №1144",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1222,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1145,
     "uikTvd": "452403070462",
+    "uikName": "УИК №1145",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2280,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1146,
     "uikTvd": "452403070463",
+    "uikName": "УИК №1146",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1389,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1147,
     "uikTvd": "452403070464",
+    "uikName": "УИК №1147",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1301,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1148,
     "uikTvd": "452403070465",
+    "uikName": "УИК №1148",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1609,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1149,
     "uikTvd": "452403070466",
+    "uikName": "УИК №1149",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1351,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1150,
     "uikTvd": "452403070467",
+    "uikName": "УИК №1150",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1320,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1151,
     "uikTvd": "452403070468",
+    "uikName": "УИК №1151",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1406,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1152,
     "uikTvd": "452403070469",
+    "uikName": "УИК №1152",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1468,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1153,
     "uikTvd": "452403070470",
+    "uikName": "УИК №1153",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1220,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1154,
     "uikTvd": "452403070471",
+    "uikName": "УИК №1154",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1289,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1155,
     "uikTvd": "452403070472",
+    "uikName": "УИК №1155",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1643,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1156,
     "uikTvd": "452403070473",
+    "uikName": "УИК №1156",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1157,
     "uikTvd": "452403070474",
+    "uikName": "УИК №1157",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1413,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1158,
     "uikTvd": "452403070475",
+    "uikName": "УИК №1158",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1414,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1159,
     "uikTvd": "452403070476",
+    "uikName": "УИК №1159",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2571,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1160,
     "uikTvd": "452403070477",
+    "uikName": "УИК №1160",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1161,
     "uikTvd": "452403070478",
+    "uikName": "УИК №1161",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1162,
     "uikTvd": "452403070479",
+    "uikName": "УИК №1162",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 857,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1163,
     "uikTvd": "452403070480",
+    "uikName": "УИК №1163",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1162,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1164,
     "uikTvd": "452403070481",
+    "uikName": "УИК №1164",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1478,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1165,
     "uikTvd": "452403070482",
+    "uikName": "УИК №1165",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 947,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1166,
     "uikTvd": "452403070483",
+    "uikName": "УИК №1166",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1674,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1167,
     "uikTvd": "452403070484",
+    "uikName": "УИК №1167",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1542,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1168,
     "uikTvd": "452403070485",
+    "uikName": "УИК №1168",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 983,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1169,
     "uikTvd": "452403070486",
+    "uikName": "УИК №1169",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1403,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1170,
     "uikTvd": "452403070487",
+    "uikName": "УИК №1170",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1171,
     "uikTvd": "452403070488",
+    "uikName": "УИК №1171",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1172,
     "uikTvd": "452403070489",
+    "uikName": "УИК №1172",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 681,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1173,
     "uikTvd": "452403070490",
+    "uikName": "УИК №1173",
     "tikTvd": "352300270490",
     "tikName": "Кулебакская ",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1578,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1175,
     "uikTvd": "452403170494",
+    "uikName": "УИК №1175",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1734,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1176,
     "uikTvd": "452403170495",
+    "uikName": "УИК №1176",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1489,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1177,
     "uikTvd": "452403170496",
+    "uikName": "УИК №1177",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1353,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1178,
     "uikTvd": "452403170447",
+    "uikName": "УИК №1178",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1700,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1179,
     "uikTvd": "452403170448",
+    "uikName": "УИК №1179",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2438,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1180,
     "uikTvd": "452403170449",
+    "uikName": "УИК №1180",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1997,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1181,
     "uikTvd": "452403170450",
+    "uikName": "УИК №1181",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 734,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1182,
     "uikTvd": "452403170451",
+    "uikName": "УИК №1182",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1581,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1183,
     "uikTvd": "452403170452",
+    "uikName": "УИК №1183",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 567,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1184,
     "uikTvd": "452403170453",
+    "uikName": "УИК №1184",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1185,
     "uikTvd": "452403170454",
+    "uikName": "УИК №1185",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 611,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1186,
     "uikTvd": "452403170455",
+    "uikName": "УИК №1186",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1187,
     "uikTvd": "452403170456",
+    "uikName": "УИК №1187",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1188,
     "uikTvd": "452403170457",
+    "uikName": "УИК №1188",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1189,
     "uikTvd": "452403170458",
+    "uikName": "УИК №1189",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1190,
     "uikTvd": "452403170459",
+    "uikName": "УИК №1190",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1191,
     "uikTvd": "452403170460",
+    "uikName": "УИК №1191",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1192,
     "uikTvd": "452403170461",
+    "uikName": "УИК №1192",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1193,
     "uikTvd": "452403170462",
+    "uikName": "УИК №1193",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1143,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1194,
     "uikTvd": "452403170463",
+    "uikName": "УИК №1194",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1294,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1195,
     "uikTvd": "452403170464",
+    "uikName": "УИК №1195",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 651,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1196,
     "uikTvd": "452403170465",
+    "uikName": "УИК №1196",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1197,
     "uikTvd": "452403170466",
+    "uikName": "УИК №1197",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1198,
     "uikTvd": "452403170467",
+    "uikName": "УИК №1198",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 566,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1199,
     "uikTvd": "452403170468",
+    "uikName": "УИК №1199",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1200,
     "uikTvd": "452403170469",
+    "uikName": "УИК №1200",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1201,
     "uikTvd": "452403170470",
+    "uikName": "УИК №1201",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1202,
     "uikTvd": "452403170471",
+    "uikName": "УИК №1202",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1203,
     "uikTvd": "452403170472",
+    "uikName": "УИК №1203",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1204,
     "uikTvd": "452403170473",
+    "uikName": "УИК №1204",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1205,
     "uikTvd": "452403170474",
+    "uikName": "УИК №1205",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1206,
     "uikTvd": "452403170475",
+    "uikName": "УИК №1206",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1207,
     "uikTvd": "452403170476",
+    "uikName": "УИК №1207",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1208,
     "uikTvd": "452403170477",
+    "uikName": "УИК №1208",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1209,
     "uikTvd": "452403170478",
+    "uikName": "УИК №1209",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1210,
     "uikTvd": "452403170479",
+    "uikName": "УИК №1210",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 481,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1211,
     "uikTvd": "452403170480",
+    "uikName": "УИК №1211",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1212,
     "uikTvd": "452403170481",
+    "uikName": "УИК №1212",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1213,
     "uikTvd": "452403170482",
+    "uikName": "УИК №1213",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1214,
     "uikTvd": "452403170483",
+    "uikName": "УИК №1214",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1215,
     "uikTvd": "452403170484",
+    "uikName": "УИК №1215",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 451,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1216,
     "uikTvd": "452403170485",
+    "uikName": "УИК №1216",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1217,
     "uikTvd": "452403170486",
+    "uikName": "УИК №1217",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1218,
     "uikTvd": "452403170487",
+    "uikName": "УИК №1218",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1219,
     "uikTvd": "452403170488",
+    "uikName": "УИК №1219",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1220,
     "uikTvd": "452403170489",
+    "uikName": "УИК №1220",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1221,
     "uikTvd": "452403170490",
+    "uikName": "УИК №1221",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1222,
     "uikTvd": "452403170491",
+    "uikName": "УИК №1222",
     "tikTvd": "352300270491",
     "tikName": "Лукояновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2410,
     "uikTvd": "452405870405",
+    "uikName": "УИК №2410",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2601,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2411,
     "uikTvd": "452405870406",
+    "uikName": "УИК №2411",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1362,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2412,
     "uikTvd": "452405870407",
+    "uikName": "УИК №2412",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2165,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2413,
     "uikTvd": "452405870408",
+    "uikName": "УИК №2413",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1919,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2414,
     "uikTvd": "452405870409",
+    "uikName": "УИК №2414",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 902,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2415,
     "uikTvd": "452405870410",
+    "uikName": "УИК №2415",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1834,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2416,
     "uikTvd": "452405870411",
+    "uikName": "УИК №2416",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2417,
     "uikTvd": "452405870412",
+    "uikName": "УИК №2417",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2418,
     "uikTvd": "452405870413",
+    "uikName": "УИК №2418",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 839,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2419,
     "uikTvd": "452405870414",
+    "uikName": "УИК №2419",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2420,
     "uikTvd": "452405870415",
+    "uikName": "УИК №2420",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2421,
     "uikTvd": "452405870416",
+    "uikName": "УИК №2421",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2422,
     "uikTvd": "452405870417",
+    "uikName": "УИК №2422",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2423,
     "uikTvd": "452405870418",
+    "uikName": "УИК №2423",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2424,
     "uikTvd": "452405870419",
+    "uikName": "УИК №2424",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2425,
     "uikTvd": "452405870420",
+    "uikName": "УИК №2425",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2426,
     "uikTvd": "452405870421",
+    "uikName": "УИК №2426",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2427,
     "uikTvd": "452405870422",
+    "uikName": "УИК №2427",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2428,
     "uikTvd": "452405870423",
+    "uikName": "УИК №2428",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 476,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2429,
     "uikTvd": "452405870424",
+    "uikName": "УИК №2429",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2430,
     "uikTvd": "452405870425",
+    "uikName": "УИК №2430",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1028,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2431,
     "uikTvd": "452405870426",
+    "uikName": "УИК №2431",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 433,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2432,
     "uikTvd": "452405870427",
+    "uikName": "УИК №2432",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2433,
     "uikTvd": "452405870428",
+    "uikName": "УИК №2433",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 488,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2434,
     "uikTvd": "452405870429",
+    "uikName": "УИК №2434",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2435,
     "uikTvd": "452405870430",
+    "uikName": "УИК №2435",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2436,
     "uikTvd": "452405870431",
+    "uikName": "УИК №2436",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 590,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2437,
     "uikTvd": "452405870432",
+    "uikName": "УИК №2437",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 47,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2438,
     "uikTvd": "452405870433",
+    "uikName": "УИК №2438",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2439,
     "uikTvd": "452405870434",
+    "uikName": "УИК №2439",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2440,
     "uikTvd": "452405870435",
+    "uikName": "УИК №2440",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2441,
     "uikTvd": "452405870436",
+    "uikName": "УИК №2441",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 360,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2442,
     "uikTvd": "452405870437",
+    "uikName": "УИК №2442",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2443,
     "uikTvd": "452405870438",
+    "uikName": "УИК №2443",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2444,
     "uikTvd": "452405870439",
+    "uikName": "УИК №2444",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 669,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2445,
     "uikTvd": "452405870440",
+    "uikName": "УИК №2445",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2446,
     "uikTvd": "452405870441",
+    "uikName": "УИК №2446",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2447,
     "uikTvd": "452405870442",
+    "uikName": "УИК №2447",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2448,
     "uikTvd": "452405870443",
+    "uikName": "УИК №2448",
     "tikTvd": "352300270492",
     "tikName": "Шатковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1909,
     "uikTvd": "452404470369",
+    "uikName": "УИК №1909",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2301,
       "Число бюллетеней, полученных участковыми комиссиями": 2038,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1910,
     "uikTvd": "452404470370",
+    "uikName": "УИК №1910",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2645,
       "Число бюллетеней, полученных участковыми комиссиями": 2313,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1911,
     "uikTvd": "452404470371",
+    "uikName": "УИК №1911",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 2037,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1912,
     "uikTvd": "452404470372",
+    "uikName": "УИК №1912",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3048,
       "Число бюллетеней, полученных участковыми комиссиями": 2673,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1913,
     "uikTvd": "452404470373",
+    "uikName": "УИК №1913",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2994,
       "Число бюллетеней, полученных участковыми комиссиями": 2592,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1914,
     "uikTvd": "452404470374",
+    "uikName": "УИК №1914",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1464,
       "Число бюллетеней, полученных участковыми комиссиями": 1537,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1915,
     "uikTvd": "452404470375",
+    "uikName": "УИК №1915",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 495,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1916,
     "uikTvd": "452404470592",
+    "uikName": "УИК №1916",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1917,
     "uikTvd": "452404470376",
+    "uikName": "УИК №1917",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 593,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1918,
     "uikTvd": "452404470377",
+    "uikName": "УИК №1918",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1919,
     "uikTvd": "452404470378",
+    "uikName": "УИК №1919",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1920,
     "uikTvd": "452404470379",
+    "uikName": "УИК №1920",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1921,
     "uikTvd": "452404470380",
+    "uikName": "УИК №1921",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1922,
     "uikTvd": "452404470381",
+    "uikName": "УИК №1922",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1923,
     "uikTvd": "452404470382",
+    "uikName": "УИК №1923",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 76,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1924,
     "uikTvd": "452404470383",
+    "uikName": "УИК №1924",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1925,
     "uikTvd": "452404470384",
+    "uikName": "УИК №1925",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1926,
     "uikTvd": "452404470385",
+    "uikName": "УИК №1926",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1927,
     "uikTvd": "452404470386",
+    "uikName": "УИК №1927",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 124,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1928,
     "uikTvd": "452404470387",
+    "uikName": "УИК №1928",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 536,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1929,
     "uikTvd": "452404470388",
+    "uikName": "УИК №1929",
     "tikTvd": "352300270493",
     "tikName": "Первомайская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1993,
     "uikTvd": "452404770413",
+    "uikName": "УИК №1993",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1538,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1994,
     "uikTvd": "452404770414",
+    "uikName": "УИК №1994",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1759,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1995,
     "uikTvd": "452404770415",
+    "uikName": "УИК №1995",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2379,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1996,
     "uikTvd": "452404770416",
+    "uikName": "УИК №1996",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1554,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1997,
     "uikTvd": "452404770417",
+    "uikName": "УИК №1997",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2570,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1998,
     "uikTvd": "452404770418",
+    "uikName": "УИК №1998",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1999,
     "uikTvd": "452404770419",
+    "uikName": "УИК №1999",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2000,
     "uikTvd": "452404770420",
+    "uikName": "УИК №2000",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2001,
     "uikTvd": "452404770421",
+    "uikName": "УИК №2001",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 611,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2002,
     "uikTvd": "452404770422",
+    "uikName": "УИК №2002",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 494,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2003,
     "uikTvd": "452404770423",
+    "uikName": "УИК №2003",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2004,
     "uikTvd": "452404770424",
+    "uikName": "УИК №2004",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1889,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2005,
     "uikTvd": "452404770425",
+    "uikName": "УИК №2005",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 866,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2006,
     "uikTvd": "452404770426",
+    "uikName": "УИК №2006",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 687,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2007,
     "uikTvd": "452404770427",
+    "uikName": "УИК №2007",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2008,
     "uikTvd": "452404770428",
+    "uikName": "УИК №2008",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1112,
       "Число бюллетеней, полученных участковыми комиссиями": 1010,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2009,
     "uikTvd": "452404770429",
+    "uikName": "УИК №2009",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2010,
     "uikTvd": "452404770430",
+    "uikName": "УИК №2010",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 781,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2011,
     "uikTvd": "452404770431",
+    "uikName": "УИК №2011",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2012,
     "uikTvd": "452404770432",
+    "uikName": "УИК №2012",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2013,
     "uikTvd": "452404770433",
+    "uikName": "УИК №2013",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2014,
     "uikTvd": "452404770434",
+    "uikName": "УИК №2014",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2015,
     "uikTvd": "452404770435",
+    "uikName": "УИК №2015",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1238,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2016,
     "uikTvd": "452404770436",
+    "uikName": "УИК №2016",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2017,
     "uikTvd": "452404770437",
+    "uikName": "УИК №2017",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2018,
     "uikTvd": "452404770438",
+    "uikName": "УИК №2018",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2019,
     "uikTvd": "452404770439",
+    "uikName": "УИК №2019",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2020,
     "uikTvd": "452404770440",
+    "uikName": "УИК №2020",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 742,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2021,
     "uikTvd": "452404770441",
+    "uikName": "УИК №2021",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2022,
     "uikTvd": "452404770442",
+    "uikName": "УИК №2022",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2023,
     "uikTvd": "452404770443",
+    "uikName": "УИК №2023",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2024,
     "uikTvd": "452404770444",
+    "uikName": "УИК №2024",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 525,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2025,
     "uikTvd": "452404770445",
+    "uikName": "УИК №2025",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2026,
     "uikTvd": "452404770446",
+    "uikName": "УИК №2026",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2027,
     "uikTvd": "452404770447",
+    "uikName": "УИК №2027",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2028,
     "uikTvd": "452404770448",
+    "uikName": "УИК №2028",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 415,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2029,
     "uikTvd": "452404770449",
+    "uikName": "УИК №2029",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2030,
     "uikTvd": "452404770450",
+    "uikName": "УИК №2030",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_52_part_003 = [
     "ballot": "single-member",
     "uikNumber": 2031,
     "uikTvd": "452404770451",
+    "uikName": "УИК №2031",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 442,
       "Число бюллетеней, полученных участковыми комиссиями": 400,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1174,
     "uikTvd": "446403570499",
+    "uikName": "УИК №1174",
     "tikTvd": "346300170562",
     "tikName": "Щигровская городская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1724,
       "Число бюллетеней, полученных участковыми комиссиями": 1629,
@@ -62,8 +71,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1175,
     "uikTvd": "446403570496",
+    "uikName": "УИК №1175",
     "tikTvd": "346300170562",
     "tikName": "Щигровская городская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1665,
       "Число бюллетеней, полученных участковыми комиссиями": 1591,
@@ -113,8 +131,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1176,
     "uikTvd": "446403570500",
+    "uikName": "УИК №1176",
     "tikTvd": "346300170562",
     "tikName": "Щигровская городская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1691,
       "Число бюллетеней, полученных участковыми комиссиями": 1577,
@@ -164,8 +191,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1177,
     "uikTvd": "446403570501",
+    "uikName": "УИК №1177",
     "tikTvd": "346300170562",
     "tikName": "Щигровская городская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1775,
       "Число бюллетеней, полученных участковыми комиссиями": 1672,
@@ -215,8 +251,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1178,
     "uikTvd": "446403570502",
+    "uikName": "УИК №1178",
     "tikTvd": "346300170562",
     "tikName": "Щигровская городская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1670,
       "Число бюллетеней, полученных участковыми комиссиями": 1582,
@@ -266,8 +311,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1179,
     "uikTvd": "446403570503",
+    "uikName": "УИК №1179",
     "tikTvd": "346300170562",
     "tikName": "Щигровская городская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1895,
       "Число бюллетеней, полученных участковыми комиссиями": 1753,
@@ -317,8 +371,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1180,
     "uikTvd": "446403570504",
+    "uikName": "УИК №1180",
     "tikTvd": "346300170562",
     "tikName": "Щигровская городская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 987,
       "Число бюллетеней, полученных участковыми комиссиями": 928,
@@ -368,8 +431,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1181,
     "uikTvd": "446403570505",
+    "uikName": "УИК №1181",
     "tikTvd": "346300170562",
     "tikName": "Щигровская городская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 882,
       "Число бюллетеней, полученных участковыми комиссиями": 836,
@@ -419,8 +491,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1182,
     "uikTvd": "446403570506",
+    "uikName": "УИК №1182",
     "tikTvd": "346300170562",
     "tikName": "Щигровская городская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1962,
       "Число бюллетеней, полученных участковыми комиссиями": 1843,
@@ -470,8 +551,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "446401475743",
+    "uikName": "УИК №592",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -521,8 +611,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "446401475746",
+    "uikName": "УИК №593",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1134,
       "Число бюллетеней, полученных участковыми комиссиями": 1102,
@@ -572,8 +671,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "446401475748",
+    "uikName": "УИК №594",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -623,8 +731,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "446401475750",
+    "uikName": "УИК №595",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 463,
       "Число бюллетеней, полученных участковыми комиссиями": 466,
@@ -674,8 +791,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "446401475752",
+    "uikName": "УИК №596",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -725,8 +851,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "446401475756",
+    "uikName": "УИК №597",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 337,
@@ -776,8 +911,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "446401475754",
+    "uikName": "УИК №598",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 506,
@@ -827,8 +971,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "446401475758",
+    "uikName": "УИК №599",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -878,8 +1031,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "446401475760",
+    "uikName": "УИК №600",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -929,8 +1091,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "446401475762",
+    "uikName": "УИК №601",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 441,
       "Число бюллетеней, полученных участковыми комиссиями": 431,
@@ -980,8 +1151,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "446401475764",
+    "uikName": "УИК №602",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 288,
@@ -1031,8 +1211,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "446401475766",
+    "uikName": "УИК №603",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 1941,
@@ -1082,8 +1271,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "446401475768",
+    "uikName": "УИК №604",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1404,
       "Число бюллетеней, полученных участковыми комиссиями": 1358,
@@ -1133,8 +1331,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "446401475770",
+    "uikName": "УИК №605",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 712,
       "Число бюллетеней, полученных участковыми комиссиями": 712,
@@ -1184,8 +1391,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "446401475772",
+    "uikName": "УИК №606",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 492,
       "Число бюллетеней, полученных участковыми комиссиями": 485,
@@ -1235,8 +1451,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "446401475774",
+    "uikName": "УИК №607",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1677,
       "Число бюллетеней, полученных участковыми комиссиями": 1647,
@@ -1286,8 +1511,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "446401475776",
+    "uikName": "УИК №608",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1249,
       "Число бюллетеней, полученных участковыми комиссиями": 1175,
@@ -1337,8 +1571,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "446401475778",
+    "uikName": "УИК №609",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 556,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1388,8 +1631,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "446401475780",
+    "uikName": "УИК №610",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1712,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1439,8 +1691,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "446401475782",
+    "uikName": "УИК №611",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2600,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1490,8 +1751,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "446401475784",
+    "uikName": "УИК №612",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -1541,8 +1811,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "446401475786",
+    "uikName": "УИК №613",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1592,8 +1871,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "446401475788",
+    "uikName": "УИК №614",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 489,
       "Число бюллетеней, полученных участковыми комиссиями": 494,
@@ -1643,8 +1931,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "446401475790",
+    "uikName": "УИК №615",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 938,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -1694,8 +1991,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "446401475792",
+    "uikName": "УИК №616",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 638,
       "Число бюллетеней, полученных участковыми комиссиями": 626,
@@ -1745,8 +2051,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "446401475794",
+    "uikName": "УИК №617",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 231,
@@ -1796,8 +2111,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "446401475796",
+    "uikName": "УИК №618",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 545,
       "Число бюллетеней, полученных участковыми комиссиями": 536,
@@ -1847,8 +2171,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "446401475798",
+    "uikName": "УИК №619",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1632,
       "Число бюллетеней, полученных участковыми комиссиями": 1587,
@@ -1898,8 +2231,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "446401475800",
+    "uikName": "УИК №620",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 332,
       "Число бюллетеней, полученных участковыми комиссиями": 336,
@@ -1949,8 +2291,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "446401475802",
+    "uikName": "УИК №621",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -2000,8 +2351,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "446401475804",
+    "uikName": "УИК №622",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 434,
@@ -2051,8 +2411,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "446401475806",
+    "uikName": "УИК №623",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -2102,8 +2471,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "446401475808",
+    "uikName": "УИК №624",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 818,
       "Число бюллетеней, полученных участковыми комиссиями": 808,
@@ -2153,8 +2531,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "446401475810",
+    "uikName": "УИК №625",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 923,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -2204,8 +2591,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "446401475812",
+    "uikName": "УИК №626",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -2255,8 +2651,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "446401475814",
+    "uikName": "УИК №627",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1419,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -2306,8 +2711,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "446401475816",
+    "uikName": "УИК №628",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -2357,8 +2771,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "446401475818",
+    "uikName": "УИК №629",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 384,
@@ -2408,8 +2831,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "446401475820",
+    "uikName": "УИК №630",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1011,
       "Число бюллетеней, полученных участковыми комиссиями": 1002,
@@ -2459,8 +2891,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "446401475822",
+    "uikName": "УИК №631",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 404,
       "Число бюллетеней, полученных участковыми комиссиями": 394,
@@ -2510,8 +2951,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "446401475824",
+    "uikName": "УИК №632",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -2561,8 +3011,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "446401475826",
+    "uikName": "УИК №633",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 531,
@@ -2612,8 +3071,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "446401475828",
+    "uikName": "УИК №634",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1371,
       "Число бюллетеней, полученных участковыми комиссиями": 1382,
@@ -2663,8 +3131,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "446401475830",
+    "uikName": "УИК №635",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 950,
       "Число бюллетеней, полученных участковыми комиссиями": 788,
@@ -2714,8 +3191,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "446401475832",
+    "uikName": "УИК №636",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -2765,8 +3251,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "446401475834",
+    "uikName": "УИК №637",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 296,
@@ -2816,8 +3311,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "446401475836",
+    "uikName": "УИК №638",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 158,
@@ -2867,8 +3371,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "446401475838",
+    "uikName": "УИК №639",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1286,
       "Число бюллетеней, полученных участковыми комиссиями": 1256,
@@ -2918,8 +3431,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "446401475840",
+    "uikName": "УИК №640",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1087,
       "Число бюллетеней, полученных участковыми комиссиями": 1065,
@@ -2969,8 +3491,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "446401475842",
+    "uikName": "УИК №641",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3020,8 +3551,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "446401475844",
+    "uikName": "УИК №642",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3071,8 +3611,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "446401475846",
+    "uikName": "УИК №643",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 219,
@@ -3122,8 +3671,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "446401475848",
+    "uikName": "УИК №644",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 262,
       "Число бюллетеней, полученных участковыми комиссиями": 264,
@@ -3173,8 +3731,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "446401475850",
+    "uikName": "УИК №645",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 785,
@@ -3224,8 +3791,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "446401475852",
+    "uikName": "УИК №646",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 614,
       "Число бюллетеней, полученных участковыми комиссиями": 633,
@@ -3275,8 +3851,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "446401475854",
+    "uikName": "УИК №647",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 497,
       "Число бюллетеней, полученных участковыми комиссиями": 483,
@@ -3326,8 +3911,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "446401475856",
+    "uikName": "УИК №648",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 968,
       "Число бюллетеней, полученных участковыми комиссиями": 977,
@@ -3377,8 +3971,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "446401475858",
+    "uikName": "УИК №649",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 924,
       "Число бюллетеней, полученных участковыми комиссиями": 876,
@@ -3428,8 +4031,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "446401475860",
+    "uikName": "УИК №650",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1215,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3479,8 +4091,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "446401475862",
+    "uikName": "УИК №651",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -3530,8 +4151,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "446401475864",
+    "uikName": "УИК №652",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 485,
       "Число бюллетеней, полученных участковыми комиссиями": 444,
@@ -3581,8 +4211,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "446401475866",
+    "uikName": "УИК №653",
     "tikTvd": "346300172657",
     "tikName": "Курская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1821,
       "Число бюллетеней, полученных участковыми комиссиями": 1721,
@@ -3632,8 +4271,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "446401170944",
+    "uikName": "УИК №1",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2058,
       "Число бюллетеней, полученных участковыми комиссиями": 1849,
@@ -3683,8 +4331,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "446401170945",
+    "uikName": "УИК №2",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2130,
       "Число бюллетеней, полученных участковыми комиссиями": 1913,
@@ -3734,8 +4391,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "446401170946",
+    "uikName": "УИК №3",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1423,
       "Число бюллетеней, полученных участковыми комиссиями": 1279,
@@ -3785,8 +4451,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "446401170947",
+    "uikName": "УИК №4",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2557,
       "Число бюллетеней, полученных участковыми комиссиями": 2308,
@@ -3836,8 +4511,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "446401170948",
+    "uikName": "УИК №5",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1303,
       "Число бюллетеней, полученных участковыми комиссиями": 1173,
@@ -3887,8 +4571,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "446401170949",
+    "uikName": "УИК №6",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1476,
       "Число бюллетеней, полученных участковыми комиссиями": 1343,
@@ -3938,8 +4631,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "446401170950",
+    "uikName": "УИК №7",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2507,
       "Число бюллетеней, полученных участковыми комиссиями": 2205,
@@ -3989,8 +4691,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "446401170951",
+    "uikName": "УИК №8",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1111,
       "Число бюллетеней, полученных участковыми комиссиями": 995,
@@ -4040,8 +4751,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "446401170952",
+    "uikName": "УИК №9",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1800,
       "Число бюллетеней, полученных участковыми комиссиями": 1635,
@@ -4091,8 +4811,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "446401170953",
+    "uikName": "УИК №10",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2073,
       "Число бюллетеней, полученных участковыми комиссиями": 1862,
@@ -4142,8 +4871,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "446401170954",
+    "uikName": "УИК №11",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2072,
       "Число бюллетеней, полученных участковыми комиссиями": 1889,
@@ -4193,8 +4931,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "446401170955",
+    "uikName": "УИК №12",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1854,
       "Число бюллетеней, полученных участковыми комиссиями": 1663,
@@ -4244,8 +4991,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "446401170956",
+    "uikName": "УИК №13",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1927,
       "Число бюллетеней, полученных участковыми комиссиями": 1734,
@@ -4295,8 +5051,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "446401170957",
+    "uikName": "УИК №14",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2082,
@@ -4346,8 +5111,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "446401170958",
+    "uikName": "УИК №15",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2191,
       "Число бюллетеней, полученных участковыми комиссиями": 1969,
@@ -4397,8 +5171,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "446401170959",
+    "uikName": "УИК №16",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2111,
       "Число бюллетеней, полученных участковыми комиссиями": 1917,
@@ -4448,8 +5231,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "446401170960",
+    "uikName": "УИК №17",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2348,
       "Число бюллетеней, полученных участковыми комиссиями": 2115,
@@ -4499,8 +5291,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "446401170961",
+    "uikName": "УИК №18",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2271,
       "Число бюллетеней, полученных участковыми комиссиями": 2056,
@@ -4550,8 +5351,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "446401170962",
+    "uikName": "УИК №19",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1474,
       "Число бюллетеней, полученных участковыми комиссиями": 1337,
@@ -4601,8 +5411,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "446401170963",
+    "uikName": "УИК №20",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 1906,
@@ -4652,8 +5471,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "446401170964",
+    "uikName": "УИК №21",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2375,
       "Число бюллетеней, полученных участковыми комиссиями": 2162,
@@ -4703,8 +5531,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "446401170965",
+    "uikName": "УИК №22",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1639,
       "Число бюллетеней, полученных участковыми комиссиями": 1492,
@@ -4754,8 +5591,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "446401170966",
+    "uikName": "УИК №23",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2402,
       "Число бюллетеней, полученных участковыми комиссиями": 2183,
@@ -4805,8 +5651,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "446401170967",
+    "uikName": "УИК №24",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2246,
       "Число бюллетеней, полученных участковыми комиссиями": 2007,
@@ -4856,8 +5711,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "446401170968",
+    "uikName": "УИК №25",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2186,
       "Число бюллетеней, полученных участковыми комиссиями": 1968,
@@ -4907,8 +5771,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "446401170969",
+    "uikName": "УИК №26",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1105,
       "Число бюллетеней, полученных участковыми комиссиями": 1007,
@@ -4958,8 +5831,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "446401170970",
+    "uikName": "УИК №27",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 811,
       "Число бюллетеней, полученных участковыми комиссиями": 763,
@@ -5009,8 +5891,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "446401170971",
+    "uikName": "УИК №28",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1426,
       "Число бюллетеней, полученных участковыми комиссиями": 1265,
@@ -5060,8 +5951,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "446401170972",
+    "uikName": "УИК №29",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2440,
       "Число бюллетеней, полученных участковыми комиссиями": 2206,
@@ -5111,8 +6011,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "446401170973",
+    "uikName": "УИК №30",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 57,
       "Число бюллетеней, полученных участковыми комиссиями": 68,
@@ -5162,8 +6071,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "446401170974",
+    "uikName": "УИК №31",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1497,
@@ -5213,8 +6131,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "446401170975",
+    "uikName": "УИК №32",
     "tikTvd": "346300172704",
     "tikName": "Курск, Железнодорожная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -5264,8 +6191,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "446401271242",
+    "uikName": "УИК №33",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2301,
       "Число бюллетеней, полученных участковыми комиссиями": 2320,
@@ -5315,8 +6251,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "446401271244",
+    "uikName": "УИК №34",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2565,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -5366,8 +6311,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "446401271245",
+    "uikName": "УИК №35",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1488,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -5417,8 +6371,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "446401271246",
+    "uikName": "УИК №36",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1580,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -5468,8 +6431,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "446401271247",
+    "uikName": "УИК №37",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1805,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -5519,8 +6491,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "446401271248",
+    "uikName": "УИК №38",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2528,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -5570,8 +6551,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "446401271249",
+    "uikName": "УИК №39",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1245,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -5621,8 +6611,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "446401271250",
+    "uikName": "УИК №40",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1799,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -5672,8 +6671,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "446401271251",
+    "uikName": "УИК №41",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2392,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -5723,8 +6731,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "446401271252",
+    "uikName": "УИК №42",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2252,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -5774,8 +6791,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "446401271253",
+    "uikName": "УИК №43",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -5825,8 +6851,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "446401271254",
+    "uikName": "УИК №44",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2100,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -5876,8 +6911,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "446401271255",
+    "uikName": "УИК №45",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2547,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -5927,8 +6971,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "446401271256",
+    "uikName": "УИК №46",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2507,
       "Число бюллетеней, полученных участковыми комиссиями": 2530,
@@ -5978,8 +7031,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "446401271257",
+    "uikName": "УИК №47",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2255,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -6029,8 +7091,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "446401271258",
+    "uikName": "УИК №48",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2005,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -6080,8 +7151,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "446401271259",
+    "uikName": "УИК №49",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -6131,8 +7211,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "446401271260",
+    "uikName": "УИК №50",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1249,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -6182,8 +7271,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "446401271261",
+    "uikName": "УИК №51",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 939,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -6233,8 +7331,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "446401271262",
+    "uikName": "УИК №52",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2031,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -6284,8 +7391,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "446401271263",
+    "uikName": "УИК №53",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -6335,8 +7451,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "446401271264",
+    "uikName": "УИК №54",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2574,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6386,8 +7511,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "446401271265",
+    "uikName": "УИК №55",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1308,
       "Число бюллетеней, полученных участковыми комиссиями": 1310,
@@ -6437,8 +7571,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "446401271266",
+    "uikName": "УИК №56",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1831,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -6488,8 +7631,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "446401271267",
+    "uikName": "УИК №57",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2378,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -6539,8 +7691,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "446401271268",
+    "uikName": "УИК №58",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2176,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -6590,8 +7751,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "446401271269",
+    "uikName": "УИК №59",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2510,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6641,8 +7811,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "446401271270",
+    "uikName": "УИК №60",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2320,
@@ -6692,8 +7871,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "446401271271",
+    "uikName": "УИК №61",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1158,
       "Число бюллетеней, полученных участковыми комиссиями": 1170,
@@ -6743,8 +7931,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "446401271272",
+    "uikName": "УИК №62",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2367,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -6794,8 +7991,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "446401271273",
+    "uikName": "УИК №63",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2224,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -6845,8 +8051,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "446401271274",
+    "uikName": "УИК №64",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2598,
       "Число бюллетеней, полученных участковыми комиссиями": 2580,
@@ -6896,8 +8111,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "446401271275",
+    "uikName": "УИК №65",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -6947,8 +8171,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "446401271276",
+    "uikName": "УИК №66",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1724,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -6998,8 +8231,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "446401271277",
+    "uikName": "УИК №67",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1996,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -7049,8 +8291,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "446401271278",
+    "uikName": "УИК №68",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1534,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -7100,8 +8351,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "446401271279",
+    "uikName": "УИК №69",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1546,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -7151,8 +8411,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "446401271280",
+    "uikName": "УИК №70",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1572,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7202,8 +8471,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "446401271281",
+    "uikName": "УИК №71",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1466,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -7253,8 +8531,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "446401271282",
+    "uikName": "УИК №72",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1758,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -7304,8 +8591,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "446401271283",
+    "uikName": "УИК №73",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1902,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -7355,8 +8651,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "446401271284",
+    "uikName": "УИК №74",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -7406,8 +8711,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "446401271285",
+    "uikName": "УИК №75",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2502,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -7457,8 +8771,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "446401271286",
+    "uikName": "УИК №76",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2501,
       "Число бюллетеней, полученных участковыми комиссиями": 2480,
@@ -7508,8 +8831,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "446401271287",
+    "uikName": "УИК №77",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2228,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -7559,8 +8891,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "446401271288",
+    "uikName": "УИК №78",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 779,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -7610,8 +8951,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "446401271289",
+    "uikName": "УИК №79",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7661,8 +9011,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "446401271290",
+    "uikName": "УИК №80",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2125,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -7712,8 +9071,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "446401271291",
+    "uikName": "УИК №81",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7763,8 +9131,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "446401271292",
+    "uikName": "УИК №82",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2031,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7814,8 +9191,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "446401271293",
+    "uikName": "УИК №83",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2050,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7865,8 +9251,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "446401271294",
+    "uikName": "УИК №84",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -7916,8 +9311,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "446401271295",
+    "uikName": "УИК №85",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1569,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -7967,8 +9371,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "446401271296",
+    "uikName": "УИК №86",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1612,
       "Число бюллетеней, полученных участковыми комиссиями": 1590,
@@ -8018,8 +9431,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "446401271297",
+    "uikName": "УИК №87",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2011,
       "Число бюллетеней, полученных участковыми комиссиями": 1870,
@@ -8069,8 +9491,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "446401271298",
+    "uikName": "УИК №88",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -8120,8 +9551,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "446401271299",
+    "uikName": "УИК №89",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1166,
       "Число бюллетеней, полученных участковыми комиссиями": 1230,
@@ -8171,8 +9611,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "446401271300",
+    "uikName": "УИК №90",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -8222,8 +9671,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "446401271301",
+    "uikName": "УИК №91",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2348,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -8273,8 +9731,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "446401271302",
+    "uikName": "УИК №92",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2261,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -8324,8 +9791,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "446401271303",
+    "uikName": "УИК №93",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2000,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -8375,8 +9851,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "446401271304",
+    "uikName": "УИК №94",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -8426,8 +9911,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "446401271305",
+    "uikName": "УИК №95",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -8477,8 +9971,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "446401271306",
+    "uikName": "УИК №96",
     "tikTvd": "346300172705",
     "tikName": "Курск, Сеймская",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -8528,8 +10031,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "446401371080",
+    "uikName": "УИК №97",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2197,
       "Число бюллетеней, полученных участковыми комиссиями": 2090,
@@ -8579,8 +10091,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "446401371081",
+    "uikName": "УИК №98",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 678,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -8630,8 +10151,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "446401371082",
+    "uikName": "УИК №99",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1493,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -8681,8 +10211,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "446401371083",
+    "uikName": "УИК №100",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2580,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -8732,8 +10271,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "446401371084",
+    "uikName": "УИК №101",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2691,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -8783,8 +10331,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "446401371085",
+    "uikName": "УИК №102",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1329,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -8834,8 +10391,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "446401371086",
+    "uikName": "УИК №103",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 937,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -8885,8 +10451,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "446401371087",
+    "uikName": "УИК №104",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 874,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -8936,8 +10511,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "446401371088",
+    "uikName": "УИК №105",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2386,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -8987,8 +10571,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "446401371089",
+    "uikName": "УИК №106",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2512,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -9038,8 +10631,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "446401371090",
+    "uikName": "УИК №107",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2578,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9089,8 +10691,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "446401371091",
+    "uikName": "УИК №108",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2067,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -9140,8 +10751,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "446401371092",
+    "uikName": "УИК №109",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2268,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -9191,8 +10811,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "446401371093",
+    "uikName": "УИК №110",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 578,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -9242,8 +10871,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "446401371094",
+    "uikName": "УИК №111",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2385,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -9293,8 +10931,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "446401371095",
+    "uikName": "УИК №112",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2816,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -9344,8 +10991,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "446401370992",
+    "uikName": "УИК №113",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2363,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -9395,8 +11051,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "446401370993",
+    "uikName": "УИК №114",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2639,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -9446,8 +11111,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "446401370994",
+    "uikName": "УИК №115",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2879,
       "Число бюллетеней, полученных участковыми комиссиями": 2710,
@@ -9497,8 +11171,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "446401370995",
+    "uikName": "УИК №116",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1331,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -9548,8 +11231,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "446401370996",
+    "uikName": "УИК №117",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2649,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9599,8 +11291,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "446401370997",
+    "uikName": "УИК №118",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2527,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -9650,8 +11351,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "446401370998",
+    "uikName": "УИК №119",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2807,
       "Число бюллетеней, полученных участковыми комиссиями": 2670,
@@ -9701,8 +11411,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "446401370999",
+    "uikName": "УИК №120",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2186,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9752,8 +11471,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "446401371000",
+    "uikName": "УИК №121",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2784,
       "Число бюллетеней, полученных участковыми комиссиями": 2630,
@@ -9803,8 +11531,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "446401371001",
+    "uikName": "УИК №122",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2683,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -9854,8 +11591,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "446401371002",
+    "uikName": "УИК №123",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2563,
       "Число бюллетеней, полученных участковыми комиссиями": 2410,
@@ -9905,8 +11651,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "446401371003",
+    "uikName": "УИК №124",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2903,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -9956,8 +11711,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "446401371004",
+    "uikName": "УИК №125",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2297,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -10007,8 +11771,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "446401371005",
+    "uikName": "УИК №126",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2924,
       "Число бюллетеней, полученных участковыми комиссиями": 2740,
@@ -10058,8 +11831,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "446401371006",
+    "uikName": "УИК №127",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2336,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -10109,8 +11891,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "446401371007",
+    "uikName": "УИК №128",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2681,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -10160,8 +11951,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "446401371008",
+    "uikName": "УИК №129",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2759,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10211,8 +12011,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "446401371009",
+    "uikName": "УИК №130",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2580,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -10262,8 +12071,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "446401371010",
+    "uikName": "УИК №131",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2160,
@@ -10313,8 +12131,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "446401371011",
+    "uikName": "УИК №132",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 2030,
@@ -10364,8 +12191,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "446401371012",
+    "uikName": "УИК №133",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2923,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -10415,8 +12251,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "446401371013",
+    "uikName": "УИК №134",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2951,
       "Число бюллетеней, полученных участковыми комиссиями": 2770,
@@ -10466,8 +12311,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "446401371014",
+    "uikName": "УИК №135",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2381,
       "Число бюллетеней, полученных участковыми комиссиями": 2220,
@@ -10517,8 +12371,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "446401371015",
+    "uikName": "УИК №136",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2040,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -10568,8 +12431,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "446401371016",
+    "uikName": "УИК №137",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1532,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -10619,8 +12491,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "446401371017",
+    "uikName": "УИК №138",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 916,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -10670,8 +12551,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "446401371018",
+    "uikName": "УИК №139",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1046,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -10721,8 +12611,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "446401371019",
+    "uikName": "УИК №140",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2109,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -10772,8 +12671,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "446401371020",
+    "uikName": "УИК №141",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 787,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -10823,8 +12731,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "446401371021",
+    "uikName": "УИК №142",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2008,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -10874,8 +12791,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "446401371022",
+    "uikName": "УИК №143",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1439,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -10925,8 +12851,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "446401371023",
+    "uikName": "УИК №144",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1445,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -10976,8 +12911,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "446401371024",
+    "uikName": "УИК №145",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1157,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -11027,8 +12971,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "446401371025",
+    "uikName": "УИК №146",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2110,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11078,8 +13031,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "446401371026",
+    "uikName": "УИК №147",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -11129,8 +13091,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "446401371027",
+    "uikName": "УИК №148",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2127,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11180,8 +13151,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "446401371028",
+    "uikName": "УИК №149",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2046,
       "Число бюллетеней, полученных участковыми комиссиями": 1940,
@@ -11231,8 +13211,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "446401371029",
+    "uikName": "УИК №150",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2438,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -11282,8 +13271,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "446401371030",
+    "uikName": "УИК №151",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1356,
       "Число бюллетеней, полученных участковыми комиссиями": 1290,
@@ -11333,8 +13331,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "446401371031",
+    "uikName": "УИК №152",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2168,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -11384,8 +13391,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "446401371032",
+    "uikName": "УИК №153",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1165,
       "Число бюллетеней, полученных участковыми комиссиями": 1110,
@@ -11435,8 +13451,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "446401371033",
+    "uikName": "УИК №154",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1926,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -11486,8 +13511,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "446401371034",
+    "uikName": "УИК №155",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1871,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11537,8 +13571,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "446401371035",
+    "uikName": "УИК №156",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1610,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -11588,8 +13631,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "446401371036",
+    "uikName": "УИК №157",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2620,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11639,8 +13691,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "446401371037",
+    "uikName": "УИК №158",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1884,
       "Число бюллетеней, полученных участковыми комиссиями": 1830,
@@ -11690,8 +13751,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "446401371038",
+    "uikName": "УИК №159",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2725,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -11741,8 +13811,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "446401371039",
+    "uikName": "УИК №160",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -11792,8 +13871,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "446401371040",
+    "uikName": "УИК №161",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1585,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11843,8 +13931,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "446401371041",
+    "uikName": "УИК №162",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2750,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -11894,8 +13991,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "446401371042",
+    "uikName": "УИК №163",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2061,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -11945,8 +14051,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "446401371043",
+    "uikName": "УИК №164",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1731,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -11996,8 +14111,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "446401371044",
+    "uikName": "УИК №165",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -12047,8 +14171,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "446401371045",
+    "uikName": "УИК №166",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 641,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -12098,8 +14231,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "446401371046",
+    "uikName": "УИК №167",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2084,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -12149,8 +14291,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "446401371047",
+    "uikName": "УИК №168",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1893,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -12200,8 +14351,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "446401371048",
+    "uikName": "УИК №169",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1922,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -12251,8 +14411,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "446401371049",
+    "uikName": "УИК №170",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1214,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -12302,8 +14471,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "446401371050",
+    "uikName": "УИК №171",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1901,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -12353,8 +14531,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "446401371051",
+    "uikName": "УИК №172",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -12404,8 +14591,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "446401371052",
+    "uikName": "УИК №173",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2423,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -12455,8 +14651,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "446401371053",
+    "uikName": "УИК №174",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1399,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -12506,8 +14711,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "446401371054",
+    "uikName": "УИК №175",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1471,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -12557,8 +14771,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "446401371055",
+    "uikName": "УИК №176",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -12608,8 +14831,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "446401371056",
+    "uikName": "УИК №177",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -12659,8 +14891,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "446401371057",
+    "uikName": "УИК №178",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 30,
       "Число бюллетеней, полученных участковыми комиссиями": 26,
@@ -12710,8 +14951,17 @@ export const duma_2003_uik_428_region_46_part_002 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "446401371058",
+    "uikName": "УИК №179",
     "tikTvd": "346300172706",
     "tikName": "Курск, Центральная",
+    "regionCode": "46",
+    "regionTvd": "100100095817",
+    "regionName": "Курская область",
+    "district": {
+      "districtNumber": 97,
+      "oikTvd": "100100095818",
+      "oikName": "Курский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 11,
       "Число бюллетеней, полученных участковыми комиссиями": 25,

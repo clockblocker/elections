@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170482",
     "tikName": "Жердевская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 26109,
@@ -114,6 +117,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170499",
     "tikName": "Знаменская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 16074,
@@ -204,6 +210,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170500",
     "tikName": "Мичуринская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 26778,
@@ -319,6 +328,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170502",
     "tikName": "Мордовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 18018,
@@ -423,6 +435,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170503",
     "tikName": "Моршанская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 62,
     "accounting": {
       "Число избирателей, внесенных в списки": 29941,
@@ -550,6 +565,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170504",
     "tikName": "Моршанская городская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 36570,
@@ -638,6 +656,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170505",
     "tikName": "Никифоровская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 18494,
@@ -734,6 +755,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170506",
     "tikName": "Первомайская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 24962,
@@ -830,6 +854,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170507",
     "tikName": "Петровская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 17797,
@@ -932,6 +959,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170508",
     "tikName": "Ржаксинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 16665,
@@ -1030,6 +1060,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170509",
     "tikName": "Сампурская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 12435,
@@ -1117,6 +1150,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170510",
     "tikName": "Сосновская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 50,
     "accounting": {
       "Число избирателей, внесенных в списки": 30623,
@@ -1232,6 +1268,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170511",
     "tikName": "Староюрьевская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 12892,
@@ -1325,6 +1364,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170512",
     "tikName": "Токаревская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 16435,
@@ -1420,6 +1462,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170513",
     "tikName": "Уваровская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 9835,
@@ -1510,6 +1555,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170514",
     "tikName": "Уваровская городская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 25121,
@@ -1591,6 +1639,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170516",
     "tikName": "Пичаевская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 12707,
@@ -1681,6 +1732,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300170901",
     "tikName": "Мичуринская городская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки": 78454,
@@ -1794,6 +1848,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300270571",
     "tikName": "Тамбов, Ленинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 34070,
@@ -1881,6 +1938,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300270586",
     "tikName": "Кирсановская ",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 17138,
@@ -1978,6 +2038,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300270587",
     "tikName": "Кирсановская городская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 14169,
@@ -2057,6 +2120,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300270588",
     "tikName": "Котовская городская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 14,
     "accounting": {
       "Число избирателей, внесенных в списки": 28777,
@@ -2136,6 +2202,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300270590",
     "tikName": "Рассказовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 17330,
@@ -2235,6 +2304,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300270591",
     "tikName": "Рассказовская городская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 37001,
@@ -2321,6 +2393,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300270592",
     "tikName": "Тамбов, Октябрьская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в списки": 128231,
@@ -2445,6 +2520,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300270593",
     "tikName": "Тамбовская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 65,
     "accounting": {
       "Число избирателей, внесенных в списки": 77220,
@@ -2575,6 +2653,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300270594",
     "tikName": "Уметская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 10200,
@@ -2659,6 +2740,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300270595",
     "tikName": "Бондарская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 12228,
@@ -2747,6 +2831,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300270596",
     "tikName": "Гавриловская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 10247,
@@ -2833,6 +2920,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300270597",
     "tikName": "Инжавинская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки": 21261,
@@ -2940,6 +3030,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300270599",
     "tikName": "Тамбов, Советская",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 76063,
@@ -3042,6 +3135,9 @@ export const duma_2003_tic_431_region_68 = [
     "ballot": "party",
     "tikTvd": "368300271406",
     "tikName": "Мучкапская  ",
+    "regionCode": "68",
+    "regionTvd": "100100095629",
+    "regionName": "Тамбовская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 14441,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 985,
     "uikTvd": "429403171004",
+    "uikName": "УИК №985",
     "tikTvd": "229200070518",
     "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1016,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 986,
     "uikTvd": "429403171005",
+    "uikName": "УИК №986",
     "tikTvd": "229200070518",
     "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 497,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 987,
     "uikTvd": "429403171006",
+    "uikName": "УИК №987",
     "tikTvd": "229200070518",
     "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 78,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 988,
     "uikTvd": "429403171007",
+    "uikName": "УИК №988",
     "tikTvd": "229200070518",
     "tikName": "Холмогорская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "429403071486",
+    "uikName": "УИК №893",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 394,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "429403071488",
+    "uikName": "УИК №894",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 149,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "429403071489",
+    "uikName": "УИК №895",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 404,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "429403071490",
+    "uikName": "УИК №896",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 711,
       "Число бюллетеней, полученных участковыми комиссиями": 709,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "429403071491",
+    "uikName": "УИК №897",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 59,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "429403071492",
+    "uikName": "УИК №898",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "429403071493",
+    "uikName": "УИК №899",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "429403071494",
+    "uikName": "УИК №900",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 336,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "429403071495",
+    "uikName": "УИК №901",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "429403071496",
+    "uikName": "УИК №902",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "429403071497",
+    "uikName": "УИК №903",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 684,
       "Число бюллетеней, полученных участковыми комиссиями": 712,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "429403071498",
+    "uikName": "УИК №904",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 607,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "429403071499",
+    "uikName": "УИК №905",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 542,
       "Число бюллетеней, полученных участковыми комиссиями": 558,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "429403071500",
+    "uikName": "УИК №906",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 141,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "429403071501",
+    "uikName": "УИК №907",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 337,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "429403071502",
+    "uikName": "УИК №908",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 176,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "429403071503",
+    "uikName": "УИК №909",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 566,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "429403071504",
+    "uikName": "УИК №910",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1020,
       "Число бюллетеней, полученных участковыми комиссиями": 987,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "429403071505",
+    "uikName": "УИК №911",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1003,
       "Число бюллетеней, полученных участковыми комиссиями": 984,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "429403071506",
+    "uikName": "УИК №912",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 913,
     "uikTvd": "429403071507",
+    "uikName": "УИК №913",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 478,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "429403071508",
+    "uikName": "УИК №914",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2866,
       "Число бюллетеней, полученных участковыми комиссиями": 2779,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "429403071509",
+    "uikName": "УИК №915",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2102,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "429403071510",
+    "uikName": "УИК №916",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2735,
       "Число бюллетеней, полученных участковыми комиссиями": 2614,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 917,
     "uikTvd": "429403071511",
+    "uikName": "УИК №917",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 247,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 918,
     "uikTvd": "429403071512",
+    "uikName": "УИК №918",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 149,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 919,
     "uikTvd": "429403071513",
+    "uikName": "УИК №919",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 920,
     "uikTvd": "429403071514",
+    "uikName": "УИК №920",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 54,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 921,
     "uikTvd": "429403071515",
+    "uikName": "УИК №921",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 922,
     "uikTvd": "429403071516",
+    "uikName": "УИК №922",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 496,
       "Число бюллетеней, полученных участковыми комиссиями": 487,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 923,
     "uikTvd": "429403071517",
+    "uikName": "УИК №923",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 924,
     "uikTvd": "429403071518",
+    "uikName": "УИК №924",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 81,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 925,
     "uikTvd": "429403071519",
+    "uikName": "УИК №925",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 472,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 926,
     "uikTvd": "429403071520",
+    "uikName": "УИК №926",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 577,
       "Число бюллетеней, полученных участковыми комиссиями": 574,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 927,
     "uikTvd": "429403071521",
+    "uikName": "УИК №927",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 928,
     "uikTvd": "429403071522",
+    "uikName": "УИК №928",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "429403071523",
+    "uikName": "УИК №929",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 403,
       "Число бюллетеней, полученных участковыми комиссиями": 392,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "429403071524",
+    "uikName": "УИК №930",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 609,
       "Число бюллетеней, полученных участковыми комиссиями": 598,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "429403071525",
+    "uikName": "УИК №931",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 129,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "429403071526",
+    "uikName": "УИК №932",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "429403071527",
+    "uikName": "УИК №933",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1264,
       "Число бюллетеней, полученных участковыми комиссиями": 1267,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "429403071528",
+    "uikName": "УИК №934",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1586,
       "Число бюллетеней, полученных участковыми комиссиями": 1497,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "429403071529",
+    "uikName": "УИК №935",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 507,
       "Число бюллетеней, полученных участковыми комиссиями": 488,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "429403071530",
+    "uikName": "УИК №936",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 659,
       "Число бюллетеней, полученных участковыми комиссиями": 653,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "429403071531",
+    "uikName": "УИК №937",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "429403071532",
+    "uikName": "УИК №938",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 939,
     "uikTvd": "429403071533",
+    "uikName": "УИК №939",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 940,
     "uikTvd": "429403071534",
+    "uikName": "УИК №940",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 941,
     "uikTvd": "429403071535",
+    "uikName": "УИК №941",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 942,
     "uikTvd": "429403071536",
+    "uikName": "УИК №942",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 601,
       "Число бюллетеней, полученных участковыми комиссиями": 614,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 943,
     "uikTvd": "429403071537",
+    "uikName": "УИК №943",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 228,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 944,
     "uikTvd": "429403071538",
+    "uikName": "УИК №944",
     "tikTvd": "229200070519",
     "tikName": "Устьянская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 501,
       "Число бюллетеней, полученных участковыми комиссиями": 508,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "429402670427",
+    "uikName": "УИК №727",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "429402670428",
+    "uikName": "УИК №728",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1601,
       "Число бюллетеней, полученных участковыми комиссиями": 1640,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "429402670429",
+    "uikName": "УИК №729",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1928,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "429402670430",
+    "uikName": "УИК №730",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 828,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "429402670431",
+    "uikName": "УИК №731",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "429402670432",
+    "uikName": "УИК №732",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "429402670433",
+    "uikName": "УИК №733",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "429402670434",
+    "uikName": "УИК №734",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1078,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "429402670435",
+    "uikName": "УИК №735",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 460,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 736,
     "uikTvd": "429402670436",
+    "uikName": "УИК №736",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1920,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 737,
     "uikTvd": "429402670437",
+    "uikName": "УИК №737",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1747,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 738,
     "uikTvd": "429402670438",
+    "uikName": "УИК №738",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1574,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 739,
     "uikTvd": "429402670439",
+    "uikName": "УИК №739",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 740,
     "uikTvd": "429402670440",
+    "uikName": "УИК №740",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 741,
     "uikTvd": "429402670441",
+    "uikName": "УИК №741",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 742,
     "uikTvd": "429402670442",
+    "uikName": "УИК №742",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2187,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 743,
     "uikTvd": "429402670443",
+    "uikName": "УИК №743",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2214,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 744,
     "uikTvd": "429402670444",
+    "uikName": "УИК №744",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1342,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 745,
     "uikTvd": "429402670445",
+    "uikName": "УИК №745",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1294,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 746,
     "uikTvd": "429402670446",
+    "uikName": "УИК №746",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 747,
     "uikTvd": "429402670447",
+    "uikName": "УИК №747",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 528,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 748,
     "uikTvd": "429402670448",
+    "uikName": "УИК №748",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 749,
     "uikTvd": "429402670449",
+    "uikName": "УИК №749",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 750,
     "uikTvd": "429402670450",
+    "uikName": "УИК №750",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1728,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 751,
     "uikTvd": "429402670451",
+    "uikName": "УИК №751",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2153,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 752,
     "uikTvd": "429402670452",
+    "uikName": "УИК №752",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 753,
     "uikTvd": "429402670453",
+    "uikName": "УИК №753",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2384,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 754,
     "uikTvd": "429402670454",
+    "uikName": "УИК №754",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2500,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 755,
     "uikTvd": "429402670455",
+    "uikName": "УИК №755",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 548,
       "Число бюллетеней, полученных участковыми комиссиями": 514,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 756,
     "uikTvd": "429402670456",
+    "uikName": "УИК №756",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 757,
     "uikTvd": "429402670457",
+    "uikName": "УИК №757",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 758,
     "uikTvd": "429402670458",
+    "uikName": "УИК №758",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 759,
     "uikTvd": "429402670459",
+    "uikName": "УИК №759",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 560,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 760,
     "uikTvd": "429402670460",
+    "uikName": "УИК №760",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2295,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 761,
     "uikTvd": "429402670461",
+    "uikName": "УИК №761",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 762,
     "uikTvd": "429402670462",
+    "uikName": "УИК №762",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 763,
     "uikTvd": "429402670463",
+    "uikName": "УИК №763",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 764,
     "uikTvd": "429402670464",
+    "uikName": "УИК №764",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 765,
     "uikTvd": "429402670465",
+    "uikName": "УИК №765",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 766,
     "uikTvd": "429402670466",
+    "uikName": "УИК №766",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "429402670467",
+    "uikName": "УИК №767",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "429402670468",
+    "uikName": "УИК №768",
     "tikTvd": "229200070520",
     "tikName": "Плесецкая",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 634,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "429402570462",
+    "uikName": "УИК №679",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "429402570463",
+    "uikName": "УИК №680",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 815,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "429402570464",
+    "uikName": "УИК №681",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "429402570465",
+    "uikName": "УИК №682",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "429402570466",
+    "uikName": "УИК №683",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "429402570467",
+    "uikName": "УИК №684",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "429402570468",
+    "uikName": "УИК №685",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 331,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "429402570469",
+    "uikName": "УИК №686",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 814,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "429402570470",
+    "uikName": "УИК №687",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 904,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "429402570471",
+    "uikName": "УИК №688",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "429402570472",
+    "uikName": "УИК №689",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "429402570473",
+    "uikName": "УИК №690",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "429402570474",
+    "uikName": "УИК №691",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "429402570475",
+    "uikName": "УИК №692",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 833,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "429402570476",
+    "uikName": "УИК №693",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "429402570477",
+    "uikName": "УИК №694",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "429402570478",
+    "uikName": "УИК №695",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "429402570479",
+    "uikName": "УИК №696",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "429402570480",
+    "uikName": "УИК №697",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 566,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "429402570481",
+    "uikName": "УИК №698",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1261,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "429402570482",
+    "uikName": "УИК №699",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "429402570483",
+    "uikName": "УИК №700",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 415,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "429402570484",
+    "uikName": "УИК №701",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 981,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "429402570485",
+    "uikName": "УИК №702",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 62,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "429402570486",
+    "uikName": "УИК №703",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 182,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "429402570487",
+    "uikName": "УИК №704",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "429402570488",
+    "uikName": "УИК №705",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 567,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "429402570489",
+    "uikName": "УИК №706",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1164,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "429402570490",
+    "uikName": "УИК №707",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 500,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "429402570491",
+    "uikName": "УИК №708",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1322,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "429402570492",
+    "uikName": "УИК №709",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "429402570493",
+    "uikName": "УИК №710",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 228,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "429402570494",
+    "uikName": "УИК №711",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "429402570495",
+    "uikName": "УИК №712",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "429402570496",
+    "uikName": "УИК №713",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "429402570497",
+    "uikName": "УИК №714",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "429402570498",
+    "uikName": "УИК №715",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "429402570499",
+    "uikName": "УИК №716",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "429402570500",
+    "uikName": "УИК №717",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "429402570501",
+    "uikName": "УИК №718",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "429402570502",
+    "uikName": "УИК №719",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "429402570503",
+    "uikName": "УИК №720",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 349,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "429402570504",
+    "uikName": "УИК №721",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1614,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "429402570505",
+    "uikName": "УИК №722",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 997,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "429402570506",
+    "uikName": "УИК №723",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "429402570507",
+    "uikName": "УИК №724",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 94,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "429402570508",
+    "uikName": "УИК №725",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "429402570509",
+    "uikName": "УИК №726",
     "tikTvd": "229200070521",
     "tikName": "Пинежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 93,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "429402470409",
+    "uikName": "УИК №640",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3190,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "429402470410",
+    "uikName": "УИК №641",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2799,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "429402470411",
+    "uikName": "УИК №642",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1855,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "429402470412",
+    "uikName": "УИК №643",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2196,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "429402470413",
+    "uikName": "УИК №644",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3153,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "429402470414",
+    "uikName": "УИК №645",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1771,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "429402470415",
+    "uikName": "УИК №646",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2007,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "429402470416",
+    "uikName": "УИК №647",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1559,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "429402470417",
+    "uikName": "УИК №648",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1525,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "429402470418",
+    "uikName": "УИК №649",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 554,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "429402470419",
+    "uikName": "УИК №650",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "429402470420",
+    "uikName": "УИК №651",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "429402470421",
+    "uikName": "УИК №652",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "429402470422",
+    "uikName": "УИК №653",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "429402470423",
+    "uikName": "УИК №654",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 522,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "429402470424",
+    "uikName": "УИК №655",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "429402470425",
+    "uikName": "УИК №656",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "429402470426",
+    "uikName": "УИК №657",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2218,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "429402470427",
+    "uikName": "УИК №658",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "429402470428",
+    "uikName": "УИК №659",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "429402470429",
+    "uikName": "УИК №660",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "429402470430",
+    "uikName": "УИК №661",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "429402470431",
+    "uikName": "УИК №662",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "429402470432",
+    "uikName": "УИК №663",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "429402470433",
+    "uikName": "УИК №664",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "429402470434",
+    "uikName": "УИК №665",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "429402470435",
+    "uikName": "УИК №666",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "429402470436",
+    "uikName": "УИК №667",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "429402470437",
+    "uikName": "УИК №668",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "429402470438",
+    "uikName": "УИК №669",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "429402470439",
+    "uikName": "УИК №670",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "429402470440",
+    "uikName": "УИК №671",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 672,
     "uikTvd": "429402470441",
+    "uikName": "УИК №672",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 479,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 673,
     "uikTvd": "429402470442",
+    "uikName": "УИК №673",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 674,
     "uikTvd": "429402470443",
+    "uikName": "УИК №674",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 675,
     "uikTvd": "429402470444",
+    "uikName": "УИК №675",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "429402470445",
+    "uikName": "УИК №676",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "429402470446",
+    "uikName": "УИК №677",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "429402470447",
+    "uikName": "УИК №678",
     "tikTvd": "229200070522",
     "tikName": "Онежская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "429402370590",
+    "uikName": "УИК №603",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1615,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "429402370591",
+    "uikName": "УИК №604",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "429402370592",
+    "uikName": "УИК №605",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "429402370593",
+    "uikName": "УИК №606",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1947,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "429402370594",
+    "uikName": "УИК №607",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1357,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "429402370595",
+    "uikName": "УИК №608",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "429402370596",
+    "uikName": "УИК №609",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1695,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "429402370597",
+    "uikName": "УИК №610",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1615,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "429402370598",
+    "uikName": "УИК №611",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1276,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "429402370599",
+    "uikName": "УИК №612",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1835,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "429402370600",
+    "uikName": "УИК №613",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 374,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "429402370601",
+    "uikName": "УИК №614",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1061,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "429402370602",
+    "uikName": "УИК №615",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "429402370603",
+    "uikName": "УИК №616",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "429402370604",
+    "uikName": "УИК №617",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 489,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "429402370605",
+    "uikName": "УИК №618",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "429402370606",
+    "uikName": "УИК №619",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "429402370607",
+    "uikName": "УИК №620",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "429402370608",
+    "uikName": "УИК №621",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "429402370609",
+    "uikName": "УИК №622",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "429402370610",
+    "uikName": "УИК №623",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 774,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "429402370611",
+    "uikName": "УИК №624",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 585,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "429402370612",
+    "uikName": "УИК №625",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "429402370613",
+    "uikName": "УИК №626",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "429402370614",
+    "uikName": "УИК №627",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "429402370615",
+    "uikName": "УИК №628",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "429402370616",
+    "uikName": "УИК №629",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 197,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "429402370617",
+    "uikName": "УИК №630",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "429402370618",
+    "uikName": "УИК №631",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 768,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "429402370619",
+    "uikName": "УИК №632",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "429402370620",
+    "uikName": "УИК №633",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 693,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "429402370621",
+    "uikName": "УИК №634",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 540,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "429402370622",
+    "uikName": "УИК №635",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "429402370623",
+    "uikName": "УИК №636",
     "tikTvd": "229200070523",
     "tikName": "Няндомская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "429402770567",
+    "uikName": "УИК №563",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3033,
       "Число бюллетеней, полученных участковыми комиссиями": 2441,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "429402770568",
+    "uikName": "УИК №564",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3067,
       "Число бюллетеней, полученных участковыми комиссиями": 2634,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "429402770569",
+    "uikName": "УИК №565",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2850,
       "Число бюллетеней, полученных участковыми комиссиями": 2367,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "429402770570",
+    "uikName": "УИК №566",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2725,
       "Число бюллетеней, полученных участковыми комиссиями": 2417,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "429402770571",
+    "uikName": "УИК №567",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2427,
       "Число бюллетеней, полученных участковыми комиссиями": 2165,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "429402770572",
+    "uikName": "УИК №568",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2516,
       "Число бюллетеней, полученных участковыми комиссиями": 2265,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "429402770573",
+    "uikName": "УИК №569",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2679,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "429402770574",
+    "uikName": "УИК №570",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 40,
       "Число бюллетеней, полученных участковыми комиссиями": 43,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "429402770575",
+    "uikName": "УИК №571",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 322,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "429402770576",
+    "uikName": "УИК №572",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 910,
       "Число бюллетеней, полученных участковыми комиссиями": 929,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "429402770577",
+    "uikName": "УИК №573",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 916,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "429402770578",
+    "uikName": "УИК №574",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "429402770579",
+    "uikName": "УИК №575",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "429402770580",
+    "uikName": "УИК №576",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 422,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "429402770581",
+    "uikName": "УИК №577",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "429402770582",
+    "uikName": "УИК №578",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "429402770583",
+    "uikName": "УИК №579",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 238,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "429402770584",
+    "uikName": "УИК №580",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 296,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "429402770585",
+    "uikName": "УИК №581",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "429402770586",
+    "uikName": "УИК №582",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 911,
       "Число бюллетеней, полученных участковыми комиссиями": 895,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "429402770587",
+    "uikName": "УИК №583",
     "tikTvd": "229200070524",
     "tikName": "Мирнинская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 422,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "429401970368",
+    "uikName": "УИК №486",
     "tikTvd": "229200070525",
     "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1660,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "429401970369",
+    "uikName": "УИК №487",
     "tikTvd": "229200070525",
     "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1673,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "429401970370",
+    "uikName": "УИК №488",
     "tikTvd": "229200070525",
     "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "429401970371",
+    "uikName": "УИК №489",
     "tikTvd": "229200070525",
     "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "429401970372",
+    "uikName": "УИК №490",
     "tikTvd": "229200070525",
     "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "429401970373",
+    "uikName": "УИК №491",
     "tikTvd": "229200070525",
     "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 469,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "429401970374",
+    "uikName": "УИК №492",
     "tikTvd": "229200070525",
     "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 468,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "429401970375",
+    "uikName": "УИК №493",
     "tikTvd": "229200070525",
     "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "429401970376",
+    "uikName": "УИК №494",
     "tikTvd": "229200070525",
     "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_29_part_003 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "429401970377",
+    "uikName": "УИК №495",
     "tikTvd": "229200070525",
     "tikName": " Ленская",
+    "regionCode": "29",
+    "regionTvd": "100100095809",
+    "regionName": "Архангельская область",
+    "district": {
+      "districtNumber": 62,
+      "oikTvd": "100100095811",
+      "oikName": "Котласский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 350,

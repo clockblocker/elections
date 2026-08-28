@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_84 = [
     "ballot": "single-member",
     "tikTvd": "284200066702",
     "tikName": "Хатангская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки": 4572,
@@ -69,6 +77,14 @@ export const duma_2003_tic_429_region_84 = [
     "ballot": "single-member",
     "tikTvd": "284200066703",
     "tikName": "Дудинская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 21672,
@@ -132,6 +148,14 @@ export const duma_2003_tic_429_region_84 = [
     "ballot": "single-member",
     "tikTvd": "284200066704",
     "tikName": "Усть-Енисейская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки": 2432,
@@ -186,6 +210,14 @@ export const duma_2003_tic_429_region_84 = [
     "ballot": "single-member",
     "tikTvd": "284200066705",
     "tikName": "Диксонская",
+    "regionCode": "84",
+    "regionTvd": "100100095622",
+    "regionName": "Таймырский (Долгано-Ненецкий) автономный округ",
+    "district": {
+      "districtNumber": 219,
+      "oikTvd": "100100095623",
+      "oikName": "Таймырский (Долгано-Ненецкий)"
+    },
     "uikCount": 2,
     "accounting": {
       "Число избирателей, включенных в списки": 921,

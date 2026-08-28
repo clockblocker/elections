@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_9 = [
     "ballot": "party",
     "tikTvd": "209200070435",
     "tikName": "Хабезская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 22024,
@@ -93,6 +96,9 @@ export const duma_2003_tic_431_region_9 = [
     "ballot": "party",
     "tikTvd": "209200070436",
     "tikName": "Черкесская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки": 83156,
@@ -210,6 +216,9 @@ export const duma_2003_tic_431_region_9 = [
     "ballot": "party",
     "tikTvd": "209200070437",
     "tikName": "Усть-Джегутинская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 33762,
@@ -299,6 +308,9 @@ export const duma_2003_tic_431_region_9 = [
     "ballot": "party",
     "tikTvd": "209200070438",
     "tikName": "Урупская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 15193,
@@ -381,6 +393,9 @@ export const duma_2003_tic_431_region_9 = [
     "ballot": "party",
     "tikTvd": "209200070439",
     "tikName": "Прикубанская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 26134,
@@ -470,6 +485,9 @@ export const duma_2003_tic_431_region_9 = [
     "ballot": "party",
     "tikTvd": "209200070440",
     "tikName": "Малокарачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 25570,
@@ -552,6 +570,9 @@ export const duma_2003_tic_431_region_9 = [
     "ballot": "party",
     "tikTvd": "209200070441",
     "tikName": "Зеленчукская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 39244,
@@ -654,6 +675,9 @@ export const duma_2003_tic_431_region_9 = [
     "ballot": "party",
     "tikTvd": "209200070442",
     "tikName": "Карачаевская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 18238,
@@ -735,6 +759,9 @@ export const duma_2003_tic_431_region_9 = [
     "ballot": "party",
     "tikTvd": "209200070443",
     "tikName": "Карачаевская городская",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 22990,
@@ -818,6 +845,9 @@ export const duma_2003_tic_431_region_9 = [
     "ballot": "party",
     "tikTvd": "209200070444",
     "tikName": "Адыге-Хабльская ТИК",
+    "regionCode": "9",
+    "regionTvd": "100100095805",
+    "regionName": "Карачаево-Черкесская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 20387,

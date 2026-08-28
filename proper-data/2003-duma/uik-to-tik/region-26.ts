@@ -7,7789 +7,19471 @@ export const duma_2003_uik_to_tik_region_26 = [
   {
     "uikNumber": 1,
     "uikTvd": "426402970797",
+    "uikName": "УИК №1",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "426402970798",
+    "uikName": "УИК №2",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "426402970799",
+    "uikName": "УИК №3",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "426402970800",
+    "uikName": "УИК №4",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "426402970801",
+    "uikName": "УИК №5",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "426402970802",
+    "uikName": "УИК №6",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "426402970803",
+    "uikName": "УИК №7",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "426402970804",
+    "uikName": "УИК №8",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "426402970805",
+    "uikName": "УИК №9",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "426402970806",
+    "uikName": "УИК №10",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "426402970807",
+    "uikName": "УИК №11",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "426402970808",
+    "uikName": "УИК №12",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "426402970809",
+    "uikName": "УИК №13",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "426402970810",
+    "uikName": "УИК №14",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "426402970811",
+    "uikName": "УИК №15",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "426402970812",
+    "uikName": "УИК №16",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "426402970813",
+    "uikName": "УИК №17",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "426402970814",
+    "uikName": "УИК №18",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "426402970815",
+    "uikName": "УИК №19",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "426402970816",
+    "uikName": "УИК №20",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "426402970817",
+    "uikName": "УИК №21",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "426402970818",
+    "uikName": "УИК №22",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "426402970819",
+    "uikName": "УИК №23",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "426402970820",
+    "uikName": "УИК №24",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "426402970821",
+    "uikName": "УИК №25",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "426402970822",
+    "uikName": "УИК №26",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "426402970823",
+    "uikName": "УИК №27",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "426402970824",
+    "uikName": "УИК №28",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "426402970825",
+    "uikName": "УИК №29",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "426402970826",
+    "uikName": "УИК №30",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "426402970827",
+    "uikName": "УИК №31",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "426402970828",
+    "uikName": "УИК №32",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "426402970829",
+    "uikName": "УИК №33",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "426402970830",
+    "uikName": "УИК №34",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "426402970831",
+    "uikName": "УИК №35",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "426402970832",
+    "uikName": "УИК №36",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "426402970833",
+    "uikName": "УИК №37",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "426402970834",
+    "uikName": "УИК №38",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "426402970835",
+    "uikName": "УИК №39",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "426402970836",
+    "uikName": "УИК №40",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "426402970837",
+    "uikName": "УИК №41",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "426402970838",
+    "uikName": "УИК №42",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "426402970839",
+    "uikName": "УИК №43",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "426402970840",
+    "uikName": "УИК №44",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "426402970841",
+    "uikName": "УИК №45",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "426402970842",
+    "uikName": "УИК №46",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "426402970843",
+    "uikName": "УИК №47",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "426402970844",
+    "uikName": "УИК №48",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "426402970845",
+    "uikName": "УИК №49",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "426402970846",
+    "uikName": "УИК №50",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "426402970847",
+    "uikName": "УИК №51",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "426402970848",
+    "uikName": "УИК №52",
     "tikTvd": "326300470443",
-    "tikName": "Ставрополь, Ленинская"
+    "tikName": "Ставрополь, Ленинская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "426403070931",
+    "uikName": "УИК №53",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "426403070932",
+    "uikName": "УИК №54",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "426403070933",
+    "uikName": "УИК №55",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "426403070934",
+    "uikName": "УИК №56",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "426403070623",
+    "uikName": "УИК №57",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "426403070624",
+    "uikName": "УИК №58",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "426403070625",
+    "uikName": "УИК №59",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "426403070616",
+    "uikName": "УИК №60",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "426403070593",
+    "uikName": "УИК №61",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "426403070594",
+    "uikName": "УИК №62",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "426403070595",
+    "uikName": "УИК №63",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "426403070596",
+    "uikName": "УИК №64",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "426403070597",
+    "uikName": "УИК №65",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "426403070598",
+    "uikName": "УИК №66",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "426403070599",
+    "uikName": "УИК №67",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "426403070600",
+    "uikName": "УИК №68",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "426403070601",
+    "uikName": "УИК №69",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "426403070602",
+    "uikName": "УИК №70",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "426403070603",
+    "uikName": "УИК №71",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "426403070604",
+    "uikName": "УИК №72",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "426403070605",
+    "uikName": "УИК №73",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "426403070606",
+    "uikName": "УИК №74",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "426403070607",
+    "uikName": "УИК №75",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "426403070608",
+    "uikName": "УИК №76",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "426403070609",
+    "uikName": "УИК №77",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "426403070610",
+    "uikName": "УИК №78",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "426403070611",
+    "uikName": "УИК №79",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "426403070747",
+    "uikName": "УИК №80",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "426403070748",
+    "uikName": "УИК №81",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "426403070749",
+    "uikName": "УИК №82",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "426403070750",
+    "uikName": "УИК №83",
     "tikTvd": "326300470444",
-    "tikName": "Ставрополь, Октябрьская"
+    "tikName": "Ставрополь, Октябрьская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "426403170501",
+    "uikName": "УИК №84",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "426403170502",
+    "uikName": "УИК №85",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "426403170667",
+    "uikName": "УИК №86",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "426403170668",
+    "uikName": "УИК №87",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "426403170669",
+    "uikName": "УИК №88",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "426403170670",
+    "uikName": "УИК №89",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "426403170671",
+    "uikName": "УИК №90",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "426403170672",
+    "uikName": "УИК №91",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "426403170673",
+    "uikName": "УИК №92",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "426403170674",
+    "uikName": "УИК №93",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "426403170675",
+    "uikName": "УИК №94",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "426403170676",
+    "uikName": "УИК №95",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "426403170677",
+    "uikName": "УИК №96",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "426403170678",
+    "uikName": "УИК №97",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "426403170679",
+    "uikName": "УИК №98",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "426403170680",
+    "uikName": "УИК №99",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "426403170681",
+    "uikName": "УИК №100",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "426403170682",
+    "uikName": "УИК №101",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "426403170683",
+    "uikName": "УИК №102",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "426403170684",
+    "uikName": "УИК №103",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "426403170685",
+    "uikName": "УИК №104",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "426403170686",
+    "uikName": "УИК №105",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "426403170687",
+    "uikName": "УИК №106",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "426403170688",
+    "uikName": "УИК №107",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "426403170689",
+    "uikName": "УИК №108",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "426403170690",
+    "uikName": "УИК №109",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "426403170691",
+    "uikName": "УИК №110",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "426403170692",
+    "uikName": "УИК №111",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "426403170693",
+    "uikName": "УИК №112",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "426403170694",
+    "uikName": "УИК №113",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "426403170695",
+    "uikName": "УИК №114",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "426403170696",
+    "uikName": "УИК №115",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "426403170697",
+    "uikName": "УИК №116",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "426403170698",
+    "uikName": "УИК №117",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "426403170699",
+    "uikName": "УИК №118",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "426403170700",
+    "uikName": "УИК №119",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "426403170701",
+    "uikName": "УИК №120",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "426403170702",
+    "uikName": "УИК №121",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "426403170703",
+    "uikName": "УИК №122",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "426403170704",
+    "uikName": "УИК №123",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "426403170705",
+    "uikName": "УИК №124",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "426403170706",
+    "uikName": "УИК №125",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "426403170707",
+    "uikName": "УИК №126",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "426403170708",
+    "uikName": "УИК №127",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "426403170709",
+    "uikName": "УИК №128",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "426403170710",
+    "uikName": "УИК №129",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "426403170711",
+    "uikName": "УИК №130",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "426403170712",
+    "uikName": "УИК №131",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "426403170713",
+    "uikName": "УИК №132",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "426403170714",
+    "uikName": "УИК №133",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "426403170715",
+    "uikName": "УИК №134",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "426403170716",
+    "uikName": "УИК №135",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "426403170717",
+    "uikName": "УИК №136",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "426403170718",
+    "uikName": "УИК №137",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "426403170719",
+    "uikName": "УИК №138",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "426403170720",
+    "uikName": "УИК №139",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "426403170721",
+    "uikName": "УИК №140",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "426403170722",
+    "uikName": "УИК №141",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "426403170723",
+    "uikName": "УИК №142",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "426403170724",
+    "uikName": "УИК №143",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "426403170725",
+    "uikName": "УИК №144",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "426403170726",
+    "uikName": "УИК №145",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "426403170727",
+    "uikName": "УИК №146",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "426403170728",
+    "uikName": "УИК №147",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "426403170729",
+    "uikName": "УИК №148",
     "tikTvd": "326300470445",
-    "tikName": "Ставрополь, Промышленная"
+    "tikName": "Ставрополь, Промышленная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "426400170370",
+    "uikName": "УИК №149",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "426400170371",
+    "uikName": "УИК №150",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "426400170372",
+    "uikName": "УИК №151",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "426400170373",
+    "uikName": "УИК №152",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "426400170374",
+    "uikName": "УИК №153",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "426400170375",
+    "uikName": "УИК №154",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "426400170376",
+    "uikName": "УИК №155",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "426400170377",
+    "uikName": "УИК №156",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "426400170378",
+    "uikName": "УИК №157",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "426400170379",
+    "uikName": "УИК №158",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "426400170380",
+    "uikName": "УИК №159",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "426400170381",
+    "uikName": "УИК №160",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "426400170382",
+    "uikName": "УИК №161",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "426400170383",
+    "uikName": "УИК №162",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "426400170384",
+    "uikName": "УИК №163",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "426400170385",
+    "uikName": "УИК №164",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "426400170386",
+    "uikName": "УИК №165",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "426400170387",
+    "uikName": "УИК №166",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "426400170388",
+    "uikName": "УИК №167",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "426400170389",
+    "uikName": "УИК №168",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "426400170390",
+    "uikName": "УИК №169",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "426400170391",
+    "uikName": "УИК №170",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "426400170392",
+    "uikName": "УИК №171",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "426400170393",
+    "uikName": "УИК №172",
     "tikTvd": "326300171846",
-    "tikName": "Александровская"
+    "tikName": "Александровская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "426400270412",
+    "uikName": "УИК №173",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "426400270413",
+    "uikName": "УИК №174",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "426400270414",
+    "uikName": "УИК №175",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "426400270415",
+    "uikName": "УИК №176",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "426400270416",
+    "uikName": "УИК №177",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "426400270417",
+    "uikName": "УИК №178",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "426400270418",
+    "uikName": "УИК №179",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "426400270419",
+    "uikName": "УИК №180",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "426400270420",
+    "uikName": "УИК №181",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "426400270421",
+    "uikName": "УИК №182",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "426400270422",
+    "uikName": "УИК №183",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "426400270423",
+    "uikName": "УИК №184",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "426400270424",
+    "uikName": "УИК №185",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "426400270425",
+    "uikName": "УИК №186",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "426400270426",
+    "uikName": "УИК №187",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "426400270427",
+    "uikName": "УИК №188",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "426400270428",
+    "uikName": "УИК №189",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "426400270429",
+    "uikName": "УИК №190",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "426400270430",
+    "uikName": "УИК №191",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "426400270431",
+    "uikName": "УИК №192",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "426400270432",
+    "uikName": "УИК №193",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "426400270433",
+    "uikName": "УИК №194",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "426400270434",
+    "uikName": "УИК №195",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "426400270435",
+    "uikName": "УИК №196",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "426400270436",
+    "uikName": "УИК №197",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "426400270437",
+    "uikName": "УИК №198",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "426400270438",
+    "uikName": "УИК №199",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "426400270439",
+    "uikName": "УИК №200",
     "tikTvd": "326300370424",
-    "tikName": "Андроповская"
+    "tikName": "Андроповская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "426400370381",
+    "uikName": "УИК №201",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "426400370382",
+    "uikName": "УИК №202",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "426400370383",
+    "uikName": "УИК №203",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "426400370384",
+    "uikName": "УИК №204",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "426400370385",
+    "uikName": "УИК №205",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "426400370386",
+    "uikName": "УИК №206",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "426400370387",
+    "uikName": "УИК №207",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "426400370388",
+    "uikName": "УИК №208",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "426400370389",
+    "uikName": "УИК №209",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "426400370390",
+    "uikName": "УИК №210",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "426400370391",
+    "uikName": "УИК №211",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "426400370392",
+    "uikName": "УИК №212",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "426400370393",
+    "uikName": "УИК №213",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "426400370394",
+    "uikName": "УИК №214",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "426400370395",
+    "uikName": "УИК №215",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "426400370396",
+    "uikName": "УИК №216",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "426400370397",
+    "uikName": "УИК №217",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "426400370398",
+    "uikName": "УИК №218",
     "tikTvd": "326300370423",
-    "tikName": "Апанасенковская "
+    "tikName": "Апанасенковская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "426400470376",
+    "uikName": "УИК №219",
     "tikTvd": "326300370422",
-    "tikName": "Арзгирская"
+    "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "426400470377",
+    "uikName": "УИК №220",
     "tikTvd": "326300370422",
-    "tikName": "Арзгирская"
+    "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "426400470378",
+    "uikName": "УИК №221",
     "tikTvd": "326300370422",
-    "tikName": "Арзгирская"
+    "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "426400470379",
+    "uikName": "УИК №222",
     "tikTvd": "326300370422",
-    "tikName": "Арзгирская"
+    "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "426400470380",
+    "uikName": "УИК №223",
     "tikTvd": "326300370422",
-    "tikName": "Арзгирская"
+    "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "426400470381",
+    "uikName": "УИК №224",
     "tikTvd": "326300370422",
-    "tikName": "Арзгирская"
+    "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "426400470382",
+    "uikName": "УИК №225",
     "tikTvd": "326300370422",
-    "tikName": "Арзгирская"
+    "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "426400470383",
+    "uikName": "УИК №226",
     "tikTvd": "326300370422",
-    "tikName": "Арзгирская"
+    "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "426400470384",
+    "uikName": "УИК №227",
     "tikTvd": "326300370422",
-    "tikName": "Арзгирская"
+    "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "426400470385",
+    "uikName": "УИК №228",
     "tikTvd": "326300370422",
-    "tikName": "Арзгирская"
+    "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "426400470386",
+    "uikName": "УИК №229",
     "tikTvd": "326300370422",
-    "tikName": "Арзгирская"
+    "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "426400470387",
+    "uikName": "УИК №230",
     "tikTvd": "326300370422",
-    "tikName": "Арзгирская"
+    "tikName": "Арзгирская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "426400570413",
+    "uikName": "УИК №231",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "426400570414",
+    "uikName": "УИК №232",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "426400570415",
+    "uikName": "УИК №233",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "426400570416",
+    "uikName": "УИК №234",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "426400570417",
+    "uikName": "УИК №235",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "426400570418",
+    "uikName": "УИК №236",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "426400570419",
+    "uikName": "УИК №237",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "426400570420",
+    "uikName": "УИК №238",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "426400570421",
+    "uikName": "УИК №239",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "426400570422",
+    "uikName": "УИК №240",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "426400570423",
+    "uikName": "УИК №241",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "426400570424",
+    "uikName": "УИК №242",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "426400570425",
+    "uikName": "УИК №243",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "426400570426",
+    "uikName": "УИК №244",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "426400570427",
+    "uikName": "УИК №245",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "426400570428",
+    "uikName": "УИК №246",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "426400570429",
+    "uikName": "УИК №247",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "426400570430",
+    "uikName": "УИК №248",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "426400570431",
+    "uikName": "УИК №249",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "426400570432",
+    "uikName": "УИК №250",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "426400570433",
+    "uikName": "УИК №251",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "426400570434",
+    "uikName": "УИК №252",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "426400570435",
+    "uikName": "УИК №253",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "426400570436",
+    "uikName": "УИК №254",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "426400570437",
+    "uikName": "УИК №255",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "426400570438",
+    "uikName": "УИК №256",
     "tikTvd": "326300370421",
-    "tikName": "Благодарненская"
+    "tikName": "Благодарненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "426400670598",
+    "uikName": "УИК №257",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "426400670599",
+    "uikName": "УИК №258",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "426400670600",
+    "uikName": "УИК №259",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "426400670601",
+    "uikName": "УИК №260",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "426400670602",
+    "uikName": "УИК №261",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "426400670603",
+    "uikName": "УИК №262",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "426400670604",
+    "uikName": "УИК №263",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "426400670605",
+    "uikName": "УИК №264",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "426400670606",
+    "uikName": "УИК №265",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "426400670607",
+    "uikName": "УИК №266",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "426400670608",
+    "uikName": "УИК №267",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "426400670609",
+    "uikName": "УИК №268",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "426400670610",
+    "uikName": "УИК №269",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "426400670611",
+    "uikName": "УИК №270",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "426400670612",
+    "uikName": "УИК №271",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "426400670613",
+    "uikName": "УИК №272",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "426400670614",
+    "uikName": "УИК №273",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "426400670615",
+    "uikName": "УИК №274",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "426400670616",
+    "uikName": "УИК №275",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "426400670617",
+    "uikName": "УИК №276",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "426400670618",
+    "uikName": "УИК №277",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "426400670619",
+    "uikName": "УИК №278",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "426400670620",
+    "uikName": "УИК №279",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "426400670621",
+    "uikName": "УИК №280",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "426400670622",
+    "uikName": "УИК №281",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "426400670623",
+    "uikName": "УИК №282",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "426400670624",
+    "uikName": "УИК №283",
     "tikTvd": "326300171246",
-    "tikName": "Буденновская "
+    "tikName": "Буденновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "426400772599",
+    "uikName": "УИК №284",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "426400772600",
+    "uikName": "УИК №285",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "426400772601",
+    "uikName": "УИК №286",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "426400772602",
+    "uikName": "УИК №287",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "426400772603",
+    "uikName": "УИК №288",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "426400772604",
+    "uikName": "УИК №289",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "426400772605",
+    "uikName": "УИК №290",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "426400772606",
+    "uikName": "УИК №291",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "426400772607",
+    "uikName": "УИК №292",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "426400772608",
+    "uikName": "УИК №293",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "426400772609",
+    "uikName": "УИК №294",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "426400772610",
+    "uikName": "УИК №295",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "426400772611",
+    "uikName": "УИК №296",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "426400772612",
+    "uikName": "УИК №297",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "426400772613",
+    "uikName": "УИК №298",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "426400772614",
+    "uikName": "УИК №299",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "426400772615",
+    "uikName": "УИК №300",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "426400772616",
+    "uikName": "УИК №301",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "426400772617",
+    "uikName": "УИК №302",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "426400772618",
+    "uikName": "УИК №303",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "426400772619",
+    "uikName": "УИК №304",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "426400772620",
+    "uikName": "УИК №305",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "426400772621",
+    "uikName": "УИК №306",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "426400772622",
+    "uikName": "УИК №307",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "426400772623",
+    "uikName": "УИК №308",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "426400772624",
+    "uikName": "УИК №309",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "426400772625",
+    "uikName": "УИК №310",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "426400772626",
+    "uikName": "УИК №311",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "426400772627",
+    "uikName": "УИК №312",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "426400772628",
+    "uikName": "УИК №313",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "426400772629",
+    "uikName": "УИК №314",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "426400772630",
+    "uikName": "УИК №315",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "426400772631",
+    "uikName": "УИК №316",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "426400772632",
+    "uikName": "УИК №317",
     "tikTvd": "326300171847",
-    "tikName": "Георгиевская"
+    "tikName": "Георгиевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "426400870422",
+    "uikName": "УИК №318",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "426400870423",
+    "uikName": "УИК №319",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "426400870424",
+    "uikName": "УИК №320",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "426400870425",
+    "uikName": "УИК №321",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "426400870426",
+    "uikName": "УИК №322",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "426400870427",
+    "uikName": "УИК №323",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "426400870428",
+    "uikName": "УИК №324",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "426400870429",
+    "uikName": "УИК №325",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "426400870430",
+    "uikName": "УИК №326",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "426400870431",
+    "uikName": "УИК №327",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "426400870432",
+    "uikName": "УИК №328",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "426400870433",
+    "uikName": "УИК №329",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "426400870434",
+    "uikName": "УИК №330",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "426400870435",
+    "uikName": "УИК №331",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "426400870436",
+    "uikName": "УИК №332",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "426400870437",
+    "uikName": "УИК №333",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "426400871003",
+    "uikName": "УИК №334",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "426400870439",
+    "uikName": "УИК №335",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "426400870440",
+    "uikName": "УИК №336",
     "tikTvd": "326300370420",
-    "tikName": "Грачевская "
+    "tikName": "Грачевская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "426400970450",
+    "uikName": "УИК №337",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "426400970451",
+    "uikName": "УИК №338",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "426400970452",
+    "uikName": "УИК №339",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "426400970453",
+    "uikName": "УИК №340",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "426400970454",
+    "uikName": "УИК №341",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "426400970455",
+    "uikName": "УИК №342",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "426400970456",
+    "uikName": "УИК №343",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "426400970457",
+    "uikName": "УИК №344",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "426400970458",
+    "uikName": "УИК №345",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "426400970459",
+    "uikName": "УИК №346",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "426400970460",
+    "uikName": "УИК №347",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "426400970461",
+    "uikName": "УИК №348",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "426400970462",
+    "uikName": "УИК №349",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "426400970463",
+    "uikName": "УИК №350",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "426400970464",
+    "uikName": "УИК №351",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "426400970465",
+    "uikName": "УИК №352",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "426400970466",
+    "uikName": "УИК №353",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "426400970467",
+    "uikName": "УИК №354",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "426400970468",
+    "uikName": "УИК №355",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "426400970469",
+    "uikName": "УИК №356",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "426400970470",
+    "uikName": "УИК №357",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "426400970471",
+    "uikName": "УИК №358",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "426400970472",
+    "uikName": "УИК №359",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "426400970473",
+    "uikName": "УИК №360",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "426400970474",
+    "uikName": "УИК №361",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "426400970475",
+    "uikName": "УИК №362",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "426400970476",
+    "uikName": "УИК №363",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "426400970477",
+    "uikName": "УИК №364",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "426400970478",
+    "uikName": "УИК №365",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "426400970479",
+    "uikName": "УИК №366",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "426400970480",
+    "uikName": "УИК №367",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "426400970481",
+    "uikName": "УИК №368",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "426400970482",
+    "uikName": "УИК №369",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "426400970483",
+    "uikName": "УИК №370",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "426400970484",
+    "uikName": "УИК №371",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "426400970485",
+    "uikName": "УИК №372",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "426400970486",
+    "uikName": "УИК №373",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "426400970487",
+    "uikName": "УИК №374",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "426400970488",
+    "uikName": "УИК №375",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "426400970489",
+    "uikName": "УИК №376",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "426400970490",
+    "uikName": "УИК №377",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "426400970491",
+    "uikName": "УИК №378",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "426400970492",
+    "uikName": "УИК №379",
     "tikTvd": "326300271127",
-    "tikName": "Ессентукская городская"
+    "tikName": "Ессентукская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "426401070573",
+    "uikName": "УИК №380",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "426401070574",
+    "uikName": "УИК №381",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "426401070575",
+    "uikName": "УИК №382",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "426401070576",
+    "uikName": "УИК №383",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "426401070577",
+    "uikName": "УИК №384",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "426401070578",
+    "uikName": "УИК №385",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "426401070579",
+    "uikName": "УИК №386",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "426401070580",
+    "uikName": "УИК №387",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "426401070581",
+    "uikName": "УИК №388",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "426401070582",
+    "uikName": "УИК №389",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "426401070583",
+    "uikName": "УИК №390",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "426401070584",
+    "uikName": "УИК №391",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "426401070585",
+    "uikName": "УИК №392",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "426401070586",
+    "uikName": "УИК №393",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "426401070587",
+    "uikName": "УИК №394",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "426401070588",
+    "uikName": "УИК №395",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "426401070589",
+    "uikName": "УИК №396",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "426401070590",
+    "uikName": "УИК №397",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "426401070591",
+    "uikName": "УИК №398",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "426401070592",
+    "uikName": "УИК №399",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "426401070593",
+    "uikName": "УИК №400",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "426401070594",
+    "uikName": "УИК №401",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "426401070595",
+    "uikName": "УИК №402",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "426401070596",
+    "uikName": "УИК №403",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "426401070597",
+    "uikName": "УИК №404",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "426401070598",
+    "uikName": "УИК №405",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "426401070599",
+    "uikName": "УИК №406",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "426401070600",
+    "uikName": "УИК №407",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "426401070601",
+    "uikName": "УИК №408",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "426401070602",
+    "uikName": "УИК №409",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "426401070603",
+    "uikName": "УИК №410",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "426401070604",
+    "uikName": "УИК №411",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "426401070605",
+    "uikName": "УИК №412",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "426401070606",
+    "uikName": "УИК №413",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "426401070607",
+    "uikName": "УИК №414",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "426401070608",
+    "uikName": "УИК №415",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "426401070609",
+    "uikName": "УИК №416",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "426401070610",
+    "uikName": "УИК №417",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "426401070611",
+    "uikName": "УИК №418",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "426401070612",
+    "uikName": "УИК №419",
     "tikTvd": "326300271128",
-    "tikName": "Железноводская городская"
+    "tikName": "Железноводская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "426401170435",
+    "uikName": "УИК №420",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "426401170436",
+    "uikName": "УИК №421",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "426401170437",
+    "uikName": "УИК №422",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "426401170438",
+    "uikName": "УИК №423",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "426401170439",
+    "uikName": "УИК №424",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "426401170440",
+    "uikName": "УИК №425",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "426401170441",
+    "uikName": "УИК №426",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "426401170442",
+    "uikName": "УИК №427",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "426401170443",
+    "uikName": "УИК №428",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "426401170491",
+    "uikName": "УИК №429",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "426401170444",
+    "uikName": "УИК №430",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "426401170445",
+    "uikName": "УИК №431",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "426401170446",
+    "uikName": "УИК №432",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "426401170447",
+    "uikName": "УИК №433",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "426401170448",
+    "uikName": "УИК №434",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "426401170449",
+    "uikName": "УИК №435",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "426401170450",
+    "uikName": "УИК №436",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "426401170451",
+    "uikName": "УИК №437",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "426401170452",
+    "uikName": "УИК №438",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "426401170453",
+    "uikName": "УИК №439",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "426401170454",
+    "uikName": "УИК №440",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "426401170455",
+    "uikName": "УИК №441",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "426401170456",
+    "uikName": "УИК №442",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "426401170457",
+    "uikName": "УИК №443",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "426401170458",
+    "uikName": "УИК №444",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "426401170459",
+    "uikName": "УИК №445",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "426401170460",
+    "uikName": "УИК №446",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "426401170461",
+    "uikName": "УИК №447",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "426401170462",
+    "uikName": "УИК №448",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "426401170463",
+    "uikName": "УИК №449",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "426401170464",
+    "uikName": "УИК №450",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "426401170465",
+    "uikName": "УИК №451",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "426401170466",
+    "uikName": "УИК №452",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "426401170467",
+    "uikName": "УИК №453",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "426401170468",
+    "uikName": "УИК №454",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "426401170469",
+    "uikName": "УИК №455",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "426401170470",
+    "uikName": "УИК №456",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "426401170471",
+    "uikName": "УИК №457",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "426401170472",
+    "uikName": "УИК №458",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "426401170473",
+    "uikName": "УИК №459",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "426401170474",
+    "uikName": "УИК №460",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "426401170475",
+    "uikName": "УИК №461",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "426401170476",
+    "uikName": "УИК №462",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "426401170477",
+    "uikName": "УИК №463",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "426401170478",
+    "uikName": "УИК №464",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "426401170479",
+    "uikName": "УИК №465",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "426401170480",
+    "uikName": "УИК №466",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "426401170481",
+    "uikName": "УИК №467",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "426401170482",
+    "uikName": "УИК №468",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "426401170483",
+    "uikName": "УИК №469",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "426401170484",
+    "uikName": "УИК №470",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "426401170485",
+    "uikName": "УИК №471",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "426401170486",
+    "uikName": "УИК №472",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "426401170487",
+    "uikName": "УИК №473",
     "tikTvd": "326300370419",
-    "tikName": "Изобильненская"
+    "tikName": "Изобильненская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "426401270422",
+    "uikName": "УИК №474",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "426401270423",
+    "uikName": "УИК №475",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "426401270424",
+    "uikName": "УИК №476",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "426401270425",
+    "uikName": "УИК №477",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "426401270426",
+    "uikName": "УИК №478",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "426401270427",
+    "uikName": "УИК №479",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "426401270428",
+    "uikName": "УИК №480",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "426401270429",
+    "uikName": "УИК №481",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "426401270430",
+    "uikName": "УИК №482",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "426401270431",
+    "uikName": "УИК №483",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "426401270432",
+    "uikName": "УИК №484",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "426401270433",
+    "uikName": "УИК №485",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "426401270434",
+    "uikName": "УИК №486",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "426401270435",
+    "uikName": "УИК №487",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "426401270436",
+    "uikName": "УИК №488",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "426401270437",
+    "uikName": "УИК №489",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "426401270438",
+    "uikName": "УИК №490",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "426401270439",
+    "uikName": "УИК №491",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "426401270440",
+    "uikName": "УИК №492",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "426401270441",
+    "uikName": "УИК №493",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "426401270442",
+    "uikName": "УИК №494",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "426401270443",
+    "uikName": "УИК №495",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "426401270444",
+    "uikName": "УИК №496",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "426401270445",
+    "uikName": "УИК №497",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "426401270446",
+    "uikName": "УИК №498",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "426401270447",
+    "uikName": "УИК №499",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "426401270448",
+    "uikName": "УИК №500",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "426401270449",
+    "uikName": "УИК №501",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "426401270450",
+    "uikName": "УИК №502",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "426401270451",
+    "uikName": "УИК №503",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "426401270452",
+    "uikName": "УИК №504",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "426401270453",
+    "uikName": "УИК №505",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "426401270454",
+    "uikName": "УИК №506",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "426401270455",
+    "uikName": "УИК №507",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "426401270456",
+    "uikName": "УИК №508",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "426401270457",
+    "uikName": "УИК №509",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "426401270458",
+    "uikName": "УИК №510",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "426401270459",
+    "uikName": "УИК №511",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "426401270460",
+    "uikName": "УИК №512",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "426401270461",
+    "uikName": "УИК №513",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "426401270462",
+    "uikName": "УИК №514",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "426401270463",
+    "uikName": "УИК №515",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "426401270464",
+    "uikName": "УИК №516",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "426401270465",
+    "uikName": "УИК №517",
     "tikTvd": "326300370418",
-    "tikName": "Ипатовская"
+    "tikName": "Ипатовская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "426401370408",
+    "uikName": "УИК №518",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "426401370409",
+    "uikName": "УИК №519",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "426401370410",
+    "uikName": "УИК №520",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "426401370411",
+    "uikName": "УИК №521",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "426401370412",
+    "uikName": "УИК №522",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "426401370413",
+    "uikName": "УИК №523",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "426401370414",
+    "uikName": "УИК №524",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "426401370415",
+    "uikName": "УИК №525",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "426401370416",
+    "uikName": "УИК №526",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "426401370417",
+    "uikName": "УИК №527",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "426401370418",
+    "uikName": "УИК №528",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "426401370419",
+    "uikName": "УИК №529",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "426401370420",
+    "uikName": "УИК №530",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "426401370421",
+    "uikName": "УИК №531",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "426401370422",
+    "uikName": "УИК №532",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "426401370423",
+    "uikName": "УИК №533",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "426401370424",
+    "uikName": "УИК №534",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "426401370425",
+    "uikName": "УИК №535",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "426401370426",
+    "uikName": "УИК №536",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "426401370427",
+    "uikName": "УИК №537",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "426401370428",
+    "uikName": "УИК №538",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "426401370429",
+    "uikName": "УИК №539",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "426401370430",
+    "uikName": "УИК №540",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "426401370431",
+    "uikName": "УИК №541",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "426401370432",
+    "uikName": "УИК №542",
     "tikTvd": "326300171848",
-    "tikName": "Кировская"
+    "tikName": "Кировская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "426401470522",
+    "uikName": "УИК №543",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "426401470523",
+    "uikName": "УИК №544",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "426401470524",
+    "uikName": "УИК №545",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "426401470525",
+    "uikName": "УИК №546",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "426401470526",
+    "uikName": "УИК №547",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "426401470527",
+    "uikName": "УИК №548",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "426401470528",
+    "uikName": "УИК №549",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "426401470529",
+    "uikName": "УИК №550",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "426401470530",
+    "uikName": "УИК №551",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "426401470531",
+    "uikName": "УИК №552",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "426401470532",
+    "uikName": "УИК №553",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "426401470533",
+    "uikName": "УИК №554",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "426401470534",
+    "uikName": "УИК №555",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "426401470535",
+    "uikName": "УИК №556",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "426401470536",
+    "uikName": "УИК №557",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "426401470537",
+    "uikName": "УИК №558",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "426401470538",
+    "uikName": "УИК №559",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "426401470539",
+    "uikName": "УИК №560",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "426401470540",
+    "uikName": "УИК №561",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "426401470541",
+    "uikName": "УИК №562",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "426401470542",
+    "uikName": "УИК №563",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "426401470543",
+    "uikName": "УИК №564",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "426401470544",
+    "uikName": "УИК №565",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "426401470545",
+    "uikName": "УИК №566",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "426401470546",
+    "uikName": "УИК №567",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "426401470547",
+    "uikName": "УИК №568",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "426401470548",
+    "uikName": "УИК №569",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "426401470549",
+    "uikName": "УИК №570",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "426401470550",
+    "uikName": "УИК №571",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "426401470551",
+    "uikName": "УИК №572",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "426401470552",
+    "uikName": "УИК №573",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "426401470553",
+    "uikName": "УИК №574",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "426401470554",
+    "uikName": "УИК №575",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "426401470555",
+    "uikName": "УИК №576",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "426401470556",
+    "uikName": "УИК №577",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "426401470557",
+    "uikName": "УИК №578",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "426401470558",
+    "uikName": "УИК №579",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "426401470559",
+    "uikName": "УИК №580",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "426401470560",
+    "uikName": "УИК №581",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "426401470561",
+    "uikName": "УИК №582",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "426401470562",
+    "uikName": "УИК №583",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "426401470563",
+    "uikName": "УИК №584",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "426401470564",
+    "uikName": "УИК №585",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "426401470565",
+    "uikName": "УИК №586",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "426401470566",
+    "uikName": "УИК №587",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "426401470567",
+    "uikName": "УИК №588",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "426401470568",
+    "uikName": "УИК №589",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "426401470569",
+    "uikName": "УИК №590",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "426401470570",
+    "uikName": "УИК №591",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "426401470571",
+    "uikName": "УИК №592",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "426401470572",
+    "uikName": "УИК №593",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "426401470573",
+    "uikName": "УИК №594",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "426401470574",
+    "uikName": "УИК №595",
     "tikTvd": "326300271129",
-    "tikName": "Кисловодская городская"
+    "tikName": "Кисловодская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "426401570535",
+    "uikName": "УИК №596",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "426401570536",
+    "uikName": "УИК №597",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "426401570537",
+    "uikName": "УИК №598",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "426401570538",
+    "uikName": "УИК №599",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "426401570539",
+    "uikName": "УИК №600",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "426401570540",
+    "uikName": "УИК №601",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "426401570541",
+    "uikName": "УИК №602",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "426401570542",
+    "uikName": "УИК №603",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "426401570543",
+    "uikName": "УИК №604",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "426401570544",
+    "uikName": "УИК №605",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "426401570545",
+    "uikName": "УИК №606",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "426401570546",
+    "uikName": "УИК №607",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "426401570547",
+    "uikName": "УИК №608",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "426401570548",
+    "uikName": "УИК №609",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "426401570549",
+    "uikName": "УИК №610",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "426401570550",
+    "uikName": "УИК №611",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "426401570551",
+    "uikName": "УИК №612",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "426401570552",
+    "uikName": "УИК №613",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "426401570553",
+    "uikName": "УИК №614",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "426401570554",
+    "uikName": "УИК №615",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "426401570555",
+    "uikName": "УИК №616",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "426401570556",
+    "uikName": "УИК №617",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "426401570557",
+    "uikName": "УИК №618",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "426401570558",
+    "uikName": "УИК №619",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "426401570559",
+    "uikName": "УИК №620",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "426401570560",
+    "uikName": "УИК №621",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "426401570561",
+    "uikName": "УИК №622",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "426401570562",
+    "uikName": "УИК №623",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "426401570563",
+    "uikName": "УИК №624",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "426401570564",
+    "uikName": "УИК №625",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "426401570565",
+    "uikName": "УИК №626",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "426401570566",
+    "uikName": "УИК №627",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "426401570567",
+    "uikName": "УИК №628",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "426401570568",
+    "uikName": "УИК №629",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "426401570569",
+    "uikName": "УИК №630",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "426401570570",
+    "uikName": "УИК №631",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "426401570571",
+    "uikName": "УИК №632",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "426401570572",
+    "uikName": "УИК №633",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "426401570573",
+    "uikName": "УИК №634",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "426401570574",
+    "uikName": "УИК №635",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "426401570575",
+    "uikName": "УИК №636",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "426401570576",
+    "uikName": "УИК №637",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "426401570577",
+    "uikName": "УИК №638",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "426401570578",
+    "uikName": "УИК №639",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "426401570579",
+    "uikName": "УИК №640",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "426401570580",
+    "uikName": "УИК №641",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "426401570581",
+    "uikName": "УИК №642",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "426401570582",
+    "uikName": "УИК №643",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "426401570583",
+    "uikName": "УИК №644",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "426401570584",
+    "uikName": "УИК №645",
     "tikTvd": "326300470448",
-    "tikName": "Кочубеевская"
+    "tikName": "Кочубеевская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "426401670350",
+    "uikName": "УИК №646",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "426401670351",
+    "uikName": "УИК №647",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "426401670352",
+    "uikName": "УИК №648",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "426401670353",
+    "uikName": "УИК №649",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "426401670354",
+    "uikName": "УИК №650",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "426401670355",
+    "uikName": "УИК №651",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "426401670356",
+    "uikName": "УИК №652",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "426401670357",
+    "uikName": "УИК №653",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "426401670358",
+    "uikName": "УИК №654",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "426401670359",
+    "uikName": "УИК №655",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "426401670360",
+    "uikName": "УИК №656",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "426401670361",
+    "uikName": "УИК №657",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "426401670362",
+    "uikName": "УИК №658",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "426401670363",
+    "uikName": "УИК №659",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "426401670364",
+    "uikName": "УИК №660",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "426401670365",
+    "uikName": "УИК №661",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "426401670366",
+    "uikName": "УИК №662",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "426401670367",
+    "uikName": "УИК №663",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "426401670368",
+    "uikName": "УИК №664",
     "tikTvd": "326300370417",
-    "tikName": "Красногвардейская "
+    "tikName": "Красногвардейская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "426401770416",
+    "uikName": "УИК №665",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "426401770417",
+    "uikName": "УИК №666",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "426401770418",
+    "uikName": "УИК №667",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "426401770419",
+    "uikName": "УИК №668",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "426401770420",
+    "uikName": "УИК №669",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "426401770421",
+    "uikName": "УИК №670",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "426401770422",
+    "uikName": "УИК №671",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "426401770423",
+    "uikName": "УИК №672",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "426401770424",
+    "uikName": "УИК №673",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "426401770425",
+    "uikName": "УИК №674",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "426401770426",
+    "uikName": "УИК №675",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "426401770427",
+    "uikName": "УИК №676",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "426401770428",
+    "uikName": "УИК №677",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "426401770429",
+    "uikName": "УИК №678",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "426401770430",
+    "uikName": "УИК №679",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "426401770431",
+    "uikName": "УИК №680",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "426401770432",
+    "uikName": "УИК №681",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "426401770433",
+    "uikName": "УИК №682",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "426401770434",
+    "uikName": "УИК №683",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "426401770435",
+    "uikName": "УИК №684",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "426401770436",
+    "uikName": "УИК №685",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "426401770437",
+    "uikName": "УИК №686",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "426401770438",
+    "uikName": "УИК №687",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "426401770439",
+    "uikName": "УИК №688",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "426401770440",
+    "uikName": "УИК №689",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "426401770441",
+    "uikName": "УИК №690",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "426401770442",
+    "uikName": "УИК №691",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "426401770443",
+    "uikName": "УИК №692",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "426401770444",
+    "uikName": "УИК №693",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "426401770445",
+    "uikName": "УИК №694",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "426401770446",
+    "uikName": "УИК №695",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "426401770447",
+    "uikName": "УИК №696",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "426401770448",
+    "uikName": "УИК №697",
     "tikTvd": "326300171849",
-    "tikName": "Курская"
+    "tikName": "Курская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "426401870403",
+    "uikName": "УИК №698",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "426401870404",
+    "uikName": "УИК №699",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "426401870405",
+    "uikName": "УИК №700",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "426401870406",
+    "uikName": "УИК №701",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "426401870407",
+    "uikName": "УИК №702",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "426401870408",
+    "uikName": "УИК №703",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "426401870409",
+    "uikName": "УИК №704",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "426401870410",
+    "uikName": "УИК №705",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "426401870411",
+    "uikName": "УИК №706",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "426401870412",
+    "uikName": "УИК №707",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "426401870413",
+    "uikName": "УИК №708",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "426401870414",
+    "uikName": "УИК №709",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "426401870415",
+    "uikName": "УИК №710",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "426401870416",
+    "uikName": "УИК №711",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "426401870757",
+    "uikName": "УИК  712",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "426401870418",
+    "uikName": "УИК №713",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "426401870419",
+    "uikName": "УИК №714",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "426401870420",
+    "uikName": "УИК №715",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "426401870421",
+    "uikName": "УИК №716",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "426401870422",
+    "uikName": "УИК №717",
     "tikTvd": "326300171850",
-    "tikName": "Левокумская"
+    "tikName": "Левокумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "426401970435",
+    "uikName": "УИК №718",
     "tikTvd": "326300271130",
-    "tikName": "Лермонтовская городская"
+    "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "426401970436",
+    "uikName": "УИК №719",
     "tikTvd": "326300271130",
-    "tikName": "Лермонтовская городская"
+    "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "426401970437",
+    "uikName": "УИК №720",
     "tikTvd": "326300271130",
-    "tikName": "Лермонтовская городская"
+    "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "426401970438",
+    "uikName": "УИК №721",
     "tikTvd": "326300271130",
-    "tikName": "Лермонтовская городская"
+    "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "426401970439",
+    "uikName": "УИК №722",
     "tikTvd": "326300271130",
-    "tikName": "Лермонтовская городская"
+    "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "426401970440",
+    "uikName": "УИК №723",
     "tikTvd": "326300271130",
-    "tikName": "Лермонтовская городская"
+    "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "426401970441",
+    "uikName": "УИК №724",
     "tikTvd": "326300271130",
-    "tikName": "Лермонтовская городская"
+    "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "426401970442",
+    "uikName": "УИК №725",
     "tikTvd": "326300271130",
-    "tikName": "Лермонтовская городская"
+    "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "426401970443",
+    "uikName": "УИК №726",
     "tikTvd": "326300271130",
-    "tikName": "Лермонтовская городская"
+    "tikName": "Лермонтовская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "426402070573",
+    "uikName": "УИК №727",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "426402070574",
+    "uikName": "УИК №728",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "426402070575",
+    "uikName": "УИК №729",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "426402070576",
+    "uikName": "УИК №730",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "426402070577",
+    "uikName": "УИК №731",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "426402070578",
+    "uikName": "УИК №732",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "426402070579",
+    "uikName": "УИК №733",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "426402070580",
+    "uikName": "УИК №734",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "426402070581",
+    "uikName": "УИК №735",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "426402070582",
+    "uikName": "УИК №736",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "426402070583",
+    "uikName": "УИК №737",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "426402070584",
+    "uikName": "УИК №738",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "426402070585",
+    "uikName": "УИК №739",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "426402070586",
+    "uikName": "УИК №740",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "426402070587",
+    "uikName": "УИК №741",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "426402070588",
+    "uikName": "УИК №742",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "426402070589",
+    "uikName": "УИК №743",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "426402070590",
+    "uikName": "УИК №744",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "426402070591",
+    "uikName": "УИК №745",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "426402070592",
+    "uikName": "УИК №746",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "426402070593",
+    "uikName": "УИК №747",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "426402070594",
+    "uikName": "УИК №748",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "426402070595",
+    "uikName": "УИК №749",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "426402070596",
+    "uikName": "УИК №750",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "426402070597",
+    "uikName": "УИК №751",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "426402070598",
+    "uikName": "УИК №752",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "426402070599",
+    "uikName": "УИК №753",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "426402070600",
+    "uikName": "УИК №754",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "426402070601",
+    "uikName": "УИК №755",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "426402070602",
+    "uikName": "УИК №756",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "426402070603",
+    "uikName": "УИК №757",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "426402070604",
+    "uikName": "УИК №758",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "426402070605",
+    "uikName": "УИК №759",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "426402070606",
+    "uikName": "УИК №760",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "426402070607",
+    "uikName": "УИК №761",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "426402070608",
+    "uikName": "УИК №762",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "426402070609",
+    "uikName": "УИК №763",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "426402070610",
+    "uikName": "УИК №764",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "426402070611",
+    "uikName": "УИК №765",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "426402070612",
+    "uikName": "УИК №766",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "426402070613",
+    "uikName": "УИК №767",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "426402070614",
+    "uikName": "УИК №768",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "426402070615",
+    "uikName": "УИК №769",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "426402070616",
+    "uikName": "УИК №770",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "426402070617",
+    "uikName": "УИК №771",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "426402070618",
+    "uikName": "УИК №772",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "426402070619",
+    "uikName": "УИК №773",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "426402070620",
+    "uikName": "УИК №774",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "426402070621",
+    "uikName": "УИК №775",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "426402070622",
+    "uikName": "УИК №776",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "426402070623",
+    "uikName": "УИК №777",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "426402070624",
+    "uikName": "УИК №778",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "426402070625",
+    "uikName": "УИК №779",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "426402070626",
+    "uikName": "УИК №780",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "426402070627",
+    "uikName": "УИК №781",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "426402070628",
+    "uikName": "УИК №782",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "426402070629",
+    "uikName": "УИК №783",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "426402070630",
+    "uikName": "УИК №784",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "426402070631",
+    "uikName": "УИК №785",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "426402070632",
+    "uikName": "УИК №786",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "426402070633",
+    "uikName": "УИК №787",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "426402070634",
+    "uikName": "УИК №788",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "426402070635",
+    "uikName": "УИК №789",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "426402070636",
+    "uikName": "УИК №790",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "426402070637",
+    "uikName": "УИК №791",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "426402070638",
+    "uikName": "УИК №792",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "426402070639",
+    "uikName": "УИК №793",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "426402070640",
+    "uikName": "УИК №794",
     "tikTvd": "326300271131",
-    "tikName": "Минераловодская"
+    "tikName": "Минераловодская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "426402170449",
+    "uikName": "УИК №795",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "426402170450",
+    "uikName": "УИК №796",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "426402170451",
+    "uikName": "УИК №797",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "426402170452",
+    "uikName": "УИК №798",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "426402170453",
+    "uikName": "УИК №799",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "426402170454",
+    "uikName": "УИК №800",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "426402170455",
+    "uikName": "УИК №801",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "426402170456",
+    "uikName": "УИК №802",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "426402170457",
+    "uikName": "УИК №803",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "426402170458",
+    "uikName": "УИК №804",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "426402170459",
+    "uikName": "УИК №805",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "426402170460",
+    "uikName": "УИК №806",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "426402170461",
+    "uikName": "УИК №807",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "426402170462",
+    "uikName": "УИК №808",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "426402170463",
+    "uikName": "УИК №809",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "426402170464",
+    "uikName": "УИК №810",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "426402170465",
+    "uikName": "УИК №811",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "426402170466",
+    "uikName": "УИК №812",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "426402170467",
+    "uikName": "УИК №813",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "426402170468",
+    "uikName": "УИК №814",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "426402170469",
+    "uikName": "УИК №815",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "426402170470",
+    "uikName": "УИК №816",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "426402170471",
+    "uikName": "УИК №817",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "426402170472",
+    "uikName": "УИК №818",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "426402170473",
+    "uikName": "УИК №819",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "426402170474",
+    "uikName": "УИК №820",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "426402170475",
+    "uikName": "УИК №821",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "426402170476",
+    "uikName": "УИК №822",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "426402170477",
+    "uikName": "УИК №823",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "426402170478",
+    "uikName": "УИК №824",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "426402170479",
+    "uikName": "УИК №825",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "426402170480",
+    "uikName": "УИК №826",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "426402170481",
+    "uikName": "УИК №827",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "426402170482",
+    "uikName": "УИК №828",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "426402170483",
+    "uikName": "УИК №829",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "426402170484",
+    "uikName": "УИК №830",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "426402170485",
+    "uikName": "УИК №831",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "426402170486",
+    "uikName": "УИК №832",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "426402170487",
+    "uikName": "УИК №833",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "426402170488",
+    "uikName": "УИК №834",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "426402170489",
+    "uikName": "УИК №835",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "426402170490",
+    "uikName": "УИК №836",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "426402170491",
+    "uikName": "УИК №837",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "426402170492",
+    "uikName": "УИК №838",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "426402170493",
+    "uikName": "УИК №839",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "426402170494",
+    "uikName": "УИК №840",
     "tikTvd": "326300470447",
-    "tikName": "Невинномысская городская"
+    "tikName": "Невинномысская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "426402270769",
+    "uikName": "УИК №841",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "426402270770",
+    "uikName": "УИК №842",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "426402270771",
+    "uikName": "УИК №843",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "426402270772",
+    "uikName": "УИК №844",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "426402270773",
+    "uikName": "УИК №845",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "426402270774",
+    "uikName": "УИК №846",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "426402270775",
+    "uikName": "УИК №847",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "426402270776",
+    "uikName": "УИК №848",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "426402270777",
+    "uikName": "УИК №849",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "426402270778",
+    "uikName": "УИК №850",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "426402270779",
+    "uikName": "УИК №851",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "426402270780",
+    "uikName": "УИК №852",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "426402270781",
+    "uikName": "УИК №853",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "426402270782",
+    "uikName": "УИК №854",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "426402270783",
+    "uikName": "УИК №855",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "426402270784",
+    "uikName": "УИК №856",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "426402270785",
+    "uikName": "УИК №857",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "426402270786",
+    "uikName": "УИК №858",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "426402270787",
+    "uikName": "УИК №859",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "426402270788",
+    "uikName": "УИК №860",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "426402270789",
+    "uikName": "УИК №861",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "426402270790",
+    "uikName": "УИК №862",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "426402270791",
+    "uikName": "УИК №863",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "426402270792",
+    "uikName": "УИК №864",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "426402270793",
+    "uikName": "УИК №865",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "426402270794",
+    "uikName": "УИК №866",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "426402270795",
+    "uikName": "УИК №867",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "426402270796",
+    "uikName": "УИК №868",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "426402270797",
+    "uikName": "УИК №869",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "426402270798",
+    "uikName": "УИК №870",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "426402270799",
+    "uikName": "УИК №871",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "426402270800",
+    "uikName": "УИК №872",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "426402270801",
+    "uikName": "УИК №873",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "426402270802",
+    "uikName": "УИК №874",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "426402270803",
+    "uikName": "УИК №875",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "426402270804",
+    "uikName": "УИК №876",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "426402270805",
+    "uikName": "УИК №877",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "426402270806",
+    "uikName": "УИК №878",
     "tikTvd": "326300171851",
-    "tikName": "Нефтекумская"
+    "tikName": "Нефтекумская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "426402370402",
+    "uikName": "УИК №879",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "426402370403",
+    "uikName": "УИК №880",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "426402370404",
+    "uikName": "УИК №881",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "426402370405",
+    "uikName": "УИК №882",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "426402370406",
+    "uikName": "УИК №883",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "426402370407",
+    "uikName": "УИК №884",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "426402370408",
+    "uikName": "УИК №885",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "426402370409",
+    "uikName": "УИК №886",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "426402370410",
+    "uikName": "УИК №887",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "426402370411",
+    "uikName": "УИК №888",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "426402370412",
+    "uikName": "УИК №889",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "426402370413",
+    "uikName": "УИК №890",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "426402370414",
+    "uikName": "УИК №891",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "426402370415",
+    "uikName": "УИК №892",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "426402370416",
+    "uikName": "УИК №893",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "426402370417",
+    "uikName": "УИК №894",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "426402370418",
+    "uikName": "УИК №895",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "426402370419",
+    "uikName": "УИК №896",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "426402370420",
+    "uikName": "УИК №897",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "426402370421",
+    "uikName": "УИК №898",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "426402370422",
+    "uikName": "УИК №899",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "426402370423",
+    "uikName": "УИК №900",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "426402370424",
+    "uikName": "УИК №901",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "426402370425",
+    "uikName": "УИК №902",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "426402370426",
+    "uikName": "УИК №903",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "426402370427",
+    "uikName": "УИК №904",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "426402370428",
+    "uikName": "УИК №905",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "426402370429",
+    "uikName": "УИК №906",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "426402370430",
+    "uikName": "УИК №907",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "426402370431",
+    "uikName": "УИК №908",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "426402370432",
+    "uikName": "УИК №909",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "426402370433",
+    "uikName": "УИК №910",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "426402370434",
+    "uikName": "УИК №911",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "426402370435",
+    "uikName": "УИК №912",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "426402370436",
+    "uikName": "УИК №913",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "426402370437",
+    "uikName": "УИК №914",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "426402370438",
+    "uikName": "УИК №915",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "426402370439",
+    "uikName": "УИК №916",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "426402370440",
+    "uikName": "УИК №917",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "426402370441",
+    "uikName": "УИК №918",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "426402370442",
+    "uikName": "УИК №919",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "426402370443",
+    "uikName": "УИК №920",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "426402370444",
+    "uikName": "УИК №921",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "426402370445",
+    "uikName": "УИК №922",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "426402370446",
+    "uikName": "УИК №923",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "426402370447",
+    "uikName": "УИК №924",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "426402370448",
+    "uikName": "УИК №925",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "426402370449",
+    "uikName": "УИК №926",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "426402370450",
+    "uikName": "УИК №927",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "426402370451",
+    "uikName": "УИК №928",
     "tikTvd": "326300370416",
-    "tikName": "Новоалександровская "
+    "tikName": "Новоалександровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "426402570522",
+    "uikName": "УИК №929",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "426402470556",
+    "uikName": "УИК №930",
     "tikTvd": "326300171852",
-    "tikName": "Новоселицкая"
+    "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "426402470557",
+    "uikName": "УИК №931",
     "tikTvd": "326300171852",
-    "tikName": "Новоселицкая"
+    "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "426402470558",
+    "uikName": "УИК №932",
     "tikTvd": "326300171852",
-    "tikName": "Новоселицкая"
+    "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "426402470559",
+    "uikName": "УИК №933",
     "tikTvd": "326300171852",
-    "tikName": "Новоселицкая"
+    "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "426402470560",
+    "uikName": "УИК №934",
     "tikTvd": "326300171852",
-    "tikName": "Новоселицкая"
+    "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "426402470561",
+    "uikName": "УИК №935",
     "tikTvd": "326300171852",
-    "tikName": "Новоселицкая"
+    "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "426402470562",
+    "uikName": "УИК №936",
     "tikTvd": "326300171852",
-    "tikName": "Новоселицкая"
+    "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "426402470563",
+    "uikName": "УИК №937",
     "tikTvd": "326300171852",
-    "tikName": "Новоселицкая"
+    "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "426402470564",
+    "uikName": "УИК №938",
     "tikTvd": "326300171852",
-    "tikName": "Новоселицкая"
+    "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "426402470565",
+    "uikName": "УИК №939",
     "tikTvd": "326300171852",
-    "tikName": "Новоселицкая"
+    "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "426402470566",
+    "uikName": "УИК №940",
     "tikTvd": "326300171852",
-    "tikName": "Новоселицкая"
+    "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "426402470567",
+    "uikName": "УИК №941",
     "tikTvd": "326300171852",
-    "tikName": "Новоселицкая"
+    "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "426402470568",
+    "uikName": "УИК №942",
     "tikTvd": "326300171852",
-    "tikName": "Новоселицкая"
+    "tikName": "Новоселицкая",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "426402570523",
+    "uikName": "УИК №943",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "426402570524",
+    "uikName": "УИК №944",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "426402570525",
+    "uikName": "УИК №945",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "426402570526",
+    "uikName": "УИК №946",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "426402570527",
+    "uikName": "УИК №947",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "426402570528",
+    "uikName": "УИК №948",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "426402570529",
+    "uikName": "УИК №949",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "426402570530",
+    "uikName": "УИК №950",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "426402570531",
+    "uikName": "УИК №951",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "426402570532",
+    "uikName": "УИК №952",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "426402570533",
+    "uikName": "УИК №953",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "426402570534",
+    "uikName": "УИК №954",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "426402570535",
+    "uikName": "УИК №955",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "426402570536",
+    "uikName": "УИК №956",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "426402570537",
+    "uikName": "УИК №957",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "426402570538",
+    "uikName": "УИК №958",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "426402570539",
+    "uikName": "УИК №959",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "426402570540",
+    "uikName": "УИК №960",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "426402570541",
+    "uikName": "УИК №961",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "426402570542",
+    "uikName": "УИК №962",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "426402570543",
+    "uikName": "УИК №963",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "426402570544",
+    "uikName": "УИК №964",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "426402570545",
+    "uikName": "УИК №965",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "426402570546",
+    "uikName": "УИК №966",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "426402570547",
+    "uikName": "УИК №967",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "426402570548",
+    "uikName": "УИК №968",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "426402570549",
+    "uikName": "УИК №969",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "426402570550",
+    "uikName": "УИК №970",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "426402570551",
+    "uikName": "УИК №971",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "426402570552",
+    "uikName": "УИК №972",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "426402570553",
+    "uikName": "УИК №973",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "426402570554",
+    "uikName": "УИК №974",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "426402570555",
+    "uikName": "УИК №975",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "426402570556",
+    "uikName": "УИК №976",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "426402570557",
+    "uikName": "УИК №977",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "426402570558",
+    "uikName": "УИК №978",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "426402570559",
+    "uikName": "УИК №979",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "426402570560",
+    "uikName": "УИК №980",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "426402570561",
+    "uikName": "УИК №981",
     "tikTvd": "326300370415",
-    "tikName": "Петровская "
+    "tikName": "Петровская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "426402670407",
+    "uikName": "УИК  982",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "426402670409",
+    "uikName": "УИК №983",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "426402670410",
+    "uikName": "УИК №984",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "426402670411",
+    "uikName": "УИК №985",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "426402670412",
+    "uikName": "УИК №986",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "426402670413",
+    "uikName": "УИК №987",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "426402670414",
+    "uikName": "УИК №988",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "426402670415",
+    "uikName": "УИК №989",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "426402670416",
+    "uikName": "УИК №990",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "426402670417",
+    "uikName": "УИК №991",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "426402670418",
+    "uikName": "УИК №992",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "426402670419",
+    "uikName": "УИК №993",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "426402670420",
+    "uikName": "УИК №994",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "426402670421",
+    "uikName": "УИК №995",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "426402670422",
+    "uikName": "УИК №996",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "426402670423",
+    "uikName": "УИК №997",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "426402670424",
+    "uikName": "УИК №998",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "426402670425",
+    "uikName": "УИК №999",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "426402670426",
+    "uikName": "УИК №1000",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "426402670427",
+    "uikName": "УИК №1001",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "426402670428",
+    "uikName": "УИК №1002",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "426402670429",
+    "uikName": "УИК №1003",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "426402670430",
+    "uikName": "УИК №1004",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "426402670431",
+    "uikName": "УИК №1005",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "426402670432",
+    "uikName": "УИК №1006",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "426402670433",
+    "uikName": "УИК №1007",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "426402670434",
+    "uikName": "УИК №1008",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "426402670435",
+    "uikName": "УИК №1009",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "426402670436",
+    "uikName": "УИК №1010",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "426402670437",
+    "uikName": "УИК №1011",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "426402670438",
+    "uikName": "УИК №1012",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "426402670439",
+    "uikName": "УИК №1013",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "426402670440",
+    "uikName": "УИК №1014",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "426402670441",
+    "uikName": "УИК №1015",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "426402670442",
+    "uikName": "УИК №1016",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "426402670443",
+    "uikName": "УИК №1017",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "426402670444",
+    "uikName": "УИК №1018",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "426402670445",
+    "uikName": "УИК №1019",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "426402670446",
+    "uikName": "УИК №1020",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "426402670447",
+    "uikName": "УИК №1021",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "426402670448",
+    "uikName": "УИК №1022",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "426402670449",
+    "uikName": "УИК №1023",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "426402670450",
+    "uikName": "УИК №1024",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "426402670451",
+    "uikName": "УИК №1025",
     "tikTvd": "326300271132",
-    "tikName": "Предгорная"
+    "tikName": "Предгорная",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "426402770561",
+    "uikName": "УИК №1026",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "426402770562",
+    "uikName": "УИК №1027",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "426402770563",
+    "uikName": "УИК №1028",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "426402770564",
+    "uikName": "УИК №1029",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "426402770565",
+    "uikName": "УИК №1030",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "426402770566",
+    "uikName": "УИК №1031",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "426402770567",
+    "uikName": "УИК №1032",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "426402770568",
+    "uikName": "УИК №1033",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "426402770569",
+    "uikName": "УИК №1034",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "426402770570",
+    "uikName": "УИК №1035",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "426402770571",
+    "uikName": "УИК №1036",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "426402770572",
+    "uikName": "УИК №1037",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "426402770573",
+    "uikName": "УИК №1038",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "426402770574",
+    "uikName": "УИК №1039",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "426402770575",
+    "uikName": "УИК №1040",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "426402770576",
+    "uikName": "УИК №1041",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "426402770577",
+    "uikName": "УИК №1042",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "426402770578",
+    "uikName": "УИК №1043",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "426402770579",
+    "uikName": "УИК №1044",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "426402770580",
+    "uikName": "УИК №1045",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "426402770581",
+    "uikName": "УИК №1046",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "426402770582",
+    "uikName": "УИК №1047",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "426402770583",
+    "uikName": "УИК №1048",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "426402770584",
+    "uikName": "УИК №1049",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "426402770585",
+    "uikName": "УИК №1050",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "426402770586",
+    "uikName": "УИК №1051",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "426402770587",
+    "uikName": "УИК №1052",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "426402770588",
+    "uikName": "УИК №1053",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "426402770589",
+    "uikName": "УИК №1054",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "426402770590",
+    "uikName": "УИК №1055",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "426402770591",
+    "uikName": "УИК №1056",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "426402770592",
+    "uikName": "УИК №1057",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "426402770593",
+    "uikName": "УИК №1058",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "426402770594",
+    "uikName": "УИК №1059",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "426402770595",
+    "uikName": "УИК №1060",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "426402770596",
+    "uikName": "УИК №1061",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "426402770597",
+    "uikName": "УИК №1062",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "426402770598",
+    "uikName": "УИК №1063",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "426402770599",
+    "uikName": "УИК №1064",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "426402770600",
+    "uikName": "УИК №1065",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "426402770601",
+    "uikName": "УИК №1066",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "426402770602",
+    "uikName": "УИК №1067",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "426402770603",
+    "uikName": "УИК №1068",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "426402770604",
+    "uikName": "УИК №1069",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "426402770605",
+    "uikName": "УИК №1070",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "426402770606",
+    "uikName": "УИК №1071",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "426402770607",
+    "uikName": "УИК №1072",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "426402770608",
+    "uikName": "УИК №1073",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "426402770609",
+    "uikName": "УИК №1074",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "426402770610",
+    "uikName": "УИК №1075",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "426402770611",
+    "uikName": "УИК №1076",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "426402770612",
+    "uikName": "УИК №1077",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "426402770613",
+    "uikName": "УИК №1078",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "426402770614",
+    "uikName": "УИК №1079",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "426402770615",
+    "uikName": "УИК №1080",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "426402770616",
+    "uikName": "УИК №1081",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "426402770617",
+    "uikName": "УИК №1082",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "426402770618",
+    "uikName": "УИК №1083",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "426402770619",
+    "uikName": "УИК №1084",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "426402770620",
+    "uikName": "УИК №1085",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "426402770621",
+    "uikName": "УИК №1086",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "426402770622",
+    "uikName": "УИК №1087",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "426402770623",
+    "uikName": "УИК №1088",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "426402770624",
+    "uikName": "УИК №1089",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "426402770625",
+    "uikName": "УИК №1090",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "426402770626",
+    "uikName": "УИК №1091",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "426402770627",
+    "uikName": "УИК №1092",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "426402770628",
+    "uikName": "УИК №1093",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "426402770629",
+    "uikName": "УИК №1094",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "426402770630",
+    "uikName": "УИК №1095",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "426402770631",
+    "uikName": "УИК №1096",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "426402770632",
+    "uikName": "УИК №1097",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "426402770633",
+    "uikName": "УИК №1098",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "426402770634",
+    "uikName": "УИК №1099",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "426402770635",
+    "uikName": "УИК №1100",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "426402770636",
+    "uikName": "УИК №1101",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "426402770637",
+    "uikName": "УИК №1102",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "426402770638",
+    "uikName": "УИК №1103",
     "tikTvd": "326300271133",
-    "tikName": "Пятигорская городская"
+    "tikName": "Пятигорская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 55,
+      "oikTvd": "100100095881",
+      "oikName": "Кавминводский"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "426402870389",
+    "uikName": "УИК №1104",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "426402870390",
+    "uikName": "УИК №1105",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "426402870391",
+    "uikName": "УИК №1106",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "426402870392",
+    "uikName": "УИК №1107",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "426402870393",
+    "uikName": "УИК №1108",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "426402870394",
+    "uikName": "УИК №1109",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "426402870395",
+    "uikName": "УИК №1110",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "426402870396",
+    "uikName": "УИК №1111",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "426402870397",
+    "uikName": "УИК №1112",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "426402870398",
+    "uikName": "УИК №1113",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "426402870399",
+    "uikName": "УИК №1114",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "426402870400",
+    "uikName": "УИК №1115",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "426402870401",
+    "uikName": "УИК №1116",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "426402870402",
+    "uikName": "УИК №1117",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "426402870403",
+    "uikName": "УИК №1118",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "426402870404",
+    "uikName": "УИК №1119",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "426402870405",
+    "uikName": "УИК №1120",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "426402870406",
+    "uikName": "УИК №1121",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "426402870407",
+    "uikName": "УИК №1122",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "426402870408",
+    "uikName": "УИК №1123",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "426402870409",
+    "uikName": "УИК №1124",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "426402870410",
+    "uikName": "УИК №1125",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "426402870411",
+    "uikName": "УИК №1126",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "426402870412",
+    "uikName": "УИК №1127",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "426402870413",
+    "uikName": "УИК №1128",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "426402870414",
+    "uikName": "УИК №1129",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "426402870415",
+    "uikName": "УИК №1130",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "426402870416",
+    "uikName": "УИК №1131",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "426402870417",
+    "uikName": "УИК №1132",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "426402870418",
+    "uikName": "УИК №1133",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "426402870419",
+    "uikName": "УИК №1134",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "426402870420",
+    "uikName": "УИК №1135",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "426402870421",
+    "uikName": "УИК №1136",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "426402870422",
+    "uikName": "УИК №1137",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "426402870423",
+    "uikName": "УИК №1138",
     "tikTvd": "326300171853",
-    "tikName": "Советская"
+    "tikName": "Советская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "426403270614",
+    "uikName": "УИК №1139",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "426403270393",
+    "uikName": "УИК №1140",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "426403270394",
+    "uikName": "УИК №1141",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "426403270395",
+    "uikName": "УИК №1142",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "426403270396",
+    "uikName": "УИК №1143",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "426403270397",
+    "uikName": "УИК №1144",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "426403270398",
+    "uikName": "УИК №1145",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "426403270399",
+    "uikName": "УИК №1146",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "426403270400",
+    "uikName": "УИК №1147",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "426403270401",
+    "uikName": "УИК №1148",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "426403270402",
+    "uikName": "УИК №1149",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "426403270403",
+    "uikName": "УИК №1150",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "426403270404",
+    "uikName": "УИК №1151",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1152,
     "uikTvd": "426403270405",
+    "uikName": "УИК №1152",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "426403270406",
+    "uikName": "УИК №1153",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "426403270407",
+    "uikName": "УИК №1154",
     "tikTvd": "326300171854",
-    "tikName": "Степновская"
+    "tikName": "Степновская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "426403370435",
+    "uikName": "УИК №1155",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "426403370436",
+    "uikName": "УИК №1156",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1157,
     "uikTvd": "426403370437",
+    "uikName": "УИК №1157",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "426403370438",
+    "uikName": "УИК №1158",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "426403370439",
+    "uikName": "УИК №1159",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "426403370440",
+    "uikName": "УИК №1160",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "426403370441",
+    "uikName": "УИК №1161",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "426403370442",
+    "uikName": "УИК №1162",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "426403370443",
+    "uikName": "УИК №1163",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "426403370444",
+    "uikName": "УИК №1164",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "426403370445",
+    "uikName": "УИК №1165",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "426403370446",
+    "uikName": "УИК №1166",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "426403370447",
+    "uikName": "УИК №1167",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "426403370448",
+    "uikName": "УИК №1168",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "426403370449",
+    "uikName": "УИК №1169",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "426403370450",
+    "uikName": "УИК №1170",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "426403370451",
+    "uikName": "УИК №1171",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "426403370452",
+    "uikName": "УИК №1172",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "426403370453",
+    "uikName": "УИК №1173",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1174,
     "uikTvd": "426403370454",
+    "uikName": "УИК №1174",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1175,
     "uikTvd": "426403370455",
+    "uikName": "УИК №1175",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1176,
     "uikTvd": "426403370456",
+    "uikName": "УИК №1176",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1177,
     "uikTvd": "426403370457",
+    "uikName": "УИК №1177",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "426403370458",
+    "uikName": "УИК №1178",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "426403370459",
+    "uikName": "УИК №1179",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1180,
     "uikTvd": "426403370460",
+    "uikName": "УИК №1180",
     "tikTvd": "326300370414",
-    "tikName": "Труновская "
+    "tikName": "Труновская ",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "426403470407",
+    "uikName": "УИК №1181",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "426403470408",
+    "uikName": "УИК №1182",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "426403470409",
+    "uikName": "УИК №1183",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "426403470410",
+    "uikName": "УИК №1184",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "426403470411",
+    "uikName": "УИК №1185",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1186,
     "uikTvd": "426403470412",
+    "uikName": "УИК №1186",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1187,
     "uikTvd": "426403470413",
+    "uikName": "УИК №1187",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1188,
     "uikTvd": "426403470414",
+    "uikName": "УИК №1188",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1189,
     "uikTvd": "426403470415",
+    "uikName": "УИК №1189",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1190,
     "uikTvd": "426403470416",
+    "uikName": "УИК №1190",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1191,
     "uikTvd": "426403470417",
+    "uikName": "УИК №1191",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1192,
     "uikTvd": "426403470418",
+    "uikName": "УИК №1192",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1193,
     "uikTvd": "426403470419",
+    "uikName": "УИК №1193",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1194,
     "uikTvd": "426403470420",
+    "uikName": "УИК №1194",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1195,
     "uikTvd": "426403470421",
+    "uikName": "УИК №1195",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1196,
     "uikTvd": "426403470422",
+    "uikName": "УИК №1196",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1197,
     "uikTvd": "426403470423",
+    "uikName": "УИК №1197",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1198,
     "uikTvd": "426403470424",
+    "uikName": "УИК №1198",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1199,
     "uikTvd": "426403470425",
+    "uikName": "УИК №1199",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1200,
     "uikTvd": "426403470426",
+    "uikName": "УИК №1200",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "426403470427",
+    "uikName": "УИК №1201",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "426403470428",
+    "uikName": "УИК №1202",
     "tikTvd": "326300370413",
-    "tikName": "Туркменская"
+    "tikName": "Туркменская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 56,
+      "oikTvd": "100100095882",
+      "oikName": "Петровский"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "426403570500",
+    "uikName": "УИК №1203",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "426403570501",
+    "uikName": "УИК №1204",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "426403570502",
+    "uikName": "УИК №1205",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "426403570503",
+    "uikName": "УИК №1206",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "426403570504",
+    "uikName": "УИК №1207",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "426403570505",
+    "uikName": "УИК №1208",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "426403570506",
+    "uikName": "УИК №1209",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "426403570507",
+    "uikName": "УИК №1210",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "426403570508",
+    "uikName": "УИК №1211",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "426403570509",
+    "uikName": "УИК №1212",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "426403570510",
+    "uikName": "УИК №1213",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "426403570511",
+    "uikName": "УИК №1214",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "426403570512",
+    "uikName": "УИК №1215",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "426403570513",
+    "uikName": "УИК №1216",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "426403570514",
+    "uikName": "УИК №1217",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "426403570515",
+    "uikName": "УИК №1218",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "426403570516",
+    "uikName": "УИК №1219",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "426403570517",
+    "uikName": "УИК №1220",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "426403570518",
+    "uikName": "УИК №1221",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "426403570519",
+    "uikName": "УИК №1222",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "426403570520",
+    "uikName": "УИК №1223",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "426403570521",
+    "uikName": "УИК №1224",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "426403570522",
+    "uikName": "УИК №1225",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "426403570523",
+    "uikName": "УИК №1226",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "426403570524",
+    "uikName": "УИК №1227",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "426403570525",
+    "uikName": "УИК №1228",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "426403570526",
+    "uikName": "УИК №1229",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "426403570527",
+    "uikName": "УИК №1230",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "426403570528",
+    "uikName": "УИК №1231",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "426403570529",
+    "uikName": "УИК №1232",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "426403570530",
+    "uikName": "УИК №1233",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "426403570531",
+    "uikName": "УИК №1234",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "426403570532",
+    "uikName": "УИК №1235",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "426403570533",
+    "uikName": "УИК №1236",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "426403570534",
+    "uikName": "УИК №1237",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "426403570535",
+    "uikName": "УИК №1238",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "426403570536",
+    "uikName": "УИК №1239",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "426403570537",
+    "uikName": "УИК №1240",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1241,
     "uikTvd": "426403570538",
+    "uikName": "УИК №1241",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1242,
     "uikTvd": "426403570539",
+    "uikName": "УИК №1242",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1243,
     "uikTvd": "426403570540",
+    "uikName": "УИК №1243",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1244,
     "uikTvd": "426403570541",
+    "uikName": "УИК №1244",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1245,
     "uikTvd": "426403570542",
+    "uikName": "УИК №1245",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "426403570543",
+    "uikName": "УИК №1246",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1247,
     "uikTvd": "426403570544",
+    "uikName": "УИК №1247",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1248,
     "uikTvd": "426403570545",
+    "uikName": "УИК №1248",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1249,
     "uikTvd": "426403570546",
+    "uikName": "УИК №1249",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1250,
     "uikTvd": "426403570547",
+    "uikName": "УИК №1250",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1251,
     "uikTvd": "426403570548",
+    "uikName": "УИК №1251",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1252,
     "uikTvd": "426403570549",
+    "uikName": "УИК №1252",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1253,
     "uikTvd": "426403570550",
+    "uikName": "УИК №1253",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1254,
     "uikTvd": "426403570551",
+    "uikName": "УИК №1254",
     "tikTvd": "326300470446",
-    "tikName": "Шпаковская"
+    "tikName": "Шпаковская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 57,
+      "oikTvd": "100100095883",
+      "oikName": "Ставропольский"
+    }
   },
   {
     "uikNumber": 1255,
     "uikTvd": "426403670489",
+    "uikName": "УИК №1255",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1256,
     "uikTvd": "426403670490",
+    "uikName": "УИК №1256",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1257,
     "uikTvd": "426403670491",
+    "uikName": "УИК №1257",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1258,
     "uikTvd": "426403670492",
+    "uikName": "УИК №1258",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1259,
     "uikTvd": "426403670493",
+    "uikName": "УИК №1259",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1260,
     "uikTvd": "426403670494",
+    "uikName": "УИК №1260",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1261,
     "uikTvd": "426403670495",
+    "uikName": "УИК №1261",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1262,
     "uikTvd": "426403670496",
+    "uikName": "УИК №1262",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1263,
     "uikTvd": "426403670497",
+    "uikName": "УИК №1263",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1264,
     "uikTvd": "426403670498",
+    "uikName": "УИК №1264",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1265,
     "uikTvd": "426403670499",
+    "uikName": "УИК №1265",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1266,
     "uikTvd": "426403670500",
+    "uikName": "УИК №1266",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1267,
     "uikTvd": "426403670501",
+    "uikName": "УИК №1267",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1268,
     "uikTvd": "426403670502",
+    "uikName": "УИК №1268",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1269,
     "uikTvd": "426403670503",
+    "uikName": "УИК №1269",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1270,
     "uikTvd": "426403670504",
+    "uikName": "УИК №1270",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1271,
     "uikTvd": "426403670505",
+    "uikName": "УИК №1271",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1272,
     "uikTvd": "426403670506",
+    "uikName": "УИК №1272",
     "tikTvd": "326300171855",
-    "tikName": "Буденновская городская"
+    "tikName": "Буденновская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1273,
     "uikTvd": "426403770414",
+    "uikName": "УИК №1273",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1274,
     "uikTvd": "426403770415",
+    "uikName": "УИК №1274",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1275,
     "uikTvd": "426403770416",
+    "uikName": "УИК №1275",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1276,
     "uikTvd": "426403770417",
+    "uikName": "УИК №1276",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1277,
     "uikTvd": "426403770418",
+    "uikName": "УИК №1277",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1278,
     "uikTvd": "426403770419",
+    "uikName": "УИК №1278",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1279,
     "uikTvd": "426403770420",
+    "uikName": "УИК №1279",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1280,
     "uikTvd": "426403770421",
+    "uikName": "УИК №1280",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1281,
     "uikTvd": "426403770422",
+    "uikName": "УИК №1281",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1282,
     "uikTvd": "426403770423",
+    "uikName": "УИК №1282",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1283,
     "uikTvd": "426403770424",
+    "uikName": "УИК №1283",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1284,
     "uikTvd": "426403770425",
+    "uikName": "УИК №1284",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1285,
     "uikTvd": "426403770426",
+    "uikName": "УИК №1285",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1286,
     "uikTvd": "426403770427",
+    "uikName": "УИК №1286",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1287,
     "uikTvd": "426403770428",
+    "uikName": "УИК №1287",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1288,
     "uikTvd": "426403770429",
+    "uikName": "УИК №1288",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1289,
     "uikTvd": "426403770430",
+    "uikName": "УИК №1289",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1290,
     "uikTvd": "426403770431",
+    "uikName": "УИК №1290",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1291,
     "uikTvd": "426403770432",
+    "uikName": "УИК №1291",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1292,
     "uikTvd": "426403770433",
+    "uikName": "УИК №1292",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1293,
     "uikTvd": "426403770434",
+    "uikName": "УИК №1293",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1294,
     "uikTvd": "426403770435",
+    "uikName": "УИК №1294",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1295,
     "uikTvd": "426403770436",
+    "uikName": "УИК №1295",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1296,
     "uikTvd": "426403770437",
+    "uikName": "УИК №1296",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1297,
     "uikTvd": "426403770438",
+    "uikName": "УИК №1297",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   },
   {
     "uikNumber": 1298,
     "uikTvd": "426403770439",
+    "uikName": "УИК №1298",
     "tikTvd": "326300171856",
-    "tikName": "Георгиевская городская"
+    "tikName": "Георгиевская городская",
+    "regionCode": "26",
+    "regionTvd": "100100095879",
+    "regionName": "Ставропольский край",
+    "district": {
+      "districtNumber": 54,
+      "oikTvd": "100100095880",
+      "oikName": "Георгиевский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

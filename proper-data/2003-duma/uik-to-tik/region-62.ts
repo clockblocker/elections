@@ -7,6697 +7,16741 @@ export const duma_2003_uik_to_tik_region_62 = [
   {
     "uikNumber": 1,
     "uikTvd": "462400270360",
+    "uikName": "УИК №1",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "462400270361",
+    "uikName": "УИК №2",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "462400270362",
+    "uikName": "УИК №3",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "462400270363",
+    "uikName": "УИК №4",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "462400270364",
+    "uikName": "УИК №5",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "462400270365",
+    "uikName": "УИК №6",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "462400270366",
+    "uikName": "УИК №7",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "462400270367",
+    "uikName": "УИК №8",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "462400270368",
+    "uikName": "УИК №9",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "462400270369",
+    "uikName": "УИК №10",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "462400270370",
+    "uikName": "УИК №11",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "462400270371",
+    "uikName": "УИК №12",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "462400270372",
+    "uikName": "УИК №13",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "462400270373",
+    "uikName": "УИК №14",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "462400270374",
+    "uikName": "УИК №15",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "462400270375",
+    "uikName": "УИК №16",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "462400270376",
+    "uikName": "УИК №17",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "462400270377",
+    "uikName": "УИК №18",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "462400270378",
+    "uikName": "УИК №19",
     "tikTvd": "362300171302",
-    "tikName": "Захаровская"
+    "tikName": "Захаровская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "462400870416",
+    "uikName": "УИК №20",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "462400870417",
+    "uikName": "УИК №21",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "462400870418",
+    "uikName": "УИК №22",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "462400870419",
+    "uikName": "УИК №23",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "462400870420",
+    "uikName": "УИК №24",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "462400870421",
+    "uikName": "УИК №25",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "462400870422",
+    "uikName": "УИК №26",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "462400870423",
+    "uikName": "УИК №27",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "462400870424",
+    "uikName": "УИК №28",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "462400870425",
+    "uikName": "УИК №29",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "462400870426",
+    "uikName": "УИК №30",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "462400870427",
+    "uikName": "УИК №31",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "462400870428",
+    "uikName": "УИК №32",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "462400870429",
+    "uikName": "УИК №33",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "462400870430",
+    "uikName": "УИК №34",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "462400870431",
+    "uikName": "УИК №35",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "462400870432",
+    "uikName": "УИК №36",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "462400870433",
+    "uikName": "УИК №37",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "462400870434",
+    "uikName": "УИК №38",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "462400870435",
+    "uikName": "УИК №39",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "462400870436",
+    "uikName": "УИК №40",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "462400870437",
+    "uikName": "УИК №41",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "462400870438",
+    "uikName": "УИК №42",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "462400870439",
+    "uikName": "УИК №43",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "462400870440",
+    "uikName": "УИК №44",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "462400870441",
+    "uikName": "УИК №45",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "462400870442",
+    "uikName": "УИК №46",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "462400870443",
+    "uikName": "УИК №47",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "462400870444",
+    "uikName": "УИК №48",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "462400870445",
+    "uikName": "УИК №49",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "462400870446",
+    "uikName": "УИК №50",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "462400870447",
+    "uikName": "УИК №51",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "462400870448",
+    "uikName": "УИК №52",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "462400870449",
+    "uikName": "УИК №53",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "462400870450",
+    "uikName": "УИК №54",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "462400870451",
+    "uikName": "УИК №55",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "462400870452",
+    "uikName": "УИК №56",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "462400870453",
+    "uikName": "УИК №57",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "462400870454",
+    "uikName": "УИК №58",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "462400870455",
+    "uikName": "УИК №59",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "462400870456",
+    "uikName": "УИК №60",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "462400870457",
+    "uikName": "УИК №61",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "462400870458",
+    "uikName": "УИК №62",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "462400870459",
+    "uikName": "УИК №63",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "462400870460",
+    "uikName": "УИК №64",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "462400870461",
+    "uikName": "УИК №65",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "462400870462",
+    "uikName": "УИК №66",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "462400870463",
+    "uikName": "УИК №67",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "462400870464",
+    "uikName": "УИК №68",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "462400870465",
+    "uikName": "УИК №69",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "462400870466",
+    "uikName": "УИК №70",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "462400870467",
+    "uikName": "УИК №71",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "462400870468",
+    "uikName": "УИК №72",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "462400870469",
+    "uikName": "УИК №73",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "462400870470",
+    "uikName": "УИК №74",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "462400870471",
+    "uikName": "УИК №75",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "462400870472",
+    "uikName": "УИК №76",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "462400870473",
+    "uikName": "УИК №77",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "462400870474",
+    "uikName": "УИК №78",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "462400870475",
+    "uikName": "УИК №79",
     "tikTvd": "362300171304",
-    "tikName": "Mихайловская"
+    "tikName": "Mихайловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "462401370394",
+    "uikName": "УИК №80",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "462401370395",
+    "uikName": "УИК №81",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "462401370396",
+    "uikName": "УИК №82",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "462401370397",
+    "uikName": "УИК №83",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "462401370398",
+    "uikName": "УИК №84",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "462401370399",
+    "uikName": "УИК №85",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "462401370400",
+    "uikName": "УИК №86",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "462401370401",
+    "uikName": "УИК №87",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "462401370402",
+    "uikName": "УИК №88",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "462401370403",
+    "uikName": "УИК №89",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "462401370404",
+    "uikName": "УИК №90",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "462401370405",
+    "uikName": "УИК №91",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "462401370406",
+    "uikName": "УИК №92",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "462401370407",
+    "uikName": "УИК №93",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "462401370408",
+    "uikName": "УИК №94",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "462401370409",
+    "uikName": "УИК №95",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "462401370410",
+    "uikName": "УИК №96",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "462401370411",
+    "uikName": "УИК №97",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "462401370412",
+    "uikName": "УИК №98",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "462401370413",
+    "uikName": "УИК №99",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "462401370414",
+    "uikName": "УИК №100",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "462401370415",
+    "uikName": "УИК №101",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "462401370416",
+    "uikName": "УИК №102",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "462401370417",
+    "uikName": "УИК №103",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "462401370418",
+    "uikName": "УИК №104",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "462401370419",
+    "uikName": "УИК №105",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "462401370420",
+    "uikName": "УИК №106",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "462401370421",
+    "uikName": "УИК №107",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "462401370422",
+    "uikName": "УИК №108",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "462401370423",
+    "uikName": "УИК №109",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "462401370424",
+    "uikName": "УИК №110",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "462401370425",
+    "uikName": "УИК №111",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "462401370426",
+    "uikName": "УИК №112",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "462401370427",
+    "uikName": "УИК №113",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "462401370428",
+    "uikName": "УИК №114",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "462401370429",
+    "uikName": "УИК №115",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "462401370430",
+    "uikName": "УИК №116",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "462401370431",
+    "uikName": "УИК №117",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "462401370432",
+    "uikName": "УИК №118",
     "tikTvd": "362300171303",
-    "tikName": "Рыбновская"
+    "tikName": "Рыбновская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "462401670377",
+    "uikName": "УИК №119",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "462401670479",
+    "uikName": "УИК №120",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "462401670480",
+    "uikName": "УИК №121",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "462401670481",
+    "uikName": "УИК №122",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "462401670482",
+    "uikName": "УИК №123",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "462401670483",
+    "uikName": "УИК №124",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "462401670484",
+    "uikName": "УИК №125",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "462401670485",
+    "uikName": "УИК №126",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "462401670486",
+    "uikName": "УИК №127",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "462401670487",
+    "uikName": "УИК №128",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "462401670488",
+    "uikName": "УИК №129",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "462401670489",
+    "uikName": "УИК №130",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "462401670490",
+    "uikName": "УИК №131",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "462401670491",
+    "uikName": "УИК №132",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "462401670492",
+    "uikName": "УИК №133",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "462401670493",
+    "uikName": "УИК №134",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "462401670494",
+    "uikName": "УИК №135",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "462401670495",
+    "uikName": "УИК №136",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "462401670496",
+    "uikName": "УИК №137",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "462401670497",
+    "uikName": "УИК №138",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "462401670498",
+    "uikName": "УИК №139",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "462401670499",
+    "uikName": "УИК №140",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "462401670500",
+    "uikName": "УИК №141",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "462401670501",
+    "uikName": "УИК №142",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "462401670502",
+    "uikName": "УИК №143",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "462401670503",
+    "uikName": "УИК №144",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "462401670504",
+    "uikName": "УИК №145",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "462401670505",
+    "uikName": "УИК №146",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "462401670506",
+    "uikName": "УИК №147",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "462401670507",
+    "uikName": "УИК №148",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "462401670508",
+    "uikName": "УИК №149",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "462401670509",
+    "uikName": "УИК №150",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "462401670510",
+    "uikName": "УИК №151",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "462401670511",
+    "uikName": "УИК №152",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "462401670512",
+    "uikName": "УИК №153",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "462401670513",
+    "uikName": "УИК №154",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "462401670514",
+    "uikName": "УИК №155",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "462401670515",
+    "uikName": "УИК №156",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "462401670516",
+    "uikName": "УИК №157",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "462401670517",
+    "uikName": "УИК №158",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "462401670518",
+    "uikName": "УИК №159",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "462401670519",
+    "uikName": "УИК №160",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "462401670520",
+    "uikName": "УИК №161",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "462401670521",
+    "uikName": "УИК №162",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "462401670522",
+    "uikName": "УИК №163",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "462401670523",
+    "uikName": "УИК №164",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "462401670524",
+    "uikName": "УИК №165",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "462401670525",
+    "uikName": "УИК №166",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "462401670476",
+    "uikName": "УИК №167",
     "tikTvd": "362300171305",
-    "tikName": "Рязань, Железнодорожная"
+    "tikName": "Рязань, Железнодорожная",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "462401770905",
+    "uikName": "УИК №168",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "462401770907",
+    "uikName": "УИК №169",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "462401770908",
+    "uikName": "УИК №170",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "462401770909",
+    "uikName": "УИК №171",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "462401770910",
+    "uikName": "УИК №172",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "462401770911",
+    "uikName": "УИК №173",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "462401770912",
+    "uikName": "УИК №174",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "462401770913",
+    "uikName": "УИК №175",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "462401770914",
+    "uikName": "УИК №176",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "462401770915",
+    "uikName": "УИК №177",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "462401770916",
+    "uikName": "УИК №178",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "462401770917",
+    "uikName": "УИК №179",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "462401770918",
+    "uikName": "УИК №180",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "462401770919",
+    "uikName": "УИК №181",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "462401770920",
+    "uikName": "УИК №182",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "462401770921",
+    "uikName": "УИК №183",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "462401770922",
+    "uikName": "УИК №184",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "462401770923",
+    "uikName": "УИК №185",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "462401770903",
+    "uikName": "УИК №186",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "462401770924",
+    "uikName": "УИК №187",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "462401770925",
+    "uikName": "УИК №188",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "462401770926",
+    "uikName": "УИК №189",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "462401770927",
+    "uikName": "УИК №190",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "462401770928",
+    "uikName": "УИК №191",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "462401770929",
+    "uikName": "УИК №192",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "462401770930",
+    "uikName": "УИК №193",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "462401770931",
+    "uikName": "УИК №194",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "462401770932",
+    "uikName": "УИК №195",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "462401770933",
+    "uikName": "УИК №196",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "462401770934",
+    "uikName": "УИК №197",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "462401770935",
+    "uikName": "УИК №198",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "462401770936",
+    "uikName": "УИК №199",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "462401770937",
+    "uikName": "УИК №200",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "462401770938",
+    "uikName": "УИК №201",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "462401770939",
+    "uikName": "УИК №202",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "462401770940",
+    "uikName": "УИК №203",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "462401770941",
+    "uikName": "УИК №204",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "462401770942",
+    "uikName": "УИК №205",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "462401770943",
+    "uikName": "УИК №206",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "462401770944",
+    "uikName": "УИК №207",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "462401770945",
+    "uikName": "УИК №208",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "462401770946",
+    "uikName": "УИК №209",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "462401770947",
+    "uikName": "УИК №210",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "462401770948",
+    "uikName": "УИК №211",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "462401770949",
+    "uikName": "УИК №212",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "462401770950",
+    "uikName": "УИК №213",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "462401770951",
+    "uikName": "УИК №214",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "462401770952",
+    "uikName": "УИК №215",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "462401770953",
+    "uikName": "УИК №216",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "462401770954",
+    "uikName": "УИК №217",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "462401770955",
+    "uikName": "УИК №218",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "462401770956",
+    "uikName": "УИК №219",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "462401770957",
+    "uikName": "УИК №220",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "462401770958",
+    "uikName": "УИК №221",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "462401770959",
+    "uikName": "УИК №222",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "462401770960",
+    "uikName": "УИК №223",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "462401770961",
+    "uikName": "УИК №224",
     "tikTvd": "362300171306",
-    "tikName": "Рязань, Московская"
+    "tikName": "Рязань, Московская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "462401870466",
+    "uikName": "УИК №225",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "462401870477",
+    "uikName": "УИК №226",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "462401870479",
+    "uikName": "УИК №227",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "462401870480",
+    "uikName": "УИК №228",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "462401870481",
+    "uikName": "УИК №229",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "462401870482",
+    "uikName": "УИК №230",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "462401870483",
+    "uikName": "УИК №231",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "462401870484",
+    "uikName": "УИК №232",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "462401870485",
+    "uikName": "УИК №233",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "462401870486",
+    "uikName": "УИК №234",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "462401870487",
+    "uikName": "УИК №235",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "462401870488",
+    "uikName": "УИК №236",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "462401870489",
+    "uikName": "УИК №237",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "462401870490",
+    "uikName": "УИК №238",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "462401870491",
+    "uikName": "УИК №239",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "462401870492",
+    "uikName": "УИК №240",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "462401870493",
+    "uikName": "УИК №241",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "462401870494",
+    "uikName": "УИК №242",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "462401870495",
+    "uikName": "УИК №243",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "462401870496",
+    "uikName": "УИК №244",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "462401870497",
+    "uikName": "УИК №245",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "462401870498",
+    "uikName": "УИК №246",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "462401870499",
+    "uikName": "УИК №247",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "462401870500",
+    "uikName": "УИК №248",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "462401870501",
+    "uikName": "УИК №249",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "462401870502",
+    "uikName": "УИК №250",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "462401870503",
+    "uikName": "УИК №251",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "462401870504",
+    "uikName": "УИК №252",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "462401870505",
+    "uikName": "УИК №253",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "462401870506",
+    "uikName": "УИК №254",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "462401870507",
+    "uikName": "УИК №255",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "462401870508",
+    "uikName": "УИК №256",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "462401870509",
+    "uikName": "УИК №257",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "462401870510",
+    "uikName": "УИК №258",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "462401870511",
+    "uikName": "УИК №259",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "462401870512",
+    "uikName": "УИК №260",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "462401870513",
+    "uikName": "УИК №261",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "462401870514",
+    "uikName": "УИК №262",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "462401870515",
+    "uikName": "УИК №263",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "462401870516",
+    "uikName": "УИК №264",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "462401870517",
+    "uikName": "УИК №265",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "462401870518",
+    "uikName": "УИК №266",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "462401870519",
+    "uikName": "УИК №267",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "462401870520",
+    "uikName": "УИК №268",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "462401870521",
+    "uikName": "УИК №269",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "462401870522",
+    "uikName": "УИК №270",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "462401870523",
+    "uikName": "УИК №271",
     "tikTvd": "362300171307",
-    "tikName": "Рязань, Октябрьская"
+    "tikName": "Рязань, Октябрьская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "462401970363",
+    "uikName": "УИК №272",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "462401970375",
+    "uikName": "УИК №273",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "462401970376",
+    "uikName": "УИК №274",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "462401970404",
+    "uikName": "УИК  275",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "462401970377",
+    "uikName": "УИК №276",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "462401970378",
+    "uikName": "УИК №277",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "462401970379",
+    "uikName": "УИК №278",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "462401970380",
+    "uikName": "УИК №279",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "462401970381",
+    "uikName": "УИК №280",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "462401970382",
+    "uikName": "УИК №281",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "462401970383",
+    "uikName": "УИК №282",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "462401970384",
+    "uikName": "УИК №283",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "462401970385",
+    "uikName": "УИК №284",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "462401970386",
+    "uikName": "УИК №285",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "462401970387",
+    "uikName": "УИК №286",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "462401970388",
+    "uikName": "УИК №287",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "462401970389",
+    "uikName": "УИК №288",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "462401970390",
+    "uikName": "УИК №289",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "462401970391",
+    "uikName": "УИК №290",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "462401970392",
+    "uikName": "УИК №291",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "462401970393",
+    "uikName": "УИК №292",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "462401970394",
+    "uikName": "УИК №293",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "462401970395",
+    "uikName": "УИК №294",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "462401970396",
+    "uikName": "УИК №295",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "462401970397",
+    "uikName": "УИК №296",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "462401970398",
+    "uikName": "УИК №297",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "462401970399",
+    "uikName": "УИК №298",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "462401970400",
+    "uikName": "УИК №299",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "462401970401",
+    "uikName": "УИК №300",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "462401970402",
+    "uikName": "УИК №301",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "462401970403",
+    "uikName": "УИК №302",
     "tikTvd": "362300171308",
-    "tikName": "Рязань, Советская"
+    "tikName": "Рязань, Советская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 149,
+      "oikTvd": "100100095850",
+      "oikName": "Рязанский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "462403072145",
+    "uikName": "УИК №303",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "462403072146",
+    "uikName": "УИК №304",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "462403072147",
+    "uikName": "УИК №305",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "462403072148",
+    "uikName": "УИК №306",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "462403072149",
+    "uikName": "УИК №307",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "462403072150",
+    "uikName": "УИК №308",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "462403072151",
+    "uikName": "УИК №309",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "462403072152",
+    "uikName": "УИК №310",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "462403072153",
+    "uikName": "УИК №311",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "462403072154",
+    "uikName": "УИК №312",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "462403072155",
+    "uikName": "УИК №313",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "462403072156",
+    "uikName": "УИК №314",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "462403072157",
+    "uikName": "УИК №315",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "462403072158",
+    "uikName": "УИК №316",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "462403072159",
+    "uikName": "УИК №317",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "462403072160",
+    "uikName": "УИК №318",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "462403072161",
+    "uikName": "УИК №319",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "462403072162",
+    "uikName": "УИК №320",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "462403072163",
+    "uikName": "УИК №321",
     "tikTvd": "362300271158",
-    "tikName": "Касимовская городская"
+    "tikName": "Касимовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "462403170366",
+    "uikName": "УИК №322",
     "tikTvd": "362300271171",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "462403170367",
+    "uikName": "УИК №323",
     "tikTvd": "362300271171",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "462403170368",
+    "uikName": "УИК №324",
     "tikTvd": "362300271171",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "462403170369",
+    "uikName": "УИК №325",
     "tikTvd": "362300271171",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "462403170370",
+    "uikName": "УИК №326",
     "tikTvd": "362300271171",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "462403170371",
+    "uikName": "УИК №327",
     "tikTvd": "362300271171",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "462403170372",
+    "uikName": "УИК №328",
     "tikTvd": "362300271171",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "462403170373",
+    "uikName": "УИК №329",
     "tikTvd": "362300271171",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "462403170374",
+    "uikName": "УИК №330",
     "tikTvd": "362300271171",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "462403170375",
+    "uikName": "УИК №331",
     "tikTvd": "362300271171",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "462403170376",
+    "uikName": "УИК №332",
     "tikTvd": "362300271171",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "462403170377",
+    "uikName": "УИК №333",
     "tikTvd": "362300271171",
-    "tikName": "Сасовская городская"
+    "tikName": "Сасовская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "462403270357",
+    "uikName": "УИК №334",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "462403270358",
+    "uikName": "УИК №335",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "462403270359",
+    "uikName": "УИК №336",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "462403270360",
+    "uikName": "УИК №337",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "462403270361",
+    "uikName": "УИК №338",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "462403270362",
+    "uikName": "УИК №339",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "462403270363",
+    "uikName": "УИК №340",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "462403270364",
+    "uikName": "УИК №341",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "462403270365",
+    "uikName": "УИК №342",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "462403270366",
+    "uikName": "УИК №343",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "462403270367",
+    "uikName": "УИК №344",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "462403270368",
+    "uikName": "УИК №345",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "462403270369",
+    "uikName": "УИК №346",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "462403270370",
+    "uikName": "УИК №347",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "462403270371",
+    "uikName": "УИК №348",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "462403270372",
+    "uikName": "УИК №349",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "462403270373",
+    "uikName": "УИК №350",
     "tikTvd": "362300271173",
-    "tikName": "Скопинская городская"
+    "tikName": "Скопинская городская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "462400170449",
+    "uikName": "УИК №351",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "462400170450",
+    "uikName": "УИК №352",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "462400170451",
+    "uikName": "УИК №353",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "462400170452",
+    "uikName": "УИК №354",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "462400170453",
+    "uikName": "УИК №355",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "462400170454",
+    "uikName": "УИК №356",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "462400170455",
+    "uikName": "УИК №357",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "462400170456",
+    "uikName": "УИК №358",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "462400170457",
+    "uikName": "УИК №359",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "462400170458",
+    "uikName": "УИК №360",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "462400170459",
+    "uikName": "УИК №361",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "462400170460",
+    "uikName": "УИК №362",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "462400170461",
+    "uikName": "УИК №363",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "462400170462",
+    "uikName": "УИК №364",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "462400170463",
+    "uikName": "УИК №365",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "462400170464",
+    "uikName": "УИК №366",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "462400170465",
+    "uikName": "УИК №367",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "462400170466",
+    "uikName": "УИК №368",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "462400170467",
+    "uikName": "УИК №369",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "462400170468",
+    "uikName": "УИК №370",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "462400170469",
+    "uikName": "УИК №371",
     "tikTvd": "362300271156",
-    "tikName": "Ермишинская"
+    "tikName": "Ермишинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "462400370390",
+    "uikName": "УИК №372",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "462400370391",
+    "uikName": "УИК №373",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "462400370392",
+    "uikName": "УИК №374",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "462400370393",
+    "uikName": "УИК №375",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "462400370394",
+    "uikName": "УИК №376",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "462400370395",
+    "uikName": "УИК №377",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "462400370396",
+    "uikName": "УИК №378",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "462400370397",
+    "uikName": "УИК №379",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "462400370398",
+    "uikName": "УИК №380",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "462400370399",
+    "uikName": "УИК №381",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "462400370400",
+    "uikName": "УИК №382",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "462400370401",
+    "uikName": "УИК №383",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "462400370402",
+    "uikName": "УИК №384",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "462400370403",
+    "uikName": "УИК №385",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "462400370404",
+    "uikName": "УИК №386",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "462400370405",
+    "uikName": "УИК №387",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "462400370406",
+    "uikName": "УИК №388",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "462400370407",
+    "uikName": "УИК №389",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "462400370408",
+    "uikName": "УИК №390",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "462400370409",
+    "uikName": "УИК №391",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "462400370410",
+    "uikName": "УИК №392",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "462400370411",
+    "uikName": "УИК №393",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "462400370412",
+    "uikName": "УИК №394",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "462400370413",
+    "uikName": "УИК №395",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "462400370414",
+    "uikName": "УИК №396",
     "tikTvd": "362300271155",
-    "tikName": "Кадомская"
+    "tikName": "Кадомская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "462400470399",
+    "uikName": "УИК №397",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "462400470400",
+    "uikName": "УИК №398",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "462400470401",
+    "uikName": "УИК №399",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "462400470402",
+    "uikName": "УИК №400",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "462400470403",
+    "uikName": "УИК №401",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "462400470404",
+    "uikName": "УИК №402",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "462400470405",
+    "uikName": "УИК №403",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "462400470406",
+    "uikName": "УИК №404",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "462400470407",
+    "uikName": "УИК №405",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "462400470408",
+    "uikName": "УИК №406",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "462400470409",
+    "uikName": "УИК №407",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "462400470410",
+    "uikName": "УИК №408",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "462400470411",
+    "uikName": "УИК №409",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "462400470412",
+    "uikName": "УИК №410",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "462400470413",
+    "uikName": "УИК №411",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "462400470414",
+    "uikName": "УИК №412",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "462400470415",
+    "uikName": "УИК №413",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "462400470416",
+    "uikName": "УИК №414",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "462400470417",
+    "uikName": "УИК №415",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "462400470418",
+    "uikName": "УИК №416",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "462400470419",
+    "uikName": "УИК №417",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "462400470420",
+    "uikName": "УИК №418",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "462400470421",
+    "uikName": "УИК №419",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "462400470422",
+    "uikName": "УИК №420",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "462400470423",
+    "uikName": "УИК №421",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "462400470424",
+    "uikName": "УИК №422",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "462400470425",
+    "uikName": "УИК №423",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "462400470426",
+    "uikName": "УИК №424",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "462400470427",
+    "uikName": "УИК №425",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "462400470428",
+    "uikName": "УИК №426",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "462400470429",
+    "uikName": "УИК №427",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "462400470430",
+    "uikName": "УИК №428",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "462400470431",
+    "uikName": "УИК №429",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "462400470432",
+    "uikName": "УИК №430",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "462400470433",
+    "uikName": "УИК №431",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "462400470434",
+    "uikName": "УИК №432",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "462400470435",
+    "uikName": "УИК №433",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "462400470436",
+    "uikName": "УИК №434",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "462400470437",
+    "uikName": "УИК №435",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "462400470438",
+    "uikName": "УИК №436",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "462400470439",
+    "uikName": "УИК №437",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "462400470440",
+    "uikName": "УИК №438",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "462400470441",
+    "uikName": "УИК №439",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "462400470442",
+    "uikName": "УИК №440",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "462400470443",
+    "uikName": "УИК №441",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "462400470444",
+    "uikName": "УИК №442",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "462400470445",
+    "uikName": "УИК №443",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "462400470446",
+    "uikName": "УИК №444",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "462400470447",
+    "uikName": "УИК №445",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "462400470448",
+    "uikName": "УИК №446",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "462400470449",
+    "uikName": "УИК №447",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "462400470450",
+    "uikName": "УИК №448",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "462400470451",
+    "uikName": "УИК №449",
     "tikTvd": "362300271157",
-    "tikName": "Касимовская"
+    "tikName": "Касимовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "462400570409",
+    "uikName": "УИК №450",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "462400570407",
+    "uikName": "УИК №451",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "462400570410",
+    "uikName": "УИК №452",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "462400570411",
+    "uikName": "УИК №453",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "462400570412",
+    "uikName": "УИК №454",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "462400570413",
+    "uikName": "УИК №455",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "462400570414",
+    "uikName": "УИК №456",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "462400570415",
+    "uikName": "УИК №457",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "462400570416",
+    "uikName": "УИК №458",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "462400570417",
+    "uikName": "УИК №459",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "462400570418",
+    "uikName": "УИК №460",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "462400570419",
+    "uikName": "УИК №461",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "462400570420",
+    "uikName": "УИК №462",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "462400570421",
+    "uikName": "УИК №463",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "462400570422",
+    "uikName": "УИК №464",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "462400570423",
+    "uikName": "УИК №465",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "462400570424",
+    "uikName": "УИК №466",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "462400570425",
+    "uikName": "УИК №467",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "462400570426",
+    "uikName": "УИК №468",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "462400570427",
+    "uikName": "УИК №469",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "462400570428",
+    "uikName": "УИК №470",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "462400570429",
+    "uikName": "УИК №471",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "462400570430",
+    "uikName": "УИК №472",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "462400570431",
+    "uikName": "УИК №473",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "462400570432",
+    "uikName": "УИК №474",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "462400570433",
+    "uikName": "УИК №475",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "462400570434",
+    "uikName": "УИК №476",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "462400570435",
+    "uikName": "УИК №477",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "462400570436",
+    "uikName": "УИК №478",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "462400570437",
+    "uikName": "УИК №479",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "462400570438",
+    "uikName": "УИК №480",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "462400570439",
+    "uikName": "УИК №481",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "462400570440",
+    "uikName": "УИК №482",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "462400570441",
+    "uikName": "УИК №483",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "462400570442",
+    "uikName": "УИК №484",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "462400570443",
+    "uikName": "УИК №485",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "462400570444",
+    "uikName": "УИК №486",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "462400570445",
+    "uikName": "УИК №487",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "462400570446",
+    "uikName": "УИК №488",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "462400570447",
+    "uikName": "УИК №489",
     "tikTvd": "362300271159",
-    "tikName": "Kлепиковская"
+    "tikName": "Kлепиковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "462400670427",
+    "uikName": "УИК №490",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "462400670428",
+    "uikName": "УИК №491",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "462400670429",
+    "uikName": "УИК №492",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "462400670430",
+    "uikName": "УИК №493",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "462400670431",
+    "uikName": "УИК №494",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "462400670432",
+    "uikName": "УИК №495",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "462400670433",
+    "uikName": "УИК №496",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "462400670434",
+    "uikName": "УИК №497",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "462400670435",
+    "uikName": "УИК №498",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "462400670436",
+    "uikName": "УИК №499",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "462400670437",
+    "uikName": "УИК №500",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "462400670438",
+    "uikName": "УИК №501",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "462400670439",
+    "uikName": "УИК №502",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "462400670440",
+    "uikName": "УИК №503",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "462400670441",
+    "uikName": "УИК №504",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "462400670442",
+    "uikName": "УИК №505",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "462400670443",
+    "uikName": "УИК №506",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "462400670444",
+    "uikName": "УИК №507",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "462400670445",
+    "uikName": "УИК №508",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "462400670446",
+    "uikName": "УИК №509",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "462400670447",
+    "uikName": "УИК №510",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "462400670448",
+    "uikName": "УИК №511",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "462400670449",
+    "uikName": "УИК №512",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "462400670450",
+    "uikName": "УИК №513",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "462400670451",
+    "uikName": "УИК №514",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "462400670452",
+    "uikName": "УИК №515",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "462400670453",
+    "uikName": "УИК №516",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "462400670454",
+    "uikName": "УИК №517",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "462400670455",
+    "uikName": "УИК №518",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "462400670456",
+    "uikName": "УИК №519",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "462400670457",
+    "uikName": "УИК №520",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "462400670458",
+    "uikName": "УИК №521",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "462400670459",
+    "uikName": "УИК №522",
     "tikTvd": "362300271160",
-    "tikName": "Кораблинская"
+    "tikName": "Кораблинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "462400770496",
+    "uikName": "УИК №523",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "462400770497",
+    "uikName": "УИК №524",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "462400770498",
+    "uikName": "УИК №525",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "462400770499",
+    "uikName": "УИК №526",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "462400770500",
+    "uikName": "УИК №527",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "462400770501",
+    "uikName": "УИК №528",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "462400770502",
+    "uikName": "УИК №529",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "462400770503",
+    "uikName": "УИК №530",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "462400770504",
+    "uikName": "УИК №531",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "462400770505",
+    "uikName": "УИК №532",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "462400770506",
+    "uikName": "УИК №533",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "462400770507",
+    "uikName": "УИК №534",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "462400770508",
+    "uikName": "УИК №535",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "462400770509",
+    "uikName": "УИК №536",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "462400770510",
+    "uikName": "УИК №537",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "462400770511",
+    "uikName": "УИК №538",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "462400770512",
+    "uikName": "УИК №539",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "462400770513",
+    "uikName": "УИК №540",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "462400770514",
+    "uikName": "УИК №541",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "462400770515",
+    "uikName": "УИК №542",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "462400770516",
+    "uikName": "УИК №543",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "462400770517",
+    "uikName": "УИК №544",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "462400770518",
+    "uikName": "УИК №545",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "462400770519",
+    "uikName": "УИК №546",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "462400770520",
+    "uikName": "УИК №547",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "462400770521",
+    "uikName": "УИК №548",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "462400770522",
+    "uikName": "УИК №549",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "462400770523",
+    "uikName": "УИК №550",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "462400770524",
+    "uikName": "УИК №551",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "462400770525",
+    "uikName": "УИК №552",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "462400770526",
+    "uikName": "УИК №553",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "462400770527",
+    "uikName": "УИК №554",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "462400770528",
+    "uikName": "УИК №555",
     "tikTvd": "362300271161",
-    "tikName": "Милославская"
+    "tikName": "Милославская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "462400970411",
+    "uikName": "УИК №556",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "462400970412",
+    "uikName": "УИК №557",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "462400970413",
+    "uikName": "УИК №558",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "462400970414",
+    "uikName": "УИК №559",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "462400970415",
+    "uikName": "УИК №560",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "462400970416",
+    "uikName": "УИК №561",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "462400970417",
+    "uikName": "УИК №562",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "462400970418",
+    "uikName": "УИК №563",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "462400970419",
+    "uikName": "УИК №564",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "462400970420",
+    "uikName": "УИК №565",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "462400970421",
+    "uikName": "УИК №566",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "462400970422",
+    "uikName": "УИК №567",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "462400970423",
+    "uikName": "УИК №568",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "462400970424",
+    "uikName": "УИК №569",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "462400970425",
+    "uikName": "УИК №570",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "462400970426",
+    "uikName": "УИК №571",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "462400970427",
+    "uikName": "УИК №572",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "462400970428",
+    "uikName": "УИК №573",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "462400970429",
+    "uikName": "УИК №574",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "462400970430",
+    "uikName": "УИК №575",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "462400970431",
+    "uikName": "УИК №576",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "462400970432",
+    "uikName": "УИК №577",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "462400970433",
+    "uikName": "УИК №578",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "462400970434",
+    "uikName": "УИК №579",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "462400970435",
+    "uikName": "УИК №580",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "462400970436",
+    "uikName": "УИК №581",
     "tikTvd": "362300271162",
-    "tikName": "Новодеревенская"
+    "tikName": "Новодеревенская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "462401070384",
+    "uikName": "УИК №582",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "462401070385",
+    "uikName": "УИК №583",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "462401070386",
+    "uikName": "УИК №584",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "462401070387",
+    "uikName": "УИК №585",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "462401070388",
+    "uikName": "УИК №586",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "462401070389",
+    "uikName": "УИК №587",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "462401070390",
+    "uikName": "УИК №588",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "462401070391",
+    "uikName": "УИК №589",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "462401070392",
+    "uikName": "УИК №590",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "462401070393",
+    "uikName": "УИК №591",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "462401070394",
+    "uikName": "УИК №592",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "462401070395",
+    "uikName": "УИК №593",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "462401070396",
+    "uikName": "УИК №594",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "462401070397",
+    "uikName": "УИК №595",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "462401070398",
+    "uikName": "УИК №596",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "462401070399",
+    "uikName": "УИК №597",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "462401070400",
+    "uikName": "УИК №598",
     "tikTvd": "362300271163",
-    "tikName": "Пителинская"
+    "tikName": "Пителинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "462401170385",
+    "uikName": "УИК №599",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "462401170386",
+    "uikName": "УИК №600",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "462401170387",
+    "uikName": "УИК №601",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "462401170388",
+    "uikName": "УИК №602",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "462401170389",
+    "uikName": "УИК №603",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "462401170390",
+    "uikName": "УИК №604",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "462401170391",
+    "uikName": "УИК №605",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "462401170392",
+    "uikName": "УИК №606",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "462401170393",
+    "uikName": "УИК №607",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "462401170394",
+    "uikName": "УИК №608",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "462401170395",
+    "uikName": "УИК №609",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "462401170396",
+    "uikName": "УИК №610",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "462401170397",
+    "uikName": "УИК №611",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "462401170398",
+    "uikName": "УИК №612",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "462401170399",
+    "uikName": "УИК №613",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "462401170400",
+    "uikName": "УИК №614",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "462401170401",
+    "uikName": "УИК №615",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "462401170402",
+    "uikName": "УИК №616",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "462401170403",
+    "uikName": "УИК №617",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "462401170404",
+    "uikName": "УИК №618",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "462401170405",
+    "uikName": "УИК №619",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "462401170406",
+    "uikName": "УИК №620",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "462401170407",
+    "uikName": "УИК №621",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "462401170408",
+    "uikName": "УИК №622",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "462401170409",
+    "uikName": "УИК №623",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "462401170410",
+    "uikName": "УИК №624",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "462401170411",
+    "uikName": "УИК №625",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "462401170412",
+    "uikName": "УИК №626",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "462401170413",
+    "uikName": "УИК №627",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "462401170414",
+    "uikName": "УИК №628",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "462401170415",
+    "uikName": "УИК №629",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "462401170416",
+    "uikName": "УИК №630",
     "tikTvd": "362300271164",
-    "tikName": "Пронская"
+    "tikName": "Пронская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "462401270973",
+    "uikName": "УИК №631",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "462401270974",
+    "uikName": "УИК №632",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "462401270975",
+    "uikName": "УИК №633",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "462401270976",
+    "uikName": "УИК №634",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "462401270977",
+    "uikName": "УИК №635",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "462401270978",
+    "uikName": "УИК №636",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "462401270979",
+    "uikName": "УИК №637",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "462401270980",
+    "uikName": "УИК №638",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "462401270981",
+    "uikName": "УИК №639",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "462401270982",
+    "uikName": "УИК №640",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "462401270983",
+    "uikName": "УИК №641",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "462401270984",
+    "uikName": "УИК №642",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "462401270985",
+    "uikName": "УИК №643",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "462401270986",
+    "uikName": "УИК №644",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "462401270987",
+    "uikName": "УИК №645",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "462401270988",
+    "uikName": "УИК №646",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "462401270989",
+    "uikName": "УИК №647",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "462401270990",
+    "uikName": "УИК №648",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "462401270991",
+    "uikName": "УИК №649",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "462401270992",
+    "uikName": "УИК №650",
     "tikTvd": "362300271165",
-    "tikName": "Путятинская"
+    "tikName": "Путятинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "462401470407",
+    "uikName": "УИК №651",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "462401470408",
+    "uikName": "УИК №652",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "462401470409",
+    "uikName": "УИК №653",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "462401470410",
+    "uikName": "УИК №654",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "462401470411",
+    "uikName": "УИК №655",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "462401470412",
+    "uikName": "УИК №656",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "462401470413",
+    "uikName": "УИК №657",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "462401470414",
+    "uikName": "УИК №658",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "462401470415",
+    "uikName": "УИК №659",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "462401470416",
+    "uikName": "УИК №660",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "462401470417",
+    "uikName": "УИК №661",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "462401470418",
+    "uikName": "УИК №662",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "462401470419",
+    "uikName": "УИК №663",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "462401470420",
+    "uikName": "УИК №664",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "462401470421",
+    "uikName": "УИК №665",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "462401470423",
+    "uikName": "УИК №667",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "462401470424",
+    "uikName": "УИК №668",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "462401470425",
+    "uikName": "УИК №669",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "462401470426",
+    "uikName": "УИК №670",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "462401470427",
+    "uikName": "УИК №671",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "462401470428",
+    "uikName": "УИК №672",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "462401470429",
+    "uikName": "УИК №673",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "462401470430",
+    "uikName": "УИК №674",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 675,
     "uikTvd": "462401470431",
+    "uikName": "УИК №675",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "462401470432",
+    "uikName": "УИК №676",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "462401470433",
+    "uikName": "УИК №677",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "462401470434",
+    "uikName": "УИК №678",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "462401470435",
+    "uikName": "УИК №679",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "462401470436",
+    "uikName": "УИК №680",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "462401470437",
+    "uikName": "УИК №681",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "462401470438",
+    "uikName": "УИК №682",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "462401470439",
+    "uikName": "УИК №683",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "462401470440",
+    "uikName": "УИК №684",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "462401570392",
+    "uikName": "УИК №685",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "462401570393",
+    "uikName": "УИК №686",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "462401570394",
+    "uikName": "УИК №687",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "462401570395",
+    "uikName": "УИК №688",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "462401570396",
+    "uikName": "УИК №689",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "462401570397",
+    "uikName": "УИК №690",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "462401570398",
+    "uikName": "УИК №691",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "462401570399",
+    "uikName": "УИК №692",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "462401570400",
+    "uikName": "УИК №693",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "462401570401",
+    "uikName": "УИК №694",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 695,
     "uikTvd": "462401570402",
+    "uikName": "УИК №695",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "462401570403",
+    "uikName": "УИК №696",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "462401570404",
+    "uikName": "УИК №697",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "462401570405",
+    "uikName": "УИК №698",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "462401570406",
+    "uikName": "УИК №699",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "462401570407",
+    "uikName": "УИК №700",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "462401570408",
+    "uikName": "УИК №701",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "462401570409",
+    "uikName": "УИК №702",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "462401570410",
+    "uikName": "УИК №703",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "462401570411",
+    "uikName": "УИК №704",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "462401570412",
+    "uikName": "УИК №705",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "462401570413",
+    "uikName": "УИК №706",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "462401570414",
+    "uikName": "УИК №707",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "462401570415",
+    "uikName": "УИК №708",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "462401570416",
+    "uikName": "УИК №709",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "462401570417",
+    "uikName": "УИК №710",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "462401570418",
+    "uikName": "УИК №711",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "462401570419",
+    "uikName": "УИК №712",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "462401570420",
+    "uikName": "УИК №713",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "462401570421",
+    "uikName": "УИК №714",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "462401570422",
+    "uikName": "УИК №715",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "462401570423",
+    "uikName": "УИК №716",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "462401570424",
+    "uikName": "УИК №717",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "462401570425",
+    "uikName": "УИК №718",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "462401570426",
+    "uikName": "УИК №719",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "462401570427",
+    "uikName": "УИК №720",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "462401570428",
+    "uikName": "УИК №721",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "462401570429",
+    "uikName": "УИК №722",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "462401570430",
+    "uikName": "УИК №723",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "462401570431",
+    "uikName": "УИК №724",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "462401570432",
+    "uikName": "УИК №725",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "462401570433",
+    "uikName": "УИК №726",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "462401570434",
+    "uikName": "УИК №727",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "462401570435",
+    "uikName": "УИК №728",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "462401570436",
+    "uikName": "УИК №729",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "462401570437",
+    "uikName": "УИК №730",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "462401570438",
+    "uikName": "УИК №731",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "462401570439",
+    "uikName": "УИК №732",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "462401570440",
+    "uikName": "УИК №733",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "462401570441",
+    "uikName": "УИК №734",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "462401570442",
+    "uikName": "УИК №735",
     "tikTvd": "362300271167",
-    "tikName": "Рязанская"
+    "tikName": "Рязанская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 736,
     "uikTvd": "462402070372",
+    "uikName": "УИК №736",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 737,
     "uikTvd": "462402070373",
+    "uikName": "УИК №737",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "462402070374",
+    "uikName": "УИК №738",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "462402070375",
+    "uikName": "УИК №739",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "462402070376",
+    "uikName": "УИК №740",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "462402070377",
+    "uikName": "УИК №741",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "462402070378",
+    "uikName": "УИК №742",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "462402070379",
+    "uikName": "УИК №743",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "462402070380",
+    "uikName": "УИК №744",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "462402070381",
+    "uikName": "УИК №745",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "462402070382",
+    "uikName": "УИК №746",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "462402070383",
+    "uikName": "УИК №747",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "462402070384",
+    "uikName": "УИК №748",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "462402070385",
+    "uikName": "УИК №749",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "462402070386",
+    "uikName": "УИК №750",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "462402070387",
+    "uikName": "УИК №751",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "462402070388",
+    "uikName": "УИК №752",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "462402070389",
+    "uikName": "УИК №753",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "462402070390",
+    "uikName": "УИК №754",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "462402070391",
+    "uikName": "УИК №755",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "462402070392",
+    "uikName": "УИК №756",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "462402070393",
+    "uikName": "УИК №757",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "462402070394",
+    "uikName": "УИК №758",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "462402070395",
+    "uikName": "УИК №759",
     "tikTvd": "362300271168",
-    "tikName": "Сапожковская"
+    "tikName": "Сапожковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 760,
     "uikTvd": "462402170407",
+    "uikName": "УИК №760",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "462402170408",
+    "uikName": "УИК №761",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "462402170409",
+    "uikName": "УИК №762",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "462402170410",
+    "uikName": "УИК №763",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "462402170411",
+    "uikName": "УИК №764",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "462402170412",
+    "uikName": "УИК №765",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "462402170413",
+    "uikName": "УИК №766",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "462402170414",
+    "uikName": "УИК №767",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 768,
     "uikTvd": "462402170415",
+    "uikName": "УИК №768",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 769,
     "uikTvd": "462402170416",
+    "uikName": "УИК №769",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "462402170417",
+    "uikName": "УИК №770",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "462402170418",
+    "uikName": "УИК №771",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "462402170419",
+    "uikName": "УИК №772",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "462402170420",
+    "uikName": "УИК №773",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "462402170421",
+    "uikName": "УИК №774",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "462402170422",
+    "uikName": "УИК №775",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "462402170423",
+    "uikName": "УИК №776",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "462402170424",
+    "uikName": "УИК №777",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "462402170425",
+    "uikName": "УИК №778",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "462402170426",
+    "uikName": "УИК №779",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "462402170427",
+    "uikName": "УИК №780",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "462402170428",
+    "uikName": "УИК №781",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "462402170429",
+    "uikName": "УИК №782",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "462402170430",
+    "uikName": "УИК №783",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "462402170431",
+    "uikName": "УИК №784",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "462402170432",
+    "uikName": "УИК №785",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "462402170433",
+    "uikName": "УИК №786",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "462402170434",
+    "uikName": "УИК №787",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "462402170435",
+    "uikName": "УИК №788",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "462402170436",
+    "uikName": "УИК №789",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "462402170437",
+    "uikName": "УИК №790",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "462402170438",
+    "uikName": "УИК №791",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "462402170439",
+    "uikName": "УИК №792",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "462402170440",
+    "uikName": "УИК №793",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "462402170441",
+    "uikName": "УИК №794",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "462402170442",
+    "uikName": "УИК №795",
     "tikTvd": "362300271169",
-    "tikName": "Cараевская"
+    "tikName": "Cараевская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "462402270408",
+    "uikName": "УИК №796",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "462402270409",
+    "uikName": "УИК №797",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "462402270410",
+    "uikName": "УИК №798",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "462402270411",
+    "uikName": "УИК №799",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "462402270412",
+    "uikName": "УИК №800",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "462402270413",
+    "uikName": "УИК №801",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "462402270414",
+    "uikName": "УИК №802",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "462402270415",
+    "uikName": "УИК №803",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "462402270416",
+    "uikName": "УИК №804",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "462402270417",
+    "uikName": "УИК №805",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "462402270418",
+    "uikName": "УИК №806",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "462402270419",
+    "uikName": "УИК №807",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "462402270420",
+    "uikName": "УИК №808",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "462402270421",
+    "uikName": "УИК №809",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "462402270422",
+    "uikName": "УИК №810",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "462402270423",
+    "uikName": "УИК №811",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "462402270424",
+    "uikName": "УИК №812",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "462402270425",
+    "uikName": "УИК №813",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "462402270426",
+    "uikName": "УИК №814",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "462402270427",
+    "uikName": "УИК №815",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "462402270428",
+    "uikName": "УИК №816",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "462402270429",
+    "uikName": "УИК №817",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "462402270430",
+    "uikName": "УИК №818",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 819,
     "uikTvd": "462402270431",
+    "uikName": "УИК №819",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "462402270432",
+    "uikName": "УИК №820",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "462402270433",
+    "uikName": "УИК №821",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "462402270434",
+    "uikName": "УИК №822",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "462402270435",
+    "uikName": "УИК №823",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "462402270436",
+    "uikName": "УИК №824",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "462402270437",
+    "uikName": "УИК №825",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "462402270438",
+    "uikName": "УИК №826",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "462402270439",
+    "uikName": "УИК №827",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "462402270440",
+    "uikName": "УИК №828",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "462402270441",
+    "uikName": "УИК №829",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "462402270442",
+    "uikName": "УИК №830",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "462402270443",
+    "uikName": "УИК №831",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "462402270444",
+    "uikName": "УИК №832",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "462402270445",
+    "uikName": "УИК №833",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "462402270446",
+    "uikName": "УИК №834",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "462402270447",
+    "uikName": "УИК №835",
     "tikTvd": "362300271170",
-    "tikName": "Cacовская"
+    "tikName": "Cacовская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "462402370623",
+    "uikName": "УИК №836",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "462402370624",
+    "uikName": "УИК №837",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 838,
     "uikTvd": "462402370625",
+    "uikName": "УИК №838",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "462402370626",
+    "uikName": "УИК №839",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "462402370627",
+    "uikName": "УИК №840",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "462402370628",
+    "uikName": "УИК №841",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "462402370629",
+    "uikName": "УИК №842",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "462402370630",
+    "uikName": "УИК №843",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "462402370631",
+    "uikName": "УИК №844",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "462402370632",
+    "uikName": "УИК №845",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "462402370633",
+    "uikName": "УИК №846",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "462402370634",
+    "uikName": "УИК №847",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "462402370635",
+    "uikName": "УИК №848",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "462402370636",
+    "uikName": "УИК №849",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "462402370637",
+    "uikName": "УИК №850",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "462402370638",
+    "uikName": "УИК №851",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "462402370639",
+    "uikName": "УИК №852",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "462402370640",
+    "uikName": "УИК №853",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "462402370641",
+    "uikName": "УИК №854",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "462402370642",
+    "uikName": "УИК №855",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "462402370643",
+    "uikName": "УИК №856",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "462402370644",
+    "uikName": "УИК №857",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "462402370645",
+    "uikName": "УИК №858",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "462402370646",
+    "uikName": "УИК №859",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "462402370647",
+    "uikName": "УИК №860",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "462402370648",
+    "uikName": "УИК №861",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "462402370649",
+    "uikName": "УИК №862",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "462402370650",
+    "uikName": "УИК №863",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "462402370651",
+    "uikName": "УИК №864",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "462402370652",
+    "uikName": "УИК №865",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "462402370653",
+    "uikName": "УИК №866",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "462402370654",
+    "uikName": "УИК №867",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "462402370655",
+    "uikName": "УИК №868",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "462402370656",
+    "uikName": "УИК №869",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "462402370657",
+    "uikName": "УИК №870",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "462402370658",
+    "uikName": "УИК №871",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "462402370659",
+    "uikName": "УИК №872",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "462402370660",
+    "uikName": "УИК №873",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "462402370661",
+    "uikName": "УИК №874",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "462402370662",
+    "uikName": "УИК №875",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "462402370663",
+    "uikName": "УИК №876",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "462402370664",
+    "uikName": "УИК №877",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "462402370665",
+    "uikName": "УИК №878",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "462402370666",
+    "uikName": "УИК №879",
     "tikTvd": "362300271172",
-    "tikName": "Скопинская"
+    "tikName": "Скопинская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "462402470463",
+    "uikName": "УИК №880",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "462402470464",
+    "uikName": "УИК №881",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "462402470465",
+    "uikName": "УИК №882",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "462402470466",
+    "uikName": "УИК №883",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "462402470467",
+    "uikName": "УИК №884",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 885,
     "uikTvd": "462402470468",
+    "uikName": "УИК №885",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "462402470469",
+    "uikName": "УИК №886",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "462402470470",
+    "uikName": "УИК №887",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "462402470471",
+    "uikName": "УИК №888",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "462402470472",
+    "uikName": "УИК №889",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "462402470473",
+    "uikName": "УИК №890",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "462402470474",
+    "uikName": "УИК №891",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "462402470475",
+    "uikName": "УИК №892",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "462402470476",
+    "uikName": "УИК №893",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "462402470477",
+    "uikName": "УИК №894",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "462402470478",
+    "uikName": "УИК №895",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "462402470479",
+    "uikName": "УИК №896",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "462402470480",
+    "uikName": "УИК №897",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "462402470481",
+    "uikName": "УИК №898",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "462402470482",
+    "uikName": "УИК №899",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "462402470483",
+    "uikName": "УИК №900",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "462402470484",
+    "uikName": "УИК №901",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "462402470485",
+    "uikName": "УИК №902",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "462402470486",
+    "uikName": "УИК №903",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "462402470487",
+    "uikName": "УИК №904",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "462402470488",
+    "uikName": "УИК №905",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "462402470489",
+    "uikName": "УИК №906",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "462402470490",
+    "uikName": "УИК №907",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "462402470491",
+    "uikName": "УИК №908",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "462402470492",
+    "uikName": "УИК №909",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "462402470493",
+    "uikName": "УИК №910",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "462402470494",
+    "uikName": "УИК №911",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "462402470495",
+    "uikName": "УИК №912",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "462402470496",
+    "uikName": "УИК №913",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "462402470497",
+    "uikName": "УИК №914",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "462402470498",
+    "uikName": "УИК №915",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "462402470499",
+    "uikName": "УИК №916",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 917,
     "uikTvd": "462402470500",
+    "uikName": "УИК №917",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "462402470501",
+    "uikName": "УИК №918",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "462402470502",
+    "uikName": "УИК №919",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "462402470503",
+    "uikName": "УИК №920",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "462402470504",
+    "uikName": "УИК №921",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "462402470505",
+    "uikName": "УИК №922",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "462402470506",
+    "uikName": "УИК №923",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "462402470507",
+    "uikName": "УИК №924",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "462402470508",
+    "uikName": "УИК №925",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "462402470509",
+    "uikName": "УИК №926",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "462402470510",
+    "uikName": "УИК №927",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "462402470511",
+    "uikName": "УИК №928",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "462402470512",
+    "uikName": "УИК №929",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "462402470513",
+    "uikName": "УИК №930",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "462402470514",
+    "uikName": "УИК №931",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "462402470515",
+    "uikName": "УИК №932",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "462402470516",
+    "uikName": "УИК №933",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "462402470517",
+    "uikName": "УИК №934",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "462402470518",
+    "uikName": "УИК №935",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "462402470519",
+    "uikName": "УИК №936",
     "tikTvd": "362300271174",
-    "tikName": "Спасская"
+    "tikName": "Спасская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "462402570428",
+    "uikName": "УИК №937",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "462402570429",
+    "uikName": "УИК №938",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "462402570430",
+    "uikName": "УИК №939",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "462402570431",
+    "uikName": "УИК №940",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "462402570432",
+    "uikName": "УИК №941",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "462402570433",
+    "uikName": "УИК №942",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "462402570434",
+    "uikName": "УИК №943",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "462402570435",
+    "uikName": "УИК №944",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "462402570436",
+    "uikName": "УИК №945",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "462402570437",
+    "uikName": "УИК №946",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "462402570438",
+    "uikName": "УИК №947",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "462402570439",
+    "uikName": "УИК №948",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "462402570440",
+    "uikName": "УИК №949",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "462402570441",
+    "uikName": "УИК №950",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "462402570442",
+    "uikName": "УИК №951",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "462402570443",
+    "uikName": "УИК №952",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "462402570444",
+    "uikName": "УИК №953",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "462402570445",
+    "uikName": "УИК №954",
     "tikTvd": "362300271178",
-    "tikName": "Старожиловская"
+    "tikName": "Старожиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "462402670584",
+    "uikName": "УИК №955",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "462402670585",
+    "uikName": "УИК №956",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "462402670586",
+    "uikName": "УИК №957",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "462402670587",
+    "uikName": "УИК №958",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "462402670588",
+    "uikName": "УИК №959",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "462402670589",
+    "uikName": "УИК №960",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "462402670590",
+    "uikName": "УИК №961",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "462402670591",
+    "uikName": "УИК №962",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "462402670592",
+    "uikName": "УИК №963",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "462402670593",
+    "uikName": "УИК №964",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "462402670594",
+    "uikName": "УИК №965",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "462402670595",
+    "uikName": "УИК №966",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "462402670596",
+    "uikName": "УИК №967",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "462402670597",
+    "uikName": "УИК №968",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "462402670598",
+    "uikName": "УИК №969",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "462402670599",
+    "uikName": "УИК №970",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "462402670600",
+    "uikName": "УИК №971",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "462402670601",
+    "uikName": "УИК №972",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "462402670602",
+    "uikName": "УИК №973",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "462402670603",
+    "uikName": "УИК №974",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "462402670604",
+    "uikName": "УИК №975",
     "tikTvd": "362300271175",
-    "tikName": "Ухоловская"
+    "tikName": "Ухоловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "462402770391",
+    "uikName": "УИК №976",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "462402770392",
+    "uikName": "УИК №977",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "462402770393",
+    "uikName": "УИК №978",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "462402770394",
+    "uikName": "УИК №979",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "462402770395",
+    "uikName": "УИК №980",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "462402770396",
+    "uikName": "УИК №981",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "462402770397",
+    "uikName": "УИК №982",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "462402770398",
+    "uikName": "УИК №983",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "462402770399",
+    "uikName": "УИК №984",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "462402770400",
+    "uikName": "УИК №985",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "462402770401",
+    "uikName": "УИК №986",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "462402770402",
+    "uikName": "УИК №987",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "462402770403",
+    "uikName": "УИК №988",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "462402770404",
+    "uikName": "УИК №989",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "462402770405",
+    "uikName": "УИК №990",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "462402770406",
+    "uikName": "УИК №991",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "462402770407",
+    "uikName": "УИК №992",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "462402770408",
+    "uikName": "УИК №993",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "462402770409",
+    "uikName": "УИК №994",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "462402770410",
+    "uikName": "УИК №995",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "462402770411",
+    "uikName": "УИК №996",
     "tikTvd": "362300271176",
-    "tikName": "Чучковская"
+    "tikName": "Чучковская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "462402870428",
+    "uikName": "УИК №997",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "462402870429",
+    "uikName": "УИК №998",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "462402870430",
+    "uikName": "УИК №999",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "462402870431",
+    "uikName": "УИК №1000",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "462402870432",
+    "uikName": "УИК №1001",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "462402870433",
+    "uikName": "УИК №1002",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "462402870434",
+    "uikName": "УИК №1003",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "462402870435",
+    "uikName": "УИК №1004",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "462402870436",
+    "uikName": "УИК №1005",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "462402870437",
+    "uikName": "УИК №1006",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "462402870438",
+    "uikName": "УИК №1007",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "462402870439",
+    "uikName": "УИК №1008",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "462402870440",
+    "uikName": "УИК №1009",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1010,
     "uikTvd": "462402870441",
+    "uikName": "УИК №1010",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "462402870442",
+    "uikName": "УИК №1011",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "462402870443",
+    "uikName": "УИК №1012",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "462402870444",
+    "uikName": "УИК №1013",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "462402870445",
+    "uikName": "УИК №1014",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "462402870446",
+    "uikName": "УИК №1015",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "462402870447",
+    "uikName": "УИК №1016",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "462402870448",
+    "uikName": "УИК №1017",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "462402870449",
+    "uikName": "УИК №1018",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "462402870450",
+    "uikName": "УИК №1019",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "462402870451",
+    "uikName": "УИК №1020",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "462402870452",
+    "uikName": "УИК №1021",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "462402870453",
+    "uikName": "УИК №1022",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "462402870454",
+    "uikName": "УИК №1023",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "462402870455",
+    "uikName": "УИК №1024",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "462402870456",
+    "uikName": "УИК №1025",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "462402870457",
+    "uikName": "УИК №1026",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "462402870458",
+    "uikName": "УИК №1027",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "462402870459",
+    "uikName": "УИК №1028",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "462402870460",
+    "uikName": "УИК №1029",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "462402870461",
+    "uikName": "УИК №1030",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "462402870462",
+    "uikName": "УИК №1031",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "462402870463",
+    "uikName": "УИК №1032",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "462402870464",
+    "uikName": "УИК №1033",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "462402870465",
+    "uikName": "УИК №1034",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "462402870466",
+    "uikName": "УИК №1035",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "462402870467",
+    "uikName": "УИК №1036",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "462402870468",
+    "uikName": "УИК №1037",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "462402870469",
+    "uikName": "УИК №1038",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "462402870470",
+    "uikName": "УИК №1039",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "462402870471",
+    "uikName": "УИК №1040",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "462402870472",
+    "uikName": "УИК №1041",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "462402870473",
+    "uikName": "УИК №1042",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "462402870474",
+    "uikName": "УИК №1043",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "462402870475",
+    "uikName": "УИК №1044",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "462402870476",
+    "uikName": "УИК №1045",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "462402870477",
+    "uikName": "УИК №1046",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "462402870478",
+    "uikName": "УИК №1047",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "462402870479",
+    "uikName": "УИК №1048",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "462402870480",
+    "uikName": "УИК №1049",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "462402870481",
+    "uikName": "УИК №1050",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "462402870482",
+    "uikName": "УИК №1051",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "462402870483",
+    "uikName": "УИК №1052",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "462402870484",
+    "uikName": "УИК №1053",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "462402870485",
+    "uikName": "УИК №1054",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "462402870486",
+    "uikName": "УИК №1055",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "462402870487",
+    "uikName": "УИК №1056",
     "tikTvd": "362300271177",
-    "tikName": "Шацкая"
+    "tikName": "Шацкая",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "462402970481",
+    "uikName": "УИК №1057",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "462402970482",
+    "uikName": "УИК №1058",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "462402970483",
+    "uikName": "УИК №1059",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "462402970484",
+    "uikName": "УИК №1060",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "462402970485",
+    "uikName": "УИК №1061",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "462402970486",
+    "uikName": "УИК №1062",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "462402970487",
+    "uikName": "УИК №1063",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "462402970488",
+    "uikName": "УИК №1064",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "462402970489",
+    "uikName": "УИК №1065",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "462402970490",
+    "uikName": "УИК №1066",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "462402970491",
+    "uikName": "УИК №1067",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "462402970492",
+    "uikName": "УИК №1068",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "462402970493",
+    "uikName": "УИК №1069",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "462402970494",
+    "uikName": "УИК №1070",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "462402970495",
+    "uikName": "УИК №1071",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "462402970496",
+    "uikName": "УИК №1072",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "462402970497",
+    "uikName": "УИК №1073",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "462402970498",
+    "uikName": "УИК №1074",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "462402970499",
+    "uikName": "УИК №1075",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "462402970500",
+    "uikName": "УИК №1076",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "462402970501",
+    "uikName": "УИК №1077",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "462402970502",
+    "uikName": "УИК №1078",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "462402970503",
+    "uikName": "УИК №1079",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "462402970504",
+    "uikName": "УИК №1080",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "462402970505",
+    "uikName": "УИК №1081",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "462402970506",
+    "uikName": "УИК №1082",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "462402970507",
+    "uikName": "УИК №1083",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "462402970508",
+    "uikName": "УИК №1084",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "462402970509",
+    "uikName": "УИК №1085",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "462402970510",
+    "uikName": "УИК №1086",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "462402970511",
+    "uikName": "УИК №1087",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "462402970512",
+    "uikName": "УИК №1088",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "462402970513",
+    "uikName": "УИК №1089",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "462402970514",
+    "uikName": "УИК №1090",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "462402970515",
+    "uikName": "УИК №1091",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "462402970516",
+    "uikName": "УИК №1092",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "462402970517",
+    "uikName": "УИК №1093",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "462402970518",
+    "uikName": "УИК №1094",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "462402970519",
+    "uikName": "УИК №1095",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "462402970520",
+    "uikName": "УИК №1096",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "462402970521",
+    "uikName": "УИК №1097",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "462402970522",
+    "uikName": "УИК №1098",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "462402970523",
+    "uikName": "УИК №1099",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "462402970524",
+    "uikName": "УИК №1100",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "462402970525",
+    "uikName": "УИК №1101",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "462402970526",
+    "uikName": "УИК №1102",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "462402970527",
+    "uikName": "УИК №1103",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "462402970528",
+    "uikName": "УИК №1104",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "462402970529",
+    "uikName": "УИК №1105",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "462402970530",
+    "uikName": "УИК №1106",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "462402970531",
+    "uikName": "УИК №1107",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "462402970532",
+    "uikName": "УИК №1108",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "462402970533",
+    "uikName": "УИК №1109",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "462402970534",
+    "uikName": "УИК №1110",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "462402970535",
+    "uikName": "УИК №1111",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "462402970536",
+    "uikName": "УИК №1112",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "462402970537",
+    "uikName": "УИК №1113",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "462402970538",
+    "uikName": "УИК №1114",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "462402970539",
+    "uikName": "УИК №1115",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "462402970540",
+    "uikName": "УИК №1116",
     "tikTvd": "362300271179",
-    "tikName": "Шиловская"
+    "tikName": "Шиловская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "462401471045",
+    "uikName": "УИК №1117",
     "tikTvd": "362300271166",
-    "tikName": "Ряжская"
+    "tikName": "Ряжская",
+    "regionCode": "62",
+    "regionTvd": "100100095849",
+    "regionName": "Рязанская область",
+    "district": {
+      "districtNumber": 150,
+      "oikTvd": "100100095851",
+      "oikName": "Шиловский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "454401766831",
+    "uikName": "УИК №600",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -58,8 +67,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "454401766832",
+    "uikName": "УИК №601",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 652,
       "Число бюллетеней, полученных участковыми комиссиями": 654,
@@ -105,8 +123,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "454401766833",
+    "uikName": "УИК №602",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 392,
@@ -152,8 +179,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "454401766834",
+    "uikName": "УИК №603",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 577,
@@ -199,8 +235,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "454401766835",
+    "uikName": "УИК №604",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -246,8 +291,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "454401766836",
+    "uikName": "УИК №605",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 619,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -293,8 +347,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "454401766837",
+    "uikName": "УИК №606",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 342,
@@ -340,8 +403,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "454401766838",
+    "uikName": "УИК №607",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 124,
@@ -387,8 +459,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "454401766839",
+    "uikName": "УИК №608",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 383,
@@ -434,8 +515,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "454401766840",
+    "uikName": "УИК №609",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 556,
       "Число бюллетеней, полученных участковыми комиссиями": 542,
@@ -481,8 +571,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "454401766841",
+    "uikName": "УИК №610",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -528,8 +627,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "454401766842",
+    "uikName": "УИК №611",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -575,8 +683,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 612,
     "uikTvd": "454401766843",
+    "uikName": "УИК №612",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -622,8 +739,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "454401766844",
+    "uikName": "УИК №613",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -669,8 +795,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "454401766845",
+    "uikName": "УИК №614",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 424,
@@ -716,8 +851,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "454401766846",
+    "uikName": "УИК №615",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -763,8 +907,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "454401766847",
+    "uikName": "УИК №616",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -810,8 +963,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "454401766848",
+    "uikName": "УИК №617",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 64,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -857,8 +1019,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "454401766849",
+    "uikName": "УИК №618",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 414,
       "Число бюллетеней, полученных участковыми комиссиями": 424,
@@ -904,8 +1075,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "454401766850",
+    "uikName": "УИК №619",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -951,8 +1131,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "454401766851",
+    "uikName": "УИК №620",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 543,
@@ -998,8 +1187,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "454401766852",
+    "uikName": "УИК №621",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 576,
@@ -1045,8 +1243,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "454401766853",
+    "uikName": "УИК №622",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 555,
       "Число бюллетеней, полученных участковыми комиссиями": 562,
@@ -1092,8 +1299,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "454401766854",
+    "uikName": "УИК №623",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 148,
@@ -1139,8 +1355,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "454401766855",
+    "uikName": "УИК №624",
     "tikTvd": "354300167035",
     "tikName": "Купинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 176,
@@ -1186,8 +1411,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "454401866642",
+    "uikName": "УИК №625",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1324,
       "Число бюллетеней, полученных участковыми комиссиями": 1255,
@@ -1233,8 +1467,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "454401866643",
+    "uikName": "УИК №626",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 748,
       "Число бюллетеней, полученных участковыми комиссиями": 737,
@@ -1280,8 +1523,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "454401866644",
+    "uikName": "УИК №627",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 891,
       "Число бюллетеней, полученных участковыми комиссиями": 851,
@@ -1327,8 +1579,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "454401866645",
+    "uikName": "УИК №628",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1282,
       "Число бюллетеней, полученных участковыми комиссиями": 1272,
@@ -1374,8 +1635,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "454401866646",
+    "uikName": "УИК №629",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -1421,8 +1691,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "454401866647",
+    "uikName": "УИК №630",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -1468,8 +1747,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "454401866648",
+    "uikName": "УИК №631",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 429,
       "Число бюллетеней, полученных участковыми комиссиями": 438,
@@ -1515,8 +1803,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "454401866649",
+    "uikName": "УИК №632",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -1562,8 +1859,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "454401866650",
+    "uikName": "УИК №633",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -1609,8 +1915,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "454401866651",
+    "uikName": "УИК №634",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1656,8 +1971,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "454401866652",
+    "uikName": "УИК №635",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 456,
@@ -1703,8 +2027,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "454401866653",
+    "uikName": "УИК №636",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 312,
@@ -1750,8 +2083,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "454401866654",
+    "uikName": "УИК №637",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -1797,8 +2139,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "454401866655",
+    "uikName": "УИК №638",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 226,
@@ -1844,8 +2195,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "454401866656",
+    "uikName": "УИК №639",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 312,
@@ -1891,8 +2251,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "454401866657",
+    "uikName": "УИК №640",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 486,
@@ -1938,8 +2307,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "454401866658",
+    "uikName": "УИК №641",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -1985,8 +2363,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "454401866659",
+    "uikName": "УИК №642",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -2032,8 +2419,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "454401866660",
+    "uikName": "УИК №643",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -2079,8 +2475,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "454401866661",
+    "uikName": "УИК №644",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 451,
       "Число бюллетеней, полученных участковыми комиссиями": 463,
@@ -2126,8 +2531,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "454401866662",
+    "uikName": "УИК №645",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -2173,8 +2587,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "454401866663",
+    "uikName": "УИК №646",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -2220,8 +2643,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "454401866664",
+    "uikName": "УИК №647",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 307,
@@ -2267,8 +2699,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "454401866665",
+    "uikName": "УИК №648",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 309,
@@ -2314,8 +2755,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "454401866666",
+    "uikName": "УИК №649",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 271,
@@ -2361,8 +2811,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "454401866667",
+    "uikName": "УИК №650",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 179,
@@ -2408,8 +2867,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "454401866668",
+    "uikName": "УИК №651",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -2455,8 +2923,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "454401866669",
+    "uikName": "УИК №652",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 228,
@@ -2502,8 +2979,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "454401866670",
+    "uikName": "УИК №653",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -2549,8 +3035,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "454401866671",
+    "uikName": "УИК №654",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -2596,8 +3091,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "454401866672",
+    "uikName": "УИК №655",
     "tikTvd": "354300167036",
     "tikName": "Кыштовская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -2643,8 +3147,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "454403366722",
+    "uikName": "УИК №799",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2397,
       "Число бюллетеней, полученных участковыми комиссиями": 2359,
@@ -2690,8 +3203,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "454403366723",
+    "uikName": "УИК №800",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2449,
       "Число бюллетеней, полученных участковыми комиссиями": 2299,
@@ -2737,8 +3259,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "454403366724",
+    "uikName": "УИК №801",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1353,
       "Число бюллетеней, полученных участковыми комиссиями": 1254,
@@ -2784,8 +3315,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "454403366725",
+    "uikName": "УИК №802",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1510,
       "Число бюллетеней, полученных участковыми комиссиями": 1363,
@@ -2831,8 +3371,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "454403366726",
+    "uikName": "УИК №803",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1639,
       "Число бюллетеней, полученных участковыми комиссиями": 1571,
@@ -2878,8 +3427,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "454403366727",
+    "uikName": "УИК №804",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1083,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2925,8 +3483,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 805,
     "uikTvd": "454403366728",
+    "uikName": "УИК №805",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1760,
       "Число бюллетеней, полученных участковыми комиссиями": 1603,
@@ -2972,8 +3539,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 806,
     "uikTvd": "454403366729",
+    "uikName": "УИК №806",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1019,
       "Число бюллетеней, полученных участковыми комиссиями": 926,
@@ -3019,8 +3595,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 807,
     "uikTvd": "454403366730",
+    "uikName": "УИК №807",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -3066,8 +3651,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 808,
     "uikTvd": "454403366731",
+    "uikName": "УИК №808",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 877,
       "Число бюллетеней, полученных участковыми комиссиями": 861,
@@ -3113,8 +3707,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 809,
     "uikTvd": "454403366732",
+    "uikName": "УИК №809",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 701,
       "Число бюллетеней, полученных участковыми комиссиями": 684,
@@ -3160,8 +3763,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 810,
     "uikTvd": "454403366733",
+    "uikName": "УИК №810",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 222,
@@ -3207,8 +3819,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 811,
     "uikTvd": "454403366734",
+    "uikName": "УИК №811",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 537,
@@ -3254,8 +3875,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 812,
     "uikTvd": "454403366735",
+    "uikName": "УИК №812",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -3301,8 +3931,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 813,
     "uikTvd": "454403366736",
+    "uikName": "УИК №813",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 544,
       "Число бюллетеней, полученных участковыми комиссиями": 543,
@@ -3348,8 +3987,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 814,
     "uikTvd": "454403366737",
+    "uikName": "УИК №814",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -3395,8 +4043,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "454403366738",
+    "uikName": "УИК №815",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1183,
       "Число бюллетеней, полученных участковыми комиссиями": 1196,
@@ -3442,8 +4099,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "454403366739",
+    "uikName": "УИК №816",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1046,
       "Число бюллетеней, полученных участковыми комиссиями": 1014,
@@ -3489,8 +4155,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "454403366740",
+    "uikName": "УИК №817",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1069,
       "Число бюллетеней, полученных участковыми комиссиями": 1005,
@@ -3536,8 +4211,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "454403366741",
+    "uikName": "УИК №818",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -3583,8 +4267,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "454403366742",
+    "uikName": "УИК №819",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 48,
       "Число бюллетеней, полученных участковыми комиссиями": 39,
@@ -3630,8 +4323,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "454403366743",
+    "uikName": "УИК №820",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1570,
       "Число бюллетеней, полученных участковыми комиссиями": 1583,
@@ -3677,8 +4379,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "454403366744",
+    "uikName": "УИК №821",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -3724,8 +4435,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "454403366745",
+    "uikName": "УИК №822",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1025,
       "Число бюллетеней, полученных участковыми комиссиями": 1013,
@@ -3771,8 +4491,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "454403366746",
+    "uikName": "УИК №823",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 629,
       "Число бюллетеней, полученных участковыми комиссиями": 604,
@@ -3818,8 +4547,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 824,
     "uikTvd": "454403366747",
+    "uikName": "УИК №824",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 646,
       "Число бюллетеней, полученных участковыми комиссиями": 644,
@@ -3865,8 +4603,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 825,
     "uikTvd": "454403366748",
+    "uikName": "УИК №825",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 413,
@@ -3912,8 +4659,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 826,
     "uikTvd": "454403366749",
+    "uikName": "УИК №826",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1209,
       "Число бюллетеней, полученных участковыми комиссиями": 1198,
@@ -3959,8 +4715,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 827,
     "uikTvd": "454403366750",
+    "uikName": "УИК №827",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 590,
       "Число бюллетеней, полученных участковыми комиссиями": 569,
@@ -4006,8 +4771,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 828,
     "uikTvd": "454403366751",
+    "uikName": "УИК №828",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -4053,8 +4827,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 829,
     "uikTvd": "454403366752",
+    "uikName": "УИК №829",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 670,
       "Число бюллетеней, полученных участковыми комиссиями": 638,
@@ -4100,8 +4883,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 830,
     "uikTvd": "454403366753",
+    "uikName": "УИК №830",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -4147,8 +4939,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 831,
     "uikTvd": "454403366754",
+    "uikName": "УИК №831",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 581,
       "Число бюллетеней, полученных участковыми комиссиями": 586,
@@ -4194,8 +4995,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 832,
     "uikTvd": "454403366755",
+    "uikName": "УИК №832",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 261,
@@ -4241,8 +5051,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 833,
     "uikTvd": "454403366756",
+    "uikName": "УИК №833",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 908,
       "Число бюллетеней, полученных участковыми комиссиями": 896,
@@ -4288,8 +5107,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 834,
     "uikTvd": "454403366757",
+    "uikName": "УИК №834",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -4335,8 +5163,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 835,
     "uikTvd": "454403366758",
+    "uikName": "УИК №835",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 515,
       "Число бюллетеней, полученных участковыми комиссиями": 492,
@@ -4382,8 +5219,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 836,
     "uikTvd": "454403366759",
+    "uikName": "УИК №836",
     "tikTvd": "354300167037",
     "tikName": "Ордынская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -4429,8 +5275,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 837,
     "uikTvd": "454403466722",
+    "uikName": "УИК №837",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 436,
@@ -4476,8 +5331,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 838,
     "uikTvd": "454403466723",
+    "uikName": "УИК №838",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -4523,8 +5387,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 839,
     "uikTvd": "454403466724",
+    "uikName": "УИК №839",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 317,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -4570,8 +5443,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 840,
     "uikTvd": "454403466725",
+    "uikName": "УИК №840",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 54,
@@ -4617,8 +5499,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 841,
     "uikTvd": "454403466726",
+    "uikName": "УИК №841",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -4664,8 +5555,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 842,
     "uikTvd": "454403466727",
+    "uikName": "УИК №842",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 197,
@@ -4711,8 +5611,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 843,
     "uikTvd": "454403466728",
+    "uikName": "УИК №843",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 252,
@@ -4758,8 +5667,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 844,
     "uikTvd": "454403466729",
+    "uikName": "УИК №844",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2119,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4805,8 +5723,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 845,
     "uikTvd": "454403466730",
+    "uikName": "УИК №845",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2063,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4852,8 +5779,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 846,
     "uikTvd": "454403466731",
+    "uikName": "УИК №846",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -4899,8 +5835,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 847,
     "uikTvd": "454403466732",
+    "uikName": "УИК №847",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 534,
       "Число бюллетеней, полученных участковыми комиссиями": 535,
@@ -4946,8 +5891,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 848,
     "uikTvd": "454403466733",
+    "uikName": "УИК №848",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -4993,8 +5947,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 849,
     "uikTvd": "454403466734",
+    "uikName": "УИК №849",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 334,
@@ -5040,8 +6003,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 850,
     "uikTvd": "454403466735",
+    "uikName": "УИК №850",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 86,
       "Число бюллетеней, полученных участковыми комиссиями": 86,
@@ -5087,8 +6059,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 851,
     "uikTvd": "454403466736",
+    "uikName": "УИК №851",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -5134,8 +6115,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 852,
     "uikTvd": "454403466737",
+    "uikName": "УИК №852",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -5181,8 +6171,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 853,
     "uikTvd": "454403466738",
+    "uikName": "УИК №853",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -5228,8 +6227,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 854,
     "uikTvd": "454403466739",
+    "uikName": "УИК №854",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -5275,8 +6283,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 855,
     "uikTvd": "454403466740",
+    "uikName": "УИК №855",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 478,
       "Число бюллетеней, полученных участковыми комиссиями": 477,
@@ -5322,8 +6339,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 856,
     "uikTvd": "454403466741",
+    "uikName": "УИК №856",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -5369,8 +6395,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 857,
     "uikTvd": "454403466742",
+    "uikName": "УИК №857",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -5416,8 +6451,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 858,
     "uikTvd": "454403466743",
+    "uikName": "УИК №858",
     "tikTvd": "354300167038",
     "tikName": "Северная",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 72,
@@ -5463,8 +6507,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "454404666835",
+    "uikName": "УИК №894",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 559,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -5510,8 +6563,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "454404666836",
+    "uikName": "УИК №895",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -5557,8 +6619,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "454404666837",
+    "uikName": "УИК №896",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -5604,8 +6675,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "454404666838",
+    "uikName": "УИК №897",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -5651,8 +6731,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "454404666839",
+    "uikName": "УИК №898",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -5698,8 +6787,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "454404666840",
+    "uikName": "УИК №899",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -5745,8 +6843,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "454404666841",
+    "uikName": "УИК №900",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -5792,8 +6899,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "454404666842",
+    "uikName": "УИК №901",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -5839,8 +6955,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "454404666843",
+    "uikName": "УИК №902",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -5886,8 +7011,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "454404666844",
+    "uikName": "УИК №903",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -5933,8 +7067,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "454404666845",
+    "uikName": "УИК №904",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5980,8 +7123,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "454404666846",
+    "uikName": "УИК №905",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 430,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -6027,8 +7179,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "454404666847",
+    "uikName": "УИК №906",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -6074,8 +7235,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "454404666848",
+    "uikName": "УИК №907",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -6121,8 +7291,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "454404666849",
+    "uikName": "УИК №908",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -6168,8 +7347,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "454404666850",
+    "uikName": "УИК №909",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -6215,8 +7403,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "454404666851",
+    "uikName": "УИК №910",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -6262,8 +7459,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "454404666852",
+    "uikName": "УИК №911",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -6309,8 +7515,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "454404666853",
+    "uikName": "УИК №912",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -6356,8 +7571,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 913,
     "uikTvd": "454404666854",
+    "uikName": "УИК №913",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -6403,8 +7627,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "454404666855",
+    "uikName": "УИК №914",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 435,
@@ -6450,8 +7683,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "454404666856",
+    "uikName": "УИК №915",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 457,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -6497,8 +7739,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "454404666857",
+    "uikName": "УИК №916",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -6544,8 +7795,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 917,
     "uikTvd": "454404666858",
+    "uikName": "УИК №917",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -6591,8 +7851,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 918,
     "uikTvd": "454404666859",
+    "uikName": "УИК №918",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -6638,8 +7907,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 919,
     "uikTvd": "454404666860",
+    "uikName": "УИК №919",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 714,
       "Число бюллетеней, полученных участковыми комиссиями": 755,
@@ -6685,8 +7963,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 920,
     "uikTvd": "454404666861",
+    "uikName": "УИК №920",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -6732,8 +8019,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 921,
     "uikTvd": "454404666862",
+    "uikName": "УИК №921",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6779,8 +8075,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 922,
     "uikTvd": "454404666863",
+    "uikName": "УИК №922",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -6826,8 +8131,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 923,
     "uikTvd": "454404666864",
+    "uikName": "УИК №923",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -6873,8 +8187,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 924,
     "uikTvd": "454404666865",
+    "uikName": "УИК №924",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 658,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -6920,8 +8243,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 925,
     "uikTvd": "454404666866",
+    "uikName": "УИК №925",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -6967,8 +8299,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 926,
     "uikTvd": "454404666867",
+    "uikName": "УИК №926",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -7014,8 +8355,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 927,
     "uikTvd": "454404666868",
+    "uikName": "УИК №927",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -7061,8 +8411,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 928,
     "uikTvd": "454404666869",
+    "uikName": "УИК №928",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 913,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7108,8 +8467,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "454404666870",
+    "uikName": "УИК №929",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -7155,8 +8523,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "454404666871",
+    "uikName": "УИК №930",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -7202,8 +8579,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "454404666872",
+    "uikName": "УИК №931",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -7249,8 +8635,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "454404666873",
+    "uikName": "УИК №932",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -7296,8 +8691,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "454404666874",
+    "uikName": "УИК №933",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -7343,8 +8747,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "454404666875",
+    "uikName": "УИК №934",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7390,8 +8803,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "454404666876",
+    "uikName": "УИК №935",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -7437,8 +8859,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "454404666877",
+    "uikName": "УИК №936",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -7484,8 +8915,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "454404666878",
+    "uikName": "УИК №937",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 705,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7531,8 +8971,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "454404666879",
+    "uikName": "УИК №938",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -7578,8 +9027,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 939,
     "uikTvd": "454404666880",
+    "uikName": "УИК №939",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 622,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -7625,8 +9083,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 940,
     "uikTvd": "454404666881",
+    "uikName": "УИК №940",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -7672,8 +9139,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 941,
     "uikTvd": "454404666882",
+    "uikName": "УИК №941",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -7719,8 +9195,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 942,
     "uikTvd": "454404666883",
+    "uikName": "УИК №942",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 347,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -7766,8 +9251,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 943,
     "uikTvd": "454404666884",
+    "uikName": "УИК №943",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -7813,8 +9307,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 944,
     "uikTvd": "454404666885",
+    "uikName": "УИК №944",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -7860,8 +9363,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 945,
     "uikTvd": "454404666886",
+    "uikName": "УИК №945",
     "tikTvd": "354300167039",
     "tikName": "Татарская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -7907,8 +9419,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "454403866757",
+    "uikName": "УИК №1012",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1701,
@@ -7954,8 +9475,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "454403866759",
+    "uikName": "УИК №1013",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1497,
       "Число бюллетеней, полученных участковыми комиссиями": 1531,
@@ -8001,8 +9531,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "454403866761",
+    "uikName": "УИК №1014",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1383,
       "Число бюллетеней, полученных участковыми комиссиями": 1402,
@@ -8048,8 +9587,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "454403866763",
+    "uikName": "УИК №1015",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 322,
@@ -8095,8 +9643,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "454403866764",
+    "uikName": "УИК №1016",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -8142,8 +9699,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "454403866765",
+    "uikName": "УИК №1017",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -8189,8 +9755,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "454403866766",
+    "uikName": "УИК №1018",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -8236,8 +9811,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "454403866767",
+    "uikName": "УИК №1019",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 248,
@@ -8283,8 +9867,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "454403866768",
+    "uikName": "УИК №1020",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 51,
       "Число бюллетеней, полученных участковыми комиссиями": 53,
@@ -8330,8 +9923,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1021,
     "uikTvd": "454403866769",
+    "uikName": "УИК №1021",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 38,
       "Число бюллетеней, полученных участковыми комиссиями": 42,
@@ -8377,8 +9979,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1022,
     "uikTvd": "454403866770",
+    "uikName": "УИК №1022",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 247,
@@ -8424,8 +10035,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1023,
     "uikTvd": "454403866771",
+    "uikName": "УИК №1023",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 43,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -8471,8 +10091,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1024,
     "uikTvd": "454403866772",
+    "uikName": "УИК №1024",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 467,
@@ -8518,8 +10147,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1025,
     "uikTvd": "454403866773",
+    "uikName": "УИК №1025",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 770,
       "Число бюллетеней, полученных участковыми комиссиями": 783,
@@ -8565,8 +10203,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1026,
     "uikTvd": "454403866774",
+    "uikName": "УИК №1026",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8612,8 +10259,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1027,
     "uikTvd": "454403866775",
+    "uikName": "УИК №1027",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 207,
@@ -8659,8 +10315,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1028,
     "uikTvd": "454403866776",
+    "uikName": "УИК №1028",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 149,
@@ -8706,8 +10371,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1029,
     "uikTvd": "454403866777",
+    "uikName": "УИК №1029",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 718,
       "Число бюллетеней, полученных участковыми комиссиями": 719,
@@ -8753,8 +10427,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1030,
     "uikTvd": "454403866778",
+    "uikName": "УИК №1030",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -8800,8 +10483,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1031,
     "uikTvd": "454403866779",
+    "uikName": "УИК №1031",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 141,
@@ -8847,8 +10539,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1032,
     "uikTvd": "454403866780",
+    "uikName": "УИК №1032",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 468,
@@ -8894,8 +10595,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1033,
     "uikTvd": "454403866781",
+    "uikName": "УИК №1033",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 518,
@@ -8941,8 +10651,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1034,
     "uikTvd": "454403866782",
+    "uikName": "УИК №1034",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 291,
@@ -8988,8 +10707,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1035,
     "uikTvd": "454403866783",
+    "uikName": "УИК №1035",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 96,
@@ -9035,8 +10763,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1036,
     "uikTvd": "454403866784",
+    "uikName": "УИК №1036",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 443,
@@ -9082,8 +10819,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1037,
     "uikTvd": "454403866785",
+    "uikName": "УИК №1037",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 156,
@@ -9129,8 +10875,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1038,
     "uikTvd": "454403866786",
+    "uikName": "УИК №1038",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 503,
@@ -9176,8 +10931,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1039,
     "uikTvd": "454403866787",
+    "uikName": "УИК №1039",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 146,
@@ -9223,8 +10987,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1040,
     "uikTvd": "454403866788",
+    "uikName": "УИК №1040",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 421,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -9270,8 +11043,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1041,
     "uikTvd": "454403866789",
+    "uikName": "УИК №1041",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -9317,8 +11099,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1042,
     "uikTvd": "454403866790",
+    "uikName": "УИК №1042",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1079,
       "Число бюллетеней, полученных участковыми комиссиями": 1098,
@@ -9364,8 +11155,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1043,
     "uikTvd": "454403866791",
+    "uikName": "УИК №1043",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -9411,8 +11211,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1044,
     "uikTvd": "454403866792",
+    "uikName": "УИК №1044",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -9458,8 +11267,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1045,
     "uikTvd": "454403866793",
+    "uikName": "УИК №1045",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -9505,8 +11323,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1046,
     "uikTvd": "454403866794",
+    "uikName": "УИК №1046",
     "tikTvd": "354300167040",
     "tikName": "Убинская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -9552,8 +11379,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1047,
     "uikTvd": "454403966700",
+    "uikName": "УИК №1047",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 484,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -9599,8 +11435,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1048,
     "uikTvd": "454403966701",
+    "uikName": "УИК №1048",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -9646,8 +11491,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1049,
     "uikTvd": "454403966702",
+    "uikName": "УИК №1049",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -9693,8 +11547,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1050,
     "uikTvd": "454403966703",
+    "uikName": "УИК №1050",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -9740,8 +11603,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1051,
     "uikTvd": "454403966704",
+    "uikName": "УИК №1051",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 656,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -9787,8 +11659,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1052,
     "uikTvd": "454403966705",
+    "uikName": "УИК №1052",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -9834,8 +11715,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1053,
     "uikTvd": "454403966706",
+    "uikName": "УИК №1053",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 81,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -9881,8 +11771,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1054,
     "uikTvd": "454403966707",
+    "uikName": "УИК №1054",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -9928,8 +11827,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1055,
     "uikTvd": "454403966708",
+    "uikName": "УИК №1055",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -9975,8 +11883,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1056,
     "uikTvd": "454403966709",
+    "uikName": "УИК №1056",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10022,8 +11939,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1057,
     "uikTvd": "454403966710",
+    "uikName": "УИК №1057",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 571,
@@ -10069,8 +11995,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1058,
     "uikTvd": "454403966711",
+    "uikName": "УИК №1058",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -10116,8 +12051,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1059,
     "uikTvd": "454403966712",
+    "uikName": "УИК №1059",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -10163,8 +12107,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1060,
     "uikTvd": "454403966713",
+    "uikName": "УИК №1060",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 324,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -10210,8 +12163,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1061,
     "uikTvd": "454403966714",
+    "uikName": "УИК №1061",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -10257,8 +12219,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1062,
     "uikTvd": "454403966715",
+    "uikName": "УИК №1062",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -10304,8 +12275,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1063,
     "uikTvd": "454403966716",
+    "uikName": "УИК №1063",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -10351,8 +12331,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1064,
     "uikTvd": "454403966717",
+    "uikName": "УИК №1064",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 76,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -10398,8 +12387,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1065,
     "uikTvd": "454403966718",
+    "uikName": "УИК №1065",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 236,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -10445,8 +12443,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1066,
     "uikTvd": "454403966719",
+    "uikName": "УИК №1066",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -10492,8 +12499,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1067,
     "uikTvd": "454403966720",
+    "uikName": "УИК №1067",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -10539,8 +12555,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1068,
     "uikTvd": "454403966721",
+    "uikName": "УИК №1068",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -10586,8 +12611,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1069,
     "uikTvd": "454403966722",
+    "uikName": "УИК №1069",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -10633,8 +12667,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1070,
     "uikTvd": "454403966723",
+    "uikName": "УИК №1070",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -10680,8 +12723,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1071,
     "uikTvd": "454403966724",
+    "uikName": "УИК №1071",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 130,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -10727,8 +12779,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1072,
     "uikTvd": "454403966725",
+    "uikName": "УИК №1072",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -10774,8 +12835,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1073,
     "uikTvd": "454403966726",
+    "uikName": "УИК №1073",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1277,
       "Число бюллетеней, полученных участковыми комиссиями": 1202,
@@ -10821,8 +12891,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1074,
     "uikTvd": "454403966727",
+    "uikName": "УИК №1074",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2070,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -10868,8 +12947,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1075,
     "uikTvd": "454403966728",
+    "uikName": "УИК №1075",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -10915,8 +13003,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1076,
     "uikTvd": "454403966729",
+    "uikName": "УИК №1076",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -10962,8 +13059,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1077,
     "uikTvd": "454403966730",
+    "uikName": "УИК №1077",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11009,8 +13115,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1078,
     "uikTvd": "454403966731",
+    "uikName": "УИК №1078",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -11056,8 +13171,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1079,
     "uikTvd": "454403966732",
+    "uikName": "УИК №1079",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 75,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -11103,8 +13227,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1080,
     "uikTvd": "454403966733",
+    "uikName": "УИК №1080",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -11150,8 +13283,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1081,
     "uikTvd": "454403966734",
+    "uikName": "УИК №1081",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -11197,8 +13339,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1082,
     "uikTvd": "454403966735",
+    "uikName": "УИК №1082",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -11244,8 +13395,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1083,
     "uikTvd": "454403966736",
+    "uikName": "УИК №1083",
     "tikTvd": "354300167041",
     "tikName": "Усть-Таркская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -11291,8 +13451,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1084,
     "uikTvd": "454404066718",
+    "uikName": "УИК №1084",
     "tikTvd": "354300167042",
     "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1497,
       "Число бюллетеней, полученных участковыми комиссиями": 1494,
@@ -11338,8 +13507,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1085,
     "uikTvd": "454404066719",
+    "uikName": "УИК №1085",
     "tikTvd": "354300167042",
     "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1244,
       "Число бюллетеней, полученных участковыми комиссиями": 1239,
@@ -11385,8 +13563,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1086,
     "uikTvd": "454404066720",
+    "uikName": "УИК №1086",
     "tikTvd": "354300167042",
     "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 755,
       "Число бюллетеней, полученных участковыми комиссиями": 755,
@@ -11432,8 +13619,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1087,
     "uikTvd": "454404066721",
+    "uikName": "УИК №1087",
     "tikTvd": "354300167042",
     "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1261,
       "Число бюллетеней, полученных участковыми комиссиями": 1283,
@@ -11479,8 +13675,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1088,
     "uikTvd": "454404066722",
+    "uikName": "УИК №1088",
     "tikTvd": "354300167042",
     "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1581,
       "Число бюллетеней, полученных участковыми комиссиями": 1469,
@@ -11526,8 +13731,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1089,
     "uikTvd": "454404066723",
+    "uikName": "УИК №1089",
     "tikTvd": "354300167042",
     "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 629,
       "Число бюллетеней, полученных участковыми комиссиями": 645,
@@ -11573,8 +13787,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1090,
     "uikTvd": "454404066724",
+    "uikName": "УИК №1090",
     "tikTvd": "354300167042",
     "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -11620,8 +13843,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1091,
     "uikTvd": "454404066725",
+    "uikName": "УИК №1091",
     "tikTvd": "354300167042",
     "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 513,
       "Число бюллетеней, полученных участковыми комиссиями": 516,
@@ -11667,8 +13899,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1092,
     "uikTvd": "454404066726",
+    "uikName": "УИК №1092",
     "tikTvd": "354300167042",
     "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -11714,8 +13955,17 @@ export const duma_2003_uik_428_region_54_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1093,
     "uikTvd": "454404066727",
+    "uikName": "УИК №1093",
     "tikTvd": "354300167042",
     "tikName": "Чановская",
+    "regionCode": "54",
+    "regionTvd": "100100095902",
+    "regionName": "Новосибирская область",
+    "district": {
+      "districtNumber": 124,
+      "oikTvd": "100100095903",
+      "oikName": "Барабинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 356,

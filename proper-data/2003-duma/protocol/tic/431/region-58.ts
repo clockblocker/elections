@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070660",
     "tikName": "Сердобска городская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 33850,
@@ -100,6 +103,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070661",
     "tikName": "Шемышейская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 15120,
@@ -197,6 +203,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070662",
     "tikName": "Кузнецкая",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 31490,
@@ -303,6 +312,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070663",
     "tikName": "Городищенская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 38,
     "accounting": {
       "Число избирателей, внесенных в списки": 41335,
@@ -406,6 +418,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070664",
     "tikName": "Малосердобинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 9151,
@@ -493,6 +508,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070665",
     "tikName": "Лопатинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 12573,
@@ -589,6 +607,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070666",
     "tikName": "Лунинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 18387,
@@ -694,6 +715,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070667",
     "tikName": "Кузнецкая городская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 72502,
@@ -796,6 +820,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070668",
     "tikName": "Колышлейская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 21450,
@@ -886,6 +913,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070669",
     "tikName": "Кондольская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 7990,
@@ -971,6 +1001,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070670",
     "tikName": "Камешкирская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 11502,
@@ -1060,6 +1093,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070671",
     "tikName": "Неверкинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 13661,
@@ -1148,6 +1184,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070672",
     "tikName": "Никольская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 31049,
@@ -1254,6 +1293,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070673",
     "tikName": "Сосновоборская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 36,
     "accounting": {
       "Число избирателей, внесенных в списки": 15956,
@@ -1355,6 +1397,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070674",
     "tikName": "Сердобская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 17535,
@@ -1448,6 +1493,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070675",
     "tikName": "Пензенская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 33024,
@@ -1553,6 +1601,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070676",
     "tikName": "Пенза, Ленинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 81182,
@@ -1655,6 +1706,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "258200070677",
     "tikName": "Пенза, Первомайская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 54,
     "accounting": {
       "Число избирателей, внесенных в списки": 103406,
@@ -1774,6 +1828,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300170983",
     "tikName": "Пенза, Железнодорожная",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 84630,
@@ -1878,6 +1935,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300170985",
     "tikName": "Пенза, Октябрьская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 70,
     "accounting": {
       "Число избирателей, внесенных в списки": 150182,
@@ -2013,6 +2073,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300170987",
     "tikName": "Каменская городская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 17,
     "accounting": {
       "Число избирателей, внесенных в списки": 33504,
@@ -2095,6 +2158,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300170989",
     "tikName": "Зареченская городская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 51867,
@@ -2187,6 +2253,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300170991",
     "tikName": "Башмаковская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 19931,
@@ -2289,6 +2358,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300170993",
     "tikName": "Беднодемьяновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 10247,
@@ -2374,6 +2446,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300170995",
     "tikName": "Бековская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 15137,
@@ -2461,6 +2536,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300170997",
     "tikName": "Белинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 44,
     "accounting": {
       "Число избирателей, внесенных в списки": 26390,
@@ -2570,6 +2648,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300170999",
     "tikName": "Бессоновская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 37,
     "accounting": {
       "Число избирателей, внесенных в списки": 33294,
@@ -2672,6 +2753,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300171001",
     "tikName": "Вадинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 8883,
@@ -2760,6 +2844,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300171003",
     "tikName": "Земетчинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 34,
     "accounting": {
       "Число избирателей, внесенных в списки": 24101,
@@ -2859,6 +2946,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300171005",
     "tikName": " Иссинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 10130,
@@ -2949,6 +3039,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300171007",
     "tikName": "Каменская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 43,
     "accounting": {
       "Число избирателей, внесенных в списки": 18941,
@@ -3057,6 +3150,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300171009",
     "tikName": "Мокшанская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 39,
     "accounting": {
       "Число избирателей, внесенных в списки": 23658,
@@ -3161,6 +3257,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300171011",
     "tikName": "Наровчатская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 10665,
@@ -3258,6 +3357,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300171013",
     "tikName": "Нижнеломовская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 47,
     "accounting": {
       "Число избирателей, внесенных в списки": 36397,
@@ -3370,6 +3472,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300171015",
     "tikName": "Пачелмская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 25,
     "accounting": {
       "Число избирателей, внесенных в списки": 14770,
@@ -3460,6 +3565,9 @@ export const duma_2003_tic_431_region_58 = [
     "ballot": "party",
     "tikTvd": "358300171017",
     "tikName": "Тамалинская",
+    "regionCode": "58",
+    "regionTvd": "100100095762",
+    "regionName": "Пензенская область",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 15201,

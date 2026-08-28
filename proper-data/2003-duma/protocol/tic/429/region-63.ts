@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070874",
     "tikName": "Волжская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки": 57356,
@@ -111,6 +119,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070875",
     "tikName": "Шенталинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 13879,
@@ -189,6 +205,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070876",
     "tikName": "Челно-Вершинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 14691,
@@ -264,6 +288,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070877",
     "tikName": "Сергиевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки": 35453,
@@ -350,6 +382,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070878",
     "tikName": "Похвистневская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 22748,
@@ -411,6 +451,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070879",
     "tikName": "Похвистневская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 23329,
@@ -493,6 +541,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070880",
     "tikName": "Кошкинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 17394,
@@ -578,6 +634,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070881",
     "tikName": "Клявлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 12141,
@@ -652,6 +716,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070882",
     "tikName": "Кинельская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 38315,
@@ -729,6 +801,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070883",
     "tikName": "Кинельская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 23025,
@@ -803,6 +883,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070884",
     "tikName": "Кинель-Черкасская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 35668,
@@ -898,6 +986,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070885",
     "tikName": "Камышлинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки": 8641,
@@ -961,6 +1057,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070886",
     "tikName": "Исаклинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 10999,
@@ -1035,6 +1139,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070887",
     "tikName": "Чапаевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 59092,
@@ -1125,6 +1237,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070888",
     "tikName": "Отрадная городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 36825,
@@ -1189,6 +1309,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070889",
     "tikName": "Новокуйбышевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 151,
+      "oikTvd": "100100095833",
+      "oikName": "Новокуйбышевский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 90517,
@@ -1288,6 +1416,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070890",
     "tikName": "Самара, Промышленная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "uikCount": 100,
     "accounting": {
       "Число избирателей, включенных в списки": 213706,
@@ -1440,6 +1576,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070891",
     "tikName": "Самара, Красноглинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 67690,
@@ -1528,6 +1672,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070892",
     "tikName": "Самара, Кировская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "uikCount": 91,
     "accounting": {
       "Число избирателей, включенных в списки": 189480,
@@ -1671,6 +1823,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070893",
     "tikName": "Красноярская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки": 39025,
@@ -1772,6 +1932,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070894",
     "tikName": "Елховская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 152,
+      "oikTvd": "100100095834",
+      "oikName": "Промышленный"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 7173,
@@ -1841,6 +2009,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070895",
     "tikName": "Самара, Советская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "uikCount": 60,
     "accounting": {
       "Число избирателей, включенных в списки": 136704,
@@ -1955,6 +2131,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070896",
     "tikName": "Самара, Самарская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 24785,
@@ -2022,6 +2206,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070897",
     "tikName": "Самара, Октябрьская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки": 95850,
@@ -2118,6 +2310,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070898",
     "tikName": "Самара, Ленинская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 55727,
@@ -2196,6 +2396,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070899",
     "tikName": "Самара, Куйбышевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 59781,
@@ -2282,6 +2490,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070900",
     "tikName": "Самара, Железнодорожная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 153,
+      "oikTvd": "100100095835",
+      "oikName": "Самарский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки": 81379,
@@ -2380,6 +2596,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070901",
     "tikName": "Шигонская ",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 18301,
@@ -2451,6 +2675,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070902",
     "tikName": "Хворостянская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 11076,
@@ -2518,6 +2750,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070903",
     "tikName": "Сызранская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 93,
     "accounting": {
       "Число избирателей, включенных в списки": 142273,
@@ -2658,6 +2898,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070904",
     "tikName": "Сызранская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки": 18083,
@@ -2736,6 +2984,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070905",
     "tikName": "Ставропольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки": 33600,
@@ -2818,6 +3074,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070906",
     "tikName": "Приволжская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 18300,
@@ -2890,6 +3154,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070907",
     "tikName": "Пестравская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 13681,
@@ -2956,6 +3228,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070908",
     "tikName": "Октябрьская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 23960,
@@ -3020,6 +3300,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070909",
     "tikName": "Нефтегорская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 25601,
@@ -3088,6 +3376,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070910",
     "tikName": "Красноармейская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 14258,
@@ -3160,6 +3456,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070911",
     "tikName": "Жигулевская городская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 47592,
@@ -3235,6 +3539,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070912",
     "tikName": "Борская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 18807,
@@ -3312,6 +3624,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070913",
     "tikName": "Большечерниговская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 15291,
@@ -3389,6 +3709,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070914",
     "tikName": "Большеглушицкая",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 15982,
@@ -3456,6 +3784,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070915",
     "tikName": "Богатовская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 12375,
@@ -3520,6 +3856,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070916",
     "tikName": "Безенчукская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 33013,
@@ -3601,6 +3945,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200070917",
     "tikName": "Алексеевская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 154,
+      "oikTvd": "100100095836",
+      "oikName": "Сызранский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 10148,
@@ -3674,6 +4026,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки": 124503,
@@ -3782,6 +4142,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки": 94802,
@@ -3878,6 +4246,14 @@ export const duma_2003_tic_429_region_63 = [
     "ballot": "single-member",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "uikCount": 134,
     "accounting": {
       "Число избирателей, включенных в списки": 316761,

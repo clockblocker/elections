@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 90416,
@@ -109,6 +117,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки": 120214,
@@ -219,6 +235,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 80119,
@@ -314,6 +338,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 94867,
@@ -414,6 +446,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки": 114188,
@@ -523,6 +563,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 20584,
@@ -599,6 +647,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266681",
     "tikName": "Бийск, Восточная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки": 92524,
@@ -705,6 +761,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266682",
     "tikName": "Бийск, Приобская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки": 94024,
@@ -804,6 +868,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266683",
     "tikName": "Бийская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 27111,
@@ -889,6 +961,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266684",
     "tikName": "Ельцовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки": 6064,
@@ -948,6 +1028,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266685",
     "tikName": "Залесовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 13138,
@@ -1023,6 +1111,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266686",
     "tikName": "Заринская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 16569,
@@ -1118,6 +1214,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266687",
     "tikName": "Заринская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 41165,
@@ -1188,6 +1292,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266688",
     "tikName": "Красногорская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 32,
     "accounting": {
       "Число избирателей, включенных в списки": 14195,
@@ -1272,6 +1384,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266690",
     "tikName": "Новоалтайская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 56118,
@@ -1351,6 +1471,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266691",
     "tikName": "Первомайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 36485,
@@ -1448,6 +1576,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266692",
     "tikName": "Сибирская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 4,
     "accounting": {
       "Число избирателей, включенных в списки": 9554,
@@ -1504,6 +1640,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266693",
     "tikName": "Советская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 13572,
@@ -1574,6 +1718,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266694",
     "tikName": "Солтонская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 8023,
@@ -1644,6 +1796,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266695",
     "tikName": "Тальменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 47,
     "accounting": {
       "Число избирателей, включенных в списки": 35997,
@@ -1743,6 +1903,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266696",
     "tikName": "Тогульская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 7809,
@@ -1810,6 +1978,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300266697",
     "tikName": "Целинная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 15015,
@@ -1884,6 +2060,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300267700",
     "tikName": "Кытмановская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 12996,
@@ -1962,6 +2146,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466631",
     "tikName": "Баевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 10339,
@@ -2027,6 +2219,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466632",
     "tikName": "Благовещенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 25289,
@@ -2103,6 +2303,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466633",
     "tikName": "Бурлинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 11031,
@@ -2172,6 +2380,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466634",
     "tikName": "Волчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 16574,
@@ -2238,6 +2454,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466635",
     "tikName": "Завьяловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 17121,
@@ -2302,6 +2526,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466636",
     "tikName": "Калманская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 11376,
@@ -2369,6 +2601,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466637",
     "tikName": "Каменская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 11833,
@@ -2446,6 +2686,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466638",
     "tikName": "Каменская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 34779,
@@ -2519,6 +2767,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466639",
     "tikName": "Ключевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 15631,
@@ -2585,6 +2841,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466640",
     "tikName": "Крутихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 9951,
@@ -2652,6 +2916,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466641",
     "tikName": "Кулундинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 19733,
@@ -2725,6 +2997,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466642",
     "tikName": "Мамонтовская №39",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 20565,
@@ -2795,6 +3075,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466643",
     "tikName": "Михайловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки": 18336,
@@ -2858,6 +3146,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466644",
     "tikName": "Немецкая",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 14,
     "accounting": {
       "Число избирателей, включенных в списки": 13387,
@@ -2921,6 +3217,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466645",
     "tikName": "Новичихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 8990,
@@ -2986,6 +3290,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466646",
     "tikName": "Павловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки": 31411,
@@ -3073,6 +3385,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466647",
     "tikName": "Панкрушихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 12331,
@@ -3142,6 +3462,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466648",
     "tikName": "Ребрихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 22093,
@@ -3216,6 +3544,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466649",
     "tikName": "Родинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 19205,
@@ -3287,6 +3623,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466650",
     "tikName": "Романовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 12059,
@@ -3351,6 +3695,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466651",
     "tikName": "Славгородская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки": 8950,
@@ -3411,6 +3763,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466652",
     "tikName": "Славгородская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 26765,
@@ -3472,6 +3832,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466653",
     "tikName": "Суетская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 7,
     "accounting": {
       "Число избирателей, включенных в списки": 4713,
@@ -3528,6 +3896,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466654",
     "tikName": "Табунская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 8123,
@@ -3599,6 +3975,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466655",
     "tikName": "Топчихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 20506,
@@ -3681,6 +4065,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466656",
     "tikName": "Тюменцевская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 13199,
@@ -3750,6 +4142,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466657",
     "tikName": "Угловская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 11538,
@@ -3821,6 +4221,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466658",
     "tikName": "Хабарская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 14630,
@@ -3891,6 +4299,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466659",
     "tikName": "Шелаболихинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 16,
     "accounting": {
       "Число избирателей, включенных в списки": 11884,
@@ -3956,6 +4372,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "322300466660",
     "tikName": "Яровская городская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 38,
+      "oikTvd": "100100095878",
+      "oikName": "Славгородский"
+    },
     "uikCount": 6,
     "accounting": {
       "Число избирателей, включенных в списки": 15374,
@@ -4011,6 +4435,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366753",
     "tikName": "Алейская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки": 15210,
@@ -4096,6 +4528,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366754",
     "tikName": "Алейская городская  ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 25112,
@@ -4159,6 +4599,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366755",
     "tikName": "Белокурихинская городская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 11545,
@@ -4222,6 +4670,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366756",
     "tikName": "Быстроистокская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 10,
     "accounting": {
       "Число избирателей, включенных в списки": 10014,
@@ -4280,6 +4736,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366757",
     "tikName": "Егорьевская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 12,
     "accounting": {
       "Число избирателей, включенных в списки": 11735,
@@ -4340,6 +4804,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366758",
     "tikName": "Змеиногорская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 8655,
@@ -4407,6 +4879,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366759",
     "tikName": "Змеиногорская городская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 9,
     "accounting": {
       "Число избирателей, включенных в списки": 10005,
@@ -4464,6 +4944,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366760",
     "tikName": "Зональная ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 14949,
@@ -4525,6 +5013,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366761",
     "tikName": "Косихинская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 15620,
@@ -4600,6 +5096,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366762",
     "tikName": "Краснощековская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 17312,
@@ -4667,6 +5171,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366763",
     "tikName": "Курьинская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 9977,
@@ -4733,6 +5245,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366764",
     "tikName": "Локтевская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 25096,
@@ -4806,6 +5326,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366765",
     "tikName": "Петропавловская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 11,
     "accounting": {
       "Число избирателей, включенных в списки": 10736,
@@ -4865,6 +5393,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366766",
     "tikName": "Поспелихинская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 21,
     "accounting": {
       "Число избирателей, включенных в списки": 21882,
@@ -4934,6 +5470,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366767",
     "tikName": "Рубцовская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 20313,
@@ -5008,6 +5552,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366768",
     "tikName": "Рубцовская городская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки": 127366,
@@ -5109,6 +5661,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366769",
     "tikName": "Смоленская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 26,
     "accounting": {
       "Число избирателей, включенных в списки": 20611,
@@ -5183,6 +5743,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366770",
     "tikName": "Солонешенская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 9320,
@@ -5258,6 +5826,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366771",
     "tikName": "Третьяковская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 17,
     "accounting": {
       "Число избирателей, включенных в списки": 12380,
@@ -5323,6 +5899,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366772",
     "tikName": "Троицкая",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 40,
     "accounting": {
       "Число избирателей, включенных в списки": 23142,
@@ -5411,6 +5995,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366773",
     "tikName": "Усть-Калманская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 14398,
@@ -5484,6 +6076,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366774",
     "tikName": "Усть-Пристанская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 19,
     "accounting": {
       "Число избирателей, включенных в списки": 12273,
@@ -5551,6 +6151,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366775",
     "tikName": "Чарышская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки": 11112,
@@ -5630,6 +6238,14 @@ export const duma_2003_tic_429_region_22 = [
     "ballot": "single-member",
     "tikTvd": "422400366776",
     "tikName": "Шипуновская ",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 35,
+      "oikTvd": "100100095875",
+      "oikName": "Алейский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки": 27707,

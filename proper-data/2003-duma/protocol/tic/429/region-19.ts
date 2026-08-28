@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_19 = [
     "ballot": "single-member",
     "tikTvd": "219200066728",
     "tikName": "Абазинская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "uikCount": 8,
     "accounting": {
       "Число избирателей, включенных в списки": 13302,
@@ -67,6 +75,14 @@ export const duma_2003_tic_429_region_19 = [
     "ballot": "single-member",
     "tikTvd": "219200066729",
     "tikName": "Сорская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "uikCount": 5,
     "accounting": {
       "Число избирателей, включенных в списки": 8996,
@@ -120,6 +136,14 @@ export const duma_2003_tic_429_region_19 = [
     "ballot": "single-member",
     "tikTvd": "219200066730",
     "tikName": "Территориальная избирательная комиссия г. Черногорска",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки": 54294,
@@ -206,6 +230,14 @@ export const duma_2003_tic_429_region_19 = [
     "ballot": "single-member",
     "tikTvd": "219200066731",
     "tikName": "Ширинская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 21582,
@@ -287,6 +319,14 @@ export const duma_2003_tic_429_region_19 = [
     "ballot": "single-member",
     "tikTvd": "219200066732",
     "tikName": "Таштыпская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 10710,
@@ -360,6 +400,14 @@ export const duma_2003_tic_429_region_19 = [
     "ballot": "single-member",
     "tikTvd": "219200066733",
     "tikName": "Усть-Абаканская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 27832,
@@ -441,6 +489,14 @@ export const duma_2003_tic_429_region_19 = [
     "ballot": "single-member",
     "tikTvd": "219200066734",
     "tikName": "Саяногорская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 51198,
@@ -514,6 +570,14 @@ export const duma_2003_tic_429_region_19 = [
     "ballot": "single-member",
     "tikTvd": "219200066735",
     "tikName": "Боградская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 11681,
@@ -589,6 +653,14 @@ export const duma_2003_tic_429_region_19 = [
     "ballot": "single-member",
     "tikTvd": "219200066736",
     "tikName": "Бейская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "uikCount": 27,
     "accounting": {
       "Число избирателей, включенных в списки": 14149,
@@ -664,6 +736,14 @@ export const duma_2003_tic_429_region_19 = [
     "ballot": "single-member",
     "tikTvd": "219200066737",
     "tikName": "Орджоникидзевская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 10637,
@@ -734,6 +814,14 @@ export const duma_2003_tic_429_region_19 = [
     "ballot": "single-member",
     "tikTvd": "219200066738",
     "tikName": "Алтайская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 17064,
@@ -806,6 +894,14 @@ export const duma_2003_tic_429_region_19 = [
     "ballot": "single-member",
     "tikTvd": "219200066739",
     "tikName": "Аскизская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 28590,
@@ -899,6 +995,14 @@ export const duma_2003_tic_429_region_19 = [
     "ballot": "single-member",
     "tikTvd": "219200066740",
     "tikName": "Абаканская городская",
+    "regionCode": "19",
+    "regionTvd": "100100095640",
+    "regionName": "Республика Хакасия",
+    "district": {
+      "districtNumber": 31,
+      "oikTvd": "100100095641",
+      "oikName": "Хакасский"
+    },
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в списки": 122396,

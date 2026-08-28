@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "432400570455",
+    "uikName": "УИК №193",
     "tikTvd": "232200070418",
     "tikName": "Брянск, Фокинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2574,
       "Число бюллетеней, полученных участковыми комиссиями": 2555,
@@ -66,8 +75,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "432400570456",
+    "uikName": "УИК №194",
     "tikTvd": "232200070418",
     "tikName": "Брянск, Фокинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2445,
       "Число бюллетеней, полученных участковыми комиссиями": 2309,
@@ -121,8 +139,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "432400570457",
+    "uikName": "УИК №195",
     "tikTvd": "232200070418",
     "tikName": "Брянск, Фокинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2642,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -176,8 +203,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "432400570458",
+    "uikName": "УИК №196",
     "tikTvd": "232200070418",
     "tikName": "Брянск, Фокинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2298,
       "Число бюллетеней, полученных участковыми комиссиями": 2291,
@@ -231,8 +267,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "432400570459",
+    "uikName": "УИК №197",
     "tikTvd": "232200070418",
     "tikName": "Брянск, Фокинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2045,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -286,8 +331,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "432400570460",
+    "uikName": "УИК №198",
     "tikTvd": "232200070418",
     "tikName": "Брянск, Фокинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2577,
       "Число бюллетеней, полученных участковыми комиссиями": 2319,
@@ -341,8 +395,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "432400570461",
+    "uikName": "УИК №199",
     "tikTvd": "232200070418",
     "tikName": "Брянск, Фокинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2030,
       "Число бюллетеней, полученных участковыми комиссиями": 2031,
@@ -396,8 +459,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "432402170443",
+    "uikName": "УИК №705",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2418,
@@ -451,8 +523,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "432402170444",
+    "uikName": "УИК №706",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1959,
       "Число бюллетеней, полученных участковыми комиссиями": 1851,
@@ -506,8 +587,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "432402170445",
+    "uikName": "УИК №707",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2212,
       "Число бюллетеней, полученных участковыми комиссиями": 2086,
@@ -561,8 +651,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "432402170446",
+    "uikName": "УИК №708",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2500,
       "Число бюллетеней, полученных участковыми комиссиями": 2435,
@@ -616,8 +715,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "432402170447",
+    "uikName": "УИК №709",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2802,
       "Число бюллетеней, полученных участковыми комиссиями": 2717,
@@ -671,8 +779,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "432402170448",
+    "uikName": "УИК №710",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 919,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -726,8 +843,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "432402170449",
+    "uikName": "УИК №711",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 505,
       "Число бюллетеней, полученных участковыми комиссиями": 494,
@@ -781,8 +907,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "432402170450",
+    "uikName": "УИК №712",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -836,8 +971,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "432402170451",
+    "uikName": "УИК №713",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -891,8 +1035,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "432402170452",
+    "uikName": "УИК №714",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 578,
       "Число бюллетеней, полученных участковыми комиссиями": 565,
@@ -946,8 +1099,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "432402170453",
+    "uikName": "УИК №715",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 207,
@@ -1001,8 +1163,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "432402170454",
+    "uikName": "УИК №716",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -1056,8 +1227,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "432402170455",
+    "uikName": "УИК №717",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 517,
       "Число бюллетеней, полученных участковыми комиссиями": 517,
@@ -1111,8 +1291,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "432402170456",
+    "uikName": "УИК №718",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -1166,8 +1355,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "432402170457",
+    "uikName": "УИК №719",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 373,
@@ -1221,8 +1419,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "432402170458",
+    "uikName": "УИК №720",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -1276,8 +1483,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "432402170459",
+    "uikName": "УИК №721",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 322,
@@ -1331,8 +1547,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "432402170460",
+    "uikName": "УИК №722",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 794,
       "Число бюллетеней, полученных участковыми комиссиями": 801,
@@ -1386,8 +1611,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "432402170461",
+    "uikName": "УИК №723",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -1441,8 +1675,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "432402170462",
+    "uikName": "УИК №724",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -1496,8 +1739,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "432402170463",
+    "uikName": "УИК №725",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 252,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -1551,8 +1803,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "432402170464",
+    "uikName": "УИК №726",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 317,
@@ -1606,8 +1867,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "432402170465",
+    "uikName": "УИК №727",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 468,
       "Число бюллетеней, полученных участковыми комиссиями": 468,
@@ -1661,8 +1931,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "432402170466",
+    "uikName": "УИК №728",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 435,
@@ -1716,8 +1995,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "432402170467",
+    "uikName": "УИК №729",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 434,
       "Число бюллетеней, полученных участковыми комиссиями": 434,
@@ -1771,8 +2059,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "432402170468",
+    "uikName": "УИК №730",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 347,
@@ -1826,8 +2123,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "432402170469",
+    "uikName": "УИК №731",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -1881,8 +2187,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "432402170470",
+    "uikName": "УИК №732",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 468,
       "Число бюллетеней, полученных участковыми комиссиями": 453,
@@ -1936,8 +2251,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "432402170471",
+    "uikName": "УИК №733",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1018,
       "Число бюллетеней, полученных участковыми комиссиями": 1018,
@@ -1991,8 +2315,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "432402170472",
+    "uikName": "УИК №734",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 331,
@@ -2046,8 +2379,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "432402170473",
+    "uikName": "УИК №735",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -2101,8 +2443,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 736,
     "uikTvd": "432402170474",
+    "uikName": "УИК №736",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -2156,8 +2507,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 737,
     "uikTvd": "432402170475",
+    "uikName": "УИК №737",
     "tikTvd": "232200070419",
     "tikName": "Навлинская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 382,
@@ -2211,8 +2571,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 613,
     "uikTvd": "432401870433",
+    "uikName": "УИК №613",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1209,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2266,8 +2635,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 614,
     "uikTvd": "432401870434",
+    "uikName": "УИК №614",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 897,
       "Число бюллетеней, полученных участковыми комиссиями": 895,
@@ -2321,8 +2699,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 615,
     "uikTvd": "432401870435",
+    "uikName": "УИК №615",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2047,
       "Число бюллетеней, полученных участковыми комиссиями": 2046,
@@ -2376,8 +2763,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 616,
     "uikTvd": "432401870436",
+    "uikName": "УИК №616",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 818,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -2431,8 +2827,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 617,
     "uikTvd": "432401870437",
+    "uikName": "УИК №617",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 682,
       "Число бюллетеней, полученных участковыми комиссиями": 679,
@@ -2486,8 +2891,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 618,
     "uikTvd": "432401870438",
+    "uikName": "УИК №618",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1032,
       "Число бюллетеней, полученных участковыми комиссиями": 1022,
@@ -2541,8 +2955,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 619,
     "uikTvd": "432401870439",
+    "uikName": "УИК №619",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1381,
       "Число бюллетеней, полученных участковыми комиссиями": 1368,
@@ -2596,8 +3019,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 620,
     "uikTvd": "432401870440",
+    "uikName": "УИК №620",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2651,8 +3083,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 621,
     "uikTvd": "432401870441",
+    "uikName": "УИК №621",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 452,
@@ -2706,8 +3147,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 622,
     "uikTvd": "432401870442",
+    "uikName": "УИК №622",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -2761,8 +3211,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 623,
     "uikTvd": "432401870443",
+    "uikName": "УИК №623",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -2816,8 +3275,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 624,
     "uikTvd": "432401870444",
+    "uikName": "УИК №624",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 412,
@@ -2871,8 +3339,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 625,
     "uikTvd": "432401870445",
+    "uikName": "УИК №625",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -2926,8 +3403,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 626,
     "uikTvd": "432401870446",
+    "uikName": "УИК №626",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 127,
@@ -2981,8 +3467,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 627,
     "uikTvd": "432401870447",
+    "uikName": "УИК №627",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -3036,8 +3531,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 628,
     "uikTvd": "432401870448",
+    "uikName": "УИК №628",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 61,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -3091,8 +3595,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 629,
     "uikTvd": "432401870449",
+    "uikName": "УИК №629",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 256,
@@ -3146,8 +3659,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 630,
     "uikTvd": "432401870450",
+    "uikName": "УИК №630",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 506,
@@ -3201,8 +3723,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 631,
     "uikTvd": "432401870451",
+    "uikName": "УИК №631",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -3256,8 +3787,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 632,
     "uikTvd": "432401870452",
+    "uikName": "УИК №632",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 244,
@@ -3311,8 +3851,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 633,
     "uikTvd": "432401870453",
+    "uikName": "УИК №633",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 58,
       "Число бюллетеней, полученных участковыми комиссиями": 58,
@@ -3366,8 +3915,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 634,
     "uikTvd": "432401870454",
+    "uikName": "УИК №634",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 161,
@@ -3421,8 +3979,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 635,
     "uikTvd": "432401870455",
+    "uikName": "УИК №635",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -3476,8 +4043,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 636,
     "uikTvd": "432401870456",
+    "uikName": "УИК №636",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -3531,8 +4107,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 637,
     "uikTvd": "432401870457",
+    "uikName": "УИК №637",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 231,
@@ -3586,8 +4171,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 638,
     "uikTvd": "432401870458",
+    "uikName": "УИК №638",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 313,
@@ -3641,8 +4235,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 639,
     "uikTvd": "432401870459",
+    "uikName": "УИК №639",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -3696,8 +4299,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 640,
     "uikTvd": "432401870460",
+    "uikName": "УИК №640",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 316,
@@ -3751,8 +4363,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 641,
     "uikTvd": "432401870461",
+    "uikName": "УИК №641",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -3806,8 +4427,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "432401870462",
+    "uikName": "УИК №642",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 272,
@@ -3861,8 +4491,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "432401870463",
+    "uikName": "УИК №643",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 362,
@@ -3916,8 +4555,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "432401870464",
+    "uikName": "УИК №644",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -3971,8 +4619,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "432401870465",
+    "uikName": "УИК №645",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -4026,8 +4683,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "432401870466",
+    "uikName": "УИК №646",
     "tikTvd": "232200070420",
     "tikName": "Комаричская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -4081,8 +4747,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "432401470488",
+    "uikName": "УИК №435",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2181,
       "Число бюллетеней, полученных участковыми комиссиями": 2090,
@@ -4136,8 +4811,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "432401470489",
+    "uikName": "УИК №436",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1321,
       "Число бюллетеней, полученных участковыми комиссиями": 1264,
@@ -4191,8 +4875,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "432401470490",
+    "uikName": "УИК №437",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2826,
       "Число бюллетеней, полученных участковыми комиссиями": 2770,
@@ -4246,8 +4939,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "432401470491",
+    "uikName": "УИК №438",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3021,
       "Число бюллетеней, полученных участковыми комиссиями": 2890,
@@ -4301,8 +5003,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "432401470492",
+    "uikName": "УИК №439",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2478,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -4356,8 +5067,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "432401470493",
+    "uikName": "УИК №440",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2415,
@@ -4411,8 +5131,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "432401470494",
+    "uikName": "УИК №441",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2506,
       "Число бюллетеней, полученных участковыми комиссиями": 2355,
@@ -4466,8 +5195,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 442,
     "uikTvd": "432401470495",
+    "uikName": "УИК №442",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4521,8 +5259,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 443,
     "uikTvd": "432401470496",
+    "uikName": "УИК №443",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 616,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -4576,8 +5323,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 444,
     "uikTvd": "432401470497",
+    "uikName": "УИК №444",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -4631,8 +5387,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 445,
     "uikTvd": "432401470498",
+    "uikName": "УИК №445",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -4686,8 +5451,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 446,
     "uikTvd": "432401470499",
+    "uikName": "УИК №446",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 359,
@@ -4741,8 +5515,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "432401470500",
+    "uikName": "УИК №447",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -4796,8 +5579,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "432401470501",
+    "uikName": "УИК №448",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1104,
       "Число бюллетеней, полученных участковыми комиссиями": 1090,
@@ -4851,8 +5643,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "432401470502",
+    "uikName": "УИК №449",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -4906,8 +5707,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "432401470503",
+    "uikName": "УИК №450",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -4961,8 +5771,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "432401470504",
+    "uikName": "УИК №451",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 474,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -5016,8 +5835,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "432401470505",
+    "uikName": "УИК №452",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 283,
@@ -5071,8 +5899,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "432401470506",
+    "uikName": "УИК №453",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -5126,8 +5963,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "432401470507",
+    "uikName": "УИК №454",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -5181,8 +6027,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "432401470508",
+    "uikName": "УИК №455",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 594,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5236,8 +6091,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "432401470509",
+    "uikName": "УИК №456",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -5291,8 +6155,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "432401470510",
+    "uikName": "УИК №457",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 255,
@@ -5346,8 +6219,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "432401470511",
+    "uikName": "УИК №458",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1369,
       "Число бюллетеней, полученных участковыми комиссиями": 1349,
@@ -5401,8 +6283,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "432401470512",
+    "uikName": "УИК №459",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 207,
@@ -5456,8 +6347,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "432401470513",
+    "uikName": "УИК №460",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1794,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -5511,8 +6411,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "432401470514",
+    "uikName": "УИК №461",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 773,
       "Число бюллетеней, полученных участковыми комиссиями": 755,
@@ -5566,8 +6475,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "432401470515",
+    "uikName": "УИК №462",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -5621,8 +6539,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "432401470516",
+    "uikName": "УИК №463",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -5676,8 +6603,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "432401470517",
+    "uikName": "УИК №464",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -5731,8 +6667,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "432401470518",
+    "uikName": "УИК №465",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -5786,8 +6731,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "432401470519",
+    "uikName": "УИК №466",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -5841,8 +6795,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "432401470520",
+    "uikName": "УИК №467",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -5896,8 +6859,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "432401470521",
+    "uikName": "УИК №468",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 462,
@@ -5951,8 +6923,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "432401470522",
+    "uikName": "УИК №469",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 194,
@@ -6006,8 +6987,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "432401470523",
+    "uikName": "УИК №470",
     "tikTvd": "232200070421",
     "tikName": "Карачевская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 584,
@@ -6061,8 +7051,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "432402670461",
+    "uikName": "УИК  904",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 449,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6116,8 +7115,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "432402670463",
+    "uikName": "УИК №905",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6171,8 +7179,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "432402670464",
+    "uikName": "УИК №906",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6226,8 +7243,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "432402670465",
+    "uikName": "УИК №907",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6281,8 +7307,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "432402670466",
+    "uikName": "УИК №908",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 449,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6336,8 +7371,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "432402670467",
+    "uikName": "УИК №909",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6391,8 +7435,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "432402670468",
+    "uikName": "УИК №910",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6446,8 +7499,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "432402670469",
+    "uikName": "УИК №911",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6501,8 +7563,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "432402670470",
+    "uikName": "УИК №912",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6556,8 +7627,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 913,
     "uikTvd": "432402670471",
+    "uikName": "УИК №913",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6611,8 +7691,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "432402670472",
+    "uikName": "УИК №914",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6666,8 +7755,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "432402670473",
+    "uikName": "УИК №915",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6721,8 +7819,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "432402670474",
+    "uikName": "УИК №916",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6776,8 +7883,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 917,
     "uikTvd": "432402670475",
+    "uikName": "УИК №917",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 479,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -6831,8 +7947,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 918,
     "uikTvd": "432402670476",
+    "uikName": "УИК №918",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6886,8 +8011,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 919,
     "uikTvd": "432402670477",
+    "uikName": "УИК №919",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6941,8 +8075,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 920,
     "uikTvd": "432402670478",
+    "uikName": "УИК №920",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 404,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -6996,8 +8139,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 921,
     "uikTvd": "432402670479",
+    "uikName": "УИК №921",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7051,8 +8203,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 922,
     "uikTvd": "432402670480",
+    "uikName": "УИК №922",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7106,8 +8267,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 923,
     "uikTvd": "432402670481",
+    "uikName": "УИК №923",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7161,8 +8331,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 924,
     "uikTvd": "432402670482",
+    "uikName": "УИК №924",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7216,8 +8395,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 925,
     "uikTvd": "432402670483",
+    "uikName": "УИК №925",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7271,8 +8459,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 926,
     "uikTvd": "432402670484",
+    "uikName": "УИК №926",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7326,8 +8523,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 927,
     "uikTvd": "432402670485",
+    "uikName": "УИК №927",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7381,8 +8587,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 928,
     "uikTvd": "432402670486",
+    "uikName": "УИК №928",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7436,8 +8651,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "432402670487",
+    "uikName": "УИК №929",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7491,8 +8715,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "432402670488",
+    "uikName": "УИК №930",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7546,8 +8779,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "432402670489",
+    "uikName": "УИК №931",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7601,8 +8843,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "432402670490",
+    "uikName": "УИК №932",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7656,8 +8907,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "432402670491",
+    "uikName": "УИК №933",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7711,8 +8971,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "432402670492",
+    "uikName": "УИК №934",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2731,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7766,8 +9035,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 935,
     "uikTvd": "432402670493",
+    "uikName": "УИК №935",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2594,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7821,8 +9099,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "432402670494",
+    "uikName": "УИК №936",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 729,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -7876,8 +9163,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "432402670495",
+    "uikName": "УИК №937",
     "tikTvd": "232200070422",
     "tikName": "Севская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7931,8 +9227,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "432402770457",
+    "uikName": "УИК №938",
     "tikTvd": "232200070423",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2501,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7986,8 +9291,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 939,
     "uikTvd": "432402770458",
+    "uikName": "УИК №939",
     "tikTvd": "232200070423",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2448,
       "Число бюллетеней, полученных участковыми комиссиями": 2430,
@@ -8041,8 +9355,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 940,
     "uikTvd": "432402770459",
+    "uikName": "УИК №940",
     "tikTvd": "232200070423",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2630,
       "Число бюллетеней, полученных участковыми комиссиями": 2660,
@@ -8096,8 +9419,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 941,
     "uikTvd": "432402770460",
+    "uikName": "УИК №941",
     "tikTvd": "232200070423",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2542,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -8151,8 +9483,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 942,
     "uikTvd": "432402770461",
+    "uikName": "УИК №942",
     "tikTvd": "232200070423",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 660,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -8206,8 +9547,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 943,
     "uikTvd": "432402770462",
+    "uikName": "УИК №943",
     "tikTvd": "232200070423",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1597,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -8261,8 +9611,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 944,
     "uikTvd": "432402770463",
+    "uikName": "УИК №944",
     "tikTvd": "232200070423",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1798,
       "Число бюллетеней, полученных участковыми комиссиями": 1780,
@@ -8316,8 +9675,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 945,
     "uikTvd": "432402770464",
+    "uikName": "УИК №945",
     "tikTvd": "232200070423",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1576,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -8371,8 +9739,17 @@ export const duma_2003_uik_428_region_32_part_005 = [
     "ballot": "single-member",
     "uikNumber": 946,
     "uikTvd": "432402770465",
+    "uikName": "УИК №946",
     "tikTvd": "232200070423",
     "tikName": "Сельцовская городская",
+    "regionCode": "32",
+    "regionTvd": "100100095886",
+    "regionName": "Брянская область",
+    "district": {
+      "districtNumber": 66,
+      "oikTvd": "100100095887",
+      "oikName": "Брянский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 260,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2048,
     "uikTvd": "450403970475",
+    "uikName": "УИК №2048",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2049,
     "uikTvd": "450403970476",
+    "uikName": "УИК №2049",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2514,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2050,
     "uikTvd": "450403970477",
+    "uikName": "УИК №2050",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2008,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2051,
     "uikTvd": "450403970478",
+    "uikName": "УИК №2051",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1921,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2052,
     "uikTvd": "450403970479",
+    "uikName": "УИК №2052",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1690,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2053,
     "uikTvd": "450403970480",
+    "uikName": "УИК №2053",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1658,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2054,
     "uikTvd": "450403970481",
+    "uikName": "УИК №2054",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1455,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2055,
     "uikTvd": "450403970482",
+    "uikName": "УИК №2055",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1598,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2056,
     "uikTvd": "450403970483",
+    "uikName": "УИК №2056",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1732,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2057,
     "uikTvd": "450403970484",
+    "uikName": "УИК №2057",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1112,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2058,
     "uikTvd": "450403970485",
+    "uikName": "УИК №2058",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1020,
       "Число бюллетеней, полученных участковыми комиссиями": 1020,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2059,
     "uikTvd": "450403970486",
+    "uikName": "УИК №2059",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 850,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2060,
     "uikTvd": "450403970487",
+    "uikName": "УИК №2060",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2311,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2061,
     "uikTvd": "450403970488",
+    "uikName": "УИК №2061",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1661,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2062,
     "uikTvd": "450403970489",
+    "uikName": "УИК №2062",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 783,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2063,
     "uikTvd": "450403970490",
+    "uikName": "УИК №2063",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2064,
     "uikTvd": "450403970491",
+    "uikName": "УИК №2064",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2065,
     "uikTvd": "450403970492",
+    "uikName": "УИК №2065",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2066,
     "uikTvd": "450403970493",
+    "uikName": "УИК №2066",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 943,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2067,
     "uikTvd": "450403970494",
+    "uikName": "УИК №2067",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2068,
     "uikTvd": "450403970495",
+    "uikName": "УИК №2068",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1548,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2069,
     "uikTvd": "450403970496",
+    "uikName": "УИК №2069",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 280,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2070,
     "uikTvd": "450403970497",
+    "uikName": "УИК №2070",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2658,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2071,
     "uikTvd": "450403970498",
+    "uikName": "УИК №2071",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2072,
     "uikTvd": "450403970499",
+    "uikName": "УИК №2072",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 793,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2073,
     "uikTvd": "450403970500",
+    "uikName": "УИК №2073",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2074,
     "uikTvd": "450403970501",
+    "uikName": "УИК №2074",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 874,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2075,
     "uikTvd": "450403970502",
+    "uikName": "УИК №2075",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 391,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2076,
     "uikTvd": "450403970503",
+    "uikName": "УИК №2076",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2077,
     "uikTvd": "450403970504",
+    "uikName": "УИК №2077",
     "tikTvd": "350300870386",
     "tikName": "Павлово-Посадская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 112,
+      "oikTvd": "100100095713",
+      "oikName": "Орехово-Зуевский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 447,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "450401870383",
+    "uikName": "УИК №721",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2360,
       "Число бюллетеней, полученных участковыми комиссиями": 2339,
@@ -1531,8 +1810,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "450401870384",
+    "uikName": "УИК №722",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2588,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1581,8 +1869,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "450401870385",
+    "uikName": "УИК №723",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3056,
       "Число бюллетеней, полученных участковыми комиссиями": 2942,
@@ -1631,8 +1928,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "450401870386",
+    "uikName": "УИК №724",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2909,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -1681,8 +1987,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "450401870387",
+    "uikName": "УИК №725",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2725,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1731,8 +2046,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "450401870388",
+    "uikName": "УИК №726",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2313,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1781,8 +2105,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "450401870389",
+    "uikName": "УИК №727",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2401,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1831,8 +2164,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "450401870390",
+    "uikName": "УИК №728",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2517,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1881,8 +2223,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "450401870391",
+    "uikName": "УИК №729",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2908,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -1931,8 +2282,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "450401870392",
+    "uikName": "УИК №730",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2833,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -1981,8 +2341,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "450401870393",
+    "uikName": "УИК №731",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2794,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2031,8 +2400,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "450401870394",
+    "uikName": "УИК №732",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2759,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2081,8 +2459,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "450401870395",
+    "uikName": "УИК №733",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2823,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -2131,8 +2518,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "450401870396",
+    "uikName": "УИК №734",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2811,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -2181,8 +2577,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "450401870397",
+    "uikName": "УИК №735",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2811,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2231,8 +2636,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 736,
     "uikTvd": "450401870398",
+    "uikName": "УИК №736",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2514,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2281,8 +2695,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 737,
     "uikTvd": "450401870399",
+    "uikName": "УИК №737",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2458,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2331,8 +2754,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 738,
     "uikTvd": "450401870400",
+    "uikName": "УИК №738",
     "tikTvd": "350300970359",
     "tikName": "Климовская городская ",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1163,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2381,8 +2813,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2078,
     "uikTvd": "450404070730",
+    "uikName": "УИК №2078",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2697,
       "Число бюллетеней, полученных участковыми комиссиями": 2708,
@@ -2431,8 +2872,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2079,
     "uikTvd": "450404070731",
+    "uikName": "УИК №2079",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2098,
       "Число бюллетеней, полученных участковыми комиссиями": 2096,
@@ -2481,8 +2931,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2080,
     "uikTvd": "450404070732",
+    "uikName": "УИК №2080",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2593,
       "Число бюллетеней, полученных участковыми комиссиями": 2587,
@@ -2531,8 +2990,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2081,
     "uikTvd": "450404070733",
+    "uikName": "УИК №2081",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2462,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -2581,8 +3049,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2082,
     "uikTvd": "450404070734",
+    "uikName": "УИК №2082",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2619,
       "Число бюллетеней, полученных участковыми комиссиями": 2602,
@@ -2631,8 +3108,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2083,
     "uikTvd": "450404070735",
+    "uikName": "УИК №2083",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1667,
       "Число бюллетеней, полученных участковыми комиссиями": 1673,
@@ -2681,8 +3167,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2084,
     "uikTvd": "450404070736",
+    "uikName": "УИК №2084",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1365,
       "Число бюллетеней, полученных участковыми комиссиями": 1367,
@@ -2731,8 +3226,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2085,
     "uikTvd": "450404070737",
+    "uikName": "УИК №2085",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2116,
       "Число бюллетеней, полученных участковыми комиссиями": 2118,
@@ -2781,8 +3285,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2086,
     "uikTvd": "450404070738",
+    "uikName": "УИК №2086",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 783,
       "Число бюллетеней, полученных участковыми комиссиями": 774,
@@ -2831,8 +3344,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2087,
     "uikTvd": "450404070739",
+    "uikName": "УИК №2087",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 931,
       "Число бюллетеней, полученных участковыми комиссиями": 925,
@@ -2881,8 +3403,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2088,
     "uikTvd": "450404070740",
+    "uikName": "УИК №2088",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -2931,8 +3462,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2089,
     "uikTvd": "450404070741",
+    "uikName": "УИК №2089",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 621,
       "Число бюллетеней, полученных участковыми комиссиями": 627,
@@ -2981,8 +3521,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2090,
     "uikTvd": "450404070742",
+    "uikName": "УИК №2090",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2388,
       "Число бюллетеней, полученных участковыми комиссиями": 2385,
@@ -3031,8 +3580,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2091,
     "uikTvd": "450404070743",
+    "uikName": "УИК №2091",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2440,
       "Число бюллетеней, полученных участковыми комиссиями": 2423,
@@ -3081,8 +3639,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2092,
     "uikTvd": "450404070744",
+    "uikName": "УИК №2092",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 783,
       "Число бюллетеней, полученных участковыми комиссиями": 777,
@@ -3131,8 +3698,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2093,
     "uikTvd": "450404070745",
+    "uikName": "УИК №2093",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2194,
       "Число бюллетеней, полученных участковыми комиссиями": 2186,
@@ -3181,8 +3757,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2094,
     "uikTvd": "450404070746",
+    "uikName": "УИК №2094",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1877,
       "Число бюллетеней, полученных участковыми комиссиями": 1869,
@@ -3231,8 +3816,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2095,
     "uikTvd": "450404070747",
+    "uikName": "УИК №2095",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1727,
       "Число бюллетеней, полученных участковыми комиссиями": 1718,
@@ -3281,8 +3875,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2096,
     "uikTvd": "450404070748",
+    "uikName": "УИК №2096",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1817,
       "Число бюллетеней, полученных участковыми комиссиями": 1815,
@@ -3331,8 +3934,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2097,
     "uikTvd": "450404070749",
+    "uikName": "УИК №2097",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1409,
       "Число бюллетеней, полученных участковыми комиссиями": 1412,
@@ -3381,8 +3993,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2098,
     "uikTvd": "450404070750",
+    "uikName": "УИК №2098",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2910,
       "Число бюллетеней, полученных участковыми комиссиями": 2901,
@@ -3431,8 +4052,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2099,
     "uikTvd": "450404070751",
+    "uikName": "УИК №2099",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2645,
       "Число бюллетеней, полученных участковыми комиссиями": 2641,
@@ -3481,8 +4111,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2100,
     "uikTvd": "450404070752",
+    "uikName": "УИК №2100",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2549,
       "Число бюллетеней, полученных участковыми комиссиями": 2559,
@@ -3531,8 +4170,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2101,
     "uikTvd": "450404070753",
+    "uikName": "УИК №2101",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2011,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -3581,8 +4229,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2102,
     "uikTvd": "450404070754",
+    "uikName": "УИК №2102",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2030,
       "Число бюллетеней, полученных участковыми комиссиями": 1908,
@@ -3631,8 +4288,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2103,
     "uikTvd": "450404070755",
+    "uikName": "УИК №2103",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2300,
       "Число бюллетеней, полученных участковыми комиссиями": 2365,
@@ -3681,8 +4347,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2104,
     "uikTvd": "450404070756",
+    "uikName": "УИК №2104",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2356,
       "Число бюллетеней, полученных участковыми комиссиями": 2337,
@@ -3731,8 +4406,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2105,
     "uikTvd": "450404070757",
+    "uikName": "УИК №2105",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2270,
       "Число бюллетеней, полученных участковыми комиссиями": 2261,
@@ -3781,8 +4465,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2106,
     "uikTvd": "450404070758",
+    "uikName": "УИК №2106",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2336,
       "Число бюллетеней, полученных участковыми комиссиями": 2312,
@@ -3831,8 +4524,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2107,
     "uikTvd": "450404070759",
+    "uikName": "УИК №2107",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1972,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -3881,8 +4583,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2108,
     "uikTvd": "450404070760",
+    "uikName": "УИК №2108",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2851,
       "Число бюллетеней, полученных участковыми комиссиями": 2854,
@@ -3931,8 +4642,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2109,
     "uikTvd": "450404070761",
+    "uikName": "УИК №2109",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2437,
       "Число бюллетеней, полученных участковыми комиссиями": 2447,
@@ -3981,8 +4701,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2110,
     "uikTvd": "450404070762",
+    "uikName": "УИК №2110",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2886,
       "Число бюллетеней, полученных участковыми комиссиями": 2870,
@@ -4031,8 +4760,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2111,
     "uikTvd": "450404070763",
+    "uikName": "УИК №2111",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2766,
       "Число бюллетеней, полученных участковыми комиссиями": 2764,
@@ -4081,8 +4819,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2112,
     "uikTvd": "450404070764",
+    "uikName": "УИК №2112",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1531,
       "Число бюллетеней, полученных участковыми комиссиями": 1521,
@@ -4131,8 +4878,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2113,
     "uikTvd": "450404070765",
+    "uikName": "УИК №2113",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2363,
       "Число бюллетеней, полученных участковыми комиссиями": 2360,
@@ -4181,8 +4937,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2114,
     "uikTvd": "450404070766",
+    "uikName": "УИК №2114",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1732,
       "Число бюллетеней, полученных участковыми комиссиями": 1645,
@@ -4231,8 +4996,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2115,
     "uikTvd": "450404070767",
+    "uikName": "УИК №2115",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1570,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -4281,8 +5055,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2116,
     "uikTvd": "450404070768",
+    "uikName": "УИК №2116",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2488,
       "Число бюллетеней, полученных участковыми комиссиями": 2481,
@@ -4331,8 +5114,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2117,
     "uikTvd": "450404070769",
+    "uikName": "УИК №2117",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2314,
@@ -4381,8 +5173,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2118,
     "uikTvd": "450404070770",
+    "uikName": "УИК №2118",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2432,
       "Число бюллетеней, полученных участковыми комиссиями": 2433,
@@ -4431,8 +5232,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2119,
     "uikTvd": "450404070771",
+    "uikName": "УИК №2119",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2453,
       "Число бюллетеней, полученных участковыми комиссиями": 2397,
@@ -4481,8 +5291,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2120,
     "uikTvd": "450404070772",
+    "uikName": "УИК №2120",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2411,
       "Число бюллетеней, полученных участковыми комиссиями": 2405,
@@ -4531,8 +5350,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2121,
     "uikTvd": "450404070773",
+    "uikName": "УИК №2121",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2092,
       "Число бюллетеней, полученных участковыми комиссиями": 2091,
@@ -4581,8 +5409,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2122,
     "uikTvd": "450404070774",
+    "uikName": "УИК №2122",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1954,
       "Число бюллетеней, полученных участковыми комиссиями": 1945,
@@ -4631,8 +5468,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2123,
     "uikTvd": "450404070775",
+    "uikName": "УИК №2123",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2498,
       "Число бюллетеней, полученных участковыми комиссиями": 2485,
@@ -4681,8 +5527,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2124,
     "uikTvd": "450404070776",
+    "uikName": "УИК №2124",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1406,
       "Число бюллетеней, полученных участковыми комиссиями": 1401,
@@ -4731,8 +5586,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2125,
     "uikTvd": "450404070777",
+    "uikName": "УИК №2125",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1339,
       "Число бюллетеней, полученных участковыми комиссиями": 1341,
@@ -4781,8 +5645,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2126,
     "uikTvd": "450404070778",
+    "uikName": "УИК №2126",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1484,
       "Число бюллетеней, полученных участковыми комиссиями": 1485,
@@ -4831,8 +5704,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2127,
     "uikTvd": "450404070779",
+    "uikName": "УИК №2127",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1427,
       "Число бюллетеней, полученных участковыми комиссиями": 1419,
@@ -4881,8 +5763,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2128,
     "uikTvd": "450404070780",
+    "uikName": "УИК №2128",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1288,
       "Число бюллетеней, полученных участковыми комиссиями": 1282,
@@ -4931,8 +5822,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2129,
     "uikTvd": "450404070781",
+    "uikName": "УИК №2129",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1630,
       "Число бюллетеней, полученных участковыми комиссиями": 1628,
@@ -4981,8 +5881,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2130,
     "uikTvd": "450404070782",
+    "uikName": "УИК №2130",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1124,
       "Число бюллетеней, полученных участковыми комиссиями": 1112,
@@ -5031,8 +5940,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2131,
     "uikTvd": "450404070783",
+    "uikName": "УИК №2131",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1890,
       "Число бюллетеней, полученных участковыми комиссиями": 1890,
@@ -5081,8 +5999,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2132,
     "uikTvd": "450404070784",
+    "uikName": "УИК №2132",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1443,
       "Число бюллетеней, полученных участковыми комиссиями": 1438,
@@ -5131,8 +6058,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2133,
     "uikTvd": "450404070785",
+    "uikName": "УИК №2133",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1568,
       "Число бюллетеней, полученных участковыми комиссиями": 1573,
@@ -5181,8 +6117,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2134,
     "uikTvd": "450404070786",
+    "uikName": "УИК №2134",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1160,
       "Число бюллетеней, полученных участковыми комиссиями": 1157,
@@ -5231,8 +6176,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2135,
     "uikTvd": "450404070787",
+    "uikName": "УИК №2135",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1341,
       "Число бюллетеней, полученных участковыми комиссиями": 1335,
@@ -5281,8 +6235,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2136,
     "uikTvd": "450404070788",
+    "uikName": "УИК №2136",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1361,
       "Число бюллетеней, полученных участковыми комиссиями": 1367,
@@ -5331,8 +6294,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2137,
     "uikTvd": "450404070789",
+    "uikName": "УИК №2137",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1218,
       "Число бюллетеней, полученных участковыми комиссиями": 1218,
@@ -5381,8 +6353,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2138,
     "uikTvd": "450404070790",
+    "uikName": "УИК №2138",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1590,
       "Число бюллетеней, полученных участковыми комиссиями": 1589,
@@ -5431,8 +6412,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2139,
     "uikTvd": "450404070791",
+    "uikName": "УИК №2139",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1777,
       "Число бюллетеней, полученных участковыми комиссиями": 1771,
@@ -5481,8 +6471,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2140,
     "uikTvd": "450404070792",
+    "uikName": "УИК №2140",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1533,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -5531,8 +6530,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2141,
     "uikTvd": "450404070793",
+    "uikName": "УИК №2141",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1544,
       "Число бюллетеней, полученных участковыми комиссиями": 1528,
@@ -5581,8 +6589,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2142,
     "uikTvd": "450404070794",
+    "uikName": "УИК №2142",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1228,
       "Число бюллетеней, полученных участковыми комиссиями": 1226,
@@ -5631,8 +6648,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2143,
     "uikTvd": "450404070795",
+    "uikName": "УИК №2143",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2307,
       "Число бюллетеней, полученных участковыми комиссиями": 2301,
@@ -5681,8 +6707,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2144,
     "uikTvd": "450404070796",
+    "uikName": "УИК №2144",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1094,
       "Число бюллетеней, полученных участковыми комиссиями": 1096,
@@ -5731,8 +6766,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2145,
     "uikTvd": "450404070797",
+    "uikName": "УИК №2145",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1240,
       "Число бюллетеней, полученных участковыми комиссиями": 1232,
@@ -5781,8 +6825,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2146,
     "uikTvd": "450404070798",
+    "uikName": "УИК №2146",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2185,
       "Число бюллетеней, полученных участковыми комиссиями": 2178,
@@ -5831,8 +6884,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2147,
     "uikTvd": "450404070799",
+    "uikName": "УИК №2147",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1104,
       "Число бюллетеней, полученных участковыми комиссиями": 1018,
@@ -5881,8 +6943,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2148,
     "uikTvd": "450404070800",
+    "uikName": "УИК №2148",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2929,
       "Число бюллетеней, полученных участковыми комиссиями": 2929,
@@ -5931,8 +7002,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2149,
     "uikTvd": "450404070801",
+    "uikName": "УИК №2149",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2785,
       "Число бюллетеней, полученных участковыми комиссиями": 2769,
@@ -5981,8 +7061,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2150,
     "uikTvd": "450404070802",
+    "uikName": "УИК №2150",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2598,
       "Число бюллетеней, полученных участковыми комиссиями": 2601,
@@ -6031,8 +7120,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2151,
     "uikTvd": "450404070803",
+    "uikName": "УИК №2151",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2346,
       "Число бюллетеней, полученных участковыми комиссиями": 2328,
@@ -6081,8 +7179,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2152,
     "uikTvd": "450404070804",
+    "uikName": "УИК №2152",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1767,
       "Число бюллетеней, полученных участковыми комиссиями": 1791,
@@ -6131,8 +7238,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2153,
     "uikTvd": "450404070805",
+    "uikName": "УИК №2153",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1804,
       "Число бюллетеней, полученных участковыми комиссиями": 1817,
@@ -6181,8 +7297,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2154,
     "uikTvd": "450404070806",
+    "uikName": "УИК №2154",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2023,
       "Число бюллетеней, полученных участковыми комиссиями": 2019,
@@ -6231,8 +7356,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2155,
     "uikTvd": "450404070807",
+    "uikName": "УИК №2155",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2171,
       "Число бюллетеней, полученных участковыми комиссиями": 2164,
@@ -6281,8 +7415,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2156,
     "uikTvd": "450404070808",
+    "uikName": "УИК №2156",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2578,
       "Число бюллетеней, полученных участковыми комиссиями": 2632,
@@ -6331,8 +7474,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2157,
     "uikTvd": "450404070809",
+    "uikName": "УИК №2157",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2382,
       "Число бюллетеней, полученных участковыми комиссиями": 2375,
@@ -6381,8 +7533,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2158,
     "uikTvd": "450404070810",
+    "uikName": "УИК №2158",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2240,
       "Число бюллетеней, полученных участковыми комиссиями": 2246,
@@ -6431,8 +7592,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2159,
     "uikTvd": "450404070811",
+    "uikName": "УИК №2159",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -6481,8 +7651,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2160,
     "uikTvd": "450404070812",
+    "uikName": "УИК №2160",
     "tikTvd": "350300970360",
     "tikName": "Подольская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 48,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6531,8 +7710,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2860,
     "uikTvd": "450405570393",
+    "uikName": "УИК №2860",
     "tikTvd": "350300970361",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2581,
       "Число бюллетеней, полученных участковыми комиссиями": 2451,
@@ -6581,8 +7769,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2861,
     "uikTvd": "450405570394",
+    "uikName": "УИК №2861",
     "tikTvd": "350300970361",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1860,
       "Число бюллетеней, полученных участковыми комиссиями": 1725,
@@ -6631,8 +7828,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2862,
     "uikTvd": "450405570395",
+    "uikName": "УИК №2862",
     "tikTvd": "350300970361",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2145,
@@ -6681,8 +7887,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2863,
     "uikTvd": "450405570396",
+    "uikName": "УИК №2863",
     "tikTvd": "350300970361",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2251,
       "Число бюллетеней, полученных участковыми комиссиями": 2136,
@@ -6731,8 +7946,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2864,
     "uikTvd": "450405570397",
+    "uikName": "УИК №2864",
     "tikTvd": "350300970361",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2353,
       "Число бюллетеней, полученных участковыми комиссиями": 2232,
@@ -6781,8 +8005,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2865,
     "uikTvd": "450405570398",
+    "uikName": "УИК №2865",
     "tikTvd": "350300970361",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2502,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -6831,8 +8064,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2866,
     "uikTvd": "450405570399",
+    "uikName": "УИК №2866",
     "tikTvd": "350300970361",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2720,
       "Число бюллетеней, полученных участковыми комиссиями": 2601,
@@ -6881,8 +8123,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2867,
     "uikTvd": "450405570400",
+    "uikName": "УИК №2867",
     "tikTvd": "350300970361",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2722,
       "Число бюллетеней, полученных участковыми комиссиями": 2619,
@@ -6931,8 +8182,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2868,
     "uikTvd": "450405570401",
+    "uikName": "УИК №2868",
     "tikTvd": "350300970361",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2522,
       "Число бюллетеней, полученных участковыми комиссиями": 2408,
@@ -6981,8 +8241,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2869,
     "uikTvd": "450405570402",
+    "uikName": "УИК №2869",
     "tikTvd": "350300970361",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2530,
       "Число бюллетеней, полученных участковыми комиссиями": 2377,
@@ -7031,8 +8300,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 2870,
     "uikTvd": "450405570403",
+    "uikName": "УИК №2870",
     "tikTvd": "350300970361",
     "tikName": "Троицкая городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2754,
       "Число бюллетеней, полученных участковыми комиссиями": 2611,
@@ -7081,8 +8359,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 3169,
     "uikTvd": "450406370413",
+    "uikName": "УИК №3169",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2421,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7131,8 +8418,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 3170,
     "uikTvd": "450406370414",
+    "uikName": "УИК №3170",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2470,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7181,8 +8477,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 3171,
     "uikTvd": "450406370415",
+    "uikName": "УИК №3171",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2190,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7231,8 +8536,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 3172,
     "uikTvd": "450406370416",
+    "uikName": "УИК №3172",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2217,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7281,8 +8595,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 3173,
     "uikTvd": "450406370417",
+    "uikName": "УИК №3173",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2422,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -7331,8 +8654,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 3174,
     "uikTvd": "450406370418",
+    "uikName": "УИК №3174",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2070,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7381,8 +8713,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 3175,
     "uikTvd": "450406370419",
+    "uikName": "УИК №3175",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2346,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7431,8 +8772,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 3176,
     "uikTvd": "450406370420",
+    "uikName": "УИК №3176",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1951,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7481,8 +8831,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 3177,
     "uikTvd": "450406370421",
+    "uikName": "УИК №3177",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2153,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -7531,8 +8890,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 3178,
     "uikTvd": "450406370422",
+    "uikName": "УИК №3178",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2621,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7581,8 +8949,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5009,
     "uikTvd": "450406370769",
+    "uikName": "УИК  5009",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 572,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7631,8 +9008,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5010,
     "uikTvd": "450406370770",
+    "uikName": "УИК  5010",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -7681,8 +9067,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5011,
     "uikTvd": "450406370771",
+    "uikName": "УИК  5011",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 654,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -7731,8 +9126,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5012,
     "uikTvd": "450406370772",
+    "uikName": "УИК  5012",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7781,8 +9185,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5030,
     "uikTvd": "450406370773",
+    "uikName": "УИК  5030",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7831,8 +9244,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5041,
     "uikTvd": "450406370774",
+    "uikName": "УИК  5041",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7881,8 +9303,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5043,
     "uikTvd": "450406370775",
+    "uikName": "УИК  5043",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 38,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -7931,8 +9362,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5044,
     "uikTvd": "450406370776",
+    "uikName": "УИК  5044",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -7981,8 +9421,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5045,
     "uikTvd": "450406370777",
+    "uikName": "УИК  5045",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 71,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -8031,8 +9480,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5046,
     "uikTvd": "450406370778",
+    "uikName": "УИК  5046",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -8081,8 +9539,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5047,
     "uikTvd": "450406370779",
+    "uikName": "УИК  5047",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 37,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -8131,8 +9598,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5053,
     "uikTvd": "450406370780",
+    "uikName": "УИК  5053",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8181,8 +9657,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5058,
     "uikTvd": "450406370781",
+    "uikName": "УИК  5058",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 48,
@@ -8231,8 +9716,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5059,
     "uikTvd": "450406370782",
+    "uikName": "УИК  5059",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -8281,8 +9775,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5060,
     "uikTvd": "450406370783",
+    "uikName": "УИК  5060",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 149,
@@ -8331,8 +9834,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5062,
     "uikTvd": "450406370784",
+    "uikName": "УИК  5062",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 25,
@@ -8381,8 +9893,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5063,
     "uikTvd": "450406370785",
+    "uikName": "УИК  5063",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 565,
       "Число бюллетеней, полученных участковыми комиссиями": 503,
@@ -8431,8 +9952,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5076,
     "uikTvd": "450406370787",
+    "uikName": "УИК  5076",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 30,
@@ -8481,8 +10011,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5077,
     "uikTvd": "450406370788",
+    "uikName": "УИК  5077",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 403,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8531,8 +10070,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5078,
     "uikTvd": "450406370789",
+    "uikName": "УИК  5078",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 44,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8581,8 +10129,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5144,
     "uikTvd": "450406370786",
+    "uikName": "УИК  5144",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 41,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -8631,8 +10188,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5246,
     "uikTvd": "450406370790",
+    "uikName": "УИК  5246",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 27129,
@@ -8681,8 +10247,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5247,
     "uikTvd": "450406370791",
+    "uikName": "УИК  5247",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 7000,
@@ -8731,8 +10306,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 5248,
     "uikTvd": "450406370792",
+    "uikName": "УИК  5248",
     "tikTvd": "350300970362",
     "tikName": "Щербинская городская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -8781,8 +10365,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1434,
     "uikTvd": "450406770358",
+    "uikName": "УИК №1434",
     "tikTvd": "350300970363",
     "tikName": "Молодежная поселковая",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2128,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -8831,8 +10424,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1521,
     "uikTvd": "450403270456",
+    "uikName": "УИК №1521",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2220,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8881,8 +10483,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1522,
     "uikTvd": "450403270458",
+    "uikName": "УИК №1522",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1815,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8931,8 +10542,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1523,
     "uikTvd": "450403270459",
+    "uikName": "УИК №1523",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1937,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8981,8 +10601,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1524,
     "uikTvd": "450403270460",
+    "uikName": "УИК №1524",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1516,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9031,8 +10660,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1525,
     "uikTvd": "450403270461",
+    "uikName": "УИК №1525",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9081,8 +10719,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1526,
     "uikTvd": "450403270462",
+    "uikName": "УИК №1526",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2404,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9131,8 +10778,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1527,
     "uikTvd": "450403270463",
+    "uikName": "УИК №1527",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1203,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9181,8 +10837,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1528,
     "uikTvd": "450403270464",
+    "uikName": "УИК №1528",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9231,8 +10896,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1529,
     "uikTvd": "450403270465",
+    "uikName": "УИК №1529",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1729,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9281,8 +10955,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1530,
     "uikTvd": "450403270466",
+    "uikName": "УИК №1530",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1986,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -9331,8 +11014,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1531,
     "uikTvd": "450403270467",
+    "uikName": "УИК №1531",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1531,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9381,8 +11073,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1532,
     "uikTvd": "450403270468",
+    "uikName": "УИК №1532",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1772,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9431,8 +11132,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1533,
     "uikTvd": "450403270469",
+    "uikName": "УИК №1533",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1669,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9481,8 +11191,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1534,
     "uikTvd": "450403270470",
+    "uikName": "УИК №1534",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2929,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -9531,8 +11250,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1535,
     "uikTvd": "450403270471",
+    "uikName": "УИК №1535",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2157,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9581,8 +11309,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1536,
     "uikTvd": "450403270472",
+    "uikName": "УИК №1536",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1371,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -9631,8 +11368,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1537,
     "uikTvd": "450403270473",
+    "uikName": "УИК №1537",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 700,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -9681,8 +11427,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1538,
     "uikTvd": "450403270474",
+    "uikName": "УИК №1538",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 929,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -9731,8 +11486,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1539,
     "uikTvd": "450403270475",
+    "uikName": "УИК №1539",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2854,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9781,8 +11545,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1540,
     "uikTvd": "450403270476",
+    "uikName": "УИК №1540",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2570,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9831,8 +11604,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1541,
     "uikTvd": "450403270477",
+    "uikName": "УИК №1541",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2801,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -9881,8 +11663,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1542,
     "uikTvd": "450403270478",
+    "uikName": "УИК №1542",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2953,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9931,8 +11722,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1543,
     "uikTvd": "450403270479",
+    "uikName": "УИК №1543",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2867,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -9981,8 +11781,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1544,
     "uikTvd": "450403270480",
+    "uikName": "УИК №1544",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2453,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10031,8 +11840,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1545,
     "uikTvd": "450403270481",
+    "uikName": "УИК №1545",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2355,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -10081,8 +11899,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1546,
     "uikTvd": "450403270482",
+    "uikName": "УИК №1546",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2125,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10131,8 +11958,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1547,
     "uikTvd": "450403270483",
+    "uikName": "УИК №1547",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1956,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -10181,8 +12017,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1548,
     "uikTvd": "450403270484",
+    "uikName": "УИК №1548",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 474,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -10231,8 +12076,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1549,
     "uikTvd": "450403270485",
+    "uikName": "УИК №1549",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1417,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10281,8 +12135,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1550,
     "uikTvd": "450403270486",
+    "uikName": "УИК №1550",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1891,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10331,8 +12194,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1551,
     "uikTvd": "450403270487",
+    "uikName": "УИК №1551",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10381,8 +12253,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1552,
     "uikTvd": "450403270488",
+    "uikName": "УИК №1552",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1581,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10431,8 +12312,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1553,
     "uikTvd": "450403270489",
+    "uikName": "УИК №1553",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1820,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10481,8 +12371,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1554,
     "uikTvd": "450403270490",
+    "uikName": "УИК №1554",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1704,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10531,8 +12430,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1555,
     "uikTvd": "450403270491",
+    "uikName": "УИК №1555",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1069,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -10581,8 +12489,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1556,
     "uikTvd": "450403270492",
+    "uikName": "УИК №1556",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 578,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -10631,8 +12548,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1557,
     "uikTvd": "450403270493",
+    "uikName": "УИК №1557",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2164,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10681,8 +12607,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1558,
     "uikTvd": "450403270494",
+    "uikName": "УИК №1558",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1564,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -10731,8 +12666,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1559,
     "uikTvd": "450403270495",
+    "uikName": "УИК №1559",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2596,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10781,8 +12725,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1560,
     "uikTvd": "450403270496",
+    "uikName": "УИК №1560",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2660,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10831,8 +12784,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1561,
     "uikTvd": "450403270497",
+    "uikName": "УИК №1561",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2526,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10881,8 +12843,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1562,
     "uikTvd": "450403270498",
+    "uikName": "УИК №1562",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2655,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10931,8 +12902,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1563,
     "uikTvd": "450403270499",
+    "uikName": "УИК №1563",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2917,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -10981,8 +12961,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1564,
     "uikTvd": "450403270500",
+    "uikName": "УИК №1564",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 573,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -11031,8 +13020,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1565,
     "uikTvd": "450403270501",
+    "uikName": "УИК №1565",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2630,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11081,8 +13079,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1566,
     "uikTvd": "450403270502",
+    "uikName": "УИК №1566",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2427,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11131,8 +13138,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1567,
     "uikTvd": "450403270503",
+    "uikName": "УИК №1567",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1330,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11181,8 +13197,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1568,
     "uikTvd": "450403270504",
+    "uikName": "УИК №1568",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11231,8 +13256,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1569,
     "uikTvd": "450403270505",
+    "uikName": "УИК №1569",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1897,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11281,8 +13315,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1570,
     "uikTvd": "450403270506",
+    "uikName": "УИК №1570",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1340,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11331,8 +13374,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1571,
     "uikTvd": "450403270507",
+    "uikName": "УИК №1571",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11381,8 +13433,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1572,
     "uikTvd": "450403270508",
+    "uikName": "УИК №1572",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 628,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -11431,8 +13492,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1573,
     "uikTvd": "450403270509",
+    "uikName": "УИК №1573",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2040,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11481,8 +13551,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1574,
     "uikTvd": "450403270510",
+    "uikName": "УИК №1574",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1820,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11531,8 +13610,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1575,
     "uikTvd": "450403270511",
+    "uikName": "УИК №1575",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 770,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -11581,8 +13669,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1576,
     "uikTvd": "450403270512",
+    "uikName": "УИК №1576",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 657,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -11631,8 +13728,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1577,
     "uikTvd": "450403270513",
+    "uikName": "УИК №1577",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1185,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -11681,8 +13787,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1578,
     "uikTvd": "450403270514",
+    "uikName": "УИК №1578",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1260,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -11731,8 +13846,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1579,
     "uikTvd": "450403270515",
+    "uikName": "УИК №1579",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1339,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11781,8 +13905,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1580,
     "uikTvd": "450403270516",
+    "uikName": "УИК №1580",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 566,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -11831,8 +13964,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1581,
     "uikTvd": "450403270517",
+    "uikName": "УИК №1581",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1379,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11881,8 +14023,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1582,
     "uikTvd": "450403270518",
+    "uikName": "УИК №1582",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1369,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11931,8 +14082,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1583,
     "uikTvd": "450403270519",
+    "uikName": "УИК №1583",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1574,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11981,8 +14141,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1584,
     "uikTvd": "450403270520",
+    "uikName": "УИК №1584",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1105,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -12031,8 +14200,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1585,
     "uikTvd": "450403270521",
+    "uikName": "УИК №1585",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1098,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -12081,8 +14259,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1586,
     "uikTvd": "450403270522",
+    "uikName": "УИК №1586",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -12131,8 +14318,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1587,
     "uikTvd": "450403270523",
+    "uikName": "УИК №1587",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2295,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -12181,8 +14377,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1588,
     "uikTvd": "450403270524",
+    "uikName": "УИК №1588",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1355,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -12231,8 +14436,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1589,
     "uikTvd": "450403270525",
+    "uikName": "УИК №1589",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 464,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -12281,8 +14495,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1590,
     "uikTvd": "450403270526",
+    "uikName": "УИК №1590",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 526,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -12331,8 +14554,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1591,
     "uikTvd": "450403270527",
+    "uikName": "УИК №1591",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2346,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -12381,8 +14613,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1592,
     "uikTvd": "450403270528",
+    "uikName": "УИК №1592",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 800,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -12431,8 +14672,17 @@ export const duma_2003_uik_428_region_50_part_011 = [
     "ballot": "single-member",
     "uikNumber": 1593,
     "uikTvd": "450403270529",
+    "uikName": "УИК №1593",
     "tikTvd": "350300970364",
     "tikName": "Наро-Фоминская",
+    "regionCode": "50",
+    "regionTvd": "100100095705",
+    "regionName": "Московская область",
+    "district": {
+      "districtNumber": 113,
+      "oikTvd": "100100095714",
+      "oikName": "Подольский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1607,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,

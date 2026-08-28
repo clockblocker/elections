@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170520",
     "tikName": "Азнакаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки": 22149,
@@ -103,6 +111,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170521",
     "tikName": "Альметьевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 27475,
@@ -203,6 +219,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170522",
     "tikName": "Альметьевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 55,
     "accounting": {
       "Число избирателей, включенных в списки": 109912,
@@ -308,6 +332,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170525",
     "tikName": "Лениногорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 36,
     "accounting": {
       "Число избирателей, включенных в списки": 16470,
@@ -394,6 +426,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170526",
     "tikName": "Лениногорская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки": 47520,
@@ -488,6 +528,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170527",
     "tikName": "Аксубаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки": 22495,
@@ -587,6 +635,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170528",
     "tikName": "Алексеевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 19161,
@@ -687,6 +743,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170529",
     "tikName": "Алькеевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки": 15232,
@@ -785,6 +849,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170530",
     "tikName": "Бавлинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 18,
     "accounting": {
       "Число избирателей, включенных в списки": 15810,
@@ -853,6 +925,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170531",
     "tikName": "Бавлинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 22,
     "accounting": {
       "Число избирателей, включенных в списки": 10482,
@@ -925,6 +1005,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170532",
     "tikName": "Муслюмовская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки": 16153,
@@ -1019,6 +1107,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170533",
     "tikName": "Новошешминская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 10645,
@@ -1093,6 +1189,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170534",
     "tikName": "Нурлатская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 23460,
@@ -1158,6 +1262,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170535",
     "tikName": "Нурлатская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 44,
     "accounting": {
       "Число избирателей, включенных в списки": 19163,
@@ -1252,6 +1364,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170536",
     "tikName": "Сармановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в списки": 27528,
@@ -1363,6 +1483,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170538",
     "tikName": "Черемшанская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 14736,
@@ -1447,6 +1575,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170539",
     "tikName": "Ютазинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 29,
     "accounting": {
       "Число избирателей, включенных в списки": 17238,
@@ -1526,6 +1662,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300170540",
     "tikName": "Азнакаевская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 15,
     "accounting": {
       "Число избирателей, включенных в списки": 26697,
@@ -1591,6 +1735,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300171244",
     "tikName": "Бугульминская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки": 64898,
@@ -1694,6 +1846,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300171411",
     "tikName": "Бугульминская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 15135,
@@ -1774,6 +1934,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300171641",
     "tikName": "Спасская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 23,
+      "oikTvd": "100100095766",
+      "oikName": "Альметьевский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 16485,
@@ -1867,6 +2035,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300270696",
     "tikName": "Апастовская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "uikCount": 57,
     "accounting": {
       "Число избирателей, включенных в списки": 16243,
@@ -1975,6 +2151,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300270742",
     "tikName": "Буинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в списки": 19822,
@@ -2093,6 +2277,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300270743",
     "tikName": "Верхнеуслонская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки": 13396,
@@ -2186,6 +2378,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300270744",
     "tikName": "Дрожжановская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки": 19560,
@@ -2275,6 +2475,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300270745",
     "tikName": "Зеленодольская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "uikCount": 61,
     "accounting": {
       "Число избирателей, включенных в списки": 44362,
@@ -2387,6 +2595,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300270746",
     "tikName": "Зеленодольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 76807,
@@ -2479,6 +2695,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300270747",
     "tikName": "Казань, Авиастроительная ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "uikCount": 38,
     "accounting": {
       "Число избирателей, включенных в списки": 82238,
@@ -2568,6 +2792,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300270748",
     "tikName": "Казань, Кировская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки": 80433,
@@ -2667,6 +2899,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300270749",
     "tikName": "Казань, Московская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки": 98496,
@@ -2771,6 +3011,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300270750",
     "tikName": "Кайбицкая",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки": 11441,
@@ -2857,6 +3105,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300270751",
     "tikName": "Камско-Устьинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 13423,
@@ -2947,6 +3203,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300270752",
     "tikName": "Тетюшская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки": 19431,
@@ -3052,6 +3316,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300270777",
     "tikName": "Буинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 24,
+      "oikTvd": "100100095767",
+      "oikName": "Московский"
+    },
     "uikCount": 13,
     "accounting": {
       "Число избирателей, включенных в списки": 13432,
@@ -3116,6 +3388,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300370498",
     "tikName": "Агрызская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 25,
+      "oikTvd": "100100095768",
+      "oikName": "Набережно-Челнинский"
+    },
     "uikCount": 48,
     "accounting": {
       "Число избирателей, включенных в списки": 25746,
@@ -3213,6 +3493,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300370499",
     "tikName": "Елабужская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 25,
+      "oikTvd": "100100095768",
+      "oikName": "Набережно-Челнинский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 47633,
@@ -3301,6 +3589,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300370500",
     "tikName": "Елабужская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 25,
+      "oikTvd": "100100095768",
+      "oikName": "Набережно-Челнинский"
+    },
     "uikCount": 23,
     "accounting": {
       "Число избирателей, включенных в списки": 7454,
@@ -3373,6 +3669,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300370501",
     "tikName": "Актанышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 25,
+      "oikTvd": "100100095768",
+      "oikName": "Набережно-Челнинский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 22579,
@@ -3468,6 +3772,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300370502",
     "tikName": "Менделеевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 25,
+      "oikTvd": "100100095768",
+      "oikName": "Набережно-Челнинский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 20761,
@@ -3551,6 +3863,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300370503",
     "tikName": "Мензелинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 25,
+      "oikTvd": "100100095768",
+      "oikName": "Набережно-Челнинский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 21404,
@@ -3650,6 +3970,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300370504",
     "tikName": "Набережно-Челнинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 25,
+      "oikTvd": "100100095768",
+      "oikName": "Набережно-Челнинский"
+    },
     "uikCount": 154,
     "accounting": {
       "Число избирателей, включенных в списки": 364249,
@@ -3853,6 +4181,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300370505",
     "tikName": "Тукаевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 25,
+      "oikTvd": "100100095768",
+      "oikName": "Набережно-Челнинский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 21307,
@@ -3948,6 +4284,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470826",
     "tikName": "Арская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 70,
     "accounting": {
       "Число избирателей, включенных в списки": 36201,
@@ -4065,6 +4409,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470827",
     "tikName": "Атнинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 10180,
@@ -4137,6 +4489,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470828",
     "tikName": "Балтасинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 23855,
@@ -4214,6 +4574,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470829",
     "tikName": "Высокогорская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 53,
     "accounting": {
       "Число избирателей, включенных в списки": 32832,
@@ -4314,6 +4682,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470830",
     "tikName": "Заинская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 27956,
@@ -4386,6 +4762,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470831",
     "tikName": "Кукморская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в списки": 37757,
@@ -4502,6 +4886,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470832",
     "tikName": "Лаишевская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 24286,
@@ -4594,6 +4986,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470833",
     "tikName": "Мамадышская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 63,
     "accounting": {
       "Число избирателей, включенных в списки": 33242,
@@ -4704,6 +5104,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470834",
     "tikName": "Нижнекамская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в списки": 156350,
@@ -4820,6 +5228,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470835",
     "tikName": "Пестречинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 35,
     "accounting": {
       "Число избирателей, включенных в списки": 20056,
@@ -4902,6 +5318,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470836",
     "tikName": "Рыбно-Слободская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки": 21982,
@@ -5000,6 +5424,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470837",
     "tikName": "Сабинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 22736,
@@ -5088,6 +5520,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470838",
     "tikName": "Тюлячинская   ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 10294,
@@ -5163,6 +5603,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470839",
     "tikName": "Чистопольская городская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 51,
     "accounting": {
       "Число избирателей, включенных в списки": 49757,
@@ -5261,6 +5709,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470840",
     "tikName": "Заинская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 39,
     "accounting": {
       "Число избирателей, включенных в списки": 11265,
@@ -5347,6 +5803,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470841",
     "tikName": "Нижнекамская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 26208,
@@ -5428,6 +5892,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300470842",
     "tikName": "Чистопольская ",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 26,
+      "oikTvd": "100100095769",
+      "oikName": "Нижнекамский"
+    },
     "uikCount": 42,
     "accounting": {
       "Число избирателей, включенных в списки": 15212,
@@ -5517,6 +5989,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300570368",
     "tikName": "Казань, Вахитовская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 27,
+      "oikTvd": "100100095770",
+      "oikName": "Приволжский"
+    },
     "uikCount": 75,
     "accounting": {
       "Число избирателей, включенных в списки": 67724,
@@ -5645,6 +6125,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300570369",
     "tikName": "Казань, Ново-Савиновская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 27,
+      "oikTvd": "100100095770",
+      "oikName": "Приволжский"
+    },
     "uikCount": 70,
     "accounting": {
       "Число избирателей, включенных в списки": 157216,
@@ -5768,6 +6256,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300570370",
     "tikName": "Казань, Приволжская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 27,
+      "oikTvd": "100100095770",
+      "oikName": "Приволжский"
+    },
     "uikCount": 89,
     "accounting": {
       "Число избирателей, включенных в списки": 172993,
@@ -5910,6 +6406,14 @@ export const duma_2003_tic_429_region_16 = [
     "ballot": "single-member",
     "tikTvd": "316300570371",
     "tikName": "Казань, Советская",
+    "regionCode": "16",
+    "regionTvd": "100100095765",
+    "regionName": "Республика Татарстан (Татарстан)",
+    "district": {
+      "districtNumber": 27,
+      "oikTvd": "100100095770",
+      "oikName": "Приволжский"
+    },
     "uikCount": 96,
     "accounting": {
       "Число избирателей, включенных в списки": 178019,

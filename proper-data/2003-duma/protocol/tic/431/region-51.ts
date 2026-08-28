@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068356",
     "tikName": "Видяевская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 3,
     "accounting": {
       "Число избирателей, внесенных в списки": 4857,
@@ -79,6 +82,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068357",
     "tikName": "Заозерская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 4,
     "accounting": {
       "Число избирателей, внесенных в списки": 9618,
@@ -148,6 +154,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068358",
     "tikName": "Полярнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 16132,
@@ -226,6 +235,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068359",
     "tikName": "Печенгская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 37367,
@@ -321,6 +333,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068360",
     "tikName": "Кировская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 16,
     "accounting": {
       "Число избирателей, внесенных в списки": 30555,
@@ -402,6 +417,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068361",
     "tikName": "Снежногорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки": 10215,
@@ -473,6 +491,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068363",
     "tikName": "Североморская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 62749,
@@ -570,6 +591,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068364",
     "tikName": "Полярнозоринская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 12,
     "accounting": {
       "Число избирателей, внесенных в списки": 15570,
@@ -647,6 +671,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068365",
     "tikName": "Апатитская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 53941,
@@ -738,6 +765,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068366",
     "tikName": "Кандалакшская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 42,
     "accounting": {
       "Число избирателей, внесенных в списки": 48238,
@@ -845,6 +875,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068367",
     "tikName": "Мончегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 44748,
@@ -936,6 +969,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068368",
     "tikName": "Островнинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 2,
     "accounting": {
       "Число избирателей, внесенных в списки": 3620,
@@ -1003,6 +1039,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068369",
     "tikName": "Мурманская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 349,
     "accounting": {
       "Число избирателей, внесенных в списки": 280581,
@@ -1417,6 +1456,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068370",
     "tikName": "Кольская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 35,
     "accounting": {
       "Число избирателей, внесенных в списки": 37943,
@@ -1517,6 +1559,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068371",
     "tikName": "Ковдорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 20927,
@@ -1597,6 +1642,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068372",
     "tikName": "Ловозерская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки": 10881,
@@ -1672,6 +1720,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068373",
     "tikName": "Оленегорская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 25998,
@@ -1755,6 +1806,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200068374",
     "tikName": "Терская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 13,
     "accounting": {
       "Число избирателей, внесенных в списки": 5941,
@@ -1833,6 +1887,9 @@ export const duma_2003_tic_431_region_51 = [
     "ballot": "party",
     "tikTvd": "251200069038",
     "tikName": "Скалистинская",
+    "regionCode": "51",
+    "regionTvd": "100100095900",
+    "regionName": "Мурманская область",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки": 11830,

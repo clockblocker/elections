@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1679,
     "uikTvd": "463404070790",
+    "uikName": "УИК №1679",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2155,
       "Число бюллетеней, полученных участковыми комиссиями": 1918,
@@ -62,8 +71,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1680,
     "uikTvd": "463404070791",
+    "uikName": "УИК №1680",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1670,
@@ -113,8 +131,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1681,
     "uikTvd": "463404070792",
+    "uikName": "УИК №1681",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2273,
       "Число бюллетеней, полученных участковыми комиссиями": 1997,
@@ -164,8 +191,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1682,
     "uikTvd": "463404070793",
+    "uikName": "УИК №1682",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2070,
       "Число бюллетеней, полученных участковыми комиссиями": 1822,
@@ -215,8 +251,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1683,
     "uikTvd": "463404070794",
+    "uikName": "УИК №1683",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2006,
       "Число бюллетеней, полученных участковыми комиссиями": 1778,
@@ -266,8 +311,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1684,
     "uikTvd": "463404070795",
+    "uikName": "УИК №1684",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2212,
       "Число бюллетеней, полученных участковыми комиссиями": 1976,
@@ -317,8 +371,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1685,
     "uikTvd": "463404070796",
+    "uikName": "УИК №1685",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2193,
       "Число бюллетеней, полученных участковыми комиссиями": 1932,
@@ -368,8 +431,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1686,
     "uikTvd": "463404070797",
+    "uikName": "УИК №1686",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2244,
       "Число бюллетеней, полученных участковыми комиссиями": 1994,
@@ -419,8 +491,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1687,
     "uikTvd": "463404070798",
+    "uikName": "УИК №1687",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2381,
       "Число бюллетеней, полученных участковыми комиссиями": 2118,
@@ -470,8 +551,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1688,
     "uikTvd": "463404070799",
+    "uikName": "УИК №1688",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2257,
       "Число бюллетеней, полученных участковыми комиссиями": 2001,
@@ -521,8 +611,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1689,
     "uikTvd": "463404070800",
+    "uikName": "УИК №1689",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2082,
       "Число бюллетеней, полученных участковыми комиссиями": 1854,
@@ -572,8 +671,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1690,
     "uikTvd": "463404070801",
+    "uikName": "УИК №1690",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2093,
       "Число бюллетеней, полученных участковыми комиссиями": 1854,
@@ -623,8 +731,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1691,
     "uikTvd": "463404070802",
+    "uikName": "УИК №1691",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2033,
       "Число бюллетеней, полученных участковыми комиссиями": 1797,
@@ -674,8 +791,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1692,
     "uikTvd": "463404070803",
+    "uikName": "УИК №1692",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2843,
       "Число бюллетеней, полученных участковыми комиссиями": 2540,
@@ -725,8 +851,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1693,
     "uikTvd": "463404070804",
+    "uikName": "УИК №1693",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2775,
       "Число бюллетеней, полученных участковыми комиссиями": 2463,
@@ -776,8 +911,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1694,
     "uikTvd": "463404070805",
+    "uikName": "УИК №1694",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2297,
       "Число бюллетеней, полученных участковыми комиссиями": 2045,
@@ -827,8 +971,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1695,
     "uikTvd": "463404070806",
+    "uikName": "УИК №1695",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2234,
       "Число бюллетеней, полученных участковыми комиссиями": 1964,
@@ -878,8 +1031,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1696,
     "uikTvd": "463404070807",
+    "uikName": "УИК №1696",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2250,
       "Число бюллетеней, полученных участковыми комиссиями": 1943,
@@ -929,8 +1091,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1697,
     "uikTvd": "463404070808",
+    "uikName": "УИК №1697",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2207,
@@ -980,8 +1151,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1698,
     "uikTvd": "463404070809",
+    "uikName": "УИК №1698",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2357,
       "Число бюллетеней, полученных участковыми комиссиями": 2087,
@@ -1031,8 +1211,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1699,
     "uikTvd": "463404070810",
+    "uikName": "УИК №1699",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2403,
       "Число бюллетеней, полученных участковыми комиссиями": 2111,
@@ -1082,8 +1271,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1700,
     "uikTvd": "463404070811",
+    "uikName": "УИК №1700",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2502,
       "Число бюллетеней, полученных участковыми комиссиями": 2228,
@@ -1133,8 +1331,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1701,
     "uikTvd": "463404070812",
+    "uikName": "УИК №1701",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2313,
       "Число бюллетеней, полученных участковыми комиссиями": 1999,
@@ -1184,8 +1391,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1702,
     "uikTvd": "463404070813",
+    "uikName": "УИК №1702",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2437,
       "Число бюллетеней, полученных участковыми комиссиями": 2177,
@@ -1235,8 +1451,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1703,
     "uikTvd": "463404070814",
+    "uikName": "УИК №1703",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2360,
       "Число бюллетеней, полученных участковыми комиссиями": 2102,
@@ -1286,8 +1511,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1704,
     "uikTvd": "463404070815",
+    "uikName": "УИК №1704",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2273,
       "Число бюллетеней, полученных участковыми комиссиями": 2033,
@@ -1337,8 +1571,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1705,
     "uikTvd": "463404070816",
+    "uikName": "УИК №1705",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2251,
       "Число бюллетеней, полученных участковыми комиссиями": 1993,
@@ -1388,8 +1631,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1706,
     "uikTvd": "463404070817",
+    "uikName": "УИК №1706",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2340,
       "Число бюллетеней, полученных участковыми комиссиями": 2068,
@@ -1439,8 +1691,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1707,
     "uikTvd": "463404070818",
+    "uikName": "УИК №1707",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2452,
       "Число бюллетеней, полученных участковыми комиссиями": 2192,
@@ -1490,8 +1751,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1708,
     "uikTvd": "463404070819",
+    "uikName": "УИК №1708",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2078,
@@ -1541,8 +1811,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1709,
     "uikTvd": "463404070820",
+    "uikName": "УИК №1709",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2304,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -1592,8 +1871,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1710,
     "uikTvd": "463404070821",
+    "uikName": "УИК №1710",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2605,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -1643,8 +1931,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1711,
     "uikTvd": "463404070822",
+    "uikName": "УИК №1711",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2657,
       "Число бюллетеней, полученных участковыми комиссиями": 2383,
@@ -1694,8 +1991,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1712,
     "uikTvd": "463404070823",
+    "uikName": "УИК №1712",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2167,
@@ -1745,8 +2051,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1713,
     "uikTvd": "463404070824",
+    "uikName": "УИК №1713",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2576,
       "Число бюллетеней, полученных участковыми комиссиями": 2279,
@@ -1796,8 +2111,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1714,
     "uikTvd": "463404070825",
+    "uikName": "УИК №1714",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2043,
       "Число бюллетеней, полученных участковыми комиссиями": 1815,
@@ -1847,8 +2171,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1715,
     "uikTvd": "463404070826",
+    "uikName": "УИК №1715",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1815,
       "Число бюллетеней, полученных участковыми комиссиями": 1616,
@@ -1898,8 +2231,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1716,
     "uikTvd": "463404070827",
+    "uikName": "УИК №1716",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2746,
       "Число бюллетеней, полученных участковыми комиссиями": 2452,
@@ -1949,8 +2291,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1717,
     "uikTvd": "463404070828",
+    "uikName": "УИК №1717",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2888,
       "Число бюллетеней, полученных участковыми комиссиями": 2561,
@@ -2000,8 +2351,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1718,
     "uikTvd": "463404070829",
+    "uikName": "УИК №1718",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2896,
       "Число бюллетеней, полученных участковыми комиссиями": 2567,
@@ -2051,8 +2411,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1719,
     "uikTvd": "463404070830",
+    "uikName": "УИК №1719",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2909,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2102,8 +2471,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1720,
     "uikTvd": "463404070831",
+    "uikName": "УИК №1720",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2812,
       "Число бюллетеней, полученных участковыми комиссиями": 2504,
@@ -2153,8 +2531,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1721,
     "uikTvd": "463404070832",
+    "uikName": "УИК №1721",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2776,
       "Число бюллетеней, полученных участковыми комиссиями": 2435,
@@ -2204,8 +2591,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1722,
     "uikTvd": "463404070833",
+    "uikName": "УИК №1722",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2655,
       "Число бюллетеней, полученных участковыми комиссиями": 2358,
@@ -2255,8 +2651,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1723,
     "uikTvd": "463404070834",
+    "uikName": "УИК №1723",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2626,
       "Число бюллетеней, полученных участковыми комиссиями": 2331,
@@ -2306,8 +2711,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1724,
     "uikTvd": "463404070835",
+    "uikName": "УИК №1724",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2912,
       "Число бюллетеней, полученных участковыми комиссиями": 2537,
@@ -2357,8 +2771,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1725,
     "uikTvd": "463404070836",
+    "uikName": "УИК №1725",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2767,
       "Число бюллетеней, полученных участковыми комиссиями": 2415,
@@ -2408,8 +2831,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1726,
     "uikTvd": "463404070837",
+    "uikName": "УИК №1726",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1108,
       "Число бюллетеней, полученных участковыми комиссиями": 941,
@@ -2459,8 +2891,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1727,
     "uikTvd": "463404070838",
+    "uikName": "УИК №1727",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -2510,8 +2951,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1728,
     "uikTvd": "463404070839",
+    "uikName": "УИК №1728",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -2561,8 +3011,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1729,
     "uikTvd": "463404070840",
+    "uikName": "УИК №1729",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2612,8 +3071,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1730,
     "uikTvd": "463404070841",
+    "uikName": "УИК №1730",
     "tikTvd": "263200071428",
     "tikName": "Тольятти, Центральная",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -2663,8 +3131,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1631,
     "uikTvd": "463403970440",
+    "uikName": "УИК №1631",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2625,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2714,8 +3191,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1632,
     "uikTvd": "463403970441",
+    "uikName": "УИК №1632",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2507,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2765,8 +3251,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1633,
     "uikTvd": "463403970442",
+    "uikName": "УИК №1633",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2464,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2816,8 +3311,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1634,
     "uikTvd": "463403970443",
+    "uikName": "УИК №1634",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2258,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2867,8 +3371,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1635,
     "uikTvd": "463403970444",
+    "uikName": "УИК №1635",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2104,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2918,8 +3431,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1636,
     "uikTvd": "463403970445",
+    "uikName": "УИК №1636",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2365,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2969,8 +3491,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1637,
     "uikTvd": "463403970446",
+    "uikName": "УИК №1637",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3020,8 +3551,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1638,
     "uikTvd": "463403970447",
+    "uikName": "УИК №1638",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1922,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3071,8 +3611,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1639,
     "uikTvd": "463403970448",
+    "uikName": "УИК №1639",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1969,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3122,8 +3671,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1640,
     "uikTvd": "463403970449",
+    "uikName": "УИК №1640",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2160,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3173,8 +3731,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1641,
     "uikTvd": "463403970450",
+    "uikName": "УИК №1641",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2356,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -3224,8 +3791,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1642,
     "uikTvd": "463403970451",
+    "uikName": "УИК №1642",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3275,8 +3851,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1643,
     "uikTvd": "463403970452",
+    "uikName": "УИК №1643",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2250,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3326,8 +3911,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1644,
     "uikTvd": "463403970453",
+    "uikName": "УИК №1644",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2266,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3377,8 +3971,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1645,
     "uikTvd": "463403970454",
+    "uikName": "УИК №1645",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2034,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3428,8 +4031,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1646,
     "uikTvd": "463403970455",
+    "uikName": "УИК №1646",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2248,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3479,8 +4091,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1647,
     "uikTvd": "463403970456",
+    "uikName": "УИК №1647",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2028,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3530,8 +4151,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1648,
     "uikTvd": "463403970457",
+    "uikName": "УИК №1648",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2109,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3581,8 +4211,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1649,
     "uikTvd": "463403970458",
+    "uikName": "УИК №1649",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2402,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3632,8 +4271,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1650,
     "uikTvd": "463403970459",
+    "uikName": "УИК №1650",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2264,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3683,8 +4331,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1651,
     "uikTvd": "463403970460",
+    "uikName": "УИК №1651",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1884,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3734,8 +4391,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1652,
     "uikTvd": "463403970461",
+    "uikName": "УИК №1652",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2129,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3785,8 +4451,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1653,
     "uikTvd": "463403970462",
+    "uikName": "УИК №1653",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2026,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -3836,8 +4511,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1654,
     "uikTvd": "463403970463",
+    "uikName": "УИК №1654",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1789,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3887,8 +4571,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1655,
     "uikTvd": "463403970464",
+    "uikName": "УИК №1655",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2168,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3938,8 +4631,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1656,
     "uikTvd": "463403970465",
+    "uikName": "УИК №1656",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2207,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -3989,8 +4691,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1657,
     "uikTvd": "463403970466",
+    "uikName": "УИК №1657",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1607,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -4040,8 +4751,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1658,
     "uikTvd": "463403970467",
+    "uikName": "УИК №1658",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1972,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4091,8 +4811,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1659,
     "uikTvd": "463403970468",
+    "uikName": "УИК №1659",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1885,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4142,8 +4871,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1660,
     "uikTvd": "463403970469",
+    "uikName": "УИК №1660",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2372,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4193,8 +4931,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1661,
     "uikTvd": "463403970470",
+    "uikName": "УИК №1661",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2630,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4244,8 +4991,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1662,
     "uikTvd": "463403970471",
+    "uikName": "УИК №1662",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2567,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4295,8 +5051,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1663,
     "uikTvd": "463403970472",
+    "uikName": "УИК №1663",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2588,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4346,8 +5111,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1664,
     "uikTvd": "463403970473",
+    "uikName": "УИК №1664",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2434,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4397,8 +5171,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1665,
     "uikTvd": "463403970474",
+    "uikName": "УИК №1665",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1714,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4448,8 +5231,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1666,
     "uikTvd": "463403970475",
+    "uikName": "УИК №1666",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1961,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4499,8 +5291,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1667,
     "uikTvd": "463403970476",
+    "uikName": "УИК №1667",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1751,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4550,8 +5351,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1668,
     "uikTvd": "463403970477",
+    "uikName": "УИК №1668",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2429,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4601,8 +5411,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1669,
     "uikTvd": "463403970478",
+    "uikName": "УИК №1669",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2155,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -4652,8 +5471,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1670,
     "uikTvd": "463403970479",
+    "uikName": "УИК №1670",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1207,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4703,8 +5531,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1671,
     "uikTvd": "463403970480",
+    "uikName": "УИК №1671",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1581,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4754,8 +5591,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1672,
     "uikTvd": "463403970481",
+    "uikName": "УИК №1672",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2429,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4805,8 +5651,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1673,
     "uikTvd": "463403970482",
+    "uikName": "УИК №1673",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2244,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4856,8 +5711,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1674,
     "uikTvd": "463403970483",
+    "uikName": "УИК №1674",
     "tikTvd": "263200071429",
     "tikName": "Тольятти, Комсомольская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2370,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4907,8 +5771,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1497,
     "uikTvd": "463403870743",
+    "uikName": "УИК №1497",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2727,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -4958,8 +5831,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1498,
     "uikTvd": "463403870744",
+    "uikName": "УИК №1498",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2802,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5009,8 +5891,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1499,
     "uikTvd": "463403870745",
+    "uikName": "УИК №1499",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2483,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5060,8 +5951,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1500,
     "uikTvd": "463403870746",
+    "uikName": "УИК №1500",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2875,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -5111,8 +6011,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1501,
     "uikTvd": "463403870747",
+    "uikName": "УИК №1501",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2738,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5162,8 +6071,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1502,
     "uikTvd": "463403870748",
+    "uikName": "УИК №1502",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2488,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5213,8 +6131,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1503,
     "uikTvd": "463403870749",
+    "uikName": "УИК №1503",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2486,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5264,8 +6191,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1504,
     "uikTvd": "463403870750",
+    "uikName": "УИК №1504",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2519,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5315,8 +6251,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1505,
     "uikTvd": "463403870751",
+    "uikName": "УИК №1505",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2665,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5366,8 +6311,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1506,
     "uikTvd": "463403870752",
+    "uikName": "УИК №1506",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2227,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5417,8 +6371,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1507,
     "uikTvd": "463403870753",
+    "uikName": "УИК №1507",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2432,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5468,8 +6431,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1508,
     "uikTvd": "463403870754",
+    "uikName": "УИК №1508",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2310,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5519,8 +6491,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1509,
     "uikTvd": "463403870755",
+    "uikName": "УИК №1509",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2337,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5570,8 +6551,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1510,
     "uikTvd": "463403870756",
+    "uikName": "УИК №1510",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2003,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5621,8 +6611,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1511,
     "uikTvd": "463403870757",
+    "uikName": "УИК №1511",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2474,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5672,8 +6671,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1512,
     "uikTvd": "463403870758",
+    "uikName": "УИК №1512",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5723,8 +6731,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1513,
     "uikTvd": "463403870759",
+    "uikName": "УИК №1513",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2840,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5774,8 +6791,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1514,
     "uikTvd": "463403870760",
+    "uikName": "УИК №1514",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2876,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -5825,8 +6851,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1515,
     "uikTvd": "463403870761",
+    "uikName": "УИК №1515",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2704,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5876,8 +6911,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1516,
     "uikTvd": "463403870762",
+    "uikName": "УИК №1516",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2286,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5927,8 +6971,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1517,
     "uikTvd": "463403870763",
+    "uikName": "УИК №1517",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2308,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5978,8 +7031,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1518,
     "uikTvd": "463403870764",
+    "uikName": "УИК №1518",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6029,8 +7091,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1519,
     "uikTvd": "463403870765",
+    "uikName": "УИК №1519",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2583,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6080,8 +7151,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1520,
     "uikTvd": "463403870766",
+    "uikName": "УИК №1520",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2117,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6131,8 +7211,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1521,
     "uikTvd": "463403870767",
+    "uikName": "УИК №1521",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1995,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6182,8 +7271,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1522,
     "uikTvd": "463403870768",
+    "uikName": "УИК №1522",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2294,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6233,8 +7331,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1523,
     "uikTvd": "463403870769",
+    "uikName": "УИК №1523",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1829,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6284,8 +7391,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1524,
     "uikTvd": "463403870770",
+    "uikName": "УИК №1524",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2069,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6335,8 +7451,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1525,
     "uikTvd": "463403870771",
+    "uikName": "УИК №1525",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -6386,8 +7511,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1526,
     "uikTvd": "463403870772",
+    "uikName": "УИК №1526",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2374,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6437,8 +7571,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1527,
     "uikTvd": "463403870773",
+    "uikName": "УИК №1527",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2477,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6488,8 +7631,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1528,
     "uikTvd": "463403870774",
+    "uikName": "УИК №1528",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1768,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6539,8 +7691,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1529,
     "uikTvd": "463403870775",
+    "uikName": "УИК №1529",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1360,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -6590,8 +7751,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1530,
     "uikTvd": "463403870776",
+    "uikName": "УИК №1530",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2405,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6641,8 +7811,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1531,
     "uikTvd": "463403870777",
+    "uikName": "УИК №1531",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2746,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -6692,8 +7871,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1532,
     "uikTvd": "463403870778",
+    "uikName": "УИК №1532",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2715,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6743,8 +7931,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1533,
     "uikTvd": "463403870779",
+    "uikName": "УИК №1533",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2268,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6794,8 +7991,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1534,
     "uikTvd": "463403870780",
+    "uikName": "УИК №1534",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2276,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6845,8 +8051,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1535,
     "uikTvd": "463403870781",
+    "uikName": "УИК №1535",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2300,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6896,8 +8111,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1536,
     "uikTvd": "463403870782",
+    "uikName": "УИК №1536",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2203,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6947,8 +8171,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1537,
     "uikTvd": "463403870783",
+    "uikName": "УИК №1537",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2254,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6998,8 +8231,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1538,
     "uikTvd": "463403870784",
+    "uikName": "УИК №1538",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2333,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7049,8 +8291,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1539,
     "uikTvd": "463403870785",
+    "uikName": "УИК №1539",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1949,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7100,8 +8351,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1540,
     "uikTvd": "463403870786",
+    "uikName": "УИК №1540",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2055,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7151,8 +8411,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1541,
     "uikTvd": "463403870787",
+    "uikName": "УИК №1541",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2378,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7202,8 +8471,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1542,
     "uikTvd": "463403870788",
+    "uikName": "УИК №1542",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2729,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7253,8 +8531,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1543,
     "uikTvd": "463403870789",
+    "uikName": "УИК №1543",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2723,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7304,8 +8591,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1544,
     "uikTvd": "463403870790",
+    "uikName": "УИК №1544",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2714,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7355,8 +8651,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1545,
     "uikTvd": "463403870791",
+    "uikName": "УИК №1545",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2097,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7406,8 +8711,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1546,
     "uikTvd": "463403870792",
+    "uikName": "УИК №1546",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2432,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7457,8 +8771,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1547,
     "uikTvd": "463403870793",
+    "uikName": "УИК №1547",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2438,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7508,8 +8831,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1548,
     "uikTvd": "463403870794",
+    "uikName": "УИК №1548",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2491,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7559,8 +8891,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1549,
     "uikTvd": "463403870795",
+    "uikName": "УИК №1549",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2087,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7610,8 +8951,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1550,
     "uikTvd": "463403870796",
+    "uikName": "УИК №1550",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2809,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7661,8 +9011,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1551,
     "uikTvd": "463403870797",
+    "uikName": "УИК №1551",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2760,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -7712,8 +9071,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1552,
     "uikTvd": "463403870798",
+    "uikName": "УИК №1552",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3081,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -7763,8 +9131,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1553,
     "uikTvd": "463403870799",
+    "uikName": "УИК №1553",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2881,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -7814,8 +9191,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1554,
     "uikTvd": "463403870800",
+    "uikName": "УИК №1554",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2479,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -7865,8 +9251,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1555,
     "uikTvd": "463403870801",
+    "uikName": "УИК №1555",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2670,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7916,8 +9311,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1556,
     "uikTvd": "463403870802",
+    "uikName": "УИК №1556",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2345,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7967,8 +9371,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1557,
     "uikTvd": "463403870803",
+    "uikName": "УИК №1557",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2582,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8018,8 +9431,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1558,
     "uikTvd": "463403870804",
+    "uikName": "УИК №1558",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2518,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8069,8 +9491,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1559,
     "uikTvd": "463403870805",
+    "uikName": "УИК №1559",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2732,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8120,8 +9551,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1560,
     "uikTvd": "463403870806",
+    "uikName": "УИК №1560",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2663,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8171,8 +9611,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1561,
     "uikTvd": "463403870807",
+    "uikName": "УИК №1561",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2421,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8222,8 +9671,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1562,
     "uikTvd": "463403870808",
+    "uikName": "УИК №1562",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2688,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8273,8 +9731,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1563,
     "uikTvd": "463403870809",
+    "uikName": "УИК №1563",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2857,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -8324,8 +9791,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1564,
     "uikTvd": "463403870810",
+    "uikName": "УИК №1564",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2675,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8375,8 +9851,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1565,
     "uikTvd": "463403870811",
+    "uikName": "УИК №1565",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1918,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8426,8 +9911,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1566,
     "uikTvd": "463403870812",
+    "uikName": "УИК №1566",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2378,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8477,8 +9971,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1567,
     "uikTvd": "463403870813",
+    "uikName": "УИК №1567",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2310,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8528,8 +10031,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1568,
     "uikTvd": "463403870814",
+    "uikName": "УИК №1568",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2417,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8579,8 +10091,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1569,
     "uikTvd": "463403870815",
+    "uikName": "УИК №1569",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8630,8 +10151,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1570,
     "uikTvd": "463403870816",
+    "uikName": "УИК №1570",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1890,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8681,8 +10211,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1571,
     "uikTvd": "463403870817",
+    "uikName": "УИК №1571",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2415,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8732,8 +10271,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1572,
     "uikTvd": "463403870818",
+    "uikName": "УИК №1572",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1968,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8783,8 +10331,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1573,
     "uikTvd": "463403870819",
+    "uikName": "УИК №1573",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2033,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8834,8 +10391,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1574,
     "uikTvd": "463403870820",
+    "uikName": "УИК №1574",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2065,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8885,8 +10451,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1575,
     "uikTvd": "463403870821",
+    "uikName": "УИК №1575",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2172,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8936,8 +10511,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1576,
     "uikTvd": "463403870822",
+    "uikName": "УИК №1576",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2509,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -8987,8 +10571,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1577,
     "uikTvd": "463403870823",
+    "uikName": "УИК №1577",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2219,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9038,8 +10631,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1578,
     "uikTvd": "463403870824",
+    "uikName": "УИК №1578",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9089,8 +10691,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1579,
     "uikTvd": "463403870825",
+    "uikName": "УИК №1579",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2681,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9140,8 +10751,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1580,
     "uikTvd": "463403870826",
+    "uikName": "УИК №1580",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2647,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9191,8 +10811,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1581,
     "uikTvd": "463403870827",
+    "uikName": "УИК №1581",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2685,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9242,8 +10871,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1582,
     "uikTvd": "463403870828",
+    "uikName": "УИК №1582",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1159,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9293,8 +10931,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1583,
     "uikTvd": "463403870829",
+    "uikName": "УИК №1583",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9344,8 +10991,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1584,
     "uikTvd": "463403870830",
+    "uikName": "УИК №1584",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2425,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9395,8 +11051,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1585,
     "uikTvd": "463403870831",
+    "uikName": "УИК №1585",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2512,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9446,8 +11111,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1586,
     "uikTvd": "463403870832",
+    "uikName": "УИК №1586",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9497,8 +11171,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1587,
     "uikTvd": "463403870833",
+    "uikName": "УИК №1587",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2357,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9548,8 +11231,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1588,
     "uikTvd": "463403870834",
+    "uikName": "УИК №1588",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1612,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9599,8 +11291,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1589,
     "uikTvd": "463403870835",
+    "uikName": "УИК №1589",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2464,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9650,8 +11351,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1590,
     "uikTvd": "463403870836",
+    "uikName": "УИК №1590",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2151,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9701,8 +11411,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1591,
     "uikTvd": "463403870837",
+    "uikName": "УИК №1591",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2885,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9752,8 +11471,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1592,
     "uikTvd": "463403870838",
+    "uikName": "УИК №1592",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2783,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9803,8 +11531,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1593,
     "uikTvd": "463403870839",
+    "uikName": "УИК №1593",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9854,8 +11591,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1594,
     "uikTvd": "463403870840",
+    "uikName": "УИК №1594",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2906,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9905,8 +11651,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1595,
     "uikTvd": "463403870841",
+    "uikName": "УИК №1595",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2614,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9956,8 +11711,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1596,
     "uikTvd": "463403870842",
+    "uikName": "УИК №1596",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2444,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10007,8 +11771,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1597,
     "uikTvd": "463403870843",
+    "uikName": "УИК №1597",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2675,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10058,8 +11831,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1598,
     "uikTvd": "463403870844",
+    "uikName": "УИК №1598",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2645,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10109,8 +11891,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1599,
     "uikTvd": "463403870845",
+    "uikName": "УИК №1599",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2676,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10160,8 +11951,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1600,
     "uikTvd": "463403870846",
+    "uikName": "УИК №1600",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2880,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10211,8 +12011,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1601,
     "uikTvd": "463403870847",
+    "uikName": "УИК №1601",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2579,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10262,8 +12071,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1602,
     "uikTvd": "463403870848",
+    "uikName": "УИК №1602",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2240,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10313,8 +12131,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1603,
     "uikTvd": "463403870849",
+    "uikName": "УИК №1603",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2676,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10364,8 +12191,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1604,
     "uikTvd": "463403870850",
+    "uikName": "УИК №1604",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2327,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10415,8 +12251,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1605,
     "uikTvd": "463403870851",
+    "uikName": "УИК №1605",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2108,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10466,8 +12311,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1606,
     "uikTvd": "463403870852",
+    "uikName": "УИК №1606",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1856,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -10517,8 +12371,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1607,
     "uikTvd": "463403870853",
+    "uikName": "УИК №1607",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2787,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10568,8 +12431,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1608,
     "uikTvd": "463403870854",
+    "uikName": "УИК №1608",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2294,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10619,8 +12491,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1609,
     "uikTvd": "463403870855",
+    "uikName": "УИК №1609",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2491,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10670,8 +12551,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1610,
     "uikTvd": "463403870856",
+    "uikName": "УИК №1610",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1841,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10721,8 +12611,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1611,
     "uikTvd": "463403870857",
+    "uikName": "УИК №1611",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2538,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10772,8 +12671,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1612,
     "uikTvd": "463403870858",
+    "uikName": "УИК №1612",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2627,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -10823,8 +12731,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1613,
     "uikTvd": "463403870859",
+    "uikName": "УИК №1613",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2756,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10874,8 +12791,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1614,
     "uikTvd": "463403870860",
+    "uikName": "УИК №1614",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2222,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10925,8 +12851,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1615,
     "uikTvd": "463403870861",
+    "uikName": "УИК №1615",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2946,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10976,8 +12911,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1616,
     "uikTvd": "463403870862",
+    "uikName": "УИК №1616",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2769,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11027,8 +12971,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1617,
     "uikTvd": "463403870863",
+    "uikName": "УИК №1617",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2150,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11078,8 +13031,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1618,
     "uikTvd": "463403870864",
+    "uikName": "УИК №1618",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2239,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11129,8 +13091,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1619,
     "uikTvd": "463403870865",
+    "uikName": "УИК №1619",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2164,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11180,8 +13151,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1620,
     "uikTvd": "463403870866",
+    "uikName": "УИК №1620",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3067,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -11231,8 +13211,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1621,
     "uikTvd": "463403870867",
+    "uikName": "УИК №1621",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2809,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -11282,8 +13271,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1622,
     "uikTvd": "463403870868",
+    "uikName": "УИК №1622",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2848,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11333,8 +13331,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1623,
     "uikTvd": "463403870869",
+    "uikName": "УИК №1623",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2864,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11384,8 +13391,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1624,
     "uikTvd": "463403870870",
+    "uikName": "УИК №1624",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2653,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11435,8 +13451,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1625,
     "uikTvd": "463403870871",
+    "uikName": "УИК №1625",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2139,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11486,8 +13511,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1626,
     "uikTvd": "463403870872",
+    "uikName": "УИК №1626",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -11537,8 +13571,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1627,
     "uikTvd": "463403870873",
+    "uikName": "УИК №1627",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11588,8 +13631,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1628,
     "uikTvd": "463403870874",
+    "uikName": "УИК №1628",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -11639,8 +13691,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1629,
     "uikTvd": "463403870875",
+    "uikName": "УИК №1629",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2171,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11690,8 +13751,17 @@ export const duma_2003_uik_428_region_63_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1630,
     "uikTvd": "463403870876",
+    "uikName": "УИК №1630",
     "tikTvd": "263200071430",
     "tikName": "Тольятти, Автозаводская",
+    "regionCode": "63",
+    "regionTvd": "100100095832",
+    "regionName": "Самарская область",
+    "district": {
+      "districtNumber": 155,
+      "oikTvd": "100100095837",
+      "oikName": "Тольяттинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1579,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,

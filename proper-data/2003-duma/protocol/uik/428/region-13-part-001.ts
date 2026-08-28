@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "413400170821",
+    "uikName": "УИК №1",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 760,
       "Число бюллетеней, полученных участковыми комиссиями": 752,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "413400170823",
+    "uikName": "УИК №2",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 737,
       "Число бюллетеней, полученных участковыми комиссиями": 745,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "413400170824",
+    "uikName": "УИК №3",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 758,
       "Число бюллетеней, полученных участковыми комиссиями": 745,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "413400170825",
+    "uikName": "УИК №4",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1301,
       "Число бюллетеней, полученных участковыми комиссиями": 1242,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "413400170826",
+    "uikName": "УИК №5",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1537,
       "Число бюллетеней, полученных участковыми комиссиями": 1558,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "413400170827",
+    "uikName": "УИК №6",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1272,
       "Число бюллетеней, полученных участковыми комиссиями": 1246,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "413400170828",
+    "uikName": "УИК №7",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 750,
       "Число бюллетеней, полученных участковыми комиссиями": 748,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "413400170829",
+    "uikName": "УИК №8",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 750,
       "Число бюллетеней, полученных участковыми комиссиями": 734,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "413400170830",
+    "uikName": "УИК №9",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 775,
       "Число бюллетеней, полученных участковыми комиссиями": 766,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "413400170831",
+    "uikName": "УИК №10",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1240,
       "Число бюллетеней, полученных участковыми комиссиями": 1216,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "413400170832",
+    "uikName": "УИК №11",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1263,
       "Число бюллетеней, полученных участковыми комиссиями": 1301,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "413400170833",
+    "uikName": "УИК №12",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 508,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "413400170834",
+    "uikName": "УИК №13",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1503,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "413400170835",
+    "uikName": "УИК №14",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "413400170836",
+    "uikName": "УИК №15",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "413400170837",
+    "uikName": "УИК №16",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "413400170838",
+    "uikName": "УИК №17",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "413400170839",
+    "uikName": "УИК №18",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 371,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "413400170840",
+    "uikName": "УИК №19",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "413400170841",
+    "uikName": "УИК №20",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 760,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "413400170842",
+    "uikName": "УИК №21",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 317,
       "Число бюллетеней, полученных участковыми комиссиями": 319,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "413400170843",
+    "uikName": "УИК №22",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "413400170844",
+    "uikName": "УИК №23",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 197,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "413400170845",
+    "uikName": "УИК №24",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "413400170846",
+    "uikName": "УИК №25",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 562,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "413400170847",
+    "uikName": "УИК №26",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 580,
       "Число бюллетеней, полученных участковыми комиссиями": 586,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "413400170848",
+    "uikName": "УИК №27",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 84,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "413400170849",
+    "uikName": "УИК №28",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 337,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "413400170850",
+    "uikName": "УИК №29",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "413400170851",
+    "uikName": "УИК №30",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 148,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "413400170852",
+    "uikName": "УИК №31",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "413400170853",
+    "uikName": "УИК №32",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 420,
       "Число бюллетеней, полученных участковыми комиссиями": 421,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "413400170854",
+    "uikName": "УИК №33",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 577,
       "Число бюллетеней, полученных участковыми комиссиями": 574,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "413400170855",
+    "uikName": "УИК №34",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 233,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "413400170856",
+    "uikName": "УИК №35",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 715,
       "Число бюллетеней, полученных участковыми комиссиями": 705,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "413400170857",
+    "uikName": "УИК №36",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "413400170858",
+    "uikName": "УИК №37",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "413400170859",
+    "uikName": "УИК №38",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 771,
       "Число бюллетеней, полученных участковыми комиссиями": 776,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "413400170860",
+    "uikName": "УИК №39",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "413400170861",
+    "uikName": "УИК №40",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 63,
       "Число бюллетеней, полученных участковыми комиссиями": 65,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "413400170862",
+    "uikName": "УИК №41",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "413400170863",
+    "uikName": "УИК №42",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 79,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "413400170864",
+    "uikName": "УИК №43",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 319,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "413400170865",
+    "uikName": "УИК №44",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "413400170866",
+    "uikName": "УИК №45",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "413400170867",
+    "uikName": "УИК №46",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 687,
       "Число бюллетеней, полученных участковыми комиссиями": 683,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "413400170868",
+    "uikName": "УИК №47",
     "tikTvd": "213200070895",
     "tikName": "Ардатовская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 760,
       "Число бюллетеней, полученных участковыми комиссиями": 761,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "413400470603",
+    "uikName": "УИК №116",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1468,
       "Число бюллетеней, полученных участковыми комиссиями": 1485,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "413400470604",
+    "uikName": "УИК №117",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1000,
       "Число бюллетеней, полученных участковыми комиссиями": 1005,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "413400470633",
+    "uikName": "УИК №118",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1415,
       "Число бюллетеней, полученных участковыми комиссиями": 1418,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "413400470634",
+    "uikName": "УИК №119",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1028,
       "Число бюллетеней, полученных участковыми комиссиями": 1046,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "413400470635",
+    "uikName": "УИК №120",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "413400470636",
+    "uikName": "УИК №121",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "413400470637",
+    "uikName": "УИК №122",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 179,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "413400470638",
+    "uikName": "УИК №123",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 117,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "413400470639",
+    "uikName": "УИК №124",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 143,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "413400470640",
+    "uikName": "УИК №125",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 189,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "413400470641",
+    "uikName": "УИК №126",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 228,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "413400470642",
+    "uikName": "УИК №127",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "413400470643",
+    "uikName": "УИК №128",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "413400470644",
+    "uikName": "УИК №129",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 641,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "413400470645",
+    "uikName": "УИК №130",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 393,
       "Число бюллетеней, полученных участковыми комиссиями": 381,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "413400470646",
+    "uikName": "УИК №131",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "413400470647",
+    "uikName": "УИК №132",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 405,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "413400470648",
+    "uikName": "УИК №133",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 495,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "413400470649",
+    "uikName": "УИК №134",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 193,
       "Число бюллетеней, полученных участковыми комиссиями": 197,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "413400470650",
+    "uikName": "УИК №135",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 693,
       "Число бюллетеней, полученных участковыми комиссиями": 699,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "413400470651",
+    "uikName": "УИК №136",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 465,
       "Число бюллетеней, полученных участковыми комиссиями": 462,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "413400470652",
+    "uikName": "УИК №137",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 577,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "413400470653",
+    "uikName": "УИК №138",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "413400470654",
+    "uikName": "УИК №139",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "413400470655",
+    "uikName": "УИК №140",
     "tikTvd": "213200070896",
     "tikName": "Большеберезниковская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 869,
       "Число бюллетеней, полученных участковыми комиссиями": 879,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "413400370712",
+    "uikName": "УИК №75",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2244,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "413400370713",
+    "uikName": "УИК №76",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1816,
       "Число бюллетеней, полученных участковыми комиссиями": 1854,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "413400370714",
+    "uikName": "УИК №77",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 574,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "413400370715",
+    "uikName": "УИК №78",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1221,
       "Число бюллетеней, полученных участковыми комиссиями": 1225,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "413400370716",
+    "uikName": "УИК №79",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 653,
       "Число бюллетеней, полученных участковыми комиссиями": 655,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "413400370717",
+    "uikName": "УИК №80",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 568,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "413400370718",
+    "uikName": "УИК №81",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 640,
       "Число бюллетеней, полученных участковыми комиссиями": 629,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "413400370719",
+    "uikName": "УИК №82",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 371,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "413400370720",
+    "uikName": "УИК №83",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 573,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "413400370721",
+    "uikName": "УИК №84",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "413400370722",
+    "uikName": "УИК №85",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "413400370723",
+    "uikName": "УИК №86",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "413400370724",
+    "uikName": "УИК №87",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 238,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "413400370756",
+    "uikName": "УИК №88",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "413400370726",
+    "uikName": "УИК №89",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 513,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "413400370727",
+    "uikName": "УИК №90",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "413400370728",
+    "uikName": "УИК №91",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "413400370729",
+    "uikName": "УИК №92",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 375,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "413400370730",
+    "uikName": "УИК №93",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 249,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "413400370731",
+    "uikName": "УИК №94",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "413400370732",
+    "uikName": "УИК №95",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 67,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "413400370733",
+    "uikName": "УИК №96",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 550,
       "Число бюллетеней, полученных участковыми комиссиями": 558,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "413400370734",
+    "uikName": "УИК №97",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 306,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "413400370735",
+    "uikName": "УИК №98",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 395,
       "Число бюллетеней, полученных участковыми комиссиями": 396,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "413400370736",
+    "uikName": "УИК №99",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 575,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "413400370737",
+    "uikName": "УИК №100",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "413400370738",
+    "uikName": "УИК №101",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "413400370739",
+    "uikName": "УИК №102",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 239,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "413400370740",
+    "uikName": "УИК №103",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 86,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "413400370741",
+    "uikName": "УИК №104",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "413400370742",
+    "uikName": "УИК №105",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "413400370743",
+    "uikName": "УИК №106",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 388,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "413400370744",
+    "uikName": "УИК №107",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 454,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "413400370745",
+    "uikName": "УИК №108",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "413400370746",
+    "uikName": "УИК №109",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "413400370747",
+    "uikName": "УИК №110",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 507,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "413400370748",
+    "uikName": "УИК №111",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 213,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "413400370749",
+    "uikName": "УИК №112",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 238,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "413400370750",
+    "uikName": "УИК №113",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 199,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "413400370751",
+    "uikName": "УИК №114",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 61,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "413400370752",
+    "uikName": "УИК №115",
     "tikTvd": "213200070897",
     "tikName": "Атяшевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 369,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "413400270988",
+    "uikName": "УИК №48",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1127,
       "Число бюллетеней, полученных участковыми комиссиями": 1189,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "413400270989",
+    "uikName": "УИК №49",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1071,
       "Число бюллетеней, полученных участковыми комиссиями": 1072,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "413400270990",
+    "uikName": "УИК №50",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1140,
       "Число бюллетеней, полученных участковыми комиссиями": 1152,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "413400270991",
+    "uikName": "УИК №51",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 341,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "413400270992",
+    "uikName": "УИК №52",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 421,
       "Число бюллетеней, полученных участковыми комиссиями": 423,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "413400270993",
+    "uikName": "УИК №53",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "413400270994",
+    "uikName": "УИК №54",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "413400270995",
+    "uikName": "УИК №55",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "413400270996",
+    "uikName": "УИК №56",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "413400270997",
+    "uikName": "УИК №57",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "413400270998",
+    "uikName": "УИК №58",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "413400270999",
+    "uikName": "УИК №59",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 296,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "413400271000",
+    "uikName": "УИК №60",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 254,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "413400271001",
+    "uikName": "УИК №61",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 516,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "413400271002",
+    "uikName": "УИК №62",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 512,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "413400271003",
+    "uikName": "УИК №63",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "413400271004",
+    "uikName": "УИК №64",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 34,
       "Число бюллетеней, полученных участковыми комиссиями": 36,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "413400271005",
+    "uikName": "УИК №65",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 404,
       "Число бюллетеней, полученных участковыми комиссиями": 404,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "413400271006",
+    "uikName": "УИК №66",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "413400271007",
+    "uikName": "УИК №67",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 53,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "413400271008",
+    "uikName": "УИК №68",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "413400271009",
+    "uikName": "УИК №69",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "413400271010",
+    "uikName": "УИК №70",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 329,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "413400271011",
+    "uikName": "УИК №71",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "413400271012",
+    "uikName": "УИК №72",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 388,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "413400271172",
+    "uikName": "УИК №73",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "413400271177",
+    "uikName": "УИК №74",
     "tikTvd": "213200070898",
     "tikName": "Атюрьевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 734,
     "uikTvd": "413402570844",
+    "uikName": "УИК №734",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1921,
       "Число бюллетеней, полученных участковыми комиссиями": 1983,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 735,
     "uikTvd": "413402570781",
+    "uikName": "УИК №735",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1496,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 736,
     "uikTvd": "413402570782",
+    "uikName": "УИК №736",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1479,
       "Число бюллетеней, полученных участковыми комиссиями": 1493,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 737,
     "uikTvd": "413402570783",
+    "uikName": "УИК №737",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1220,
       "Число бюллетеней, полученных участковыми комиссиями": 1239,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 738,
     "uikTvd": "413402570784",
+    "uikName": "УИК №738",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1348,
       "Число бюллетеней, полученных участковыми комиссиями": 1414,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 739,
     "uikTvd": "413402570785",
+    "uikName": "УИК №739",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 541,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 740,
     "uikTvd": "413402570786",
+    "uikName": "УИК №740",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 741,
     "uikTvd": "413402570787",
+    "uikName": "УИК №741",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1668,
       "Число бюллетеней, полученных участковыми комиссиями": 1688,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 742,
     "uikTvd": "413402570788",
+    "uikName": "УИК №742",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1424,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 743,
     "uikTvd": "413402570789",
+    "uikName": "УИК №743",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1244,
       "Число бюллетеней, полученных участковыми комиссиями": 1257,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 744,
     "uikTvd": "413402570790",
+    "uikName": "УИК №744",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1416,
       "Число бюллетеней, полученных участковыми комиссиями": 1467,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 745,
     "uikTvd": "413402570791",
+    "uikName": "УИК №745",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1018,
       "Число бюллетеней, полученных участковыми комиссиями": 1038,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 746,
     "uikTvd": "413402570792",
+    "uikName": "УИК №746",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1073,
       "Число бюллетеней, полученных участковыми комиссиями": 1104,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 747,
     "uikTvd": "413402570793",
+    "uikName": "УИК №747",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1429,
       "Число бюллетеней, полученных участковыми комиссиями": 1436,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 748,
     "uikTvd": "413402570794",
+    "uikName": "УИК №748",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 825,
       "Число бюллетеней, полученных участковыми комиссиями": 837,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 749,
     "uikTvd": "413402570795",
+    "uikName": "УИК №749",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 743,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 750,
     "uikTvd": "413402570796",
+    "uikName": "УИК №750",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 207,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 751,
     "uikTvd": "413402570797",
+    "uikName": "УИК №751",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 769,
       "Число бюллетеней, полученных участковыми комиссиями": 757,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 752,
     "uikTvd": "413402570798",
+    "uikName": "УИК №752",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 404,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 753,
     "uikTvd": "413402570799",
+    "uikName": "УИК №753",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 162,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 754,
     "uikTvd": "413402570800",
+    "uikName": "УИК №754",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 263,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 755,
     "uikTvd": "413402570801",
+    "uikName": "УИК №755",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 60,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 756,
     "uikTvd": "413402570802",
+    "uikName": "УИК №756",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 757,
     "uikTvd": "413402570803",
+    "uikName": "УИК №757",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 758,
     "uikTvd": "413402570804",
+    "uikName": "УИК №758",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 759,
     "uikTvd": "413402570805",
+    "uikName": "УИК №759",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 73,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 760,
     "uikTvd": "413402570806",
+    "uikName": "УИК №760",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 362,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 761,
     "uikTvd": "413402570807",
+    "uikName": "УИК №761",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 762,
     "uikTvd": "413402570808",
+    "uikName": "УИК №762",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 763,
     "uikTvd": "413402570809",
+    "uikName": "УИК №763",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 764,
     "uikTvd": "413402570810",
+    "uikName": "УИК №764",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 71,
       "Число бюллетеней, полученных участковыми комиссиями": 86,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 765,
     "uikTvd": "413402570811",
+    "uikName": "УИК №765",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 386,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 766,
     "uikTvd": "413402570812",
+    "uikName": "УИК №766",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 69,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "413402570813",
+    "uikName": "УИК №767",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 704,
       "Число бюллетеней, полученных участковыми комиссиями": 753,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "413402570814",
+    "uikName": "УИК №768",
     "tikTvd": "213200070900",
     "tikName": "Чамзинская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 366,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 700,
     "uikTvd": "413402470749",
+    "uikName": "УИК №700",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1521,
       "Число бюллетеней, полученных участковыми комиссиями": 1505,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 701,
     "uikTvd": "413402470750",
+    "uikName": "УИК №701",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2042,
       "Число бюллетеней, полученных участковыми комиссиями": 1966,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 702,
     "uikTvd": "413402470751",
+    "uikName": "УИК №702",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 2123,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 703,
     "uikTvd": "413402470752",
+    "uikName": "УИК №703",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1641,
       "Число бюллетеней, полученных участковыми комиссиями": 1757,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 704,
     "uikTvd": "413402470753",
+    "uikName": "УИК №704",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 529,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 705,
     "uikTvd": "413402470754",
+    "uikName": "УИК №705",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 706,
     "uikTvd": "413402470755",
+    "uikName": "УИК №706",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 378,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 707,
     "uikTvd": "413402470756",
+    "uikName": "УИК №707",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 281,
       "Число бюллетеней, полученных участковыми комиссиями": 281,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 708,
     "uikTvd": "413402470757",
+    "uikName": "УИК №708",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 324,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 709,
     "uikTvd": "413402470758",
+    "uikName": "УИК №709",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 710,
     "uikTvd": "413402470759",
+    "uikName": "УИК №710",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 815,
       "Число бюллетеней, полученных участковыми комиссиями": 818,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 711,
     "uikTvd": "413402470760",
+    "uikName": "УИК №711",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 295,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 712,
     "uikTvd": "413402470761",
+    "uikName": "УИК №712",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 713,
     "uikTvd": "413402470762",
+    "uikName": "УИК №713",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 345,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 714,
     "uikTvd": "413402470763",
+    "uikName": "УИК №714",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 399,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 715,
     "uikTvd": "413402470764",
+    "uikName": "УИК №715",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 716,
     "uikTvd": "413402470765",
+    "uikName": "УИК №716",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 717,
     "uikTvd": "413402470766",
+    "uikName": "УИК №717",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 331,
       "Число бюллетеней, полученных участковыми комиссиями": 338,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 718,
     "uikTvd": "413402470767",
+    "uikName": "УИК №718",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 719,
     "uikTvd": "413402470768",
+    "uikName": "УИК №719",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1251,
       "Число бюллетеней, полученных участковыми комиссиями": 1221,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 720,
     "uikTvd": "413402470769",
+    "uikName": "УИК №720",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 587,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 721,
     "uikTvd": "413402470770",
+    "uikName": "УИК №721",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 171,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 722,
     "uikTvd": "413402470771",
+    "uikName": "УИК №722",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 284,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 723,
     "uikTvd": "413402470772",
+    "uikName": "УИК №723",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 81,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 724,
     "uikTvd": "413402470773",
+    "uikName": "УИК №724",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 272,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 725,
     "uikTvd": "413402470774",
+    "uikName": "УИК №725",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 726,
     "uikTvd": "413402470775",
+    "uikName": "УИК №726",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 786,
       "Число бюллетеней, полученных участковыми комиссиями": 798,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 727,
     "uikTvd": "413402470776",
+    "uikName": "УИК №727",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 728,
     "uikTvd": "413402470777",
+    "uikName": "УИК №728",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 62,
       "Число бюллетеней, полученных участковыми комиссиями": 64,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 729,
     "uikTvd": "413402470778",
+    "uikName": "УИК №729",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 619,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 730,
     "uikTvd": "413402470779",
+    "uikName": "УИК №730",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 731,
     "uikTvd": "413402470780",
+    "uikName": "УИК №731",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 431,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 732,
     "uikTvd": "413402470781",
+    "uikName": "УИК №732",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 248,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 733,
     "uikTvd": "413402470782",
+    "uikName": "УИК №733",
     "tikTvd": "213200070902",
     "tikName": "Торбеевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 317,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 676,
     "uikTvd": "413402370700",
+    "uikName": "УИК №676",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1748,
       "Число бюллетеней, полученных участковыми комиссиями": 1740,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 677,
     "uikTvd": "413402370697",
+    "uikName": "УИК №677",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1375,
       "Число бюллетеней, полученных участковыми комиссиями": 1379,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 678,
     "uikTvd": "413402370701",
+    "uikName": "УИК №678",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 679,
     "uikTvd": "413402370702",
+    "uikName": "УИК №679",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 680,
     "uikTvd": "413402370703",
+    "uikName": "УИК №680",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 681,
     "uikTvd": "413402370704",
+    "uikName": "УИК №681",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1353,
       "Число бюллетеней, полученных участковыми комиссиями": 1353,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 682,
     "uikTvd": "413402370705",
+    "uikName": "УИК №682",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 533,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 683,
     "uikTvd": "413402370706",
+    "uikName": "УИК №683",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 397,
       "Число бюллетеней, полученных участковыми комиссиями": 397,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 684,
     "uikTvd": "413402370707",
+    "uikName": "УИК №684",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 147,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 685,
     "uikTvd": "413402370708",
+    "uikName": "УИК №685",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 686,
     "uikTvd": "413402370709",
+    "uikName": "УИК №686",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 687,
     "uikTvd": "413402370710",
+    "uikName": "УИК №687",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 688,
     "uikTvd": "413402370711",
+    "uikName": "УИК №688",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 52,
       "Число бюллетеней, полученных участковыми комиссиями": 56,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 689,
     "uikTvd": "413402370712",
+    "uikName": "УИК №689",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 690,
     "uikTvd": "413402370713",
+    "uikName": "УИК №690",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 691,
     "uikTvd": "413402370714",
+    "uikName": "УИК №691",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 289,
       "Число бюллетеней, полученных участковыми комиссиями": 283,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 692,
     "uikTvd": "413402370715",
+    "uikName": "УИК №692",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 288,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 693,
     "uikTvd": "413402370716",
+    "uikName": "УИК №693",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 694,
     "uikTvd": "413402370717",
+    "uikName": "УИК №694",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 405,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 695,
     "uikTvd": "413402370718",
+    "uikName": "УИК №695",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 238,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 696,
     "uikTvd": "413402370719",
+    "uikName": "УИК №696",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "413402370720",
+    "uikName": "УИК №697",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 254,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "413402370721",
+    "uikName": "УИК №698",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 74,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "413402370695",
+    "uikName": "УИК №699",
     "tikTvd": "213200070903",
     "tikName": "Теньгушевская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 496,
       "Число бюллетеней, полученных участковыми комиссиями": 492,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "413402070618",
+    "uikName": "УИК №871",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1898,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "413402070619",
+    "uikName": "УИК №872",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2194,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "413402070620",
+    "uikName": "УИК №873",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1874,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "413402070621",
+    "uikName": "УИК №874",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2122,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "413402070622",
+    "uikName": "УИК №875",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "413402070623",
+    "uikName": "УИК №876",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1556,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "413402070624",
+    "uikName": "УИК №877",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1994,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "413402070625",
+    "uikName": "УИК №878",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1613,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "413402070626",
+    "uikName": "УИК №879",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2346,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "413402070627",
+    "uikName": "УИК №880",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1853,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "413402070628",
+    "uikName": "УИК №881",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2610,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "413402070629",
+    "uikName": "УИК №882",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2484,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "413402070630",
+    "uikName": "УИК №883",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "413402070631",
+    "uikName": "УИК №884",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2885,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "413402070632",
+    "uikName": "УИК №885",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2178,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "413402070633",
+    "uikName": "УИК №886",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2853,
       "Число бюллетеней, полученных участковыми комиссиями": 3000,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_13_part_001 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "413402070634",
+    "uikName": "УИК №887",
     "tikTvd": "213200070904",
     "tikName": "Пролетарская",
+    "regionCode": "13",
+    "regionTvd": "100100095807",
+    "regionName": "Республика Мордовия",
+    "district": {
+      "districtNumber": 20,
+      "oikTvd": "100100095808",
+      "oikName": "Мордовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 205,

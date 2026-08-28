@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "488400166712",
+    "uikName": "УИК №14",
     "tikTvd": "288200067032",
     "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1346,
       "Число бюллетеней, полученных участковыми комиссиями": 1325,
@@ -54,8 +63,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "488400166713",
+    "uikName": "УИК №15",
     "tikTvd": "288200067032",
     "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1128,
       "Число бюллетеней, полученных участковыми комиссиями": 1118,
@@ -97,8 +115,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "488400166733",
+    "uikName": "УИК №16",
     "tikTvd": "288200067032",
     "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -140,8 +167,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "488400166734",
+    "uikName": "УИК №17",
     "tikTvd": "288200067032",
     "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -183,8 +219,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "488400166735",
+    "uikName": "УИК №18",
     "tikTvd": "288200067032",
     "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 57,
       "Число бюллетеней, полученных участковыми комиссиями": 57,
@@ -226,8 +271,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "488400166736",
+    "uikName": "УИК №19",
     "tikTvd": "288200067032",
     "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 91,
       "Число бюллетеней, полученных участковыми комиссиями": 86,
@@ -269,8 +323,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "488400166737",
+    "uikName": "УИК №20",
     "tikTvd": "288200067032",
     "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 239,
@@ -312,8 +375,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "488400166738",
+    "uikName": "УИК №21",
     "tikTvd": "288200067032",
     "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 284,
@@ -355,8 +427,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "488400166739",
+    "uikName": "УИК №22",
     "tikTvd": "288200067032",
     "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 97,
       "Число бюллетеней, полученных участковыми комиссиями": 97,
@@ -398,8 +479,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "488400166740",
+    "uikName": "УИК №23",
     "tikTvd": "288200067032",
     "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 88,
@@ -441,8 +531,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "488400166741",
+    "uikName": "УИК №24",
     "tikTvd": "288200067032",
     "tikName": "Байкитская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 43,
       "Число бюллетеней, полученных участковыми комиссиями": 44,
@@ -484,8 +583,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "488400266787",
+    "uikName": "УИК №1",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1676,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -527,8 +635,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "488400266788",
+    "uikName": "УИК №2",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1361,
       "Число бюллетеней, полученных участковыми комиссиями": 1073,
@@ -570,8 +687,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "488400266789",
+    "uikName": "УИК №3",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 725,
       "Число бюллетеней, полученных участковыми комиссиями": 593,
@@ -613,8 +739,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "488400266785",
+    "uikName": "УИК №4",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1576,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -656,8 +791,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "488400266790",
+    "uikName": "УИК №5",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 393,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -699,8 +843,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "488400266791",
+    "uikName": "УИК №6",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -742,8 +895,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "488400266792",
+    "uikName": "УИК №7",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -785,8 +947,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "488400266793",
+    "uikName": "УИК №8",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -828,8 +999,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "488400266794",
+    "uikName": "УИК №9",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -871,8 +1051,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "488400266795",
+    "uikName": "УИК №10",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 166,
       "Число бюллетеней, полученных участковыми комиссиями": 166,
@@ -914,8 +1103,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "488400266796",
+    "uikName": "УИК №11",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -957,8 +1155,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "488400266797",
+    "uikName": "УИК №12",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 209,
@@ -1000,8 +1207,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "488400266798",
+    "uikName": "УИК №13",
     "tikTvd": "288200067033",
     "tikName": "Илимпийская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 56,
@@ -1043,8 +1259,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "488400366783",
+    "uikName": "УИК №25",
     "tikTvd": "288200068927",
     "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1128,
       "Число бюллетеней, полученных участковыми комиссиями": 1074,
@@ -1086,8 +1311,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "488400366784",
+    "uikName": "УИК №26",
     "tikTvd": "288200068927",
     "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 779,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -1129,8 +1363,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "488400366785",
+    "uikName": "УИК №27",
     "tikTvd": "288200068927",
     "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 610,
       "Число бюллетеней, полученных участковыми комиссиями": 589,
@@ -1172,8 +1415,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "488400366786",
+    "uikName": "УИК №28",
     "tikTvd": "288200068927",
     "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 43,
       "Число бюллетеней, полученных участковыми комиссиями": 45,
@@ -1215,8 +1467,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "488400366787",
+    "uikName": "УИК №29",
     "tikTvd": "288200068927",
     "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 54,
       "Число бюллетеней, полученных участковыми комиссиями": 53,
@@ -1258,8 +1519,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "488400366788",
+    "uikName": "УИК №30",
     "tikTvd": "288200068927",
     "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -1301,8 +1571,17 @@ export const duma_2003_uik_428_region_88_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "488400366789",
+    "uikName": "УИК №31",
     "tikTvd": "288200068927",
     "tikName": "Тунгусско-Чунская",
+    "regionCode": "88",
+    "regionTvd": "100100095860",
+    "regionName": "Эвенкийский автономный округ",
+    "district": {
+      "districtNumber": 224,
+      "oikTvd": "100100095861",
+      "oikName": "Эвенкийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 19,
       "Число бюллетеней, полученных участковыми комиссиями": 19,

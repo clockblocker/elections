@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "424401366650",
+    "uikName": "УИК №81",
     "tikTvd": "224200067669",
     "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 770,
       "Число бюллетеней, полученных участковыми комиссиями": 765,
@@ -62,8 +71,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "424401366651",
+    "uikName": "УИК №82",
     "tikTvd": "224200067669",
     "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1316,
       "Число бюллетеней, полученных участковыми комиссиями": 1307,
@@ -113,8 +131,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "424401366652",
+    "uikName": "УИК №83",
     "tikTvd": "224200067669",
     "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 394,
@@ -164,8 +191,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "424401366653",
+    "uikName": "УИК №84",
     "tikTvd": "224200067669",
     "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 442,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -215,8 +251,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "424401366654",
+    "uikName": "УИК №85",
     "tikTvd": "224200067669",
     "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 104,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -266,8 +311,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "424400966662",
+    "uikName": "УИК №1011",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2581,
       "Число бюллетеней, полученных участковыми комиссиями": 2536,
@@ -317,8 +371,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "424400966663",
+    "uikName": "УИК №1012",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1787,
       "Число бюллетеней, полученных участковыми комиссиями": 1727,
@@ -368,8 +431,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "424400966664",
+    "uikName": "УИК №1013",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2310,
       "Число бюллетеней, полученных участковыми комиссиями": 2242,
@@ -419,8 +491,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "424400966665",
+    "uikName": "УИК №1014",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1680,
       "Число бюллетеней, полученных участковыми комиссиями": 1710,
@@ -470,8 +551,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "424400966666",
+    "uikName": "УИК №1015",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -521,8 +611,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "424400966667",
+    "uikName": "УИК №1016",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 229,
@@ -572,8 +671,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "424400966668",
+    "uikName": "УИК №1017",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -623,8 +731,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "424400966669",
+    "uikName": "УИК №1018",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 357,
@@ -674,8 +791,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "424400966670",
+    "uikName": "УИК №1019",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 395,
       "Число бюллетеней, полученных участковыми комиссиями": 388,
@@ -725,8 +851,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "424400966671",
+    "uikName": "УИК №1020",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -776,8 +911,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1021,
     "uikTvd": "424400966672",
+    "uikName": "УИК №1021",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 294,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -827,8 +971,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1022,
     "uikTvd": "424400966673",
+    "uikName": "УИК №1022",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -878,8 +1031,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1023,
     "uikTvd": "424400966674",
+    "uikName": "УИК №1023",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -929,8 +1091,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1024,
     "uikTvd": "424400966675",
+    "uikName": "УИК №1024",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 58,
@@ -980,8 +1151,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1025,
     "uikTvd": "424400966676",
+    "uikName": "УИК №1025",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1031,8 +1211,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1026,
     "uikTvd": "424400966677",
+    "uikName": "УИК №1026",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 536,
       "Число бюллетеней, полученных участковыми комиссиями": 534,
@@ -1082,8 +1271,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1027,
     "uikTvd": "424400966678",
+    "uikName": "УИК №1027",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 328,
@@ -1133,8 +1331,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1028,
     "uikTvd": "424400966679",
+    "uikName": "УИК №1028",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -1184,8 +1391,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1029,
     "uikTvd": "424400966680",
+    "uikName": "УИК №1029",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -1235,8 +1451,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1030,
     "uikTvd": "424400966681",
+    "uikName": "УИК №1030",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -1286,8 +1511,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1031,
     "uikTvd": "424400966682",
+    "uikName": "УИК №1031",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -1337,8 +1571,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1032,
     "uikTvd": "424400966683",
+    "uikName": "УИК №1032",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 477,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -1388,8 +1631,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1033,
     "uikTvd": "424400966684",
+    "uikName": "УИК №1033",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -1439,8 +1691,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1034,
     "uikTvd": "424400966685",
+    "uikName": "УИК №1034",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 63,
       "Число бюллетеней, полученных участковыми комиссиями": 61,
@@ -1490,8 +1751,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1035,
     "uikTvd": "424400966686",
+    "uikName": "УИК №1035",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 615,
       "Число бюллетеней, полученных участковыми комиссиями": 611,
@@ -1541,8 +1811,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1036,
     "uikTvd": "424400966687",
+    "uikName": "УИК №1036",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -1592,8 +1871,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1037,
     "uikTvd": "424400966688",
+    "uikName": "УИК №1037",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -1643,8 +1931,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1038,
     "uikTvd": "424400966689",
+    "uikName": "УИК №1038",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 401,
@@ -1694,8 +1991,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1039,
     "uikTvd": "424400966690",
+    "uikName": "УИК №1039",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -1745,8 +2051,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1040,
     "uikTvd": "424400966691",
+    "uikName": "УИК №1040",
     "tikTvd": "224200067670",
     "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -1796,8 +2111,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "424400466683",
+    "uikName": "УИК №886",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1847,8 +2171,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "424400466684",
+    "uikName": "УИК №887",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1868,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1898,8 +2231,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "424400466685",
+    "uikName": "УИК №888",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2202,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -1949,8 +2291,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "424400466686",
+    "uikName": "УИК №889",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1128,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2000,8 +2351,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "424400466687",
+    "uikName": "УИК №890",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2846,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2051,8 +2411,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "424400466688",
+    "uikName": "УИК №891",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2010,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2102,8 +2471,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "424400466689",
+    "uikName": "УИК №892",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2244,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2153,8 +2531,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "424400466690",
+    "uikName": "УИК №893",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1471,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2204,8 +2591,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "424400466691",
+    "uikName": "УИК №894",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 411,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -2255,8 +2651,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "424400466692",
+    "uikName": "УИК №895",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1213,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -2306,8 +2711,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "424400466693",
+    "uikName": "УИК №896",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 364,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -2357,8 +2771,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "424400466694",
+    "uikName": "УИК №897",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -2408,8 +2831,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "424400466695",
+    "uikName": "УИК №898",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 781,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -2459,8 +2891,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "424400466696",
+    "uikName": "УИК №899",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -2510,8 +2951,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "424400466697",
+    "uikName": "УИК №900",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1193,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -2561,8 +3011,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "424400466698",
+    "uikName": "УИК №901",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 818,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2612,8 +3071,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "424400466699",
+    "uikName": "УИК №902",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -2663,8 +3131,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "424400466700",
+    "uikName": "УИК №903",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1569,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -2714,8 +3191,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "424400466701",
+    "uikName": "УИК №904",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1091,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2765,8 +3251,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "424400466702",
+    "uikName": "УИК №905",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 775,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -2816,8 +3311,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "424400466703",
+    "uikName": "УИК №906",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 730,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -2867,8 +3371,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "424400466704",
+    "uikName": "УИК №907",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -2918,8 +3431,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "424400466705",
+    "uikName": "УИК №908",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -2969,8 +3491,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "424400466706",
+    "uikName": "УИК №909",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3020,8 +3551,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "424400466707",
+    "uikName": "УИК №910",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -3071,8 +3611,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "424400466708",
+    "uikName": "УИК №911",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3122,8 +3671,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "424400466709",
+    "uikName": "УИК №912",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -3173,8 +3731,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 913,
     "uikTvd": "424400466710",
+    "uikName": "УИК №913",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -3224,8 +3791,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "424400466711",
+    "uikName": "УИК №914",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 45,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -3275,8 +3851,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "424400466712",
+    "uikName": "УИК №915",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -3326,8 +3911,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "424400466713",
+    "uikName": "УИК №916",
     "tikTvd": "224200067671",
     "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -3377,8 +3971,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "424403866637",
+    "uikName": "УИК №506",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -3426,8 +4029,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "424403866638",
+    "uikName": "УИК №507",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1710,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3475,8 +4087,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "424403866639",
+    "uikName": "УИК №508",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2177,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3524,8 +4145,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "424403866640",
+    "uikName": "УИК №509",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2487,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3573,8 +4203,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "424403866641",
+    "uikName": "УИК №510",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2727,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3622,8 +4261,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "424403866642",
+    "uikName": "УИК №511",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2488,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -3671,8 +4319,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "424403866643",
+    "uikName": "УИК №512",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2902,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3720,8 +4377,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "424403866644",
+    "uikName": "УИК №513",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2158,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -3769,8 +4435,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "424403866645",
+    "uikName": "УИК №514",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1593,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -3818,8 +4493,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "424403866646",
+    "uikName": "УИК №515",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1700,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -3867,8 +4551,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "424403866647",
+    "uikName": "УИК №516",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2774,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -3916,8 +4609,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "424403866648",
+    "uikName": "УИК №517",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2755,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -3965,8 +4667,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "424403866649",
+    "uikName": "УИК №518",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1937,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4014,8 +4725,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "424403866650",
+    "uikName": "УИК №519",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1230,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -4063,8 +4783,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "424403866651",
+    "uikName": "УИК №520",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1063,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -4112,8 +4841,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "424403866652",
+    "uikName": "УИК №521",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2893,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -4161,8 +4899,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "424403866653",
+    "uikName": "УИК №522",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2359,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4210,8 +4957,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "424403866654",
+    "uikName": "УИК №523",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2035,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4259,8 +5015,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "424403866655",
+    "uikName": "УИК №524",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 633,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4308,8 +5073,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "424403866656",
+    "uikName": "УИК №525",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2549,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4357,8 +5131,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "424403866657",
+    "uikName": "УИК №526",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2310,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -4406,8 +5189,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "424403866658",
+    "uikName": "УИК №527",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2438,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -4455,8 +5247,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "424403866659",
+    "uikName": "УИК №528",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2409,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -4504,8 +5305,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "424403866660",
+    "uikName": "УИК №529",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2515,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4553,8 +5363,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "424403866661",
+    "uikName": "УИК №530",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 410,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -4602,8 +5421,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "424403866662",
+    "uikName": "УИК №531",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4651,8 +5479,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "424403866663",
+    "uikName": "УИК №532",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4700,8 +5537,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "424403866664",
+    "uikName": "УИК №533",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1407,
       "Число бюллетеней, полученных участковыми комиссиями": 1296,
@@ -4749,8 +5595,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "424403866665",
+    "uikName": "УИК №534",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1236,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -4798,8 +5653,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "424403866666",
+    "uikName": "УИК №535",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1426,
       "Число бюллетеней, полученных участковыми комиссиями": 1377,
@@ -4847,8 +5711,17 @@ export const duma_2003_uik_428_region_24_part_009 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "424403866667",
+    "uikName": "УИК №536",
     "tikTvd": "224200067672",
     "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 160,

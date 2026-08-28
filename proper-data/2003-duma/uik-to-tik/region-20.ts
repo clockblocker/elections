@@ -7,2569 +7,6421 @@ export const duma_2003_uik_to_tik_region_20 = [
   {
     "uikNumber": 1,
     "uikTvd": "420400170694",
+    "uikName": "УИК №1",
     "tikTvd": "220200071654",
-    "tikName": "Аргунская"
+    "tikName": "Аргунская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "420400170696",
+    "uikName": "УИК №2",
     "tikTvd": "220200071654",
-    "tikName": "Аргунская"
+    "tikName": "Аргунская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "420400170697",
+    "uikName": "УИК №3",
     "tikTvd": "220200071654",
-    "tikName": "Аргунская"
+    "tikName": "Аргунская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "420400170698",
+    "uikName": "УИК №4",
     "tikTvd": "220200071654",
-    "tikName": "Аргунская"
+    "tikName": "Аргунская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "420400170699",
+    "uikName": "УИК №5",
     "tikTvd": "220200071654",
-    "tikName": "Аргунская"
+    "tikName": "Аргунская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "420400170700",
+    "uikName": "УИК №6",
     "tikTvd": "220200071654",
-    "tikName": "Аргунская"
+    "tikName": "Аргунская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "420400170701",
+    "uikName": "УИК №7",
     "tikTvd": "220200071654",
-    "tikName": "Аргунская"
+    "tikName": "Аргунская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "420400170735",
+    "uikName": "УИК №8",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "420400170736",
+    "uikName": "УИК №9",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "420400170737",
+    "uikName": "УИК №10",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "420400170738",
+    "uikName": "УИК №11",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "420400170739",
+    "uikName": "УИК №12",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "420400170740",
+    "uikName": "УИК №13",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "420400170741",
+    "uikName": "УИК №14",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "420400170742",
+    "uikName": "УИК №15",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "420400170743",
+    "uikName": "УИК №16",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "420400170744",
+    "uikName": "УИК №17",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "420400170745",
+    "uikName": "УИК №18",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "420400170746",
+    "uikName": "УИК №19",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "420400170747",
+    "uikName": "УИК №20",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "420400170748",
+    "uikName": "УИК №21",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "420400170749",
+    "uikName": "УИК №22",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "420400170750",
+    "uikName": "УИК №23",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "420400170751",
+    "uikName": "УИК №24",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "420400170752",
+    "uikName": "УИК №25",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "420400170753",
+    "uikName": "УИК №26",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "420400170754",
+    "uikName": "УИК №27",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "420400170755",
+    "uikName": "УИК №28",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "420400170756",
+    "uikName": "УИК №29",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "420400170757",
+    "uikName": "УИК №30",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "420400170758",
+    "uikName": "УИК №31",
     "tikTvd": "220200071656",
-    "tikName": "Ачхой-Мартановская"
+    "tikName": "Ачхой-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "420400170816",
+    "uikName": "УИК №32",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "420400170817",
+    "uikName": "УИК №33",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "420400170818",
+    "uikName": "УИК №34",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "420400170819",
+    "uikName": "УИК №35",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "420400170820",
+    "uikName": "УИК №36",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "420400170821",
+    "uikName": "УИК №37",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "420400170822",
+    "uikName": "УИК №38",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "420400170823",
+    "uikName": "УИК №39",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "420400170824",
+    "uikName": "УИК №40",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "420400170825",
+    "uikName": "УИК №41",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "420400170826",
+    "uikName": "УИК №42",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "420400170827",
+    "uikName": "УИК №43",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "420400170828",
+    "uikName": "УИК №44",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "420400170829",
+    "uikName": "УИК №45",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "420400170830",
+    "uikName": "УИК №46",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "420400170831",
+    "uikName": "УИК №47",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "420400170832",
+    "uikName": "УИК №48",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "420400170833",
+    "uikName": "УИК №49",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "420400170834",
+    "uikName": "УИК №50",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "420400170835",
+    "uikName": "УИК №51",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "420400170836",
+    "uikName": "УИК №52",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "420400170837",
+    "uikName": "УИК №53",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "420400170838",
+    "uikName": "УИК №54",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "420400170839",
+    "uikName": "УИК №55",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "420400170840",
+    "uikName": "УИК №56",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "420400170841",
+    "uikName": "УИК №57",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "420400170889",
+    "uikName": "УИК №58",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "420400170890",
+    "uikName": "УИК №59",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "420400170891",
+    "uikName": "УИК №60",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "420400170892",
+    "uikName": "УИК №61",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "420400170893",
+    "uikName": "УИК №62",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "420400170894",
+    "uikName": "УИК №63",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "420400170895",
+    "uikName": "УИК №64",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "420400170896",
+    "uikName": "УИК №65",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "420400170897",
+    "uikName": "УИК №66",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "420400170898",
+    "uikName": "УИК №67",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "420400170899",
+    "uikName": "УИК №68",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "420400170900",
+    "uikName": "УИК №69",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "420400170901",
+    "uikName": "УИК №70",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "420400170902",
+    "uikName": "УИК №71",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "420400170903",
+    "uikName": "УИК №72",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "420400170904",
+    "uikName": "УИК №73",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "420400170905",
+    "uikName": "УИК №74",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "420400170906",
+    "uikName": "УИК №75",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "420400170907",
+    "uikName": "УИК №76",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "420400170908",
+    "uikName": "УИК №77",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "420400170909",
+    "uikName": "УИК №78",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "420400170910",
+    "uikName": "УИК №79",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "420400170911",
+    "uikName": "УИК №80",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "420400170912",
+    "uikName": "УИК №81",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "420400170913",
+    "uikName": "УИК №82",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "420400170914",
+    "uikName": "УИК №83",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "420400170915",
+    "uikName": "УИК №84",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "420400170916",
+    "uikName": "УИК №85",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "420400170917",
+    "uikName": "УИК №86",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "420400170918",
+    "uikName": "УИК №87",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "420400170919",
+    "uikName": "УИК №88",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "420400170920",
+    "uikName": "УИК №89",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "420400170921",
+    "uikName": "УИК №90",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "420400170922",
+    "uikName": "УИК №91",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "420400170923",
+    "uikName": "УИК №92",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "420400170924",
+    "uikName": "УИК №93",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "420400170925",
+    "uikName": "УИК №94",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "420400170926",
+    "uikName": "УИК №95",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "420400170927",
+    "uikName": "УИК №96",
     "tikTvd": "220200071657",
-    "tikName": "Грозненская"
+    "tikName": "Грозненская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "420400170990",
+    "uikName": "УИК №97",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "420400170991",
+    "uikName": "УИК №98",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "420400170992",
+    "uikName": "УИК №99",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "420400170993",
+    "uikName": "УИК №100",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "420400170994",
+    "uikName": "УИК №101",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "420400170995",
+    "uikName": "УИК №102",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "420400170996",
+    "uikName": "УИК №103",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "420400170997",
+    "uikName": "УИК №104",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "420400170998",
+    "uikName": "УИК №105",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "420400170999",
+    "uikName": "УИК №106",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "420400171000",
+    "uikName": "УИК №107",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "420400171001",
+    "uikName": "УИК №108",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "420400171002",
+    "uikName": "УИК №109",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "420400171003",
+    "uikName": "УИК №110",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "420400171004",
+    "uikName": "УИК №111",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "420400171005",
+    "uikName": "УИК №112",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "420400171006",
+    "uikName": "УИК №113",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "420400171007",
+    "uikName": "УИК №114",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "420400171008",
+    "uikName": "УИК №115",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "420400171032",
+    "uikName": "УИК №116",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "420400171033",
+    "uikName": "УИК №117",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "420400171034",
+    "uikName": "УИК №118",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "420400171035",
+    "uikName": "УИК №119",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "420400171036",
+    "uikName": "УИК №120",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "420400171037",
+    "uikName": "УИК №121",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "420400171038",
+    "uikName": "УИК №122",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "420400171039",
+    "uikName": "УИК №123",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "420400171040",
+    "uikName": "УИК №124",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "420400171041",
+    "uikName": "УИК №125",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "420400171042",
+    "uikName": "УИК №126",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "420400171043",
+    "uikName": "УИК №127",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "420400171044",
+    "uikName": "УИК №128",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "420400171045",
+    "uikName": "УИК №129",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "420400171046",
+    "uikName": "УИК №130",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "420400171047",
+    "uikName": "УИК №131",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "420400171048",
+    "uikName": "УИК №132",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "420400171049",
+    "uikName": "УИК №133",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "420400171050",
+    "uikName": "УИК №134",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "420400171051",
+    "uikName": "УИК №135",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "420400171052",
+    "uikName": "УИК №136",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "420400171082",
+    "uikName": "УИК №137",
     "tikTvd": "220200071659",
-    "tikName": "Итум-Калинская"
+    "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "420400171083",
+    "uikName": "УИК №138",
     "tikTvd": "220200071659",
-    "tikName": "Итум-Калинская"
+    "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "420400171084",
+    "uikName": "УИК №139",
     "tikTvd": "220200071659",
-    "tikName": "Итум-Калинская"
+    "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "420400171085",
+    "uikName": "УИК №140",
     "tikTvd": "220200071659",
-    "tikName": "Итум-Калинская"
+    "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "420400171086",
+    "uikName": "УИК №141",
     "tikTvd": "220200071659",
-    "tikName": "Итум-Калинская"
+    "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "420400171087",
+    "uikName": "УИК №142",
     "tikTvd": "220200071659",
-    "tikName": "Итум-Калинская"
+    "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "420400171088",
+    "uikName": "УИК №143",
     "tikTvd": "220200071659",
-    "tikName": "Итум-Калинская"
+    "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "420400171089",
+    "uikName": "УИК №144",
     "tikTvd": "220200071659",
-    "tikName": "Итум-Калинская"
+    "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "420400171090",
+    "uikName": "УИК №145",
     "tikTvd": "220200071659",
-    "tikName": "Итум-Калинская"
+    "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "420400171091",
+    "uikName": "УИК №146",
     "tikTvd": "220200071659",
-    "tikName": "Итум-Калинская"
+    "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "420400171127",
+    "uikName": "УИК №147",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "420400171128",
+    "uikName": "УИК №148",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "420400171129",
+    "uikName": "УИК №149",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "420400171130",
+    "uikName": "УИК №150",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "420400171131",
+    "uikName": "УИК №151",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "420400171132",
+    "uikName": "УИК №152",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "420400171133",
+    "uikName": "УИК №153",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "420400171134",
+    "uikName": "УИК №154",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "420400171135",
+    "uikName": "УИК №155",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "420400171136",
+    "uikName": "УИК №156",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "420400171137",
+    "uikName": "УИК №157",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "420400171138",
+    "uikName": "УИК №158",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "420400171139",
+    "uikName": "УИК №159",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "420400171140",
+    "uikName": "УИК №160",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "420400171141",
+    "uikName": "УИК №161",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "420400171142",
+    "uikName": "УИК №162",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "420400171143",
+    "uikName": "УИК №163",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "420400171144",
+    "uikName": "УИК №164",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "420400171145",
+    "uikName": "УИК №165",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "420400171146",
+    "uikName": "УИК №166",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "420400171147",
+    "uikName": "УИК №167",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "420400171148",
+    "uikName": "УИК №168",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "420400171149",
+    "uikName": "УИК №169",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "420400171150",
+    "uikName": "УИК №170",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "420400171151",
+    "uikName": "УИК №171",
     "tikTvd": "220200071660",
-    "tikName": "Курчалоевская"
+    "tikName": "Курчалоевская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "420400171173",
+    "uikName": "УИК №172",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "420400171174",
+    "uikName": "УИК №173",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "420400171175",
+    "uikName": "УИК №174",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "420400171176",
+    "uikName": "УИК №175",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "420400171177",
+    "uikName": "УИК №176",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "420400171178",
+    "uikName": "УИК №177",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "420400171179",
+    "uikName": "УИК №178",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "420400171180",
+    "uikName": "УИК №179",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "420400171181",
+    "uikName": "УИК №180",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "420400171182",
+    "uikName": "УИК №181",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "420400171183",
+    "uikName": "УИК №182",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "420400171184",
+    "uikName": "УИК №183",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "420400171185",
+    "uikName": "УИК №184",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "420400171186",
+    "uikName": "УИК №185",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "420400171187",
+    "uikName": "УИК №186",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "420400171188",
+    "uikName": "УИК №187",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "420400171189",
+    "uikName": "УИК №188",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "420400171190",
+    "uikName": "УИК №189",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "420400171191",
+    "uikName": "УИК №190",
     "tikTvd": "220200071661",
-    "tikName": "Надтеречная"
+    "tikName": "Надтеречная",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "420400171213",
+    "uikName": "УИК №191",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "420400171214",
+    "uikName": "УИК №192",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "420400171215",
+    "uikName": "УИК №193",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "420400171216",
+    "uikName": "УИК №194",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "420400171217",
+    "uikName": "УИК №195",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "420400171218",
+    "uikName": "УИК №196",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "420400171219",
+    "uikName": "УИК №197",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "420400171220",
+    "uikName": "УИК №198",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "420400171221",
+    "uikName": "УИК №199",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "420400171222",
+    "uikName": "УИК №200",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "420400171223",
+    "uikName": "УИК №201",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "420400171224",
+    "uikName": "УИК №202",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "420400171225",
+    "uikName": "УИК №203",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "420400171226",
+    "uikName": "УИК №204",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "420400171227",
+    "uikName": "УИК №205",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "420400171228",
+    "uikName": "УИК №206",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "420400171229",
+    "uikName": "УИК №207",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "420400171230",
+    "uikName": "УИК №208",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "420400171231",
+    "uikName": "УИК №209",
     "tikTvd": "220200071662",
-    "tikName": "Наурская"
+    "tikName": "Наурская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "420400171264",
+    "uikName": "УИК №210",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "420400171265",
+    "uikName": "УИК №211",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "420400171266",
+    "uikName": "УИК №212",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "420400171267",
+    "uikName": "УИК №213",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "420400171268",
+    "uikName": "УИК №214",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "420400171269",
+    "uikName": "УИК №215",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "420400171270",
+    "uikName": "УИК №216",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "420400171271",
+    "uikName": "УИК №217",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "420400171272",
+    "uikName": "УИК №218",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "420400171273",
+    "uikName": "УИК №219",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "420400171274",
+    "uikName": "УИК №220",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "420400171275",
+    "uikName": "УИК №221",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "420400171276",
+    "uikName": "УИК №222",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "420400171277",
+    "uikName": "УИК №223",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "420400171278",
+    "uikName": "УИК №224",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "420400171279",
+    "uikName": "УИК №225",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "420400171280",
+    "uikName": "УИК №226",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "420400171281",
+    "uikName": "УИК №227",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "420400171282",
+    "uikName": "УИК №228",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "420400171283",
+    "uikName": "УИК №229",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "420400171284",
+    "uikName": "УИК №230",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "420400171285",
+    "uikName": "УИК №231",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "420400171286",
+    "uikName": "УИК №232",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "420400171287",
+    "uikName": "УИК №233",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "420400171288",
+    "uikName": "УИК №234",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "420400171289",
+    "uikName": "УИК №235",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "420400171290",
+    "uikName": "УИК №236",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "420400171291",
+    "uikName": "УИК №237",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "420400171292",
+    "uikName": "УИК №238",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "420400171293",
+    "uikName": "УИК №239",
     "tikTvd": "220200071663",
-    "tikName": "Ножай-Юртовская"
+    "tikName": "Ножай-Юртовская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "420400171303",
+    "uikName": "УИК №240",
     "tikTvd": "220200071664",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "420400171304",
+    "uikName": "УИК №241",
     "tikTvd": "220200071664",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "420400171305",
+    "uikName": "УИК №242",
     "tikTvd": "220200071664",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "420400171306",
+    "uikName": "УИК №243",
     "tikTvd": "220200071664",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "420400171307",
+    "uikName": "УИК №244",
     "tikTvd": "220200071664",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "420400171308",
+    "uikName": "УИК №245",
     "tikTvd": "220200071664",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "420400171309",
+    "uikName": "УИК №246",
     "tikTvd": "220200071664",
-    "tikName": "Сунженская"
+    "tikName": "Сунженская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "420400171342",
+    "uikName": "УИК №247",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "420400171343",
+    "uikName": "УИК №248",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "420400171344",
+    "uikName": "УИК №249",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "420400171345",
+    "uikName": "УИК №250",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "420400171346",
+    "uikName": "УИК №251",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "420400171347",
+    "uikName": "УИК №252",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "420400171348",
+    "uikName": "УИК №253",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "420400171349",
+    "uikName": "УИК №254",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "420400171350",
+    "uikName": "УИК №255",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "420400171351",
+    "uikName": "УИК №256",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "420400171352",
+    "uikName": "УИК №257",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "420400171353",
+    "uikName": "УИК №258",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "420400171354",
+    "uikName": "УИК №259",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "420400171355",
+    "uikName": "УИК №260",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "420400171356",
+    "uikName": "УИК №261",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "420400171357",
+    "uikName": "УИК №262",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "420400171358",
+    "uikName": "УИК №263",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "420400171359",
+    "uikName": "УИК №264",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "420400171360",
+    "uikName": "УИК №265",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "420400171361",
+    "uikName": "УИК №266",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "420400171362",
+    "uikName": "УИК №267",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "420400171363",
+    "uikName": "УИК №268",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "420400171364",
+    "uikName": "УИК №269",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "420400171365",
+    "uikName": "УИК №270",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "420400171366",
+    "uikName": "УИК №271",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "420400171367",
+    "uikName": "УИК №272",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "420400171368",
+    "uikName": "УИК №273",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "420400171369",
+    "uikName": "УИК №274",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "420400171370",
+    "uikName": "УИК №275",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "420400171371",
+    "uikName": "УИК №276",
     "tikTvd": "220200071665",
-    "tikName": "Урус-Мартановская"
+    "tikName": "Урус-Мартановская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "420400171402",
+    "uikName": "УИК №277",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "420400171403",
+    "uikName": "УИК №278",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "420400171404",
+    "uikName": "УИК №279",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "420400171405",
+    "uikName": "УИК №280",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "420400171406",
+    "uikName": "УИК №281",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "420400171407",
+    "uikName": "УИК №282",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "420400171408",
+    "uikName": "УИК №283",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "420400171409",
+    "uikName": "УИК №284",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "420400171410",
+    "uikName": "УИК №285",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "420400171411",
+    "uikName": "УИК №286",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "420400171412",
+    "uikName": "УИК №287",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "420400171413",
+    "uikName": "УИК №288",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "420400171414",
+    "uikName": "УИК №289",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "420400171415",
+    "uikName": "УИК №290",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "420400171416",
+    "uikName": "УИК №291",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "420400171417",
+    "uikName": "УИК №292",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "420400171418",
+    "uikName": "УИК №293",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "420400171419",
+    "uikName": "УИК №294",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "420400171420",
+    "uikName": "УИК №295",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "420400171421",
+    "uikName": "УИК №296",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "420400171422",
+    "uikName": "УИК №297",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "420400171423",
+    "uikName": "УИК №298",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "420400171424",
+    "uikName": "УИК №299",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "420400171425",
+    "uikName": "УИК №300",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "420400171426",
+    "uikName": "УИК №301",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "420400171628",
+    "uikName": "УИК №302",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "420400171629",
+    "uikName": "УИК №303",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "420400171440",
+    "uikName": "УИК №304",
     "tikTvd": "220200071667",
-    "tikName": "Шаройская"
+    "tikName": "Шаройская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "420400171441",
+    "uikName": "УИК №305",
     "tikTvd": "220200071667",
-    "tikName": "Шаройская"
+    "tikName": "Шаройская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "420400171442",
+    "uikName": "УИК №306",
     "tikTvd": "220200071667",
-    "tikName": "Шаройская"
+    "tikName": "Шаройская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "420400171443",
+    "uikName": "УИК №307",
     "tikTvd": "220200071667",
-    "tikName": "Шаройская"
+    "tikName": "Шаройская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "420400171444",
+    "uikName": "УИК №308",
     "tikTvd": "220200071667",
-    "tikName": "Шаройская"
+    "tikName": "Шаройская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "420400171445",
+    "uikName": "УИК №309",
     "tikTvd": "220200071667",
-    "tikName": "Шаройская"
+    "tikName": "Шаройская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "420400171446",
+    "uikName": "УИК №310",
     "tikTvd": "220200071667",
-    "tikName": "Шаройская"
+    "tikName": "Шаройская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "420400171447",
+    "uikName": "УИК №311",
     "tikTvd": "220200071667",
-    "tikName": "Шаройская"
+    "tikName": "Шаройская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "420400171448",
+    "uikName": "УИК №312",
     "tikTvd": "220200071667",
-    "tikName": "Шаройская"
+    "tikName": "Шаройская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "420400171470",
+    "uikName": "УИК №313",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "420400171471",
+    "uikName": "УИК №314",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "420400171472",
+    "uikName": "УИК №315",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "420400171473",
+    "uikName": "УИК №316",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "420400171474",
+    "uikName": "УИК №317",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "420400171475",
+    "uikName": "УИК №318",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "420400171476",
+    "uikName": "УИК №319",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "420400171477",
+    "uikName": "УИК №320",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "420400171478",
+    "uikName": "УИК №321",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "420400171479",
+    "uikName": "УИК №322",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "420400171480",
+    "uikName": "УИК №323",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "420400171481",
+    "uikName": "УИК №324",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "420400171482",
+    "uikName": "УИК №325",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "420400171483",
+    "uikName": "УИК №326",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "420400171484",
+    "uikName": "УИК №327",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "420400171485",
+    "uikName": "УИК №328",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "420400171486",
+    "uikName": "УИК №329",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "420400171487",
+    "uikName": "УИК №330",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "420400171488",
+    "uikName": "УИК №331",
     "tikTvd": "220200071668",
-    "tikName": "Шатойская"
+    "tikName": "Шатойская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "420400171517",
+    "uikName": "УИК №332",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "420400171518",
+    "uikName": "УИК №333",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "420400171519",
+    "uikName": "УИК №334",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "420400171520",
+    "uikName": "УИК №335",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "420400171521",
+    "uikName": "УИК №336",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "420400171522",
+    "uikName": "УИК №337",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "420400171523",
+    "uikName": "УИК №338",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "420400171524",
+    "uikName": "УИК №339",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "420400171525",
+    "uikName": "УИК №340",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "420400171526",
+    "uikName": "УИК №341",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "420400171527",
+    "uikName": "УИК №342",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "420400171528",
+    "uikName": "УИК №343",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "420400171529",
+    "uikName": "УИК №344",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "420400171530",
+    "uikName": "УИК №345",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "420400171531",
+    "uikName": "УИК №346",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "420400171532",
+    "uikName": "УИК №347",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "420400171533",
+    "uikName": "УИК №348",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "420400171534",
+    "uikName": "УИК №349",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "420400171535",
+    "uikName": "УИК №350",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "420400171536",
+    "uikName": "УИК №351",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "420400171537",
+    "uikName": "УИК №352",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "420400171538",
+    "uikName": "УИК №353",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "420400171539",
+    "uikName": "УИК №354",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "420400171540",
+    "uikName": "УИК №355",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "420400171541",
+    "uikName": "УИК №356",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "420400171542",
+    "uikName": "УИК №357",
     "tikTvd": "220200071669",
-    "tikName": "Шелковская"
+    "tikName": "Шелковская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "420400171557",
+    "uikName": "УИК №358",
     "tikTvd": "220200071670",
-    "tikName": "г. Грозный, Заводская"
+    "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "420400171558",
+    "uikName": "УИК №359",
     "tikTvd": "220200071670",
-    "tikName": "г. Грозный, Заводская"
+    "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "420400171559",
+    "uikName": "УИК №360",
     "tikTvd": "220200071670",
-    "tikName": "г. Грозный, Заводская"
+    "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "420400171560",
+    "uikName": "УИК №361",
     "tikTvd": "220200071670",
-    "tikName": "г. Грозный, Заводская"
+    "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "420400171561",
+    "uikName": "УИК №362",
     "tikTvd": "220200071670",
-    "tikName": "г. Грозный, Заводская"
+    "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "420400171562",
+    "uikName": "УИК №363",
     "tikTvd": "220200071670",
-    "tikName": "г. Грозный, Заводская"
+    "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "420400171563",
+    "uikName": "УИК №364",
     "tikTvd": "220200071670",
-    "tikName": "г. Грозный, Заводская"
+    "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "420400171564",
+    "uikName": "УИК №365",
     "tikTvd": "220200071670",
-    "tikName": "г. Грозный, Заводская"
+    "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "420400171565",
+    "uikName": "УИК №366",
     "tikTvd": "220200071670",
-    "tikName": "г. Грозный, Заводская"
+    "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "420400171566",
+    "uikName": "УИК №367",
     "tikTvd": "220200071670",
-    "tikName": "г. Грозный, Заводская"
+    "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "420400171567",
+    "uikName": "УИК №368",
     "tikTvd": "220200071670",
-    "tikName": "г. Грозный, Заводская"
+    "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "420400171568",
+    "uikName": "УИК №369",
     "tikTvd": "220200071670",
-    "tikName": "г. Грозный, Заводская"
+    "tikName": "г. Грозный, Заводская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "420400171588",
+    "uikName": "УИК №370",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "420400171589",
+    "uikName": "УИК №371",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "420400171590",
+    "uikName": "УИК №372",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "420400171591",
+    "uikName": "УИК №373",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "420400171592",
+    "uikName": "УИК №374",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "420400171593",
+    "uikName": "УИК №375",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "420400171594",
+    "uikName": "УИК №376",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "420400171595",
+    "uikName": "УИК №377",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "420400171596",
+    "uikName": "УИК №378",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "420400171597",
+    "uikName": "УИК №379",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "420400171598",
+    "uikName": "УИК №380",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "420400171599",
+    "uikName": "УИК №381",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "420400171600",
+    "uikName": "УИК №382",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "420400171630",
+    "uikName": "УИК №383",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "420400171631",
+    "uikName": "УИК №384",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "420400171632",
+    "uikName": "УИК №385",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "420400171633",
+    "uikName": "УИК №386",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "420400171634",
+    "uikName": "УИК №387",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "420400171635",
+    "uikName": "УИК №388",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "420400171636",
+    "uikName": "УИК №389",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "420400171637",
+    "uikName": "УИК №390",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "420400171638",
+    "uikName": "УИК №391",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "420400171639",
+    "uikName": "УИК №392",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "420400171640",
+    "uikName": "УИК №393",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "420400171641",
+    "uikName": "УИК №394",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "420400171642",
+    "uikName": "УИК №395",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "420400171643",
+    "uikName": "УИК №396",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "420400171644",
+    "uikName": "УИК №397",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "420400171645",
+    "uikName": "УИК №398",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "420400171646",
+    "uikName": "УИК №399",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "420400171647",
+    "uikName": "УИК №400",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "420400171648",
+    "uikName": "УИК №401",
     "tikTvd": "220200071672",
-    "tikName": "г. Грозный, Октябрьская"
+    "tikName": "г. Грозный, Октябрьская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "420400171663",
+    "uikName": "УИК №402",
     "tikTvd": "220200071673",
-    "tikName": "г. Грозный, Старопромысловская"
+    "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "420400171664",
+    "uikName": "УИК №403",
     "tikTvd": "220200071673",
-    "tikName": "г. Грозный, Старопромысловская"
+    "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "420400171665",
+    "uikName": "УИК №404",
     "tikTvd": "220200071673",
-    "tikName": "г. Грозный, Старопромысловская"
+    "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "420400171666",
+    "uikName": "УИК №405",
     "tikTvd": "220200071673",
-    "tikName": "г. Грозный, Старопромысловская"
+    "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "420400171667",
+    "uikName": "УИК №406",
     "tikTvd": "220200071673",
-    "tikName": "г. Грозный, Старопромысловская"
+    "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "420400171668",
+    "uikName": "УИК №407",
     "tikTvd": "220200071673",
-    "tikName": "г. Грозный, Старопромысловская"
+    "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "420400171669",
+    "uikName": "УИК №408",
     "tikTvd": "220200071673",
-    "tikName": "г. Грозный, Старопромысловская"
+    "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "420400171670",
+    "uikName": "УИК №409",
     "tikTvd": "220200071673",
-    "tikName": "г. Грозный, Старопромысловская"
+    "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "420400171671",
+    "uikName": "УИК №410",
     "tikTvd": "220200071673",
-    "tikName": "г. Грозный, Старопромысловская"
+    "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "420400171672",
+    "uikName": "УИК №411",
     "tikTvd": "220200071673",
-    "tikName": "г. Грозный, Старопромысловская"
+    "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "420400171673",
+    "uikName": "УИК №412",
     "tikTvd": "220200071673",
-    "tikName": "г. Грозный, Старопромысловская"
+    "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "420400171674",
+    "uikName": "УИК №413",
     "tikTvd": "220200071673",
-    "tikName": "г. Грозный, Старопромысловская"
+    "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "420400171097",
+    "uikName": "УИК №414",
     "tikTvd": "220200071659",
-    "tikName": "Итум-Калинская"
+    "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "420400171098",
+    "uikName": "УИК №415",
     "tikTvd": "220200071659",
-    "tikName": "Итум-Калинская"
+    "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "420400171099",
+    "uikName": "УИК №416",
     "tikTvd": "220200071659",
-    "tikName": "Итум-Калинская"
+    "tikName": "Итум-Калинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "420400170846",
+    "uikName": "УИК №417",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "420400170847",
+    "uikName": "УИК №418",
     "tikTvd": "220200071655",
-    "tikName": "Веденская"
+    "tikName": "Веденская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "420400170707",
+    "uikName": "УИК №419",
     "tikTvd": "220200071654",
-    "tikName": "Аргунская"
+    "tikName": "Аргунская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "420400171057",
+    "uikName": "УИК №420",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "420400171058",
+    "uikName": "УИК №421",
     "tikTvd": "220200071658",
-    "tikName": "Гудермесская"
+    "tikName": "Гудермесская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "420400171427",
+    "uikName": "УИК №422",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "420400171428",
+    "uikName": "УИК №423",
     "tikTvd": "220200071666",
-    "tikName": "Шалинская"
+    "tikName": "Шалинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "420400171601",
+    "uikName": "УИК №424",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "420400171602",
+    "uikName": "УИК №425",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "420400171603",
+    "uikName": "УИК №426",
     "tikTvd": "220200071671",
-    "tikName": "г. Грозный, Ленинская"
+    "tikName": "г. Грозный, Ленинская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "420400170708",
+    "uikName": "УИК №427",
     "tikTvd": "220200071654",
-    "tikName": "Аргунская"
+    "tikName": "Аргунская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "420400171965",
+    "uikName": "УИК №428",
     "tikTvd": "220200071673",
-    "tikName": "г. Грозный, Старопромысловская"
+    "tikName": "г. Грозный, Старопромысловская",
+    "regionCode": "20",
+    "regionTvd": "100100095872",
+    "regionName": "Чеченская Республика",
+    "district": {
+      "districtNumber": 32,
+      "oikTvd": "100100095873",
+      "oikName": "Чеченский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

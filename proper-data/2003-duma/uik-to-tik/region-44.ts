@@ -7,4033 +7,10081 @@ export const duma_2003_uik_to_tik_region_44 = [
   {
     "uikNumber": 1,
     "uikTvd": "444400171028",
+    "uikName": "УИК №1",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "444400171029",
+    "uikName": "УИК №2",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "444400171030",
+    "uikName": "УИК №3",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "444400171031",
+    "uikName": "УИК №4",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "444400171032",
+    "uikName": "УИК №5",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "444400171033",
+    "uikName": "УИК №6",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "444400171034",
+    "uikName": "УИК №7",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "444400171035",
+    "uikName": "УИК №8",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "444400171036",
+    "uikName": "УИК №9",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "444400171037",
+    "uikName": "УИК №10",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "444400171038",
+    "uikName": "УИК №11",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "444400171039",
+    "uikName": "УИК №12",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "444400171040",
+    "uikName": "УИК №13",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "444400171041",
+    "uikName": "УИК №14",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "444400171042",
+    "uikName": "УИК №15",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "444400171043",
+    "uikName": "УИК №16",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "444400171044",
+    "uikName": "УИК №17",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "444400171045",
+    "uikName": "УИК №18",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "444400171046",
+    "uikName": "УИК №19",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "444400171047",
+    "uikName": "УИК №20",
     "tikTvd": "244200071091",
-    "tikName": "Антроповская"
+    "tikName": "Антроповская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "444402770407",
+    "uikName": "УИК №21",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "444402770408",
+    "uikName": "УИК №22",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "444402770409",
+    "uikName": "УИК №23",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "444402770410",
+    "uikName": "УИК №24",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "444402770411",
+    "uikName": "УИК №25",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "444402770412",
+    "uikName": "УИК №26",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "444402770413",
+    "uikName": "УИК №27",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "444402770414",
+    "uikName": "УИК №28",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "444402770415",
+    "uikName": "УИК №29",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "444402770416",
+    "uikName": "УИК №30",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "444402770417",
+    "uikName": "УИК №31",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "444402770418",
+    "uikName": "УИК №32",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "444402770419",
+    "uikName": "УИК №33",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "444402770420",
+    "uikName": "УИК №34",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "444402770421",
+    "uikName": "УИК №35",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "444402770422",
+    "uikName": "УИК №36",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "444402770423",
+    "uikName": "УИК №37",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "444402770424",
+    "uikName": "УИК №38",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "444402770425",
+    "uikName": "УИК №39",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "444402770426",
+    "uikName": "УИК №40",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "444402770427",
+    "uikName": "УИК №41",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "444402770428",
+    "uikName": "УИК №42",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "444402770429",
+    "uikName": "УИК №43",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "444402770430",
+    "uikName": "УИК №44",
     "tikTvd": "244200070619",
-    "tikName": "Буйская"
+    "tikName": "Буйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "444400270407",
+    "uikName": "УИК №45",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "444400270408",
+    "uikName": "УИК №46",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "444400270409",
+    "uikName": "УИК №47",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "444400270410",
+    "uikName": "УИК №48",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "444400270411",
+    "uikName": "УИК №49",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "444400270412",
+    "uikName": "УИК №50",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "444400270413",
+    "uikName": "УИК №51",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "444400270414",
+    "uikName": "УИК №52",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "444400270415",
+    "uikName": "УИК №53",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "444400270416",
+    "uikName": "УИК №54",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "444400270417",
+    "uikName": "УИК №55",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "444400270418",
+    "uikName": "УИК №56",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "444400270419",
+    "uikName": "УИК №57",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "444400270420",
+    "uikName": "УИК №58",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "444400270421",
+    "uikName": "УИК №59",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "444400270422",
+    "uikName": "УИК №60",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "444400270423",
+    "uikName": "УИК №61",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "444400270424",
+    "uikName": "УИК №62",
     "tikTvd": "244200070602",
-    "tikName": "Буйская городская"
+    "tikName": "Буйская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "444400370491",
+    "uikName": "УИК №63",
     "tikTvd": "244200070612",
-    "tikName": "Волгореченская городская"
+    "tikName": "Волгореченская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "444400370492",
+    "uikName": "УИК №64",
     "tikTvd": "244200070612",
-    "tikName": "Волгореченская городская"
+    "tikName": "Волгореченская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "444400370493",
+    "uikName": "УИК №65",
     "tikTvd": "244200070612",
-    "tikName": "Волгореченская городская"
+    "tikName": "Волгореченская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "444400370494",
+    "uikName": "УИК №66",
     "tikTvd": "244200070612",
-    "tikName": "Волгореченская городская"
+    "tikName": "Волгореченская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "444400370495",
+    "uikName": "УИК №67",
     "tikTvd": "244200070612",
-    "tikName": "Волгореченская городская"
+    "tikName": "Волгореченская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "444400370496",
+    "uikName": "УИК №68",
     "tikTvd": "244200070612",
-    "tikName": "Волгореченская городская"
+    "tikName": "Волгореченская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "444400470437",
+    "uikName": "УИК №69",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 70,
     "uikTvd": "444400470438",
+    "uikName": "УИК №70",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "444400470439",
+    "uikName": "УИК №71",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "444400470440",
+    "uikName": "УИК №72",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "444400470441",
+    "uikName": "УИК №73",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "444400470442",
+    "uikName": "УИК №74",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "444400470443",
+    "uikName": "УИК №75",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "444400470444",
+    "uikName": "УИК №76",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "444400470445",
+    "uikName": "УИК №77",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "444400470446",
+    "uikName": "УИК №78",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "444400470447",
+    "uikName": "УИК №79",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "444400470448",
+    "uikName": "УИК №80",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "444400470449",
+    "uikName": "УИК №81",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "444400470450",
+    "uikName": "УИК №82",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "444400470451",
+    "uikName": "УИК №83",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "444400470452",
+    "uikName": "УИК №84",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "444400470453",
+    "uikName": "УИК №85",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 86,
     "uikTvd": "444400470454",
+    "uikName": "УИК №86",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "444400470455",
+    "uikName": "УИК №87",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "444400470456",
+    "uikName": "УИК №88",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "444400470457",
+    "uikName": "УИК №89",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "444400470458",
+    "uikName": "УИК №90",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "444400470459",
+    "uikName": "УИК №91",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "444400470460",
+    "uikName": "УИК №92",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "444400470461",
+    "uikName": "УИК №93",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "444400470462",
+    "uikName": "УИК №94",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "444400470463",
+    "uikName": "УИК №95",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "444400470464",
+    "uikName": "УИК №96",
     "tikTvd": "244200070607",
-    "tikName": "Вохомская"
+    "tikName": "Вохомская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "444402870461",
+    "uikName": "УИК №97",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "444402870462",
+    "uikName": "УИК №98",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "444402870463",
+    "uikName": "УИК №99",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "444402870464",
+    "uikName": "УИК №100",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "444402870465",
+    "uikName": "УИК №101",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "444402870466",
+    "uikName": "УИК №102",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "444402870467",
+    "uikName": "УИК №103",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "444402870468",
+    "uikName": "УИК №104",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "444402870469",
+    "uikName": "УИК №105",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "444402870470",
+    "uikName": "УИК №106",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 107,
     "uikTvd": "444402870471",
+    "uikName": "УИК №107",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "444402870472",
+    "uikName": "УИК №108",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "444402870473",
+    "uikName": "УИК №109",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "444402870474",
+    "uikName": "УИК №110",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "444402870475",
+    "uikName": "УИК №111",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "444402870476",
+    "uikName": "УИК №112",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "444402870477",
+    "uikName": "УИК №113",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "444402870478",
+    "uikName": "УИК №114",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "444402870479",
+    "uikName": "УИК №115",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "444402870480",
+    "uikName": "УИК №116",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "444402870481",
+    "uikName": "УИК №117",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "444402870482",
+    "uikName": "УИК №118",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "444402870483",
+    "uikName": "УИК №119",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "444402870484",
+    "uikName": "УИК №120",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "444402870485",
+    "uikName": "УИК №121",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "444402870486",
+    "uikName": "УИК №122",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "444402870487",
+    "uikName": "УИК №123",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "444402870488",
+    "uikName": "УИК №124",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "444402870489",
+    "uikName": "УИК №125",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "444402870490",
+    "uikName": "УИК №126",
     "tikTvd": "244200070598",
-    "tikName": "Галичская"
+    "tikName": "Галичская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "444400670468",
+    "uikName": "УИК №127",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "444400770462",
+    "uikName": "УИК №128",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "444400573091",
+    "uikName": "УИК №129",
     "tikTvd": "244200070608",
-    "tikName": "Галичская городская"
+    "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "444400573092",
+    "uikName": "УИК №130",
     "tikTvd": "244200070608",
-    "tikName": "Галичская городская"
+    "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "444400573093",
+    "uikName": "УИК №131",
     "tikTvd": "244200070608",
-    "tikName": "Галичская городская"
+    "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "444400573094",
+    "uikName": "УИК №132",
     "tikTvd": "244200070608",
-    "tikName": "Галичская городская"
+    "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "444400573095",
+    "uikName": "УИК №133",
     "tikTvd": "244200070608",
-    "tikName": "Галичская городская"
+    "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "444400573096",
+    "uikName": "УИК №134",
     "tikTvd": "244200070608",
-    "tikName": "Галичская городская"
+    "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "444400573097",
+    "uikName": "УИК №135",
     "tikTvd": "244200070608",
-    "tikName": "Галичская городская"
+    "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "444400573098",
+    "uikName": "УИК №136",
     "tikTvd": "244200070608",
-    "tikName": "Галичская городская"
+    "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "444400573099",
+    "uikName": "УИК №137",
     "tikTvd": "244200070608",
-    "tikName": "Галичская городская"
+    "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "444400573100",
+    "uikName": "УИК №138",
     "tikTvd": "244200070608",
-    "tikName": "Галичская городская"
+    "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "444400573101",
+    "uikName": "УИК №139",
     "tikTvd": "244200070608",
-    "tikName": "Галичская городская"
+    "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "444400573102",
+    "uikName": "УИК №140",
     "tikTvd": "244200070608",
-    "tikName": "Галичская городская"
+    "tikName": "Галичская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "444400670469",
+    "uikName": "УИК №141",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "444400670470",
+    "uikName": "УИК №142",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "444400670471",
+    "uikName": "УИК №143",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "444400670472",
+    "uikName": "УИК №144",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "444400670473",
+    "uikName": "УИК №145",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "444400670474",
+    "uikName": "УИК №146",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "444400670475",
+    "uikName": "УИК №147",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "444400670476",
+    "uikName": "УИК №148",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "444400670477",
+    "uikName": "УИК №149",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "444400670478",
+    "uikName": "УИК №150",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "444400670479",
+    "uikName": "УИК №151",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "444400670480",
+    "uikName": "УИК №152",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "444400670481",
+    "uikName": "УИК №153",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 154,
     "uikTvd": "444400670482",
+    "uikName": "УИК №154",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 155,
     "uikTvd": "444400670483",
+    "uikName": "УИК №155",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "444400670484",
+    "uikName": "УИК №156",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "444400670485",
+    "uikName": "УИК №157",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "444400670486",
+    "uikName": "УИК №158",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "444400670487",
+    "uikName": "УИК №159",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "444400670488",
+    "uikName": "УИК №160",
     "tikTvd": "244200070609",
-    "tikName": " Кадыйская"
+    "tikName": " Кадыйская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "444400770463",
+    "uikName": "УИК №161",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "444400770464",
+    "uikName": "УИК №162",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "444400770465",
+    "uikName": "УИК №163",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "444400770466",
+    "uikName": "УИК №164",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "444400770467",
+    "uikName": "УИК №165",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "444400770468",
+    "uikName": "УИК №166",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "444400770469",
+    "uikName": "УИК №167",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "444400770470",
+    "uikName": "УИК №168",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "444400770471",
+    "uikName": "УИК №169",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "444400770472",
+    "uikName": "УИК №170",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "444400770473",
+    "uikName": "УИК №171",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "444400770474",
+    "uikName": "УИК №172",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "444400770475",
+    "uikName": "УИК №173",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "444400770476",
+    "uikName": "УИК №174",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "444400770477",
+    "uikName": "УИК №175",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "444400770478",
+    "uikName": "УИК №176",
     "tikTvd": "244200070605",
-    "tikName": "Кологривская"
+    "tikName": "Кологривская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "444400970485",
+    "uikName": "УИК №177",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "444400970486",
+    "uikName": "УИК №178",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "444400970487",
+    "uikName": "УИК №179",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "444400970488",
+    "uikName": "УИК №180",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "444400970489",
+    "uikName": "УИК №181",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "444400970490",
+    "uikName": "УИК №182",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "444400970491",
+    "uikName": "УИК №183",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "444400970492",
+    "uikName": "УИК №184",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "444400970493",
+    "uikName": "УИК №185",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "444400970494",
+    "uikName": "УИК №186",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 187,
     "uikTvd": "444400970495",
+    "uikName": "УИК №187",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "444400970496",
+    "uikName": "УИК №188",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "444400970497",
+    "uikName": "УИК №189",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "444400970498",
+    "uikName": "УИК №190",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "444400970499",
+    "uikName": "УИК №191",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "444400970500",
+    "uikName": "УИК №192",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "444400970501",
+    "uikName": "УИК №193",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "444400970502",
+    "uikName": "УИК №194",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "444400970503",
+    "uikName": "УИК №195",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "444400970504",
+    "uikName": "УИК №196",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "444400970505",
+    "uikName": "УИК №197",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "444400970506",
+    "uikName": "УИК №198",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "444400970507",
+    "uikName": "УИК №199",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "444400970508",
+    "uikName": "УИК №200",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "444400970509",
+    "uikName": "УИК №201",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "444400970510",
+    "uikName": "УИК №202",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "444400970511",
+    "uikName": "УИК №203",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "444400970512",
+    "uikName": "УИК №204",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "444400970513",
+    "uikName": "УИК №205",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "444400970514",
+    "uikName": "УИК №206",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "444400970515",
+    "uikName": "УИК №207",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "444400970516",
+    "uikName": "УИК №208",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "444400970517",
+    "uikName": "УИК №209",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "444400970518",
+    "uikName": "УИК №210",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "444400970519",
+    "uikName": "УИК №211",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "444400970520",
+    "uikName": "УИК №212",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "444400970521",
+    "uikName": "УИК №213",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "444400970522",
+    "uikName": "УИК №214",
     "tikTvd": "244200070606",
-    "tikName": "Костромская"
+    "tikName": "Костромская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "444402370534",
+    "uikName": "УИК №215",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "444400870643",
+    "uikName": "УИК №216",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "444400870644",
+    "uikName": "УИК №217",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "444400870645",
+    "uikName": "УИК №218",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "444400870646",
+    "uikName": "УИК №219",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "444400870647",
+    "uikName": "УИК №220",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "444400870648",
+    "uikName": "УИК №221",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "444400870649",
+    "uikName": "УИК №222",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "444400870650",
+    "uikName": "УИК №223",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "444400870651",
+    "uikName": "УИК №224",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "444400870652",
+    "uikName": "УИК №225",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "444400870653",
+    "uikName": "УИК №226",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "444400870654",
+    "uikName": "УИК №227",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "444400870655",
+    "uikName": "УИК №228",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "444400870656",
+    "uikName": "УИК №229",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "444400870657",
+    "uikName": "УИК №230",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "444400870658",
+    "uikName": "УИК №231",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "444400870659",
+    "uikName": "УИК №232",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "444400870660",
+    "uikName": "УИК №233",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "444400870661",
+    "uikName": "УИК №234",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "444400870662",
+    "uikName": "УИК №235",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "444400870663",
+    "uikName": "УИК №236",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "444400870664",
+    "uikName": "УИК №237",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 238,
     "uikTvd": "444400870665",
+    "uikName": "УИК №238",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "444400870666",
+    "uikName": "УИК №239",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "444400870667",
+    "uikName": "УИК №240",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "444400870668",
+    "uikName": "УИК №241",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "444400870669",
+    "uikName": "УИК №242",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "444400870670",
+    "uikName": "УИК №243",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "444400870671",
+    "uikName": "УИК №244",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "444400870672",
+    "uikName": "УИК №245",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "444400870673",
+    "uikName": "УИК №246",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "444400870674",
+    "uikName": "УИК №247",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "444400870675",
+    "uikName": "УИК №248",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "444400870676",
+    "uikName": "УИК №249",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "444400870677",
+    "uikName": "УИК №250",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "444400870678",
+    "uikName": "УИК №251",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "444400870679",
+    "uikName": "УИК №252",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "444400870680",
+    "uikName": "УИК №253",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "444400870681",
+    "uikName": "УИК №254",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "444400870682",
+    "uikName": "УИК №255",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "444400870683",
+    "uikName": "УИК №256",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "444400870684",
+    "uikName": "УИК №257",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "444400870685",
+    "uikName": "УИК №258",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "444400870686",
+    "uikName": "УИК №259",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "444400870687",
+    "uikName": "УИК №260",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "444400870688",
+    "uikName": "УИК №261",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "444400870689",
+    "uikName": "УИК №262",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "444400870690",
+    "uikName": "УИК №263",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "444400870691",
+    "uikName": "УИК №264",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "444400870692",
+    "uikName": "УИК №265",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "444400870693",
+    "uikName": "УИК №266",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "444400870694",
+    "uikName": "УИК №267",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "444400870695",
+    "uikName": "УИК №268",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "444400870696",
+    "uikName": "УИК №269",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "444400870697",
+    "uikName": "УИК №270",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "444400870698",
+    "uikName": "УИК №271",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "444400870699",
+    "uikName": "УИК №272",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "444400870700",
+    "uikName": "УИК №273",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "444400870701",
+    "uikName": "УИК №274",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "444400870702",
+    "uikName": "УИК №275",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "444400870703",
+    "uikName": "УИК №276",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "444400870704",
+    "uikName": "УИК №277",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "444400870705",
+    "uikName": "УИК №278",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "444400870706",
+    "uikName": "УИК №279",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "444400870707",
+    "uikName": "УИК №280",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "444400870708",
+    "uikName": "УИК №281",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "444400870709",
+    "uikName": "УИК №282",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "444400870710",
+    "uikName": "УИК №283",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "444400870711",
+    "uikName": "УИК №284",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "444400870712",
+    "uikName": "УИК №285",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "444400870713",
+    "uikName": "УИК №286",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "444400870714",
+    "uikName": "УИК №287",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "444400870715",
+    "uikName": "УИК №288",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "444400870716",
+    "uikName": "УИК №289",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "444400870717",
+    "uikName": "УИК №290",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 291,
     "uikTvd": "444400870718",
+    "uikName": "УИК №291",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 292,
     "uikTvd": "444400870719",
+    "uikName": "УИК №292",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "444400870720",
+    "uikName": "УИК №293",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "444400870721",
+    "uikName": "УИК №294",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "444400870722",
+    "uikName": "УИК №295",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "444400870723",
+    "uikName": "УИК №296",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "444400870724",
+    "uikName": "УИК №297",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "444400870725",
+    "uikName": "УИК №298",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "444400870726",
+    "uikName": "УИК №299",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "444400870727",
+    "uikName": "УИК №300",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "444400870728",
+    "uikName": "УИК №301",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "444400870729",
+    "uikName": "УИК №302",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "444400870730",
+    "uikName": "УИК №303",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "444402670426",
+    "uikName": "УИК №304",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "444402670427",
+    "uikName": "УИК №305",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "444402670428",
+    "uikName": "УИК №306",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "444402670429",
+    "uikName": "УИК №307",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "444402670430",
+    "uikName": "УИК №308",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "444402670431",
+    "uikName": "УИК №309",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "444402670432",
+    "uikName": "УИК №310",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "444400870731",
+    "uikName": "УИК №311",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "444400870732",
+    "uikName": "УИК №312",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "444400870733",
+    "uikName": "УИК №313",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "444400870734",
+    "uikName": "УИК №314",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "444400870735",
+    "uikName": "УИК №315",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "444400870736",
+    "uikName": "УИК №316",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "444400870737",
+    "uikName": "УИК №317",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "444400870738",
+    "uikName": "УИК №318",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "444400870739",
+    "uikName": "УИК №319",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "444400870740",
+    "uikName": "УИК №320",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "444400870741",
+    "uikName": "УИК №321",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "444400870742",
+    "uikName": "УИК №322",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "444400870743",
+    "uikName": "УИК №323",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "444400870744",
+    "uikName": "УИК №324",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "444400870745",
+    "uikName": "УИК №325",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "444400870746",
+    "uikName": "УИК №326",
     "tikTvd": "244200070604",
-    "tikName": "Костромская городская"
+    "tikName": "Костромская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "444401070474",
+    "uikName": "УИК №327",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "444401070475",
+    "uikName": "УИК №328",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "444401070476",
+    "uikName": "УИК №329",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "444401070477",
+    "uikName": "УИК №330",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "444401070478",
+    "uikName": "УИК №331",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "444401070479",
+    "uikName": "УИК №332",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "444401070480",
+    "uikName": "УИК №333",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "444401070481",
+    "uikName": "УИК №334",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "444401070482",
+    "uikName": "УИК №335",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "444401070483",
+    "uikName": "УИК №336",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "444401070484",
+    "uikName": "УИК №337",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "444401070485",
+    "uikName": "УИК №338",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "444401070486",
+    "uikName": "УИК №339",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "444401070487",
+    "uikName": "УИК №340",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "444401070488",
+    "uikName": "УИК №341",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "444401070489",
+    "uikName": "УИК №342",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 343,
     "uikTvd": "444401070490",
+    "uikName": "УИК №343",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 344,
     "uikTvd": "444401070491",
+    "uikName": "УИК №344",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "444401070492",
+    "uikName": "УИК №345",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "444401070493",
+    "uikName": "УИК №346",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "444401070494",
+    "uikName": "УИК №347",
     "tikTvd": "244200070603",
-    "tikName": "Красносельская"
+    "tikName": "Красносельская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "444401170369",
+    "uikName": "УИК №348",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "444401170370",
+    "uikName": "УИК №349",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "444401170371",
+    "uikName": "УИК №350",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "444401170372",
+    "uikName": "УИК №351",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "444401170373",
+    "uikName": "УИК №352",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "444401170374",
+    "uikName": "УИК №353",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "444401170375",
+    "uikName": "УИК №354",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "444401170376",
+    "uikName": "УИК №355",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "444401170377",
+    "uikName": "УИК №356",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "444401170378",
+    "uikName": "УИК №357",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "444401170379",
+    "uikName": "УИК №358",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "444401170380",
+    "uikName": "УИК №359",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "444401170381",
+    "uikName": "УИК №360",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "444401170382",
+    "uikName": "УИК №361",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "444401170383",
+    "uikName": "УИК №362",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "444401170384",
+    "uikName": "УИК №363",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "444401170385",
+    "uikName": "УИК №364",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "444401170386",
+    "uikName": "УИК №365",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "444401170387",
+    "uikName": "УИК №366",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "444401170388",
+    "uikName": "УИК №367",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "444401170389",
+    "uikName": "УИК №368",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "444401170390",
+    "uikName": "УИК №369",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "444401170391",
+    "uikName": "УИК №370",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "444401170392",
+    "uikName": "УИК №371",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "444401170393",
+    "uikName": "УИК №372",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "444401170394",
+    "uikName": "УИК №373",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "444401170395",
+    "uikName": "УИК №374",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "444401170396",
+    "uikName": "УИК №375",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "444401170397",
+    "uikName": "УИК №376",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "444401170398",
+    "uikName": "УИК №377",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "444401170399",
+    "uikName": "УИК №378",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "444401170400",
+    "uikName": "УИК №379",
     "tikTvd": "244200070610",
-    "tikName": "Макарьевская"
+    "tikName": "Макарьевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "444402970437",
+    "uikName": "УИК №380",
     "tikTvd": "244200070600",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "444402970441",
+    "uikName": "УИК №381",
     "tikTvd": "244200070600",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "444402970439",
+    "uikName": "УИК №382",
     "tikTvd": "244200070600",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "444402970443",
+    "uikName": "УИК №383",
     "tikTvd": "244200070600",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "444402970445",
+    "uikName": "УИК №384",
     "tikTvd": "244200070600",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "444402970446",
+    "uikName": "УИК №385",
     "tikTvd": "244200070600",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "444402970447",
+    "uikName": "УИК №386",
     "tikTvd": "244200070600",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "444402970448",
+    "uikName": "УИК №387",
     "tikTvd": "244200070600",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "444402970449",
+    "uikName": "УИК №388",
     "tikTvd": "244200070600",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "444402970450",
+    "uikName": "УИК №389",
     "tikTvd": "244200070600",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "444402970451",
+    "uikName": "УИК №390",
     "tikTvd": "244200070600",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 391,
     "uikTvd": "444402970452",
+    "uikName": "УИК №391",
     "tikTvd": "244200070600",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "444402970453",
+    "uikName": "УИК №392",
     "tikTvd": "244200070600",
-    "tikName": "Мантуровская"
+    "tikName": "Мантуровская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "444401470468",
+    "uikName": "УИК №393",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "444401470469",
+    "uikName": "УИК №394",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "444401270415",
+    "uikName": "УИК №395",
     "tikTvd": "244200070620",
-    "tikName": "Мантуровская городская"
+    "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "444401270416",
+    "uikName": "УИК №396",
     "tikTvd": "244200070620",
-    "tikName": "Мантуровская городская"
+    "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "444401270417",
+    "uikName": "УИК №397",
     "tikTvd": "244200070620",
-    "tikName": "Мантуровская городская"
+    "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "444401270418",
+    "uikName": "УИК №398",
     "tikTvd": "244200070620",
-    "tikName": "Мантуровская городская"
+    "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "444401270419",
+    "uikName": "УИК №399",
     "tikTvd": "244200070620",
-    "tikName": "Мантуровская городская"
+    "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "444401270420",
+    "uikName": "УИК №400",
     "tikTvd": "244200070620",
-    "tikName": "Мантуровская городская"
+    "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "444401270421",
+    "uikName": "УИК №401",
     "tikTvd": "244200070620",
-    "tikName": "Мантуровская городская"
+    "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "444401270422",
+    "uikName": "УИК №402",
     "tikTvd": "244200070620",
-    "tikName": "Мантуровская городская"
+    "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "444401270423",
+    "uikName": "УИК №403",
     "tikTvd": "244200070620",
-    "tikName": "Мантуровская городская"
+    "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "444401270424",
+    "uikName": "УИК №404",
     "tikTvd": "244200070620",
-    "tikName": "Мантуровская городская"
+    "tikName": "Мантуровская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "444401370397",
+    "uikName": "УИК №405",
     "tikTvd": "244200070618",
-    "tikName": "Межевская"
+    "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "444401370398",
+    "uikName": "УИК №406",
     "tikTvd": "244200070618",
-    "tikName": "Межевская"
+    "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "444401370399",
+    "uikName": "УИК №407",
     "tikTvd": "244200070618",
-    "tikName": "Межевская"
+    "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "444401370400",
+    "uikName": "УИК №408",
     "tikTvd": "244200070618",
-    "tikName": "Межевская"
+    "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "444401370401",
+    "uikName": "УИК №409",
     "tikTvd": "244200070618",
-    "tikName": "Межевская"
+    "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "444401370402",
+    "uikName": "УИК №410",
     "tikTvd": "244200070618",
-    "tikName": "Межевская"
+    "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "444401370403",
+    "uikName": "УИК №411",
     "tikTvd": "244200070618",
-    "tikName": "Межевская"
+    "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "444401370404",
+    "uikName": "УИК №412",
     "tikTvd": "244200070618",
-    "tikName": "Межевская"
+    "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "444401370405",
+    "uikName": "УИК №413",
     "tikTvd": "244200070618",
-    "tikName": "Межевская"
+    "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "444401370406",
+    "uikName": "УИК №414",
     "tikTvd": "244200070618",
-    "tikName": "Межевская"
+    "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "444401370407",
+    "uikName": "УИК №415",
     "tikTvd": "244200070618",
-    "tikName": "Межевская"
+    "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "444401370408",
+    "uikName": "УИК №416",
     "tikTvd": "244200070618",
-    "tikName": "Межевская"
+    "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "444401370409",
+    "uikName": "УИК №417",
     "tikTvd": "244200070618",
-    "tikName": "Межевская"
+    "tikName": "Межевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "444401470470",
+    "uikName": "УИК №418",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "444401470471",
+    "uikName": "УИК №419",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "444401470472",
+    "uikName": "УИК №420",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "444401470473",
+    "uikName": "УИК №421",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "444401470474",
+    "uikName": "УИК №422",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "444401470475",
+    "uikName": "УИК №423",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "444401470476",
+    "uikName": "УИК №424",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "444401470477",
+    "uikName": "УИК №425",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "444401470478",
+    "uikName": "УИК №426",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "444401470479",
+    "uikName": "УИК №427",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "444401470480",
+    "uikName": "УИК №428",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "444401470481",
+    "uikName": "УИК №429",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "444401470482",
+    "uikName": "УИК №430",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "444401470483",
+    "uikName": "УИК №431",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "444401470484",
+    "uikName": "УИК №432",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "444401470485",
+    "uikName": "УИК №433",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "444401470486",
+    "uikName": "УИК №434",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "444401470487",
+    "uikName": "УИК №435",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "444401470488",
+    "uikName": "УИК №436",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "444401470489",
+    "uikName": "УИК №437",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "444401470490",
+    "uikName": "УИК №438",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "444401470491",
+    "uikName": "УИК №439",
     "tikTvd": "244200070617",
-    "tikName": "Нейская"
+    "tikName": "Нейская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "444401570690",
+    "uikName": "УИК №440",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "444401570691",
+    "uikName": "УИК №441",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "444401570692",
+    "uikName": "УИК №442",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "444401570693",
+    "uikName": "УИК №443",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "444401570694",
+    "uikName": "УИК №444",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "444401570695",
+    "uikName": "УИК №445",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "444401570696",
+    "uikName": "УИК №446",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "444401570697",
+    "uikName": "УИК №447",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "444401570698",
+    "uikName": "УИК №448",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "444401570699",
+    "uikName": "УИК №449",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "444401570700",
+    "uikName": "УИК №450",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "444401570701",
+    "uikName": "УИК №451",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "444401570702",
+    "uikName": "УИК №452",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "444401570703",
+    "uikName": "УИК №453",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "444401570704",
+    "uikName": "УИК №454",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "444401570705",
+    "uikName": "УИК №455",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "444401570706",
+    "uikName": "УИК №456",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "444401570707",
+    "uikName": "УИК №457",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "444401570708",
+    "uikName": "УИК №458",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "444401570709",
+    "uikName": "УИК №459",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "444401570710",
+    "uikName": "УИК №460",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "444401570711",
+    "uikName": "УИК №461",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "444401570712",
+    "uikName": "УИК №462",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "444401570713",
+    "uikName": "УИК №463",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "444401570714",
+    "uikName": "УИК №464",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "444401570715",
+    "uikName": "УИК №465",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "444401570716",
+    "uikName": "УИК №466",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "444401570717",
+    "uikName": "УИК №467",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "444401570718",
+    "uikName": "УИК №468",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "444401570719",
+    "uikName": "УИК №469",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 470,
     "uikTvd": "444401570720",
+    "uikName": "УИК №470",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 471,
     "uikTvd": "444401570721",
+    "uikName": "УИК №471",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 472,
     "uikTvd": "444401570722",
+    "uikName": "УИК №472",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 473,
     "uikTvd": "444401570723",
+    "uikName": "УИК №473",
     "tikTvd": "244200070616",
-    "tikName": "Нерехтская"
+    "tikName": "Нерехтская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "444401670414",
+    "uikName": "УИК №474",
     "tikTvd": "244200070613",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "444401670415",
+    "uikName": "УИК №475",
     "tikTvd": "244200070613",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "444401670416",
+    "uikName": "УИК №476",
     "tikTvd": "244200070613",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "444401670417",
+    "uikName": "УИК №477",
     "tikTvd": "244200070613",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "444401670418",
+    "uikName": "УИК №478",
     "tikTvd": "244200070613",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "444401670419",
+    "uikName": "УИК №479",
     "tikTvd": "244200070613",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "444401670420",
+    "uikName": "УИК №480",
     "tikTvd": "244200070613",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "444401670421",
+    "uikName": "УИК №481",
     "tikTvd": "244200070613",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "444401670422",
+    "uikName": "УИК №482",
     "tikTvd": "244200070613",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "444401670423",
+    "uikName": "УИК №483",
     "tikTvd": "244200070613",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "444401670424",
+    "uikName": "УИК №484",
     "tikTvd": "244200070613",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "444401670425",
+    "uikName": "УИК №485",
     "tikTvd": "244200070613",
-    "tikName": "Октябрьская"
+    "tikName": "Октябрьская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "444401770412",
+    "uikName": "УИК №486",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "444401770413",
+    "uikName": "УИК №487",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "444401770414",
+    "uikName": "УИК №488",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "444401770415",
+    "uikName": "УИК №489",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "444401770416",
+    "uikName": "УИК №490",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "444401770417",
+    "uikName": "УИК №491",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "444401770418",
+    "uikName": "УИК №492",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "444401770419",
+    "uikName": "УИК №493",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "444401770420",
+    "uikName": "УИК №494",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "444401770421",
+    "uikName": "УИК №495",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "444401770422",
+    "uikName": "УИК №496",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "444401770423",
+    "uikName": "УИК №497",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "444401770424",
+    "uikName": "УИК №498",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "444401770425",
+    "uikName": "УИК №499",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "444401770426",
+    "uikName": "УИК №500",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "444401770427",
+    "uikName": "УИК №501",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "444401770428",
+    "uikName": "УИК №502",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "444401770429",
+    "uikName": "УИК №503",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "444401770430",
+    "uikName": "УИК №504",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 505,
     "uikTvd": "444401770431",
+    "uikName": "УИК №505",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "444401770432",
+    "uikName": "УИК №506",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "444401770433",
+    "uikName": "УИК №507",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "444401770434",
+    "uikName": "УИК №508",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "444401770435",
+    "uikName": "УИК №509",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "444401770436",
+    "uikName": "УИК №510",
     "tikTvd": "244200070615",
-    "tikName": "Островская"
+    "tikName": "Островская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "444401870501",
+    "uikName": "УИК №511",
     "tikTvd": "244200070614",
-    "tikName": "Павинская"
+    "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "444401870502",
+    "uikName": "УИК №512",
     "tikTvd": "244200070614",
-    "tikName": "Павинская"
+    "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "444401870503",
+    "uikName": "УИК №513",
     "tikTvd": "244200070614",
-    "tikName": "Павинская"
+    "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "444401870504",
+    "uikName": "УИК №514",
     "tikTvd": "244200070614",
-    "tikName": "Павинская"
+    "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "444401870505",
+    "uikName": "УИК №515",
     "tikTvd": "244200070614",
-    "tikName": "Павинская"
+    "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "444401870506",
+    "uikName": "УИК №516",
     "tikTvd": "244200070614",
-    "tikName": "Павинская"
+    "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "444401870507",
+    "uikName": "УИК №517",
     "tikTvd": "244200070614",
-    "tikName": "Павинская"
+    "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "444401870508",
+    "uikName": "УИК №518",
     "tikTvd": "244200070614",
-    "tikName": "Павинская"
+    "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "444401870509",
+    "uikName": "УИК №519",
     "tikTvd": "244200070614",
-    "tikName": "Павинская"
+    "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "444401870510",
+    "uikName": "УИК №520",
     "tikTvd": "244200070614",
-    "tikName": "Павинская"
+    "tikName": "Павинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "444401970461",
+    "uikName": "УИК №521",
     "tikTvd": "244200070611",
-    "tikName": "Парфеньевская"
+    "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "444401970462",
+    "uikName": "УИК №522",
     "tikTvd": "244200070611",
-    "tikName": "Парфеньевская"
+    "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "444401970463",
+    "uikName": "УИК №523",
     "tikTvd": "244200070611",
-    "tikName": "Парфеньевская"
+    "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "444401970464",
+    "uikName": "УИК №524",
     "tikTvd": "244200070611",
-    "tikName": "Парфеньевская"
+    "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "444401970465",
+    "uikName": "УИК №525",
     "tikTvd": "244200070611",
-    "tikName": "Парфеньевская"
+    "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "444401970466",
+    "uikName": "УИК №526",
     "tikTvd": "244200070611",
-    "tikName": "Парфеньевская"
+    "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "444401970467",
+    "uikName": "УИК №527",
     "tikTvd": "244200070611",
-    "tikName": "Парфеньевская"
+    "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "444401970468",
+    "uikName": "УИК №528",
     "tikTvd": "244200070611",
-    "tikName": "Парфеньевская"
+    "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "444401970469",
+    "uikName": "УИК №529",
     "tikTvd": "244200070611",
-    "tikName": "Парфеньевская"
+    "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "444401970470",
+    "uikName": "УИК №530",
     "tikTvd": "244200070611",
-    "tikName": "Парфеньевская"
+    "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "444401970471",
+    "uikName": "УИК №531",
     "tikTvd": "244200070611",
-    "tikName": "Парфеньевская"
+    "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "444401970472",
+    "uikName": "УИК №532",
     "tikTvd": "244200070611",
-    "tikName": "Парфеньевская"
+    "tikName": "Парфеньевская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "444402070427",
+    "uikName": "УИК №533",
     "tikTvd": "244200070621",
-    "tikName": "Поназыревская"
+    "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "444402070429",
+    "uikName": "УИК №534",
     "tikTvd": "244200070621",
-    "tikName": "Поназыревская"
+    "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "444402070430",
+    "uikName": "УИК №535",
     "tikTvd": "244200070621",
-    "tikName": "Поназыревская"
+    "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "444402070431",
+    "uikName": "УИК №536",
     "tikTvd": "244200070621",
-    "tikName": "Поназыревская"
+    "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 537,
     "uikTvd": "444402070432",
+    "uikName": "УИК №537",
     "tikTvd": "244200070621",
-    "tikName": "Поназыревская"
+    "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 538,
     "uikTvd": "444402070433",
+    "uikName": "УИК №538",
     "tikTvd": "244200070621",
-    "tikName": "Поназыревская"
+    "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 539,
     "uikTvd": "444402070434",
+    "uikName": "УИК №539",
     "tikTvd": "244200070621",
-    "tikName": "Поназыревская"
+    "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 540,
     "uikTvd": "444402070435",
+    "uikName": "УИК №540",
     "tikTvd": "244200070621",
-    "tikName": "Поназыревская"
+    "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 541,
     "uikTvd": "444402070436",
+    "uikName": "УИК №541",
     "tikTvd": "244200070621",
-    "tikName": "Поназыревская"
+    "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 542,
     "uikTvd": "444402070437",
+    "uikName": "УИК №542",
     "tikTvd": "244200070621",
-    "tikName": "Поназыревская"
+    "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "444402070438",
+    "uikName": "УИК №543",
     "tikTvd": "244200070621",
-    "tikName": "Поназыревская"
+    "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "444402070439",
+    "uikName": "УИК №544",
     "tikTvd": "244200070621",
-    "tikName": "Поназыревская"
+    "tikName": "Поназыревская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "444402170424",
+    "uikName": "УИК  545",
     "tikTvd": "244200070596",
-    "tikName": "Пыщугская"
+    "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "444402170430",
+    "uikName": "УИК  546",
     "tikTvd": "244200070596",
-    "tikName": "Пыщугская"
+    "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "444402170432",
+    "uikName": "УИК  547",
     "tikTvd": "244200070596",
-    "tikName": "Пыщугская"
+    "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "444402170433",
+    "uikName": "УИК  548",
     "tikTvd": "244200070596",
-    "tikName": "Пыщугская"
+    "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "444402170434",
+    "uikName": "УИК  549",
     "tikTvd": "244200070596",
-    "tikName": "Пыщугская"
+    "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "444402170435",
+    "uikName": "УИК  550",
     "tikTvd": "244200070596",
-    "tikName": "Пыщугская"
+    "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "444402170437",
+    "uikName": "УИК  551",
     "tikTvd": "244200070596",
-    "tikName": "Пыщугская"
+    "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "444402170438",
+    "uikName": "УИК  552",
     "tikTvd": "244200070596",
-    "tikName": "Пыщугская"
+    "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "444402170439",
+    "uikName": "УИК  553",
     "tikTvd": "244200070596",
-    "tikName": "Пыщугская"
+    "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "444402170440",
+    "uikName": "УИК  554",
     "tikTvd": "244200070596",
-    "tikName": "Пыщугская"
+    "tikName": "Пыщугская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "444402270428",
+    "uikName": "УИК №555",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "444402270429",
+    "uikName": "УИК №556",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "444402270430",
+    "uikName": "УИК №557",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "444402270431",
+    "uikName": "УИК №558",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "444402270432",
+    "uikName": "УИК №559",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "444402270433",
+    "uikName": "УИК №560",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "444402270434",
+    "uikName": "УИК №561",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "444402270435",
+    "uikName": "УИК №562",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "444402270436",
+    "uikName": "УИК №563",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "444402270437",
+    "uikName": "УИК №564",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "444402270438",
+    "uikName": "УИК №565",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "444402270439",
+    "uikName": "УИК №566",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "444402270440",
+    "uikName": "УИК №567",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "444402270441",
+    "uikName": "УИК №568",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 569,
     "uikTvd": "444402270442",
+    "uikName": "УИК №569",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 570,
     "uikTvd": "444402270443",
+    "uikName": "УИК №570",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "444402270444",
+    "uikName": "УИК №571",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "444402270445",
+    "uikName": "УИК №572",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "444402270446",
+    "uikName": "УИК №573",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "444402270447",
+    "uikName": "УИК №574",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "444402270448",
+    "uikName": "УИК №575",
     "tikTvd": "244200070597",
-    "tikName": "Солигаличская "
+    "tikName": "Солигаличская ",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "444402370535",
+    "uikName": "УИК №576",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "444402370536",
+    "uikName": "УИК №577",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "444402370537",
+    "uikName": "УИК №578",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "444402370538",
+    "uikName": "УИК №579",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "444402370539",
+    "uikName": "УИК №580",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "444402370540",
+    "uikName": "УИК №581",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "444402370541",
+    "uikName": "УИК №582",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "444402370542",
+    "uikName": "УИК №583",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "444402370543",
+    "uikName": "УИК №584",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "444402370544",
+    "uikName": "УИК №585",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "444402370545",
+    "uikName": "УИК №586",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "444402370546",
+    "uikName": "УИК №587",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "444402370547",
+    "uikName": "УИК №588",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "444402370548",
+    "uikName": "УИК №589",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "444402370549",
+    "uikName": "УИК №590",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 591,
     "uikTvd": "444402370550",
+    "uikName": "УИК №591",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "444402370551",
+    "uikName": "УИК №592",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "444402370552",
+    "uikName": "УИК №593",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "444402370553",
+    "uikName": "УИК №594",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "444402370554",
+    "uikName": "УИК №595",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "444402370555",
+    "uikName": "УИК №596",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "444402370556",
+    "uikName": "УИК №597",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "444402370557",
+    "uikName": "УИК №598",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "444402370558",
+    "uikName": "УИК №599",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "444402370532",
+    "uikName": "УИК №600",
     "tikTvd": "244200070595",
-    "tikName": "Судиславская"
+    "tikName": "Судиславская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "444402470418",
+    "uikName": "УИК №601",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "444402470419",
+    "uikName": "УИК №602",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "444402470420",
+    "uikName": "УИК №603",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "444402470421",
+    "uikName": "УИК №604",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "444402470422",
+    "uikName": "УИК №605",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "444402470423",
+    "uikName": "УИК №606",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "444402470424",
+    "uikName": "УИК №607",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "444402470425",
+    "uikName": "УИК №608",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "444402470426",
+    "uikName": "УИК №609",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "444402470427",
+    "uikName": "УИК №610",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "444402470428",
+    "uikName": "УИК №611",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "444402470429",
+    "uikName": "УИК №612",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "444402470430",
+    "uikName": "УИК №613",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "444402470431",
+    "uikName": "УИК №614",
     "tikTvd": "244200070594",
-    "tikName": "Сусанинская"
+    "tikName": "Сусанинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "444402570431",
+    "uikName": "УИК №615",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "444402570432",
+    "uikName": "УИК №616",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "444402570433",
+    "uikName": "УИК №617",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "444402570434",
+    "uikName": "УИК №618",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "444402570435",
+    "uikName": "УИК №619",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "444402570436",
+    "uikName": "УИК №620",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "444402570437",
+    "uikName": "УИК №621",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "444402570438",
+    "uikName": "УИК №622",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "444402570439",
+    "uikName": "УИК №623",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "444402570440",
+    "uikName": "УИК №624",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "444402570441",
+    "uikName": "УИК №625",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "444402570442",
+    "uikName": "УИК №626",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "444402570443",
+    "uikName": "УИК №627",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "444402570444",
+    "uikName": "УИК №628",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "444402570445",
+    "uikName": "УИК №629",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "444402570446",
+    "uikName": "УИК №630",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "444402570447",
+    "uikName": "УИК №631",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "444402570448",
+    "uikName": "УИК №632",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "444402570449",
+    "uikName": "УИК №633",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "444402570450",
+    "uikName": "УИК №634",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "444402570451",
+    "uikName": "УИК №635",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "444402570452",
+    "uikName": "УИК №636",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "444402570453",
+    "uikName": "УИК №637",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "444402570454",
+    "uikName": "УИК №638",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "444402570455",
+    "uikName": "УИК №639",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "444402570456",
+    "uikName": "УИК №640",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "444402570457",
+    "uikName": "УИК №641",
     "tikTvd": "244200070593",
-    "tikName": "Чухломская"
+    "tikName": "Чухломская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "444403170463",
+    "uikName": "УИК №642",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "444403170464",
+    "uikName": "УИК №643",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "444403170465",
+    "uikName": "УИК №644",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "444403170466",
+    "uikName": "УИК №645",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "444403170467",
+    "uikName": "УИК №646",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "444403170468",
+    "uikName": "УИК №647",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "444403170469",
+    "uikName": "УИК №648",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "444403170470",
+    "uikName": "УИК №649",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "444403170471",
+    "uikName": "УИК №650",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "444403170472",
+    "uikName": "УИК №651",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "444403170473",
+    "uikName": "УИК №652",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "444403170474",
+    "uikName": "УИК №653",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "444403170475",
+    "uikName": "УИК №654",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "444403170476",
+    "uikName": "УИК №655",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "444403170477",
+    "uikName": "УИК №656",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "444403170478",
+    "uikName": "УИК №657",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "444403170479",
+    "uikName": "УИК №658",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "444403170480",
+    "uikName": "УИК №659",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "444403170481",
+    "uikName": "УИК №660",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "444403170482",
+    "uikName": "УИК №661",
     "tikTvd": "244200070599",
-    "tikName": "Шарьинская"
+    "tikName": "Шарьинская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "444402670433",
+    "uikName": "УИК №662",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "444402670434",
+    "uikName": "УИК №663",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "444402670435",
+    "uikName": "УИК №664",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "444402670436",
+    "uikName": "УИК №665",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "444402670437",
+    "uikName": "УИК №666",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "444402670438",
+    "uikName": "УИК №667",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "444402670439",
+    "uikName": "УИК №668",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "444402670440",
+    "uikName": "УИК №669",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "444402670441",
+    "uikName": "УИК №670",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "444402670442",
+    "uikName": "УИК №671",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "444402670443",
+    "uikName": "УИК №672",
     "tikTvd": "244200070592",
-    "tikName": "Шарьинская городская"
+    "tikName": "Шарьинская городская",
+    "regionCode": "44",
+    "regionTvd": "100100095687",
+    "regionName": "Костромская область",
+    "district": {
+      "districtNumber": 95,
+      "oikTvd": "100100095688",
+      "oikName": "Костромской"
+    }
   }
 ] satisfies readonly UikTikRelation[];

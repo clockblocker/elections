@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "469400270533",
+    "uikName": "УИК №32",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -65,8 +74,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "469400270534",
+    "uikName": "УИК №33",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1019,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -119,8 +137,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "469400270535",
+    "uikName": "УИК №34",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 894,
       "Число бюллетеней, полученных участковыми комиссиями": 873,
@@ -173,8 +200,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "469400270536",
+    "uikName": "УИК №35",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1309,
       "Число бюллетеней, полученных участковыми комиссиями": 1283,
@@ -227,8 +263,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "469400270537",
+    "uikName": "УИК №36",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 904,
       "Число бюллетеней, полученных участковыми комиссиями": 873,
@@ -281,8 +326,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "469400270538",
+    "uikName": "УИК №37",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2089,
       "Число бюллетеней, полученных участковыми комиссиями": 2045,
@@ -335,8 +389,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "469400270539",
+    "uikName": "УИК №38",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1295,
       "Число бюллетеней, полученных участковыми комиссиями": 1258,
@@ -389,8 +452,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "469400270540",
+    "uikName": "УИК №39",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1845,
       "Число бюллетеней, полученных участковыми комиссиями": 1773,
@@ -443,8 +515,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "469400270541",
+    "uikName": "УИК №40",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2118,
       "Число бюллетеней, полученных участковыми комиссиями": 2059,
@@ -497,8 +578,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "469400270542",
+    "uikName": "УИК №41",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1494,
       "Число бюллетеней, полученных участковыми комиссиями": 1431,
@@ -551,8 +641,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "469400270543",
+    "uikName": "УИК №42",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2193,
       "Число бюллетеней, полученных участковыми комиссиями": 2135,
@@ -605,8 +704,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "469400270544",
+    "uikName": "УИК №43",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2012,
       "Число бюллетеней, полученных участковыми комиссиями": 1956,
@@ -659,8 +767,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "469400270545",
+    "uikName": "УИК №44",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1312,
       "Число бюллетеней, полученных участковыми комиссиями": 1283,
@@ -713,8 +830,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "469400270546",
+    "uikName": "УИК №45",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2172,
       "Число бюллетеней, полученных участковыми комиссиями": 2125,
@@ -767,8 +893,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "469400270547",
+    "uikName": "УИК №46",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2213,
       "Число бюллетеней, полученных участковыми комиссиями": 2107,
@@ -821,8 +956,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "469400270548",
+    "uikName": "УИК №47",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 793,
       "Число бюллетеней, полученных участковыми комиссиями": 785,
@@ -875,8 +1019,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "469400270549",
+    "uikName": "УИК №48",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 515,
@@ -929,8 +1082,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "469400270550",
+    "uikName": "УИК №49",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 285,
@@ -983,8 +1145,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "469400270551",
+    "uikName": "УИК №50",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 526,
@@ -1037,8 +1208,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "469400270552",
+    "uikName": "УИК №51",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 368,
@@ -1091,8 +1271,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "469400270553",
+    "uikName": "УИК №52",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 487,
       "Число бюллетеней, полученных участковыми комиссиями": 476,
@@ -1145,8 +1334,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "469400270554",
+    "uikName": "УИК №53",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 316,
@@ -1199,8 +1397,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "469400270555",
+    "uikName": "УИК №54",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 557,
@@ -1253,8 +1460,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "469400270556",
+    "uikName": "УИК №55",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -1307,8 +1523,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "469400270557",
+    "uikName": "УИК №56",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 357,
@@ -1361,8 +1586,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "469400270558",
+    "uikName": "УИК №57",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 294,
@@ -1415,8 +1649,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "469400270559",
+    "uikName": "УИК №58",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 111,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -1469,8 +1712,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "469400270560",
+    "uikName": "УИК №59",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -1523,8 +1775,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "469400270561",
+    "uikName": "УИК №60",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 382,
@@ -1577,8 +1838,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "469400270562",
+    "uikName": "УИК №61",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 970,
       "Число бюллетеней, полученных участковыми комиссиями": 947,
@@ -1631,8 +1901,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "469400270563",
+    "uikName": "УИК №62",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 494,
       "Число бюллетеней, полученных участковыми комиссиями": 468,
@@ -1685,8 +1964,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "469400270564",
+    "uikName": "УИК №63",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 346,
@@ -1739,8 +2027,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "469400270565",
+    "uikName": "УИК №64",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 294,
@@ -1793,8 +2090,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "469400270566",
+    "uikName": "УИК №65",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 137,
@@ -1847,8 +2153,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "469400270567",
+    "uikName": "УИК №66",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 318,
@@ -1901,8 +2216,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "469400270568",
+    "uikName": "УИК №67",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 449,
       "Число бюллетеней, полученных участковыми комиссиями": 437,
@@ -1955,8 +2279,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "469400270569",
+    "uikName": "УИК №68",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 473,
       "Число бюллетеней, полученных участковыми комиссиями": 469,
@@ -2009,8 +2342,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "469400270570",
+    "uikName": "УИК №69",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 352,
@@ -2063,8 +2405,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "469400270571",
+    "uikName": "УИК №70",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 427,
@@ -2117,8 +2468,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "469400270572",
+    "uikName": "УИК №71",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 897,
       "Число бюллетеней, полученных участковыми комиссиями": 874,
@@ -2171,8 +2531,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "469400270573",
+    "uikName": "УИК №72",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 237,
@@ -2225,8 +2594,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "469400270574",
+    "uikName": "УИК №73",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 222,
@@ -2279,8 +2657,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "469400270575",
+    "uikName": "УИК №74",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 344,
       "Число бюллетеней, полученных участковыми комиссиями": 343,
@@ -2333,8 +2720,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "469400270576",
+    "uikName": "УИК №75",
     "tikTvd": "369300170484",
     "tikName": "Бежецкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -2387,8 +2783,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "469400470512",
+    "uikName": "УИК №94",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2045,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -2441,8 +2846,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "469400470513",
+    "uikName": "УИК №95",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1326,
       "Число бюллетеней, полученных участковыми комиссиями": 1330,
@@ -2495,8 +2909,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "469400470514",
+    "uikName": "УИК №96",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1000,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -2549,8 +2972,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "469400470515",
+    "uikName": "УИК №97",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -2603,8 +3035,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "469400470516",
+    "uikName": "УИК №98",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2241,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -2657,8 +3098,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "469400470517",
+    "uikName": "УИК №99",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2278,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -2711,8 +3161,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "469400470518",
+    "uikName": "УИК №100",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1362,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -2765,8 +3224,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "469400470519",
+    "uikName": "УИК №101",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 953,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -2819,8 +3287,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "469400470520",
+    "uikName": "УИК №102",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1556,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -2873,8 +3350,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "469400470521",
+    "uikName": "УИК №103",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 835,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -2927,8 +3413,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "469400470522",
+    "uikName": "УИК №104",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1969,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2981,8 +3476,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "469400470523",
+    "uikName": "УИК №105",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 371,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -3035,8 +3539,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "469400470524",
+    "uikName": "УИК №106",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -3089,8 +3602,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "469400470525",
+    "uikName": "УИК №107",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3143,8 +3665,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "469400470526",
+    "uikName": "УИК №108",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 491,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -3197,8 +3728,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "469400470527",
+    "uikName": "УИК №109",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1096,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3251,8 +3791,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "469400470528",
+    "uikName": "УИК №110",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -3305,8 +3854,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "469400470529",
+    "uikName": "УИК №111",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1536,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -3359,8 +3917,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "469400470530",
+    "uikName": "УИК №112",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 439,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -3413,8 +3980,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "469400470531",
+    "uikName": "УИК №113",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -3467,8 +4043,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "469400470532",
+    "uikName": "УИК №114",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -3521,8 +4106,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "469400470533",
+    "uikName": "УИК №115",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 549,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -3575,8 +4169,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "469400470534",
+    "uikName": "УИК №116",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -3629,8 +4232,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "469400470535",
+    "uikName": "УИК №117",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 476,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -3683,8 +4295,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "469400470536",
+    "uikName": "УИК №118",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3737,8 +4358,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "469400470537",
+    "uikName": "УИК №119",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -3791,8 +4421,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "469400470538",
+    "uikName": "УИК №120",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -3845,8 +4484,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "469400470539",
+    "uikName": "УИК №121",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -3899,8 +4547,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "469400470540",
+    "uikName": "УИК №122",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 335,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -3953,8 +4610,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "469400470541",
+    "uikName": "УИК №123",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -4007,8 +4673,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "469400470542",
+    "uikName": "УИК №124",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 148,
@@ -4061,8 +4736,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "469400470543",
+    "uikName": "УИК №125",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 925,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -4115,8 +4799,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "469400470544",
+    "uikName": "УИК №126",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2451,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4169,8 +4862,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "469400470545",
+    "uikName": "УИК №127",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -4223,8 +4925,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "469400470546",
+    "uikName": "УИК №128",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 16,
       "Число бюллетеней, полученных участковыми комиссиями": 19,
@@ -4277,8 +4988,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "469400470547",
+    "uikName": "УИК №129",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2,
       "Число бюллетеней, полученных участковыми комиссиями": 6,
@@ -4331,8 +5051,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "469400470548",
+    "uikName": "УИК №130",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 49,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -4385,8 +5114,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "469400470549",
+    "uikName": "УИК №131",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 18,
       "Число бюллетеней, полученных участковыми комиссиями": 20,
@@ -4439,8 +5177,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "469400470551",
+    "uikName": "УИК №133",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1461,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -4493,8 +5240,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "469400470552",
+    "uikName": "УИК №134",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2381,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4547,8 +5303,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "469400470553",
+    "uikName": "УИК №135",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 826,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -4601,8 +5366,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "469400470509",
+    "uikName": "УИК №136",
     "tikTvd": "369300170486",
     "tikName": "Бологовская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1936,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -4655,8 +5429,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 752,
     "uikTvd": "469400570470",
+    "uikName": "УИК №752",
     "tikTvd": "369300170490",
     "tikName": "Озерная поселковая ",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2553,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -4709,8 +5492,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 753,
     "uikTvd": "469400570471",
+    "uikName": "УИК №753",
     "tikTvd": "369300170490",
     "tikName": "Озерная поселковая ",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2512,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -4763,8 +5555,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 754,
     "uikTvd": "469400570472",
+    "uikName": "УИК №754",
     "tikTvd": "369300170490",
     "tikName": "Озерная поселковая ",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2245,
       "Число бюллетеней, полученных участковыми комиссиями": 2040,
@@ -4817,8 +5618,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 755,
     "uikTvd": "469400570473",
+    "uikName": "УИК №755",
     "tikTvd": "369300170490",
     "tikName": "Озерная поселковая ",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1576,
       "Число бюллетеней, полученных участковыми комиссиями": 1360,
@@ -4871,8 +5681,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "469400670583",
+    "uikName": "УИК №137",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 310,
       "Число бюллетеней, полученных участковыми комиссиями": 311,
@@ -4925,8 +5744,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "469400670584",
+    "uikName": "УИК №138",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -4979,8 +5807,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "469400670585",
+    "uikName": "УИК №139",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -5033,8 +5870,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "469400670586",
+    "uikName": "УИК №140",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -5087,8 +5933,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "469400670587",
+    "uikName": "УИК №141",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -5141,8 +5996,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "469400670588",
+    "uikName": "УИК №142",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -5195,8 +6059,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "469400670589",
+    "uikName": "УИК №143",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -5249,8 +6122,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "469400670590",
+    "uikName": "УИК №144",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 263,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -5303,8 +6185,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "469400670591",
+    "uikName": "УИК №145",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 426,
@@ -5357,8 +6248,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "469400670592",
+    "uikName": "УИК №146",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 408,
@@ -5411,8 +6311,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "469400670593",
+    "uikName": "УИК №147",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 150,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -5465,8 +6374,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "469400670594",
+    "uikName": "УИК №148",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -5519,8 +6437,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "469400670595",
+    "uikName": "УИК №149",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 258,
@@ -5573,8 +6500,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "469400670596",
+    "uikName": "УИК №150",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 244,
@@ -5627,8 +6563,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "469400670597",
+    "uikName": "УИК №151",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 722,
       "Число бюллетеней, полученных участковыми комиссиями": 742,
@@ -5681,8 +6626,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "469400670598",
+    "uikName": "УИК №152",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -5735,8 +6689,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "469400670599",
+    "uikName": "УИК №153",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -5789,8 +6752,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "469400670600",
+    "uikName": "УИК №154",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 214,
@@ -5843,8 +6815,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "469400670601",
+    "uikName": "УИК №155",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 541,
@@ -5897,8 +6878,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "469400670602",
+    "uikName": "УИК №156",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -5951,8 +6941,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "469400670603",
+    "uikName": "УИК №157",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2148,
       "Число бюллетеней, полученных участковыми комиссиями": 2149,
@@ -6005,8 +7004,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "469400670604",
+    "uikName": "УИК №158",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2617,
       "Число бюллетеней, полученных участковыми комиссиями": 2623,
@@ -6059,8 +7067,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "469400670605",
+    "uikName": "УИК №159",
     "tikTvd": "369300170492",
     "tikName": "Весьегонская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2597,
       "Число бюллетеней, полученных участковыми комиссиями": 2611,
@@ -6113,8 +7130,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "469400770625",
+    "uikName": "УИК №160",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -6167,8 +7193,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "469400770626",
+    "uikName": "УИК №161",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -6221,8 +7256,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "469400770627",
+    "uikName": "УИК №162",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 361,
@@ -6275,8 +7319,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "469400770628",
+    "uikName": "УИК №163",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 427,
@@ -6329,8 +7382,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "469400770630",
+    "uikName": "УИК №164",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 511,
@@ -6383,8 +7445,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "469400770631",
+    "uikName": "УИК №165",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 981,
       "Число бюллетеней, полученных участковыми комиссиями": 983,
@@ -6437,8 +7508,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "469400770632",
+    "uikName": "УИК №166",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -6491,8 +7571,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "469400770633",
+    "uikName": "УИК №167",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 158,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -6545,8 +7634,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "469400770634",
+    "uikName": "УИК №168",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1698,
@@ -6599,8 +7697,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "469400770635",
+    "uikName": "УИК №169",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 506,
@@ -6653,8 +7760,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "469400770636",
+    "uikName": "УИК №170",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -6707,8 +7823,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "469400770637",
+    "uikName": "УИК №171",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 372,
@@ -6761,8 +7886,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "469400770638",
+    "uikName": "УИК №172",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 302,
@@ -6815,8 +7949,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "469400770639",
+    "uikName": "УИК №173",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 963,
       "Число бюллетеней, полученных участковыми комиссиями": 947,
@@ -6869,8 +8012,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "469400770640",
+    "uikName": "УИК №174",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -6923,8 +8075,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "469400770641",
+    "uikName": "УИК №175",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 361,
@@ -6977,8 +8138,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "469400770642",
+    "uikName": "УИК №176",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 958,
       "Число бюллетеней, полученных участковыми комиссиями": 946,
@@ -7031,8 +8201,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "469400770643",
+    "uikName": "УИК №177",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 367,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -7085,8 +8264,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "469400770644",
+    "uikName": "УИК №178",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 1931,
@@ -7139,8 +8327,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "469400770645",
+    "uikName": "УИК №179",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -7193,8 +8390,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "469400770646",
+    "uikName": "УИК №180",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -7247,8 +8453,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "469400770647",
+    "uikName": "УИК №181",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 444,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -7301,8 +8516,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "469400770648",
+    "uikName": "УИК №182",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 342,
@@ -7355,8 +8579,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "469400770649",
+    "uikName": "УИК №183",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -7409,8 +8642,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "469400770650",
+    "uikName": "УИК №184",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 333,
@@ -7463,8 +8705,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "469400770651",
+    "uikName": "УИК №185",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -7517,8 +8768,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "469400770652",
+    "uikName": "УИК №186",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1634,
       "Число бюллетеней, полученных участковыми комиссиями": 1623,
@@ -7571,8 +8831,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "469400770653",
+    "uikName": "УИК №187",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1018,
       "Число бюллетеней, полученных участковыми комиссиями": 1015,
@@ -7625,8 +8894,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "469400770654",
+    "uikName": "УИК №188",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 198,
       "Число бюллетеней, полученных участковыми комиссиями": 194,
@@ -7679,8 +8957,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "469400770655",
+    "uikName": "УИК №189",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 875,
       "Число бюллетеней, полученных участковыми комиссиями": 874,
@@ -7733,8 +9020,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "469400770656",
+    "uikName": "УИК №190",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7787,8 +9083,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "469400770657",
+    "uikName": "УИК №191",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 266,
@@ -7841,8 +9146,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "469400770658",
+    "uikName": "УИК №192",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1067,
       "Число бюллетеней, полученных участковыми комиссиями": 1072,
@@ -7895,8 +9209,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "469400770659",
+    "uikName": "УИК №193",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1792,
       "Число бюллетеней, полученных участковыми комиссиями": 1784,
@@ -7949,8 +9272,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "469400770660",
+    "uikName": "УИК №194",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1180,
       "Число бюллетеней, полученных участковыми комиссиями": 1181,
@@ -8003,8 +9335,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "469400770661",
+    "uikName": "УИК №195",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1638,
       "Число бюллетеней, полученных участковыми комиссиями": 1583,
@@ -8057,8 +9398,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "469400770662",
+    "uikName": "УИК №196",
     "tikTvd": "369300170494",
     "tikName": "Вышневолоцкая",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 244,
@@ -8111,8 +9461,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "469401270607",
+    "uikName": "УИК №375",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 408,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8165,8 +9524,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "469401270608",
+    "uikName": "УИК №376",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -8219,8 +9587,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "469401270609",
+    "uikName": "УИК №377",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -8273,8 +9650,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "469401270610",
+    "uikName": "УИК №378",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -8327,8 +9713,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "469401270611",
+    "uikName": "УИК №379",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 278,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -8381,8 +9776,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "469401270612",
+    "uikName": "УИК №380",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -8435,8 +9839,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "469401270613",
+    "uikName": "УИК №381",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -8489,8 +9902,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "469401270614",
+    "uikName": "УИК №382",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8543,8 +9965,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "469401270615",
+    "uikName": "УИК №383",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -8597,8 +10028,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "469401270616",
+    "uikName": "УИК №384",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 132,
@@ -8651,8 +10091,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "469401270617",
+    "uikName": "УИК №385",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -8705,8 +10154,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "469401270618",
+    "uikName": "УИК №386",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -8759,8 +10217,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "469401270619",
+    "uikName": "УИК №387",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 998,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8813,8 +10280,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "469401270620",
+    "uikName": "УИК №388",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -8867,8 +10343,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "469401270621",
+    "uikName": "УИК №389",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -8921,8 +10406,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "469401270622",
+    "uikName": "УИК №390",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -8975,8 +10469,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "469401270623",
+    "uikName": "УИК №391",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 448,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -9029,8 +10532,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "469401270624",
+    "uikName": "УИК №392",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -9083,8 +10595,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "469401270625",
+    "uikName": "УИК №393",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 206,
@@ -9137,8 +10658,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "469401270626",
+    "uikName": "УИК №394",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -9191,8 +10721,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "469401270627",
+    "uikName": "УИК №395",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -9245,8 +10784,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "469401270628",
+    "uikName": "УИК №396",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -9299,8 +10847,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "469401270629",
+    "uikName": "УИК №397",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 82,
       "Число бюллетеней, полученных участковыми комиссиями": 77,
@@ -9353,8 +10910,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "469401270630",
+    "uikName": "УИК №398",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2270,
@@ -9407,8 +10973,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "469401270631",
+    "uikName": "УИК №399",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1282,
       "Число бюллетеней, полученных участковыми комиссиями": 1260,
@@ -9461,8 +11036,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "469401270632",
+    "uikName": "УИК №400",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2884,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -9515,8 +11099,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "469401270633",
+    "uikName": "УИК №401",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2531,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9569,8 +11162,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "469401270634",
+    "uikName": "УИК №402",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2979,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -9623,8 +11225,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "469401270635",
+    "uikName": "УИК №403",
     "tikTvd": "369300170496",
     "tikName": "Калязинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -9677,8 +11288,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "469401370566",
+    "uikName": "УИК №404",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 540,
       "Число бюллетеней, полученных участковыми комиссиями": 464,
@@ -9731,8 +11351,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "469401370567",
+    "uikName": "УИК №405",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1756,
       "Число бюллетеней, полученных участковыми комиссиями": 1465,
@@ -9785,8 +11414,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "469401370568",
+    "uikName": "УИК №406",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1325,
       "Число бюллетеней, полученных участковыми комиссиями": 1265,
@@ -9839,8 +11477,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "469401370569",
+    "uikName": "УИК №407",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2000,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9893,8 +11540,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "469401370570",
+    "uikName": "УИК №408",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2125,
       "Число бюллетеней, полученных участковыми комиссиями": 1965,
@@ -9947,8 +11603,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "469401370571",
+    "uikName": "УИК №409",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1438,
       "Число бюллетеней, полученных участковыми комиссиями": 1365,
@@ -10001,8 +11666,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "469401370572",
+    "uikName": "УИК №410",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1049,
       "Число бюллетеней, полученных участковыми комиссиями": 965,
@@ -10055,8 +11729,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "469401370573",
+    "uikName": "УИК №411",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1491,
       "Число бюллетеней, полученных участковыми комиссиями": 1465,
@@ -10109,8 +11792,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "469401370574",
+    "uikName": "УИК №412",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1394,
       "Число бюллетеней, полученных участковыми комиссиями": 1365,
@@ -10163,8 +11855,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "469401370575",
+    "uikName": "УИК №413",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1582,
       "Число бюллетеней, полученных участковыми комиссиями": 1585,
@@ -10217,8 +11918,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "469401370576",
+    "uikName": "УИК №414",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 41,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -10271,8 +11981,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "469401370577",
+    "uikName": "УИК №415",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -10325,8 +12044,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "469401370578",
+    "uikName": "УИК №416",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -10379,8 +12107,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "469401370579",
+    "uikName": "УИК №417",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 149,
       "Число бюллетеней, полученных участковыми комиссиями": 152,
@@ -10433,8 +12170,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "469401370580",
+    "uikName": "УИК №418",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -10487,8 +12233,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "469401370581",
+    "uikName": "УИК №419",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 887,
       "Число бюллетеней, полученных участковыми комиссиями": 907,
@@ -10541,8 +12296,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "469401370582",
+    "uikName": "УИК №420",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 767,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -10595,8 +12359,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "469401370583",
+    "uikName": "УИК №421",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -10649,8 +12422,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "469401370584",
+    "uikName": "УИК №422",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -10703,8 +12485,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "469401370585",
+    "uikName": "УИК №423",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 458,
@@ -10757,8 +12548,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "469401370586",
+    "uikName": "УИК №424",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 442,
@@ -10811,8 +12611,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "469401370587",
+    "uikName": "УИК №425",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -10865,8 +12674,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "469401370588",
+    "uikName": "УИК №426",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 239,
@@ -10919,8 +12737,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "469401370589",
+    "uikName": "УИК №427",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -10973,8 +12800,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "469401370590",
+    "uikName": "УИК №428",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 306,
@@ -11027,8 +12863,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "469401370591",
+    "uikName": "УИК №429",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 351,
       "Число бюллетеней, полученных участковыми комиссиями": 354,
@@ -11081,8 +12926,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "469401370592",
+    "uikName": "УИК №430",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -11135,8 +12989,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "469401370593",
+    "uikName": "УИК №431",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -11189,8 +13052,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "469401370594",
+    "uikName": "УИК №432",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 483,
       "Число бюллетеней, полученных участковыми комиссиями": 478,
@@ -11243,8 +13115,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "469401370595",
+    "uikName": "УИК №433",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 696,
       "Число бюллетеней, полученных участковыми комиссиями": 704,
@@ -11297,8 +13178,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "469401370596",
+    "uikName": "УИК №434",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 318,
@@ -11351,8 +13241,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "469401370597",
+    "uikName": "УИК №435",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 495,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11405,8 +13304,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "469401370598",
+    "uikName": "УИК №436",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 407,
       "Число бюллетеней, полученных участковыми комиссиями": 411,
@@ -11459,8 +13367,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "469401370599",
+    "uikName": "УИК №437",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 388,
@@ -11513,8 +13430,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "469401370600",
+    "uikName": "УИК №438",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 168,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -11567,8 +13493,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "469401370601",
+    "uikName": "УИК №439",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -11621,8 +13556,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "469401370602",
+    "uikName": "УИК №440",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -11675,8 +13619,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "469401370603",
+    "uikName": "УИК №441",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -11729,8 +13682,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 442,
     "uikTvd": "469401370604",
+    "uikName": "УИК №442",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -11783,8 +13745,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 443,
     "uikTvd": "469401370605",
+    "uikName": "УИК №443",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 151,
       "Число бюллетеней, полученных участковыми комиссиями": 149,
@@ -11837,8 +13808,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 444,
     "uikTvd": "469401370606",
+    "uikName": "УИК №444",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -11891,8 +13871,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 445,
     "uikTvd": "469401370607",
+    "uikName": "УИК №445",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -11945,8 +13934,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 446,
     "uikTvd": "469401370608",
+    "uikName": "УИК №446",
     "tikTvd": "369300170498",
     "tikName": "Кашинская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -11999,8 +13997,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "469401470462",
+    "uikName": "УИК №447",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1576,
       "Число бюллетеней, полученных участковыми комиссиями": 1553,
@@ -12053,8 +14060,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "469401470463",
+    "uikName": "УИК №448",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1504,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -12107,8 +14123,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "469401470464",
+    "uikName": "УИК №449",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -12161,8 +14186,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "469401470465",
+    "uikName": "УИК №450",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 190,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -12215,8 +14249,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "469401470466",
+    "uikName": "УИК №451",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 221,
@@ -12269,8 +14312,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "469401470467",
+    "uikName": "УИК №452",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 241,
@@ -12323,8 +14375,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "469401470468",
+    "uikName": "УИК №453",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -12377,8 +14438,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "469401470469",
+    "uikName": "УИК №454",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -12431,8 +14501,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "469401470470",
+    "uikName": "УИК №455",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -12485,8 +14564,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "469401470471",
+    "uikName": "УИК №456",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -12539,8 +14627,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "469401470472",
+    "uikName": "УИК №457",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 409,
@@ -12593,8 +14690,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "469401470473",
+    "uikName": "УИК №458",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 277,
@@ -12647,8 +14753,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "469401470474",
+    "uikName": "УИК №459",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -12701,8 +14816,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "469401470475",
+    "uikName": "УИК №460",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 403,
       "Число бюллетеней, полученных участковыми комиссиями": 401,
@@ -12755,8 +14879,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "469401470476",
+    "uikName": "УИК №461",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 116,
@@ -12809,8 +14942,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "469401470477",
+    "uikName": "УИК №462",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 209,
@@ -12863,8 +15005,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "469401470478",
+    "uikName": "УИК №463",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 267,
@@ -12917,8 +15068,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "469401470479",
+    "uikName": "УИК №464",
     "tikTvd": "369300170500",
     "tikName": "Кесовогорская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 244,
@@ -12971,8 +15131,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "469401570466",
+    "uikName": "УИК  465",
     "tikTvd": "369300170502",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2454,
       "Число бюллетеней, полученных участковыми комиссиями": 2441,
@@ -13025,8 +15194,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "469401570467",
+    "uikName": "УИК  466",
     "tikTvd": "369300170502",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 484,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -13079,8 +15257,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "469401570468",
+    "uikName": "УИК  467",
     "tikTvd": "369300170502",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1417,
       "Число бюллетеней, полученных участковыми комиссиями": 1418,
@@ -13133,8 +15320,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "469401570469",
+    "uikName": "УИК  468",
     "tikTvd": "369300170502",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 972,
       "Число бюллетеней, полученных участковыми комиссиями": 948,
@@ -13187,8 +15383,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "469401570470",
+    "uikName": "УИК  469",
     "tikTvd": "369300170502",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 331,
       "Число бюллетеней, полученных участковыми комиссиями": 336,
@@ -13241,8 +15446,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "469401570471",
+    "uikName": "УИК  470",
     "tikTvd": "369300170502",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 213,
@@ -13295,8 +15509,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "469401570472",
+    "uikName": "УИК  471",
     "tikTvd": "369300170502",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 383,
@@ -13349,8 +15572,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "469401570473",
+    "uikName": "УИК  472",
     "tikTvd": "369300170502",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 167,
@@ -13403,8 +15635,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "469401570474",
+    "uikName": "УИК  473",
     "tikTvd": "369300170502",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -13457,8 +15698,17 @@ export const duma_2003_uik_428_region_69_part_001 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "469401570475",
+    "uikName": "УИК  474",
     "tikTvd": "369300170502",
     "tikName": "Кимрская",
+    "regionCode": "69",
+    "regionTvd": "100100095771",
+    "regionName": "Тверская область",
+    "district": {
+      "districtNumber": 172,
+      "oikTvd": "100100095772",
+      "oikName": "Бежецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 935,
       "Число бюллетеней, полученных участковыми комиссиями": 936,

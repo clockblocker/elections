@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "430401370803",
+    "uikName": "УИК №296",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 904,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -63,8 +72,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "430401370804",
+    "uikName": "УИК №297",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 621,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -115,8 +133,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "430401370805",
+    "uikName": "УИК №298",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 785,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -167,8 +194,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "430401370806",
+    "uikName": "УИК №299",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1214,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -219,8 +255,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "430401370807",
+    "uikName": "УИК №300",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -271,8 +316,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "430401370808",
+    "uikName": "УИК №301",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1990,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -323,8 +377,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "430401370809",
+    "uikName": "УИК №302",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1575,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -375,8 +438,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "430401370810",
+    "uikName": "УИК №303",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2286,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -427,8 +499,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "430401370811",
+    "uikName": "УИК №304",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -479,8 +560,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "430401370812",
+    "uikName": "УИК №305",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2197,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -531,8 +621,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "430401370813",
+    "uikName": "УИК №306",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2118,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -583,8 +682,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "430401370814",
+    "uikName": "УИК №307",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1277,
       "Число бюллетеней, полученных участковыми комиссиями": 1270,
@@ -635,8 +743,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "430401370815",
+    "uikName": "УИК №308",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1034,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -687,8 +804,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "430401370816",
+    "uikName": "УИК №309",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -739,8 +865,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "430401370817",
+    "uikName": "УИК №310",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 714,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -791,8 +926,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "430401370818",
+    "uikName": "УИК №311",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -843,8 +987,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "430401370819",
+    "uikName": "УИК №312",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1066,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -895,8 +1048,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "430401370820",
+    "uikName": "УИК №313",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -947,8 +1109,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "430401370821",
+    "uikName": "УИК №314",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -999,8 +1170,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "430401370822",
+    "uikName": "УИК №315",
     "tikTvd": "230200072473",
     "tikName": "Наримановская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -1051,8 +1231,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "430400770356",
+    "uikName": "УИК №94",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 353,
@@ -1103,8 +1292,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "430400770357",
+    "uikName": "УИК №95",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1151,
       "Число бюллетеней, полученных участковыми комиссиями": 1186,
@@ -1155,8 +1353,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "430400770358",
+    "uikName": "УИК №96",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1501,
       "Число бюллетеней, полученных участковыми комиссиями": 1538,
@@ -1207,8 +1414,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "430400770359",
+    "uikName": "УИК №97",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 364,
@@ -1259,8 +1475,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "430400770360",
+    "uikName": "УИК №98",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 629,
       "Число бюллетеней, полученных участковыми комиссиями": 653,
@@ -1311,8 +1536,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "430400770361",
+    "uikName": "УИК №99",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 99,
@@ -1363,8 +1597,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "430400770362",
+    "uikName": "УИК №100",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 374,
@@ -1415,8 +1658,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "430400770363",
+    "uikName": "УИК №101",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 904,
       "Число бюллетеней, полученных участковыми комиссиями": 931,
@@ -1467,8 +1719,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "430400770364",
+    "uikName": "УИК №102",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 561,
       "Число бюллетеней, полученных участковыми комиссиями": 578,
@@ -1519,8 +1780,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "430400770365",
+    "uikName": "УИК №103",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2559,
       "Число бюллетеней, полученных участковыми комиссиями": 2569,
@@ -1571,8 +1841,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "430400770366",
+    "uikName": "УИК №104",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1897,
       "Число бюллетеней, полученных участковыми комиссиями": 1916,
@@ -1623,8 +1902,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "430400770367",
+    "uikName": "УИК №105",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1997,
       "Число бюллетеней, полученных участковыми комиссиями": 1978,
@@ -1675,8 +1963,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "430400770368",
+    "uikName": "УИК №106",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 844,
       "Число бюллетеней, полученных участковыми комиссиями": 868,
@@ -1727,8 +2024,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "430400770369",
+    "uikName": "УИК №107",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 639,
       "Число бюллетеней, полученных участковыми комиссиями": 647,
@@ -1779,8 +2085,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "430400770370",
+    "uikName": "УИК №108",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 148,
@@ -1831,8 +2146,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "430400770371",
+    "uikName": "УИК №109",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 744,
       "Число бюллетеней, полученных участковыми комиссиями": 721,
@@ -1883,8 +2207,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "430400770372",
+    "uikName": "УИК №110",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 517,
@@ -1935,8 +2268,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "430400770373",
+    "uikName": "УИК №111",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 806,
       "Число бюллетеней, полученных участковыми комиссиями": 819,
@@ -1987,8 +2329,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "430400770374",
+    "uikName": "УИК №112",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1857,
       "Число бюллетеней, полученных участковыми комиссиями": 1853,
@@ -2039,8 +2390,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "430400770375",
+    "uikName": "УИК №113",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2082,
       "Число бюллетеней, полученных участковыми комиссиями": 2055,
@@ -2091,8 +2451,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "430400770376",
+    "uikName": "УИК №114",
     "tikTvd": "230200072474",
     "tikName": "Енотаевская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 486,
       "Число бюллетеней, полученных участковыми комиссиями": 495,
@@ -2143,8 +2512,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "430400670554",
+    "uikName": "УИК №51",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2594,
       "Число бюллетеней, полученных участковыми комиссиями": 2524,
@@ -2195,8 +2573,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "430400670555",
+    "uikName": "УИК №52",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2112,
       "Число бюллетеней, полученных участковыми комиссиями": 2068,
@@ -2247,8 +2634,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "430400670556",
+    "uikName": "УИК №53",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2387,
       "Число бюллетеней, полученных участковыми комиссиями": 2346,
@@ -2299,8 +2695,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "430400670557",
+    "uikName": "УИК №54",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 665,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -2351,8 +2756,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "430400670558",
+    "uikName": "УИК №55",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -2403,8 +2817,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "430400670559",
+    "uikName": "УИК №56",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1467,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -2455,8 +2878,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "430400670560",
+    "uikName": "УИК №57",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1200,
       "Число бюллетеней, полученных участковыми комиссиями": 1212,
@@ -2507,8 +2939,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "430400670561",
+    "uikName": "УИК №58",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 455,
       "Число бюллетеней, полученных участковыми комиссиями": 449,
@@ -2559,8 +3000,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "430400670562",
+    "uikName": "УИК №59",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 814,
       "Число бюллетеней, полученных участковыми комиссиями": 807,
@@ -2611,8 +3061,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "430400670563",
+    "uikName": "УИК №60",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 354,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -2663,8 +3122,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "430400670564",
+    "uikName": "УИК №61",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 680,
       "Число бюллетеней, полученных участковыми комиссиями": 674,
@@ -2715,8 +3183,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "430400670565",
+    "uikName": "УИК №62",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 433,
@@ -2767,8 +3244,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "430400670566",
+    "uikName": "УИК №63",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1819,
       "Число бюллетеней, полученных участковыми комиссиями": 1851,
@@ -2819,8 +3305,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "430400670567",
+    "uikName": "УИК №64",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 138,
       "Число бюллетеней, полученных участковыми комиссиями": 219,
@@ -2871,8 +3366,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "430400670568",
+    "uikName": "УИК №65",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 324,
       "Число бюллетеней, полученных участковыми комиссиями": 324,
@@ -2923,8 +3427,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "430400670569",
+    "uikName": "УИК №66",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -2975,8 +3488,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "430400670570",
+    "uikName": "УИК №67",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 297,
       "Число бюллетеней, полученных участковыми комиссиями": 294,
@@ -3027,8 +3549,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "430400670571",
+    "uikName": "УИК №68",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 263,
@@ -3079,8 +3610,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "430400670572",
+    "uikName": "УИК №69",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 877,
       "Число бюллетеней, полученных участковыми комиссиями": 875,
@@ -3131,8 +3671,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "430400670573",
+    "uikName": "УИК №70",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -3183,8 +3732,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "430400670574",
+    "uikName": "УИК №71",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 294,
@@ -3235,8 +3793,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "430400670575",
+    "uikName": "УИК №72",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 963,
       "Число бюллетеней, полученных участковыми комиссиями": 965,
@@ -3287,8 +3854,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "430400670576",
+    "uikName": "УИК №73",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -3339,8 +3915,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "430400670577",
+    "uikName": "УИК №74",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 521,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -3391,8 +3976,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "430400670578",
+    "uikName": "УИК №75",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 978,
       "Число бюллетеней, полученных участковыми комиссиями": 978,
@@ -3443,8 +4037,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "430400670579",
+    "uikName": "УИК №76",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3495,8 +4098,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "430400670580",
+    "uikName": "УИК №77",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 641,
       "Число бюллетеней, полученных участковыми комиссиями": 631,
@@ -3547,8 +4159,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "430400670581",
+    "uikName": "УИК №78",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 931,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -3599,8 +4220,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "430400670582",
+    "uikName": "УИК №79",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 428,
       "Число бюллетеней, полученных участковыми комиссиями": 428,
@@ -3651,8 +4281,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "430400670583",
+    "uikName": "УИК №80",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -3703,8 +4342,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "430400670584",
+    "uikName": "УИК №81",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 88,
@@ -3755,8 +4403,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "430400670585",
+    "uikName": "УИК №82",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 837,
       "Число бюллетеней, полученных участковыми комиссиями": 837,
@@ -3807,8 +4464,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "430400670586",
+    "uikName": "УИК №83",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 545,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -3859,8 +4525,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "430400670587",
+    "uikName": "УИК №84",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 540,
       "Число бюллетеней, полученных участковыми комиссиями": 558,
@@ -3911,8 +4586,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "430400670588",
+    "uikName": "УИК №85",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 816,
       "Число бюллетеней, полученных участковыми комиссиями": 827,
@@ -3963,8 +4647,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "430400670589",
+    "uikName": "УИК №86",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2005,
       "Число бюллетеней, полученных участковыми комиссиями": 2013,
@@ -4015,8 +4708,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "430400670590",
+    "uikName": "УИК №87",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1785,
       "Число бюллетеней, полученных участковыми комиссиями": 1790,
@@ -4067,8 +4769,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "430400670591",
+    "uikName": "УИК №88",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1801,
       "Число бюллетеней, полученных участковыми комиссиями": 1795,
@@ -4119,8 +4830,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "430400670592",
+    "uikName": "УИК №89",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1310,
       "Число бюллетеней, полученных участковыми комиссиями": 1319,
@@ -4171,8 +4891,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "430400670593",
+    "uikName": "УИК №90",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -4223,8 +4952,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "430400670594",
+    "uikName": "УИК №91",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 269,
@@ -4275,8 +5013,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "430400670595",
+    "uikName": "УИК №92",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 308,
@@ -4327,8 +5074,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "430400670599",
+    "uikName": "УИК №93",
     "tikTvd": "230200072475",
     "tikName": "Володарская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 451,
@@ -4379,8 +5135,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "430400970535",
+    "uikName": "УИК №127",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1338,
       "Число бюллетеней, полученных участковыми комиссиями": 1346,
@@ -4431,8 +5196,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "430400970536",
+    "uikName": "УИК №128",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2269,
@@ -4483,8 +5257,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "430400970537",
+    "uikName": "УИК №129",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2173,
@@ -4535,8 +5318,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "430400970538",
+    "uikName": "УИК №130",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2620,
       "Число бюллетеней, полученных участковыми комиссиями": 2615,
@@ -4587,8 +5379,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "430400970539",
+    "uikName": "УИК №131",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 321,
       "Число бюллетеней, полученных участковыми комиссиями": 337,
@@ -4639,8 +5440,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "430400970540",
+    "uikName": "УИК №132",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1893,
       "Число бюллетеней, полученных участковыми комиссиями": 1931,
@@ -4691,8 +5501,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "430400970541",
+    "uikName": "УИК №133",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 386,
@@ -4743,8 +5562,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "430400970542",
+    "uikName": "УИК №134",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 389,
       "Число бюллетеней, полученных участковыми комиссиями": 392,
@@ -4795,8 +5623,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "430400970543",
+    "uikName": "УИК №135",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3000,
       "Число бюллетеней, полученных участковыми комиссиями": 2968,
@@ -4847,8 +5684,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "430400970544",
+    "uikName": "УИК №136",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2738,
       "Число бюллетеней, полученных участковыми комиссиями": 2643,
@@ -4899,8 +5745,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "430400970545",
+    "uikName": "УИК №137",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2346,
       "Число бюллетеней, полученных участковыми комиссиями": 2254,
@@ -4951,8 +5806,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "430400970546",
+    "uikName": "УИК №138",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -5003,8 +5867,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "430400970547",
+    "uikName": "УИК №139",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 678,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -5055,8 +5928,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "430400970548",
+    "uikName": "УИК №140",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -5107,8 +5989,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "430400970549",
+    "uikName": "УИК №141",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 455,
       "Число бюллетеней, полученных участковыми комиссиями": 461,
@@ -5159,8 +6050,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "430400970550",
+    "uikName": "УИК №142",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5211,8 +6111,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "430400970551",
+    "uikName": "УИК №143",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 309,
@@ -5263,8 +6172,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "430400970552",
+    "uikName": "УИК №144",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 324,
       "Число бюллетеней, полученных участковыми комиссиями": 617,
@@ -5315,8 +6233,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "430400970553",
+    "uikName": "УИК №145",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 365,
       "Число бюллетеней, полученных участковыми комиссиями": 372,
@@ -5367,8 +6294,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "430400970554",
+    "uikName": "УИК №146",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -5419,8 +6355,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "430400970555",
+    "uikName": "УИК №147",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -5471,8 +6416,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "430400970556",
+    "uikName": "УИК №148",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2056,
       "Число бюллетеней, полученных участковыми комиссиями": 2070,
@@ -5523,8 +6477,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "430400970557",
+    "uikName": "УИК №149",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 196,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -5575,8 +6538,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "430400970558",
+    "uikName": "УИК №150",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 560,
       "Число бюллетеней, полученных участковыми комиссиями": 563,
@@ -5627,8 +6599,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "430400970559",
+    "uikName": "УИК №151",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 599,
@@ -5679,8 +6660,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "430400970560",
+    "uikName": "УИК №152",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 317,
@@ -5731,8 +6721,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "430400970561",
+    "uikName": "УИК №153",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 979,
       "Число бюллетеней, полученных участковыми комиссиями": 955,
@@ -5783,8 +6782,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "430400970562",
+    "uikName": "УИК №154",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1177,
       "Число бюллетеней, полученных участковыми комиссиями": 1096,
@@ -5835,8 +6843,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "430400970563",
+    "uikName": "УИК №155",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 625,
@@ -5887,8 +6904,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "430400970564",
+    "uikName": "УИК №156",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 843,
       "Число бюллетеней, полученных участковыми комиссиями": 841,
@@ -5939,8 +6965,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "430400970565",
+    "uikName": "УИК №157",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 865,
       "Число бюллетеней, полученных участковыми комиссиями": 844,
@@ -5991,8 +7026,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "430400970566",
+    "uikName": "УИК №158",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 461,
       "Число бюллетеней, полученных участковыми комиссиями": 491,
@@ -6043,8 +7087,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "430400970567",
+    "uikName": "УИК №159",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1550,
       "Число бюллетеней, полученных участковыми комиссиями": 1578,
@@ -6095,8 +7148,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "430400970568",
+    "uikName": "УИК №160",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -6147,8 +7209,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "430400970569",
+    "uikName": "УИК №161",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 733,
@@ -6199,8 +7270,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "430400970570",
+    "uikName": "УИК №162",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 554,
       "Число бюллетеней, полученных участковыми комиссиями": 574,
@@ -6251,8 +7331,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "430400970571",
+    "uikName": "УИК №163",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1298,
       "Число бюллетеней, полученных участковыми комиссиями": 1342,
@@ -6303,8 +7392,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "430400970572",
+    "uikName": "УИК №164",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 851,
       "Число бюллетеней, полученных участковыми комиссиями": 872,
@@ -6355,8 +7453,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "430400970573",
+    "uikName": "УИК №165",
     "tikTvd": "230200072476",
     "tikName": "Икрянинская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 435,
@@ -6407,8 +7514,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "430400870440",
+    "uikName": "УИК №115",
     "tikTvd": "230200072477",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2221,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -6459,8 +7575,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "430400870441",
+    "uikName": "УИК №116",
     "tikTvd": "230200072477",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2658,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6511,8 +7636,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "430400870442",
+    "uikName": "УИК №117",
     "tikTvd": "230200072477",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2106,
       "Число бюллетеней, полученных участковыми комиссиями": 2140,
@@ -6563,8 +7697,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "430400870443",
+    "uikName": "УИК №118",
     "tikTvd": "230200072477",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2099,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6615,8 +7758,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "430400870444",
+    "uikName": "УИК №119",
     "tikTvd": "230200072477",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2791,
       "Число бюллетеней, полученных участковыми комиссиями": 2780,
@@ -6667,8 +7819,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "430400870445",
+    "uikName": "УИК №120",
     "tikTvd": "230200072477",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2265,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -6719,8 +7880,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "430400870446",
+    "uikName": "УИК №121",
     "tikTvd": "230200072477",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2151,
       "Число бюллетеней, полученных участковыми комиссиями": 2240,
@@ -6771,8 +7941,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "430400870447",
+    "uikName": "УИК №122",
     "tikTvd": "230200072477",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3038,
       "Число бюллетеней, полученных участковыми комиссиями": 2770,
@@ -6823,8 +8002,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "430400870448",
+    "uikName": "УИК №123",
     "tikTvd": "230200072477",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2873,
       "Число бюллетеней, полученных участковыми комиссиями": 2870,
@@ -6875,8 +8063,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "430400870449",
+    "uikName": "УИК №124",
     "tikTvd": "230200072477",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -6927,8 +8124,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "430400870450",
+    "uikName": "УИК №125",
     "tikTvd": "230200072477",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1167,
       "Число бюллетеней, полученных участковыми комиссиями": 1275,
@@ -6979,8 +8185,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "430400870451",
+    "uikName": "УИК №126",
     "tikTvd": "230200072477",
     "tikName": "Знаменская городская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 842,
       "Число бюллетеней, полученных участковыми комиссиями": 705,
@@ -7031,8 +8246,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "430401670514",
+    "uikName": "УИК №370",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1430,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -7083,8 +8307,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "430401670515",
+    "uikName": "УИК №371",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1600,
       "Число бюллетеней, полученных участковыми комиссиями": 1610,
@@ -7135,8 +8368,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "430401670516",
+    "uikName": "УИК №372",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2261,
       "Число бюллетеней, полученных участковыми комиссиями": 2281,
@@ -7187,8 +8429,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "430401670517",
+    "uikName": "УИК №373",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1060,
       "Число бюллетеней, полученных участковыми комиссиями": 1072,
@@ -7239,8 +8490,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "430401670518",
+    "uikName": "УИК №374",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1255,
       "Число бюллетеней, полученных участковыми комиссиями": 1272,
@@ -7291,8 +8551,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "430401670519",
+    "uikName": "УИК №375",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1058,
       "Число бюллетеней, полученных участковыми комиссиями": 1064,
@@ -7343,8 +8612,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "430401670520",
+    "uikName": "УИК №376",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1012,
       "Число бюллетеней, полученных участковыми комиссиями": 1003,
@@ -7395,8 +8673,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "430401670521",
+    "uikName": "УИК №377",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 758,
       "Число бюллетеней, полученных участковыми комиссиями": 753,
@@ -7447,8 +8734,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "430401670522",
+    "uikName": "УИК №378",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 499,
       "Число бюллетеней, полученных участковыми комиссиями": 509,
@@ -7499,8 +8795,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "430401670523",
+    "uikName": "УИК №379",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 307,
@@ -7551,8 +8856,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "430401670524",
+    "uikName": "УИК №380",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 795,
       "Число бюллетеней, полученных участковыми комиссиями": 821,
@@ -7603,8 +8917,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "430401670525",
+    "uikName": "УИК №381",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 765,
       "Число бюллетеней, полученных участковыми комиссиями": 766,
@@ -7655,8 +8978,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "430401670526",
+    "uikName": "УИК №382",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1348,
       "Число бюллетеней, полученных участковыми комиссиями": 1362,
@@ -7707,8 +9039,17 @@ export const duma_2003_uik_428_region_30_part_003 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "430401670527",
+    "uikName": "УИК №383",
     "tikTvd": "230200072478",
     "tikName": "Черноярская",
+    "regionCode": "30",
+    "regionTvd": "100100095647",
+    "regionName": "Астраханская область",
+    "district": {
+      "districtNumber": 63,
+      "oikTvd": "100100095648",
+      "oikName": "Астраханский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1118,
       "Число бюллетеней, полученных участковыми комиссиями": 1128,

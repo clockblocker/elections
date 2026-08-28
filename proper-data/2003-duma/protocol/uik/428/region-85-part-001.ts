@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "485400166902",
+    "uikName": "УИК  1",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 643,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "485400166903",
+    "uikName": "УИК  2",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "485400166904",
+    "uikName": "УИК  3",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 600,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "485400166905",
+    "uikName": "УИК  4",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 411,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "485400166906",
+    "uikName": "УИК  5",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "485400166907",
+    "uikName": "УИК  6",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "485400166908",
+    "uikName": "УИК  7",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 274,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "485400166909",
+    "uikName": "УИК  8",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 559,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "485400166910",
+    "uikName": "УИК  9",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 719,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "485400166913",
+    "uikName": "УИК  10",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1577,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "485400166914",
+    "uikName": "УИК  11",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1037,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "485400166915",
+    "uikName": "УИК  12",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "485400166916",
+    "uikName": "УИК  13",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "485400166917",
+    "uikName": "УИК  14",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "485400166918",
+    "uikName": "УИК  15",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "485400166919",
+    "uikName": "УИК  16",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "485400166920",
+    "uikName": "УИК  17",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "485400166921",
+    "uikName": "УИК  18",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 532,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "485400166922",
+    "uikName": "УИК  19",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "485400166923",
+    "uikName": "УИК  20",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "485400166924",
+    "uikName": "УИК  21",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 463,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "485400166925",
+    "uikName": "УИК  22",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 627,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "485400166926",
+    "uikName": "УИК  23",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "485400166927",
+    "uikName": "УИК  24",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 613,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "485400166928",
+    "uikName": "УИК  25",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "485400166929",
+    "uikName": "УИК  26",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1404,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "485400166930",
+    "uikName": "УИК  27",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "485400166931",
+    "uikName": "УИК  28",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "485400166932",
+    "uikName": "УИК  29",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "485400166933",
+    "uikName": "УИК  30",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 825,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "485400166934",
+    "uikName": "УИК  31",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 108,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "485400166935",
+    "uikName": "УИК  32",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "485400166936",
+    "uikName": "УИК  33",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "485400166937",
+    "uikName": "УИК  34",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "485400166938",
+    "uikName": "УИК  35",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 109,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "485400166939",
+    "uikName": "УИК  36",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "485400166940",
+    "uikName": "УИК  37",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "485400166941",
+    "uikName": "УИК  38",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 91,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "485400166942",
+    "uikName": "УИК  199",
     "tikTvd": "285200066842",
     "tikName": "Аларская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2054,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "485400266829",
+    "uikName": "УИК №39",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 213,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "485400266830",
+    "uikName": "УИК №40",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "485400266831",
+    "uikName": "УИК №41",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 365,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "485400266832",
+    "uikName": "УИК №42",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "485400266833",
+    "uikName": "УИК №43",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "485400266834",
+    "uikName": "УИК №44",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "485400266835",
+    "uikName": "УИК №45",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 98,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "485400266836",
+    "uikName": "УИК №46",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 483,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "485400266837",
+    "uikName": "УИК №47",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 628,
       "Число бюллетеней, полученных участковыми комиссиями": 575,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "485400266838",
+    "uikName": "УИК №48",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "485400266839",
+    "uikName": "УИК №49",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "485400266840",
+    "uikName": "УИК №50",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 315,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "485400266841",
+    "uikName": "УИК №51",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 355,
       "Число бюллетеней, полученных участковыми комиссиями": 343,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "485400266842",
+    "uikName": "УИК №52",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1978,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "485400266843",
+    "uikName": "УИК №53",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "485400266844",
+    "uikName": "УИК №54",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2706,8 +3201,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "485400266845",
+    "uikName": "УИК №55",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -2755,8 +3259,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "485400266846",
+    "uikName": "УИК №56",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 633,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -2804,8 +3317,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "485400266847",
+    "uikName": "УИК №57",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -2853,8 +3375,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "485400266848",
+    "uikName": "УИК №58",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 125,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -2902,8 +3433,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "485400266849",
+    "uikName": "УИК №59",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -2951,8 +3491,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "485400266850",
+    "uikName": "УИК №60",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 113,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -3000,8 +3549,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "485400266851",
+    "uikName": "УИК №61",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -3049,8 +3607,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "485400266852",
+    "uikName": "УИК №62",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 528,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3098,8 +3665,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "485400266853",
+    "uikName": "УИК №63",
     "tikTvd": "285200066844",
     "tikName": "Баяндаевская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -3147,8 +3723,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "485400366894",
+    "uikName": "УИК №64",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 407,
@@ -3196,8 +3781,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "485400366895",
+    "uikName": "УИК №65",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -3245,8 +3839,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "485400366896",
+    "uikName": "УИК №66",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 188,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3294,8 +3897,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "485400366897",
+    "uikName": "УИК №67",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1105,
       "Число бюллетеней, полученных участковыми комиссиями": 1120,
@@ -3343,8 +3955,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "485400366898",
+    "uikName": "УИК №68",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 551,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -3392,8 +4013,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "485400366899",
+    "uikName": "УИК №69",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -3441,8 +4071,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "485400366900",
+    "uikName": "УИК №70",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -3490,8 +4129,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "485400366901",
+    "uikName": "УИК №71",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 148,
@@ -3539,8 +4187,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "485400366902",
+    "uikName": "УИК №72",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -3588,8 +4245,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "485400366903",
+    "uikName": "УИК №73",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 618,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -3637,8 +4303,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "485400366904",
+    "uikName": "УИК №74",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3686,8 +4361,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "485400366905",
+    "uikName": "УИК №75",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -3735,8 +4419,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "485400366906",
+    "uikName": "УИК №76",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1188,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -3784,8 +4477,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "485400366907",
+    "uikName": "УИК №77",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1858,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -3833,8 +4535,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "485400366908",
+    "uikName": "УИК №78",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 364,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -3882,8 +4593,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "485400366909",
+    "uikName": "УИК №79",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -3931,8 +4651,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "485400366910",
+    "uikName": "УИК №80",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 505,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -3980,8 +4709,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "485400366911",
+    "uikName": "УИК №81",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -4029,8 +4767,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "485400366912",
+    "uikName": "УИК №82",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 710,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -4078,8 +4825,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "485400366913",
+    "uikName": "УИК №83",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -4127,8 +4883,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "485400366914",
+    "uikName": "УИК №84",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1346,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,
@@ -4176,8 +4941,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "485400366915",
+    "uikName": "УИК №85",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 84,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -4225,8 +4999,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "485400366916",
+    "uikName": "УИК №86",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -4274,8 +5057,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "485400366917",
+    "uikName": "УИК №87",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -4323,8 +5115,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "485400366918",
+    "uikName": "УИК №88",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 730,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -4372,8 +5173,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "485400366919",
+    "uikName": "УИК №89",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 634,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -4421,8 +5231,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "485400366920",
+    "uikName": "УИК №90",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 163,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -4470,8 +5289,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "485400366921",
+    "uikName": "УИК №91",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -4519,8 +5347,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "485400366922",
+    "uikName": "УИК №92",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 77,
       "Число бюллетеней, полученных участковыми комиссиями": 90,
@@ -4568,8 +5405,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "485400366923",
+    "uikName": "УИК №93",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 78,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -4617,8 +5463,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "485400366924",
+    "uikName": "УИК №94",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 716,
       "Число бюллетеней, полученных участковыми комиссиями": 765,
@@ -4666,8 +5521,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "485400366925",
+    "uikName": "УИК №95",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -4715,8 +5579,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "485400366926",
+    "uikName": "УИК №96",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 325,
@@ -4764,8 +5637,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "485400366927",
+    "uikName": "УИК №97",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 312,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -4813,8 +5695,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "485400366928",
+    "uikName": "УИК №98",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 641,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4862,8 +5753,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "485400366929",
+    "uikName": "УИК №99",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -4911,8 +5811,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "485400366930",
+    "uikName": "УИК №100",
     "tikTvd": "285200066846",
     "tikName": "Боханская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -4960,8 +5869,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "485400466943",
+    "uikName": "УИК  101",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 481,
       "Число бюллетеней, полученных участковыми комиссиями": 476,
@@ -5009,8 +5927,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "485400466944",
+    "uikName": "УИК  102",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 70,
       "Число бюллетеней, полученных участковыми комиссиями": 89,
@@ -5058,8 +5985,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "485400466945",
+    "uikName": "УИК  103",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -5107,8 +6043,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "485400466946",
+    "uikName": "УИК  104",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -5156,8 +6101,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "485400466947",
+    "uikName": "УИК  105",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 312,
@@ -5205,8 +6159,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "485400466948",
+    "uikName": "УИК  106",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -5254,8 +6217,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "485400466949",
+    "uikName": "УИК  107",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -5303,8 +6275,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "485400466950",
+    "uikName": "УИК  108",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5352,8 +6333,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "485400466951",
+    "uikName": "УИК  109",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 341,
@@ -5401,8 +6391,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "485400466952",
+    "uikName": "УИК  110",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 669,
       "Число бюллетеней, полученных участковыми комиссиями": 672,
@@ -5450,8 +6449,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "485400466953",
+    "uikName": "УИК  111",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 159,
@@ -5499,8 +6507,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "485400466954",
+    "uikName": "УИК  112",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -5548,8 +6565,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "485400466981",
+    "uikName": "УИК  113",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 639,
       "Число бюллетеней, полученных участковыми комиссиями": 631,
@@ -5597,8 +6623,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "485400466955",
+    "uikName": "УИК  114",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 100,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -5646,8 +6681,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "485400466956",
+    "uikName": "УИК  115",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 74,
       "Число бюллетеней, полученных участковыми комиссиями": 73,
@@ -5695,8 +6739,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "485400466957",
+    "uikName": "УИК  116",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 681,
       "Число бюллетеней, полученных участковыми комиссиями": 659,
@@ -5744,8 +6797,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "485400466958",
+    "uikName": "УИК  117",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 308,
@@ -5793,8 +6855,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "485400466959",
+    "uikName": "УИК  118",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -5842,8 +6913,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "485400466960",
+    "uikName": "УИК  119",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 193,
@@ -5891,8 +6971,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "485400466961",
+    "uikName": "УИК  120",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 528,
       "Число бюллетеней, полученных участковыми комиссиями": 521,
@@ -5940,8 +7029,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "485400466962",
+    "uikName": "УИК  121",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 234,
@@ -5989,8 +7087,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "485400466963",
+    "uikName": "УИК  122",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -6038,8 +7145,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "485400466964",
+    "uikName": "УИК  123",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 496,
@@ -6087,8 +7203,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "485400466965",
+    "uikName": "УИК  124",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 119,
@@ -6136,8 +7261,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "485400466966",
+    "uikName": "УИК  125",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -6185,8 +7319,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "485400466967",
+    "uikName": "УИК  126",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1088,
       "Число бюллетеней, полученных участковыми комиссиями": 1008,
@@ -6234,8 +7377,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "485400466968",
+    "uikName": "УИК  127",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1075,
       "Число бюллетеней, полученных участковыми комиссиями": 994,
@@ -6283,8 +7435,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "485400466969",
+    "uikName": "УИК  128",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 599,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -6332,8 +7493,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "485400466970",
+    "uikName": "УИК  129",
     "tikTvd": "285200066850",
     "tikName": "Нукутская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -6381,8 +7551,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "485400566864",
+    "uikName": "УИК  130",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 73,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -6430,8 +7609,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "485400566865",
+    "uikName": "УИК  131",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -6479,8 +7667,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "485400566866",
+    "uikName": "УИК  132",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 663,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -6528,8 +7725,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "485400566867",
+    "uikName": "УИК  133",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -6577,8 +7783,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "485400566868",
+    "uikName": "УИК  134",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -6626,8 +7841,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "485400566869",
+    "uikName": "УИК  135",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -6675,8 +7899,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "485400566870",
+    "uikName": "УИК  136",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -6724,8 +7957,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "485400566871",
+    "uikName": "УИК  137",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -6773,8 +8015,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "485400566872",
+    "uikName": "УИК  138",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 273,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -6822,8 +8073,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "485400566873",
+    "uikName": "УИК  139",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -6871,8 +8131,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "485400566874",
+    "uikName": "УИК  140",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 709,
       "Число бюллетеней, полученных участковыми комиссиями": 748,
@@ -6920,8 +8189,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "485400566875",
+    "uikName": "УИК  141",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 940,
       "Число бюллетеней, полученных участковыми комиссиями": 938,
@@ -6969,8 +8247,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "485400566876",
+    "uikName": "УИК  142",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 915,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7018,8 +8305,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "485400566877",
+    "uikName": "УИК  143",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 386,
@@ -7067,8 +8363,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "485400566878",
+    "uikName": "УИК  144",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 685,
@@ -7116,8 +8421,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "485400566879",
+    "uikName": "УИК  145",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 472,
       "Число бюллетеней, полученных участковыми комиссиями": 474,
@@ -7165,8 +8479,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "485400566880",
+    "uikName": "УИК  146",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 254,
@@ -7214,8 +8537,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "485400566881",
+    "uikName": "УИК  147",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 414,
@@ -7263,8 +8595,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "485400566882",
+    "uikName": "УИК  148",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -7312,8 +8653,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "485400566883",
+    "uikName": "УИК  149",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 735,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -7361,8 +8711,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "485400566884",
+    "uikName": "УИК  150",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -7410,8 +8769,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "485400566885",
+    "uikName": "УИК  151",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -7459,8 +8827,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "485400566886",
+    "uikName": "УИК  152",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1221,
       "Число бюллетеней, полученных участковыми комиссиями": 1212,
@@ -7508,8 +8885,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "485400566887",
+    "uikName": "УИК  153",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 648,
@@ -7557,8 +8943,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "485400566888",
+    "uikName": "УИК  154",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 446,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -7606,8 +9001,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "485400566889",
+    "uikName": "УИК  155",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -7655,8 +9059,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "485400566890",
+    "uikName": "УИК  156",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 592,
       "Число бюллетеней, полученных участковыми комиссиями": 578,
@@ -7704,8 +9117,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "485400566891",
+    "uikName": "УИК  157",
     "tikTvd": "285200066852",
     "tikName": "Осинская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 94,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -7753,8 +9175,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "485400666886",
+    "uikName": "УИК №158",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1779,
       "Число бюллетеней, полученных участковыми комиссиями": 1635,
@@ -7802,8 +9233,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "485400666887",
+    "uikName": "УИК №159",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1026,
       "Число бюллетеней, полученных участковыми комиссиями": 955,
@@ -7851,8 +9291,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "485400666888",
+    "uikName": "УИК №160",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 469,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -7900,8 +9349,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "485400666889",
+    "uikName": "УИК №161",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 914,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -7949,8 +9407,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "485400666890",
+    "uikName": "УИК №162",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2008,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -7998,8 +9465,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "485400666891",
+    "uikName": "УИК №163",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1853,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -8047,8 +9523,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "485400666892",
+    "uikName": "УИК №164",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1771,
       "Число бюллетеней, полученных участковыми комиссиями": 1630,
@@ -8096,8 +9581,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "485400666893",
+    "uikName": "УИК №165",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 496,
       "Число бюллетеней, полученных участковыми комиссиями": 495,
@@ -8145,8 +9639,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "485400666894",
+    "uikName": "УИК №166",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -8194,8 +9697,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "485400666895",
+    "uikName": "УИК №167",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 283,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8243,8 +9755,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "485400666896",
+    "uikName": "УИК №168",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 143,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -8292,8 +9813,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "485400666897",
+    "uikName": "УИК №169",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 692,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -8341,8 +9871,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "485400666898",
+    "uikName": "УИК №170",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 588,
       "Число бюллетеней, полученных участковыми комиссиями": 576,
@@ -8390,8 +9929,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "485400666899",
+    "uikName": "УИК №171",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -8439,8 +9987,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "485400666900",
+    "uikName": "УИК №172",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 357,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -8488,8 +10045,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "485400666901",
+    "uikName": "УИК №173",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 311,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8537,8 +10103,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "485400666902",
+    "uikName": "УИК №174",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 394,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -8586,8 +10161,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "485400666903",
+    "uikName": "УИК №175",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 495,
@@ -8635,8 +10219,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "485400666904",
+    "uikName": "УИК №176",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -8684,8 +10277,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "485400666905",
+    "uikName": "УИК №177",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -8733,8 +10335,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "485400666906",
+    "uikName": "УИК №178",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -8782,8 +10393,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "485400666907",
+    "uikName": "УИК №179",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -8831,8 +10451,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "485400666908",
+    "uikName": "УИК №180",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -8880,8 +10509,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "485400666909",
+    "uikName": "УИК №181",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -8929,8 +10567,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "485400666910",
+    "uikName": "УИК №182",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 576,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -8978,8 +10625,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "485400666911",
+    "uikName": "УИК №183",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -9027,8 +10683,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "485400666912",
+    "uikName": "УИК №184",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -9076,8 +10741,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "485400666913",
+    "uikName": "УИК №185",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -9125,8 +10799,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "485400666914",
+    "uikName": "УИК №186",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -9174,8 +10857,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "485400666915",
+    "uikName": "УИК №187",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -9223,8 +10915,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "485400666916",
+    "uikName": "УИК №188",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 720,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -9272,8 +10973,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "485400666917",
+    "uikName": "УИК №189",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -9321,8 +11031,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "485400666918",
+    "uikName": "УИК №190",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -9370,8 +11089,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "485400666919",
+    "uikName": "УИК №191",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -9419,8 +11147,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "485400666920",
+    "uikName": "УИК №192",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -9468,8 +11205,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "485400666921",
+    "uikName": "УИК №193",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -9517,8 +11263,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "485400666922",
+    "uikName": "УИК №194",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -9566,8 +11321,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "485400666923",
+    "uikName": "УИК №195",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -9615,8 +11379,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "485400666924",
+    "uikName": "УИК №196",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -9664,8 +11437,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "485400666925",
+    "uikName": "УИК №197",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -9713,8 +11495,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "485400666926",
+    "uikName": "УИК №198",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -9762,8 +11553,17 @@ export const duma_2003_uik_428_region_85_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "485400666927",
+    "uikName": "УИК №200",
     "tikTvd": "285200066854",
     "tikName": "Эхирит-Булагатская",
+    "regionCode": "85",
+    "regionTvd": "100100095779",
+    "regionName": "Усть-Ордынский Бурятский автономный округ",
+    "district": {
+      "districtNumber": 220,
+      "oikTvd": "100100095780",
+      "oikName": "Усть-Ордынский Бурятский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 130,

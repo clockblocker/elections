@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "466406566805",
+    "uikName": "УИК №67",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 569,
       "Число бюллетеней, полученных участковыми комиссиями": 566,
@@ -63,8 +72,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "466406566806",
+    "uikName": "УИК №68",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1168,
       "Число бюллетеней, полученных участковыми комиссиями": 1085,
@@ -115,8 +133,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "466406566807",
+    "uikName": "УИК №69",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1485,
       "Число бюллетеней, полученных участковыми комиссиями": 1465,
@@ -167,8 +194,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "466406566808",
+    "uikName": "УИК №70",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2823,
       "Число бюллетеней, полученных участковыми комиссиями": 2770,
@@ -219,8 +255,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "466406566809",
+    "uikName": "УИК №71",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1357,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -271,8 +316,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "466406566810",
+    "uikName": "УИК №72",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1485,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -323,8 +377,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "466406566811",
+    "uikName": "УИК №73",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1608,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -375,8 +438,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "466406566812",
+    "uikName": "УИК №74",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1906,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -427,8 +499,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "466406566813",
+    "uikName": "УИК №75",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1425,
       "Число бюллетеней, полученных участковыми комиссиями": 1414,
@@ -479,8 +560,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "466406566814",
+    "uikName": "УИК №76",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2675,
       "Число бюллетеней, полученных участковыми комиссиями": 2635,
@@ -531,8 +621,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "466406566815",
+    "uikName": "УИК №77",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2609,
       "Число бюллетеней, полученных участковыми комиссиями": 2615,
@@ -583,8 +682,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "466406566816",
+    "uikName": "УИК №78",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1125,
       "Число бюллетеней, полученных участковыми комиссиями": 1095,
@@ -635,8 +743,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "466406566817",
+    "uikName": "УИК №79",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1464,
       "Число бюллетеней, полученных участковыми комиссиями": 1435,
@@ -687,8 +804,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "466406566818",
+    "uikName": "УИК №80",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1385,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -739,8 +865,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "466406566819",
+    "uikName": "УИК №81",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1285,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -791,8 +926,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "466406566820",
+    "uikName": "УИК №82",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1132,
       "Число бюллетеней, полученных участковыми комиссиями": 1135,
@@ -843,8 +987,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "466406566821",
+    "uikName": "УИК №83",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -895,8 +1048,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "466406566822",
+    "uikName": "УИК №84",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 551,
       "Число бюллетеней, полученных участковыми комиссиями": 555,
@@ -947,8 +1109,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "466406566823",
+    "uikName": "УИК №85",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 115,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -999,8 +1170,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "466406566824",
+    "uikName": "УИК №86",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -1051,8 +1231,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "466406566825",
+    "uikName": "УИК №87",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 864,
       "Число бюллетеней, полученных участковыми комиссиями": 865,
@@ -1103,8 +1292,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "466406566826",
+    "uikName": "УИК №88",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 762,
       "Число бюллетеней, полученных участковыми комиссиями": 764,
@@ -1155,8 +1353,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "466406566827",
+    "uikName": "УИК №89",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1892,
       "Число бюллетеней, полученных участковыми комиссиями": 1885,
@@ -1207,8 +1414,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "466406566828",
+    "uikName": "УИК №90",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 612,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -1259,8 +1475,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "466406566829",
+    "uikName": "УИК №91",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -1311,8 +1536,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "466406566830",
+    "uikName": "УИК №92",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 474,
       "Число бюллетеней, полученных участковыми комиссиями": 475,
@@ -1363,8 +1597,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "466406566831",
+    "uikName": "УИК №93",
     "tikTvd": "366300766743",
     "tikName": "Артемовская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -1415,8 +1658,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "466400666663",
+    "uikName": "УИК №187",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1243,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1467,8 +1719,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "466400666667",
+    "uikName": "УИК №188",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1555,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -1519,8 +1780,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "466400666668",
+    "uikName": "УИК №189",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1496,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1571,8 +1841,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "466400666669",
+    "uikName": "УИК №190",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 864,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -1623,8 +1902,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "466400666670",
+    "uikName": "УИК №191",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 691,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -1675,8 +1963,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "466400666671",
+    "uikName": "УИК №192",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 537,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -1727,8 +2024,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "466400666672",
+    "uikName": "УИК №193",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 712,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -1779,8 +2085,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "466400666673",
+    "uikName": "УИК №194",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -1831,8 +2146,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "466400666674",
+    "uikName": "УИК №195",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 973,
       "Число бюллетеней, полученных участковыми комиссиями": 960,
@@ -1883,8 +2207,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "466400666675",
+    "uikName": "УИК №196",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -1935,8 +2268,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "466400666676",
+    "uikName": "УИК №197",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -1987,8 +2329,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "466400666677",
+    "uikName": "УИК №198",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 92,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2039,8 +2390,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "466400666678",
+    "uikName": "УИК №199",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 783,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -2091,8 +2451,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "466400666679",
+    "uikName": "УИК №200",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -2143,8 +2512,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "466400666680",
+    "uikName": "УИК №201",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 787,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -2195,8 +2573,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "466400666681",
+    "uikName": "УИК №202",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 179,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -2247,8 +2634,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "466400666682",
+    "uikName": "УИК №203",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 580,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -2299,8 +2695,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "466400666683",
+    "uikName": "УИК №204",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -2351,8 +2756,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "466400666684",
+    "uikName": "УИК №205",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -2403,8 +2817,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "466400666685",
+    "uikName": "УИК №206",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 678,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -2455,8 +2878,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "466400666686",
+    "uikName": "УИК №207",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 830,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -2507,8 +2939,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "466400666665",
+    "uikName": "УИК №208",
     "tikTvd": "366300766744",
     "tikName": "Байкаловская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -2559,8 +3000,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "466400266736",
+    "uikName": "УИК №347",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 531,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -2611,8 +3061,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "466400266737",
+    "uikName": "УИК №348",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -2663,8 +3122,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "466400266738",
+    "uikName": "УИК №349",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 558,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -2715,8 +3183,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "466400266739",
+    "uikName": "УИК №350",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -2767,8 +3244,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "466400266740",
+    "uikName": "УИК №351",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -2819,8 +3305,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "466400266741",
+    "uikName": "УИК №352",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -2871,8 +3366,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "466400266742",
+    "uikName": "УИК №353",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 756,
       "Число бюллетеней, полученных участковыми комиссиями": 695,
@@ -2923,8 +3427,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "466400266743",
+    "uikName": "УИК №354",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -2975,8 +3488,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "466400266744",
+    "uikName": "УИК №355",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1109,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3027,8 +3549,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "466400266745",
+    "uikName": "УИК №356",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -3079,8 +3610,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "466400266746",
+    "uikName": "УИК №357",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3131,8 +3671,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "466400266747",
+    "uikName": "УИК №358",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 936,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -3183,8 +3732,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "466400266748",
+    "uikName": "УИК №359",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -3235,8 +3793,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "466400266749",
+    "uikName": "УИК №360",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 210,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3287,8 +3854,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "466400266750",
+    "uikName": "УИК №361",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -3339,8 +3915,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "466400266751",
+    "uikName": "УИК №362",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -3391,8 +3976,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "466400266752",
+    "uikName": "УИК №363",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -3443,8 +4037,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "466400266753",
+    "uikName": "УИК №364",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -3495,8 +4098,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "466400266754",
+    "uikName": "УИК №365",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -3547,8 +4159,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 366,
     "uikTvd": "466400266755",
+    "uikName": "УИК №366",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 528,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3599,8 +4220,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 367,
     "uikTvd": "466400266756",
+    "uikName": "УИК №367",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1219,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -3651,8 +4281,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 368,
     "uikTvd": "466400266757",
+    "uikName": "УИК №368",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -3703,8 +4342,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 369,
     "uikTvd": "466400266758",
+    "uikName": "УИК №369",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 717,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -3755,8 +4403,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 370,
     "uikTvd": "466400266759",
+    "uikName": "УИК №370",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 332,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -3807,8 +4464,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 371,
     "uikTvd": "466400266760",
+    "uikName": "УИК №371",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -3859,8 +4525,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 372,
     "uikTvd": "466400266761",
+    "uikName": "УИК №372",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 669,
       "Число бюллетеней, полученных участковыми комиссиями": 619,
@@ -3911,8 +4586,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 373,
     "uikTvd": "466400266762",
+    "uikName": "УИК №373",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -3963,8 +4647,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 374,
     "uikTvd": "466400266763",
+    "uikName": "УИК №374",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 846,
       "Число бюллетеней, полученных участковыми комиссиями": 818,
@@ -4015,8 +4708,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 375,
     "uikTvd": "466400266764",
+    "uikName": "УИК №375",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 886,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -4067,8 +4769,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 376,
     "uikTvd": "466400266765",
+    "uikName": "УИК №376",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 539,
@@ -4119,8 +4830,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 377,
     "uikTvd": "466400266766",
+    "uikName": "УИК №377",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 680,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -4171,8 +4891,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 378,
     "uikTvd": "466400266767",
+    "uikName": "УИК №378",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -4223,8 +4952,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 379,
     "uikTvd": "466400266768",
+    "uikName": "УИК №379",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -4275,8 +5013,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 380,
     "uikTvd": "466400266769",
+    "uikName": "УИК №380",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 266,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -4327,8 +5074,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 381,
     "uikTvd": "466400266770",
+    "uikName": "УИК №381",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -4379,8 +5135,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 382,
     "uikTvd": "466400266771",
+    "uikName": "УИК №382",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 471,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -4431,8 +5196,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 383,
     "uikTvd": "466400266772",
+    "uikName": "УИК №383",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -4483,8 +5257,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 384,
     "uikTvd": "466400266773",
+    "uikName": "УИК №384",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -4535,8 +5318,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 385,
     "uikTvd": "466400266774",
+    "uikName": "УИК №385",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 906,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -4587,8 +5379,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 386,
     "uikTvd": "466400266775",
+    "uikName": "УИК №386",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4639,8 +5440,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 387,
     "uikTvd": "466400266776",
+    "uikName": "УИК №387",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -4691,8 +5501,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 388,
     "uikTvd": "466400266777",
+    "uikName": "УИК №388",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 627,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4743,8 +5562,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 389,
     "uikTvd": "466400266778",
+    "uikName": "УИК №389",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -4795,8 +5623,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 390,
     "uikTvd": "466400266779",
+    "uikName": "УИК №390",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -4847,8 +5684,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 391,
     "uikTvd": "466400266780",
+    "uikName": "УИК №391",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 140,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -4899,8 +5745,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 392,
     "uikTvd": "466400266781",
+    "uikName": "УИК №392",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 131,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -4951,8 +5806,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 393,
     "uikTvd": "466400266782",
+    "uikName": "УИК №393",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 555,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -5003,8 +5867,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 394,
     "uikTvd": "466400266783",
+    "uikName": "УИК №394",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -5055,8 +5928,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "466400266784",
+    "uikName": "УИК №395",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 124,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -5107,8 +5989,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "466400266785",
+    "uikName": "УИК №396",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 588,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5159,8 +6050,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "466400266786",
+    "uikName": "УИК №397",
     "tikTvd": "366300766746",
     "tikName": "Ирбитская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1349,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -5211,8 +6111,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1825,
     "uikTvd": "466402466719",
+    "uikName": "УИК №1825",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2102,
       "Число бюллетеней, полученных участковыми комиссиями": 2285,
@@ -5263,8 +6172,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1826,
     "uikTvd": "466402466720",
+    "uikName": "УИК №1826",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2053,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5315,8 +6233,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1827,
     "uikTvd": "466402466721",
+    "uikName": "УИК №1827",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2280,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5367,8 +6294,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1828,
     "uikTvd": "466402466722",
+    "uikName": "УИК №1828",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2039,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5419,8 +6355,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1829,
     "uikTvd": "466402466723",
+    "uikName": "УИК №1829",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2257,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5471,8 +6416,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1830,
     "uikTvd": "466402466724",
+    "uikName": "УИК №1830",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2275,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -5523,8 +6477,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1831,
     "uikTvd": "466402466725",
+    "uikName": "УИК №1831",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2391,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5575,8 +6538,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1832,
     "uikTvd": "466402466726",
+    "uikName": "УИК №1832",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2565,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5627,8 +6599,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1833,
     "uikTvd": "466402466727",
+    "uikName": "УИК №1833",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1985,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5679,8 +6660,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1834,
     "uikTvd": "466402466728",
+    "uikName": "УИК №1834",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2181,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5731,8 +6721,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1835,
     "uikTvd": "466402466729",
+    "uikName": "УИК №1835",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2030,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5783,8 +6782,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1836,
     "uikTvd": "466402466730",
+    "uikName": "УИК №1836",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2386,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5835,8 +6843,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1837,
     "uikTvd": "466402466731",
+    "uikName": "УИК №1837",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2790,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -5887,8 +6904,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1838,
     "uikTvd": "466402466732",
+    "uikName": "УИК №1838",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2954,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -5939,8 +6965,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1839,
     "uikTvd": "466402466717",
+    "uikName": "УИК №1839",
     "tikTvd": "366300766747",
     "tikName": "Ирбитская городская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2660,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -5991,8 +7026,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 754,
     "uikTvd": "466405266644",
+    "uikName": "УИК №754",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2213,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6043,8 +7087,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 755,
     "uikTvd": "466405266645",
+    "uikName": "УИК №755",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2042,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6095,8 +7148,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 756,
     "uikTvd": "466405266646",
+    "uikName": "УИК №756",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2095,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6147,8 +7209,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 757,
     "uikTvd": "466405266647",
+    "uikName": "УИК №757",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2586,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6199,8 +7270,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 758,
     "uikTvd": "466405266648",
+    "uikName": "УИК №758",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2809,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6251,8 +7331,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 759,
     "uikTvd": "466405266649",
+    "uikName": "УИК №759",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 988,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -6303,8 +7392,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 760,
     "uikTvd": "466405266650",
+    "uikName": "УИК №760",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2546,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6355,8 +7453,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 761,
     "uikTvd": "466405266651",
+    "uikName": "УИК №761",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1292,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6407,8 +7514,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 762,
     "uikTvd": "466405266652",
+    "uikName": "УИК №762",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1171,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6459,8 +7575,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 763,
     "uikTvd": "466405266653",
+    "uikName": "УИК №763",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2235,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6511,8 +7636,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 764,
     "uikTvd": "466405266654",
+    "uikName": "УИК №764",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1460,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6563,8 +7697,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 765,
     "uikTvd": "466405266655",
+    "uikName": "УИК №765",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2241,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6615,8 +7758,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 766,
     "uikTvd": "466405266656",
+    "uikName": "УИК №766",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1893,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6667,8 +7819,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 767,
     "uikTvd": "466405266657",
+    "uikName": "УИК №767",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1505,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6719,8 +7880,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 768,
     "uikTvd": "466405266658",
+    "uikName": "УИК №768",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1955,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -6771,8 +7941,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 769,
     "uikTvd": "466405266659",
+    "uikName": "УИК №769",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1846,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6823,8 +8002,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 770,
     "uikTvd": "466405266660",
+    "uikName": "УИК №770",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -6875,8 +8063,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 771,
     "uikTvd": "466405266661",
+    "uikName": "УИК №771",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6927,8 +8124,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 772,
     "uikTvd": "466405266662",
+    "uikName": "УИК №772",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 684,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -6979,8 +8185,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 773,
     "uikTvd": "466405266663",
+    "uikName": "УИК №773",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -7031,8 +8246,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 774,
     "uikTvd": "466405266664",
+    "uikName": "УИК №774",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1013,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7083,8 +8307,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 775,
     "uikTvd": "466405266665",
+    "uikName": "УИК №775",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 153,
       "Число бюллетеней, полученных участковыми комиссиями": 157,
@@ -7135,8 +8368,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "466405266666",
+    "uikName": "УИК №776",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 526,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7187,8 +8429,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "466405266667",
+    "uikName": "УИК №777",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 135,
@@ -7239,8 +8490,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "466405266668",
+    "uikName": "УИК №778",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 486,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -7291,8 +8551,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "466405266669",
+    "uikName": "УИК №779",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 881,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7343,8 +8612,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "466405266670",
+    "uikName": "УИК №780",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -7395,8 +8673,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "466405266671",
+    "uikName": "УИК №781",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 971,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -7447,8 +8734,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "466405266672",
+    "uikName": "УИК №782",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 181,
       "Число бюллетеней, полученных участковыми комиссиями": 177,
@@ -7499,8 +8795,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "466405266673",
+    "uikName": "УИК №783",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 561,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -7551,8 +8856,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "466405266674",
+    "uikName": "УИК №784",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1187,
       "Число бюллетеней, полученных участковыми комиссиями": 1180,
@@ -7603,8 +8917,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "466405266675",
+    "uikName": "УИК №785",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 103,
@@ -7655,8 +8978,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "466405266676",
+    "uikName": "УИК №786",
     "tikTvd": "366300766748",
     "tikName": "Режевская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -7707,8 +9039,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 815,
     "uikTvd": "466405566629",
+    "uikName": "УИК №815",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -7759,8 +9100,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 816,
     "uikTvd": "466405566630",
+    "uikName": "УИК №816",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 609,
       "Число бюллетеней, полученных участковыми комиссиями": 605,
@@ -7811,8 +9161,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 817,
     "uikTvd": "466405566631",
+    "uikName": "УИК №817",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 734,
       "Число бюллетеней, полученных участковыми комиссиями": 735,
@@ -7863,8 +9222,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 818,
     "uikTvd": "466405566632",
+    "uikName": "УИК №818",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 156,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -7915,8 +9283,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 819,
     "uikTvd": "466405566633",
+    "uikName": "УИК №819",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -7967,8 +9344,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "466405566634",
+    "uikName": "УИК №820",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8019,8 +9405,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "466405566635",
+    "uikName": "УИК №821",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 338,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -8071,8 +9466,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 822,
     "uikTvd": "466405566636",
+    "uikName": "УИК №822",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -8123,8 +9527,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 823,
     "uikTvd": "466405566637",
+    "uikName": "УИК №823",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 904,
       "Число бюллетеней, полученных участковыми комиссиями": 895,
@@ -8175,8 +9588,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 824,
     "uikTvd": "466405566638",
+    "uikName": "УИК №824",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -8227,8 +9649,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 825,
     "uikTvd": "466405566639",
+    "uikName": "УИК №825",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 875,
       "Число бюллетеней, полученных участковыми комиссиями": 875,
@@ -8279,8 +9710,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 826,
     "uikTvd": "466405566640",
+    "uikName": "УИК №826",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -8331,8 +9771,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 827,
     "uikTvd": "466405566641",
+    "uikName": "УИК №827",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -8383,8 +9832,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 828,
     "uikTvd": "466405566642",
+    "uikName": "УИК №828",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -8435,8 +9893,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 829,
     "uikTvd": "466405566643",
+    "uikName": "УИК №829",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 784,
       "Число бюллетеней, полученных участковыми комиссиями": 775,
@@ -8487,8 +9954,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 830,
     "uikTvd": "466405566644",
+    "uikName": "УИК №830",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -8539,8 +10015,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 831,
     "uikTvd": "466405566645",
+    "uikName": "УИК №831",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8591,8 +10076,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 832,
     "uikTvd": "466405566646",
+    "uikName": "УИК №832",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 455,
       "Число бюллетеней, полученных участковыми комиссиями": 455,
@@ -8643,8 +10137,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 833,
     "uikTvd": "466405566647",
+    "uikName": "УИК №833",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1348,
       "Число бюллетеней, полученных участковыми комиссиями": 1340,
@@ -8695,8 +10198,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 834,
     "uikTvd": "466405566648",
+    "uikName": "УИК №834",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1914,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -8747,8 +10259,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 835,
     "uikTvd": "466405566649",
+    "uikName": "УИК №835",
     "tikTvd": "366300766749",
     "tikName": "Слободо-Туринская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1568,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -8799,8 +10320,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "466405866696",
+    "uikName": "УИК  878",
     "tikTvd": "366300766750",
     "tikName": "Таборинская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -8851,8 +10381,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "466405866697",
+    "uikName": "УИК  879",
     "tikTvd": "366300766750",
     "tikName": "Таборинская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -8903,8 +10442,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "466405866698",
+    "uikName": "УИК  880",
     "tikTvd": "366300766750",
     "tikName": "Таборинская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -8955,8 +10503,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "466405866699",
+    "uikName": "УИК  881",
     "tikTvd": "366300766750",
     "tikName": "Таборинская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -9007,8 +10564,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "466405866700",
+    "uikName": "УИК  882",
     "tikTvd": "366300766750",
     "tikName": "Таборинская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 50,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -9059,8 +10625,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "466405866701",
+    "uikName": "УИК  883",
     "tikTvd": "366300766750",
     "tikName": "Таборинская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1680,
       "Число бюллетеней, полученных участковыми комиссиями": 1645,
@@ -9111,8 +10686,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "466405866702",
+    "uikName": "УИК  884",
     "tikTvd": "366300766750",
     "tikName": "Таборинская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 437,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -9163,8 +10747,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "466405866703",
+    "uikName": "УИК  885",
     "tikTvd": "366300766750",
     "tikName": "Таборинская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 86,
@@ -9215,8 +10808,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "466405866704",
+    "uikName": "УИК  886",
     "tikTvd": "366300766750",
     "tikName": "Таборинская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -9267,8 +10869,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "466405866705",
+    "uikName": "УИК  887",
     "tikTvd": "366300766750",
     "tikName": "Таборинская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 284,
@@ -9319,8 +10930,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "466405866706",
+    "uikName": "УИК  888",
     "tikTvd": "366300766750",
     "tikName": "Таборинская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -9371,8 +10991,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "466405866707",
+    "uikName": "УИК  889",
     "tikTvd": "366300766750",
     "tikName": "Таборинская ",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 85,
@@ -9423,8 +11052,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 989,
     "uikTvd": "466406166670",
+    "uikName": "УИК №989",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2073,
       "Число бюллетеней, полученных участковыми комиссиями": 2045,
@@ -9475,8 +11113,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 990,
     "uikTvd": "466406166671",
+    "uikName": "УИК №990",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2305,
       "Число бюллетеней, полученных участковыми комиссиями": 2256,
@@ -9527,8 +11174,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 991,
     "uikTvd": "466406166672",
+    "uikName": "УИК №991",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 503,
       "Число бюллетеней, полученных участковыми комиссиями": 497,
@@ -9579,8 +11235,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 992,
     "uikTvd": "466406166673",
+    "uikName": "УИК №992",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 216,
@@ -9631,8 +11296,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 993,
     "uikTvd": "466406166674",
+    "uikName": "УИК №993",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 104,
@@ -9683,8 +11357,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 994,
     "uikTvd": "466406166675",
+    "uikName": "УИК №994",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 301,
@@ -9735,8 +11418,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 995,
     "uikTvd": "466406166676",
+    "uikName": "УИК №995",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -9787,8 +11479,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 996,
     "uikTvd": "466406166677",
+    "uikName": "УИК №996",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 735,
       "Число бюллетеней, полученных участковыми комиссиями": 743,
@@ -9839,8 +11540,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 997,
     "uikTvd": "466406166678",
+    "uikName": "УИК №997",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 72,
       "Число бюллетеней, полученных участковыми комиссиями": 75,
@@ -9891,8 +11601,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 998,
     "uikTvd": "466406166679",
+    "uikName": "УИК №998",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 67,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -9943,8 +11662,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 999,
     "uikTvd": "466406166680",
+    "uikName": "УИК №999",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 292,
       "Число бюллетеней, полученных участковыми комиссиями": 291,
@@ -9995,8 +11723,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1000,
     "uikTvd": "466406166681",
+    "uikName": "УИК №1000",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -10047,8 +11784,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "466406166682",
+    "uikName": "УИК №1001",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1142,
       "Число бюллетеней, полученных участковыми комиссиями": 1162,
@@ -10099,8 +11845,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "466406166683",
+    "uikName": "УИК №1002",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 142,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -10151,8 +11906,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "466406166684",
+    "uikName": "УИК №1003",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 161,
@@ -10203,8 +11967,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "466406166685",
+    "uikName": "УИК №1004",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 214,
@@ -10255,8 +12028,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "466406166686",
+    "uikName": "УИК №1005",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2260,
       "Число бюллетеней, полученных участковыми комиссиями": 2264,
@@ -10307,8 +12089,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "466406166687",
+    "uikName": "УИК №1006",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -10359,8 +12150,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "466406166688",
+    "uikName": "УИК №1007",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 500,
       "Число бюллетеней, полученных участковыми комиссиями": 505,
@@ -10411,8 +12211,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "466406166689",
+    "uikName": "УИК №1008",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -10463,8 +12272,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "466406166690",
+    "uikName": "УИК №1009",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -10515,8 +12333,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "466406166691",
+    "uikName": "УИК №1010",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1163,
       "Число бюллетеней, полученных участковыми комиссиями": 1193,
@@ -10567,8 +12394,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "466406166692",
+    "uikName": "УИК №1011",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 812,
       "Число бюллетеней, полученных участковыми комиссиями": 815,
@@ -10619,8 +12455,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "466406166693",
+    "uikName": "УИК №1012",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2000,
       "Число бюллетеней, полученных участковыми комиссиями": 2011,
@@ -10671,8 +12516,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "466406166694",
+    "uikName": "УИК №1013",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -10723,8 +12577,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "466406166695",
+    "uikName": "УИК №1014",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 629,
       "Число бюллетеней, полученных участковыми комиссиями": 626,
@@ -10775,8 +12638,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "466406166696",
+    "uikName": "УИК №1015",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -10827,8 +12699,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "466406166703",
+    "uikName": "УИК №1016",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -10879,8 +12760,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "466406166697",
+    "uikName": "УИК №1017",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 695,
       "Число бюллетеней, полученных участковыми комиссиями": 689,
@@ -10931,8 +12821,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "466406166698",
+    "uikName": "УИК №1018",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 333,
       "Число бюллетеней, полученных участковыми комиссиями": 337,
@@ -10983,8 +12882,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "466406166699",
+    "uikName": "УИК №1019",
     "tikTvd": "366300766751",
     "tikName": "Тугулымская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 80,
       "Число бюллетеней, полученных участковыми комиссиями": 82,
@@ -11035,8 +12943,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "466405966703",
+    "uikName": "УИК №891",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 704,
       "Число бюллетеней, полученных участковыми комиссиями": 715,
@@ -11087,8 +13004,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "466405966704",
+    "uikName": "УИК №892",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 618,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -11139,8 +13065,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "466405966705",
+    "uikName": "УИК №893",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 600,
       "Число бюллетеней, полученных участковыми комиссиями": 585,
@@ -11191,8 +13126,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "466405966706",
+    "uikName": "УИК №894",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 830,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -11243,8 +13187,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "466405966707",
+    "uikName": "УИК №895",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 591,
       "Число бюллетеней, полученных участковыми комиссиями": 595,
@@ -11295,8 +13248,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "466405966708",
+    "uikName": "УИК №896",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 768,
       "Число бюллетеней, полученных участковыми комиссиями": 780,
@@ -11347,8 +13309,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "466405966709",
+    "uikName": "УИК №897",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 661,
       "Число бюллетеней, полученных участковыми комиссиями": 665,
@@ -11399,8 +13370,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "466405966710",
+    "uikName": "УИК №898",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1900,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -11451,8 +13431,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "466405966711",
+    "uikName": "УИК №899",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2181,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -11503,8 +13492,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "466405966712",
+    "uikName": "УИК №900",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 902,
       "Число бюллетеней, полученных участковыми комиссиями": 905,
@@ -11555,8 +13553,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "466405966713",
+    "uikName": "УИК №901",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1772,
       "Число бюллетеней, полученных участковыми комиссиями": 1775,
@@ -11607,8 +13614,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "466405966714",
+    "uikName": "УИК №902",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1542,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -11659,8 +13675,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "466405966715",
+    "uikName": "УИК №903",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1408,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11711,8 +13736,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "466405966716",
+    "uikName": "УИК №904",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1307,
       "Число бюллетеней, полученных участковыми комиссиями": 1325,
@@ -11763,8 +13797,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 905,
     "uikTvd": "466405966717",
+    "uikName": "УИК №905",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2157,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -11815,8 +13858,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 906,
     "uikTvd": "466405966718",
+    "uikName": "УИК №906",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1900,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11867,8 +13919,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 907,
     "uikTvd": "466405966719",
+    "uikName": "УИК №907",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2135,
       "Число бюллетеней, полученных участковыми комиссиями": 2135,
@@ -11919,8 +13980,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 908,
     "uikTvd": "466405966720",
+    "uikName": "УИК №908",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2059,
       "Число бюллетеней, полученных участковыми комиссиями": 2035,
@@ -11971,8 +14041,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 909,
     "uikTvd": "466405966721",
+    "uikName": "УИК №909",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 299,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -12023,8 +14102,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "466405966722",
+    "uikName": "УИК №910",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1750,
       "Число бюллетеней, полученных участковыми комиссиями": 1770,
@@ -12075,8 +14163,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 911,
     "uikTvd": "466405966723",
+    "uikName": "УИК №911",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2625,
       "Число бюллетеней, полученных участковыми комиссиями": 2630,
@@ -12127,8 +14224,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 912,
     "uikTvd": "466405966724",
+    "uikName": "УИК №912",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2164,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -12179,8 +14285,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 913,
     "uikTvd": "466405966725",
+    "uikName": "УИК №913",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 888,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -12231,8 +14346,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "466405966726",
+    "uikName": "УИК №914",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1496,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -12283,8 +14407,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "466405966727",
+    "uikName": "УИК №915",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -12335,8 +14468,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "466405966728",
+    "uikName": "УИК №916",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 89,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -12387,8 +14529,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 917,
     "uikTvd": "466405966701",
+    "uikName": "УИК №917",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 205,
@@ -12439,8 +14590,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 918,
     "uikTvd": "466405966729",
+    "uikName": "УИК №918",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 850,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -12491,8 +14651,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 919,
     "uikTvd": "466405966730",
+    "uikName": "УИК №919",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 385,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -12543,8 +14712,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 920,
     "uikTvd": "466405966731",
+    "uikName": "УИК №920",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -12595,8 +14773,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 921,
     "uikTvd": "466405966732",
+    "uikName": "УИК №921",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -12647,8 +14834,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 922,
     "uikTvd": "466405966733",
+    "uikName": "УИК №922",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 302,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -12699,8 +14895,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 923,
     "uikTvd": "466405966734",
+    "uikName": "УИК №923",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 826,
       "Число бюллетеней, полученных участковыми комиссиями": 840,
@@ -12751,8 +14956,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 924,
     "uikTvd": "466405966735",
+    "uikName": "УИК №924",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 500,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -12803,8 +15017,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 925,
     "uikTvd": "466405966736",
+    "uikName": "УИК №925",
     "tikTvd": "366300766752",
     "tikName": "Тавдинская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 325,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -12855,8 +15078,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 697,
     "uikTvd": "466405066632",
+    "uikName": "УИК №697",
     "tikTvd": "366300766753",
     "tikName": "Пышминская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1762,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -12907,8 +15139,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 698,
     "uikTvd": "466405066633",
+    "uikName": "УИК №698",
     "tikTvd": "366300766753",
     "tikName": "Пышминская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1164,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -12959,8 +15200,17 @@ export const duma_2003_uik_428_region_66_part_009 = [
     "ballot": "single-member",
     "uikNumber": 699,
     "uikTvd": "466405066634",
+    "uikName": "УИК №699",
     "tikTvd": "366300766753",
     "tikName": "Пышминская",
+    "regionCode": "66",
+    "regionTvd": "100100095917",
+    "regionName": "Свердловская область",
+    "district": {
+      "districtNumber": 161,
+      "oikTvd": "100100095918",
+      "oikName": "Артемовский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1805,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,

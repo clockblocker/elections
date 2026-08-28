@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3926,
     "uikTvd": "436403970432",
+    "uikName": "УИК №3926",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 804,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3927,
     "uikTvd": "436403970433",
+    "uikName": "УИК №3927",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3928,
     "uikTvd": "436403970434",
+    "uikName": "УИК №3928",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 504,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3929,
     "uikTvd": "436403970435",
+    "uikName": "УИК №3929",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 298,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3930,
     "uikTvd": "436403970436",
+    "uikName": "УИК №3930",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3931,
     "uikTvd": "436403970437",
+    "uikName": "УИК №3931",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2090,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3932,
     "uikTvd": "436403970438",
+    "uikName": "УИК №3932",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1627,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3933,
     "uikTvd": "436403970439",
+    "uikName": "УИК №3933",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1272,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3934,
     "uikTvd": "436403970440",
+    "uikName": "УИК №3934",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 782,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3935,
     "uikTvd": "436403970441",
+    "uikName": "УИК №3935",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 976,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3936,
     "uikTvd": "436403970442",
+    "uikName": "УИК №3936",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3937,
     "uikTvd": "436403970443",
+    "uikName": "УИК №3937",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3938,
     "uikTvd": "436403970444",
+    "uikName": "УИК №3938",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3939,
     "uikTvd": "436403970445",
+    "uikName": "УИК №3939",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1127,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3940,
     "uikTvd": "436403970446",
+    "uikName": "УИК №3940",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 910,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3941,
     "uikTvd": "436403970447",
+    "uikName": "УИК №3941",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 813,
       "Число бюллетеней, полученных участковыми комиссиями": 830,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3942,
     "uikTvd": "436403970448",
+    "uikName": "УИК №3942",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 738,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3943,
     "uikTvd": "436403970449",
+    "uikName": "УИК №3943",
     "tikTvd": "236200073291",
     "tikName": "Эртильская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3701,
     "uikTvd": "436403770436",
+    "uikName": "УИК №3701",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 659,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3702,
     "uikTvd": "436403770437",
+    "uikName": "УИК №3702",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 725,
       "Число бюллетеней, полученных участковыми комиссиями": 725,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3703,
     "uikTvd": "436403770438",
+    "uikName": "УИК №3703",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 390,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3704,
     "uikTvd": "436403770439",
+    "uikName": "УИК №3704",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3705,
     "uikTvd": "436403770440",
+    "uikName": "УИК №3705",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1232,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3706,
     "uikTvd": "436403770441",
+    "uikName": "УИК №3706",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1515,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3707,
     "uikTvd": "436403770442",
+    "uikName": "УИК №3707",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 181,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3708,
     "uikTvd": "436403770443",
+    "uikName": "УИК №3708",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 423,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3709,
     "uikTvd": "436403770444",
+    "uikName": "УИК №3709",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 264,
       "Число бюллетеней, полученных участковыми комиссиями": 268,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3710,
     "uikTvd": "436403770445",
+    "uikName": "УИК №3710",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 148,
       "Число бюллетеней, полученных участковыми комиссиями": 146,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3711,
     "uikTvd": "436403770446",
+    "uikName": "УИК №3711",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1256,
       "Число бюллетеней, полученных участковыми комиссиями": 1255,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3712,
     "uikTvd": "436403770447",
+    "uikName": "УИК №3712",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 951,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3713,
     "uikTvd": "436403770448",
+    "uikName": "УИК №3713",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1219,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3714,
     "uikTvd": "436403770449",
+    "uikName": "УИК №3714",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 211,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3715,
     "uikTvd": "436403770450",
+    "uikName": "УИК №3715",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1085,
       "Число бюллетеней, полученных участковыми комиссиями": 1085,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3716,
     "uikTvd": "436403770451",
+    "uikName": "УИК №3716",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 686,
       "Число бюллетеней, полученных участковыми комиссиями": 680,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3717,
     "uikTvd": "436403770452",
+    "uikName": "УИК №3717",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3718,
     "uikTvd": "436403770453",
+    "uikName": "УИК №3718",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 377,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3719,
     "uikTvd": "436403770454",
+    "uikName": "УИК №3719",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 143,
       "Число бюллетеней, полученных участковыми комиссиями": 143,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3720,
     "uikTvd": "436403770455",
+    "uikName": "УИК №3720",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 708,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3721,
     "uikTvd": "436403770456",
+    "uikName": "УИК №3721",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 277,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3722,
     "uikTvd": "436403770457",
+    "uikName": "УИК №3722",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 880,
       "Число бюллетеней, полученных участковыми комиссиями": 875,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3723,
     "uikTvd": "436403770458",
+    "uikName": "УИК №3723",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 383,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3724,
     "uikTvd": "436403770459",
+    "uikName": "УИК №3724",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 459,
       "Число бюллетеней, полученных участковыми комиссиями": 461,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3725,
     "uikTvd": "436403770460",
+    "uikName": "УИК №3725",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3726,
     "uikTvd": "436403770461",
+    "uikName": "УИК №3726",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2294,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3727,
     "uikTvd": "436403770462",
+    "uikName": "УИК №3727",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1613,
       "Число бюллетеней, полученных участковыми комиссиями": 1580,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3728,
     "uikTvd": "436403770463",
+    "uikName": "УИК №3728",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 969,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3729,
     "uikTvd": "436403770464",
+    "uikName": "УИК №3729",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3730,
     "uikTvd": "436403770465",
+    "uikName": "УИК №3730",
     "tikTvd": "236200073292",
     "tikName": "Терновская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3601,
     "uikTvd": "436403670506",
+    "uikName": "УИК №3601",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2532,
       "Число бюллетеней, полученных участковыми комиссиями": 2230,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3602,
     "uikTvd": "436403670507",
+    "uikName": "УИК №3602",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2435,
       "Число бюллетеней, полученных участковыми комиссиями": 2120,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3603,
     "uikTvd": "436403670508",
+    "uikName": "УИК №3603",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1728,
       "Число бюллетеней, полученных участковыми комиссиями": 1520,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3604,
     "uikTvd": "436403670509",
+    "uikName": "УИК №3604",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2214,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3605,
     "uikTvd": "436403670510",
+    "uikName": "УИК №3605",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2191,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3606,
     "uikTvd": "436403670511",
+    "uikName": "УИК №3606",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3607,
     "uikTvd": "436403670512",
+    "uikName": "УИК №3607",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3608,
     "uikTvd": "436403670513",
+    "uikName": "УИК №3608",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 838,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3609,
     "uikTvd": "436403670514",
+    "uikName": "УИК №3609",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1436,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3610,
     "uikTvd": "436403670515",
+    "uikName": "УИК №3610",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1654,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3611,
     "uikTvd": "436403670516",
+    "uikName": "УИК №3611",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3612,
     "uikTvd": "436403670517",
+    "uikName": "УИК №3612",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3613,
     "uikTvd": "436403670518",
+    "uikName": "УИК №3613",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 579,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3614,
     "uikTvd": "436403670519",
+    "uikName": "УИК №3614",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3615,
     "uikTvd": "436403670520",
+    "uikName": "УИК №3615",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1183,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3616,
     "uikTvd": "436403670521",
+    "uikName": "УИК №3616",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1246,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3617,
     "uikTvd": "436403670522",
+    "uikName": "УИК №3617",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 958,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3618,
     "uikTvd": "436403670523",
+    "uikName": "УИК №3618",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1077,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3619,
     "uikTvd": "436403670524",
+    "uikName": "УИК №3619",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 900,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3620,
     "uikTvd": "436403670525",
+    "uikName": "УИК №3620",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 481,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3621,
     "uikTvd": "436403670526",
+    "uikName": "УИК №3621",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1393,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3622,
     "uikTvd": "436403670527",
+    "uikName": "УИК №3622",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 717,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3623,
     "uikTvd": "436403670528",
+    "uikName": "УИК №3623",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3624,
     "uikTvd": "436403670529",
+    "uikName": "УИК №3624",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 279,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3625,
     "uikTvd": "436403670530",
+    "uikName": "УИК №3625",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 685,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3626,
     "uikTvd": "436403670531",
+    "uikName": "УИК №3626",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 622,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3627,
     "uikTvd": "436403670532",
+    "uikName": "УИК №3627",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3628,
     "uikTvd": "436403670533",
+    "uikName": "УИК №3628",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 284,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3629,
     "uikTvd": "436403670534",
+    "uikName": "УИК №3629",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3630,
     "uikTvd": "436403670535",
+    "uikName": "УИК №3630",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 806,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3631,
     "uikTvd": "436403670536",
+    "uikName": "УИК №3631",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 722,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3632,
     "uikTvd": "436403670537",
+    "uikName": "УИК №3632",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1335,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3633,
     "uikTvd": "436403670538",
+    "uikName": "УИК №3633",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1391,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3634,
     "uikTvd": "436403670539",
+    "uikName": "УИК №3634",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 508,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3635,
     "uikTvd": "436403670540",
+    "uikName": "УИК №3635",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3636,
     "uikTvd": "436403670541",
+    "uikName": "УИК №3636",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3637,
     "uikTvd": "436403670542",
+    "uikName": "УИК №3637",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1029,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3638,
     "uikTvd": "436403670543",
+    "uikName": "УИК №3638",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 441,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3639,
     "uikTvd": "436403670544",
+    "uikName": "УИК №3639",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3640,
     "uikTvd": "436403670545",
+    "uikName": "УИК №3640",
     "tikTvd": "236200073293",
     "tikName": "Таловская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3001,
     "uikTvd": "436403070462",
+    "uikName": "УИК №3001",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 605,
       "Число бюллетеней, полученных участковыми комиссиями": 641,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3002,
     "uikTvd": "436403070463",
+    "uikName": "УИК №3002",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2643,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3003,
     "uikTvd": "436403070464",
+    "uikName": "УИК №3003",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2675,
       "Число бюллетеней, полученных участковыми комиссиями": 2714,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3004,
     "uikTvd": "436403070465",
+    "uikName": "УИК №3004",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2743,
       "Число бюллетеней, полученных участковыми комиссиями": 2494,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3005,
     "uikTvd": "436403070466",
+    "uikName": "УИК №3005",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2171,
       "Число бюллетеней, полученных участковыми комиссиями": 2066,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3006,
     "uikTvd": "436403070467",
+    "uikName": "УИК №3006",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1999,
       "Число бюллетеней, полученных участковыми комиссиями": 1924,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3007,
     "uikTvd": "436403070468",
+    "uikName": "УИК №3007",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1970,
       "Число бюллетеней, полученных участковыми комиссиями": 1929,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3008,
     "uikTvd": "436403070469",
+    "uikName": "УИК №3008",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1191,
       "Число бюллетеней, полученных участковыми комиссиями": 1172,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3009,
     "uikTvd": "436403070470",
+    "uikName": "УИК №3009",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2087,
       "Число бюллетеней, полученных участковыми комиссиями": 2034,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3010,
     "uikTvd": "436403070471",
+    "uikName": "УИК №3010",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 600,
       "Число бюллетеней, полученных участковыми комиссиями": 563,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3011,
     "uikTvd": "436403070472",
+    "uikName": "УИК №3011",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1290,
       "Число бюллетеней, полученных участковыми комиссиями": 1271,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3012,
     "uikTvd": "436403070473",
+    "uikName": "УИК №3012",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1319,
       "Число бюллетеней, полученных участковыми комиссиями": 1269,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3013,
     "uikTvd": "436403070474",
+    "uikName": "УИК №3013",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1430,
       "Число бюллетеней, полученных участковыми комиссиями": 1212,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3014,
     "uikTvd": "436403070475",
+    "uikName": "УИК №3014",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1617,
       "Число бюллетеней, полученных участковыми комиссиями": 1803,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3015,
     "uikTvd": "436403070476",
+    "uikName": "УИК №3015",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 384,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3016,
     "uikTvd": "436403070477",
+    "uikName": "УИК №3016",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 624,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3017,
     "uikTvd": "436403070478",
+    "uikName": "УИК №3017",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3018,
     "uikTvd": "436403070479",
+    "uikName": "УИК №3018",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1330,
       "Число бюллетеней, полученных участковыми комиссиями": 1311,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3019,
     "uikTvd": "436403070480",
+    "uikName": "УИК №3019",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 293,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3020,
     "uikTvd": "436403070481",
+    "uikName": "УИК №3020",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 598,
       "Число бюллетеней, полученных участковыми комиссиями": 621,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3021,
     "uikTvd": "436403070482",
+    "uikName": "УИК №3021",
     "tikTvd": "236200073294",
     "tikName": "Поворинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 417,
       "Число бюллетеней, полученных участковыми комиссиями": 424,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2801,
     "uikTvd": "436402870422",
+    "uikName": "УИК №2801",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2873,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2802,
     "uikTvd": "436402870423",
+    "uikName": "УИК №2802",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2977,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2803,
     "uikTvd": "436402870424",
+    "uikName": "УИК №2803",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2804,
     "uikTvd": "436402870425",
+    "uikName": "УИК №2804",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2774,
       "Число бюллетеней, полученных участковыми комиссиями": 2520,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2805,
     "uikTvd": "436402870426",
+    "uikName": "УИК №2805",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2806,
     "uikTvd": "436402870427",
+    "uikName": "УИК №2806",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2807,
     "uikTvd": "436402870428",
+    "uikName": "УИК №2807",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 337,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2808,
     "uikTvd": "436402870429",
+    "uikName": "УИК №2808",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2809,
     "uikTvd": "436402870430",
+    "uikName": "УИК №2809",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 381,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2810,
     "uikTvd": "436402870431",
+    "uikName": "УИК №2810",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 400,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2811,
     "uikTvd": "436402870432",
+    "uikName": "УИК №2811",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2812,
     "uikTvd": "436402870433",
+    "uikName": "УИК №2812",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 454,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2813,
     "uikTvd": "436402870434",
+    "uikName": "УИК №2813",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 269,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2814,
     "uikTvd": "436402870435",
+    "uikName": "УИК №2814",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1690,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2815,
     "uikTvd": "436402870436",
+    "uikName": "УИК №2815",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2816,
     "uikTvd": "436402870437",
+    "uikName": "УИК №2816",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2817,
     "uikTvd": "436402870438",
+    "uikName": "УИК №2817",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2818,
     "uikTvd": "436402870439",
+    "uikName": "УИК №2818",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 314,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2819,
     "uikTvd": "436402870440",
+    "uikName": "УИК №2819",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 642,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2820,
     "uikTvd": "436402870441",
+    "uikName": "УИК №2820",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 261,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2821,
     "uikTvd": "436402870442",
+    "uikName": "УИК №2821",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 689,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2822,
     "uikTvd": "436402870443",
+    "uikName": "УИК №2822",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 683,
       "Число бюллетеней, полученных участковыми комиссиями": 756,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2823,
     "uikTvd": "436402870444",
+    "uikName": "УИК №2823",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 715,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2824,
     "uikTvd": "436402870445",
+    "uikName": "УИК №2824",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 440,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2825,
     "uikTvd": "436402870446",
+    "uikName": "УИК №2825",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 768,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2826,
     "uikTvd": "436402870447",
+    "uikName": "УИК №2826",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 386,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2827,
     "uikTvd": "436402870448",
+    "uikName": "УИК №2827",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 851,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2828,
     "uikTvd": "436402870449",
+    "uikName": "УИК №2828",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2829,
     "uikTvd": "436402870450",
+    "uikName": "УИК №2829",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2830,
     "uikTvd": "436402870451",
+    "uikName": "УИК №2830",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2831,
     "uikTvd": "436402870452",
+    "uikName": "УИК №2831",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 623,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2832,
     "uikTvd": "436402870453",
+    "uikName": "УИК №2832",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 257,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2833,
     "uikTvd": "436402870454",
+    "uikName": "УИК №2833",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 762,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2834,
     "uikTvd": "436402870455",
+    "uikName": "УИК №2834",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2835,
     "uikTvd": "436402870456",
+    "uikName": "УИК №2835",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 664,
       "Число бюллетеней, полученных участковыми комиссиями": 660,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2836,
     "uikTvd": "436402870457",
+    "uikName": "УИК №2836",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2837,
     "uikTvd": "436402870458",
+    "uikName": "УИК №2837",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2838,
     "uikTvd": "436402870459",
+    "uikName": "УИК №2838",
     "tikTvd": "236200073295",
     "tikName": "Панинская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 495,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2401,
     "uikTvd": "436402470464",
+    "uikName": "УИК №2401",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1782,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2402,
     "uikTvd": "436402470465",
+    "uikName": "УИК №2402",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2312,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2403,
     "uikTvd": "436402470466",
+    "uikName": "УИК №2403",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1306,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2404,
     "uikTvd": "436402470467",
+    "uikName": "УИК №2404",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 991,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2405,
     "uikTvd": "436402470468",
+    "uikName": "УИК №2405",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2406,
     "uikTvd": "436402470469",
+    "uikName": "УИК №2406",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1074,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2407,
     "uikTvd": "436402470470",
+    "uikName": "УИК №2407",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2088,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2408,
     "uikTvd": "436402470471",
+    "uikName": "УИК №2408",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1744,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2409,
     "uikTvd": "436402470472",
+    "uikName": "УИК №2409",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1792,
       "Число бюллетеней, полученных участковыми комиссиями": 1760,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2410,
     "uikTvd": "436402470473",
+    "uikName": "УИК №2410",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 481,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2411,
     "uikTvd": "436402470474",
+    "uikName": "УИК №2411",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 747,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2412,
     "uikTvd": "436402470475",
+    "uikName": "УИК №2412",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 683,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2413,
     "uikTvd": "436402470476",
+    "uikName": "УИК №2413",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 650,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2414,
     "uikTvd": "436402470477",
+    "uikName": "УИК №2414",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 315,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2415,
     "uikTvd": "436402470478",
+    "uikName": "УИК №2415",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2416,
     "uikTvd": "436402470479",
+    "uikName": "УИК №2416",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 518,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2417,
     "uikTvd": "436402470480",
+    "uikName": "УИК №2417",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 566,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2418,
     "uikTvd": "436402470481",
+    "uikName": "УИК №2418",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 813,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2419,
     "uikTvd": "436402470482",
+    "uikName": "УИК №2419",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 911,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2420,
     "uikTvd": "436402470483",
+    "uikName": "УИК №2420",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1915,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2421,
     "uikTvd": "436402470484",
+    "uikName": "УИК №2421",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 757,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2422,
     "uikTvd": "436402470485",
+    "uikName": "УИК №2422",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2423,
     "uikTvd": "436402470486",
+    "uikName": "УИК №2423",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2424,
     "uikTvd": "436402470487",
+    "uikName": "УИК №2424",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 434,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2425,
     "uikTvd": "436402470488",
+    "uikName": "УИК №2425",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 662,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2426,
     "uikTvd": "436402470489",
+    "uikName": "УИК №2426",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 932,
       "Число бюллетеней, полученных участковыми комиссиями": 940,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2427,
     "uikTvd": "436402470490",
+    "uikName": "УИК №2427",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2428,
     "uikTvd": "436402470491",
+    "uikName": "УИК №2428",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 880,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2429,
     "uikTvd": "436402470492",
+    "uikName": "УИК №2429",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2610,
       "Число бюллетеней, полученных участковыми комиссиями": 2630,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2430,
     "uikTvd": "436402470493",
+    "uikName": "УИК №2430",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 627,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2431,
     "uikTvd": "436402470494",
+    "uikName": "УИК №2431",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2432,
     "uikTvd": "436402470495",
+    "uikName": "УИК №2432",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 512,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2433,
     "uikTvd": "436402470496",
+    "uikName": "УИК №2433",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2434,
     "uikTvd": "436402470497",
+    "uikName": "УИК №2434",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2435,
     "uikTvd": "436402470498",
+    "uikName": "УИК №2435",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 411,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2436,
     "uikTvd": "436402470499",
+    "uikName": "УИК №2436",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 529,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2437,
     "uikTvd": "436402470500",
+    "uikName": "УИК №2437",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1147,
       "Число бюллетеней, полученных участковыми комиссиями": 1130,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2438,
     "uikTvd": "436402470501",
+    "uikName": "УИК №2438",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2313,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2439,
     "uikTvd": "436402470502",
+    "uikName": "УИК №2439",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 767,
       "Число бюллетеней, полученных участковыми комиссиями": 710,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2440,
     "uikTvd": "436402470503",
+    "uikName": "УИК №2440",
     "tikTvd": "236200073296",
     "tikName": "Новохоперская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2201,
     "uikTvd": "436402270438",
+    "uikName": "УИК №2201",
     "tikTvd": "236200073297",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2528,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2202,
     "uikTvd": "436402270439",
+    "uikName": "УИК №2202",
     "tikTvd": "236200073297",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2651,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2203,
     "uikTvd": "436402270440",
+    "uikName": "УИК №2203",
     "tikTvd": "236200073297",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2335,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2204,
     "uikTvd": "436402270441",
+    "uikName": "УИК №2204",
     "tikTvd": "236200073297",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2584,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2205,
     "uikTvd": "436402270442",
+    "uikName": "УИК №2205",
     "tikTvd": "236200073297",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2343,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2206,
     "uikTvd": "436402270443",
+    "uikName": "УИК №2206",
     "tikTvd": "236200073297",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2569,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2207,
     "uikTvd": "436402270444",
+    "uikName": "УИК №2207",
     "tikTvd": "236200073297",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2447,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2208,
     "uikTvd": "436402270445",
+    "uikName": "УИК №2208",
     "tikTvd": "236200073297",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2846,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2209,
     "uikTvd": "436402270446",
+    "uikName": "УИК №2209",
     "tikTvd": "236200073297",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2682,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2210,
     "uikTvd": "436402270447",
+    "uikName": "УИК №2210",
     "tikTvd": "236200073297",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2817,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2211,
     "uikTvd": "436402270448",
+    "uikName": "УИК №2211",
     "tikTvd": "236200073297",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2562,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2212,
     "uikTvd": "436402270449",
+    "uikName": "УИК №2212",
     "tikTvd": "236200073297",
     "tikName": "Нововоронежская городская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2528,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1901,
     "uikTvd": "436401970429",
+    "uikName": "УИК №1901",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1462,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1902,
     "uikTvd": "436401970430",
+    "uikName": "УИК №1902",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1460,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1903,
     "uikTvd": "436401970431",
+    "uikName": "УИК №1903",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 862,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1904,
     "uikTvd": "436401970432",
+    "uikName": "УИК №1904",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 160,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1905,
     "uikTvd": "436401970433",
+    "uikName": "УИК №1905",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1640,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1906,
     "uikTvd": "436401970434",
+    "uikName": "УИК №1906",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 708,
       "Число бюллетеней, полученных участковыми комиссиями": 740,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1907,
     "uikTvd": "436401970435",
+    "uikName": "УИК №1907",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1908,
     "uikTvd": "436401970436",
+    "uikName": "УИК №1908",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1552,
       "Число бюллетеней, полученных участковыми комиссиями": 1560,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1909,
     "uikTvd": "436401970437",
+    "uikName": "УИК №1909",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 741,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1910,
     "uikTvd": "436401970438",
+    "uikName": "УИК №1910",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 424,
       "Число бюллетеней, полученных участковыми комиссиями": 435,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1911,
     "uikTvd": "436401970439",
+    "uikName": "УИК №1911",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1645,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1912,
     "uikTvd": "436401970440",
+    "uikName": "УИК №1912",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1333,
       "Число бюллетеней, полученных участковыми комиссиями": 1460,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1913,
     "uikTvd": "436401970441",
+    "uikName": "УИК №1913",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1709,
       "Число бюллетеней, полученных участковыми комиссиями": 1731,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1914,
     "uikTvd": "436401970442",
+    "uikName": "УИК №1914",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 637,
       "Число бюллетеней, полученных участковыми комиссиями": 651,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1915,
     "uikTvd": "436401970443",
+    "uikName": "УИК №1915",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 573,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1916,
     "uikTvd": "436401970444",
+    "uikName": "УИК №1916",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1917,
     "uikTvd": "436401970445",
+    "uikName": "УИК №1917",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1361,
       "Число бюллетеней, полученных участковыми комиссиями": 1380,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1918,
     "uikTvd": "436401970446",
+    "uikName": "УИК №1918",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 636,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1919,
     "uikTvd": "436401970447",
+    "uikName": "УИК №1919",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 995,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1920,
     "uikTvd": "436401970448",
+    "uikName": "УИК №1920",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 534,
       "Число бюллетеней, полученных участковыми комиссиями": 565,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1921,
     "uikTvd": "436401970449",
+    "uikName": "УИК №1921",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 694,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1922,
     "uikTvd": "436401970450",
+    "uikName": "УИК №1922",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1923,
     "uikTvd": "436401970451",
+    "uikName": "УИК №1923",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 500,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1924,
     "uikTvd": "436401970452",
+    "uikName": "УИК №1924",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1925,
     "uikTvd": "436401970453",
+    "uikName": "УИК №1925",
     "tikTvd": "236200073298",
     "tikName": "Каширская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1501,
     "uikTvd": "436401570423",
+    "uikName": "УИК №1501",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2105,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1502,
     "uikTvd": "436401570424",
+    "uikName": "УИК №1502",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2387,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1503,
     "uikTvd": "436401570425",
+    "uikName": "УИК №1503",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1497,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1504,
     "uikTvd": "436401570426",
+    "uikName": "УИК №1504",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1672,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1505,
     "uikTvd": "436401570427",
+    "uikName": "УИК №1505",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2011,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1506,
     "uikTvd": "436401570428",
+    "uikName": "УИК №1506",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1430,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1507,
     "uikTvd": "436401570429",
+    "uikName": "УИК №1507",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 761,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1508,
     "uikTvd": "436401570430",
+    "uikName": "УИК №1508",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1509,
     "uikTvd": "436401570431",
+    "uikName": "УИК №1509",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1098,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1510,
     "uikTvd": "436401570432",
+    "uikName": "УИК №1510",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 859,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1511,
     "uikTvd": "436401570433",
+    "uikName": "УИК №1511",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1512,
     "uikTvd": "436401570434",
+    "uikName": "УИК №1512",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 625,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1513,
     "uikTvd": "436401570435",
+    "uikName": "УИК №1513",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1514,
     "uikTvd": "436401570436",
+    "uikName": "УИК №1514",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 286,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1515,
     "uikTvd": "436401570437",
+    "uikName": "УИК №1515",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 165,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1516,
     "uikTvd": "436401570438",
+    "uikName": "УИК №1516",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1517,
     "uikTvd": "436401570439",
+    "uikName": "УИК №1517",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 918,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1518,
     "uikTvd": "436401570440",
+    "uikName": "УИК №1518",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1807,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1519,
     "uikTvd": "436401570441",
+    "uikName": "УИК №1519",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 939,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1520,
     "uikTvd": "436401570442",
+    "uikName": "УИК №1520",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2038,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1521,
     "uikTvd": "436401570443",
+    "uikName": "УИК №1521",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 643,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1522,
     "uikTvd": "436401570444",
+    "uikName": "УИК №1522",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1523,
     "uikTvd": "436401570445",
+    "uikName": "УИК №1523",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1524,
     "uikTvd": "436401570446",
+    "uikName": "УИК №1524",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 591,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1525,
     "uikTvd": "436401570447",
+    "uikName": "УИК №1525",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 144,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_36_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1526,
     "uikTvd": "436401570448",
+    "uikName": "УИК №1526",
     "tikTvd": "236200073299",
     "tikName": "Грибановская",
+    "regionCode": "36",
+    "regionTvd": "100100095655",
+    "regionName": "Воронежская область",
+    "district": {
+      "districtNumber": 76,
+      "oikTvd": "100100095656",
+      "oikName": "Аннинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1050,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,

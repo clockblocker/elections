@@ -7,12583 +7,31456 @@ export const duma_2003_uik_to_tik_region_24 = [
   {
     "uikNumber": 1,
     "uikTvd": "424400266766",
+    "uikName": "УИК №1",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2,
     "uikTvd": "424400266767",
+    "uikName": "УИК №2",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 3,
     "uikTvd": "424400266768",
+    "uikName": "УИК №3",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 4,
     "uikTvd": "424400266769",
+    "uikName": "УИК №4",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 5,
     "uikTvd": "424400266770",
+    "uikName": "УИК №5",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 6,
     "uikTvd": "424400266771",
+    "uikName": "УИК №6",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 7,
     "uikTvd": "424400266772",
+    "uikName": "УИК №7",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 8,
     "uikTvd": "424400266773",
+    "uikName": "УИК №8",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 9,
     "uikTvd": "424400266774",
+    "uikName": "УИК №9",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 10,
     "uikTvd": "424400266775",
+    "uikName": "УИК №10",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 11,
     "uikTvd": "424400266776",
+    "uikName": "УИК №11",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 12,
     "uikTvd": "424400266777",
+    "uikName": "УИК №12",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 13,
     "uikTvd": "424400266778",
+    "uikName": "УИК №13",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 14,
     "uikTvd": "424400266779",
+    "uikName": "УИК №14",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 15,
     "uikTvd": "424400266780",
+    "uikName": "УИК №15",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 16,
     "uikTvd": "424400266781",
+    "uikName": "УИК №16",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 17,
     "uikTvd": "424400266782",
+    "uikName": "УИК №17",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 18,
     "uikTvd": "424400266783",
+    "uikName": "УИК №18",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 19,
     "uikTvd": "424400266784",
+    "uikName": "УИК №19",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 20,
     "uikTvd": "424400266785",
+    "uikName": "УИК №20",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 21,
     "uikTvd": "424400266786",
+    "uikName": "УИК №21",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 22,
     "uikTvd": "424400266787",
+    "uikName": "УИК №22",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 23,
     "uikTvd": "424400266788",
+    "uikName": "УИК №23",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 24,
     "uikTvd": "424400266789",
+    "uikName": "УИК №24",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 25,
     "uikTvd": "424400266790",
+    "uikName": "УИК №25",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 26,
     "uikTvd": "424400266791",
+    "uikName": "УИК №26",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 27,
     "uikTvd": "424400266792",
+    "uikName": "УИК №27",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 28,
     "uikTvd": "424400266793",
+    "uikName": "УИК №28",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 29,
     "uikTvd": "424400266794",
+    "uikName": "УИК №29",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 30,
     "uikTvd": "424400266795",
+    "uikName": "УИК №30",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 31,
     "uikTvd": "424400266796",
+    "uikName": "УИК №31",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 32,
     "uikTvd": "424400266797",
+    "uikName": "УИК №32",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 33,
     "uikTvd": "424400266798",
+    "uikName": "УИК №33",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 34,
     "uikTvd": "424400266799",
+    "uikName": "УИК №34",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 35,
     "uikTvd": "424400266800",
+    "uikName": "УИК №35",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 36,
     "uikTvd": "424400266801",
+    "uikName": "УИК №36",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 37,
     "uikTvd": "424400266802",
+    "uikName": "УИК №37",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 38,
     "uikTvd": "424400266803",
+    "uikName": "УИК №38",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 39,
     "uikTvd": "424400266804",
+    "uikName": "УИК №39",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 40,
     "uikTvd": "424400266805",
+    "uikName": "УИК №40",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 41,
     "uikTvd": "424400266806",
+    "uikName": "УИК №41",
     "tikTvd": "224200067627",
-    "tikName": "Ачинская городская"
+    "tikName": "Ачинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 42,
     "uikTvd": "424400766666",
+    "uikName": "УИК №42",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 43,
     "uikTvd": "424400766667",
+    "uikName": "УИК №43",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 44,
     "uikTvd": "424400766668",
+    "uikName": "УИК №44",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 45,
     "uikTvd": "424400766669",
+    "uikName": "УИК №45",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 46,
     "uikTvd": "424400766670",
+    "uikName": "УИК №46",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 47,
     "uikTvd": "424400766671",
+    "uikName": "УИК №47",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 48,
     "uikTvd": "424400766672",
+    "uikName": "УИК №48",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 49,
     "uikTvd": "424400766673",
+    "uikName": "УИК №49",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 50,
     "uikTvd": "424400766674",
+    "uikName": "УИК №50",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 51,
     "uikTvd": "424400766675",
+    "uikName": "УИК №51",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 52,
     "uikTvd": "424400766676",
+    "uikName": "УИК №52",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 53,
     "uikTvd": "424400766677",
+    "uikName": "УИК №53",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 54,
     "uikTvd": "424400766678",
+    "uikName": "УИК №54",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 55,
     "uikTvd": "424400766679",
+    "uikName": "УИК №55",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 56,
     "uikTvd": "424400766680",
+    "uikName": "УИК №56",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 57,
     "uikTvd": "424400766681",
+    "uikName": "УИК №57",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 58,
     "uikTvd": "424400766682",
+    "uikName": "УИК №58",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 59,
     "uikTvd": "424400766683",
+    "uikName": "УИК №59",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 60,
     "uikTvd": "424400766684",
+    "uikName": "УИК №60",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 61,
     "uikTvd": "424400766685",
+    "uikName": "УИК №61",
     "tikTvd": "224200067623",
-    "tikName": "Боготольская городская"
+    "tikName": "Боготольская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 62,
     "uikTvd": "424401166619",
+    "uikName": "УИК №62",
     "tikTvd": "224200067656",
-    "tikName": "Бородинская городская"
+    "tikName": "Бородинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 63,
     "uikTvd": "424401166620",
+    "uikName": "УИК №63",
     "tikTvd": "224200067656",
-    "tikName": "Бородинская городская"
+    "tikName": "Бородинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 64,
     "uikTvd": "424401166621",
+    "uikName": "УИК №64",
     "tikTvd": "224200067656",
-    "tikName": "Бородинская городская"
+    "tikName": "Бородинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 65,
     "uikTvd": "424401166622",
+    "uikName": "УИК №65",
     "tikTvd": "224200067656",
-    "tikName": "Бородинская городская"
+    "tikName": "Бородинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 66,
     "uikTvd": "424401166623",
+    "uikName": "УИК №66",
     "tikTvd": "224200067656",
-    "tikName": "Бородинская городская"
+    "tikName": "Бородинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 67,
     "uikTvd": "424401166624",
+    "uikName": "УИК №67",
     "tikTvd": "224200067656",
-    "tikName": "Бородинская городская"
+    "tikName": "Бородинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 68,
     "uikTvd": "424401166625",
+    "uikName": "УИК №68",
     "tikTvd": "224200067656",
-    "tikName": "Бородинская городская"
+    "tikName": "Бородинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 69,
     "uikTvd": "424401166626",
+    "uikName": "УИК №69",
     "tikTvd": "224200067656",
-    "tikName": "Бородинская городская"
+    "tikName": "Бородинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 71,
     "uikTvd": "424401366640",
+    "uikName": "УИК №71",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 72,
     "uikTvd": "424401366641",
+    "uikName": "УИК №72",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 73,
     "uikTvd": "424401366642",
+    "uikName": "УИК №73",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 74,
     "uikTvd": "424401366643",
+    "uikName": "УИК №74",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 75,
     "uikTvd": "424401366644",
+    "uikName": "УИК №75",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 76,
     "uikTvd": "424401366645",
+    "uikName": "УИК №76",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 77,
     "uikTvd": "424401366646",
+    "uikName": "УИК №77",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 78,
     "uikTvd": "424401366647",
+    "uikName": "УИК №78",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 79,
     "uikTvd": "424401366648",
+    "uikName": "УИК №79",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 80,
     "uikTvd": "424401366649",
+    "uikName": "УИК №80",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 81,
     "uikTvd": "424401366650",
+    "uikName": "УИК №81",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 82,
     "uikTvd": "424401366651",
+    "uikName": "УИК №82",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 83,
     "uikTvd": "424401366652",
+    "uikName": "УИК №83",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 84,
     "uikTvd": "424401366653",
+    "uikName": "УИК №84",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 85,
     "uikTvd": "424401366654",
+    "uikName": "УИК №85",
     "tikTvd": "224200067669",
-    "tikName": "Дивногорская городская"
+    "tikName": "Дивногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 87,
     "uikTvd": "424401666664",
+    "uikName": "УИК №87",
     "tikTvd": "224200067653",
-    "tikName": "Енисейская городская"
+    "tikName": "Енисейская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 88,
     "uikTvd": "424401666665",
+    "uikName": "УИК №88",
     "tikTvd": "224200067653",
-    "tikName": "Енисейская городская"
+    "tikName": "Енисейская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 89,
     "uikTvd": "424401666666",
+    "uikName": "УИК №89",
     "tikTvd": "224200067653",
-    "tikName": "Енисейская городская"
+    "tikName": "Енисейская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 90,
     "uikTvd": "424401666667",
+    "uikName": "УИК №90",
     "tikTvd": "224200067653",
-    "tikName": "Енисейская городская"
+    "tikName": "Енисейская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 91,
     "uikTvd": "424401666668",
+    "uikName": "УИК №91",
     "tikTvd": "224200067653",
-    "tikName": "Енисейская городская"
+    "tikName": "Енисейская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 92,
     "uikTvd": "424401666669",
+    "uikName": "УИК №92",
     "tikTvd": "224200067653",
-    "tikName": "Енисейская городская"
+    "tikName": "Енисейская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 93,
     "uikTvd": "424401666670",
+    "uikName": "УИК №93",
     "tikTvd": "224200067653",
-    "tikName": "Енисейская городская"
+    "tikName": "Енисейская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 94,
     "uikTvd": "424401666671",
+    "uikName": "УИК №94",
     "tikTvd": "224200067653",
-    "tikName": "Енисейская городская"
+    "tikName": "Енисейская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 95,
     "uikTvd": "424401666672",
+    "uikName": "УИК №95",
     "tikTvd": "224200067653",
-    "tikName": "Енисейская городская"
+    "tikName": "Енисейская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 96,
     "uikTvd": "424401666673",
+    "uikName": "УИК №96",
     "tikTvd": "224200067653",
-    "tikName": "Енисейская городская"
+    "tikName": "Енисейская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 97,
     "uikTvd": "424401866735",
+    "uikName": "УИК №97",
     "tikTvd": "224200067652",
-    "tikName": "Заозерная городская"
+    "tikName": "Заозерная городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 98,
     "uikTvd": "424401866736",
+    "uikName": "УИК №98",
     "tikTvd": "224200067652",
-    "tikName": "Заозерная городская"
+    "tikName": "Заозерная городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 99,
     "uikTvd": "424401866737",
+    "uikName": "УИК №99",
     "tikTvd": "224200067652",
-    "tikName": "Заозерная городская"
+    "tikName": "Заозерная городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 100,
     "uikTvd": "424401866738",
+    "uikName": "УИК №100",
     "tikTvd": "224200067652",
-    "tikName": "Заозерная городская"
+    "tikName": "Заозерная городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 101,
     "uikTvd": "424401866739",
+    "uikName": "УИК №101",
     "tikTvd": "224200067652",
-    "tikName": "Заозерная городская"
+    "tikName": "Заозерная городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 102,
     "uikTvd": "424401866740",
+    "uikName": "УИК №102",
     "tikTvd": "224200067652",
-    "tikName": "Заозерная городская"
+    "tikName": "Заозерная городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 103,
     "uikTvd": "424401866741",
+    "uikName": "УИК №103",
     "tikTvd": "224200067652",
-    "tikName": "Заозерная городская"
+    "tikName": "Заозерная городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 104,
     "uikTvd": "424401866742",
+    "uikName": "УИК №104",
     "tikTvd": "224200067652",
-    "tikName": "Заозерная городская"
+    "tikName": "Заозерная городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 105,
     "uikTvd": "424401866743",
+    "uikName": "УИК №105",
     "tikTvd": "224200067652",
-    "tikName": "Заозерная городская"
+    "tikName": "Заозерная городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 106,
     "uikTvd": "424401866744",
+    "uikName": "УИК №106",
     "tikTvd": "224200067652",
-    "tikName": "Заозерная городская"
+    "tikName": "Заозерная городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 108,
     "uikTvd": "424402066763",
+    "uikName": "УИК  108",
     "tikTvd": "224200067650",
-    "tikName": "Игарская городская"
+    "tikName": "Игарская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 109,
     "uikTvd": "424402066764",
+    "uikName": "УИК  109",
     "tikTvd": "224200067650",
-    "tikName": "Игарская городская"
+    "tikName": "Игарская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 110,
     "uikTvd": "424402066765",
+    "uikName": "УИК  110",
     "tikTvd": "224200067650",
-    "tikName": "Игарская городская"
+    "tikName": "Игарская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 111,
     "uikTvd": "424402066766",
+    "uikName": "УИК  111",
     "tikTvd": "224200067650",
-    "tikName": "Игарская городская"
+    "tikName": "Игарская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 112,
     "uikTvd": "424402066767",
+    "uikName": "УИК  112",
     "tikTvd": "224200067650",
-    "tikName": "Игарская городская"
+    "tikName": "Игарская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 113,
     "uikTvd": "424402066768",
+    "uikName": "УИК  113",
     "tikTvd": "224200067650",
-    "tikName": "Игарская городская"
+    "tikName": "Игарская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 114,
     "uikTvd": "424402066769",
+    "uikName": "УИК  114",
     "tikTvd": "224200067650",
-    "tikName": "Игарская городская"
+    "tikName": "Игарская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 115,
     "uikTvd": "424402066770",
+    "uikName": "УИК  115",
     "tikTvd": "224200067650",
-    "tikName": "Игарская городская"
+    "tikName": "Игарская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 116,
     "uikTvd": "424402066771",
+    "uikName": "УИК  116",
     "tikTvd": "224200067650",
-    "tikName": "Игарская городская"
+    "tikName": "Игарская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 117,
     "uikTvd": "424402066772",
+    "uikName": "УИК  117",
     "tikTvd": "224200067650",
-    "tikName": "Игарская городская"
+    "tikName": "Игарская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 118,
     "uikTvd": "424402066773",
+    "uikName": "УИК  118",
     "tikTvd": "224200067650",
-    "tikName": "Игарская городская"
+    "tikName": "Игарская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 119,
     "uikTvd": "424406466797",
+    "uikName": "УИК №119",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 120,
     "uikTvd": "424406466798",
+    "uikName": "УИК №120",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 121,
     "uikTvd": "424406466799",
+    "uikName": "УИК №121",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 122,
     "uikTvd": "424406466800",
+    "uikName": "УИК №122",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 123,
     "uikTvd": "424406466801",
+    "uikName": "УИК №123",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 124,
     "uikTvd": "424406466802",
+    "uikName": "УИК №124",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 125,
     "uikTvd": "424406466803",
+    "uikName": "УИК №125",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 126,
     "uikTvd": "424406466804",
+    "uikName": "УИК №126",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 127,
     "uikTvd": "424406466805",
+    "uikName": "УИК №127",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 128,
     "uikTvd": "424406466806",
+    "uikName": "УИК №128",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 129,
     "uikTvd": "424406466807",
+    "uikName": "УИК №129",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 130,
     "uikTvd": "424406466808",
+    "uikName": "УИК №130",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 131,
     "uikTvd": "424406466809",
+    "uikName": "УИК №131",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 132,
     "uikTvd": "424406466810",
+    "uikName": "УИК №132",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 133,
     "uikTvd": "424406466811",
+    "uikName": "УИК №133",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 134,
     "uikTvd": "424406466812",
+    "uikName": "УИК №134",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 135,
     "uikTvd": "424406466813",
+    "uikName": "УИК №135",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 136,
     "uikTvd": "424406466814",
+    "uikName": "УИК №136",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 137,
     "uikTvd": "424406466815",
+    "uikName": "УИК №137",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 138,
     "uikTvd": "424406466816",
+    "uikName": "УИК №138",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 139,
     "uikTvd": "424406466817",
+    "uikName": "УИК №139",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 140,
     "uikTvd": "424406466818",
+    "uikName": "УИК №140",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 141,
     "uikTvd": "424406466819",
+    "uikName": "УИК №141",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 142,
     "uikTvd": "424406466820",
+    "uikName": "УИК №142",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 143,
     "uikTvd": "424406466821",
+    "uikName": "УИК №143",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 144,
     "uikTvd": "424406466822",
+    "uikName": "УИК №144",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 145,
     "uikTvd": "424406466823",
+    "uikName": "УИК №145",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 146,
     "uikTvd": "424406466824",
+    "uikName": "УИК №146",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 147,
     "uikTvd": "424406466825",
+    "uikName": "УИК №147",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 148,
     "uikTvd": "424406466826",
+    "uikName": "УИК №148",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 149,
     "uikTvd": "424406466827",
+    "uikName": "УИК №149",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 150,
     "uikTvd": "424406466828",
+    "uikName": "УИК №150",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 151,
     "uikTvd": "424406466829",
+    "uikName": "УИК №151",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 152,
     "uikTvd": "424406466830",
+    "uikName": "УИК №152",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 153,
     "uikTvd": "424406466831",
+    "uikName": "УИК №153",
     "tikTvd": "224200067645",
-    "tikName": "Канская городская"
+    "tikName": "Канская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 156,
     "uikTvd": "424403067917",
+    "uikName": "УИК №156",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 157,
     "uikTvd": "424403067918",
+    "uikName": "УИК №157",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 158,
     "uikTvd": "424403067919",
+    "uikName": "УИК №158",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 159,
     "uikTvd": "424403067920",
+    "uikName": "УИК №159",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 160,
     "uikTvd": "424403067921",
+    "uikName": "УИК №160",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 161,
     "uikTvd": "424403067922",
+    "uikName": "УИК №161",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 162,
     "uikTvd": "424403067923",
+    "uikName": "УИК №162",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 163,
     "uikTvd": "424403067924",
+    "uikName": "УИК №163",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 164,
     "uikTvd": "424403067925",
+    "uikName": "УИК №164",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 165,
     "uikTvd": "424403067926",
+    "uikName": "УИК №165",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 166,
     "uikTvd": "424403067927",
+    "uikName": "УИК №166",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 167,
     "uikTvd": "424403067928",
+    "uikName": "УИК №167",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 168,
     "uikTvd": "424403067929",
+    "uikName": "УИК №168",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 169,
     "uikTvd": "424403067930",
+    "uikName": "УИК №169",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 170,
     "uikTvd": "424403067931",
+    "uikName": "УИК №170",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 171,
     "uikTvd": "424403067932",
+    "uikName": "УИК №171",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 172,
     "uikTvd": "424403067933",
+    "uikName": "УИК №172",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 173,
     "uikTvd": "424403067934",
+    "uikName": "УИК №173",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 174,
     "uikTvd": "424403067935",
+    "uikName": "УИК №174",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 175,
     "uikTvd": "424403067936",
+    "uikName": "УИК №175",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 176,
     "uikTvd": "424403067937",
+    "uikName": "УИК №176",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 177,
     "uikTvd": "424403067938",
+    "uikName": "УИК №177",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 178,
     "uikTvd": "424403067939",
+    "uikName": "УИК №178",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 179,
     "uikTvd": "424403067940",
+    "uikName": "УИК №179",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 180,
     "uikTvd": "424403067941",
+    "uikName": "УИК №180",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 181,
     "uikTvd": "424403067942",
+    "uikName": "УИК №181",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 182,
     "uikTvd": "424403067943",
+    "uikName": "УИК №182",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 183,
     "uikTvd": "424403067944",
+    "uikName": "УИК №183",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 184,
     "uikTvd": "424403067945",
+    "uikName": "УИК №184",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 185,
     "uikTvd": "424403067946",
+    "uikName": "УИК №185",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 186,
     "uikTvd": "424403067915",
+    "uikName": "УИК №186",
     "tikTvd": "224200067633",
-    "tikName": "Красноярск, Железнодорожная"
+    "tikName": "Красноярск, Железнодорожная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 188,
     "uikTvd": "424403166812",
+    "uikName": "УИК №188",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 189,
     "uikTvd": "424403166813",
+    "uikName": "УИК №189",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 190,
     "uikTvd": "424403166814",
+    "uikName": "УИК №190",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 191,
     "uikTvd": "424403166815",
+    "uikName": "УИК №191",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 192,
     "uikTvd": "424403166816",
+    "uikName": "УИК №192",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 193,
     "uikTvd": "424403166817",
+    "uikName": "УИК №193",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 194,
     "uikTvd": "424403166818",
+    "uikName": "УИК №194",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 195,
     "uikTvd": "424403166819",
+    "uikName": "УИК №195",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 196,
     "uikTvd": "424403166820",
+    "uikName": "УИК №196",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 197,
     "uikTvd": "424403166821",
+    "uikName": "УИК №197",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 198,
     "uikTvd": "424403166822",
+    "uikName": "УИК №198",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 199,
     "uikTvd": "424403166823",
+    "uikName": "УИК №199",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 200,
     "uikTvd": "424403166824",
+    "uikName": "УИК №200",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 201,
     "uikTvd": "424403166825",
+    "uikName": "УИК №201",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 202,
     "uikTvd": "424403166826",
+    "uikName": "УИК №202",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 203,
     "uikTvd": "424403166827",
+    "uikName": "УИК №203",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 204,
     "uikTvd": "424403166828",
+    "uikName": "УИК №204",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 205,
     "uikTvd": "424403166829",
+    "uikName": "УИК №205",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 206,
     "uikTvd": "424403166830",
+    "uikName": "УИК №206",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 207,
     "uikTvd": "424403166831",
+    "uikName": "УИК №207",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 208,
     "uikTvd": "424403166832",
+    "uikName": "УИК №208",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 209,
     "uikTvd": "424403166833",
+    "uikName": "УИК №209",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 210,
     "uikTvd": "424403166834",
+    "uikName": "УИК №210",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 211,
     "uikTvd": "424403166835",
+    "uikName": "УИК №211",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 212,
     "uikTvd": "424403166836",
+    "uikName": "УИК №212",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 213,
     "uikTvd": "424403166837",
+    "uikName": "УИК №213",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 214,
     "uikTvd": "424403166838",
+    "uikName": "УИК №214",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 215,
     "uikTvd": "424403166839",
+    "uikName": "УИК №215",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 216,
     "uikTvd": "424403166840",
+    "uikName": "УИК №216",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 217,
     "uikTvd": "424403166841",
+    "uikName": "УИК №217",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 218,
     "uikTvd": "424403166842",
+    "uikName": "УИК №218",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 219,
     "uikTvd": "424403166843",
+    "uikName": "УИК №219",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 220,
     "uikTvd": "424403166844",
+    "uikName": "УИК №220",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 221,
     "uikTvd": "424403166845",
+    "uikName": "УИК №221",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 222,
     "uikTvd": "424403166846",
+    "uikName": "УИК №222",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 223,
     "uikTvd": "424403166847",
+    "uikName": "УИК №223",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 224,
     "uikTvd": "424403166848",
+    "uikName": "УИК №224",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 225,
     "uikTvd": "424403166849",
+    "uikName": "УИК №225",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 226,
     "uikTvd": "424403166850",
+    "uikName": "УИК №226",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 227,
     "uikTvd": "424403166851",
+    "uikName": "УИК №227",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 228,
     "uikTvd": "424403166852",
+    "uikName": "УИК №228",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 229,
     "uikTvd": "424403166853",
+    "uikName": "УИК №229",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 230,
     "uikTvd": "424403166854",
+    "uikName": "УИК №230",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 231,
     "uikTvd": "424403166855",
+    "uikName": "УИК №231",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 232,
     "uikTvd": "424403166856",
+    "uikName": "УИК №232",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 233,
     "uikTvd": "424403166857",
+    "uikName": "УИК №233",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 234,
     "uikTvd": "424403166858",
+    "uikName": "УИК №234",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 235,
     "uikTvd": "424403166859",
+    "uikName": "УИК №235",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 236,
     "uikTvd": "424403166860",
+    "uikName": "УИК №236",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 237,
     "uikTvd": "424403166861",
+    "uikName": "УИК №237",
     "tikTvd": "224200067665",
-    "tikName": "Красноярск, Кировская"
+    "tikName": "Красноярск, Кировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 239,
     "uikTvd": "424403266736",
+    "uikName": "УИК №239",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 240,
     "uikTvd": "424403266737",
+    "uikName": "УИК №240",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 241,
     "uikTvd": "424403266738",
+    "uikName": "УИК №241",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 242,
     "uikTvd": "424403266739",
+    "uikName": "УИК №242",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 243,
     "uikTvd": "424403266740",
+    "uikName": "УИК №243",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 244,
     "uikTvd": "424403266741",
+    "uikName": "УИК №244",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 245,
     "uikTvd": "424403266742",
+    "uikName": "УИК №245",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 246,
     "uikTvd": "424403266743",
+    "uikName": "УИК №246",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 247,
     "uikTvd": "424403266744",
+    "uikName": "УИК №247",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 248,
     "uikTvd": "424403266745",
+    "uikName": "УИК №248",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 249,
     "uikTvd": "424403266746",
+    "uikName": "УИК №249",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 250,
     "uikTvd": "424403266747",
+    "uikName": "УИК №250",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 251,
     "uikTvd": "424403266748",
+    "uikName": "УИК №251",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 252,
     "uikTvd": "424403266749",
+    "uikName": "УИК №252",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 253,
     "uikTvd": "424403266750",
+    "uikName": "УИК №253",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 254,
     "uikTvd": "424403266751",
+    "uikName": "УИК №254",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 255,
     "uikTvd": "424403266752",
+    "uikName": "УИК №255",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 256,
     "uikTvd": "424403266753",
+    "uikName": "УИК №256",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 257,
     "uikTvd": "424403266754",
+    "uikName": "УИК №257",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 258,
     "uikTvd": "424403266755",
+    "uikName": "УИК №258",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 259,
     "uikTvd": "424403266756",
+    "uikName": "УИК №259",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 260,
     "uikTvd": "424403266757",
+    "uikName": "УИК №260",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 261,
     "uikTvd": "424403266758",
+    "uikName": "УИК №261",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 262,
     "uikTvd": "424403266759",
+    "uikName": "УИК №262",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 263,
     "uikTvd": "424403266760",
+    "uikName": "УИК №263",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 264,
     "uikTvd": "424403266761",
+    "uikName": "УИК №264",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 265,
     "uikTvd": "424403266762",
+    "uikName": "УИК №265",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 266,
     "uikTvd": "424403266763",
+    "uikName": "УИК №266",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 267,
     "uikTvd": "424403266764",
+    "uikName": "УИК №267",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 268,
     "uikTvd": "424403266765",
+    "uikName": "УИК №268",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 269,
     "uikTvd": "424403266766",
+    "uikName": "УИК №269",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 270,
     "uikTvd": "424403266767",
+    "uikName": "УИК №270",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 271,
     "uikTvd": "424403266768",
+    "uikName": "УИК №271",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 272,
     "uikTvd": "424403266769",
+    "uikName": "УИК №272",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 273,
     "uikTvd": "424403266770",
+    "uikName": "УИК №273",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 274,
     "uikTvd": "424403266771",
+    "uikName": "УИК №274",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 275,
     "uikTvd": "424403266772",
+    "uikName": "УИК №275",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 276,
     "uikTvd": "424403266773",
+    "uikName": "УИК №276",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 277,
     "uikTvd": "424403266774",
+    "uikName": "УИК №277",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 278,
     "uikTvd": "424403266775",
+    "uikName": "УИК №278",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 279,
     "uikTvd": "424403266776",
+    "uikName": "УИК №279",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 280,
     "uikTvd": "424403266777",
+    "uikName": "УИК №280",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 281,
     "uikTvd": "424403266778",
+    "uikName": "УИК №281",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 282,
     "uikTvd": "424403266779",
+    "uikName": "УИК №282",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 283,
     "uikTvd": "424403266780",
+    "uikName": "УИК №283",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 284,
     "uikTvd": "424403266781",
+    "uikName": "УИК №284",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 285,
     "uikTvd": "424403266782",
+    "uikName": "УИК №285",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 286,
     "uikTvd": "424403266783",
+    "uikName": "УИК №286",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 287,
     "uikTvd": "424403266784",
+    "uikName": "УИК №287",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 288,
     "uikTvd": "424403266785",
+    "uikName": "УИК №288",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 289,
     "uikTvd": "424403266786",
+    "uikName": "УИК №289",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 290,
     "uikTvd": "424403266787",
+    "uikName": "УИК №290",
     "tikTvd": "224200067664",
-    "tikName": "Красноярск, Ленинская"
+    "tikName": "Красноярск, Ленинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 293,
     "uikTvd": "424403366997",
+    "uikName": "УИК №293",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 294,
     "uikTvd": "424403366998",
+    "uikName": "УИК №294",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 295,
     "uikTvd": "424403366999",
+    "uikName": "УИК №295",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 296,
     "uikTvd": "424403367000",
+    "uikName": "УИК №296",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 297,
     "uikTvd": "424403367001",
+    "uikName": "УИК №297",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 298,
     "uikTvd": "424403367002",
+    "uikName": "УИК №298",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 299,
     "uikTvd": "424403367003",
+    "uikName": "УИК №299",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 300,
     "uikTvd": "424403367004",
+    "uikName": "УИК №300",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 301,
     "uikTvd": "424403367005",
+    "uikName": "УИК №301",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 302,
     "uikTvd": "424403367006",
+    "uikName": "УИК №302",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 303,
     "uikTvd": "424403367007",
+    "uikName": "УИК №303",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 304,
     "uikTvd": "424403367008",
+    "uikName": "УИК №304",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 305,
     "uikTvd": "424403367009",
+    "uikName": "УИК №305",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 306,
     "uikTvd": "424403367010",
+    "uikName": "УИК №306",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 307,
     "uikTvd": "424403367011",
+    "uikName": "УИК №307",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 308,
     "uikTvd": "424403367012",
+    "uikName": "УИК №308",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 309,
     "uikTvd": "424403367013",
+    "uikName": "УИК №309",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 310,
     "uikTvd": "424403367014",
+    "uikName": "УИК №310",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 311,
     "uikTvd": "424403367015",
+    "uikName": "УИК №311",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 312,
     "uikTvd": "424403367016",
+    "uikName": "УИК №312",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 313,
     "uikTvd": "424403367017",
+    "uikName": "УИК №313",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 314,
     "uikTvd": "424403367018",
+    "uikName": "УИК №314",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 315,
     "uikTvd": "424403367019",
+    "uikName": "УИК №315",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 316,
     "uikTvd": "424403367020",
+    "uikName": "УИК №316",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 317,
     "uikTvd": "424403367021",
+    "uikName": "УИК №317",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 318,
     "uikTvd": "424403367022",
+    "uikName": "УИК №318",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 319,
     "uikTvd": "424403367023",
+    "uikName": "УИК №319",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 320,
     "uikTvd": "424403367024",
+    "uikName": "УИК №320",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 321,
     "uikTvd": "424403367025",
+    "uikName": "УИК №321",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 322,
     "uikTvd": "424403367026",
+    "uikName": "УИК №322",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 323,
     "uikTvd": "424403367027",
+    "uikName": "УИК №323",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 324,
     "uikTvd": "424403367028",
+    "uikName": "УИК №324",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 325,
     "uikTvd": "424403367029",
+    "uikName": "УИК №325",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 326,
     "uikTvd": "424403367030",
+    "uikName": "УИК №326",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 327,
     "uikTvd": "424403367031",
+    "uikName": "УИК №327",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 328,
     "uikTvd": "424403367032",
+    "uikName": "УИК №328",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 329,
     "uikTvd": "424403367033",
+    "uikName": "УИК №329",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 330,
     "uikTvd": "424403367034",
+    "uikName": "УИК №330",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 331,
     "uikTvd": "424403367035",
+    "uikName": "УИК №331",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 332,
     "uikTvd": "424403367036",
+    "uikName": "УИК №332",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 333,
     "uikTvd": "424403367037",
+    "uikName": "УИК №333",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 334,
     "uikTvd": "424403367038",
+    "uikName": "УИК №334",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 335,
     "uikTvd": "424403367039",
+    "uikName": "УИК №335",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 336,
     "uikTvd": "424403367040",
+    "uikName": "УИК №336",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 337,
     "uikTvd": "424403367041",
+    "uikName": "УИК №337",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 338,
     "uikTvd": "424403367042",
+    "uikName": "УИК №338",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 339,
     "uikTvd": "424403367043",
+    "uikName": "УИК №339",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 340,
     "uikTvd": "424403367044",
+    "uikName": "УИК №340",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 341,
     "uikTvd": "424403367045",
+    "uikName": "УИК №341",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 342,
     "uikTvd": "424403367046",
+    "uikName": "УИК №342",
     "tikTvd": "224200067632",
-    "tikName": "Красноярск, Октябрьская"
+    "tikName": "Красноярск, Октябрьская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 345,
     "uikTvd": "424403466808",
+    "uikName": "УИК №345",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 346,
     "uikTvd": "424403466685",
+    "uikName": "УИК №346",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 347,
     "uikTvd": "424403466686",
+    "uikName": "УИК №347",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 348,
     "uikTvd": "424403466687",
+    "uikName": "УИК №348",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 349,
     "uikTvd": "424403466688",
+    "uikName": "УИК №349",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 350,
     "uikTvd": "424403466689",
+    "uikName": "УИК №350",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 351,
     "uikTvd": "424403466690",
+    "uikName": "УИК №351",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 352,
     "uikTvd": "424403466691",
+    "uikName": "УИК №352",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 353,
     "uikTvd": "424403466692",
+    "uikName": "УИК №353",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 354,
     "uikTvd": "424403466693",
+    "uikName": "УИК №354",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 355,
     "uikTvd": "424403466694",
+    "uikName": "УИК №355",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 356,
     "uikTvd": "424403466695",
+    "uikName": "УИК №356",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 357,
     "uikTvd": "424403466696",
+    "uikName": "УИК №357",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 358,
     "uikTvd": "424403466697",
+    "uikName": "УИК №358",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 359,
     "uikTvd": "424403466698",
+    "uikName": "УИК №359",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 360,
     "uikTvd": "424403466699",
+    "uikName": "УИК №360",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 361,
     "uikTvd": "424403466700",
+    "uikName": "УИК №361",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 362,
     "uikTvd": "424403466701",
+    "uikName": "УИК №362",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 363,
     "uikTvd": "424403466702",
+    "uikName": "УИК №363",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 364,
     "uikTvd": "424403466703",
+    "uikName": "УИК №364",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 365,
     "uikTvd": "424403466704",
+    "uikName": "УИК №365",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 366,
     "uikTvd": "424403466705",
+    "uikName": "УИК №366",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 367,
     "uikTvd": "424403466706",
+    "uikName": "УИК №367",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 368,
     "uikTvd": "424403466707",
+    "uikName": "УИК №368",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 369,
     "uikTvd": "424403466708",
+    "uikName": "УИК №369",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 370,
     "uikTvd": "424403466709",
+    "uikName": "УИК №370",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 371,
     "uikTvd": "424403466710",
+    "uikName": "УИК №371",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 372,
     "uikTvd": "424403466711",
+    "uikName": "УИК №372",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 373,
     "uikTvd": "424403466712",
+    "uikName": "УИК №373",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 374,
     "uikTvd": "424403466713",
+    "uikName": "УИК №374",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 375,
     "uikTvd": "424403466714",
+    "uikName": "УИК №375",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 376,
     "uikTvd": "424403466715",
+    "uikName": "УИК №376",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 377,
     "uikTvd": "424403466716",
+    "uikName": "УИК №377",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 378,
     "uikTvd": "424403466717",
+    "uikName": "УИК №378",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 379,
     "uikTvd": "424403466718",
+    "uikName": "УИК №379",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 380,
     "uikTvd": "424403466719",
+    "uikName": "УИК №380",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 381,
     "uikTvd": "424403466720",
+    "uikName": "УИК №381",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 382,
     "uikTvd": "424403466721",
+    "uikName": "УИК №382",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 383,
     "uikTvd": "424403466722",
+    "uikName": "УИК №383",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 384,
     "uikTvd": "424403466723",
+    "uikName": "УИК №384",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 385,
     "uikTvd": "424403466724",
+    "uikName": "УИК №385",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 386,
     "uikTvd": "424403466725",
+    "uikName": "УИК №386",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 387,
     "uikTvd": "424403466726",
+    "uikName": "УИК №387",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 388,
     "uikTvd": "424403466727",
+    "uikName": "УИК №388",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 389,
     "uikTvd": "424403466728",
+    "uikName": "УИК №389",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 390,
     "uikTvd": "424403466729",
+    "uikName": "УИК №390",
     "tikTvd": "224200067663",
-    "tikName": "Красноярск, Свердловская"
+    "tikName": "Красноярск, Свердловская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 392,
     "uikTvd": "424403566759",
+    "uikName": "УИК №392",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 393,
     "uikTvd": "424403566760",
+    "uikName": "УИК №393",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 394,
     "uikTvd": "424403566761",
+    "uikName": "УИК №394",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 395,
     "uikTvd": "424403566762",
+    "uikName": "УИК №395",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 396,
     "uikTvd": "424403566763",
+    "uikName": "УИК №396",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 397,
     "uikTvd": "424403566764",
+    "uikName": "УИК №397",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 398,
     "uikTvd": "424403566765",
+    "uikName": "УИК №398",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 399,
     "uikTvd": "424403566766",
+    "uikName": "УИК №399",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 400,
     "uikTvd": "424403566767",
+    "uikName": "УИК №400",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 401,
     "uikTvd": "424403566768",
+    "uikName": "УИК №401",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 402,
     "uikTvd": "424403566769",
+    "uikName": "УИК №402",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 403,
     "uikTvd": "424403566770",
+    "uikName": "УИК №403",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 404,
     "uikTvd": "424403566771",
+    "uikName": "УИК №404",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 405,
     "uikTvd": "424403566772",
+    "uikName": "УИК №405",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 406,
     "uikTvd": "424403566773",
+    "uikName": "УИК №406",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 407,
     "uikTvd": "424403566774",
+    "uikName": "УИК №407",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 408,
     "uikTvd": "424403566775",
+    "uikName": "УИК №408",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 409,
     "uikTvd": "424403566776",
+    "uikName": "УИК №409",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 410,
     "uikTvd": "424403566777",
+    "uikName": "УИК №410",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 411,
     "uikTvd": "424403566778",
+    "uikName": "УИК №411",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 412,
     "uikTvd": "424403566779",
+    "uikName": "УИК №412",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 413,
     "uikTvd": "424403566780",
+    "uikName": "УИК №413",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 414,
     "uikTvd": "424403566781",
+    "uikName": "УИК №414",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 415,
     "uikTvd": "424403566782",
+    "uikName": "УИК №415",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 416,
     "uikTvd": "424403566783",
+    "uikName": "УИК №416",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 417,
     "uikTvd": "424403566784",
+    "uikName": "УИК №417",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 418,
     "uikTvd": "424403566785",
+    "uikName": "УИК №418",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 419,
     "uikTvd": "424403566786",
+    "uikName": "УИК №419",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 420,
     "uikTvd": "424403566787",
+    "uikName": "УИК №420",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 421,
     "uikTvd": "424403566788",
+    "uikName": "УИК №421",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 422,
     "uikTvd": "424403566789",
+    "uikName": "УИК №422",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 423,
     "uikTvd": "424403566790",
+    "uikName": "УИК №423",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 424,
     "uikTvd": "424403566791",
+    "uikName": "УИК №424",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 425,
     "uikTvd": "424403566792",
+    "uikName": "УИК №425",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 426,
     "uikTvd": "424403566793",
+    "uikName": "УИК №426",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 427,
     "uikTvd": "424403566794",
+    "uikName": "УИК №427",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 428,
     "uikTvd": "424403566795",
+    "uikName": "УИК №428",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 429,
     "uikTvd": "424403566796",
+    "uikName": "УИК №429",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 430,
     "uikTvd": "424403566797",
+    "uikName": "УИК №430",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 431,
     "uikTvd": "424403566798",
+    "uikName": "УИК №431",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 432,
     "uikTvd": "424403566799",
+    "uikName": "УИК №432",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 433,
     "uikTvd": "424403566800",
+    "uikName": "УИК №433",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 434,
     "uikTvd": "424403566801",
+    "uikName": "УИК №434",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 435,
     "uikTvd": "424403566802",
+    "uikName": "УИК №435",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 436,
     "uikTvd": "424403566803",
+    "uikName": "УИК №436",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 437,
     "uikTvd": "424403566804",
+    "uikName": "УИК №437",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 438,
     "uikTvd": "424403566805",
+    "uikName": "УИК №438",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 439,
     "uikTvd": "424403566806",
+    "uikName": "УИК №439",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 440,
     "uikTvd": "424403566807",
+    "uikName": "УИК №440",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 441,
     "uikTvd": "424403566808",
+    "uikName": "УИК №441",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 442,
     "uikTvd": "424403566809",
+    "uikName": "УИК №442",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 443,
     "uikTvd": "424403566810",
+    "uikName": "УИК №443",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 444,
     "uikTvd": "424403566811",
+    "uikName": "УИК №444",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 445,
     "uikTvd": "424403566812",
+    "uikName": "УИК №445",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 446,
     "uikTvd": "424403566813",
+    "uikName": "УИК №446",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 447,
     "uikTvd": "424403566814",
+    "uikName": "УИК №447",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 448,
     "uikTvd": "424403566815",
+    "uikName": "УИК №448",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 449,
     "uikTvd": "424403566816",
+    "uikName": "УИК №449",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 450,
     "uikTvd": "424403566817",
+    "uikName": "УИК №450",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 451,
     "uikTvd": "424403566818",
+    "uikName": "УИК №451",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 452,
     "uikTvd": "424403566819",
+    "uikName": "УИК №452",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 453,
     "uikTvd": "424403566820",
+    "uikName": "УИК №453",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 454,
     "uikTvd": "424403566821",
+    "uikName": "УИК №454",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 455,
     "uikTvd": "424403566822",
+    "uikName": "УИК №455",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 456,
     "uikTvd": "424403566823",
+    "uikName": "УИК №456",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 457,
     "uikTvd": "424403566824",
+    "uikName": "УИК №457",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 458,
     "uikTvd": "424403566825",
+    "uikName": "УИК №458",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 459,
     "uikTvd": "424403566826",
+    "uikName": "УИК №459",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 460,
     "uikTvd": "424403566827",
+    "uikName": "УИК №460",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 461,
     "uikTvd": "424403566828",
+    "uikName": "УИК №461",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 462,
     "uikTvd": "424403566829",
+    "uikName": "УИК №462",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 463,
     "uikTvd": "424403566830",
+    "uikName": "УИК №463",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 464,
     "uikTvd": "424403566831",
+    "uikName": "УИК №464",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 465,
     "uikTvd": "424403566832",
+    "uikName": "УИК №465",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 466,
     "uikTvd": "424403566833",
+    "uikName": "УИК №466",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 467,
     "uikTvd": "424403566834",
+    "uikName": "УИК №467",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 468,
     "uikTvd": "424403566835",
+    "uikName": "УИК №468",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 469,
     "uikTvd": "424403566836",
+    "uikName": "УИК №469",
     "tikTvd": "224200067631",
-    "tikName": "Красноярск, Советская"
+    "tikName": "Красноярск, Советская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 474,
     "uikTvd": "424403666695",
+    "uikName": "УИК №474",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 475,
     "uikTvd": "424403666696",
+    "uikName": "УИК №475",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 476,
     "uikTvd": "424403666697",
+    "uikName": "УИК №476",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 477,
     "uikTvd": "424403666698",
+    "uikName": "УИК №477",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 478,
     "uikTvd": "424403666699",
+    "uikName": "УИК №478",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 479,
     "uikTvd": "424403666700",
+    "uikName": "УИК №479",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 480,
     "uikTvd": "424403666701",
+    "uikName": "УИК №480",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 481,
     "uikTvd": "424403666702",
+    "uikName": "УИК №481",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 482,
     "uikTvd": "424403666703",
+    "uikName": "УИК №482",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 483,
     "uikTvd": "424403666704",
+    "uikName": "УИК №483",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 484,
     "uikTvd": "424403666705",
+    "uikName": "УИК №484",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 485,
     "uikTvd": "424403666706",
+    "uikName": "УИК №485",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 486,
     "uikTvd": "424403666707",
+    "uikName": "УИК №486",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 487,
     "uikTvd": "424403666708",
+    "uikName": "УИК №487",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 488,
     "uikTvd": "424403666709",
+    "uikName": "УИК №488",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 489,
     "uikTvd": "424403666710",
+    "uikName": "УИК №489",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 490,
     "uikTvd": "424403666711",
+    "uikName": "УИК №490",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 491,
     "uikTvd": "424403666712",
+    "uikName": "УИК №491",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 492,
     "uikTvd": "424403666713",
+    "uikName": "УИК №492",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 493,
     "uikTvd": "424403666714",
+    "uikName": "УИК №493",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 494,
     "uikTvd": "424403666715",
+    "uikName": "УИК №494",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 495,
     "uikTvd": "424403666716",
+    "uikName": "УИК №495",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 496,
     "uikTvd": "424403666717",
+    "uikName": "УИК №496",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 497,
     "uikTvd": "424403666718",
+    "uikName": "УИК №497",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 498,
     "uikTvd": "424403666719",
+    "uikName": "УИК №498",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 499,
     "uikTvd": "424403666720",
+    "uikName": "УИК №499",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 500,
     "uikTvd": "424403666721",
+    "uikName": "УИК №500",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 501,
     "uikTvd": "424403666722",
+    "uikName": "УИК №501",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 502,
     "uikTvd": "424403666723",
+    "uikName": "УИК №502",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 503,
     "uikTvd": "424403666724",
+    "uikName": "УИК №503",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 504,
     "uikTvd": "424403666725",
+    "uikName": "УИК №504",
     "tikTvd": "224200067630",
-    "tikName": "Красноярск, Центральная"
+    "tikName": "Красноярск, Центральная",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 506,
     "uikTvd": "424403866637",
+    "uikName": "УИК №506",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 507,
     "uikTvd": "424403866638",
+    "uikName": "УИК №507",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 508,
     "uikTvd": "424403866639",
+    "uikName": "УИК №508",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 509,
     "uikTvd": "424403866640",
+    "uikName": "УИК №509",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 510,
     "uikTvd": "424403866641",
+    "uikName": "УИК №510",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 511,
     "uikTvd": "424403866642",
+    "uikName": "УИК №511",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 512,
     "uikTvd": "424403866643",
+    "uikName": "УИК №512",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 513,
     "uikTvd": "424403866644",
+    "uikName": "УИК №513",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 514,
     "uikTvd": "424403866645",
+    "uikName": "УИК №514",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 515,
     "uikTvd": "424403866646",
+    "uikName": "УИК №515",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 516,
     "uikTvd": "424403866647",
+    "uikName": "УИК №516",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 517,
     "uikTvd": "424403866648",
+    "uikName": "УИК №517",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 518,
     "uikTvd": "424403866649",
+    "uikName": "УИК №518",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 519,
     "uikTvd": "424403866650",
+    "uikName": "УИК №519",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 520,
     "uikTvd": "424403866651",
+    "uikName": "УИК №520",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 521,
     "uikTvd": "424403866652",
+    "uikName": "УИК №521",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 522,
     "uikTvd": "424403866653",
+    "uikName": "УИК №522",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 523,
     "uikTvd": "424403866654",
+    "uikName": "УИК №523",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 524,
     "uikTvd": "424403866655",
+    "uikName": "УИК №524",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 525,
     "uikTvd": "424403866656",
+    "uikName": "УИК №525",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 526,
     "uikTvd": "424403866657",
+    "uikName": "УИК №526",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 527,
     "uikTvd": "424403866658",
+    "uikName": "УИК №527",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 528,
     "uikTvd": "424403866659",
+    "uikName": "УИК №528",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 529,
     "uikTvd": "424403866660",
+    "uikName": "УИК №529",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 530,
     "uikTvd": "424403866661",
+    "uikName": "УИК №530",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 531,
     "uikTvd": "424403866662",
+    "uikName": "УИК №531",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 532,
     "uikTvd": "424403866663",
+    "uikName": "УИК №532",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 533,
     "uikTvd": "424403866664",
+    "uikName": "УИК №533",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 534,
     "uikTvd": "424403866665",
+    "uikName": "УИК №534",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 535,
     "uikTvd": "424403866666",
+    "uikName": "УИК №535",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 536,
     "uikTvd": "424403866667",
+    "uikName": "УИК №536",
     "tikTvd": "224200067672",
-    "tikName": "Лесосибирская городская"
+    "tikName": "Лесосибирская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 543,
     "uikTvd": "424404066636",
+    "uikName": "УИК №543",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 544,
     "uikTvd": "424404066637",
+    "uikName": "УИК №544",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 545,
     "uikTvd": "424404066638",
+    "uikName": "УИК №545",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 546,
     "uikTvd": "424404066639",
+    "uikName": "УИК №546",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 547,
     "uikTvd": "424404066640",
+    "uikName": "УИК №547",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 548,
     "uikTvd": "424404066641",
+    "uikName": "УИК №548",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 549,
     "uikTvd": "424404066642",
+    "uikName": "УИК №549",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 550,
     "uikTvd": "424404066643",
+    "uikName": "УИК №550",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 551,
     "uikTvd": "424404066644",
+    "uikName": "УИК №551",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 552,
     "uikTvd": "424404066645",
+    "uikName": "УИК №552",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 553,
     "uikTvd": "424404066646",
+    "uikName": "УИК №553",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 554,
     "uikTvd": "424404066647",
+    "uikName": "УИК №554",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 555,
     "uikTvd": "424404066648",
+    "uikName": "УИК №555",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 556,
     "uikTvd": "424404066649",
+    "uikName": "УИК №556",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 557,
     "uikTvd": "424404066650",
+    "uikName": "УИК №557",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 558,
     "uikTvd": "424404066651",
+    "uikName": "УИК №558",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 559,
     "uikTvd": "424404066652",
+    "uikName": "УИК №559",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 560,
     "uikTvd": "424404066653",
+    "uikName": "УИК №560",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 561,
     "uikTvd": "424404066654",
+    "uikName": "УИК №561",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 562,
     "uikTvd": "424404066655",
+    "uikName": "УИК №562",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 563,
     "uikTvd": "424404066656",
+    "uikName": "УИК №563",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 564,
     "uikTvd": "424404066657",
+    "uikName": "УИК №564",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 565,
     "uikTvd": "424404066658",
+    "uikName": "УИК №565",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 566,
     "uikTvd": "424404066659",
+    "uikName": "УИК №566",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 567,
     "uikTvd": "424404066660",
+    "uikName": "УИК №567",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 568,
     "uikTvd": "424404066661",
+    "uikName": "УИК №568",
     "tikTvd": "224200067614",
-    "tikName": "Минусинская городская"
+    "tikName": "Минусинская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 571,
     "uikTvd": "424404266628",
+    "uikName": "УИК №571",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 572,
     "uikTvd": "424404266630",
+    "uikName": "УИК №572",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 573,
     "uikTvd": "424404266632",
+    "uikName": "УИК №573",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 574,
     "uikTvd": "424404266634",
+    "uikName": "УИК №574",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 575,
     "uikTvd": "424404266636",
+    "uikName": "УИК №575",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 576,
     "uikTvd": "424404266638",
+    "uikName": "УИК №576",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 577,
     "uikTvd": "424404266640",
+    "uikName": "УИК №577",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 578,
     "uikTvd": "424404266642",
+    "uikName": "УИК №578",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 579,
     "uikTvd": "424404266644",
+    "uikName": "УИК №579",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 580,
     "uikTvd": "424404266646",
+    "uikName": "УИК №580",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 581,
     "uikTvd": "424404266648",
+    "uikName": "УИК №581",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 582,
     "uikTvd": "424404266650",
+    "uikName": "УИК №582",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 583,
     "uikTvd": "424404266652",
+    "uikName": "УИК №583",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 584,
     "uikTvd": "424404266654",
+    "uikName": "УИК №584",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 585,
     "uikTvd": "424404266656",
+    "uikName": "УИК №585",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 586,
     "uikTvd": "424404266658",
+    "uikName": "УИК №586",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 587,
     "uikTvd": "424404266660",
+    "uikName": "УИК №587",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 588,
     "uikTvd": "424404266662",
+    "uikName": "УИК №588",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 589,
     "uikTvd": "424404266664",
+    "uikName": "УИК №589",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 590,
     "uikTvd": "424404266666",
+    "uikName": "УИК №590",
     "tikTvd": "224200067612",
-    "tikName": "Назаровская городская"
+    "tikName": "Назаровская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 592,
     "uikTvd": "424404566785",
+    "uikName": "УИК №592",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 593,
     "uikTvd": "424404566787",
+    "uikName": "УИК №593",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 594,
     "uikTvd": "424404566788",
+    "uikName": "УИК №594",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 595,
     "uikTvd": "424404566789",
+    "uikName": "УИК №595",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 596,
     "uikTvd": "424404566790",
+    "uikName": "УИК №596",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 597,
     "uikTvd": "424404566791",
+    "uikName": "УИК №597",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 598,
     "uikTvd": "424404566792",
+    "uikName": "УИК №598",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 599,
     "uikTvd": "424404566793",
+    "uikName": "УИК №599",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 600,
     "uikTvd": "424404566794",
+    "uikName": "УИК №600",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 601,
     "uikTvd": "424404566795",
+    "uikName": "УИК №601",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 602,
     "uikTvd": "424404566796",
+    "uikName": "УИК №602",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 603,
     "uikTvd": "424404566797",
+    "uikName": "УИК №603",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 604,
     "uikTvd": "424404566798",
+    "uikName": "УИК №604",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 605,
     "uikTvd": "424404566799",
+    "uikName": "УИК №605",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 606,
     "uikTvd": "424404566800",
+    "uikName": "УИК №606",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 607,
     "uikTvd": "424404566801",
+    "uikName": "УИК №607",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 608,
     "uikTvd": "424404566802",
+    "uikName": "УИК №608",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 609,
     "uikTvd": "424404566803",
+    "uikName": "УИК №609",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 610,
     "uikTvd": "424404566804",
+    "uikName": "УИК №610",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 611,
     "uikTvd": "424404566805",
+    "uikName": "УИК №611",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 612,
     "uikTvd": "424404566806",
+    "uikName": "УИК №612",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 613,
     "uikTvd": "424404566807",
+    "uikName": "УИК №613",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 614,
     "uikTvd": "424404566808",
+    "uikName": "УИК №614",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 615,
     "uikTvd": "424404566809",
+    "uikName": "УИК №615",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 616,
     "uikTvd": "424404566810",
+    "uikName": "УИК №616",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 617,
     "uikTvd": "424404566811",
+    "uikName": "УИК №617",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 618,
     "uikTvd": "424404566812",
+    "uikName": "УИК №618",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 619,
     "uikTvd": "424404566813",
+    "uikName": "УИК №619",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 620,
     "uikTvd": "424404566814",
+    "uikName": "УИК №620",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 621,
     "uikTvd": "424404566815",
+    "uikName": "УИК №621",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 622,
     "uikTvd": "424404566816",
+    "uikName": "УИК №622",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 623,
     "uikTvd": "424404566817",
+    "uikName": "УИК №623",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 624,
     "uikTvd": "424404566818",
+    "uikName": "УИК №624",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 625,
     "uikTvd": "424404566819",
+    "uikName": "УИК №625",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 626,
     "uikTvd": "424404566820",
+    "uikName": "УИК №626",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 627,
     "uikTvd": "424404566821",
+    "uikName": "УИК №627",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 628,
     "uikTvd": "424404566822",
+    "uikName": "УИК №628",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 629,
     "uikTvd": "424404566823",
+    "uikName": "УИК №629",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 630,
     "uikTvd": "424404566824",
+    "uikName": "УИК №630",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 631,
     "uikTvd": "424404566825",
+    "uikName": "УИК №631",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 632,
     "uikTvd": "424404566826",
+    "uikName": "УИК №632",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 633,
     "uikTvd": "424404566827",
+    "uikName": "УИК №633",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 634,
     "uikTvd": "424404566828",
+    "uikName": "УИК №634",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 635,
     "uikTvd": "424404566829",
+    "uikName": "УИК №635",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 636,
     "uikTvd": "424404566830",
+    "uikName": "УИК №636",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 637,
     "uikTvd": "424404566831",
+    "uikName": "УИК №637",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 638,
     "uikTvd": "424404566832",
+    "uikName": "УИК №638",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 639,
     "uikTvd": "424404566833",
+    "uikName": "УИК №639",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 640,
     "uikTvd": "424404566834",
+    "uikName": "УИК №640",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 641,
     "uikTvd": "424404566835",
+    "uikName": "УИК №641",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 642,
     "uikTvd": "424404566836",
+    "uikName": "УИК №642",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 643,
     "uikTvd": "424404566837",
+    "uikName": "УИК №643",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 644,
     "uikTvd": "424404566838",
+    "uikName": "УИК №644",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 645,
     "uikTvd": "424404566839",
+    "uikName": "УИК №645",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 646,
     "uikTvd": "424404566840",
+    "uikName": "УИК №646",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 647,
     "uikTvd": "424404566841",
+    "uikName": "УИК №647",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 648,
     "uikTvd": "424404566842",
+    "uikName": "УИК №648",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 649,
     "uikTvd": "424404566843",
+    "uikName": "УИК №649",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 650,
     "uikTvd": "424404566844",
+    "uikName": "УИК №650",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 651,
     "uikTvd": "424404566845",
+    "uikName": "УИК №651",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 652,
     "uikTvd": "424404566846",
+    "uikName": "УИК №652",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 653,
     "uikTvd": "424404566847",
+    "uikName": "УИК №653",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 654,
     "uikTvd": "424404566848",
+    "uikName": "УИК №654",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 655,
     "uikTvd": "424404566849",
+    "uikName": "УИК №655",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 656,
     "uikTvd": "424404566850",
+    "uikName": "УИК №656",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 657,
     "uikTvd": "424404566851",
+    "uikName": "УИК №657",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 658,
     "uikTvd": "424404566852",
+    "uikName": "УИК №658",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 659,
     "uikTvd": "424404566853",
+    "uikName": "УИК №659",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 660,
     "uikTvd": "424404566854",
+    "uikName": "УИК №660",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 661,
     "uikTvd": "424404566855",
+    "uikName": "УИК №661",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 662,
     "uikTvd": "424404566856",
+    "uikName": "УИК №662",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 663,
     "uikTvd": "424404566857",
+    "uikName": "УИК №663",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 664,
     "uikTvd": "424404566858",
+    "uikName": "УИК №664",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 665,
     "uikTvd": "424404566859",
+    "uikName": "УИК №665",
     "tikTvd": "224200067629",
-    "tikName": "Норильская городская"
+    "tikName": "Норильская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 48,
+      "oikTvd": "100100095644",
+      "oikName": "Енисейский"
+    }
   },
   {
     "uikNumber": 666,
     "uikTvd": "424405066623",
+    "uikName": "УИК №666",
     "tikTvd": "224200067661",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 667,
     "uikTvd": "424405066624",
+    "uikName": "УИК №667",
     "tikTvd": "224200067661",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 668,
     "uikTvd": "424405066625",
+    "uikName": "УИК №668",
     "tikTvd": "224200067661",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 669,
     "uikTvd": "424405066626",
+    "uikName": "УИК №669",
     "tikTvd": "224200067661",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 670,
     "uikTvd": "424405066627",
+    "uikName": "УИК №670",
     "tikTvd": "224200067661",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 671,
     "uikTvd": "424405066628",
+    "uikName": "УИК №671",
     "tikTvd": "224200067661",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 672,
     "uikTvd": "424405066629",
+    "uikName": "УИК №672",
     "tikTvd": "224200067661",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 673,
     "uikTvd": "424405066630",
+    "uikName": "УИК №673",
     "tikTvd": "224200067661",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 674,
     "uikTvd": "424405066631",
+    "uikName": "УИК №674",
     "tikTvd": "224200067661",
-    "tikName": "Сосновоборская городская"
+    "tikName": "Сосновоборская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 676,
     "uikTvd": "424405866628",
+    "uikName": "УИК №676",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 677,
     "uikTvd": "424405866629",
+    "uikName": "УИК №677",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 678,
     "uikTvd": "424405866630",
+    "uikName": "УИК №678",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 679,
     "uikTvd": "424405866631",
+    "uikName": "УИК №679",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 680,
     "uikTvd": "424405866632",
+    "uikName": "УИК №680",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 681,
     "uikTvd": "424405866633",
+    "uikName": "УИК №681",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 682,
     "uikTvd": "424405866634",
+    "uikName": "УИК №682",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 683,
     "uikTvd": "424405866635",
+    "uikName": "УИК №683",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 684,
     "uikTvd": "424405866636",
+    "uikName": "УИК №684",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 685,
     "uikTvd": "424405866637",
+    "uikName": "УИК №685",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 686,
     "uikTvd": "424405866638",
+    "uikName": "УИК №686",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 687,
     "uikTvd": "424405866639",
+    "uikName": "УИК №687",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 688,
     "uikTvd": "424405866640",
+    "uikName": "УИК №688",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 689,
     "uikTvd": "424405866641",
+    "uikName": "УИК №689",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 690,
     "uikTvd": "424405866642",
+    "uikName": "УИК №690",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 691,
     "uikTvd": "424405866643",
+    "uikName": "УИК №691",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 692,
     "uikTvd": "424405866644",
+    "uikName": "УИК №692",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 693,
     "uikTvd": "424405866645",
+    "uikName": "УИК №693",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 694,
     "uikTvd": "424405866646",
+    "uikName": "УИК №694",
     "tikTvd": "224200067606",
-    "tikName": "Шарыповская городская"
+    "tikName": "Шарыповская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 696,
     "uikTvd": "424400566765",
+    "uikName": "УИК №696",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 697,
     "uikTvd": "424400566766",
+    "uikName": "УИК №697",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 698,
     "uikTvd": "424400566767",
+    "uikName": "УИК №698",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 699,
     "uikTvd": "424400566768",
+    "uikName": "УИК №699",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 700,
     "uikTvd": "424400566769",
+    "uikName": "УИК №700",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 701,
     "uikTvd": "424400566770",
+    "uikName": "УИК №701",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 702,
     "uikTvd": "424400566771",
+    "uikName": "УИК №702",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 703,
     "uikTvd": "424400566772",
+    "uikName": "УИК №703",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 704,
     "uikTvd": "424400566773",
+    "uikName": "УИК №704",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 705,
     "uikTvd": "424400566774",
+    "uikName": "УИК №705",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 706,
     "uikTvd": "424400566775",
+    "uikName": "УИК №706",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 707,
     "uikTvd": "424400566776",
+    "uikName": "УИК №707",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 708,
     "uikTvd": "424400566777",
+    "uikName": "УИК №708",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 709,
     "uikTvd": "424400566778",
+    "uikName": "УИК №709",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 710,
     "uikTvd": "424400566779",
+    "uikName": "УИК №710",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 711,
     "uikTvd": "424400566780",
+    "uikName": "УИК №711",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 712,
     "uikTvd": "424400566781",
+    "uikName": "УИК №712",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 713,
     "uikTvd": "424400566782",
+    "uikName": "УИК №713",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 714,
     "uikTvd": "424400566783",
+    "uikName": "УИК №714",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 715,
     "uikTvd": "424400566784",
+    "uikName": "УИК №715",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 716,
     "uikTvd": "424400566785",
+    "uikName": "УИК №716",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 717,
     "uikTvd": "424400566786",
+    "uikName": "УИК №717",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 718,
     "uikTvd": "424400566787",
+    "uikName": "УИК №718",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 719,
     "uikTvd": "424400566788",
+    "uikName": "УИК №719",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 720,
     "uikTvd": "424400566789",
+    "uikName": "УИК №720",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 721,
     "uikTvd": "424400566790",
+    "uikName": "УИК №721",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 722,
     "uikTvd": "424400566791",
+    "uikName": "УИК №722",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 723,
     "uikTvd": "424400566792",
+    "uikName": "УИК №723",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 724,
     "uikTvd": "424400566793",
+    "uikName": "УИК №724",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 725,
     "uikTvd": "424400566794",
+    "uikName": "УИК №725",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 726,
     "uikTvd": "424400566795",
+    "uikName": "УИК №726",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 727,
     "uikTvd": "424400566796",
+    "uikName": "УИК №727",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 728,
     "uikTvd": "424400566797",
+    "uikName": "УИК №728",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 729,
     "uikTvd": "424400566798",
+    "uikName": "УИК №729",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 730,
     "uikTvd": "424400566799",
+    "uikName": "УИК №730",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 731,
     "uikTvd": "424400566800",
+    "uikName": "УИК №731",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 732,
     "uikTvd": "424400566801",
+    "uikName": "УИК №732",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 733,
     "uikTvd": "424400566802",
+    "uikName": "УИК №733",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 734,
     "uikTvd": "424400566803",
+    "uikName": "УИК №734",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 735,
     "uikTvd": "424400566804",
+    "uikName": "УИК №735",
     "tikTvd": "224200067667",
-    "tikName": "Железногорская городская"
+    "tikName": "Железногорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 738,
     "uikTvd": "424401966741",
+    "uikName": "УИК №738",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 739,
     "uikTvd": "424401966745",
+    "uikName": "УИК №739",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 740,
     "uikTvd": "424401966743",
+    "uikName": "УИК №740",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 741,
     "uikTvd": "424401966746",
+    "uikName": "УИК №741",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 742,
     "uikTvd": "424401966747",
+    "uikName": "УИК №742",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 743,
     "uikTvd": "424401966748",
+    "uikName": "УИК №743",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 744,
     "uikTvd": "424401966749",
+    "uikName": "УИК №744",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 745,
     "uikTvd": "424401966750",
+    "uikName": "УИК №745",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 746,
     "uikTvd": "424401966751",
+    "uikName": "УИК №746",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 747,
     "uikTvd": "424401966752",
+    "uikName": "УИК №747",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 748,
     "uikTvd": "424401966753",
+    "uikName": "УИК №748",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 749,
     "uikTvd": "424401966754",
+    "uikName": "УИК №749",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 750,
     "uikTvd": "424401966755",
+    "uikName": "УИК №750",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 751,
     "uikTvd": "424401966756",
+    "uikName": "УИК №751",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 752,
     "uikTvd": "424401966757",
+    "uikName": "УИК №752",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 753,
     "uikTvd": "424401966758",
+    "uikName": "УИК №753",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 754,
     "uikTvd": "424401966759",
+    "uikName": "УИК №754",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 755,
     "uikTvd": "424401966760",
+    "uikName": "УИК №755",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 756,
     "uikTvd": "424401966761",
+    "uikName": "УИК №756",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 757,
     "uikTvd": "424401966762",
+    "uikName": "УИК №757",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 758,
     "uikTvd": "424401966763",
+    "uikName": "УИК №758",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 759,
     "uikTvd": "424401966764",
+    "uikName": "УИК №759",
     "tikTvd": "224200067651",
-    "tikName": "Зеленогорская городская"
+    "tikName": "Зеленогорская городская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 761,
     "uikTvd": "424401566645",
+    "uikName": "УИК  761",
     "tikTvd": "224200067666",
-    "tikName": "Кедровая поселковая"
+    "tikName": "Кедровая поселковая",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 762,
     "uikTvd": "424401566646",
+    "uikName": "УИК  762",
     "tikTvd": "224200067666",
-    "tikName": "Кедровая поселковая"
+    "tikName": "Кедровая поселковая",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 763,
     "uikTvd": "424401566647",
+    "uikName": "УИК  763",
     "tikTvd": "224200067666",
-    "tikName": "Кедровая поселковая"
+    "tikName": "Кедровая поселковая",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 764,
     "uikTvd": "424405666612",
+    "uikName": "УИК  764",
     "tikTvd": "224200067610",
-    "tikName": "Солнечная поселковая"
+    "tikName": "Солнечная поселковая",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 765,
     "uikTvd": "424405666613",
+    "uikName": "УИК  765",
     "tikTvd": "224200067610",
-    "tikName": "Солнечная поселковая"
+    "tikName": "Солнечная поселковая",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 766,
     "uikTvd": "424405666614",
+    "uikName": "УИК  766",
     "tikTvd": "224200067610",
-    "tikName": "Солнечная поселковая"
+    "tikName": "Солнечная поселковая",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 767,
     "uikTvd": "424405666615",
+    "uikName": "УИК  767",
     "tikTvd": "224200067610",
-    "tikName": "Солнечная поселковая"
+    "tikName": "Солнечная поселковая",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 770,
     "uikTvd": "424400167208",
+    "uikName": "УИК №770",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 771,
     "uikTvd": "424400167209",
+    "uikName": "УИК №771",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 772,
     "uikTvd": "424400167210",
+    "uikName": "УИК №772",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 773,
     "uikTvd": "424400167211",
+    "uikName": "УИК №773",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 774,
     "uikTvd": "424400167212",
+    "uikName": "УИК №774",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 775,
     "uikTvd": "424400167213",
+    "uikName": "УИК №775",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 776,
     "uikTvd": "424400167214",
+    "uikName": "УИК №776",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 777,
     "uikTvd": "424400167215",
+    "uikName": "УИК №777",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 778,
     "uikTvd": "424400167216",
+    "uikName": "УИК №778",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 779,
     "uikTvd": "424400167217",
+    "uikName": "УИК №779",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 780,
     "uikTvd": "424400167218",
+    "uikName": "УИК №780",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 781,
     "uikTvd": "424400167219",
+    "uikName": "УИК №781",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 782,
     "uikTvd": "424400167220",
+    "uikName": "УИК №782",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 783,
     "uikTvd": "424400167221",
+    "uikName": "УИК №783",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 784,
     "uikTvd": "424400167222",
+    "uikName": "УИК №784",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 785,
     "uikTvd": "424400167223",
+    "uikName": "УИК №785",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 786,
     "uikTvd": "424400167224",
+    "uikName": "УИК №786",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 787,
     "uikTvd": "424400167225",
+    "uikName": "УИК №787",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 788,
     "uikTvd": "424400167226",
+    "uikName": "УИК №788",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 789,
     "uikTvd": "424400167227",
+    "uikName": "УИК №789",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 790,
     "uikTvd": "424400167228",
+    "uikName": "УИК №790",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 791,
     "uikTvd": "424400167229",
+    "uikName": "УИК №791",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 792,
     "uikTvd": "424400167230",
+    "uikName": "УИК №792",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 793,
     "uikTvd": "424400167231",
+    "uikName": "УИК №793",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 794,
     "uikTvd": "424400167232",
+    "uikName": "УИК №794",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 795,
     "uikTvd": "424400167233",
+    "uikName": "УИК №795",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 796,
     "uikTvd": "424400167234",
+    "uikName": "УИК №796",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 797,
     "uikTvd": "424400167235",
+    "uikName": "УИК №797",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 798,
     "uikTvd": "424400167236",
+    "uikName": "УИК №798",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 799,
     "uikTvd": "424400167237",
+    "uikName": "УИК №799",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 800,
     "uikTvd": "424400167238",
+    "uikName": "УИК №800",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 801,
     "uikTvd": "424400167239",
+    "uikName": "УИК №801",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 802,
     "uikTvd": "424400167240",
+    "uikName": "УИК №802",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 803,
     "uikTvd": "424400167241",
+    "uikName": "УИК №803",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 804,
     "uikTvd": "424400167242",
+    "uikName": "УИК №804",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 805,
     "uikTvd": "424400167243",
+    "uikName": "УИК №805",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 806,
     "uikTvd": "424400167244",
+    "uikName": "УИК №806",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 807,
     "uikTvd": "424400167245",
+    "uikName": "УИК №807",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 808,
     "uikTvd": "424400167246",
+    "uikName": "УИК №808",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 809,
     "uikTvd": "424400167247",
+    "uikName": "УИК №809",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 810,
     "uikTvd": "424400167248",
+    "uikName": "УИК №810",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 811,
     "uikTvd": "424400167249",
+    "uikName": "УИК №811",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 812,
     "uikTvd": "424400167250",
+    "uikName": "УИК №812",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 813,
     "uikTvd": "424400167251",
+    "uikName": "УИК №813",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 814,
     "uikTvd": "424400167252",
+    "uikName": "УИК №814",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 815,
     "uikTvd": "424400167253",
+    "uikName": "УИК №815",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 816,
     "uikTvd": "424400167254",
+    "uikName": "УИК №816",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 817,
     "uikTvd": "424400167255",
+    "uikName": "УИК №817",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 818,
     "uikTvd": "424400167256",
+    "uikName": "УИК №818",
     "tikTvd": "224200067658",
-    "tikName": "Абанская"
+    "tikName": "Абанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 820,
     "uikTvd": "424406166690",
+    "uikName": "УИК №820",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 821,
     "uikTvd": "424406166691",
+    "uikName": "УИК №821",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 822,
     "uikTvd": "424406166692",
+    "uikName": "УИК №822",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 823,
     "uikTvd": "424406166693",
+    "uikName": "УИК №823",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 824,
     "uikTvd": "424406166694",
+    "uikName": "УИК №824",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 825,
     "uikTvd": "424406166695",
+    "uikName": "УИК №825",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 826,
     "uikTvd": "424406166696",
+    "uikName": "УИК №826",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 827,
     "uikTvd": "424406166697",
+    "uikName": "УИК №827",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 828,
     "uikTvd": "424406166698",
+    "uikName": "УИК №828",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 829,
     "uikTvd": "424406166699",
+    "uikName": "УИК №829",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 830,
     "uikTvd": "424406166700",
+    "uikName": "УИК №830",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 831,
     "uikTvd": "424406166701",
+    "uikName": "УИК №831",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 832,
     "uikTvd": "424406166702",
+    "uikName": "УИК №832",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 833,
     "uikTvd": "424406166703",
+    "uikName": "УИК №833",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 834,
     "uikTvd": "424406166704",
+    "uikName": "УИК №834",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 835,
     "uikTvd": "424406166705",
+    "uikName": "УИК №835",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 836,
     "uikTvd": "424406166706",
+    "uikName": "УИК №836",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 837,
     "uikTvd": "424406166707",
+    "uikName": "УИК №837",
     "tikTvd": "224200067628",
-    "tikName": "Ачинская "
+    "tikName": "Ачинская ",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 839,
     "uikTvd": "424400366674",
+    "uikName": "УИК  839",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 840,
     "uikTvd": "424400366680",
+    "uikName": "УИК  840",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 841,
     "uikTvd": "424400366681",
+    "uikName": "УИК  841",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 842,
     "uikTvd": "424400366682",
+    "uikName": "УИК  842",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 843,
     "uikTvd": "424400366683",
+    "uikName": "УИК  843",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 844,
     "uikTvd": "424400366684",
+    "uikName": "УИК  844",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 845,
     "uikTvd": "424400366685",
+    "uikName": "УИК  845",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 846,
     "uikTvd": "424400366686",
+    "uikName": "УИК  846",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 847,
     "uikTvd": "424400366687",
+    "uikName": "УИК  847",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 848,
     "uikTvd": "424400366688",
+    "uikName": "УИК  848",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 849,
     "uikTvd": "424400366689",
+    "uikName": "УИК  849",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 850,
     "uikTvd": "424400366690",
+    "uikName": "УИК  850",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 851,
     "uikTvd": "424400366691",
+    "uikName": "УИК  851",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 852,
     "uikTvd": "424400366692",
+    "uikName": "УИК  852",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 853,
     "uikTvd": "424400366693",
+    "uikName": "УИК  853",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 854,
     "uikTvd": "424400366694",
+    "uikName": "УИК  854",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 855,
     "uikTvd": "424400366695",
+    "uikName": "УИК  855",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 856,
     "uikTvd": "424400366696",
+    "uikName": "УИК  856",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 857,
     "uikTvd": "424400366697",
+    "uikName": "УИК  857",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 858,
     "uikTvd": "424400366698",
+    "uikName": "УИК  858",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 859,
     "uikTvd": "424400366699",
+    "uikName": "УИК  859",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 860,
     "uikTvd": "424400366700",
+    "uikName": "УИК  860",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 861,
     "uikTvd": "424400366701",
+    "uikName": "УИК  861",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 862,
     "uikTvd": "424400366702",
+    "uikName": "УИК  862",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 863,
     "uikTvd": "424400366703",
+    "uikName": "УИК  863",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 864,
     "uikTvd": "424400366704",
+    "uikName": "УИК  864",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 865,
     "uikTvd": "424400366705",
+    "uikName": "УИК  865",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 866,
     "uikTvd": "424400366706",
+    "uikName": "УИК  866",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 867,
     "uikTvd": "424400366707",
+    "uikName": "УИК  867",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 868,
     "uikTvd": "424400366708",
+    "uikName": "УИК  868",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 869,
     "uikTvd": "424400366709",
+    "uikName": "УИК  869",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 870,
     "uikTvd": "424400366710",
+    "uikName": "УИК  870",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 871,
     "uikTvd": "424400366711",
+    "uikName": "УИК  871",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 872,
     "uikTvd": "424400366712",
+    "uikName": "УИК  872",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 873,
     "uikTvd": "424400366713",
+    "uikName": "УИК  873",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 874,
     "uikTvd": "424400366714",
+    "uikName": "УИК  874",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 875,
     "uikTvd": "424400366715",
+    "uikName": "УИК  875",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 876,
     "uikTvd": "424400366716",
+    "uikName": "УИК  876",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 877,
     "uikTvd": "424400366717",
+    "uikName": "УИК  877",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 878,
     "uikTvd": "424400366718",
+    "uikName": "УИК  878",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 879,
     "uikTvd": "424400366719",
+    "uikName": "УИК  879",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 880,
     "uikTvd": "424400366720",
+    "uikName": "УИК  880",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 881,
     "uikTvd": "424400366721",
+    "uikName": "УИК  881",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 882,
     "uikTvd": "424400366722",
+    "uikName": "УИК  882",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 883,
     "uikTvd": "424400366723",
+    "uikName": "УИК  883",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 884,
     "uikTvd": "424400366724",
+    "uikName": "УИК  884",
     "tikTvd": "224200067626",
-    "tikName": "Балахтинская"
+    "tikName": "Балахтинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 886,
     "uikTvd": "424400466683",
+    "uikName": "УИК №886",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 887,
     "uikTvd": "424400466684",
+    "uikName": "УИК №887",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 888,
     "uikTvd": "424400466685",
+    "uikName": "УИК №888",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 889,
     "uikTvd": "424400466686",
+    "uikName": "УИК №889",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 890,
     "uikTvd": "424400466687",
+    "uikName": "УИК №890",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 891,
     "uikTvd": "424400466688",
+    "uikName": "УИК №891",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 892,
     "uikTvd": "424400466689",
+    "uikName": "УИК №892",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 893,
     "uikTvd": "424400466690",
+    "uikName": "УИК №893",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 894,
     "uikTvd": "424400466691",
+    "uikName": "УИК №894",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 895,
     "uikTvd": "424400466692",
+    "uikName": "УИК №895",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 896,
     "uikTvd": "424400466693",
+    "uikName": "УИК №896",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 897,
     "uikTvd": "424400466694",
+    "uikName": "УИК №897",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 898,
     "uikTvd": "424400466695",
+    "uikName": "УИК №898",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 899,
     "uikTvd": "424400466696",
+    "uikName": "УИК №899",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 900,
     "uikTvd": "424400466697",
+    "uikName": "УИК №900",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 901,
     "uikTvd": "424400466698",
+    "uikName": "УИК №901",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 902,
     "uikTvd": "424400466699",
+    "uikName": "УИК №902",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 903,
     "uikTvd": "424400466700",
+    "uikName": "УИК №903",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 904,
     "uikTvd": "424400466701",
+    "uikName": "УИК №904",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 905,
     "uikTvd": "424400466702",
+    "uikName": "УИК №905",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 906,
     "uikTvd": "424400466703",
+    "uikName": "УИК №906",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 907,
     "uikTvd": "424400466704",
+    "uikName": "УИК №907",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 908,
     "uikTvd": "424400466705",
+    "uikName": "УИК №908",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 909,
     "uikTvd": "424400466706",
+    "uikName": "УИК №909",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 910,
     "uikTvd": "424400466707",
+    "uikName": "УИК №910",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 911,
     "uikTvd": "424400466708",
+    "uikName": "УИК №911",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 912,
     "uikTvd": "424400466709",
+    "uikName": "УИК №912",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 913,
     "uikTvd": "424400466710",
+    "uikName": "УИК №913",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 914,
     "uikTvd": "424400466711",
+    "uikName": "УИК №914",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 915,
     "uikTvd": "424400466712",
+    "uikName": "УИК №915",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 916,
     "uikTvd": "424400466713",
+    "uikName": "УИК №916",
     "tikTvd": "224200067671",
-    "tikName": "Березовская"
+    "tikName": "Березовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 918,
     "uikTvd": "424400666727",
+    "uikName": "УИК №918",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 919,
     "uikTvd": "424400666728",
+    "uikName": "УИК №919",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 920,
     "uikTvd": "424400666729",
+    "uikName": "УИК №920",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 921,
     "uikTvd": "424400666730",
+    "uikName": "УИК №921",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 922,
     "uikTvd": "424400666731",
+    "uikName": "УИК №922",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 923,
     "uikTvd": "424400666732",
+    "uikName": "УИК №923",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 924,
     "uikTvd": "424400666733",
+    "uikName": "УИК №924",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 925,
     "uikTvd": "424400666734",
+    "uikName": "УИК №925",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 926,
     "uikTvd": "424400666735",
+    "uikName": "УИК №926",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 927,
     "uikTvd": "424400666736",
+    "uikName": "УИК №927",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 928,
     "uikTvd": "424400666737",
+    "uikName": "УИК №928",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 929,
     "uikTvd": "424400666738",
+    "uikName": "УИК №929",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 930,
     "uikTvd": "424400666739",
+    "uikName": "УИК №930",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 931,
     "uikTvd": "424400666740",
+    "uikName": "УИК №931",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 932,
     "uikTvd": "424400666741",
+    "uikName": "УИК №932",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 933,
     "uikTvd": "424400666742",
+    "uikName": "УИК №933",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 934,
     "uikTvd": "424400666743",
+    "uikName": "УИК №934",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 935,
     "uikTvd": "424400666744",
+    "uikName": "УИК №935",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 936,
     "uikTvd": "424400666745",
+    "uikName": "УИК №936",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 937,
     "uikTvd": "424400666746",
+    "uikName": "УИК №937",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 938,
     "uikTvd": "424400666747",
+    "uikName": "УИК №938",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 939,
     "uikTvd": "424400666748",
+    "uikName": "УИК №939",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 940,
     "uikTvd": "424400666749",
+    "uikName": "УИК №940",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 941,
     "uikTvd": "424400666750",
+    "uikName": "УИК №941",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 942,
     "uikTvd": "424400666751",
+    "uikName": "УИК №942",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 943,
     "uikTvd": "424400666752",
+    "uikName": "УИК №943",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 944,
     "uikTvd": "424400666753",
+    "uikName": "УИК №944",
     "tikTvd": "224200067625",
-    "tikName": "Бирилюсская"
+    "tikName": "Бирилюсская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 945,
     "uikTvd": "424406266639",
+    "uikName": "УИК №945",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 946,
     "uikTvd": "424406266640",
+    "uikName": "УИК №946",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 947,
     "uikTvd": "424406266641",
+    "uikName": "УИК №947",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 948,
     "uikTvd": "424406266642",
+    "uikName": "УИК №948",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 949,
     "uikTvd": "424406266643",
+    "uikName": "УИК №949",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 950,
     "uikTvd": "424406266644",
+    "uikName": "УИК №950",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 951,
     "uikTvd": "424406266645",
+    "uikName": "УИК №951",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 952,
     "uikTvd": "424406266646",
+    "uikName": "УИК №952",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 953,
     "uikTvd": "424406266647",
+    "uikName": "УИК №953",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 954,
     "uikTvd": "424406266648",
+    "uikName": "УИК №954",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 955,
     "uikTvd": "424406266649",
+    "uikName": "УИК №955",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 956,
     "uikTvd": "424406266650",
+    "uikName": "УИК №956",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 957,
     "uikTvd": "424406266651",
+    "uikName": "УИК №957",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 958,
     "uikTvd": "424406266652",
+    "uikName": "УИК №958",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 959,
     "uikTvd": "424406266653",
+    "uikName": "УИК №959",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 960,
     "uikTvd": "424406266654",
+    "uikName": "УИК №960",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 961,
     "uikTvd": "424406266655",
+    "uikName": "УИК №961",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 962,
     "uikTvd": "424406266656",
+    "uikName": "УИК №962",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 963,
     "uikTvd": "424406266657",
+    "uikName": "УИК №963",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 964,
     "uikTvd": "424406266658",
+    "uikName": "УИК №964",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 965,
     "uikTvd": "424406266659",
+    "uikName": "УИК №965",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 966,
     "uikTvd": "424406266660",
+    "uikName": "УИК №966",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 967,
     "uikTvd": "424406266661",
+    "uikName": "УИК №967",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 968,
     "uikTvd": "424406266662",
+    "uikName": "УИК №968",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 969,
     "uikTvd": "424406266663",
+    "uikName": "УИК №969",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 970,
     "uikTvd": "424406266664",
+    "uikName": "УИК №970",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 971,
     "uikTvd": "424406266665",
+    "uikName": "УИК №971",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 972,
     "uikTvd": "424406266666",
+    "uikName": "УИК №972",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 973,
     "uikTvd": "424406266667",
+    "uikName": "УИК №973",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 974,
     "uikTvd": "424406266668",
+    "uikName": "УИК №974",
     "tikTvd": "224200067624",
-    "tikName": "Боготольская"
+    "tikName": "Боготольская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 975,
     "uikTvd": "424400866777",
+    "uikName": "УИК №975",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 976,
     "uikTvd": "424400866778",
+    "uikName": "УИК №976",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 977,
     "uikTvd": "424400866779",
+    "uikName": "УИК №977",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 978,
     "uikTvd": "424400866780",
+    "uikName": "УИК №978",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 979,
     "uikTvd": "424400866781",
+    "uikName": "УИК №979",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 980,
     "uikTvd": "424400866782",
+    "uikName": "УИК №980",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 981,
     "uikTvd": "424400866783",
+    "uikName": "УИК №981",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 982,
     "uikTvd": "424400866784",
+    "uikName": "УИК №982",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 983,
     "uikTvd": "424400866785",
+    "uikName": "УИК №983",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 984,
     "uikTvd": "424400866786",
+    "uikName": "УИК №984",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 985,
     "uikTvd": "424400866787",
+    "uikName": "УИК №985",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 986,
     "uikTvd": "424400866788",
+    "uikName": "УИК №986",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 987,
     "uikTvd": "424400866789",
+    "uikName": "УИК №987",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 988,
     "uikTvd": "424400866790",
+    "uikName": "УИК №988",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 989,
     "uikTvd": "424400866791",
+    "uikName": "УИК №989",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 990,
     "uikTvd": "424400866792",
+    "uikName": "УИК №990",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 991,
     "uikTvd": "424400866793",
+    "uikName": "УИК №991",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 992,
     "uikTvd": "424400866794",
+    "uikName": "УИК №992",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 993,
     "uikTvd": "424400866795",
+    "uikName": "УИК №993",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 994,
     "uikTvd": "424400866796",
+    "uikName": "УИК №994",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 995,
     "uikTvd": "424400866797",
+    "uikName": "УИК №995",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 996,
     "uikTvd": "424400866798",
+    "uikName": "УИК №996",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 997,
     "uikTvd": "424400866799",
+    "uikName": "УИК №997",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 998,
     "uikTvd": "424400866800",
+    "uikName": "УИК №998",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 999,
     "uikTvd": "424400866801",
+    "uikName": "УИК №999",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1000,
     "uikTvd": "424400866802",
+    "uikName": "УИК №1000",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1001,
     "uikTvd": "424400866803",
+    "uikName": "УИК №1001",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1002,
     "uikTvd": "424400866804",
+    "uikName": "УИК №1002",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1003,
     "uikTvd": "424400866805",
+    "uikName": "УИК №1003",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1004,
     "uikTvd": "424400866806",
+    "uikName": "УИК №1004",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1005,
     "uikTvd": "424400866807",
+    "uikName": "УИК №1005",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1006,
     "uikTvd": "424400866808",
+    "uikName": "УИК №1006",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1007,
     "uikTvd": "424400866809",
+    "uikName": "УИК №1007",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1008,
     "uikTvd": "424400866775",
+    "uikName": "УИК №1008",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1009,
     "uikTvd": "424400866810",
+    "uikName": "УИК №1009",
     "tikTvd": "224200067657",
-    "tikName": "Богучанская"
+    "tikName": "Богучанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1011,
     "uikTvd": "424400966662",
+    "uikName": "УИК №1011",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1012,
     "uikTvd": "424400966663",
+    "uikName": "УИК №1012",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1013,
     "uikTvd": "424400966664",
+    "uikName": "УИК №1013",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1014,
     "uikTvd": "424400966665",
+    "uikName": "УИК №1014",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1015,
     "uikTvd": "424400966666",
+    "uikName": "УИК №1015",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1016,
     "uikTvd": "424400966667",
+    "uikName": "УИК №1016",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1017,
     "uikTvd": "424400966668",
+    "uikName": "УИК №1017",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1018,
     "uikTvd": "424400966669",
+    "uikName": "УИК №1018",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1019,
     "uikTvd": "424400966670",
+    "uikName": "УИК №1019",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1020,
     "uikTvd": "424400966671",
+    "uikName": "УИК №1020",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1021,
     "uikTvd": "424400966672",
+    "uikName": "УИК №1021",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1022,
     "uikTvd": "424400966673",
+    "uikName": "УИК №1022",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1023,
     "uikTvd": "424400966674",
+    "uikName": "УИК №1023",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1024,
     "uikTvd": "424400966675",
+    "uikName": "УИК №1024",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1025,
     "uikTvd": "424400966676",
+    "uikName": "УИК №1025",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1026,
     "uikTvd": "424400966677",
+    "uikName": "УИК №1026",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1027,
     "uikTvd": "424400966678",
+    "uikName": "УИК №1027",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1028,
     "uikTvd": "424400966679",
+    "uikName": "УИК №1028",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1029,
     "uikTvd": "424400966680",
+    "uikName": "УИК №1029",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1030,
     "uikTvd": "424400966681",
+    "uikName": "УИК №1030",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1031,
     "uikTvd": "424400966682",
+    "uikName": "УИК №1031",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1032,
     "uikTvd": "424400966683",
+    "uikName": "УИК №1032",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1033,
     "uikTvd": "424400966684",
+    "uikName": "УИК №1033",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1034,
     "uikTvd": "424400966685",
+    "uikName": "УИК №1034",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1035,
     "uikTvd": "424400966686",
+    "uikName": "УИК №1035",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1036,
     "uikTvd": "424400966687",
+    "uikName": "УИК №1036",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1037,
     "uikTvd": "424400966688",
+    "uikName": "УИК №1037",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1038,
     "uikTvd": "424400966689",
+    "uikName": "УИК №1038",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1039,
     "uikTvd": "424400966690",
+    "uikName": "УИК №1039",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1040,
     "uikTvd": "424400966691",
+    "uikName": "УИК №1040",
     "tikTvd": "224200067670",
-    "tikName": "Большемуртинская"
+    "tikName": "Большемуртинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1041,
     "uikTvd": "424401066683",
+    "uikName": "УИК №1041",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1042,
     "uikTvd": "424401066685",
+    "uikName": "УИК №1042",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1043,
     "uikTvd": "424401066687",
+    "uikName": "УИК №1043",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1044,
     "uikTvd": "424401066689",
+    "uikName": "УИК №1044",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1045,
     "uikTvd": "424401066691",
+    "uikName": "УИК №1045",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1046,
     "uikTvd": "424401066693",
+    "uikName": "УИК №1046",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1047,
     "uikTvd": "424401066695",
+    "uikName": "УИК №1047",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1048,
     "uikTvd": "424401066697",
+    "uikName": "УИК №1048",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1049,
     "uikTvd": "424401066699",
+    "uikName": "УИК №1049",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1050,
     "uikTvd": "424401066701",
+    "uikName": "УИК №1050",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1051,
     "uikTvd": "424401066703",
+    "uikName": "УИК №1051",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1052,
     "uikTvd": "424401066705",
+    "uikName": "УИК №1052",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1053,
     "uikTvd": "424401066707",
+    "uikName": "УИК №1053",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1054,
     "uikTvd": "424401066709",
+    "uikName": "УИК №1054",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1055,
     "uikTvd": "424401066711",
+    "uikName": "УИК №1055",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1056,
     "uikTvd": "424401066713",
+    "uikName": "УИК №1056",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1057,
     "uikTvd": "424401066715",
+    "uikName": "УИК №1057",
     "tikTvd": "224200067622",
-    "tikName": "Большеулуйская"
+    "tikName": "Большеулуйская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1058,
     "uikTvd": "424401266805",
+    "uikName": "УИК №1058",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1059,
     "uikTvd": "424401266806",
+    "uikName": "УИК №1059",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1060,
     "uikTvd": "424401266807",
+    "uikName": "УИК №1060",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1061,
     "uikTvd": "424401266808",
+    "uikName": "УИК №1061",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1062,
     "uikTvd": "424401266809",
+    "uikName": "УИК №1062",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1063,
     "uikTvd": "424401266810",
+    "uikName": "УИК №1063",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1064,
     "uikTvd": "424401266811",
+    "uikName": "УИК №1064",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1065,
     "uikTvd": "424401266812",
+    "uikName": "УИК №1065",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1066,
     "uikTvd": "424401266813",
+    "uikName": "УИК №1066",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1067,
     "uikTvd": "424401266814",
+    "uikName": "УИК №1067",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1068,
     "uikTvd": "424401266815",
+    "uikName": "УИК №1068",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1069,
     "uikTvd": "424401266816",
+    "uikName": "УИК №1069",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1070,
     "uikTvd": "424401266817",
+    "uikName": "УИК №1070",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1071,
     "uikTvd": "424401266818",
+    "uikName": "УИК №1071",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1072,
     "uikTvd": "424401266819",
+    "uikName": "УИК №1072",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1073,
     "uikTvd": "424401266820",
+    "uikName": "УИК №1073",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1074,
     "uikTvd": "424401266821",
+    "uikName": "УИК №1074",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1075,
     "uikTvd": "424401266822",
+    "uikName": "УИК №1075",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1076,
     "uikTvd": "424401266823",
+    "uikName": "УИК №1076",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1077,
     "uikTvd": "424401266824",
+    "uikName": "УИК №1077",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1078,
     "uikTvd": "424401266825",
+    "uikName": "УИК №1078",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1079,
     "uikTvd": "424401266826",
+    "uikName": "УИК №1079",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1080,
     "uikTvd": "424401266827",
+    "uikName": "УИК №1080",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1081,
     "uikTvd": "424401266828",
+    "uikName": "УИК №1081",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1082,
     "uikTvd": "424401266829",
+    "uikName": "УИК №1082",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1083,
     "uikTvd": "424401266830",
+    "uikName": "УИК №1083",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1084,
     "uikTvd": "424401266831",
+    "uikName": "УИК №1084",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1085,
     "uikTvd": "424401266832",
+    "uikName": "УИК №1085",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1086,
     "uikTvd": "424401266833",
+    "uikName": "УИК №1086",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1087,
     "uikTvd": "424401266834",
+    "uikName": "УИК №1087",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1088,
     "uikTvd": "424401266835",
+    "uikName": "УИК №1088",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1089,
     "uikTvd": "424401266836",
+    "uikName": "УИК №1089",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1090,
     "uikTvd": "424401266837",
+    "uikName": "УИК №1090",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1091,
     "uikTvd": "424401266838",
+    "uikName": "УИК №1091",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1092,
     "uikTvd": "424401266839",
+    "uikName": "УИК №1092",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1093,
     "uikTvd": "424401266840",
+    "uikName": "УИК №1093",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1094,
     "uikTvd": "424401266841",
+    "uikName": "УИК №1094",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1095,
     "uikTvd": "424401266842",
+    "uikName": "УИК №1095",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1096,
     "uikTvd": "424401266843",
+    "uikName": "УИК №1096",
     "tikTvd": "224200067655",
-    "tikName": "Дзержинская"
+    "tikName": "Дзержинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1097,
     "uikTvd": "424401466722",
+    "uikName": "УИК №1097",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1098,
     "uikTvd": "424401466723",
+    "uikName": "УИК №1098",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1099,
     "uikTvd": "424401466724",
+    "uikName": "УИК №1099",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1100,
     "uikTvd": "424401466725",
+    "uikName": "УИК №1100",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1101,
     "uikTvd": "424401466726",
+    "uikName": "УИК №1101",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1102,
     "uikTvd": "424401466727",
+    "uikName": "УИК №1102",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1103,
     "uikTvd": "424401466728",
+    "uikName": "УИК №1103",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1104,
     "uikTvd": "424401466729",
+    "uikName": "УИК №1104",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1105,
     "uikTvd": "424401466730",
+    "uikName": "УИК №1105",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1106,
     "uikTvd": "424401466731",
+    "uikName": "УИК №1106",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1107,
     "uikTvd": "424401466732",
+    "uikName": "УИК №1107",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1108,
     "uikTvd": "424401466733",
+    "uikName": "УИК №1108",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1109,
     "uikTvd": "424401466734",
+    "uikName": "УИК №1109",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1110,
     "uikTvd": "424401466735",
+    "uikName": "УИК №1110",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1111,
     "uikTvd": "424401466736",
+    "uikName": "УИК №1111",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1112,
     "uikTvd": "424401466737",
+    "uikName": "УИК №1112",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1113,
     "uikTvd": "424401466738",
+    "uikName": "УИК №1113",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1114,
     "uikTvd": "424401466739",
+    "uikName": "УИК №1114",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1115,
     "uikTvd": "424401466740",
+    "uikName": "УИК №1115",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1116,
     "uikTvd": "424401466741",
+    "uikName": "УИК №1116",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1117,
     "uikTvd": "424401466742",
+    "uikName": "УИК №1117",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1118,
     "uikTvd": "424401466743",
+    "uikName": "УИК №1118",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1119,
     "uikTvd": "424401466744",
+    "uikName": "УИК №1119",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1120,
     "uikTvd": "424401466745",
+    "uikName": "УИК №1120",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1121,
     "uikTvd": "424401466746",
+    "uikName": "УИК №1121",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1122,
     "uikTvd": "424401466747",
+    "uikName": "УИК №1122",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1123,
     "uikTvd": "424401466748",
+    "uikName": "УИК №1123",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1124,
     "uikTvd": "424401466749",
+    "uikName": "УИК №1124",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1125,
     "uikTvd": "424401466750",
+    "uikName": "УИК №1125",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1126,
     "uikTvd": "424401466751",
+    "uikName": "УИК №1126",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1127,
     "uikTvd": "424401466752",
+    "uikName": "УИК №1127",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1128,
     "uikTvd": "424401466753",
+    "uikName": "УИК №1128",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1129,
     "uikTvd": "424401466754",
+    "uikName": "УИК №1129",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1130,
     "uikTvd": "424401466755",
+    "uikName": "УИК №1130",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1131,
     "uikTvd": "424401466756",
+    "uikName": "УИК №1131",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1132,
     "uikTvd": "424401466757",
+    "uikName": "УИК №1132",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1133,
     "uikTvd": "424401466758",
+    "uikName": "УИК №1133",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1134,
     "uikTvd": "424401466759",
+    "uikName": "УИК №1134",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1135,
     "uikTvd": "424401466760",
+    "uikName": "УИК №1135",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1136,
     "uikTvd": "424401466761",
+    "uikName": "УИК №1136",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1137,
     "uikTvd": "424401466762",
+    "uikName": "УИК №1137",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1138,
     "uikTvd": "424401466763",
+    "uikName": "УИК №1138",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1139,
     "uikTvd": "424401466764",
+    "uikName": "УИК №1139",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1140,
     "uikTvd": "424401466765",
+    "uikName": "УИК №1140",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1141,
     "uikTvd": "424401466766",
+    "uikName": "УИК №1141",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1142,
     "uikTvd": "424401466767",
+    "uikName": "УИК №1142",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1143,
     "uikTvd": "424401466768",
+    "uikName": "УИК №1143",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1144,
     "uikTvd": "424401466769",
+    "uikName": "УИК №1144",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1145,
     "uikTvd": "424401466770",
+    "uikName": "УИК №1145",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1146,
     "uikTvd": "424401466771",
+    "uikName": "УИК №1146",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1147,
     "uikTvd": "424401466772",
+    "uikName": "УИК №1147",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1148,
     "uikTvd": "424401466773",
+    "uikName": "УИК №1148",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1149,
     "uikTvd": "424401466774",
+    "uikName": "УИК №1149",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1150,
     "uikTvd": "424401466775",
+    "uikName": "УИК №1150",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1151,
     "uikTvd": "424401466776",
+    "uikName": "УИК №1151",
     "tikTvd": "224200067668",
-    "tikName": "Емельяновская"
+    "tikName": "Емельяновская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1153,
     "uikTvd": "424406366773",
+    "uikName": "УИК №1153",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1154,
     "uikTvd": "424406366774",
+    "uikName": "УИК №1154",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1155,
     "uikTvd": "424406366775",
+    "uikName": "УИК №1155",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1156,
     "uikTvd": "424406366776",
+    "uikName": "УИК №1156",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1157,
     "uikTvd": "424406366777",
+    "uikName": "УИК №1157",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1158,
     "uikTvd": "424406366778",
+    "uikName": "УИК №1158",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1159,
     "uikTvd": "424406366779",
+    "uikName": "УИК №1159",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1160,
     "uikTvd": "424406366780",
+    "uikName": "УИК №1160",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1161,
     "uikTvd": "424406366781",
+    "uikName": "УИК №1161",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1162,
     "uikTvd": "424406366782",
+    "uikName": "УИК №1162",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1163,
     "uikTvd": "424406366783",
+    "uikName": "УИК №1163",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1164,
     "uikTvd": "424406366784",
+    "uikName": "УИК №1164",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1165,
     "uikTvd": "424406366785",
+    "uikName": "УИК №1165",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1166,
     "uikTvd": "424406366786",
+    "uikName": "УИК №1166",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1167,
     "uikTvd": "424406366787",
+    "uikName": "УИК №1167",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1168,
     "uikTvd": "424406366788",
+    "uikName": "УИК №1168",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1169,
     "uikTvd": "424406366789",
+    "uikName": "УИК №1169",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1170,
     "uikTvd": "424406366790",
+    "uikName": "УИК №1170",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1171,
     "uikTvd": "424406366791",
+    "uikName": "УИК №1171",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1172,
     "uikTvd": "424406366792",
+    "uikName": "УИК №1172",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1173,
     "uikTvd": "424406366793",
+    "uikName": "УИК №1173",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1174,
     "uikTvd": "424406366794",
+    "uikName": "УИК №1174",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1175,
     "uikTvd": "424406366795",
+    "uikName": "УИК №1175",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1176,
     "uikTvd": "424406366796",
+    "uikName": "УИК №1176",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1177,
     "uikTvd": "424406366797",
+    "uikName": "УИК №1177",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1178,
     "uikTvd": "424406366798",
+    "uikName": "УИК №1178",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1179,
     "uikTvd": "424406366799",
+    "uikName": "УИК №1179",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1180,
     "uikTvd": "424406366800",
+    "uikName": "УИК №1180",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1181,
     "uikTvd": "424406366801",
+    "uikName": "УИК №1181",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1182,
     "uikTvd": "424406366802",
+    "uikName": "УИК №1182",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1183,
     "uikTvd": "424406366803",
+    "uikName": "УИК №1183",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1184,
     "uikTvd": "424406366804",
+    "uikName": "УИК №1184",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1185,
     "uikTvd": "424406366805",
+    "uikName": "УИК №1185",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1186,
     "uikTvd": "424406366806",
+    "uikName": "УИК №1186",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1187,
     "uikTvd": "424406366807",
+    "uikName": "УИК №1187",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1188,
     "uikTvd": "424406366808",
+    "uikName": "УИК №1188",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1189,
     "uikTvd": "424406366809",
+    "uikName": "УИК №1189",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1190,
     "uikTvd": "424406366810",
+    "uikName": "УИК №1190",
     "tikTvd": "224200067654",
-    "tikName": "Енисейская"
+    "tikName": "Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1191,
     "uikTvd": "424401766701",
+    "uikName": "УИК  1191",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1192,
     "uikTvd": "424401766702",
+    "uikName": "УИК  1192",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1193,
     "uikTvd": "424401766703",
+    "uikName": "УИК  1193",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1194,
     "uikTvd": "424401766704",
+    "uikName": "УИК  1194",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1195,
     "uikTvd": "424401766705",
+    "uikName": "УИК  1195",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1196,
     "uikTvd": "424401766706",
+    "uikName": "УИК  1196",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1197,
     "uikTvd": "424401766707",
+    "uikName": "УИК  1197",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1198,
     "uikTvd": "424401766708",
+    "uikName": "УИК  1198",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1199,
     "uikTvd": "424401766709",
+    "uikName": "УИК  1199",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1200,
     "uikTvd": "424401766710",
+    "uikName": "УИК  1200",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1201,
     "uikTvd": "424401766711",
+    "uikName": "УИК  1201",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1202,
     "uikTvd": "424401766712",
+    "uikName": "УИК  1202",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1203,
     "uikTvd": "424401766713",
+    "uikName": "УИК  1203",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1204,
     "uikTvd": "424401766714",
+    "uikName": "УИК  1204",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1205,
     "uikTvd": "424401766715",
+    "uikName": "УИК  1205",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1206,
     "uikTvd": "424401766716",
+    "uikName": "УИК  1206",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1207,
     "uikTvd": "424401766717",
+    "uikName": "УИК  1207",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1208,
     "uikTvd": "424401766718",
+    "uikName": "УИК  1208",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1209,
     "uikTvd": "424401766719",
+    "uikName": "УИК  1209",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1210,
     "uikTvd": "424401766720",
+    "uikName": "УИК  1210",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1211,
     "uikTvd": "424401766721",
+    "uikName": "УИК  1211",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1212,
     "uikTvd": "424401766722",
+    "uikName": "УИК  1212",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1213,
     "uikTvd": "424401766723",
+    "uikName": "УИК  1213",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1214,
     "uikTvd": "424401766724",
+    "uikName": "УИК  1214",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1215,
     "uikTvd": "424401766725",
+    "uikName": "УИК  1215",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1216,
     "uikTvd": "424401766726",
+    "uikName": "УИК  1216",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1217,
     "uikTvd": "424401766727",
+    "uikName": "УИК  1217",
     "tikTvd": "224200067621",
-    "tikName": "Ермаковская"
+    "tikName": "Ермаковская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1218,
     "uikTvd": "424402166643",
+    "uikName": "УИК №1218",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1219,
     "uikTvd": "424402166644",
+    "uikName": "УИК №1219",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1220,
     "uikTvd": "424402166645",
+    "uikName": "УИК №1220",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1221,
     "uikTvd": "424402166646",
+    "uikName": "УИК №1221",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1222,
     "uikTvd": "424402166647",
+    "uikName": "УИК №1222",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1223,
     "uikTvd": "424402166648",
+    "uikName": "УИК №1223",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1224,
     "uikTvd": "424402166649",
+    "uikName": "УИК №1224",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1225,
     "uikTvd": "424402166650",
+    "uikName": "УИК №1225",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1226,
     "uikTvd": "424402166651",
+    "uikName": "УИК №1226",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1227,
     "uikTvd": "424402166652",
+    "uikName": "УИК №1227",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1228,
     "uikTvd": "424402166653",
+    "uikName": "УИК №1228",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1229,
     "uikTvd": "424402166654",
+    "uikName": "УИК №1229",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1230,
     "uikTvd": "424402166655",
+    "uikName": "УИК №1230",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1231,
     "uikTvd": "424402166656",
+    "uikName": "УИК №1231",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1232,
     "uikTvd": "424402166657",
+    "uikName": "УИК №1232",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1233,
     "uikTvd": "424402166658",
+    "uikName": "УИК №1233",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1234,
     "uikTvd": "424402166659",
+    "uikName": "УИК №1234",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1235,
     "uikTvd": "424402166660",
+    "uikName": "УИК №1235",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1236,
     "uikTvd": "424402166661",
+    "uikName": "УИК №1236",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1237,
     "uikTvd": "424402166662",
+    "uikName": "УИК №1237",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1238,
     "uikTvd": "424402166663",
+    "uikName": "УИК №1238",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1239,
     "uikTvd": "424402166664",
+    "uikName": "УИК №1239",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1240,
     "uikTvd": "424402166665",
+    "uikName": "УИК №1240",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1241,
     "uikTvd": "424402166666",
+    "uikName": "УИК №1241",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1242,
     "uikTvd": "424402166667",
+    "uikName": "УИК №1242",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1243,
     "uikTvd": "424402166668",
+    "uikName": "УИК №1243",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1244,
     "uikTvd": "424402166669",
+    "uikName": "УИК №1244",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1245,
     "uikTvd": "424402166670",
+    "uikName": "УИК №1245",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1246,
     "uikTvd": "424402166671",
+    "uikName": "УИК №1246",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1247,
     "uikTvd": "424402166672",
+    "uikName": "УИК №1247",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1248,
     "uikTvd": "424402166673",
+    "uikName": "УИК №1248",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1249,
     "uikTvd": "424402166674",
+    "uikName": "УИК №1249",
     "tikTvd": "224200067620",
-    "tikName": "Идринская"
+    "tikName": "Идринская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1250,
     "uikTvd": "424402266823",
+    "uikName": "УИК №1250",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1251,
     "uikTvd": "424402266824",
+    "uikName": "УИК №1251",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1252,
     "uikTvd": "424402266825",
+    "uikName": "УИК №1252",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1253,
     "uikTvd": "424402266826",
+    "uikName": "УИК №1253",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1254,
     "uikTvd": "424402266827",
+    "uikName": "УИК №1254",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1255,
     "uikTvd": "424402266828",
+    "uikName": "УИК №1255",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1256,
     "uikTvd": "424402266829",
+    "uikName": "УИК №1256",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1257,
     "uikTvd": "424402266830",
+    "uikName": "УИК №1257",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1258,
     "uikTvd": "424402266831",
+    "uikName": "УИК №1258",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1259,
     "uikTvd": "424402266832",
+    "uikName": "УИК №1259",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1260,
     "uikTvd": "424402266833",
+    "uikName": "УИК №1260",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1261,
     "uikTvd": "424402266834",
+    "uikName": "УИК №1261",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1262,
     "uikTvd": "424402266835",
+    "uikName": "УИК №1262",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1263,
     "uikTvd": "424402266836",
+    "uikName": "УИК №1263",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1264,
     "uikTvd": "424402266837",
+    "uikName": "УИК №1264",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1265,
     "uikTvd": "424402266838",
+    "uikName": "УИК №1265",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1266,
     "uikTvd": "424402266839",
+    "uikName": "УИК №1266",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1267,
     "uikTvd": "424402266840",
+    "uikName": "УИК №1267",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1268,
     "uikTvd": "424402266841",
+    "uikName": "УИК №1268",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1269,
     "uikTvd": "424402266842",
+    "uikName": "УИК №1269",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1270,
     "uikTvd": "424402266843",
+    "uikName": "УИК №1270",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1271,
     "uikTvd": "424402266844",
+    "uikName": "УИК №1271",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1272,
     "uikTvd": "424402266845",
+    "uikName": "УИК №1272",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1273,
     "uikTvd": "424402266846",
+    "uikName": "УИК №1273",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1274,
     "uikTvd": "424402266847",
+    "uikName": "УИК №1274",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1275,
     "uikTvd": "424402266848",
+    "uikName": "УИК №1275",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1276,
     "uikTvd": "424402266849",
+    "uikName": "УИК №1276",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1277,
     "uikTvd": "424402266850",
+    "uikName": "УИК №1277",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1278,
     "uikTvd": "424402266851",
+    "uikName": "УИК №1278",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1279,
     "uikTvd": "424402266852",
+    "uikName": "УИК №1279",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1280,
     "uikTvd": "424402266853",
+    "uikName": "УИК №1280",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1281,
     "uikTvd": "424402266854",
+    "uikName": "УИК №1281",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1282,
     "uikTvd": "424402266855",
+    "uikName": "УИК №1282",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1283,
     "uikTvd": "424402266856",
+    "uikName": "УИК №1283",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1284,
     "uikTvd": "424402266857",
+    "uikName": "УИК №1284",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1285,
     "uikTvd": "424402266858",
+    "uikName": "УИК №1285",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1286,
     "uikTvd": "424402266859",
+    "uikName": "УИК №1286",
     "tikTvd": "224200067649",
-    "tikName": "Иланская"
+    "tikName": "Иланская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1288,
     "uikTvd": "424402366662",
+    "uikName": "УИК №1288",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1289,
     "uikTvd": "424402366663",
+    "uikName": "УИК №1289",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1290,
     "uikTvd": "424402366664",
+    "uikName": "УИК №1290",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1291,
     "uikTvd": "424402366665",
+    "uikName": "УИК №1291",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1292,
     "uikTvd": "424402366666",
+    "uikName": "УИК №1292",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1293,
     "uikTvd": "424402366667",
+    "uikName": "УИК №1293",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1294,
     "uikTvd": "424402366668",
+    "uikName": "УИК №1294",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1295,
     "uikTvd": "424402366669",
+    "uikName": "УИК №1295",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1296,
     "uikTvd": "424402366670",
+    "uikName": "УИК №1296",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1297,
     "uikTvd": "424402366671",
+    "uikName": "УИК №1297",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1298,
     "uikTvd": "424402366672",
+    "uikName": "УИК №1298",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1299,
     "uikTvd": "424402366673",
+    "uikName": "УИК №1299",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1300,
     "uikTvd": "424402366674",
+    "uikName": "УИК №1300",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1301,
     "uikTvd": "424402366675",
+    "uikName": "УИК №1301",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1302,
     "uikTvd": "424402366676",
+    "uikName": "УИК №1302",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1303,
     "uikTvd": "424402366677",
+    "uikName": "УИК №1303",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1304,
     "uikTvd": "424402366678",
+    "uikName": "УИК №1304",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1305,
     "uikTvd": "424402366679",
+    "uikName": "УИК №1305",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1306,
     "uikTvd": "424402366680",
+    "uikName": "УИК №1306",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1307,
     "uikTvd": "424402366681",
+    "uikName": "УИК №1307",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1308,
     "uikTvd": "424402366682",
+    "uikName": "УИК №1308",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1309,
     "uikTvd": "424402366683",
+    "uikName": "УИК №1309",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1310,
     "uikTvd": "424402366684",
+    "uikName": "УИК №1310",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1311,
     "uikTvd": "424402366685",
+    "uikName": "УИК №1311",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1312,
     "uikTvd": "424402366686",
+    "uikName": "УИК №1312",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1313,
     "uikTvd": "424402366687",
+    "uikName": "УИК №1313",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1314,
     "uikTvd": "424402366688",
+    "uikName": "УИК №1314",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1315,
     "uikTvd": "424402366689",
+    "uikName": "УИК №1315",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1316,
     "uikTvd": "424402366690",
+    "uikName": "УИК №1316",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1317,
     "uikTvd": "424402366691",
+    "uikName": "УИК №1317",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1318,
     "uikTvd": "424402366692",
+    "uikName": "УИК №1318",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1319,
     "uikTvd": "424402366693",
+    "uikName": "УИК №1319",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1320,
     "uikTvd": "424402366694",
+    "uikName": "УИК №1320",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1321,
     "uikTvd": "424402366695",
+    "uikName": "УИК №1321",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1322,
     "uikTvd": "424402366696",
+    "uikName": "УИК №1322",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1323,
     "uikTvd": "424402366697",
+    "uikName": "УИК №1323",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1324,
     "uikTvd": "424402366698",
+    "uikName": "УИК №1324",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1325,
     "uikTvd": "424402366699",
+    "uikName": "УИК №1325",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1326,
     "uikTvd": "424402366700",
+    "uikName": "УИК №1326",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1327,
     "uikTvd": "424402366701",
+    "uikName": "УИК №1327",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1328,
     "uikTvd": "424402366702",
+    "uikName": "УИК №1328",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1329,
     "uikTvd": "424402366703",
+    "uikName": "УИК №1329",
     "tikTvd": "224200067648",
-    "tikName": "Ирбейская"
+    "tikName": "Ирбейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1330,
     "uikTvd": "424402466675",
+    "uikName": "УИК №1330",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1331,
     "uikTvd": "424402466677",
+    "uikName": "УИК №1331",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1332,
     "uikTvd": "424402466678",
+    "uikName": "УИК №1332",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1333,
     "uikTvd": "424402466679",
+    "uikName": "УИК №1333",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1334,
     "uikTvd": "424402466680",
+    "uikName": "УИК №1334",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1335,
     "uikTvd": "424402466681",
+    "uikName": "УИК №1335",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1336,
     "uikTvd": "424402466682",
+    "uikName": "УИК №1336",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1337,
     "uikTvd": "424402466683",
+    "uikName": "УИК №1337",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1338,
     "uikTvd": "424402466684",
+    "uikName": "УИК №1338",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1339,
     "uikTvd": "424402466685",
+    "uikName": "УИК №1339",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1340,
     "uikTvd": "424402466686",
+    "uikName": "УИК №1340",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1341,
     "uikTvd": "424402466687",
+    "uikName": "УИК №1341",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1342,
     "uikTvd": "424402466688",
+    "uikName": "УИК №1342",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1343,
     "uikTvd": "424402466689",
+    "uikName": "УИК №1343",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1344,
     "uikTvd": "424402466690",
+    "uikName": "УИК №1344",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1345,
     "uikTvd": "424402466691",
+    "uikName": "УИК №1345",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1346,
     "uikTvd": "424402466692",
+    "uikName": "УИК №1346",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1347,
     "uikTvd": "424402466693",
+    "uikName": "УИК №1347",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1348,
     "uikTvd": "424402466694",
+    "uikName": "УИК №1348",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1349,
     "uikTvd": "424402466695",
+    "uikName": "УИК №1349",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1350,
     "uikTvd": "424402466696",
+    "uikName": "УИК №1350",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1351,
     "uikTvd": "424402466697",
+    "uikName": "УИК №1351",
     "tikTvd": "224200067647",
-    "tikName": "Казачинская"
+    "tikName": "Казачинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1352,
     "uikTvd": "424402566713",
+    "uikName": "УИК №1352",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1353,
     "uikTvd": "424402566714",
+    "uikName": "УИК №1353",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1354,
     "uikTvd": "424402566715",
+    "uikName": "УИК №1354",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1355,
     "uikTvd": "424402566716",
+    "uikName": "УИК №1355",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1356,
     "uikTvd": "424402566717",
+    "uikName": "УИК №1356",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1357,
     "uikTvd": "424402566718",
+    "uikName": "УИК №1357",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1358,
     "uikTvd": "424402566719",
+    "uikName": "УИК №1358",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1359,
     "uikTvd": "424402566720",
+    "uikName": "УИК №1359",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1360,
     "uikTvd": "424402566721",
+    "uikName": "УИК №1360",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1361,
     "uikTvd": "424402566722",
+    "uikName": "УИК №1361",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1362,
     "uikTvd": "424402566723",
+    "uikName": "УИК №1362",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1363,
     "uikTvd": "424402566724",
+    "uikName": "УИК №1363",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1364,
     "uikTvd": "424402566725",
+    "uikName": "УИК №1364",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1365,
     "uikTvd": "424402566726",
+    "uikName": "УИК №1365",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1366,
     "uikTvd": "424402566727",
+    "uikName": "УИК №1366",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1367,
     "uikTvd": "424402566728",
+    "uikName": "УИК №1367",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1368,
     "uikTvd": "424402566729",
+    "uikName": "УИК №1368",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1369,
     "uikTvd": "424402566730",
+    "uikName": "УИК №1369",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1370,
     "uikTvd": "424402566731",
+    "uikName": "УИК №1370",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1371,
     "uikTvd": "424402566732",
+    "uikName": "УИК №1371",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1372,
     "uikTvd": "424402566733",
+    "uikName": "УИК №1372",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1373,
     "uikTvd": "424402566734",
+    "uikName": "УИК №1373",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1374,
     "uikTvd": "424402566735",
+    "uikName": "УИК №1374",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1375,
     "uikTvd": "424402566736",
+    "uikName": "УИК №1375",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1376,
     "uikTvd": "424402566737",
+    "uikName": "УИК №1376",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1377,
     "uikTvd": "424402566738",
+    "uikName": "УИК №1377",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1378,
     "uikTvd": "424402566739",
+    "uikName": "УИК №1378",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1379,
     "uikTvd": "424402566740",
+    "uikName": "УИК №1379",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1380,
     "uikTvd": "424402566741",
+    "uikName": "УИК №1380",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1381,
     "uikTvd": "424402566742",
+    "uikName": "УИК №1381",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1382,
     "uikTvd": "424402566743",
+    "uikName": "УИК №1382",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1383,
     "uikTvd": "424402566744",
+    "uikName": "УИК №1383",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1384,
     "uikTvd": "424402566745",
+    "uikName": "УИК №1384",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1385,
     "uikTvd": "424402566746",
+    "uikName": "УИК №1385",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1386,
     "uikTvd": "424402566747",
+    "uikName": "УИК №1386",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1387,
     "uikTvd": "424402566748",
+    "uikName": "УИК №1387",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1388,
     "uikTvd": "424402566749",
+    "uikName": "УИК №1388",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1389,
     "uikTvd": "424402566750",
+    "uikName": "УИК №1389",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1390,
     "uikTvd": "424402566751",
+    "uikName": "УИК №1390",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1391,
     "uikTvd": "424402566752",
+    "uikName": "УИК №1391",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1392,
     "uikTvd": "424402566753",
+    "uikName": "УИК №1392",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1393,
     "uikTvd": "424402566754",
+    "uikName": "УИК №1393",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1394,
     "uikTvd": "424402566755",
+    "uikName": "УИК №1394",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1395,
     "uikTvd": "424402566756",
+    "uikName": "УИК №1395",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1396,
     "uikTvd": "424402566757",
+    "uikName": "УИК №1396",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1397,
     "uikTvd": "424402566758",
+    "uikName": "УИК №1397",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1398,
     "uikTvd": "424402566759",
+    "uikName": "УИК №1398",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1399,
     "uikTvd": "424402566760",
+    "uikName": "УИК №1399",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1400,
     "uikTvd": "424402566761",
+    "uikName": "УИК №1400",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1401,
     "uikTvd": "424402566762",
+    "uikName": "УИК №1401",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1402,
     "uikTvd": "424402566763",
+    "uikName": "УИК №1402",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1403,
     "uikTvd": "424402566764",
+    "uikName": "УИК №1403",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1404,
     "uikTvd": "424402566765",
+    "uikName": "УИК №1404",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1405,
     "uikTvd": "424402566766",
+    "uikName": "УИК №1405",
     "tikTvd": "224200067646",
-    "tikName": "Канская"
+    "tikName": "Канская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1407,
     "uikTvd": "424402666703",
+    "uikName": "УИК №1407",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1408,
     "uikTvd": "424402666704",
+    "uikName": "УИК №1408",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1409,
     "uikTvd": "424402666705",
+    "uikName": "УИК №1409",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1410,
     "uikTvd": "424402666706",
+    "uikName": "УИК №1410",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1411,
     "uikTvd": "424402666707",
+    "uikName": "УИК №1411",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1412,
     "uikTvd": "424402666708",
+    "uikName": "УИК №1412",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1413,
     "uikTvd": "424402666709",
+    "uikName": "УИК №1413",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1414,
     "uikTvd": "424402666710",
+    "uikName": "УИК №1414",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1415,
     "uikTvd": "424402666711",
+    "uikName": "УИК №1415",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1416,
     "uikTvd": "424402666712",
+    "uikName": "УИК №1416",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1417,
     "uikTvd": "424402666713",
+    "uikName": "УИК №1417",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1418,
     "uikTvd": "424402666714",
+    "uikName": "УИК №1418",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1419,
     "uikTvd": "424402666715",
+    "uikName": "УИК №1419",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1420,
     "uikTvd": "424402666716",
+    "uikName": "УИК №1420",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1421,
     "uikTvd": "424402666717",
+    "uikName": "УИК №1421",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1422,
     "uikTvd": "424402666718",
+    "uikName": "УИК №1422",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1423,
     "uikTvd": "424402666719",
+    "uikName": "УИК №1423",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1424,
     "uikTvd": "424402666720",
+    "uikName": "УИК №1424",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1425,
     "uikTvd": "424402666721",
+    "uikName": "УИК №1425",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1426,
     "uikTvd": "424402666722",
+    "uikName": "УИК №1426",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1427,
     "uikTvd": "424402666723",
+    "uikName": "УИК №1427",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1428,
     "uikTvd": "424402666724",
+    "uikName": "УИК №1428",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1429,
     "uikTvd": "424402666725",
+    "uikName": "УИК №1429",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1430,
     "uikTvd": "424402666726",
+    "uikName": "УИК №1430",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1431,
     "uikTvd": "424402666727",
+    "uikName": "УИК №1431",
     "tikTvd": "224200067619",
-    "tikName": "Каратузская"
+    "tikName": "Каратузская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1432,
     "uikTvd": "424402766688",
+    "uikName": "УИК №1432",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1433,
     "uikTvd": "424402766689",
+    "uikName": "УИК №1433",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1434,
     "uikTvd": "424402766690",
+    "uikName": "УИК №1434",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1435,
     "uikTvd": "424402766691",
+    "uikName": "УИК №1435",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1436,
     "uikTvd": "424402766692",
+    "uikName": "УИК №1436",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1437,
     "uikTvd": "424402766693",
+    "uikName": "УИК №1437",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1438,
     "uikTvd": "424402766694",
+    "uikName": "УИК №1438",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1439,
     "uikTvd": "424402766695",
+    "uikName": "УИК №1439",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1440,
     "uikTvd": "424402766696",
+    "uikName": "УИК №1440",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1441,
     "uikTvd": "424402766697",
+    "uikName": "УИК №1441",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1442,
     "uikTvd": "424402766698",
+    "uikName": "УИК №1442",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1443,
     "uikTvd": "424402766699",
+    "uikName": "УИК №1443",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1444,
     "uikTvd": "424402766700",
+    "uikName": "УИК №1444",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1445,
     "uikTvd": "424402766701",
+    "uikName": "УИК №1445",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1446,
     "uikTvd": "424402766702",
+    "uikName": "УИК №1446",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1447,
     "uikTvd": "424402766703",
+    "uikName": "УИК №1447",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1448,
     "uikTvd": "424402766704",
+    "uikName": "УИК №1448",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1449,
     "uikTvd": "424402766705",
+    "uikName": "УИК №1449",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1450,
     "uikTvd": "424402766706",
+    "uikName": "УИК №1450",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1451,
     "uikTvd": "424402766707",
+    "uikName": "УИК №1451",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1452,
     "uikTvd": "424402766708",
+    "uikName": "УИК №1452",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1453,
     "uikTvd": "424402766709",
+    "uikName": "УИК №1453",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1454,
     "uikTvd": "424402766710",
+    "uikName": "УИК №1454",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1455,
     "uikTvd": "424402766711",
+    "uikName": "УИК №1455",
     "tikTvd": "224200067644",
-    "tikName": "Кежемская"
+    "tikName": "Кежемская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1456,
     "uikTvd": "424402866627",
+    "uikName": "УИК №1456",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1457,
     "uikTvd": "424402866628",
+    "uikName": "УИК №1457",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1458,
     "uikTvd": "424402866629",
+    "uikName": "УИК №1458",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1459,
     "uikTvd": "424402866630",
+    "uikName": "УИК №1459",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1460,
     "uikTvd": "424402866631",
+    "uikName": "УИК №1460",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1461,
     "uikTvd": "424402866632",
+    "uikName": "УИК №1461",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1462,
     "uikTvd": "424402866633",
+    "uikName": "УИК №1462",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1463,
     "uikTvd": "424402866634",
+    "uikName": "УИК №1463",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1464,
     "uikTvd": "424402866635",
+    "uikName": "УИК №1464",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1465,
     "uikTvd": "424402866636",
+    "uikName": "УИК №1465",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1466,
     "uikTvd": "424402866637",
+    "uikName": "УИК №1466",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1467,
     "uikTvd": "424402866638",
+    "uikName": "УИК №1467",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1468,
     "uikTvd": "424402866639",
+    "uikName": "УИК №1468",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1469,
     "uikTvd": "424402866640",
+    "uikName": "УИК №1469",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1470,
     "uikTvd": "424402866641",
+    "uikName": "УИК №1470",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1471,
     "uikTvd": "424402866642",
+    "uikName": "УИК №1471",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1472,
     "uikTvd": "424402866643",
+    "uikName": "УИК №1472",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1473,
     "uikTvd": "424402866644",
+    "uikName": "УИК №1473",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1474,
     "uikTvd": "424402866645",
+    "uikName": "УИК №1474",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1475,
     "uikTvd": "424402866646",
+    "uikName": "УИК №1475",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1476,
     "uikTvd": "424402866647",
+    "uikName": "УИК №1476",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1477,
     "uikTvd": "424402866648",
+    "uikName": "УИК №1477",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1478,
     "uikTvd": "424402866649",
+    "uikName": "УИК №1478",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1479,
     "uikTvd": "424402866650",
+    "uikName": "УИК №1479",
     "tikTvd": "224200067618",
-    "tikName": "Козульская"
+    "tikName": "Козульская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1481,
     "uikTvd": "424402966684",
+    "uikName": "УИК №1481",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1482,
     "uikTvd": "424402966685",
+    "uikName": "УИК №1482",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1483,
     "uikTvd": "424402966686",
+    "uikName": "УИК №1483",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1484,
     "uikTvd": "424402966687",
+    "uikName": "УИК №1484",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1485,
     "uikTvd": "424402966688",
+    "uikName": "УИК №1485",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1486,
     "uikTvd": "424402966689",
+    "uikName": "УИК №1486",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1487,
     "uikTvd": "424402966690",
+    "uikName": "УИК №1487",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1488,
     "uikTvd": "424402966691",
+    "uikName": "УИК №1488",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1489,
     "uikTvd": "424402966692",
+    "uikName": "УИК №1489",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1490,
     "uikTvd": "424402966693",
+    "uikName": "УИК №1490",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1491,
     "uikTvd": "424402966694",
+    "uikName": "УИК №1491",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1492,
     "uikTvd": "424402966695",
+    "uikName": "УИК №1492",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1493,
     "uikTvd": "424402966696",
+    "uikName": "УИК №1493",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1494,
     "uikTvd": "424402966697",
+    "uikName": "УИК №1494",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1495,
     "uikTvd": "424402966698",
+    "uikName": "УИК №1495",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1496,
     "uikTvd": "424402966699",
+    "uikName": "УИК №1496",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1497,
     "uikTvd": "424402966700",
+    "uikName": "УИК №1497",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1498,
     "uikTvd": "424402966701",
+    "uikName": "УИК №1498",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1499,
     "uikTvd": "424402966702",
+    "uikName": "УИК №1499",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1500,
     "uikTvd": "424402966703",
+    "uikName": "УИК №1500",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1501,
     "uikTvd": "424402966704",
+    "uikName": "УИК №1501",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1502,
     "uikTvd": "424402966705",
+    "uikName": "УИК №1502",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1503,
     "uikTvd": "424402966706",
+    "uikName": "УИК №1503",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1504,
     "uikTvd": "424402966707",
+    "uikName": "УИК №1504",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1505,
     "uikTvd": "424402966708",
+    "uikName": "УИК №1505",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1506,
     "uikTvd": "424402966709",
+    "uikName": "УИК №1506",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1507,
     "uikTvd": "424402966710",
+    "uikName": "УИК №1507",
     "tikTvd": "224200067617",
-    "tikName": "Краснотуранская"
+    "tikName": "Краснотуранская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1508,
     "uikTvd": "424403766823",
+    "uikName": "УИК  1508",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1509,
     "uikTvd": "424403766824",
+    "uikName": "УИК  1509",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1510,
     "uikTvd": "424403766825",
+    "uikName": "УИК  1510",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1511,
     "uikTvd": "424403766826",
+    "uikName": "УИК  1511",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1512,
     "uikTvd": "424403766827",
+    "uikName": "УИК  1512",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1513,
     "uikTvd": "424403766828",
+    "uikName": "УИК  1513",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1514,
     "uikTvd": "424403766829",
+    "uikName": "УИК  1514",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1515,
     "uikTvd": "424403766830",
+    "uikName": "УИК  1515",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1516,
     "uikTvd": "424403766831",
+    "uikName": "УИК  1516",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1517,
     "uikTvd": "424403766832",
+    "uikName": "УИК  1517",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1518,
     "uikTvd": "424403766833",
+    "uikName": "УИК  1518",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1519,
     "uikTvd": "424403766834",
+    "uikName": "УИК  1519",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1520,
     "uikTvd": "424403766835",
+    "uikName": "УИК  1520",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1521,
     "uikTvd": "424403766836",
+    "uikName": "УИК  1521",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1522,
     "uikTvd": "424403766837",
+    "uikName": "УИК  1522",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1523,
     "uikTvd": "424403766838",
+    "uikName": "УИК  1523",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1524,
     "uikTvd": "424403766839",
+    "uikName": "УИК  1524",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1525,
     "uikTvd": "424403766840",
+    "uikName": "УИК  1525",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1526,
     "uikTvd": "424403766841",
+    "uikName": "УИК  1526",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1527,
     "uikTvd": "424403766842",
+    "uikName": "УИК  1527",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1528,
     "uikTvd": "424403766843",
+    "uikName": "УИК  1528",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1529,
     "uikTvd": "424403766844",
+    "uikName": "УИК  1529",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1530,
     "uikTvd": "424403766845",
+    "uikName": "УИК  1530",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1531,
     "uikTvd": "424403766846",
+    "uikName": "УИК  1531",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1532,
     "uikTvd": "424403766847",
+    "uikName": "УИК  1532",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1533,
     "uikTvd": "424403766848",
+    "uikName": "УИК  1533",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1534,
     "uikTvd": "424403766849",
+    "uikName": "УИК  1534",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1535,
     "uikTvd": "424403766850",
+    "uikName": "УИК  1535",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1536,
     "uikTvd": "424403766851",
+    "uikName": "УИК  1536",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1537,
     "uikTvd": "424403766852",
+    "uikName": "УИК  1537",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1538,
     "uikTvd": "424403766853",
+    "uikName": "УИК  1538",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1539,
     "uikTvd": "424403766854",
+    "uikName": "УИК  1539",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1540,
     "uikTvd": "424403766855",
+    "uikName": "УИК  1540",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1541,
     "uikTvd": "424403766856",
+    "uikName": "УИК  1541",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1542,
     "uikTvd": "424403766857",
+    "uikName": "УИК  1542",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1543,
     "uikTvd": "424403766858",
+    "uikName": "УИК  1543",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1544,
     "uikTvd": "424403766859",
+    "uikName": "УИК  1544",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1545,
     "uikTvd": "424403766860",
+    "uikName": "УИК  1545",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1546,
     "uikTvd": "424403766861",
+    "uikName": "УИК  1546",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1547,
     "uikTvd": "424403766862",
+    "uikName": "УИК  1547",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1548,
     "uikTvd": "424403766863",
+    "uikName": "УИК  1548",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1549,
     "uikTvd": "424403766864",
+    "uikName": "УИК  1549",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1550,
     "uikTvd": "424403766865",
+    "uikName": "УИК  1550",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1551,
     "uikTvd": "424403766866",
+    "uikName": "УИК  1551",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1552,
     "uikTvd": "424403766867",
+    "uikName": "УИК  1552",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1553,
     "uikTvd": "424403766868",
+    "uikName": "УИК  1553",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1554,
     "uikTvd": "424403766869",
+    "uikName": "УИК  1554",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1555,
     "uikTvd": "424403766870",
+    "uikName": "УИК  1555",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1556,
     "uikTvd": "424403766871",
+    "uikName": "УИК  1556",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1557,
     "uikTvd": "424403766872",
+    "uikName": "УИК  1557",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1558,
     "uikTvd": "424403766873",
+    "uikName": "УИК  1558",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1559,
     "uikTvd": "424403766874",
+    "uikName": "УИК  1559",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1560,
     "uikTvd": "424403766875",
+    "uikName": "УИК  1560",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1561,
     "uikTvd": "424403766876",
+    "uikName": "УИК  1561",
     "tikTvd": "224200067616",
-    "tikName": "Курагинская"
+    "tikName": "Курагинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1563,
     "uikTvd": "424403966729",
+    "uikName": "УИК №1563",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1564,
     "uikTvd": "424403966730",
+    "uikName": "УИК №1564",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1565,
     "uikTvd": "424403966731",
+    "uikName": "УИК №1565",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1566,
     "uikTvd": "424403966732",
+    "uikName": "УИК №1566",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1567,
     "uikTvd": "424403966733",
+    "uikName": "УИК №1567",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1568,
     "uikTvd": "424403966734",
+    "uikName": "УИК №1568",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1569,
     "uikTvd": "424403966735",
+    "uikName": "УИК №1569",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1570,
     "uikTvd": "424403966736",
+    "uikName": "УИК №1570",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1571,
     "uikTvd": "424403966737",
+    "uikName": "УИК №1571",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1572,
     "uikTvd": "424403966738",
+    "uikName": "УИК №1572",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1573,
     "uikTvd": "424403966739",
+    "uikName": "УИК №1573",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1574,
     "uikTvd": "424403966740",
+    "uikName": "УИК №1574",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1575,
     "uikTvd": "424403966741",
+    "uikName": "УИК №1575",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1576,
     "uikTvd": "424403966742",
+    "uikName": "УИК №1576",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1577,
     "uikTvd": "424403966743",
+    "uikName": "УИК №1577",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1578,
     "uikTvd": "424403966744",
+    "uikName": "УИК №1578",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1579,
     "uikTvd": "424403966745",
+    "uikName": "УИК №1579",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1580,
     "uikTvd": "424403966746",
+    "uikName": "УИК №1580",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1581,
     "uikTvd": "424403966747",
+    "uikName": "УИК №1581",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1582,
     "uikTvd": "424403966748",
+    "uikName": "УИК №1582",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1583,
     "uikTvd": "424403966749",
+    "uikName": "УИК №1583",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1584,
     "uikTvd": "424403966750",
+    "uikName": "УИК №1584",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1585,
     "uikTvd": "424403966751",
+    "uikName": "УИК №1585",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1586,
     "uikTvd": "424403966752",
+    "uikName": "УИК №1586",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1587,
     "uikTvd": "424403966753",
+    "uikName": "УИК №1587",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1588,
     "uikTvd": "424403966754",
+    "uikName": "УИК №1588",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1589,
     "uikTvd": "424403966755",
+    "uikName": "УИК №1589",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1590,
     "uikTvd": "424403966756",
+    "uikName": "УИК №1590",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1591,
     "uikTvd": "424403966757",
+    "uikName": "УИК №1591",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1592,
     "uikTvd": "424403966758",
+    "uikName": "УИК №1592",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1593,
     "uikTvd": "424403966759",
+    "uikName": "УИК №1593",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1594,
     "uikTvd": "424403966760",
+    "uikName": "УИК №1594",
     "tikTvd": "224200067662",
-    "tikName": "Манская"
+    "tikName": "Манская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1595,
     "uikTvd": "424406566645",
+    "uikName": "УИК №1595",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1596,
     "uikTvd": "424406566646",
+    "uikName": "УИК №1596",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1597,
     "uikTvd": "424406566647",
+    "uikName": "УИК №1597",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1598,
     "uikTvd": "424406566648",
+    "uikName": "УИК №1598",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1599,
     "uikTvd": "424406566649",
+    "uikName": "УИК №1599",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1600,
     "uikTvd": "424406566650",
+    "uikName": "УИК №1600",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1601,
     "uikTvd": "424406566651",
+    "uikName": "УИК №1601",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1602,
     "uikTvd": "424406566652",
+    "uikName": "УИК №1602",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1603,
     "uikTvd": "424406566653",
+    "uikName": "УИК №1603",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1604,
     "uikTvd": "424406566654",
+    "uikName": "УИК №1604",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1605,
     "uikTvd": "424406566655",
+    "uikName": "УИК №1605",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1606,
     "uikTvd": "424406566656",
+    "uikName": "УИК №1606",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1607,
     "uikTvd": "424406566657",
+    "uikName": "УИК №1607",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1608,
     "uikTvd": "424406566658",
+    "uikName": "УИК №1608",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1609,
     "uikTvd": "424406566659",
+    "uikName": "УИК №1609",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1610,
     "uikTvd": "424406566660",
+    "uikName": "УИК №1610",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1611,
     "uikTvd": "424406566661",
+    "uikName": "УИК №1611",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1612,
     "uikTvd": "424406566662",
+    "uikName": "УИК №1612",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1613,
     "uikTvd": "424406566663",
+    "uikName": "УИК №1613",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1614,
     "uikTvd": "424406566664",
+    "uikName": "УИК №1614",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1615,
     "uikTvd": "424406566665",
+    "uikName": "УИК №1615",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1616,
     "uikTvd": "424406566666",
+    "uikName": "УИК №1616",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1617,
     "uikTvd": "424406566667",
+    "uikName": "УИК №1617",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1618,
     "uikTvd": "424406566668",
+    "uikName": "УИК №1618",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1619,
     "uikTvd": "424406566669",
+    "uikName": "УИК №1619",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1620,
     "uikTvd": "424406566670",
+    "uikName": "УИК №1620",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1621,
     "uikTvd": "424406566671",
+    "uikName": "УИК №1621",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1622,
     "uikTvd": "424406566672",
+    "uikName": "УИК №1622",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1623,
     "uikTvd": "424406566673",
+    "uikName": "УИК №1623",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1624,
     "uikTvd": "424406566674",
+    "uikName": "УИК №1624",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1625,
     "uikTvd": "424406566675",
+    "uikName": "УИК №1625",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1626,
     "uikTvd": "424406566676",
+    "uikName": "УИК №1626",
     "tikTvd": "224200067615",
-    "tikName": "Минусинская"
+    "tikName": "Минусинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1627,
     "uikTvd": "424404166671",
+    "uikName": "УИК №1627",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1628,
     "uikTvd": "424404166672",
+    "uikName": "УИК №1628",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1629,
     "uikTvd": "424404166673",
+    "uikName": "УИК №1629",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1630,
     "uikTvd": "424404166674",
+    "uikName": "УИК №1630",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1631,
     "uikTvd": "424404166675",
+    "uikName": "УИК №1631",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1632,
     "uikTvd": "424404166676",
+    "uikName": "УИК №1632",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1633,
     "uikTvd": "424404166677",
+    "uikName": "УИК №1633",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1634,
     "uikTvd": "424404166678",
+    "uikName": "УИК №1634",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1635,
     "uikTvd": "424404166679",
+    "uikName": "УИК №1635",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1636,
     "uikTvd": "424404166680",
+    "uikName": "УИК №1636",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1637,
     "uikTvd": "424404166681",
+    "uikName": "УИК №1637",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1638,
     "uikTvd": "424404166682",
+    "uikName": "УИК №1638",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1639,
     "uikTvd": "424404166683",
+    "uikName": "УИК №1639",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1640,
     "uikTvd": "424404166684",
+    "uikName": "УИК №1640",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1641,
     "uikTvd": "424404166685",
+    "uikName": "УИК №1641",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1642,
     "uikTvd": "424404166686",
+    "uikName": "УИК №1642",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1643,
     "uikTvd": "424404166687",
+    "uikName": "УИК №1643",
     "tikTvd": "224200067643",
-    "tikName": "Мотыгинская"
+    "tikName": "Мотыгинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1644,
     "uikTvd": "424406666733",
+    "uikName": "УИК №1644",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1645,
     "uikTvd": "424406666734",
+    "uikName": "УИК №1645",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1646,
     "uikTvd": "424406666735",
+    "uikName": "УИК №1646",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1647,
     "uikTvd": "424406666736",
+    "uikName": "УИК №1647",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1648,
     "uikTvd": "424406666737",
+    "uikName": "УИК №1648",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1649,
     "uikTvd": "424406666738",
+    "uikName": "УИК №1649",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1650,
     "uikTvd": "424406666739",
+    "uikName": "УИК №1650",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1651,
     "uikTvd": "424406666740",
+    "uikName": "УИК №1651",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1652,
     "uikTvd": "424406666741",
+    "uikName": "УИК №1652",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1653,
     "uikTvd": "424406666742",
+    "uikName": "УИК №1653",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1654,
     "uikTvd": "424406666743",
+    "uikName": "УИК №1654",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1655,
     "uikTvd": "424406666744",
+    "uikName": "УИК №1655",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1656,
     "uikTvd": "424406666745",
+    "uikName": "УИК №1656",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1657,
     "uikTvd": "424406666746",
+    "uikName": "УИК №1657",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1658,
     "uikTvd": "424406666747",
+    "uikName": "УИК №1658",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1659,
     "uikTvd": "424406666748",
+    "uikName": "УИК №1659",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1660,
     "uikTvd": "424406666749",
+    "uikName": "УИК №1660",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1661,
     "uikTvd": "424406666750",
+    "uikName": "УИК №1661",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1662,
     "uikTvd": "424406666751",
+    "uikName": "УИК №1662",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1663,
     "uikTvd": "424406666752",
+    "uikName": "УИК №1663",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1664,
     "uikTvd": "424406666753",
+    "uikName": "УИК №1664",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1665,
     "uikTvd": "424406666754",
+    "uikName": "УИК №1665",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1666,
     "uikTvd": "424406666755",
+    "uikName": "УИК №1666",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1667,
     "uikTvd": "424406666756",
+    "uikName": "УИК №1667",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1668,
     "uikTvd": "424406666757",
+    "uikName": "УИК №1668",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1669,
     "uikTvd": "424406666758",
+    "uikName": "УИК №1669",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1670,
     "uikTvd": "424406666759",
+    "uikName": "УИК №1670",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1671,
     "uikTvd": "424406666760",
+    "uikName": "УИК №1671",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1672,
     "uikTvd": "424406666761",
+    "uikName": "УИК №1672",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1673,
     "uikTvd": "424406666762",
+    "uikName": "УИК №1673",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1674,
     "uikTvd": "424406666763",
+    "uikName": "УИК №1674",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1675,
     "uikTvd": "424406666764",
+    "uikName": "УИК №1675",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1676,
     "uikTvd": "424406666765",
+    "uikName": "УИК №1676",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1677,
     "uikTvd": "424406666766",
+    "uikName": "УИК №1677",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1678,
     "uikTvd": "424406666767",
+    "uikName": "УИК №1678",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1679,
     "uikTvd": "424406666768",
+    "uikName": "УИК №1679",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1680,
     "uikTvd": "424406666769",
+    "uikName": "УИК №1680",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1681,
     "uikTvd": "424406666770",
+    "uikName": "УИК №1681",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1682,
     "uikTvd": "424406666771",
+    "uikName": "УИК №1682",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1683,
     "uikTvd": "424406666772",
+    "uikName": "УИК №1683",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1684,
     "uikTvd": "424406666773",
+    "uikName": "УИК №1684",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1685,
     "uikTvd": "424406666774",
+    "uikName": "УИК №1685",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1686,
     "uikTvd": "424406666775",
+    "uikName": "УИК №1686",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1687,
     "uikTvd": "424406666776",
+    "uikName": "УИК №1687",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1688,
     "uikTvd": "424406666777",
+    "uikName": "УИК №1688",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1689,
     "uikTvd": "424406666778",
+    "uikName": "УИК №1689",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1690,
     "uikTvd": "424406666779",
+    "uikName": "УИК №1690",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1691,
     "uikTvd": "424406666780",
+    "uikName": "УИК №1691",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1692,
     "uikTvd": "424406666781",
+    "uikName": "УИК №1692",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1693,
     "uikTvd": "424406666782",
+    "uikName": "УИК №1693",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1694,
     "uikTvd": "424406666783",
+    "uikName": "УИК №1694",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1695,
     "uikTvd": "424406666784",
+    "uikName": "УИК №1695",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1696,
     "uikTvd": "424406666785",
+    "uikName": "УИК №1696",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1697,
     "uikTvd": "424406666786",
+    "uikName": "УИК №1697",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1698,
     "uikTvd": "424406666787",
+    "uikName": "УИК №1698",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1699,
     "uikTvd": "424406666788",
+    "uikName": "УИК №1699",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1700,
     "uikTvd": "424406666789",
+    "uikName": "УИК №1700",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1701,
     "uikTvd": "424406666731",
+    "uikName": "УИК №1701",
     "tikTvd": "224200067613",
-    "tikName": "Назаровская"
+    "tikName": "Назаровская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1702,
     "uikTvd": "424404366726",
+    "uikName": "УИК №1702",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1703,
     "uikTvd": "424404366727",
+    "uikName": "УИК №1703",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1704,
     "uikTvd": "424404366728",
+    "uikName": "УИК №1704",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1705,
     "uikTvd": "424404366729",
+    "uikName": "УИК №1705",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1706,
     "uikTvd": "424404366730",
+    "uikName": "УИК №1706",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1707,
     "uikTvd": "424404366731",
+    "uikName": "УИК №1707",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1708,
     "uikTvd": "424404366732",
+    "uikName": "УИК №1708",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1709,
     "uikTvd": "424404366733",
+    "uikName": "УИК №1709",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1710,
     "uikTvd": "424404366734",
+    "uikName": "УИК №1710",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1711,
     "uikTvd": "424404366735",
+    "uikName": "УИК №1711",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1712,
     "uikTvd": "424404366736",
+    "uikName": "УИК №1712",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1713,
     "uikTvd": "424404366737",
+    "uikName": "УИК №1713",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1714,
     "uikTvd": "424404366738",
+    "uikName": "УИК №1714",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1715,
     "uikTvd": "424404366739",
+    "uikName": "УИК №1715",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1716,
     "uikTvd": "424404366740",
+    "uikName": "УИК №1716",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1717,
     "uikTvd": "424404366741",
+    "uikName": "УИК №1717",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1718,
     "uikTvd": "424404366742",
+    "uikName": "УИК №1718",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1719,
     "uikTvd": "424404366743",
+    "uikName": "УИК №1719",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1720,
     "uikTvd": "424404366744",
+    "uikName": "УИК №1720",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1721,
     "uikTvd": "424404366745",
+    "uikName": "УИК №1721",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1722,
     "uikTvd": "424404366746",
+    "uikName": "УИК №1722",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1723,
     "uikTvd": "424404366747",
+    "uikName": "УИК №1723",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1724,
     "uikTvd": "424404366748",
+    "uikName": "УИК №1724",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1725,
     "uikTvd": "424404366749",
+    "uikName": "УИК №1725",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1726,
     "uikTvd": "424404366750",
+    "uikName": "УИК №1726",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1727,
     "uikTvd": "424404366751",
+    "uikName": "УИК №1727",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1728,
     "uikTvd": "424404366752",
+    "uikName": "УИК №1728",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1729,
     "uikTvd": "424404366753",
+    "uikName": "УИК №1729",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1730,
     "uikTvd": "424404366754",
+    "uikName": "УИК №1730",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1731,
     "uikTvd": "424404366755",
+    "uikName": "УИК №1731",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1732,
     "uikTvd": "424404366756",
+    "uikName": "УИК №1732",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1733,
     "uikTvd": "424404366757",
+    "uikName": "УИК №1733",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1734,
     "uikTvd": "424404366758",
+    "uikName": "УИК №1734",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1735,
     "uikTvd": "424404366759",
+    "uikName": "УИК №1735",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1736,
     "uikTvd": "424404366760",
+    "uikName": "УИК №1736",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1737,
     "uikTvd": "424404366761",
+    "uikName": "УИК №1737",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1738,
     "uikTvd": "424404366762",
+    "uikName": "УИК №1738",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1739,
     "uikTvd": "424404366763",
+    "uikName": "УИК №1739",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1740,
     "uikTvd": "424404366764",
+    "uikName": "УИК №1740",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1741,
     "uikTvd": "424404366765",
+    "uikName": "УИК №1741",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1742,
     "uikTvd": "424404366766",
+    "uikName": "УИК №1742",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1743,
     "uikTvd": "424404366767",
+    "uikName": "УИК №1743",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1744,
     "uikTvd": "424404366768",
+    "uikName": "УИК №1744",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1745,
     "uikTvd": "424404366769",
+    "uikName": "УИК №1745",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1746,
     "uikTvd": "424404366770",
+    "uikName": "УИК №1746",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1747,
     "uikTvd": "424404366771",
+    "uikName": "УИК №1747",
     "tikTvd": "224200067642",
-    "tikName": "Нижнеингашская"
+    "tikName": "Нижнеингашская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1749,
     "uikTvd": "424404467642",
+    "uikName": "УИК №1749",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1750,
     "uikTvd": "424404467643",
+    "uikName": "УИК №1750",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1751,
     "uikTvd": "424404467644",
+    "uikName": "УИК №1751",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1752,
     "uikTvd": "424404467645",
+    "uikName": "УИК №1752",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1753,
     "uikTvd": "424404467646",
+    "uikName": "УИК №1753",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1754,
     "uikTvd": "424404467647",
+    "uikName": "УИК №1754",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1755,
     "uikTvd": "424404467648",
+    "uikName": "УИК №1755",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1756,
     "uikTvd": "424404467649",
+    "uikName": "УИК №1756",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1757,
     "uikTvd": "424404467650",
+    "uikName": "УИК №1757",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1758,
     "uikTvd": "424404467651",
+    "uikName": "УИК №1758",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1759,
     "uikTvd": "424404467652",
+    "uikName": "УИК №1759",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1760,
     "uikTvd": "424404467653",
+    "uikName": "УИК №1760",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1761,
     "uikTvd": "424404467654",
+    "uikName": "УИК №1761",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1762,
     "uikTvd": "424404467655",
+    "uikName": "УИК №1762",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1763,
     "uikTvd": "424404467656",
+    "uikName": "УИК №1763",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1764,
     "uikTvd": "424404467657",
+    "uikName": "УИК №1764",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1765,
     "uikTvd": "424404467658",
+    "uikName": "УИК №1765",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1766,
     "uikTvd": "424404467659",
+    "uikName": "УИК №1766",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1767,
     "uikTvd": "424404467660",
+    "uikName": "УИК №1767",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1768,
     "uikTvd": "424404467661",
+    "uikName": "УИК №1768",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1769,
     "uikTvd": "424404467662",
+    "uikName": "УИК №1769",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1770,
     "uikTvd": "424404467663",
+    "uikName": "УИК №1770",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1771,
     "uikTvd": "424404467664",
+    "uikName": "УИК №1771",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1772,
     "uikTvd": "424404467665",
+    "uikName": "УИК №1772",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1773,
     "uikTvd": "424404467666",
+    "uikName": "УИК №1773",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1774,
     "uikTvd": "424404467667",
+    "uikName": "УИК №1774",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1775,
     "uikTvd": "424404467668",
+    "uikName": "УИК №1775",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1776,
     "uikTvd": "424404467669",
+    "uikName": "УИК №1776",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1777,
     "uikTvd": "424404467670",
+    "uikName": "УИК №1777",
     "tikTvd": "224200067611",
-    "tikName": "Новоселовская"
+    "tikName": "Новоселовская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1778,
     "uikTvd": "424404666735",
+    "uikName": "УИК №1778",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1779,
     "uikTvd": "424404666736",
+    "uikName": "УИК №1779",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1780,
     "uikTvd": "424404666737",
+    "uikName": "УИК №1780",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1781,
     "uikTvd": "424404666738",
+    "uikName": "УИК №1781",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1782,
     "uikTvd": "424404666739",
+    "uikName": "УИК №1782",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1783,
     "uikTvd": "424404666740",
+    "uikName": "УИК №1783",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1784,
     "uikTvd": "424404666741",
+    "uikName": "УИК №1784",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1785,
     "uikTvd": "424404666742",
+    "uikName": "УИК №1785",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1786,
     "uikTvd": "424404666743",
+    "uikName": "УИК №1786",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1787,
     "uikTvd": "424404666744",
+    "uikName": "УИК №1787",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1788,
     "uikTvd": "424404666745",
+    "uikName": "УИК №1788",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1789,
     "uikTvd": "424404666746",
+    "uikName": "УИК №1789",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1790,
     "uikTvd": "424404666747",
+    "uikName": "УИК №1790",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1791,
     "uikTvd": "424404666748",
+    "uikName": "УИК №1791",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1792,
     "uikTvd": "424404666749",
+    "uikName": "УИК №1792",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1793,
     "uikTvd": "424404666750",
+    "uikName": "УИК №1793",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1794,
     "uikTvd": "424404666751",
+    "uikName": "УИК №1794",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1795,
     "uikTvd": "424404666752",
+    "uikName": "УИК №1795",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1796,
     "uikTvd": "424404666753",
+    "uikName": "УИК №1796",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1797,
     "uikTvd": "424404666754",
+    "uikName": "УИК №1797",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1798,
     "uikTvd": "424404666755",
+    "uikName": "УИК №1798",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1799,
     "uikTvd": "424404666756",
+    "uikName": "УИК №1799",
     "tikTvd": "224200067641",
-    "tikName": "Партизанская"
+    "tikName": "Партизанская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1800,
     "uikTvd": "424404766638",
+    "uikName": "УИК №1800",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1801,
     "uikTvd": "424404766639",
+    "uikName": "УИК №1801",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1802,
     "uikTvd": "424404766640",
+    "uikName": "УИК №1802",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1803,
     "uikTvd": "424404766641",
+    "uikName": "УИК №1803",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1804,
     "uikTvd": "424404766642",
+    "uikName": "УИК №1804",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1805,
     "uikTvd": "424404766643",
+    "uikName": "УИК №1805",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1806,
     "uikTvd": "424404766644",
+    "uikName": "УИК №1806",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1807,
     "uikTvd": "424404766645",
+    "uikName": "УИК №1807",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1808,
     "uikTvd": "424404766646",
+    "uikName": "УИК №1808",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1809,
     "uikTvd": "424404766647",
+    "uikName": "УИК №1809",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1810,
     "uikTvd": "424404766648",
+    "uikName": "УИК №1810",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1811,
     "uikTvd": "424404766649",
+    "uikName": "УИК №1811",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1812,
     "uikTvd": "424404766650",
+    "uikName": "УИК №1812",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1813,
     "uikTvd": "424404766651",
+    "uikName": "УИК №1813",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1814,
     "uikTvd": "424404766652",
+    "uikName": "УИК №1814",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1815,
     "uikTvd": "424404766653",
+    "uikName": "УИК №1815",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1816,
     "uikTvd": "424404766654",
+    "uikName": "УИК №1816",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1817,
     "uikTvd": "424404766655",
+    "uikName": "УИК №1817",
     "tikTvd": "224200067640",
-    "tikName": "Пировская"
+    "tikName": "Пировская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1818,
     "uikTvd": "424406766775",
+    "uikName": "УИК №1818",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1819,
     "uikTvd": "424406766776",
+    "uikName": "УИК №1819",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1820,
     "uikTvd": "424406766777",
+    "uikName": "УИК №1820",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1821,
     "uikTvd": "424406766778",
+    "uikName": "УИК №1821",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1822,
     "uikTvd": "424406766779",
+    "uikName": "УИК №1822",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1823,
     "uikTvd": "424406766780",
+    "uikName": "УИК №1823",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1824,
     "uikTvd": "424406766781",
+    "uikName": "УИК №1824",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1825,
     "uikTvd": "424406766782",
+    "uikName": "УИК №1825",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1826,
     "uikTvd": "424406766783",
+    "uikName": "УИК №1826",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1827,
     "uikTvd": "424406766784",
+    "uikName": "УИК №1827",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1828,
     "uikTvd": "424406766785",
+    "uikName": "УИК №1828",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1829,
     "uikTvd": "424406766786",
+    "uikName": "УИК №1829",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1830,
     "uikTvd": "424406766787",
+    "uikName": "УИК №1830",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1831,
     "uikTvd": "424406766788",
+    "uikName": "УИК №1831",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1832,
     "uikTvd": "424406766789",
+    "uikName": "УИК №1832",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1833,
     "uikTvd": "424406766790",
+    "uikName": "УИК №1833",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1834,
     "uikTvd": "424406766791",
+    "uikName": "УИК №1834",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1835,
     "uikTvd": "424406766792",
+    "uikName": "УИК №1835",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1836,
     "uikTvd": "424406766793",
+    "uikName": "УИК №1836",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1837,
     "uikTvd": "424406766794",
+    "uikName": "УИК №1837",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1838,
     "uikTvd": "424406766795",
+    "uikName": "УИК №1838",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1839,
     "uikTvd": "424406766796",
+    "uikName": "УИК №1839",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1840,
     "uikTvd": "424406766797",
+    "uikName": "УИК №1840",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1841,
     "uikTvd": "424406766798",
+    "uikName": "УИК №1841",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1842,
     "uikTvd": "424406766799",
+    "uikName": "УИК №1842",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1843,
     "uikTvd": "424406766800",
+    "uikName": "УИК №1843",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1844,
     "uikTvd": "424406766801",
+    "uikName": "УИК №1844",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1845,
     "uikTvd": "424406766802",
+    "uikName": "УИК №1845",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1846,
     "uikTvd": "424406766803",
+    "uikName": "УИК №1846",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1847,
     "uikTvd": "424406766804",
+    "uikName": "УИК №1847",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1848,
     "uikTvd": "424406766805",
+    "uikName": "УИК №1848",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1849,
     "uikTvd": "424406766806",
+    "uikName": "УИК №1849",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1850,
     "uikTvd": "424406766807",
+    "uikName": "УИК №1850",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1851,
     "uikTvd": "424406766808",
+    "uikName": "УИК №1851",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1852,
     "uikTvd": "424406766809",
+    "uikName": "УИК №1852",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1853,
     "uikTvd": "424406766810",
+    "uikName": "УИК №1853",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1854,
     "uikTvd": "424406766811",
+    "uikName": "УИК №1854",
     "tikTvd": "224200067639",
-    "tikName": "Рыбинская"
+    "tikName": "Рыбинская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1856,
     "uikTvd": "424404867349",
+    "uikName": "УИК №1856",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1857,
     "uikTvd": "424404867350",
+    "uikName": "УИК №1857",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1858,
     "uikTvd": "424404867351",
+    "uikName": "УИК №1858",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1859,
     "uikTvd": "424404867352",
+    "uikName": "УИК №1859",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1860,
     "uikTvd": "424404867353",
+    "uikName": "УИК №1860",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1861,
     "uikTvd": "424404867354",
+    "uikName": "УИК №1861",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1862,
     "uikTvd": "424404867355",
+    "uikName": "УИК №1862",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1863,
     "uikTvd": "424404867356",
+    "uikName": "УИК №1863",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1864,
     "uikTvd": "424404867357",
+    "uikName": "УИК №1864",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1865,
     "uikTvd": "424404867358",
+    "uikName": "УИК №1865",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1866,
     "uikTvd": "424404867359",
+    "uikName": "УИК №1866",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1867,
     "uikTvd": "424404867360",
+    "uikName": "УИК №1867",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1868,
     "uikTvd": "424404867361",
+    "uikName": "УИК №1868",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1869,
     "uikTvd": "424404867362",
+    "uikName": "УИК №1869",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1870,
     "uikTvd": "424404867363",
+    "uikName": "УИК №1870",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1871,
     "uikTvd": "424404867364",
+    "uikName": "УИК №1871",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1872,
     "uikTvd": "424404867365",
+    "uikName": "УИК №1872",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1873,
     "uikTvd": "424404867366",
+    "uikName": "УИК №1873",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1874,
     "uikTvd": "424404867367",
+    "uikName": "УИК №1874",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1875,
     "uikTvd": "424404867368",
+    "uikName": "УИК №1875",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1876,
     "uikTvd": "424404867369",
+    "uikName": "УИК №1876",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1877,
     "uikTvd": "424404867370",
+    "uikName": "УИК №1877",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1878,
     "uikTvd": "424404867371",
+    "uikName": "УИК №1878",
     "tikTvd": "224200067638",
-    "tikName": "Саянская"
+    "tikName": "Саянская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1879,
     "uikTvd": "424404966616",
+    "uikName": "УИК №1879",
     "tikTvd": "224200067637",
-    "tikName": "Северо-Енисейская"
+    "tikName": "Северо-Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1880,
     "uikTvd": "424404966617",
+    "uikName": "УИК №1880",
     "tikTvd": "224200067637",
-    "tikName": "Северо-Енисейская"
+    "tikName": "Северо-Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1881,
     "uikTvd": "424404966618",
+    "uikName": "УИК №1881",
     "tikTvd": "224200067637",
-    "tikName": "Северо-Енисейская"
+    "tikName": "Северо-Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1882,
     "uikTvd": "424404966619",
+    "uikName": "УИК №1882",
     "tikTvd": "224200067637",
-    "tikName": "Северо-Енисейская"
+    "tikName": "Северо-Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1883,
     "uikTvd": "424404966620",
+    "uikName": "УИК №1883",
     "tikTvd": "224200067637",
-    "tikName": "Северо-Енисейская"
+    "tikName": "Северо-Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1884,
     "uikTvd": "424404966621",
+    "uikName": "УИК №1884",
     "tikTvd": "224200067637",
-    "tikName": "Северо-Енисейская"
+    "tikName": "Северо-Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1885,
     "uikTvd": "424404966622",
+    "uikName": "УИК №1885",
     "tikTvd": "224200067637",
-    "tikName": "Северо-Енисейская"
+    "tikName": "Северо-Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1886,
     "uikTvd": "424404966623",
+    "uikName": "УИК №1886",
     "tikTvd": "224200067637",
-    "tikName": "Северо-Енисейская"
+    "tikName": "Северо-Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1887,
     "uikTvd": "424404966624",
+    "uikName": "УИК №1887",
     "tikTvd": "224200067637",
-    "tikName": "Северо-Енисейская"
+    "tikName": "Северо-Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1888,
     "uikTvd": "424404966625",
+    "uikName": "УИК №1888",
     "tikTvd": "224200067637",
-    "tikName": "Северо-Енисейская"
+    "tikName": "Северо-Енисейская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1889,
     "uikTvd": "424405166717",
+    "uikName": "УИК №1889",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1890,
     "uikTvd": "424405166718",
+    "uikName": "УИК №1890",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1891,
     "uikTvd": "424405166719",
+    "uikName": "УИК №1891",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1892,
     "uikTvd": "424405166720",
+    "uikName": "УИК №1892",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1893,
     "uikTvd": "424405166721",
+    "uikName": "УИК №1893",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1894,
     "uikTvd": "424405166722",
+    "uikName": "УИК №1894",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1895,
     "uikTvd": "424405166723",
+    "uikName": "УИК №1895",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1896,
     "uikTvd": "424405166724",
+    "uikName": "УИК №1896",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1897,
     "uikTvd": "424405166725",
+    "uikName": "УИК №1897",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1898,
     "uikTvd": "424405166726",
+    "uikName": "УИК №1898",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1899,
     "uikTvd": "424405166727",
+    "uikName": "УИК №1899",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1900,
     "uikTvd": "424405166728",
+    "uikName": "УИК №1900",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1901,
     "uikTvd": "424405166729",
+    "uikName": "УИК №1901",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1902,
     "uikTvd": "424405166730",
+    "uikName": "УИК №1902",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1903,
     "uikTvd": "424405166731",
+    "uikName": "УИК №1903",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1904,
     "uikTvd": "424405166732",
+    "uikName": "УИК №1904",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1905,
     "uikTvd": "424405166733",
+    "uikName": "УИК №1905",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1906,
     "uikTvd": "424405166734",
+    "uikName": "УИК №1906",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1907,
     "uikTvd": "424405166735",
+    "uikName": "УИК №1907",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1908,
     "uikTvd": "424405166736",
+    "uikName": "УИК №1908",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1909,
     "uikTvd": "424405166737",
+    "uikName": "УИК №1909",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1910,
     "uikTvd": "424405166738",
+    "uikName": "УИК №1910",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1911,
     "uikTvd": "424405166739",
+    "uikName": "УИК №1911",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1912,
     "uikTvd": "424405166740",
+    "uikName": "УИК №1912",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1913,
     "uikTvd": "424405166741",
+    "uikName": "УИК №1913",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1914,
     "uikTvd": "424405166742",
+    "uikName": "УИК №1914",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1915,
     "uikTvd": "424405166743",
+    "uikName": "УИК №1915",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1916,
     "uikTvd": "424405166744",
+    "uikName": "УИК №1916",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1917,
     "uikTvd": "424405166745",
+    "uikName": "УИК №1917",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1918,
     "uikTvd": "424405166746",
+    "uikName": "УИК №1918",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1919,
     "uikTvd": "424405166747",
+    "uikName": "УИК №1919",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1920,
     "uikTvd": "424405166748",
+    "uikName": "УИК №1920",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1921,
     "uikTvd": "424405166749",
+    "uikName": "УИК №1921",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1922,
     "uikTvd": "424405166750",
+    "uikName": "УИК №1922",
     "tikTvd": "224200067660",
-    "tikName": "Сухобузимская"
+    "tikName": "Сухобузимская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 1923,
     "uikTvd": "424405266790",
+    "uikName": "УИК №1923",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1924,
     "uikTvd": "424405266791",
+    "uikName": "УИК №1924",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1925,
     "uikTvd": "424405266792",
+    "uikName": "УИК №1925",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1926,
     "uikTvd": "424405266793",
+    "uikName": "УИК №1926",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1927,
     "uikTvd": "424405266794",
+    "uikName": "УИК №1927",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1928,
     "uikTvd": "424405266795",
+    "uikName": "УИК №1928",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1929,
     "uikTvd": "424405266796",
+    "uikName": "УИК №1929",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1930,
     "uikTvd": "424405266797",
+    "uikName": "УИК №1930",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1931,
     "uikTvd": "424405266798",
+    "uikName": "УИК №1931",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1932,
     "uikTvd": "424405266799",
+    "uikName": "УИК №1932",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1933,
     "uikTvd": "424405266800",
+    "uikName": "УИК №1933",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1934,
     "uikTvd": "424405266801",
+    "uikName": "УИК №1934",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1935,
     "uikTvd": "424405266802",
+    "uikName": "УИК №1935",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1936,
     "uikTvd": "424405266803",
+    "uikName": "УИК №1936",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1937,
     "uikTvd": "424405266804",
+    "uikName": "УИК №1937",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1938,
     "uikTvd": "424405266805",
+    "uikName": "УИК №1938",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1939,
     "uikTvd": "424405266806",
+    "uikName": "УИК №1939",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1940,
     "uikTvd": "424405266807",
+    "uikName": "УИК №1940",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1941,
     "uikTvd": "424405266808",
+    "uikName": "УИК №1941",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1942,
     "uikTvd": "424405266809",
+    "uikName": "УИК №1942",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1943,
     "uikTvd": "424405266810",
+    "uikName": "УИК №1943",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1944,
     "uikTvd": "424405266811",
+    "uikName": "УИК №1944",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1945,
     "uikTvd": "424405266812",
+    "uikName": "УИК №1945",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1946,
     "uikTvd": "424405266813",
+    "uikName": "УИК №1946",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1947,
     "uikTvd": "424405266814",
+    "uikName": "УИК №1947",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1948,
     "uikTvd": "424405266815",
+    "uikName": "УИК №1948",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1949,
     "uikTvd": "424405266816",
+    "uikName": "УИК №1949",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1950,
     "uikTvd": "424405266817",
+    "uikName": "УИК №1950",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1951,
     "uikTvd": "424405266818",
+    "uikName": "УИК №1951",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1952,
     "uikTvd": "424405266819",
+    "uikName": "УИК №1952",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1953,
     "uikTvd": "424405266820",
+    "uikName": "УИК №1953",
     "tikTvd": "224200067636",
-    "tikName": "Тасеевская"
+    "tikName": "Тасеевская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1954,
     "uikTvd": "424405366654",
+    "uikName": "УИК №1954",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1955,
     "uikTvd": "424405366655",
+    "uikName": "УИК №1955",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1956,
     "uikTvd": "424405366656",
+    "uikName": "УИК №1956",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1957,
     "uikTvd": "424405366657",
+    "uikName": "УИК №1957",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1958,
     "uikTvd": "424405366658",
+    "uikName": "УИК №1958",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1959,
     "uikTvd": "424405366659",
+    "uikName": "УИК №1959",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1960,
     "uikTvd": "424405366660",
+    "uikName": "УИК №1960",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1961,
     "uikTvd": "424405366661",
+    "uikName": "УИК №1961",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1962,
     "uikTvd": "424405366662",
+    "uikName": "УИК №1962",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1963,
     "uikTvd": "424405366663",
+    "uikName": "УИК №1963",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1964,
     "uikTvd": "424405366664",
+    "uikName": "УИК №1964",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1965,
     "uikTvd": "424405366665",
+    "uikName": "УИК №1965",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1966,
     "uikTvd": "424405366666",
+    "uikName": "УИК №1966",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1967,
     "uikTvd": "424405366667",
+    "uikName": "УИК №1967",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1968,
     "uikTvd": "424405366668",
+    "uikName": "УИК №1968",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1969,
     "uikTvd": "424405366669",
+    "uikName": "УИК №1969",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1970,
     "uikTvd": "424405366670",
+    "uikName": "УИК №1970",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1971,
     "uikTvd": "424405366671",
+    "uikName": "УИК №1971",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1972,
     "uikTvd": "424405366672",
+    "uikName": "УИК №1972",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1973,
     "uikTvd": "424405366673",
+    "uikName": "УИК №1973",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1974,
     "uikTvd": "424405366674",
+    "uikName": "УИК №1974",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1975,
     "uikTvd": "424405366675",
+    "uikName": "УИК №1975",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1976,
     "uikTvd": "424405366822",
+    "uikName": "УИК №1976",
     "tikTvd": "224200067635",
-    "tikName": "Туруханская"
+    "tikName": "Туруханская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 49,
+      "oikTvd": "100100095645",
+      "oikName": "Канский"
+    }
   },
   {
     "uikNumber": 1978,
     "uikTvd": "424405466689",
+    "uikName": "УИК №1978",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1979,
     "uikTvd": "424405466690",
+    "uikName": "УИК №1979",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1980,
     "uikTvd": "424405466691",
+    "uikName": "УИК №1980",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1981,
     "uikTvd": "424405466692",
+    "uikName": "УИК №1981",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1982,
     "uikTvd": "424405466693",
+    "uikName": "УИК №1982",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1983,
     "uikTvd": "424405466694",
+    "uikName": "УИК №1983",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1984,
     "uikTvd": "424405466695",
+    "uikName": "УИК №1984",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1985,
     "uikTvd": "424405466696",
+    "uikName": "УИК №1985",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1986,
     "uikTvd": "424405466697",
+    "uikName": "УИК №1986",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1987,
     "uikTvd": "424405466698",
+    "uikName": "УИК №1987",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1988,
     "uikTvd": "424405466699",
+    "uikName": "УИК №1988",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1989,
     "uikTvd": "424405466700",
+    "uikName": "УИК №1989",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1990,
     "uikTvd": "424405466701",
+    "uikName": "УИК №1990",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1991,
     "uikTvd": "424405466702",
+    "uikName": "УИК №1991",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1992,
     "uikTvd": "424405466703",
+    "uikName": "УИК №1992",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1993,
     "uikTvd": "424405466704",
+    "uikName": "УИК №1993",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1994,
     "uikTvd": "424405466705",
+    "uikName": "УИК №1994",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1995,
     "uikTvd": "424405466706",
+    "uikName": "УИК №1995",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1996,
     "uikTvd": "424405466707",
+    "uikName": "УИК №1996",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1997,
     "uikTvd": "424405466708",
+    "uikName": "УИК №1997",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1998,
     "uikTvd": "424405466709",
+    "uikName": "УИК №1998",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 1999,
     "uikTvd": "424405466710",
+    "uikName": "УИК №1999",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2000,
     "uikTvd": "424405466711",
+    "uikName": "УИК №2000",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2001,
     "uikTvd": "424405466712",
+    "uikName": "УИК №2001",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2002,
     "uikTvd": "424405466713",
+    "uikName": "УИК №2002",
     "tikTvd": "224200067609",
-    "tikName": "Тюхтетская"
+    "tikName": "Тюхтетская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2003,
     "uikTvd": "424405566683",
+    "uikName": "УИК №2003",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2004,
     "uikTvd": "424405566684",
+    "uikName": "УИК №2004",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2005,
     "uikTvd": "424405566685",
+    "uikName": "УИК №2005",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2006,
     "uikTvd": "424405566686",
+    "uikName": "УИК №2006",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2007,
     "uikTvd": "424405566687",
+    "uikName": "УИК №2007",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2008,
     "uikTvd": "424405566688",
+    "uikName": "УИК №2008",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2009,
     "uikTvd": "424405566689",
+    "uikName": "УИК №2009",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2010,
     "uikTvd": "424405566690",
+    "uikName": "УИК №2010",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2011,
     "uikTvd": "424405566691",
+    "uikName": "УИК №2011",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2012,
     "uikTvd": "424405566692",
+    "uikName": "УИК №2012",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2013,
     "uikTvd": "424405566693",
+    "uikName": "УИК №2013",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2014,
     "uikTvd": "424405566694",
+    "uikName": "УИК №2014",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2015,
     "uikTvd": "424405566695",
+    "uikName": "УИК №2015",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2016,
     "uikTvd": "424405566696",
+    "uikName": "УИК №2016",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2017,
     "uikTvd": "424405566697",
+    "uikName": "УИК №2017",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2018,
     "uikTvd": "424405566698",
+    "uikName": "УИК №2018",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2019,
     "uikTvd": "424405566699",
+    "uikName": "УИК №2019",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2020,
     "uikTvd": "424405566700",
+    "uikName": "УИК №2020",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2021,
     "uikTvd": "424405566701",
+    "uikName": "УИК №2021",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2022,
     "uikTvd": "424405566702",
+    "uikName": "УИК №2022",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2023,
     "uikTvd": "424405566703",
+    "uikName": "УИК №2023",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2024,
     "uikTvd": "424405566704",
+    "uikName": "УИК №2024",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2025,
     "uikTvd": "424405566705",
+    "uikName": "УИК №2025",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2026,
     "uikTvd": "424405566706",
+    "uikName": "УИК №2026",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2027,
     "uikTvd": "424405566707",
+    "uikName": "УИК №2027",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2028,
     "uikTvd": "424405566708",
+    "uikName": "УИК №2028",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2029,
     "uikTvd": "424405566709",
+    "uikName": "УИК №2029",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2030,
     "uikTvd": "424405566710",
+    "uikName": "УИК №2030",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2031,
     "uikTvd": "424405566711",
+    "uikName": "УИК №2031",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2032,
     "uikTvd": "424405566712",
+    "uikName": "УИК №2032",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2033,
     "uikTvd": "424405566713",
+    "uikName": "УИК №2033",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2034,
     "uikTvd": "424405566714",
+    "uikName": "УИК №2034",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2035,
     "uikTvd": "424405566715",
+    "uikName": "УИК №2035",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2036,
     "uikTvd": "424405566716",
+    "uikName": "УИК №2036",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2037,
     "uikTvd": "424405566717",
+    "uikName": "УИК №2037",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2038,
     "uikTvd": "424405566718",
+    "uikName": "УИК №2038",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2039,
     "uikTvd": "424405566719",
+    "uikName": "УИК №2039",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2040,
     "uikTvd": "424405566720",
+    "uikName": "УИК №2040",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2041,
     "uikTvd": "424405566721",
+    "uikName": "УИК №2041",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2042,
     "uikTvd": "424405566722",
+    "uikName": "УИК №2042",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2043,
     "uikTvd": "424405566723",
+    "uikName": "УИК №2043",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2044,
     "uikTvd": "424405566724",
+    "uikName": "УИК №2044",
     "tikTvd": "224200067608",
-    "tikName": "Ужурская"
+    "tikName": "Ужурская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2045,
     "uikTvd": "424405766700",
+    "uikName": "УИК №2045",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2046,
     "uikTvd": "424405766701",
+    "uikName": "УИК №2046",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2047,
     "uikTvd": "424405766702",
+    "uikName": "УИК №2047",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2048,
     "uikTvd": "424405766703",
+    "uikName": "УИК №2048",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2049,
     "uikTvd": "424405766704",
+    "uikName": "УИК №2049",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2050,
     "uikTvd": "424405766705",
+    "uikName": "УИК №2050",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2051,
     "uikTvd": "424405766706",
+    "uikName": "УИК №2051",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2052,
     "uikTvd": "424405766707",
+    "uikName": "УИК №2052",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2053,
     "uikTvd": "424405766708",
+    "uikName": "УИК №2053",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2054,
     "uikTvd": "424405766709",
+    "uikName": "УИК №2054",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2055,
     "uikTvd": "424405766710",
+    "uikName": "УИК №2055",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2056,
     "uikTvd": "424405766711",
+    "uikName": "УИК №2056",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2057,
     "uikTvd": "424405766712",
+    "uikName": "УИК №2057",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2058,
     "uikTvd": "424405766713",
+    "uikName": "УИК №2058",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2059,
     "uikTvd": "424405766714",
+    "uikName": "УИК №2059",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2060,
     "uikTvd": "424405766715",
+    "uikName": "УИК №2060",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2061,
     "uikTvd": "424405766716",
+    "uikName": "УИК №2061",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2062,
     "uikTvd": "424405766717",
+    "uikName": "УИК №2062",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2063,
     "uikTvd": "424405766718",
+    "uikName": "УИК №2063",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2064,
     "uikTvd": "424405766719",
+    "uikName": "УИК №2064",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2065,
     "uikTvd": "424405766720",
+    "uikName": "УИК №2065",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2066,
     "uikTvd": "424405766721",
+    "uikName": "УИК №2066",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2067,
     "uikTvd": "424405766722",
+    "uikName": "УИК №2067",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2068,
     "uikTvd": "424405766723",
+    "uikName": "УИК №2068",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2069,
     "uikTvd": "424405766724",
+    "uikName": "УИК №2069",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2070,
     "uikTvd": "424405766725",
+    "uikName": "УИК №2070",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2071,
     "uikTvd": "424405766726",
+    "uikName": "УИК №2071",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2072,
     "uikTvd": "424405766727",
+    "uikName": "УИК №2072",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2073,
     "uikTvd": "424405766728",
+    "uikName": "УИК №2073",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2074,
     "uikTvd": "424405766729",
+    "uikName": "УИК №2074",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2075,
     "uikTvd": "424405766730",
+    "uikName": "УИК №2075",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2076,
     "uikTvd": "424405766731",
+    "uikName": "УИК №2076",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2077,
     "uikTvd": "424405766732",
+    "uikName": "УИК №2077",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2078,
     "uikTvd": "424405766733",
+    "uikName": "УИК №2078",
     "tikTvd": "224200067659",
-    "tikName": "Уярская"
+    "tikName": "Уярская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 50,
+      "oikTvd": "100100095646",
+      "oikName": "Красноярский"
+    }
   },
   {
     "uikNumber": 2080,
     "uikTvd": "424405966706",
+    "uikName": "УИК №2080",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2081,
     "uikTvd": "424405966707",
+    "uikName": "УИК №2081",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2082,
     "uikTvd": "424405966708",
+    "uikName": "УИК №2082",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2083,
     "uikTvd": "424405966709",
+    "uikName": "УИК №2083",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2084,
     "uikTvd": "424405966710",
+    "uikName": "УИК №2084",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2085,
     "uikTvd": "424405966711",
+    "uikName": "УИК №2085",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2086,
     "uikTvd": "424405966712",
+    "uikName": "УИК №2086",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2087,
     "uikTvd": "424405966713",
+    "uikName": "УИК №2087",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2088,
     "uikTvd": "424405966714",
+    "uikName": "УИК №2088",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2089,
     "uikTvd": "424405966715",
+    "uikName": "УИК №2089",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2090,
     "uikTvd": "424405966716",
+    "uikName": "УИК №2090",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2091,
     "uikTvd": "424405966717",
+    "uikName": "УИК №2091",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2092,
     "uikTvd": "424405966718",
+    "uikName": "УИК №2092",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2093,
     "uikTvd": "424405966719",
+    "uikName": "УИК №2093",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2094,
     "uikTvd": "424405966720",
+    "uikName": "УИК №2094",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2095,
     "uikTvd": "424405966721",
+    "uikName": "УИК №2095",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2096,
     "uikTvd": "424405966722",
+    "uikName": "УИК №2096",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2097,
     "uikTvd": "424405966723",
+    "uikName": "УИК №2097",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2098,
     "uikTvd": "424405966724",
+    "uikName": "УИК №2098",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2099,
     "uikTvd": "424405966725",
+    "uikName": "УИК №2099",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2100,
     "uikTvd": "424405966726",
+    "uikName": "УИК №2100",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2101,
     "uikTvd": "424405966727",
+    "uikName": "УИК №2101",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2102,
     "uikTvd": "424405966728",
+    "uikName": "УИК №2102",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2103,
     "uikTvd": "424405966729",
+    "uikName": "УИК №2103",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2104,
     "uikTvd": "424405966730",
+    "uikName": "УИК №2104",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2105,
     "uikTvd": "424405966731",
+    "uikName": "УИК №2105",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2106,
     "uikTvd": "424405966732",
+    "uikName": "УИК №2106",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2107,
     "uikTvd": "424405966733",
+    "uikName": "УИК №2107",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2108,
     "uikTvd": "424405966734",
+    "uikName": "УИК №2108",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2109,
     "uikTvd": "424405966735",
+    "uikName": "УИК №2109",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2110,
     "uikTvd": "424405966736",
+    "uikName": "УИК №2110",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2111,
     "uikTvd": "424405966737",
+    "uikName": "УИК №2111",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2112,
     "uikTvd": "424405966738",
+    "uikName": "УИК №2112",
     "tikTvd": "224200067607",
-    "tikName": "Шарыповская"
+    "tikName": "Шарыповская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2114,
     "uikTvd": "424406066677",
+    "uikName": "УИК №2114",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2115,
     "uikTvd": "424406066678",
+    "uikName": "УИК №2115",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2116,
     "uikTvd": "424406066679",
+    "uikName": "УИК №2116",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2117,
     "uikTvd": "424406066680",
+    "uikName": "УИК №2117",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2118,
     "uikTvd": "424406066681",
+    "uikName": "УИК №2118",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2119,
     "uikTvd": "424406066682",
+    "uikName": "УИК №2119",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2120,
     "uikTvd": "424406066683",
+    "uikName": "УИК №2120",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2121,
     "uikTvd": "424406066684",
+    "uikName": "УИК №2121",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2122,
     "uikTvd": "424406066685",
+    "uikName": "УИК №2122",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2123,
     "uikTvd": "424406066686",
+    "uikName": "УИК №2123",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2124,
     "uikTvd": "424406066687",
+    "uikName": "УИК №2124",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2125,
     "uikTvd": "424406066688",
+    "uikName": "УИК №2125",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2126,
     "uikTvd": "424406066689",
+    "uikName": "УИК №2126",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2127,
     "uikTvd": "424406066690",
+    "uikName": "УИК №2127",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2128,
     "uikTvd": "424406066691",
+    "uikName": "УИК №2128",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2129,
     "uikTvd": "424406066692",
+    "uikName": "УИК №2129",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2130,
     "uikTvd": "424406066693",
+    "uikName": "УИК №2130",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2131,
     "uikTvd": "424406066694",
+    "uikName": "УИК №2131",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2132,
     "uikTvd": "424406066695",
+    "uikName": "УИК №2132",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2133,
     "uikTvd": "424406066696",
+    "uikName": "УИК №2133",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2134,
     "uikTvd": "424406066697",
+    "uikName": "УИК №2134",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2135,
     "uikTvd": "424406066698",
+    "uikName": "УИК №2135",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2136,
     "uikTvd": "424406066699",
+    "uikName": "УИК №2136",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2137,
     "uikTvd": "424406066700",
+    "uikName": "УИК №2137",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2138,
     "uikTvd": "424406066701",
+    "uikName": "УИК №2138",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2139,
     "uikTvd": "424406066702",
+    "uikName": "УИК №2139",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2140,
     "uikTvd": "424406066703",
+    "uikName": "УИК №2140",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2141,
     "uikTvd": "424406066704",
+    "uikName": "УИК №2141",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2142,
     "uikTvd": "424406066705",
+    "uikName": "УИК №2142",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2143,
     "uikTvd": "424406066706",
+    "uikName": "УИК №2143",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2144,
     "uikTvd": "424406066707",
+    "uikName": "УИК №2144",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   },
   {
     "uikNumber": 2145,
     "uikTvd": "424406066708",
+    "uikName": "УИК №2145",
     "tikTvd": "224200067605",
-    "tikName": "Шушенская"
+    "tikName": "Шушенская",
+    "regionCode": "24",
+    "regionTvd": "100100095642",
+    "regionName": "Красноярский край",
+    "district": {
+      "districtNumber": 47,
+      "oikTvd": "100100095643",
+      "oikName": "Ачинский"
+    }
   }
 ] satisfies readonly UikTikRelation[];

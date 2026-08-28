@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "487400870429",
+    "uikName": "УИК №57",
     "tikTvd": "287200070677",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -55,8 +64,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "487400870430",
+    "uikName": "УИК №58",
     "tikTvd": "287200070677",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -99,8 +117,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "487400870431",
+    "uikName": "УИК №59",
     "tikTvd": "287200070677",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 203,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -143,8 +170,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "487400870432",
+    "uikName": "УИК №60",
     "tikTvd": "287200070677",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 434,
       "Число бюллетеней, полученных участковыми комиссиями": 458,
@@ -187,8 +223,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "487400870433",
+    "uikName": "УИК №61",
     "tikTvd": "287200070677",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1059,
       "Число бюллетеней, полученных участковыми комиссиями": 980,
@@ -231,8 +276,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "487400870434",
+    "uikName": "УИК №62",
     "tikTvd": "287200070677",
     "tikName": "Чукотская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 749,
       "Число бюллетеней, полученных участковыми комиссиями": 826,
@@ -275,8 +329,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "487400570599",
+    "uikName": "УИК №36",
     "tikTvd": "287200070678",
     "tikName": "Иультинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1859,
       "Число бюллетеней, полученных участковыми комиссиями": 1824,
@@ -319,8 +382,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "487400570600",
+    "uikName": "УИК №37",
     "tikTvd": "287200070678",
     "tikName": "Иультинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 237,
@@ -363,8 +435,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "487400570601",
+    "uikName": "УИК №38",
     "tikTvd": "287200070678",
     "tikName": "Иультинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 264,
@@ -407,8 +488,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "487400570602",
+    "uikName": "УИК №39",
     "tikTvd": "287200070678",
     "tikName": "Иультинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 133,
       "Число бюллетеней, полученных участковыми комиссиями": 145,
@@ -451,8 +541,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "487400570603",
+    "uikName": "УИК №40",
     "tikTvd": "287200070678",
     "tikName": "Иультинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 362,
       "Число бюллетеней, полученных участковыми комиссиями": 349,
@@ -495,8 +594,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "487400570604",
+    "uikName": "УИК №41",
     "tikTvd": "287200070678",
     "tikName": "Иультинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 105,
       "Число бюллетеней, полученных участковыми комиссиями": 114,
@@ -539,8 +647,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "487400570605",
+    "uikName": "УИК №42",
     "tikTvd": "287200070678",
     "tikName": "Иультинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -583,8 +700,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "487400470484",
+    "uikName": "УИК №23",
     "tikTvd": "287200070679",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 745,
       "Число бюллетеней, полученных участковыми комиссиями": 685,
@@ -627,8 +753,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "487400470485",
+    "uikName": "УИК №24",
     "tikTvd": "287200070679",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 699,
       "Число бюллетеней, полученных участковыми комиссиями": 679,
@@ -671,8 +806,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "487400470486",
+    "uikName": "УИК №25",
     "tikTvd": "287200070679",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 748,
       "Число бюллетеней, полученных участковыми комиссиями": 679,
@@ -715,8 +859,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "487400470487",
+    "uikName": "УИК №26",
     "tikTvd": "287200070679",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 733,
       "Число бюллетеней, полученных участковыми комиссиями": 685,
@@ -759,8 +912,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "487400470488",
+    "uikName": "УИК №27",
     "tikTvd": "287200070679",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 701,
       "Число бюллетеней, полученных участковыми комиссиями": 672,
@@ -803,8 +965,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "487400470489",
+    "uikName": "УИК №28",
     "tikTvd": "287200070679",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 695,
       "Число бюллетеней, полученных участковыми комиссиями": 668,
@@ -847,8 +1018,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "487400470490",
+    "uikName": "УИК №29",
     "tikTvd": "287200070679",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 723,
       "Число бюллетеней, полученных участковыми комиссиями": 672,
@@ -891,8 +1071,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "487400470491",
+    "uikName": "УИК №30",
     "tikTvd": "287200070679",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 207,
@@ -935,8 +1124,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "487400470492",
+    "uikName": "УИК №31",
     "tikTvd": "287200070679",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 613,
       "Число бюллетеней, полученных участковыми комиссиями": 613,
@@ -979,8 +1177,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "487400470493",
+    "uikName": "УИК №32",
     "tikTvd": "287200070679",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -1023,8 +1230,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "487400470494",
+    "uikName": "УИК №33",
     "tikTvd": "287200070679",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 384,
       "Число бюллетеней, полученных участковыми комиссиями": 377,
@@ -1067,8 +1283,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "487400470495",
+    "uikName": "УИК №34",
     "tikTvd": "287200070679",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 183,
@@ -1111,8 +1336,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "487400470496",
+    "uikName": "УИК №35",
     "tikTvd": "287200070679",
     "tikName": "Билибинская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 344,
       "Число бюллетеней, полученных участковыми комиссиями": 334,
@@ -1155,8 +1389,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "487400770353",
+    "uikName": "УИК №50",
     "tikTvd": "287200070680",
     "tikName": "Чаунская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1224,
       "Число бюллетеней, полученных участковыми комиссиями": 1237,
@@ -1199,8 +1442,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "487400770354",
+    "uikName": "УИК №51",
     "tikTvd": "287200070680",
     "tikName": "Чаунская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1685,
       "Число бюллетеней, полученных участковыми комиссиями": 1676,
@@ -1243,8 +1495,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "487400770355",
+    "uikName": "УИК №52",
     "tikTvd": "287200070680",
     "tikName": "Чаунская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1452,
       "Число бюллетеней, полученных участковыми комиссиями": 1491,
@@ -1287,8 +1548,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "487400770356",
+    "uikName": "УИК №53",
     "tikTvd": "287200070680",
     "tikName": "Чаунская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 161,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -1331,8 +1601,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "487400770357",
+    "uikName": "УИК №54",
     "tikTvd": "287200070680",
     "tikName": "Чаунская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 311,
@@ -1375,8 +1654,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "487400770358",
+    "uikName": "УИК №55",
     "tikTvd": "287200070680",
     "tikName": "Чаунская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -1419,8 +1707,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "487400770359",
+    "uikName": "УИК №56",
     "tikTvd": "287200070680",
     "tikName": "Чаунская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 485,
       "Число бюллетеней, полученных участковыми комиссиями": 543,
@@ -1463,8 +1760,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "487400670330",
+    "uikName": "УИК №43",
     "tikTvd": "287200070681",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1462,
       "Число бюллетеней, полученных участковыми комиссиями": 1406,
@@ -1507,8 +1813,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "487400670331",
+    "uikName": "УИК №44",
     "tikTvd": "287200070681",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 664,
@@ -1551,8 +1866,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "487400670332",
+    "uikName": "УИК №45",
     "tikTvd": "287200070681",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 249,
@@ -1595,8 +1919,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "487400670333",
+    "uikName": "УИК №46",
     "tikTvd": "287200070681",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 197,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -1639,8 +1972,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "487400670334",
+    "uikName": "УИК №47",
     "tikTvd": "287200070681",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 326,
       "Число бюллетеней, полученных участковыми комиссиями": 303,
@@ -1683,8 +2025,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "487400670335",
+    "uikName": "УИК №48",
     "tikTvd": "287200070681",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 218,
@@ -1727,8 +2078,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "487400670336",
+    "uikName": "УИК №49",
     "tikTvd": "287200070681",
     "tikName": "Провиденская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 209,
       "Число бюллетеней, полученных участковыми комиссиями": 212,
@@ -1771,8 +2131,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "487400170465",
+    "uikName": "УИК №6",
     "tikTvd": "287200070682",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 747,
@@ -1815,8 +2184,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "487400170466",
+    "uikName": "УИК №7",
     "tikTvd": "287200070682",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 973,
       "Число бюллетеней, полученных участковыми комиссиями": 942,
@@ -1859,8 +2237,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "487400170467",
+    "uikName": "УИК №8",
     "tikTvd": "287200070682",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 949,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -1903,8 +2290,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "487400170468",
+    "uikName": "УИК №9",
     "tikTvd": "287200070682",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 137,
       "Число бюллетеней, полученных участковыми комиссиями": 118,
@@ -1947,8 +2343,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "487400170469",
+    "uikName": "УИК №10",
     "tikTvd": "287200070682",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -1991,8 +2396,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "487400170470",
+    "uikName": "УИК №11",
     "tikTvd": "287200070682",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 733,
       "Число бюллетеней, полученных участковыми комиссиями": 709,
@@ -2035,8 +2449,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "487400170471",
+    "uikName": "УИК №12",
     "tikTvd": "287200070682",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 359,
@@ -2079,8 +2502,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "487400170472",
+    "uikName": "УИК №13",
     "tikTvd": "287200070682",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 107,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -2123,8 +2555,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "487400170473",
+    "uikName": "УИК №14",
     "tikTvd": "287200070682",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -2167,8 +2608,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "487400170474",
+    "uikName": "УИК №15",
     "tikTvd": "287200070682",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 587,
       "Число бюллетеней, полученных участковыми комиссиями": 579,
@@ -2211,8 +2661,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "487400170475",
+    "uikName": "УИК №16",
     "tikTvd": "287200070682",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 216,
       "Число бюллетеней, полученных участковыми комиссиями": 214,
@@ -2255,8 +2714,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "487400170476",
+    "uikName": "УИК №17",
     "tikTvd": "287200070682",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 416,
@@ -2299,8 +2767,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "487400170477",
+    "uikName": "УИК №18",
     "tikTvd": "287200070682",
     "tikName": "Анадырская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 87,
@@ -2343,8 +2820,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "487400270449",
+    "uikName": "УИК №1",
     "tikTvd": "287200070683",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1909,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -2387,8 +2873,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "487400270450",
+    "uikName": "УИК №2",
     "tikTvd": "287200070683",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2036,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2431,8 +2926,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "487400270451",
+    "uikName": "УИК №3",
     "tikTvd": "287200070683",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2440,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2475,8 +2979,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "487400270452",
+    "uikName": "УИК №4",
     "tikTvd": "287200070683",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2421,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -2519,8 +3032,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "487400270453",
+    "uikName": "УИК №5",
     "tikTvd": "287200070683",
     "tikName": "Анадырская городская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2563,8 +3085,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "487400370389",
+    "uikName": "УИК №19",
     "tikTvd": "287200070684",
     "tikName": "Беринговская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1244,
       "Число бюллетеней, полученных участковыми комиссиями": 1235,
@@ -2607,8 +3138,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "487400370390",
+    "uikName": "УИК №20",
     "tikTvd": "287200070684",
     "tikName": "Беринговская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -2651,8 +3191,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "487400370391",
+    "uikName": "УИК №21",
     "tikTvd": "287200070684",
     "tikName": "Беринговская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 295,
       "Число бюллетеней, полученных участковыми комиссиями": 304,
@@ -2695,8 +3244,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "487400370392",
+    "uikName": "УИК №22",
     "tikTvd": "287200070684",
     "tikName": "Беринговская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 249,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -2739,8 +3297,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "487400970423",
+    "uikName": "УИК №63",
     "tikTvd": "287200070685",
     "tikName": "Шмидтовская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 430,
       "Число бюллетеней, полученных участковыми комиссиями": 404,
@@ -2783,8 +3350,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "487400970424",
+    "uikName": "УИК №64",
     "tikTvd": "287200070685",
     "tikName": "Шмидтовская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 417,
@@ -2827,8 +3403,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "487400970425",
+    "uikName": "УИК №65",
     "tikTvd": "287200070685",
     "tikName": "Шмидтовская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 231,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -2871,8 +3456,17 @@ export const duma_2003_uik_428_region_87_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "487400970426",
+    "uikName": "УИК №66",
     "tikTvd": "287200070685",
     "tikName": "Шмидтовская",
+    "regionCode": "87",
+    "regionTvd": "100100095803",
+    "regionName": "Чукотский автономный округ",
+    "district": {
+      "districtNumber": 223,
+      "oikTvd": "100100095804",
+      "oikName": "Чукотский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 141,
       "Число бюллетеней, полученных участковыми комиссиями": 144,

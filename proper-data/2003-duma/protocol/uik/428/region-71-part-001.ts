@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "471400170408",
+    "uikName": "УИК №1",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2200,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -61,8 +70,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "471400170409",
+    "uikName": "УИК №2",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1514,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -111,8 +129,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "471400170410",
+    "uikName": "УИК №3",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2852,
       "Число бюллетеней, полученных участковыми комиссиями": 2840,
@@ -161,8 +188,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "471400170411",
+    "uikName": "УИК №4",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2745,
       "Число бюллетеней, полученных участковыми комиссиями": 2810,
@@ -211,8 +247,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "471400170412",
+    "uikName": "УИК №5",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2652,
       "Число бюллетеней, полученных участковыми комиссиями": 2655,
@@ -261,8 +306,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "471400170413",
+    "uikName": "УИК №6",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2382,
       "Число бюллетеней, полученных участковыми комиссиями": 2415,
@@ -311,8 +365,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "471400170414",
+    "uikName": "УИК №7",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2238,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -361,8 +424,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "471400170415",
+    "uikName": "УИК №8",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2230,
       "Число бюллетеней, полученных участковыми комиссиями": 2155,
@@ -411,8 +483,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "471400170416",
+    "uikName": "УИК №9",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2384,
       "Число бюллетеней, полученных участковыми комиссиями": 2355,
@@ -461,8 +542,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "471400170417",
+    "uikName": "УИК №10",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2579,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -511,8 +601,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "471400170418",
+    "uikName": "УИК №11",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2837,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -561,8 +660,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "471400170419",
+    "uikName": "УИК №12",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2692,
       "Число бюллетеней, полученных участковыми комиссиями": 2760,
@@ -611,8 +719,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "471400170420",
+    "uikName": "УИК №13",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2850,
       "Число бюллетеней, полученных участковыми комиссиями": 2845,
@@ -661,8 +778,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "471400170421",
+    "uikName": "УИК №14",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1998,
       "Число бюллетеней, полученных участковыми комиссиями": 1975,
@@ -711,8 +837,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "471400170422",
+    "uikName": "УИК №15",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 1295,
@@ -761,8 +896,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "471400170423",
+    "uikName": "УИК №16",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1226,
       "Число бюллетеней, полученных участковыми комиссиями": 1215,
@@ -811,8 +955,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "471400170424",
+    "uikName": "УИК №17",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 841,
       "Число бюллетеней, полученных участковыми комиссиями": 820,
@@ -861,8 +1014,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "471400170425",
+    "uikName": "УИК №18",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2308,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -911,8 +1073,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "471400170426",
+    "uikName": "УИК №19",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -961,8 +1132,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "471400170427",
+    "uikName": "УИК №20",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2439,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -1011,8 +1191,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "471400170428",
+    "uikName": "УИК №21",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1387,
       "Число бюллетеней, полученных участковыми комиссиями": 1415,
@@ -1061,8 +1250,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "471400170429",
+    "uikName": "УИК №22",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1787,
       "Число бюллетеней, полученных участковыми комиссиями": 1745,
@@ -1111,8 +1309,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "471400170430",
+    "uikName": "УИК №23",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 313,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -1161,8 +1368,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "471400170431",
+    "uikName": "УИК №24",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -1211,8 +1427,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "471400170432",
+    "uikName": "УИК №25",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2662,
       "Число бюллетеней, полученных участковыми комиссиями": 2720,
@@ -1261,8 +1486,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "471400170433",
+    "uikName": "УИК №26",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2237,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -1311,8 +1545,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "471400170434",
+    "uikName": "УИК №27",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1280,
       "Число бюллетеней, полученных участковыми комиссиями": 1280,
@@ -1361,8 +1604,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "471400170435",
+    "uikName": "УИК №28",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2485,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1411,8 +1663,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "471400170436",
+    "uikName": "УИК №29",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 642,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -1461,8 +1722,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "471400170437",
+    "uikName": "УИК №30",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -1511,8 +1781,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "471400170438",
+    "uikName": "УИК №31",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 457,
@@ -1561,8 +1840,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "471400170439",
+    "uikName": "УИК №32",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 335,
@@ -1611,8 +1899,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "471400170440",
+    "uikName": "УИК №33",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 314,
       "Число бюллетеней, полученных участковыми комиссиями": 324,
@@ -1661,8 +1958,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "471400170441",
+    "uikName": "УИК №34",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 547,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -1711,8 +2017,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "471400170442",
+    "uikName": "УИК №35",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 279,
@@ -1761,8 +2076,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "471400170443",
+    "uikName": "УИК №36",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 514,
       "Число бюллетеней, полученных участковыми комиссиями": 507,
@@ -1811,8 +2135,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "471400170444",
+    "uikName": "УИК №37",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 211,
@@ -1861,8 +2194,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "471400170445",
+    "uikName": "УИК №38",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 812,
       "Число бюллетеней, полученных участковыми комиссиями": 845,
@@ -1911,8 +2253,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "471400170446",
+    "uikName": "УИК №39",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 377,
       "Число бюллетеней, полученных участковыми комиссиями": 378,
@@ -1961,8 +2312,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "471400170447",
+    "uikName": "УИК №40",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 525,
       "Число бюллетеней, полученных участковыми комиссиями": 525,
@@ -2011,8 +2371,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "471400170448",
+    "uikName": "УИК №41",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -2061,8 +2430,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "471400170449",
+    "uikName": "УИК №42",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -2111,8 +2489,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "471400170450",
+    "uikName": "УИК №43",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 333,
@@ -2161,8 +2548,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "471400170451",
+    "uikName": "УИК №44",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 618,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -2211,8 +2607,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "471400170452",
+    "uikName": "УИК №45",
     "tikTvd": "271200070310",
     "tikName": "Алексинская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3023,
       "Число бюллетеней, полученных участковыми комиссиями": 3010,
@@ -2261,8 +2666,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "471400570437",
+    "uikName": "УИК №112",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 195,
       "Число бюллетеней, полученных участковыми комиссиями": 196,
@@ -2311,8 +2725,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "471400570438",
+    "uikName": "УИК №113",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 775,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -2361,8 +2784,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "471400570439",
+    "uikName": "УИК №114",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -2411,8 +2843,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "471400570440",
+    "uikName": "УИК №115",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 133,
@@ -2461,8 +2902,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "471400570441",
+    "uikName": "УИК №116",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 382,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -2511,8 +2961,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "471400570442",
+    "uikName": "УИК №117",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -2561,8 +3020,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "471400570443",
+    "uikName": "УИК №118",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2516,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2611,8 +3079,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "471400570444",
+    "uikName": "УИК №119",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2383,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2661,8 +3138,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "471400570445",
+    "uikName": "УИК №120",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2733,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -2711,8 +3197,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "471400570446",
+    "uikName": "УИК №121",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2586,
       "Число бюллетеней, полученных участковыми комиссиями": 2560,
@@ -2761,8 +3256,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "471400570447",
+    "uikName": "УИК №122",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2551,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -2811,8 +3315,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "471400570448",
+    "uikName": "УИК №123",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 24,
       "Число бюллетеней, полученных участковыми комиссиями": 30,
@@ -2861,8 +3374,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "471400570449",
+    "uikName": "УИК №124",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2712,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -2911,8 +3433,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "471400570450",
+    "uikName": "УИК №125",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2861,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2961,8 +3492,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "471400570451",
+    "uikName": "УИК №126",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -3011,8 +3551,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "471400570452",
+    "uikName": "УИК №127",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 515,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -3061,8 +3610,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "471400570453",
+    "uikName": "УИК №128",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3111,8 +3669,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "471400570454",
+    "uikName": "УИК №129",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -3161,8 +3728,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "471400570455",
+    "uikName": "УИК №130",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1095,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -3211,8 +3787,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "471400570456",
+    "uikName": "УИК №131",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 300,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -3261,8 +3846,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "471400570457",
+    "uikName": "УИК №132",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 134,
@@ -3311,8 +3905,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "471400570458",
+    "uikName": "УИК №133",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1874,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -3361,8 +3964,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "471400570459",
+    "uikName": "УИК №134",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 720,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -3411,8 +4023,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "471400570460",
+    "uikName": "УИК №135",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 646,
       "Число бюллетеней, полученных участковыми комиссиями": 640,
@@ -3461,8 +4082,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "471400570461",
+    "uikName": "УИК №136",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 318,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -3511,8 +4141,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "471400570462",
+    "uikName": "УИК №137",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 509,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -3561,8 +4200,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "471400570463",
+    "uikName": "УИК №138",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 480,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -3611,8 +4259,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "471400570464",
+    "uikName": "УИК №139",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 316,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -3661,8 +4318,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "471400570465",
+    "uikName": "УИК №140",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -3711,8 +4377,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "471400570466",
+    "uikName": "УИК №141",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 322,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -3761,8 +4436,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "471400570467",
+    "uikName": "УИК №142",
     "tikTvd": "271200070312",
     "tikName": "Веневская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 477,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -3811,8 +4495,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "471402970414",
+    "uikName": "УИК №66",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 599,
@@ -3861,8 +4554,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "471402970415",
+    "uikName": "УИК №67",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 619,
@@ -3911,8 +4613,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "471402970416",
+    "uikName": "УИК №68",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 573,
@@ -3961,8 +4672,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "471402970417",
+    "uikName": "УИК №69",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 412,
       "Число бюллетеней, полученных участковыми комиссиями": 412,
@@ -4011,8 +4731,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "471402970418",
+    "uikName": "УИК №70",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 238,
       "Число бюллетеней, полученных участковыми комиссиями": 242,
@@ -4061,8 +4790,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "471402970419",
+    "uikName": "УИК №71",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -4111,8 +4849,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "471402970420",
+    "uikName": "УИК №72",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 451,
       "Число бюллетеней, полученных участковыми комиссиями": 459,
@@ -4161,8 +4908,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "471402970421",
+    "uikName": "УИК №73",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 359,
@@ -4211,8 +4967,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "471402970422",
+    "uikName": "УИК №74",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 439,
@@ -4261,8 +5026,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "471402970423",
+    "uikName": "УИК №75",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1037,
       "Число бюллетеней, полученных участковыми комиссиями": 1051,
@@ -4311,8 +5085,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "471402970424",
+    "uikName": "УИК №76",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 501,
       "Число бюллетеней, полученных участковыми комиссиями": 513,
@@ -4361,8 +5144,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "471402970425",
+    "uikName": "УИК №77",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 561,
       "Число бюллетеней, полученных участковыми комиссиями": 570,
@@ -4411,8 +5203,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "471402970426",
+    "uikName": "УИК №78",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 554,
       "Число бюллетеней, полученных участковыми комиссиями": 563,
@@ -4461,8 +5262,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "471402970427",
+    "uikName": "УИК №79",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 608,
       "Число бюллетеней, полученных участковыми комиссиями": 617,
@@ -4511,8 +5321,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "471402970428",
+    "uikName": "УИК №80",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 144,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -4561,8 +5380,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "471402970429",
+    "uikName": "УИК №81",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 238,
@@ -4611,8 +5439,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "471402970430",
+    "uikName": "УИК №82",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 790,
       "Число бюллетеней, полученных участковыми комиссиями": 801,
@@ -4661,8 +5498,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "471402970431",
+    "uikName": "УИК №83",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 401,
@@ -4711,8 +5557,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "471402970432",
+    "uikName": "УИК №84",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 353,
       "Число бюллетеней, полученных участковыми комиссиями": 354,
@@ -4761,8 +5616,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "471402970433",
+    "uikName": "УИК №85",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 346,
       "Число бюллетеней, полученных участковыми комиссиями": 341,
@@ -4811,8 +5675,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "471402970434",
+    "uikName": "УИК №86",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 413,
       "Число бюллетеней, полученных участковыми комиссиями": 413,
@@ -4861,8 +5734,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "471402970435",
+    "uikName": "УИК №87",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2578,
       "Число бюллетеней, полученных участковыми комиссиями": 2578,
@@ -4911,8 +5793,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "471402970436",
+    "uikName": "УИК №88",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2315,
       "Число бюллетеней, полученных участковыми комиссиями": 2305,
@@ -4961,8 +5852,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "471402970437",
+    "uikName": "УИК №89",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2342,
       "Число бюллетеней, полученных участковыми комиссиями": 2259,
@@ -5011,8 +5911,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "471402970438",
+    "uikName": "УИК №90",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1040,
       "Число бюллетеней, полученных участковыми комиссиями": 1038,
@@ -5061,8 +5970,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "471402970439",
+    "uikName": "УИК №91",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1743,
       "Число бюллетеней, полученных участковыми комиссиями": 1741,
@@ -5111,8 +6029,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "471402970440",
+    "uikName": "УИК №92",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1496,
       "Число бюллетеней, полученных участковыми комиссиями": 1510,
@@ -5161,8 +6088,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "471402970441",
+    "uikName": "УИК №93",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2502,
@@ -5211,8 +6147,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "471402970442",
+    "uikName": "УИК №94",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2457,
       "Число бюллетеней, полученных участковыми комиссиями": 2472,
@@ -5261,8 +6206,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "471402970443",
+    "uikName": "УИК №95",
     "tikTvd": "271200070320",
     "tikName": "Ясногорская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1746,
       "Число бюллетеней, полученных участковыми комиссиями": 1732,
@@ -5311,8 +6265,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "471402670486",
+    "uikName": "УИК №312",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2769,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5361,8 +6324,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "471402670488",
+    "uikName": "УИК №313",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2182,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5411,8 +6383,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "471402670489",
+    "uikName": "УИК №314",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2747,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5461,8 +6442,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "471402670490",
+    "uikName": "УИК №315",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2771,
       "Число бюллетеней, полученных участковыми комиссиями": 2750,
@@ -5511,8 +6501,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "471402670491",
+    "uikName": "УИК №316",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2241,
       "Число бюллетеней, полученных участковыми комиссиями": 2250,
@@ -5561,8 +6560,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "471402670545",
+    "uikName": "УИК №317",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2833,
       "Число бюллетеней, полученных участковыми комиссиями": 2850,
@@ -5611,8 +6619,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "471402670492",
+    "uikName": "УИК №318",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2123,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -5661,8 +6678,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "471402670493",
+    "uikName": "УИК №319",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2618,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5711,8 +6737,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "471402670494",
+    "uikName": "УИК №320",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2159,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -5761,8 +6796,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "471402670495",
+    "uikName": "УИК №321",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2218,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5811,8 +6855,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "471402670496",
+    "uikName": "УИК №322",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2449,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -5861,8 +6914,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "471402670497",
+    "uikName": "УИК №323",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5911,8 +6973,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "471402670498",
+    "uikName": "УИК №324",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2603,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5961,8 +7032,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "471402670499",
+    "uikName": "УИК №325",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2198,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6011,8 +7091,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "471402670500",
+    "uikName": "УИК №326",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2039,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -6061,8 +7150,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "471402670501",
+    "uikName": "УИК №327",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1474,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6111,8 +7209,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "471402670502",
+    "uikName": "УИК №328",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2322,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -6161,8 +7268,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "471402670503",
+    "uikName": "УИК №329",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2800,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -6211,8 +7327,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "471402670504",
+    "uikName": "УИК №330",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1463,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -6261,8 +7386,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "471402670505",
+    "uikName": "УИК №331",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1959,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -6311,8 +7445,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "471402670506",
+    "uikName": "УИК №332",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1597,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6361,8 +7504,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "471402670507",
+    "uikName": "УИК №333",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 435,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -6411,8 +7563,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "471402670508",
+    "uikName": "УИК №334",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1198,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6461,8 +7622,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "471402670509",
+    "uikName": "УИК №335",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1687,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6511,8 +7681,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "471402670510",
+    "uikName": "УИК №336",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2048,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -6561,8 +7740,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "471402670511",
+    "uikName": "УИК №337",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1214,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6611,8 +7799,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "471402670512",
+    "uikName": "УИК №338",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2470,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6661,8 +7858,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "471402670513",
+    "uikName": "УИК №339",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2084,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -6711,8 +7917,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "471402670514",
+    "uikName": "УИК №340",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1720,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -6761,8 +7976,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "471402670515",
+    "uikName": "УИК №341",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1967,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6811,8 +8035,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "471402670546",
+    "uikName": "УИК №342",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2430,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -6861,8 +8094,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "471402670516",
+    "uikName": "УИК №343",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 677,
       "Число бюллетеней, полученных участковыми комиссиями": 670,
@@ -6911,8 +8153,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "471402670517",
+    "uikName": "УИК №344",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -6961,8 +8212,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "471402670518",
+    "uikName": "УИК №345",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 240,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -7011,8 +8271,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "471402670519",
+    "uikName": "УИК №346",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 155,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -7061,8 +8330,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "471402670520",
+    "uikName": "УИК №347",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -7111,8 +8389,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "471402670521",
+    "uikName": "УИК №348",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -7161,8 +8448,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "471402670522",
+    "uikName": "УИК №349",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -7211,8 +8507,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 350,
     "uikTvd": "471402670523",
+    "uikName": "УИК №350",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 534,
       "Число бюллетеней, полученных участковыми комиссиями": 530,
@@ -7261,8 +8566,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 351,
     "uikTvd": "471402670524",
+    "uikName": "УИК №351",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 474,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -7311,8 +8625,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 352,
     "uikTvd": "471402670525",
+    "uikName": "УИК №352",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 275,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -7361,8 +8684,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 353,
     "uikTvd": "471402670526",
+    "uikName": "УИК №353",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7411,8 +8743,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 354,
     "uikTvd": "471402670527",
+    "uikName": "УИК №354",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -7461,8 +8802,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 355,
     "uikTvd": "471402670528",
+    "uikName": "УИК №355",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 344,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -7511,8 +8861,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 356,
     "uikTvd": "471402670529",
+    "uikName": "УИК №356",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 348,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -7561,8 +8920,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 357,
     "uikTvd": "471402670530",
+    "uikName": "УИК №357",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 594,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7611,8 +8979,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 358,
     "uikTvd": "471402670531",
+    "uikName": "УИК №358",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 982,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -7661,8 +9038,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 359,
     "uikTvd": "471402670532",
+    "uikName": "УИК №359",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 628,
       "Число бюллетеней, полученных участковыми комиссиями": 630,
@@ -7711,8 +9097,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 360,
     "uikTvd": "471402670533",
+    "uikName": "УИК №360",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -7761,8 +9156,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 361,
     "uikTvd": "471402670534",
+    "uikName": "УИК №361",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 538,
       "Число бюллетеней, полученных участковыми комиссиями": 540,
@@ -7811,8 +9215,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 362,
     "uikTvd": "471402670535",
+    "uikName": "УИК №362",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -7861,8 +9274,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 363,
     "uikTvd": "471402670536",
+    "uikName": "УИК №363",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 33,
       "Число бюллетеней, полученных участковыми комиссиями": 40,
@@ -7911,8 +9333,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 364,
     "uikTvd": "471402670537",
+    "uikName": "УИК №364",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 58,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -7961,8 +9392,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 365,
     "uikTvd": "471402670538",
+    "uikName": "УИК №365",
     "tikTvd": "271200070321",
     "tikName": "Узловская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -8011,8 +9451,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "471401670757",
+    "uikName": "УИК №143",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1708,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8061,8 +9510,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "471401670758",
+    "uikName": "УИК №144",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 852,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8111,8 +9569,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "471401670759",
+    "uikName": "УИК №145",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2139,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8161,8 +9628,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "471401670760",
+    "uikName": "УИК №146",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2511,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8211,8 +9687,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "471401670761",
+    "uikName": "УИК №147",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2032,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8261,8 +9746,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "471401670762",
+    "uikName": "УИК №148",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2173,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8311,8 +9805,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "471401670763",
+    "uikName": "УИК №149",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1644,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8361,8 +9864,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "471401670764",
+    "uikName": "УИК №150",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1410,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8411,8 +9923,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "471401670765",
+    "uikName": "УИК №151",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2144,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8461,8 +9982,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "471401670766",
+    "uikName": "УИК №152",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2013,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8511,8 +10041,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "471401670767",
+    "uikName": "УИК №153",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2310,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8561,8 +10100,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "471401670768",
+    "uikName": "УИК №154",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1356,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -8611,8 +10159,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "471401670769",
+    "uikName": "УИК №155",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2534,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8661,8 +10218,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "471401670770",
+    "uikName": "УИК №156",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2991,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8711,8 +10277,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "471401670771",
+    "uikName": "УИК №157",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2795,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -8761,8 +10336,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "471401670772",
+    "uikName": "УИК №158",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2727,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8811,8 +10395,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "471401670773",
+    "uikName": "УИК №159",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2697,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -8861,8 +10454,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "471401670774",
+    "uikName": "УИК №160",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2046,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8911,8 +10513,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "471401670775",
+    "uikName": "УИК №161",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2227,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8961,8 +10572,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "471401670776",
+    "uikName": "УИК №162",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2660,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9011,8 +10631,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "471401670777",
+    "uikName": "УИК №163",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -9061,8 +10690,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "471401670778",
+    "uikName": "УИК №164",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 25,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -9111,8 +10749,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "471401670779",
+    "uikName": "УИК №165",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2623,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9161,8 +10808,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "471401670780",
+    "uikName": "УИК №166",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2411,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -9211,8 +10867,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "471401670781",
+    "uikName": "УИК №167",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1988,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9261,8 +10926,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "471401670782",
+    "uikName": "УИК №168",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2051,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9311,8 +10985,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "471401670783",
+    "uikName": "УИК №169",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2139,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9361,8 +11044,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "471401670784",
+    "uikName": "УИК №170",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1579,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -9411,8 +11103,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "471401670785",
+    "uikName": "УИК №171",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2306,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9461,8 +11162,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "471401670786",
+    "uikName": "УИК №172",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2073,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9511,8 +11221,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "471401670787",
+    "uikName": "УИК №173",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2165,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9561,8 +11280,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "471401670788",
+    "uikName": "УИК №174",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1708,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9611,8 +11339,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "471401670789",
+    "uikName": "УИК №175",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2593,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9661,8 +11398,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "471401670790",
+    "uikName": "УИК №176",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2125,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9711,8 +11457,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "471401670791",
+    "uikName": "УИК №177",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2146,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9761,8 +11516,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "471401670792",
+    "uikName": "УИК №178",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2098,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9811,8 +11575,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "471401670793",
+    "uikName": "УИК №179",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2313,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9861,8 +11634,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "471401670794",
+    "uikName": "УИК №180",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2201,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9911,8 +11693,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "471401670795",
+    "uikName": "УИК №181",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2457,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -9961,8 +11752,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "471401670796",
+    "uikName": "УИК №182",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2065,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10011,8 +11811,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "471401670797",
+    "uikName": "УИК №183",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2153,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10061,8 +11870,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "471401670798",
+    "uikName": "УИК №184",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2782,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10111,8 +11929,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "471401670799",
+    "uikName": "УИК №185",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2746,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10161,8 +11988,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "471401670800",
+    "uikName": "УИК №186",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2234,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10211,8 +12047,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "471401670801",
+    "uikName": "УИК №187",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10261,8 +12106,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "471401670802",
+    "uikName": "УИК №188",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2238,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10311,8 +12165,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "471401670803",
+    "uikName": "УИК №189",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2109,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10361,8 +12224,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "471401670804",
+    "uikName": "УИК №190",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2912,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -10411,8 +12283,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "471401670805",
+    "uikName": "УИК №191",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2823,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10461,8 +12342,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "471401670806",
+    "uikName": "УИК №192",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -10511,8 +12401,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "471401670807",
+    "uikName": "УИК №193",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2185,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10561,8 +12460,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "471401670808",
+    "uikName": "УИК №194",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 88,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -10611,8 +12519,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "471401670809",
+    "uikName": "УИК №195",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 712,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -10661,8 +12578,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "471401670810",
+    "uikName": "УИК №196",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -10711,8 +12637,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "471401670811",
+    "uikName": "УИК №197",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2153,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10761,8 +12696,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "471401670812",
+    "uikName": "УИК №198",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1999,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10811,8 +12755,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "471401670813",
+    "uikName": "УИК №199",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2208,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10861,8 +12814,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "471401670814",
+    "uikName": "УИК №200",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1352,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10911,8 +12873,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "471401670815",
+    "uikName": "УИК №201",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1275,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10961,8 +12932,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "471401670816",
+    "uikName": "УИК №202",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 271,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11011,8 +12991,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "471401670817",
+    "uikName": "УИК №203",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 259,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11061,8 +13050,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "471401670818",
+    "uikName": "УИК №204",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 451,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -11111,8 +13109,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "471401670819",
+    "uikName": "УИК №205",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 308,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -11161,8 +13168,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "471401670820",
+    "uikName": "УИК №206",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 433,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -11211,8 +13227,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "471401670821",
+    "uikName": "УИК №207",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 214,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -11261,8 +13286,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "471401670822",
+    "uikName": "УИК №208",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1379,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -11311,8 +13345,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "471401670823",
+    "uikName": "УИК №209",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1472,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -11361,8 +13404,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "471401670824",
+    "uikName": "УИК №210",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 242,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -11411,8 +13463,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "471401670825",
+    "uikName": "УИК №211",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11461,8 +13522,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "471401670826",
+    "uikName": "УИК №212",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 80,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -11511,8 +13581,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "471401670827",
+    "uikName": "УИК №213",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -11561,8 +13640,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "471401670828",
+    "uikName": "УИК №214",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1072,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -11611,8 +13699,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "471401670829",
+    "uikName": "УИК №215",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 411,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -11661,8 +13758,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "471401670830",
+    "uikName": "УИК №216",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -11711,8 +13817,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "471401670831",
+    "uikName": "УИК №217",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11761,8 +13876,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "471401670832",
+    "uikName": "УИК №218",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -11811,8 +13935,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "471401670833",
+    "uikName": "УИК №219",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 840,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -11861,8 +13994,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "471401670834",
+    "uikName": "УИК №220",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 796,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -11911,8 +14053,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "471401670835",
+    "uikName": "УИК №221",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 397,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -11961,8 +14112,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "471401670836",
+    "uikName": "УИК №222",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -12011,8 +14171,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5081,
     "uikTvd": "471401672109",
+    "uikName": "УИК №5081",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1339,
       "Число бюллетеней, полученных участковыми комиссиями": 8000,
@@ -12061,8 +14230,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5082,
     "uikTvd": "471401672110",
+    "uikName": "УИК №5082",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 625,
       "Число бюллетеней, полученных участковыми комиссиями": 8000,
@@ -12111,8 +14289,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 5083,
     "uikTvd": "471401672111",
+    "uikName": "УИК №5083",
     "tikTvd": "271200070322",
     "tikName": "Новомосковская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 601,
       "Число бюллетеней, полученных участковыми комиссиями": 8000,
@@ -12161,8 +14348,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "471401270410",
+    "uikName": "УИК №223",
     "tikTvd": "271200070323",
     "tikName": "Кимовская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1087,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -12211,8 +14407,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "471401270411",
+    "uikName": "УИК №224",
     "tikTvd": "271200070323",
     "tikName": "Кимовская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1600,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -12261,8 +14466,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "471401270412",
+    "uikName": "УИК №225",
     "tikTvd": "271200070323",
     "tikName": "Кимовская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1551,
       "Число бюллетеней, полученных участковыми комиссиями": 1570,
@@ -12311,8 +14525,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "471401270413",
+    "uikName": "УИК №226",
     "tikTvd": "271200070323",
     "tikName": "Кимовская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1289,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -12361,8 +14584,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "471401270414",
+    "uikName": "УИК №227",
     "tikTvd": "271200070323",
     "tikName": "Кимовская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2239,
       "Число бюллетеней, полученных участковыми комиссиями": 2260,
@@ -12411,8 +14643,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "471401270415",
+    "uikName": "УИК №228",
     "tikTvd": "271200070323",
     "tikName": "Кимовская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1954,
       "Число бюллетеней, полученных участковыми комиссиями": 1960,
@@ -12461,8 +14702,17 @@ export const duma_2003_uik_428_region_71_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "471401270416",
+    "uikName": "УИК №229",
     "tikTvd": "271200070323",
     "tikName": "Кимовская ",
+    "regionCode": "71",
+    "regionTvd": "100100095632",
+    "regionName": "Тульская область",
+    "district": {
+      "districtNumber": 175,
+      "oikTvd": "100100095633",
+      "oikName": "Новомосковский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2621,
       "Число бюллетеней, полученных участковыми комиссиями": 2640,

@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "448400970604",
+    "uikName": "УИК №557",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2088,
       "Число бюллетеней, полученных участковыми комиссиями": 2027,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "448400970605",
+    "uikName": "УИК №558",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2287,
       "Число бюллетеней, полученных участковыми комиссиями": 2241,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "448400970606",
+    "uikName": "УИК №559",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1011,
       "Число бюллетеней, полученных участковыми комиссиями": 978,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "448400970607",
+    "uikName": "УИК №560",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2247,
       "Число бюллетеней, полученных участковыми комиссиями": 2211,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "448400970608",
+    "uikName": "УИК №561",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1184,
       "Число бюллетеней, полученных участковыми комиссиями": 1102,
@@ -251,8 +296,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "448400970609",
+    "uikName": "УИК №562",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 319,
       "Число бюллетеней, полученных участковыми комиссиями": 427,
@@ -299,8 +353,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "448400970610",
+    "uikName": "УИК №563",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 157,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -347,8 +410,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "448400970611",
+    "uikName": "УИК №564",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 194,
       "Число бюллетеней, полученных участковыми комиссиями": 197,
@@ -395,8 +467,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "448400970612",
+    "uikName": "УИК №565",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 524,
       "Число бюллетеней, полученных участковыми комиссиями": 514,
@@ -443,8 +524,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "448400970613",
+    "uikName": "УИК №566",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 246,
       "Число бюллетеней, полученных участковыми комиссиями": 239,
@@ -491,8 +581,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 567,
     "uikTvd": "448400970614",
+    "uikName": "УИК №567",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1123,
       "Число бюллетеней, полученных участковыми комиссиями": 1136,
@@ -539,8 +638,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 568,
     "uikTvd": "448400970615",
+    "uikName": "УИК №568",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 803,
       "Число бюллетеней, полученных участковыми комиссиями": 806,
@@ -587,8 +695,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 569,
     "uikTvd": "448400970616",
+    "uikName": "УИК №569",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 422,
       "Число бюллетеней, полученных участковыми комиссиями": 420,
@@ -635,8 +752,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 570,
     "uikTvd": "448400970617",
+    "uikName": "УИК №570",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 401,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -683,8 +809,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 571,
     "uikTvd": "448400970618",
+    "uikName": "УИК №571",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -731,8 +866,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 572,
     "uikTvd": "448400970619",
+    "uikName": "УИК №572",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 432,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -779,8 +923,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 573,
     "uikTvd": "448400970620",
+    "uikName": "УИК №573",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 483,
@@ -827,8 +980,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 574,
     "uikTvd": "448400970621",
+    "uikName": "УИК №574",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -875,8 +1037,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 575,
     "uikTvd": "448400970622",
+    "uikName": "УИК №575",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 207,
       "Число бюллетеней, полученных участковыми комиссиями": 203,
@@ -923,8 +1094,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 576,
     "uikTvd": "448400970623",
+    "uikName": "УИК №576",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -971,8 +1151,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 577,
     "uikTvd": "448400970624",
+    "uikName": "УИК №577",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 364,
       "Число бюллетеней, полученных участковыми комиссиями": 343,
@@ -1019,8 +1208,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 578,
     "uikTvd": "448400970625",
+    "uikName": "УИК №578",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 458,
       "Число бюллетеней, полученных участковыми комиссиями": 431,
@@ -1067,8 +1265,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 579,
     "uikTvd": "448400970626",
+    "uikName": "УИК №579",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 483,
       "Число бюллетеней, полученных участковыми комиссиями": 462,
@@ -1115,8 +1322,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 580,
     "uikTvd": "448400970627",
+    "uikName": "УИК №580",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 894,
       "Число бюллетеней, полученных участковыми комиссиями": 882,
@@ -1163,8 +1379,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 581,
     "uikTvd": "448400970628",
+    "uikName": "УИК №581",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 192,
       "Число бюллетеней, полученных участковыми комиссиями": 188,
@@ -1211,8 +1436,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 582,
     "uikTvd": "448400970629",
+    "uikName": "УИК №582",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 829,
       "Число бюллетеней, полученных участковыми комиссиями": 791,
@@ -1259,8 +1493,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 583,
     "uikTvd": "448400970630",
+    "uikName": "УИК №583",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 187,
@@ -1307,8 +1550,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 584,
     "uikTvd": "448400970631",
+    "uikName": "УИК №584",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 291,
@@ -1355,8 +1607,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 585,
     "uikTvd": "448400970632",
+    "uikName": "УИК №585",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 227,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -1403,8 +1664,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 586,
     "uikTvd": "448400970633",
+    "uikName": "УИК №586",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 273,
@@ -1451,8 +1721,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 587,
     "uikTvd": "448400970634",
+    "uikName": "УИК №587",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 402,
@@ -1499,8 +1778,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 588,
     "uikTvd": "448400970635",
+    "uikName": "УИК №588",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 126,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -1547,8 +1835,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 589,
     "uikTvd": "448400970636",
+    "uikName": "УИК №589",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 651,
       "Число бюллетеней, полученных участковыми комиссиями": 662,
@@ -1595,8 +1892,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 590,
     "uikTvd": "448400970637",
+    "uikName": "УИК №590",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 217,
       "Число бюллетеней, полученных участковыми комиссиями": 214,
@@ -1643,8 +1949,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 591,
     "uikTvd": "448400970602",
+    "uikName": "УИК №591",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -1691,8 +2006,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 592,
     "uikTvd": "448400970638",
+    "uikName": "УИК №592",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 109,
       "Число бюллетеней, полученных участковыми комиссиями": 113,
@@ -1739,8 +2063,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 593,
     "uikTvd": "448400970639",
+    "uikName": "УИК №593",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 472,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -1787,8 +2120,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 594,
     "uikTvd": "448400970640",
+    "uikName": "УИК №594",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 592,
@@ -1835,8 +2177,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 595,
     "uikTvd": "448400970641",
+    "uikName": "УИК №595",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 185,
       "Число бюллетеней, полученных участковыми комиссиями": 198,
@@ -1883,8 +2234,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 596,
     "uikTvd": "448400970642",
+    "uikName": "УИК №596",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 219,
       "Число бюллетеней, полученных участковыми комиссиями": 228,
@@ -1931,8 +2291,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 597,
     "uikTvd": "448400970643",
+    "uikName": "УИК №597",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 135,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -1979,8 +2348,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 598,
     "uikTvd": "448400970644",
+    "uikName": "УИК №598",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 691,
       "Число бюллетеней, полученных участковыми комиссиями": 709,
@@ -2027,8 +2405,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 599,
     "uikTvd": "448400970645",
+    "uikName": "УИК №599",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 66,
       "Число бюллетеней, полученных участковыми комиссиями": 69,
@@ -2075,8 +2462,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 600,
     "uikTvd": "448400970646",
+    "uikName": "УИК №600",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 491,
@@ -2123,8 +2519,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 601,
     "uikTvd": "448400970647",
+    "uikName": "УИК №601",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 122,
@@ -2171,8 +2576,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 602,
     "uikTvd": "448400970648",
+    "uikName": "УИК №602",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 349,
       "Число бюллетеней, полученных участковыми комиссиями": 356,
@@ -2219,8 +2633,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 603,
     "uikTvd": "448400970649",
+    "uikName": "УИК №603",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 418,
       "Число бюллетеней, полученных участковыми комиссиями": 415,
@@ -2267,8 +2690,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 604,
     "uikTvd": "448400970650",
+    "uikName": "УИК №604",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 406,
       "Число бюллетеней, полученных участковыми комиссиями": 405,
@@ -2315,8 +2747,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 605,
     "uikTvd": "448400970651",
+    "uikName": "УИК №605",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 494,
       "Число бюллетеней, полученных участковыми комиссиями": 472,
@@ -2363,8 +2804,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 606,
     "uikTvd": "448400970652",
+    "uikName": "УИК №606",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 882,
       "Число бюллетеней, полученных участковыми комиссиями": 862,
@@ -2411,8 +2861,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 607,
     "uikTvd": "448400970653",
+    "uikName": "УИК №607",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 465,
@@ -2459,8 +2918,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 608,
     "uikTvd": "448400970654",
+    "uikName": "УИК №608",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 204,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -2507,8 +2975,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 609,
     "uikTvd": "448400970655",
+    "uikName": "УИК №609",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 360,
       "Число бюллетеней, полученных участковыми комиссиями": 362,
@@ -2555,8 +3032,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 610,
     "uikTvd": "448400970656",
+    "uikName": "УИК №610",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1167,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -2603,8 +3089,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 611,
     "uikTvd": "448400970657",
+    "uikName": "УИК №611",
     "tikTvd": "248200070725",
     "tikName": "Задонская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 236,
@@ -2651,8 +3146,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "448400670539",
+    "uikName": "УИК №490",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 488,
@@ -2699,8 +3203,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "448400670540",
+    "uikName": "УИК №491",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 128,
@@ -2747,8 +3260,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "448400670541",
+    "uikName": "УИК №492",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 388,
       "Число бюллетеней, полученных участковыми комиссиями": 383,
@@ -2795,8 +3317,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "448400670542",
+    "uikName": "УИК №493",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -2843,8 +3374,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "448400670543",
+    "uikName": "УИК №494",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 559,
       "Число бюллетеней, полученных участковыми комиссиями": 547,
@@ -2891,8 +3431,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "448400670544",
+    "uikName": "УИК №495",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -2939,8 +3488,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "448400670545",
+    "uikName": "УИК №496",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 388,
@@ -2987,8 +3545,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "448400670546",
+    "uikName": "УИК №497",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 276,
       "Число бюллетеней, полученных участковыми комиссиями": 276,
@@ -3035,8 +3602,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "448400670547",
+    "uikName": "УИК №498",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 138,
@@ -3083,8 +3659,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "448400670548",
+    "uikName": "УИК №499",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 450,
       "Число бюллетеней, полученных участковыми комиссиями": 451,
@@ -3131,8 +3716,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "448400670549",
+    "uikName": "УИК №500",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 165,
       "Число бюллетеней, полученных участковыми комиссиями": 169,
@@ -3179,8 +3773,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "448400670550",
+    "uikName": "УИК №501",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 393,
       "Число бюллетеней, полученных участковыми комиссиями": 389,
@@ -3227,8 +3830,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 502,
     "uikTvd": "448400670551",
+    "uikName": "УИК №502",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 911,
       "Число бюллетеней, полученных участковыми комиссиями": 893,
@@ -3275,8 +3887,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 503,
     "uikTvd": "448400670552",
+    "uikName": "УИК №503",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2884,
       "Число бюллетеней, полученных участковыми комиссиями": 2838,
@@ -3323,8 +3944,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 504,
     "uikTvd": "448400670553",
+    "uikName": "УИК №504",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 742,
       "Число бюллетеней, полученных участковыми комиссиями": 732,
@@ -3371,8 +4001,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 505,
     "uikTvd": "448400670554",
+    "uikName": "УИК №505",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 175,
       "Число бюллетеней, полученных участковыми комиссиями": 172,
@@ -3419,8 +4058,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 506,
     "uikTvd": "448400670555",
+    "uikName": "УИК №506",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 121,
       "Число бюллетеней, полученных участковыми комиссиями": 121,
@@ -3467,8 +4115,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 507,
     "uikTvd": "448400670556",
+    "uikName": "УИК №507",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 453,
       "Число бюллетеней, полученных участковыми комиссиями": 448,
@@ -3515,8 +4172,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 508,
     "uikTvd": "448400670557",
+    "uikName": "УИК №508",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 379,
@@ -3563,8 +4229,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 509,
     "uikTvd": "448400670558",
+    "uikName": "УИК №509",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 788,
       "Число бюллетеней, полученных участковыми комиссиями": 778,
@@ -3611,8 +4286,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 510,
     "uikTvd": "448400670559",
+    "uikName": "УИК №510",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 819,
       "Число бюллетеней, полученных участковыми комиссиями": 815,
@@ -3659,8 +4343,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 511,
     "uikTvd": "448400670560",
+    "uikName": "УИК №511",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -3707,8 +4400,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 512,
     "uikTvd": "448400670561",
+    "uikName": "УИК №512",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 186,
@@ -3755,8 +4457,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 513,
     "uikTvd": "448400670562",
+    "uikName": "УИК №513",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 510,
       "Число бюллетеней, полученных участковыми комиссиями": 502,
@@ -3803,8 +4514,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 514,
     "uikTvd": "448400670563",
+    "uikName": "УИК №514",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 352,
       "Число бюллетеней, полученных участковыми комиссиями": 338,
@@ -3851,8 +4571,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 515,
     "uikTvd": "448400670564",
+    "uikName": "УИК №515",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 637,
       "Число бюллетеней, полученных участковыми комиссиями": 633,
@@ -3899,8 +4628,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 516,
     "uikTvd": "448400670565",
+    "uikName": "УИК №516",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 123,
       "Число бюллетеней, полученных участковыми комиссиями": 124,
@@ -3947,8 +4685,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 517,
     "uikTvd": "448400670566",
+    "uikName": "УИК №517",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 515,
       "Число бюллетеней, полученных участковыми комиссиями": 497,
@@ -3995,8 +4742,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 518,
     "uikTvd": "448400670567",
+    "uikName": "УИК №518",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 281,
@@ -4043,8 +4799,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 519,
     "uikTvd": "448400670568",
+    "uikName": "УИК №519",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 403,
       "Число бюллетеней, полученных участковыми комиссиями": 393,
@@ -4091,8 +4856,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 520,
     "uikTvd": "448400670569",
+    "uikName": "УИК №520",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 267,
       "Число бюллетеней, полученных участковыми комиссиями": 278,
@@ -4139,8 +4913,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 521,
     "uikTvd": "448400670570",
+    "uikName": "УИК №521",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 814,
       "Число бюллетеней, полученных участковыми комиссиями": 833,
@@ -4187,8 +4970,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 522,
     "uikTvd": "448400670571",
+    "uikName": "УИК №522",
     "tikTvd": "248200070726",
     "tikName": "Долгоруковская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -4235,8 +5027,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 295,
     "uikTvd": "448400770561",
+    "uikName": "УИК №295",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1786,
       "Число бюллетеней, полученных участковыми комиссиями": 1750,
@@ -4283,8 +5084,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 296,
     "uikTvd": "448400770562",
+    "uikName": "УИК №296",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1512,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4331,8 +5141,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 297,
     "uikTvd": "448400770563",
+    "uikName": "УИК №297",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1336,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -4379,8 +5198,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 298,
     "uikTvd": "448400770564",
+    "uikName": "УИК №298",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1405,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -4427,8 +5255,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 299,
     "uikTvd": "448400770565",
+    "uikName": "УИК №299",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1694,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4475,8 +5312,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 300,
     "uikTvd": "448400770566",
+    "uikName": "УИК №300",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1963,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -4523,8 +5369,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 301,
     "uikTvd": "448400770567",
+    "uikName": "УИК №301",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1298,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -4571,8 +5426,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 302,
     "uikTvd": "448400770568",
+    "uikName": "УИК №302",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1859,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -4619,8 +5483,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 303,
     "uikTvd": "448400770569",
+    "uikName": "УИК №303",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2711,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -4667,8 +5540,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 304,
     "uikTvd": "448400770570",
+    "uikName": "УИК №304",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1720,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4715,8 +5597,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 305,
     "uikTvd": "448400770571",
+    "uikName": "УИК №305",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2454,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4763,8 +5654,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 306,
     "uikTvd": "448400770572",
+    "uikName": "УИК №306",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1778,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -4811,8 +5711,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 307,
     "uikTvd": "448400770573",
+    "uikName": "УИК №307",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1557,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -4859,8 +5768,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 308,
     "uikTvd": "448400770574",
+    "uikName": "УИК №308",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2510,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -4907,8 +5825,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 309,
     "uikTvd": "448400770575",
+    "uikName": "УИК №309",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2419,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -4955,8 +5882,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 310,
     "uikTvd": "448400770576",
+    "uikName": "УИК №310",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2711,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5003,8 +5939,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 311,
     "uikTvd": "448400770577",
+    "uikName": "УИК №311",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2818,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -5051,8 +5996,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 312,
     "uikTvd": "448400770578",
+    "uikName": "УИК №312",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2576,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -5099,8 +6053,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 313,
     "uikTvd": "448400770579",
+    "uikName": "УИК №313",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2764,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -5147,8 +6110,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 314,
     "uikTvd": "448400770580",
+    "uikName": "УИК №314",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2182,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5195,8 +6167,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 315,
     "uikTvd": "448400770581",
+    "uikName": "УИК №315",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1944,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5243,8 +6224,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 316,
     "uikTvd": "448400770582",
+    "uikName": "УИК №316",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1901,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5291,8 +6281,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 317,
     "uikTvd": "448400770583",
+    "uikName": "УИК №317",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2314,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5339,8 +6338,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 318,
     "uikTvd": "448400770584",
+    "uikName": "УИК №318",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1138,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -5387,8 +6395,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 319,
     "uikTvd": "448400770585",
+    "uikName": "УИК №319",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1486,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5435,8 +6452,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 320,
     "uikTvd": "448400770586",
+    "uikName": "УИК №320",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1860,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5483,8 +6509,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 321,
     "uikTvd": "448400770587",
+    "uikName": "УИК №321",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1457,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -5531,8 +6566,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 322,
     "uikTvd": "448400770588",
+    "uikName": "УИК №322",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1822,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5579,8 +6623,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 323,
     "uikTvd": "448400770589",
+    "uikName": "УИК №323",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2667,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5627,8 +6680,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 324,
     "uikTvd": "448400770590",
+    "uikName": "УИК №324",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5675,8 +6737,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 325,
     "uikTvd": "448400770591",
+    "uikName": "УИК №325",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 654,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -5723,8 +6794,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 326,
     "uikTvd": "448400770592",
+    "uikName": "УИК №326",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1822,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5771,8 +6851,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 327,
     "uikTvd": "448400770593",
+    "uikName": "УИК №327",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1715,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -5819,8 +6908,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 328,
     "uikTvd": "448400770594",
+    "uikName": "УИК №328",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1268,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -5867,8 +6965,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 329,
     "uikTvd": "448400770595",
+    "uikName": "УИК №329",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -5915,8 +7022,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 330,
     "uikTvd": "448400770596",
+    "uikName": "УИК №330",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1299,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5963,8 +7079,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 331,
     "uikTvd": "448400770597",
+    "uikName": "УИК №331",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6011,8 +7136,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 332,
     "uikTvd": "448400770598",
+    "uikName": "УИК №332",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2170,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6059,8 +7193,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 333,
     "uikTvd": "448400770599",
+    "uikName": "УИК №333",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2582,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6107,8 +7250,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 334,
     "uikTvd": "448400770600",
+    "uikName": "УИК №334",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1493,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6155,8 +7307,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 335,
     "uikTvd": "448400770601",
+    "uikName": "УИК №335",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2430,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6203,8 +7364,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 336,
     "uikTvd": "448400770602",
+    "uikName": "УИК №336",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2261,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6251,8 +7421,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 337,
     "uikTvd": "448400770603",
+    "uikName": "УИК №337",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1660,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -6299,8 +7478,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 338,
     "uikTvd": "448400770604",
+    "uikName": "УИК №338",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1957,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6347,8 +7535,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 339,
     "uikTvd": "448400770605",
+    "uikName": "УИК №339",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1133,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6395,8 +7592,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 340,
     "uikTvd": "448400770606",
+    "uikName": "УИК №340",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2316,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6443,8 +7649,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 341,
     "uikTvd": "448400770607",
+    "uikName": "УИК №341",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2281,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6491,8 +7706,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 342,
     "uikTvd": "448400770608",
+    "uikName": "УИК №342",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 380,
@@ -6539,8 +7763,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 343,
     "uikTvd": "448400770609",
+    "uikName": "УИК №343",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2037,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6587,8 +7820,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 344,
     "uikTvd": "448400770610",
+    "uikName": "УИК №344",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1911,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6635,8 +7877,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 345,
     "uikTvd": "448400770611",
+    "uikName": "УИК №345",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6683,8 +7934,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 346,
     "uikTvd": "448400770612",
+    "uikName": "УИК №346",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1257,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6731,8 +7991,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 347,
     "uikTvd": "448400770613",
+    "uikName": "УИК №347",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 101,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6779,8 +8048,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 348,
     "uikTvd": "448400770614",
+    "uikName": "УИК №348",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -6827,8 +8105,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 349,
     "uikTvd": "448400770559",
+    "uikName": "УИК №349",
     "tikTvd": "248200070727",
     "tikName": "Елецкая городская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -6875,8 +8162,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 523,
     "uikTvd": "448400870462",
+    "uikName": "УИК  523",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1881,
       "Число бюллетеней, полученных участковыми комиссиями": 1881,
@@ -6923,8 +8219,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 524,
     "uikTvd": "448400870463",
+    "uikName": "УИК  524",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 323,
       "Число бюллетеней, полученных участковыми комиссиями": 329,
@@ -6971,8 +8276,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 525,
     "uikTvd": "448400870464",
+    "uikName": "УИК  525",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 486,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -7019,8 +8333,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 526,
     "uikTvd": "448400870465",
+    "uikName": "УИК  526",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 349,
       "Число бюллетеней, полученных участковыми комиссиями": 349,
@@ -7067,8 +8390,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 527,
     "uikTvd": "448400870466",
+    "uikName": "УИК  527",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 797,
       "Число бюллетеней, полученных участковыми комиссиями": 788,
@@ -7115,8 +8447,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 528,
     "uikTvd": "448400870467",
+    "uikName": "УИК  528",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 224,
       "Число бюллетеней, полученных участковыми комиссиями": 217,
@@ -7163,8 +8504,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 529,
     "uikTvd": "448400870468",
+    "uikName": "УИК  529",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 279,
@@ -7211,8 +8561,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 530,
     "uikTvd": "448400870469",
+    "uikName": "УИК  530",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1004,
       "Число бюллетеней, полученных участковыми комиссиями": 1007,
@@ -7259,8 +8618,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 531,
     "uikTvd": "448400870470",
+    "uikName": "УИК  531",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 250,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -7307,8 +8675,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 532,
     "uikTvd": "448400870471",
+    "uikName": "УИК  532",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 291,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -7355,8 +8732,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 533,
     "uikTvd": "448400870472",
+    "uikName": "УИК  533",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 375,
       "Число бюллетеней, полученных участковыми комиссиями": 366,
@@ -7403,8 +8789,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 534,
     "uikTvd": "448400870473",
+    "uikName": "УИК  534",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 136,
       "Число бюллетеней, полученных участковыми комиссиями": 131,
@@ -7451,8 +8846,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 535,
     "uikTvd": "448400870474",
+    "uikName": "УИК  535",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 586,
       "Число бюллетеней, полученных участковыми комиссиями": 583,
@@ -7499,8 +8903,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 536,
     "uikTvd": "448400870475",
+    "uikName": "УИК  536",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 213,
       "Число бюллетеней, полученных участковыми комиссиями": 211,
@@ -7547,8 +8960,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 537,
     "uikTvd": "448400870476",
+    "uikName": "УИК  537",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 223,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -7595,8 +9017,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 538,
     "uikTvd": "448400870477",
+    "uikName": "УИК  538",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1605,
       "Число бюллетеней, полученных участковыми комиссиями": 1603,
@@ -7643,8 +9074,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 539,
     "uikTvd": "448400870495",
+    "uikName": "УИК  539",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 924,
       "Число бюллетеней, полученных участковыми комиссиями": 922,
@@ -7691,8 +9131,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 540,
     "uikTvd": "448400870478",
+    "uikName": "УИК  540",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 758,
       "Число бюллетеней, полученных участковыми комиссиями": 739,
@@ -7739,8 +9188,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 541,
     "uikTvd": "448400870479",
+    "uikName": "УИК  541",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 257,
       "Число бюллетеней, полученных участковыми комиссиями": 247,
@@ -7787,8 +9245,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 542,
     "uikTvd": "448400870480",
+    "uikName": "УИК  542",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 184,
@@ -7835,8 +9302,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 543,
     "uikTvd": "448400870481",
+    "uikName": "УИК  543",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 119,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -7883,8 +9359,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 544,
     "uikTvd": "448400870482",
+    "uikName": "УИК  544",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1083,
       "Число бюллетеней, полученных участковыми комиссиями": 1085,
@@ -7931,8 +9416,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 545,
     "uikTvd": "448400870483",
+    "uikName": "УИК  545",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1230,
       "Число бюллетеней, полученных участковыми комиссиями": 1239,
@@ -7979,8 +9473,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 546,
     "uikTvd": "448400870484",
+    "uikName": "УИК  546",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 668,
       "Число бюллетеней, полученных участковыми комиссиями": 662,
@@ -8027,8 +9530,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 547,
     "uikTvd": "448400870485",
+    "uikName": "УИК  547",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2232,
       "Число бюллетеней, полученных участковыми комиссиями": 2089,
@@ -8075,8 +9587,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 548,
     "uikTvd": "448400870486",
+    "uikName": "УИК  548",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 594,
       "Число бюллетеней, полученных участковыми комиссиями": 566,
@@ -8123,8 +9644,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 549,
     "uikTvd": "448400870487",
+    "uikName": "УИК  549",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 526,
       "Число бюллетеней, полученных участковыми комиссиями": 509,
@@ -8171,8 +9701,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 550,
     "uikTvd": "448400870488",
+    "uikName": "УИК  550",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 946,
       "Число бюллетеней, полученных участковыми комиссиями": 935,
@@ -8219,8 +9758,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 551,
     "uikTvd": "448400870489",
+    "uikName": "УИК  551",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 287,
@@ -8267,8 +9815,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 552,
     "uikTvd": "448400870493",
+    "uikName": "УИК  552",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1064,
       "Число бюллетеней, полученных участковыми комиссиями": 1071,
@@ -8315,8 +9872,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 553,
     "uikTvd": "448400870494",
+    "uikName": "УИК  553",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1205,
       "Число бюллетеней, полученных участковыми комиссиями": 1212,
@@ -8363,8 +9929,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "448400870490",
+    "uikName": "УИК  554",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 327,
       "Число бюллетеней, полученных участковыми комиссиями": 328,
@@ -8411,8 +9986,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "448400870491",
+    "uikName": "УИК  555",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 781,
       "Число бюллетеней, полученных участковыми комиссиями": 774,
@@ -8459,8 +10043,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "448400870492",
+    "uikName": "УИК  556",
     "tikTvd": "248200070728",
     "tikName": "Елецкая",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 243,
@@ -8507,8 +10100,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "448400570739",
+    "uikName": "УИК №454",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 345,
       "Число бюллетеней, полученных участковыми комиссиями": 331,
@@ -8555,8 +10157,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "448400570740",
+    "uikName": "УИК №455",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 387,
       "Число бюллетеней, полученных участковыми комиссиями": 373,
@@ -8603,8 +10214,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "448400570741",
+    "uikName": "УИК №456",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 532,
@@ -8651,8 +10271,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "448400570742",
+    "uikName": "УИК №457",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 218,
       "Число бюллетеней, полученных участковыми комиссиями": 225,
@@ -8699,8 +10328,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "448400570743",
+    "uikName": "УИК №458",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 761,
       "Число бюллетеней, полученных участковыми комиссиями": 785,
@@ -8747,8 +10385,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "448400570744",
+    "uikName": "УИК №459",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 245,
@@ -8795,8 +10442,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "448400570745",
+    "uikName": "УИК №460",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -8843,8 +10499,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "448400570746",
+    "uikName": "УИК №461",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 162,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -8891,8 +10556,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "448400570747",
+    "uikName": "УИК №462",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 684,
       "Число бюллетеней, полученных участковыми комиссиями": 657,
@@ -8939,8 +10613,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "448400570748",
+    "uikName": "УИК №463",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 247,
       "Число бюллетеней, полученных участковыми комиссиями": 251,
@@ -8987,8 +10670,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "448400570749",
+    "uikName": "УИК №464",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 602,
       "Число бюллетеней, полученных участковыми комиссиями": 580,
@@ -9035,8 +10727,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "448400570750",
+    "uikName": "УИК №465",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 748,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -9083,8 +10784,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "448400570751",
+    "uikName": "УИК №466",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 757,
       "Число бюллетеней, полученных участковыми комиссиями": 764,
@@ -9131,8 +10841,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "448400570752",
+    "uikName": "УИК №467",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 493,
       "Число бюллетеней, полученных участковыми комиссиями": 468,
@@ -9179,8 +10898,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "448400570753",
+    "uikName": "УИК №468",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 246,
@@ -9227,8 +10955,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "448400570754",
+    "uikName": "УИК №469",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 651,
       "Число бюллетеней, полученных участковыми комиссиями": 663,
@@ -9275,8 +11012,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "448400570755",
+    "uikName": "УИК №470",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1347,
       "Число бюллетеней, полученных участковыми комиссиями": 1319,
@@ -9323,8 +11069,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "448400570756",
+    "uikName": "УИК №471",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 127,
       "Число бюллетеней, полученных участковыми комиссиями": 142,
@@ -9371,8 +11126,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "448400570757",
+    "uikName": "УИК №472",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 143,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -9419,8 +11183,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "448400570758",
+    "uikName": "УИК №473",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 522,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -9467,8 +11240,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "448400570759",
+    "uikName": "УИК №474",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 528,
@@ -9515,8 +11297,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "448400570760",
+    "uikName": "УИК №475",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 651,
       "Число бюллетеней, полученных участковыми комиссиями": 659,
@@ -9563,8 +11354,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "448400570761",
+    "uikName": "УИК №476",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 752,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -9611,8 +11411,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "448400570762",
+    "uikName": "УИК №477",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 721,
       "Число бюллетеней, полученных участковыми комиссиями": 726,
@@ -9659,8 +11468,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "448400570763",
+    "uikName": "УИК №478",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 785,
@@ -9707,8 +11525,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "448400570764",
+    "uikName": "УИК №479",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 470,
       "Число бюллетеней, полученных участковыми комиссиями": 458,
@@ -9755,8 +11582,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "448400570765",
+    "uikName": "УИК №480",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 356,
       "Число бюллетеней, полученных участковыми комиссиями": 353,
@@ -9803,8 +11639,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "448400570766",
+    "uikName": "УИК №481",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 685,
       "Число бюллетеней, полученных участковыми комиссиями": 677,
@@ -9851,8 +11696,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "448400570767",
+    "uikName": "УИК №482",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 527,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -9899,8 +11753,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "448400570768",
+    "uikName": "УИК №483",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 254,
       "Число бюллетеней, полученных участковыми комиссиями": 257,
@@ -9947,8 +11810,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "448400570769",
+    "uikName": "УИК №484",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 728,
       "Число бюллетеней, полученных участковыми комиссиями": 724,
@@ -9995,8 +11867,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "448400570770",
+    "uikName": "УИК №485",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 201,
       "Число бюллетеней, полученных участковыми комиссиями": 201,
@@ -10043,8 +11924,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "448400570771",
+    "uikName": "УИК №486",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1317,
       "Число бюллетеней, полученных участковыми комиссиями": 1316,
@@ -10091,8 +11981,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "448400570772",
+    "uikName": "УИК №487",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 793,
       "Число бюллетеней, полученных участковыми комиссиями": 789,
@@ -10139,8 +12038,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "448400570773",
+    "uikName": "УИК №488",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 799,
       "Число бюллетеней, полученных участковыми комиссиями": 797,
@@ -10187,8 +12095,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "448400570774",
+    "uikName": "УИК №489",
     "tikTvd": "248200070729",
     "tikName": "Добровская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1602,
       "Число бюллетеней, полученных участковыми комиссиями": 1594,
@@ -10235,8 +12152,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "448400470469",
+    "uikName": "УИК №405",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2166,
       "Число бюллетеней, полученных участковыми комиссиями": 2186,
@@ -10283,8 +12209,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "448400470470",
+    "uikName": "УИК №406",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 227,
@@ -10331,8 +12266,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "448400470471",
+    "uikName": "УИК №407",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2321,
       "Число бюллетеней, полученных участковыми комиссиями": 2323,
@@ -10379,8 +12323,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "448400470472",
+    "uikName": "УИК №408",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1882,
       "Число бюллетеней, полученных участковыми комиссиями": 1894,
@@ -10427,8 +12380,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 409,
     "uikTvd": "448400470473",
+    "uikName": "УИК №409",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 916,
       "Число бюллетеней, полученных участковыми комиссиями": 910,
@@ -10475,8 +12437,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 410,
     "uikTvd": "448400470474",
+    "uikName": "УИК №410",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 270,
       "Число бюллетеней, полученных участковыми комиссиями": 282,
@@ -10523,8 +12494,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 411,
     "uikTvd": "448400470475",
+    "uikName": "УИК №411",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 383,
@@ -10571,8 +12551,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 412,
     "uikTvd": "448400470476",
+    "uikName": "УИК №412",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 102,
       "Число бюллетеней, полученных участковыми комиссиями": 98,
@@ -10619,8 +12608,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 413,
     "uikTvd": "448400470477",
+    "uikName": "УИК №413",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 430,
       "Число бюллетеней, полученных участковыми комиссиями": 423,
@@ -10667,8 +12665,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 414,
     "uikTvd": "448400470478",
+    "uikName": "УИК №414",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 237,
@@ -10715,8 +12722,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 415,
     "uikTvd": "448400470479",
+    "uikName": "УИК №415",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1007,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10763,8 +12779,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 416,
     "uikTvd": "448400470480",
+    "uikName": "УИК №416",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 268,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -10811,8 +12836,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 417,
     "uikTvd": "448400470481",
+    "uikName": "УИК №417",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 671,
       "Число бюллетеней, полученных участковыми комиссиями": 674,
@@ -10859,8 +12893,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 418,
     "uikTvd": "448400470482",
+    "uikName": "УИК №418",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 296,
       "Число бюллетеней, полученных участковыми комиссиями": 296,
@@ -10907,8 +12950,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 419,
     "uikTvd": "448400470483",
+    "uikName": "УИК №419",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 366,
       "Число бюллетеней, полученных участковыми комиссиями": 354,
@@ -10955,8 +13007,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 420,
     "uikTvd": "448400470484",
+    "uikName": "УИК №420",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 765,
       "Число бюллетеней, полученных участковыми комиссиями": 767,
@@ -11003,8 +13064,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 421,
     "uikTvd": "448400470485",
+    "uikName": "УИК №421",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 256,
       "Число бюллетеней, полученных участковыми комиссиями": 257,
@@ -11051,8 +13121,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 422,
     "uikTvd": "448400470486",
+    "uikName": "УИК №422",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1162,
       "Число бюллетеней, полученных участковыми комиссиями": 1154,
@@ -11099,8 +13178,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 423,
     "uikTvd": "448400470487",
+    "uikName": "УИК №423",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 467,
       "Число бюллетеней, полученных участковыми комиссиями": 466,
@@ -11147,8 +13235,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 424,
     "uikTvd": "448400470488",
+    "uikName": "УИК №424",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 688,
       "Число бюллетеней, полученных участковыми комиссиями": 685,
@@ -11195,8 +13292,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 425,
     "uikTvd": "448400470489",
+    "uikName": "УИК №425",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 518,
@@ -11243,8 +13349,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 426,
     "uikTvd": "448400470490",
+    "uikName": "УИК №426",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 482,
@@ -11291,8 +13406,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 427,
     "uikTvd": "448400470491",
+    "uikName": "УИК №427",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1083,
       "Число бюллетеней, полученных участковыми комиссиями": 1101,
@@ -11339,8 +13463,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 428,
     "uikTvd": "448400470492",
+    "uikName": "УИК №428",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 223,
@@ -11387,8 +13520,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 429,
     "uikTvd": "448400470493",
+    "uikName": "УИК №429",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 311,
@@ -11435,8 +13577,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 430,
     "uikTvd": "448400470494",
+    "uikName": "УИК №430",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 378,
       "Число бюллетеней, полученных участковыми комиссиями": 391,
@@ -11483,8 +13634,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 431,
     "uikTvd": "448400470495",
+    "uikName": "УИК №431",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 614,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -11531,8 +13691,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 432,
     "uikTvd": "448400470496",
+    "uikName": "УИК №432",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 301,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -11579,8 +13748,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 433,
     "uikTvd": "448400470497",
+    "uikName": "УИК №433",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 369,
       "Число бюллетеней, полученных участковыми комиссиями": 371,
@@ -11627,8 +13805,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 434,
     "uikTvd": "448400470498",
+    "uikName": "УИК №434",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 309,
       "Число бюллетеней, полученных участковыми комиссиями": 305,
@@ -11675,8 +13862,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 435,
     "uikTvd": "448400470499",
+    "uikName": "УИК №435",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 228,
@@ -11723,8 +13919,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 436,
     "uikTvd": "448400470500",
+    "uikName": "УИК №436",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 425,
@@ -11771,8 +13976,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 437,
     "uikTvd": "448400470501",
+    "uikName": "УИК №437",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 234,
@@ -11819,8 +14033,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "448400470502",
+    "uikName": "УИК №438",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 570,
       "Число бюллетеней, полученных участковыми комиссиями": 571,
@@ -11867,8 +14090,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "448400470503",
+    "uikName": "УИК №439",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 891,
       "Число бюллетеней, полученных участковыми комиссиями": 856,
@@ -11915,8 +14147,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "448400470504",
+    "uikName": "УИК №440",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 255,
       "Число бюллетеней, полученных участковыми комиссиями": 260,
@@ -11963,8 +14204,17 @@ export const duma_2003_uik_428_region_48_part_001 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "448400470505",
+    "uikName": "УИК №441",
     "tikTvd": "248200070730",
     "tikName": "Добринская",
+    "regionCode": "48",
+    "regionTvd": "100100095820",
+    "regionName": "Липецкая область",
+    "district": {
+      "districtNumber": 102,
+      "oikTvd": "100100095821",
+      "oikName": "Елецкий"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 941,
       "Число бюллетеней, полученных участковыми комиссиями": 941,

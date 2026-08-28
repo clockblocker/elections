@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2032,
     "uikTvd": "452404770452",
+    "uikName": "УИК №2032",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -59,8 +68,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2033,
     "uikTvd": "452404770453",
+    "uikName": "УИК №2033",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 479,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -107,8 +125,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2034,
     "uikTvd": "452404770454",
+    "uikName": "УИК №2034",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 106,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -155,8 +182,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2035,
     "uikTvd": "452404770455",
+    "uikName": "УИК №2035",
     "tikTvd": "352300270494",
     "tikName": "Починковская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 118,
+      "oikTvd": "100100095827",
+      "oikName": "Арзамасский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 554,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -203,8 +239,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1,
     "uikTvd": "452400170365",
+    "uikName": "УИК №1",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 994,
       "Число бюллетеней, полученных участковыми комиссиями": 930,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2,
     "uikTvd": "452400170367",
+    "uikName": "УИК №2",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1001,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -309,8 +363,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 3,
     "uikTvd": "452400170368",
+    "uikName": "УИК №3",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 946,
       "Число бюллетеней, полученных участковыми комиссиями": 890,
@@ -362,8 +425,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 4,
     "uikTvd": "452400170369",
+    "uikName": "УИК №4",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1567,
       "Число бюллетеней, полученных участковыми комиссиями": 1420,
@@ -415,8 +487,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 5,
     "uikTvd": "452400170370",
+    "uikName": "УИК №5",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -468,8 +549,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 6,
     "uikTvd": "452400170371",
+    "uikName": "УИК №6",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1796,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -521,8 +611,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 7,
     "uikTvd": "452400170372",
+    "uikName": "УИК №7",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 613,
       "Число бюллетеней, полученных участковыми комиссиями": 572,
@@ -574,8 +673,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 8,
     "uikTvd": "452400170373",
+    "uikName": "УИК №8",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 293,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -627,8 +735,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 9,
     "uikTvd": "452400170374",
+    "uikName": "УИК №9",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 341,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -680,8 +797,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 10,
     "uikTvd": "452400170375",
+    "uikName": "УИК №10",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1282,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -733,8 +859,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 11,
     "uikTvd": "452400170376",
+    "uikName": "УИК №11",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1335,
       "Число бюллетеней, полученных участковыми комиссиями": 1213,
@@ -786,8 +921,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 12,
     "uikTvd": "452400170377",
+    "uikName": "УИК №12",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1640,
       "Число бюллетеней, полученных участковыми комиссиями": 1490,
@@ -839,8 +983,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 13,
     "uikTvd": "452400170378",
+    "uikName": "УИК №13",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 110,
@@ -892,8 +1045,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 14,
     "uikTvd": "452400170379",
+    "uikName": "УИК №14",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -945,8 +1107,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 15,
     "uikTvd": "452400170380",
+    "uikName": "УИК №15",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 935,
       "Число бюллетеней, полученных участковыми комиссиями": 873,
@@ -998,8 +1169,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "452400170381",
+    "uikName": "УИК №16",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 111,
@@ -1051,8 +1231,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "452400170382",
+    "uikName": "УИК №17",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 476,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -1104,8 +1293,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "452400170383",
+    "uikName": "УИК №18",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 402,
       "Число бюллетеней, полученных участковыми комиссиями": 372,
@@ -1157,8 +1355,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "452400170384",
+    "uikName": "УИК №19",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 762,
       "Число бюллетеней, полученных участковыми комиссиями": 697,
@@ -1210,8 +1417,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "452400170385",
+    "uikName": "УИК №20",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 501,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -1263,8 +1479,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "452400170386",
+    "uikName": "УИК №21",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 399,
       "Число бюллетеней, полученных участковыми комиссиями": 367,
@@ -1316,8 +1541,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "452400170387",
+    "uikName": "УИК №22",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 604,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -1369,8 +1603,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "452400170388",
+    "uikName": "УИК №23",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 372,
       "Число бюллетеней, полученных участковыми комиссиями": 341,
@@ -1422,8 +1665,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "452400170389",
+    "uikName": "УИК №24",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 758,
       "Число бюллетеней, полученных участковыми комиссиями": 690,
@@ -1475,8 +1727,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "452400170390",
+    "uikName": "УИК №25",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -1528,8 +1789,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "452400170391",
+    "uikName": "УИК №26",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 334,
       "Число бюллетеней, полученных участковыми комиссиями": 263,
@@ -1581,8 +1851,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "452400170392",
+    "uikName": "УИК №27",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 434,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -1634,8 +1913,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "452400170393",
+    "uikName": "УИК №28",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -1687,8 +1975,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "452400170394",
+    "uikName": "УИК №29",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 535,
       "Число бюллетеней, полученных участковыми комиссиями": 491,
@@ -1740,8 +2037,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "452400170395",
+    "uikName": "УИК №30",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 376,
@@ -1793,8 +2099,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "452400170396",
+    "uikName": "УИК №31",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -1846,8 +2161,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "452400170397",
+    "uikName": "УИК №32",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 379,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -1899,8 +2223,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "452400170398",
+    "uikName": "УИК №33",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 463,
       "Число бюллетеней, полученных участковыми комиссиями": 408,
@@ -1952,8 +2285,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "452400170399",
+    "uikName": "УИК №34",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 270,
@@ -2005,8 +2347,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "452400170400",
+    "uikName": "УИК №35",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 172,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -2058,8 +2409,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "452400170401",
+    "uikName": "УИК №36",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 221,
       "Число бюллетеней, полученных участковыми комиссиями": 204,
@@ -2111,8 +2471,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "452400170402",
+    "uikName": "УИК №37",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 491,
       "Число бюллетеней, полученных участковыми комиссиями": 473,
@@ -2164,8 +2533,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "452400170403",
+    "uikName": "УИК №38",
     "tikTvd": "352300370427",
     "tikName": "Ардатовская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 159,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -2217,8 +2595,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "452400570638",
+    "uikName": "УИК №194",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1261,
       "Число бюллетеней, полученных участковыми комиссиями": 1154,
@@ -2270,8 +2657,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "452400570640",
+    "uikName": "УИК №195",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1712,
       "Число бюллетеней, полученных участковыми комиссиями": 1530,
@@ -2323,8 +2719,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "452400570641",
+    "uikName": "УИК №196",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 833,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -2376,8 +2781,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "452400570642",
+    "uikName": "УИК №197",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1272,
       "Число бюллетеней, полученных участковыми комиссиями": 1160,
@@ -2429,8 +2843,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "452400570643",
+    "uikName": "УИК №198",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2374,
       "Число бюллетеней, полученных участковыми комиссиями": 2195,
@@ -2482,8 +2905,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "452400570644",
+    "uikName": "УИК №199",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1090,
       "Число бюллетеней, полученных участковыми комиссиями": 1027,
@@ -2535,8 +2967,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "452400570645",
+    "uikName": "УИК №200",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1683,
       "Число бюллетеней, полученных участковыми комиссиями": 1552,
@@ -2588,8 +3029,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "452400570647",
+    "uikName": "УИК №201",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 849,
       "Число бюллетеней, полученных участковыми комиссиями": 810,
@@ -2641,8 +3091,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "452400570648",
+    "uikName": "УИК №202",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1151,
       "Число бюллетеней, полученных участковыми комиссиями": 1045,
@@ -2694,8 +3153,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "452400570649",
+    "uikName": "УИК №203",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1578,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -2747,8 +3215,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "452400570650",
+    "uikName": "УИК №204",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1160,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -2800,8 +3277,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "452400570651",
+    "uikName": "УИК №205",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1885,
       "Число бюллетеней, полученных участковыми комиссиями": 1699,
@@ -2853,8 +3339,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "452400570652",
+    "uikName": "УИК №206",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 808,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -2906,8 +3401,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "452400570653",
+    "uikName": "УИК №207",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2405,
       "Число бюллетеней, полученных участковыми комиссиями": 2185,
@@ -2959,8 +3463,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "452400570654",
+    "uikName": "УИК №208",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2335,
       "Число бюллетеней, полученных участковыми комиссиями": 2135,
@@ -3012,8 +3525,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "452400570655",
+    "uikName": "УИК №209",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1570,
       "Число бюллетеней, полученных участковыми комиссиями": 1470,
@@ -3065,8 +3587,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "452400570656",
+    "uikName": "УИК №210",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2168,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -3118,8 +3649,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "452400570657",
+    "uikName": "УИК №211",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2220,
       "Число бюллетеней, полученных участковыми комиссиями": 2015,
@@ -3171,8 +3711,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "452400570658",
+    "uikName": "УИК №212",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1815,
       "Число бюллетеней, полученных участковыми комиссиями": 1645,
@@ -3224,8 +3773,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "452400570659",
+    "uikName": "УИК №213",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 832,
       "Число бюллетеней, полученных участковыми комиссиями": 755,
@@ -3277,8 +3835,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "452400570660",
+    "uikName": "УИК №214",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 900,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -3330,8 +3897,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "452400570661",
+    "uikName": "УИК №215",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 359,
       "Число бюллетеней, полученных участковыми комиссиями": 320,
@@ -3383,8 +3959,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "452400570662",
+    "uikName": "УИК №216",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 553,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -3436,8 +4021,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "452400570663",
+    "uikName": "УИК №217",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 623,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -3489,8 +4083,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "452400570664",
+    "uikName": "УИК №218",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 607,
       "Число бюллетеней, полученных участковыми комиссиями": 545,
@@ -3542,8 +4145,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "452400570665",
+    "uikName": "УИК №219",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1124,
       "Число бюллетеней, полученных участковыми комиссиями": 1025,
@@ -3595,8 +4207,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "452400570666",
+    "uikName": "УИК №220",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2698,
       "Число бюллетеней, полученных участковыми комиссиями": 2424,
@@ -3648,8 +4269,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "452400570667",
+    "uikName": "УИК №221",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -3701,8 +4331,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "452400570668",
+    "uikName": "УИК №222",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 106,
@@ -3754,8 +4393,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "452400570669",
+    "uikName": "УИК №223",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1339,
       "Число бюллетеней, полученных участковыми комиссиями": 1190,
@@ -3807,8 +4455,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "452400570670",
+    "uikName": "УИК №224",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1545,
       "Число бюллетеней, полученных участковыми комиссиями": 1355,
@@ -3860,8 +4517,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "452400570671",
+    "uikName": "УИК №225",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 199,
       "Число бюллетеней, полученных участковыми комиссиями": 168,
@@ -3913,8 +4579,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "452400570706",
+    "uikName": "УИК №226",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 463,
       "Число бюллетеней, полученных участковыми комиссиями": 412,
@@ -3966,8 +4641,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "452400570707",
+    "uikName": "УИК №227",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1328,
       "Число бюллетеней, полученных участковыми комиссиями": 1220,
@@ -4019,8 +4703,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "452400570708",
+    "uikName": "УИК №228",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 265,
@@ -4072,8 +4765,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "452400570709",
+    "uikName": "УИК №229",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 522,
       "Число бюллетеней, полученных участковыми комиссиями": 480,
@@ -4125,8 +4827,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "452400570710",
+    "uikName": "УИК №230",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 425,
       "Число бюллетеней, полученных участковыми комиссиями": 385,
@@ -4178,8 +4889,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "452400570711",
+    "uikName": "УИК №231",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 834,
       "Число бюллетеней, полученных участковыми комиссиями": 765,
@@ -4231,8 +4951,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "452400570712",
+    "uikName": "УИК №232",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -4284,8 +5013,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "452400570713",
+    "uikName": "УИК №233",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1550,
       "Число бюллетеней, полученных участковыми комиссиями": 1365,
@@ -4337,8 +5075,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "452400570714",
+    "uikName": "УИК №234",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 563,
       "Число бюллетеней, полученных участковыми комиссиями": 485,
@@ -4390,8 +5137,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "452400570715",
+    "uikName": "УИК №235",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1911,
       "Число бюллетеней, полученных участковыми комиссиями": 1690,
@@ -4443,8 +5199,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "452400570704",
+    "uikName": "УИК №236",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 373,
       "Число бюллетеней, полученных участковыми комиссиями": 338,
@@ -4496,8 +5261,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "452400570716",
+    "uikName": "УИК №237",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 620,
       "Число бюллетеней, полученных участковыми комиссиями": 590,
@@ -4549,8 +5323,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "452400570717",
+    "uikName": "УИК №238",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 980,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -4602,8 +5385,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "452400570718",
+    "uikName": "УИК №239",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 339,
       "Число бюллетеней, полученных участковыми комиссиями": 293,
@@ -4655,8 +5447,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "452400570719",
+    "uikName": "УИК №240",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -4708,8 +5509,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "452400570720",
+    "uikName": "УИК №241",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 79,
       "Число бюллетеней, полученных участковыми комиссиями": 72,
@@ -4761,8 +5571,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "452400570721",
+    "uikName": "УИК №242",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 979,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -4814,8 +5633,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "452400570722",
+    "uikName": "УИК №243",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 251,
       "Число бюллетеней, полученных участковыми комиссиями": 209,
@@ -4867,8 +5695,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "452400570723",
+    "uikName": "УИК №244",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 399,
@@ -4920,8 +5757,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "452400570724",
+    "uikName": "УИК №245",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 533,
       "Число бюллетеней, полученных участковыми комиссиями": 465,
@@ -4973,8 +5819,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "452400570725",
+    "uikName": "УИК №246",
     "tikTvd": "352300370428",
     "tikName": "Богородская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 594,
       "Число бюллетеней, полученных участковыми комиссиями": 533,
@@ -5026,8 +5881,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 438,
     "uikTvd": "452401270480",
+    "uikName": "УИК  438",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 646,
       "Число бюллетеней, полученных участковыми комиссиями": 575,
@@ -5079,8 +5943,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 439,
     "uikTvd": "452401270481",
+    "uikName": "УИК  439",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 245,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5132,8 +6005,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 440,
     "uikTvd": "452401270482",
+    "uikName": "УИК  440",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 195,
@@ -5185,8 +6067,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 441,
     "uikTvd": "452401270483",
+    "uikName": "УИК  441",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 116,
       "Число бюллетеней, полученных участковыми комиссиями": 112,
@@ -5238,8 +6129,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 442,
     "uikTvd": "452401270484",
+    "uikName": "УИК  442",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1080,
       "Число бюллетеней, полученных участковыми комиссиями": 920,
@@ -5291,8 +6191,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 443,
     "uikTvd": "452401270485",
+    "uikName": "УИК  443",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 896,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -5344,8 +6253,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 444,
     "uikTvd": "452401270486",
+    "uikName": "УИК  444",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 192,
@@ -5397,8 +6315,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 445,
     "uikTvd": "452401270487",
+    "uikName": "УИК  445",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1856,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -5450,8 +6377,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 446,
     "uikTvd": "452401270488",
+    "uikName": "УИК  446",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1473,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -5503,8 +6439,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 447,
     "uikTvd": "452401270489",
+    "uikName": "УИК  447",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1620,
       "Число бюллетеней, полученных участковыми комиссиями": 1480,
@@ -5556,8 +6501,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 448,
     "uikTvd": "452401270490",
+    "uikName": "УИК  448",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -5609,8 +6563,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 449,
     "uikTvd": "452401270491",
+    "uikName": "УИК  449",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 239,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -5662,8 +6625,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 450,
     "uikTvd": "452401270492",
+    "uikName": "УИК  450",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 177,
       "Число бюллетеней, полученных участковыми комиссиями": 175,
@@ -5715,8 +6687,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 451,
     "uikTvd": "452401270493",
+    "uikName": "УИК  451",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -5768,8 +6749,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 452,
     "uikTvd": "452401270494",
+    "uikName": "УИК  452",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 182,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -5821,8 +6811,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 453,
     "uikTvd": "452401270495",
+    "uikName": "УИК  453",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -5874,8 +6873,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 454,
     "uikTvd": "452401270496",
+    "uikName": "УИК  454",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 320,
       "Число бюллетеней, полученных участковыми комиссиями": 290,
@@ -5927,8 +6935,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 455,
     "uikTvd": "452401270497",
+    "uikName": "УИК  455",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1027,
       "Число бюллетеней, полученных участковыми комиссиями": 925,
@@ -5980,8 +6997,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 456,
     "uikTvd": "452401270498",
+    "uikName": "УИК  456",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 494,
       "Число бюллетеней, полученных участковыми комиссиями": 435,
@@ -6033,8 +7059,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 457,
     "uikTvd": "452401270499",
+    "uikName": "УИК  457",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 173,
@@ -6086,8 +7121,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 458,
     "uikTvd": "452401270500",
+    "uikName": "УИК  458",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 490,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -6139,8 +7183,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 459,
     "uikTvd": "452401270501",
+    "uikName": "УИК  459",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1000,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -6192,8 +7245,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 460,
     "uikTvd": "452401270502",
+    "uikName": "УИК  460",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 330,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -6245,8 +7307,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "452401270503",
+    "uikName": "УИК  461",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 686,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -6298,8 +7369,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "452401270504",
+    "uikName": "УИК  462",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 287,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -6351,8 +7431,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "452401270505",
+    "uikName": "УИК  463",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1208,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -6404,8 +7493,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "452401270506",
+    "uikName": "УИК  464",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 871,
       "Число бюллетеней, полученных участковыми комиссиями": 755,
@@ -6457,8 +7555,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "452401270507",
+    "uikName": "УИК  465",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 178,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -6510,8 +7617,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "452401270508",
+    "uikName": "УИК  466",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 184,
       "Число бюллетеней, полученных участковыми комиссиями": 178,
@@ -6563,8 +7679,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "452401270509",
+    "uikName": "УИК  467",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 682,
       "Число бюллетеней, полученных участковыми комиссиями": 615,
@@ -6616,8 +7741,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "452401270510",
+    "uikName": "УИК  468",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 139,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -6669,8 +7803,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "452401270511",
+    "uikName": "УИК  469",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 152,
       "Число бюллетеней, полученных участковыми комиссиями": 154,
@@ -6722,8 +7865,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "452401270512",
+    "uikName": "УИК  470",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 89,
@@ -6775,8 +7927,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "452401270513",
+    "uikName": "УИК  471",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -6828,8 +7989,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "452401270514",
+    "uikName": "УИК  472",
     "tikTvd": "352300370429",
     "tikName": "Вачская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 95,
@@ -6881,8 +8051,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 775,
     "uikTvd": "452402170431",
+    "uikName": "УИК №775",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1634,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -6934,8 +8113,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 776,
     "uikTvd": "452402170432",
+    "uikName": "УИК №776",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1355,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -6987,8 +8175,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 777,
     "uikTvd": "452402170433",
+    "uikName": "УИК №777",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1333,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -7040,8 +8237,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 778,
     "uikTvd": "452402170434",
+    "uikName": "УИК №778",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 621,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7093,8 +8299,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 779,
     "uikTvd": "452402170435",
+    "uikName": "УИК №779",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 729,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -7146,8 +8361,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 780,
     "uikTvd": "452402170436",
+    "uikName": "УИК №780",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 404,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -7199,8 +8423,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 781,
     "uikTvd": "452402170437",
+    "uikName": "УИК №781",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 307,
       "Число бюллетеней, полученных участковыми комиссиями": 280,
@@ -7252,8 +8485,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 782,
     "uikTvd": "452402170438",
+    "uikName": "УИК №782",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 176,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -7305,8 +8547,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 783,
     "uikTvd": "452402170439",
+    "uikName": "УИК №783",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 564,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -7358,8 +8609,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 784,
     "uikTvd": "452402170440",
+    "uikName": "УИК №784",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 431,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7411,8 +8671,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 785,
     "uikTvd": "452402170441",
+    "uikName": "УИК №785",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 445,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -7464,8 +8733,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 786,
     "uikTvd": "452402170442",
+    "uikName": "УИК №786",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 716,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -7517,8 +8795,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 787,
     "uikTvd": "452402170443",
+    "uikName": "УИК №787",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1330,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -7570,8 +8857,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 788,
     "uikTvd": "452402170444",
+    "uikName": "УИК №788",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 740,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -7623,8 +8919,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 789,
     "uikTvd": "452402170445",
+    "uikName": "УИК №789",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -7676,8 +8981,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 790,
     "uikTvd": "452402170446",
+    "uikName": "УИК №790",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 340,
@@ -7729,8 +9043,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 791,
     "uikTvd": "452402170447",
+    "uikName": "УИК №791",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 893,
       "Число бюллетеней, полученных участковыми комиссиями": 870,
@@ -7782,8 +9105,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 792,
     "uikTvd": "452402170448",
+    "uikName": "УИК №792",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 500,
       "Число бюллетеней, полученных участковыми комиссиями": 490,
@@ -7835,8 +9167,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 793,
     "uikTvd": "452402170449",
+    "uikName": "УИК №793",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 472,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -7888,8 +9229,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 794,
     "uikTvd": "452402170450",
+    "uikName": "УИК №794",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 833,
       "Число бюллетеней, полученных участковыми комиссиями": 730,
@@ -7941,8 +9291,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 795,
     "uikTvd": "452402170451",
+    "uikName": "УИК №795",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1320,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -7994,8 +9353,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 796,
     "uikTvd": "452402170452",
+    "uikName": "УИК №796",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -8047,8 +9415,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 797,
     "uikTvd": "452402170453",
+    "uikName": "УИК №797",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 59,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -8100,8 +9477,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 798,
     "uikTvd": "452402170454",
+    "uikName": "УИК №798",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -8153,8 +9539,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 799,
     "uikTvd": "452402170455",
+    "uikName": "УИК №799",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -8206,8 +9601,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 800,
     "uikTvd": "452402170456",
+    "uikName": "УИК №800",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 551,
       "Число бюллетеней, полученных участковыми комиссиями": 510,
@@ -8259,8 +9663,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 801,
     "uikTvd": "452402170457",
+    "uikName": "УИК №801",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 506,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8312,8 +9725,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 802,
     "uikTvd": "452402170458",
+    "uikName": "УИК №802",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1056,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -8365,8 +9787,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 803,
     "uikTvd": "452402170459",
+    "uikName": "УИК №803",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 821,
       "Число бюллетеней, полученных участковыми комиссиями": 770,
@@ -8418,8 +9849,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 804,
     "uikTvd": "452402170460",
+    "uikName": "УИК №804",
     "tikTvd": "352300370430",
     "tikName": "Дальнеконстантиновская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -8471,8 +9911,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 820,
     "uikTvd": "452402270380",
+    "uikName": "УИК №820",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1137,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8524,8 +9973,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 821,
     "uikTvd": "452402270381",
+    "uikName": "УИК №821",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1659,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8577,8 +10035,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 827,
     "uikTvd": "452402270382",
+    "uikName": "УИК №827",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1479,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -8630,8 +10097,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 828,
     "uikTvd": "452402270383",
+    "uikName": "УИК №828",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1479,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8683,8 +10159,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "452402270384",
+    "uikName": "УИК №870",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1622,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8736,8 +10221,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "452402270385",
+    "uikName": "УИК №871",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2262,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8789,8 +10283,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "452402270386",
+    "uikName": "УИК №872",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2410,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8842,8 +10345,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "452402270387",
+    "uikName": "УИК №873",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2231,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8895,8 +10407,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "452402270388",
+    "uikName": "УИК №874",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2355,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8948,8 +10469,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "452402270389",
+    "uikName": "УИК №875",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1845,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9001,8 +10531,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "452402270390",
+    "uikName": "УИК №876",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2642,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9054,8 +10593,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "452402270391",
+    "uikName": "УИК №877",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2657,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9107,8 +10655,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "452402270392",
+    "uikName": "УИК №879",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1952,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9160,8 +10717,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "452402270393",
+    "uikName": "УИК №880",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2260,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -9213,8 +10779,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "452402270394",
+    "uikName": "УИК №882",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1678,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9266,8 +10841,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "452402270395",
+    "uikName": "УИК №883",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1796,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9319,8 +10903,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "452402270396",
+    "uikName": "УИК №884",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1702,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9372,8 +10965,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "452402270397",
+    "uikName": "УИК №885",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1261,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9425,8 +11027,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "452402270398",
+    "uikName": "УИК №886",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1247,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9478,8 +11089,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "452402270399",
+    "uikName": "УИК №887",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1508,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9531,8 +11151,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "452402270400",
+    "uikName": "УИК №888",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2643,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9584,8 +11213,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "452402270401",
+    "uikName": "УИК №889",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2513,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9637,8 +11275,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "452402270402",
+    "uikName": "УИК №890",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2295,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9690,8 +11337,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "452402270403",
+    "uikName": "УИК №891",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1792,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9743,8 +11399,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "452402270404",
+    "uikName": "УИК №892",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1949,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -9796,8 +11461,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "452402270405",
+    "uikName": "УИК №893",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1488,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -9849,8 +11523,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "452402270406",
+    "uikName": "УИК №894",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1358,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9902,8 +11585,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "452402270407",
+    "uikName": "УИК №895",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2644,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -9955,8 +11647,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "452402270408",
+    "uikName": "УИК №896",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1975,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10008,8 +11709,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "452402270409",
+    "uikName": "УИК №897",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1751,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -10061,8 +11771,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "452402270410",
+    "uikName": "УИК №898",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1596,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10114,8 +11833,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "452402270411",
+    "uikName": "УИК №899",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1969,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -10167,8 +11895,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "452402270412",
+    "uikName": "УИК №900",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1542,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10220,8 +11957,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 901,
     "uikTvd": "452402270413",
+    "uikName": "УИК №901",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1390,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10273,8 +12019,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 902,
     "uikTvd": "452402270414",
+    "uikName": "УИК №902",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2907,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -10326,8 +12081,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 903,
     "uikTvd": "452402270415",
+    "uikName": "УИК №903",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2679,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -10379,8 +12143,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 904,
     "uikTvd": "452402270416",
+    "uikName": "УИК №904",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2233,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10432,8 +12205,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 910,
     "uikTvd": "452402270417",
+    "uikName": "УИК №910",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1220,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -10485,8 +12267,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 914,
     "uikTvd": "452402270418",
+    "uikName": "УИК №914",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2369,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10538,8 +12329,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 915,
     "uikTvd": "452402270419",
+    "uikName": "УИК №915",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2403,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10591,8 +12391,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 916,
     "uikTvd": "452402270420",
+    "uikName": "УИК №916",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2228,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -10644,8 +12453,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 917,
     "uikTvd": "452402270421",
+    "uikName": "УИК №917",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2621,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -10697,8 +12515,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 919,
     "uikTvd": "452402270422",
+    "uikName": "УИК №919",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1515,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -10750,8 +12577,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 920,
     "uikTvd": "452402270423",
+    "uikName": "УИК №920",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2081,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -10803,8 +12639,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 921,
     "uikTvd": "452402270424",
+    "uikName": "УИК №921",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1277,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10856,8 +12701,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 922,
     "uikTvd": "452402270425",
+    "uikName": "УИК №922",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1350,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10909,8 +12763,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 923,
     "uikTvd": "452402270426",
+    "uikName": "УИК №923",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2353,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -10962,8 +12825,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 924,
     "uikTvd": "452402270427",
+    "uikName": "УИК №924",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 921,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -11015,8 +12887,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 925,
     "uikTvd": "452402270428",
+    "uikName": "УИК №925",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2563,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11068,8 +12949,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 926,
     "uikTvd": "452402270429",
+    "uikName": "УИК №926",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1778,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -11121,8 +13011,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 927,
     "uikTvd": "452402270430",
+    "uikName": "УИК №927",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2223,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11174,8 +13073,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 928,
     "uikTvd": "452402270431",
+    "uikName": "УИК №928",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2057,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -11227,8 +13135,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 929,
     "uikTvd": "452402270432",
+    "uikName": "УИК №929",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2431,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11280,8 +13197,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 930,
     "uikTvd": "452402270433",
+    "uikName": "УИК №930",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1892,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -11333,8 +13259,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 931,
     "uikTvd": "452402270434",
+    "uikName": "УИК №931",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 875,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -11386,8 +13321,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 932,
     "uikTvd": "452402270435",
+    "uikName": "УИК №932",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 607,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11439,8 +13383,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 933,
     "uikTvd": "452402270436",
+    "uikName": "УИК №933",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2782,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -11492,8 +13445,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 934,
     "uikTvd": "452402270437",
+    "uikName": "УИК №934",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1555,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -11545,8 +13507,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 936,
     "uikTvd": "452402270442",
+    "uikName": "УИК №936",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 29,
       "Число бюллетеней, полученных участковыми комиссиями": 50,
@@ -11598,8 +13569,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 937,
     "uikTvd": "452402270443",
+    "uikName": "УИК №937",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -11651,8 +13631,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 938,
     "uikTvd": "452402270444",
+    "uikName": "УИК №938",
     "tikTvd": "352300370503",
     "tikName": "Дзержинск, Свердловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 55,
       "Число бюллетеней, полученных участковыми комиссиями": 70,
@@ -11704,8 +13693,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1277,
     "uikTvd": "452403370368",
+    "uikName": "УИК  1277",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2377,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11757,8 +13755,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1278,
     "uikTvd": "452403370369",
+    "uikName": "УИК  1278",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2174,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -11810,8 +13817,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1279,
     "uikTvd": "452403370370",
+    "uikName": "УИК  1279",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2511,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -11863,8 +13879,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1280,
     "uikTvd": "452403370371",
+    "uikName": "УИК  1280",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2445,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -11916,8 +13941,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1281,
     "uikTvd": "452403370372",
+    "uikName": "УИК  1281",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2408,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -11969,8 +14003,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1282,
     "uikTvd": "452403370373",
+    "uikName": "УИК  1282",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 971,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -12022,8 +14065,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1283,
     "uikTvd": "452403370374",
+    "uikName": "УИК  1283",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2046,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -12075,8 +14127,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1284,
     "uikTvd": "452403370375",
+    "uikName": "УИК  1284",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1274,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -12128,8 +14189,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1285,
     "uikTvd": "452403370376",
+    "uikName": "УИК  1285",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -12181,8 +14251,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1286,
     "uikTvd": "452403370377",
+    "uikName": "УИК  1286",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 396,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -12234,8 +14313,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1287,
     "uikTvd": "452403370378",
+    "uikName": "УИК  1287",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 80,
@@ -12287,8 +14375,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1288,
     "uikTvd": "452403370379",
+    "uikName": "УИК  1288",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 554,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -12340,8 +14437,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1289,
     "uikTvd": "452403370380",
+    "uikName": "УИК  1289",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -12393,8 +14499,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1290,
     "uikTvd": "452403370381",
+    "uikName": "УИК  1290",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -12446,8 +14561,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1291,
     "uikTvd": "452403370382",
+    "uikName": "УИК  1291",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 230,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -12499,8 +14623,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1292,
     "uikTvd": "452403370383",
+    "uikName": "УИК  1292",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 288,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -12552,8 +14685,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1293,
     "uikTvd": "452403370384",
+    "uikName": "УИК  1293",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 208,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -12605,8 +14747,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1294,
     "uikTvd": "452403370385",
+    "uikName": "УИК  1294",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 956,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -12658,8 +14809,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1295,
     "uikTvd": "452403370386",
+    "uikName": "УИК  1295",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 516,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -12711,8 +14871,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1296,
     "uikTvd": "452403370387",
+    "uikName": "УИК  1296",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -12764,8 +14933,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1297,
     "uikTvd": "452403370388",
+    "uikName": "УИК  1297",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 343,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -12817,8 +14995,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1298,
     "uikTvd": "452403370389",
+    "uikName": "УИК  1298",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 234,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -12870,8 +15057,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1299,
     "uikTvd": "452403370390",
+    "uikName": "УИК  1299",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 243,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -12923,8 +15119,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1300,
     "uikTvd": "452403370391",
+    "uikName": "УИК  1300",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1077,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -12976,8 +15181,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 2493,
     "uikTvd": "452403370392",
+    "uikName": "УИК  2493",
     "tikTvd": "352300370504",
     "tikName": "Навашинская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 145,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -13029,8 +15243,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1841,
     "uikTvd": "452404370453",
+    "uikName": "УИК №1841",
     "tikTvd": "352300370505",
     "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1266,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -13082,8 +15305,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1842,
     "uikTvd": "452404370454",
+    "uikName": "УИК №1842",
     "tikTvd": "352300370505",
     "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1781,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -13135,8 +15367,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1843,
     "uikTvd": "452404370455",
+    "uikName": "УИК №1843",
     "tikTvd": "352300370505",
     "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1351,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -13188,8 +15429,17 @@ export const duma_2003_uik_428_region_52_part_004 = [
     "ballot": "single-member",
     "uikNumber": 1844,
     "uikTvd": "452404370456",
+    "uikName": "УИК №1844",
     "tikTvd": "352300370505",
     "tikName": "Павловская",
+    "regionCode": "52",
+    "regionTvd": "100100095825",
+    "regionName": "Нижегородская область",
+    "district": {
+      "districtNumber": 119,
+      "oikTvd": "100100095828",
+      "oikName": "Дзержинский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,

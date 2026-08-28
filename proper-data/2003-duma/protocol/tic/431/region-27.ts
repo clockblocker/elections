@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166678",
     "tikName": "Амурская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 41,
     "accounting": {
       "Число избирателей, внесенных в списки": 56713,
@@ -117,6 +120,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166679",
     "tikName": "Аяно-Майская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 7,
     "accounting": {
       "Число избирателей, внесенных в списки": 2715,
@@ -189,6 +195,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166680",
     "tikName": "Ванинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 32,
     "accounting": {
       "Число избирателей, внесенных в списки": 30258,
@@ -286,6 +295,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166681",
     "tikName": "Верхнебуреинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 30,
     "accounting": {
       "Число избирателей, внесенных в списки": 25367,
@@ -381,6 +393,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166682",
     "tikName": "Осипенковская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 10,
     "accounting": {
       "Число избирателей, внесенных в списки": 4492,
@@ -456,6 +471,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166683",
     "tikName": "Комсомольская-на-Амуре городская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 108,
     "accounting": {
       "Число избирателей, внесенных в списки": 218327,
@@ -629,6 +647,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166684",
     "tikName": "Комсомольская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 26,
     "accounting": {
       "Число избирателей, внесенных в списки": 22858,
@@ -720,6 +741,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166685",
     "tikName": "Нанайская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 13930,
@@ -806,6 +830,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166686",
     "tikName": "Николаевская-на-Амуре",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 40,
     "accounting": {
       "Число избирателей, внесенных в списки": 35109,
@@ -911,6 +938,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166687",
     "tikName": "Охотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 9324,
@@ -991,6 +1021,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166688",
     "tikName": "Советско-Гаванская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 48,
     "accounting": {
       "Число избирателей, внесенных в списки": 37532,
@@ -1104,6 +1137,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166689",
     "tikName": "Солнечная ",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 24,
     "accounting": {
       "Число избирателей, внесенных в списки": 26983,
@@ -1193,6 +1229,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166690",
     "tikName": "Тугуро-Чумиканская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 6,
     "accounting": {
       "Число избирателей, внесенных в списки": 1803,
@@ -1264,6 +1303,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300166691",
     "tikName": "Ульчская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 16752,
@@ -1360,6 +1402,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300266679",
     "tikName": "Бикинская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 21724,
@@ -1447,6 +1492,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300266681",
     "tikName": "Вяземская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 28,
     "accounting": {
       "Число избирателей, внесенных в списки": 20265,
@@ -1540,6 +1588,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300266682",
     "tikName": "Хабаровск, Железнодорожная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 52,
     "accounting": {
       "Число избирателей, внесенных в списки": 112077,
@@ -1657,6 +1708,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300266683",
     "tikName": "Хабаровск, Индустриальная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 75,
     "accounting": {
       "Число избирателей, внесенных в списки": 158983,
@@ -1797,6 +1851,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300266684",
     "tikName": "Хабаровск, Кировская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 27,
     "accounting": {
       "Число избирателей, внесенных в списки": 46455,
@@ -1889,6 +1946,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300266685",
     "tikName": "Хабаровск, Краснофлотская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 29,
     "accounting": {
       "Число избирателей, внесенных в списки": 69051,
@@ -1983,6 +2043,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300266686",
     "tikName": "Хабаровск, Центральная",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 31,
     "accounting": {
       "Число избирателей, внесенных в списки": 67292,
@@ -2079,6 +2142,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300266687",
     "tikName": "Хабаровская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 60,
     "accounting": {
       "Число избирателей, внесенных в списки": 65001,
@@ -2204,6 +2270,9 @@ export const duma_2003_tic_431_region_27 = [
     "ballot": "party",
     "tikTvd": "327300267421",
     "tikName": "Лазовская",
+    "regionCode": "27",
+    "regionTvd": "100100095790",
+    "regionName": "Хабаровский край",
     "uikCount": 59,
     "accounting": {
       "Число избирателей, внесенных в списки": 37697,

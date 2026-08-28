@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1477,
     "uikTvd": "438403666839",
+    "uikName": "УИК №1477",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1275,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -60,8 +69,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1478,
     "uikTvd": "438403666840",
+    "uikName": "УИК №1478",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1088,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -109,8 +127,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1479,
     "uikTvd": "438403666841",
+    "uikName": "УИК №1479",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1276,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -158,8 +185,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1480,
     "uikTvd": "438403666842",
+    "uikName": "УИК №1480",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1162,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -207,8 +243,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1481,
     "uikTvd": "438403666843",
+    "uikName": "УИК №1481",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 765,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -256,8 +301,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1482,
     "uikTvd": "438403666844",
+    "uikName": "УИК №1482",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1341,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -305,8 +359,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1483,
     "uikTvd": "438403666845",
+    "uikName": "УИК №1483",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 888,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -354,8 +417,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1484,
     "uikTvd": "438403666846",
+    "uikName": "УИК №1484",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 681,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -403,8 +475,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1485,
     "uikTvd": "438403666847",
+    "uikName": "УИК №1485",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 819,
       "Число бюллетеней, полученных участковыми комиссиями": 850,
@@ -452,8 +533,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1486,
     "uikTvd": "438403666848",
+    "uikName": "УИК №1486",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 960,
       "Число бюллетеней, полученных участковыми комиссиями": 950,
@@ -501,8 +591,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1487,
     "uikTvd": "438403666849",
+    "uikName": "УИК №1487",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1387,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -550,8 +649,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1488,
     "uikTvd": "438403666850",
+    "uikName": "УИК №1488",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1449,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -599,8 +707,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1489,
     "uikTvd": "438403666851",
+    "uikName": "УИК №1489",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1394,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -648,8 +765,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1490,
     "uikTvd": "438403666852",
+    "uikName": "УИК №1490",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1179,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -697,8 +823,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1491,
     "uikTvd": "438403666853",
+    "uikName": "УИК №1491",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1366,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -746,8 +881,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1492,
     "uikTvd": "438403666854",
+    "uikName": "УИК №1492",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1729,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -795,8 +939,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1493,
     "uikTvd": "438403666855",
+    "uikName": "УИК №1493",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1271,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -844,8 +997,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1494,
     "uikTvd": "438403666856",
+    "uikName": "УИК №1494",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 747,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -893,8 +1055,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1495,
     "uikTvd": "438403666857",
+    "uikName": "УИК №1495",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 303,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -942,8 +1113,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1496,
     "uikTvd": "438403666858",
+    "uikName": "УИК №1496",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 589,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -991,8 +1171,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1497,
     "uikTvd": "438403666859",
+    "uikName": "УИК №1497",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 670,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1040,8 +1229,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1498,
     "uikTvd": "438403666860",
+    "uikName": "УИК №1498",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -1089,8 +1287,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1499,
     "uikTvd": "438403666861",
+    "uikName": "УИК №1499",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1168,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -1138,8 +1345,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1500,
     "uikTvd": "438403666862",
+    "uikName": "УИК №1500",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1811,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -1187,8 +1403,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1501,
     "uikTvd": "438403666863",
+    "uikName": "УИК №1501",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1713,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1236,8 +1461,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1502,
     "uikTvd": "438403666864",
+    "uikName": "УИК №1502",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1166,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1285,8 +1519,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1503,
     "uikTvd": "438403666865",
+    "uikName": "УИК №1503",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1334,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1334,8 +1577,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1504,
     "uikTvd": "438403666866",
+    "uikName": "УИК №1504",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1491,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -1383,8 +1635,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1505,
     "uikTvd": "438403666867",
+    "uikName": "УИК №1505",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1272,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -1432,8 +1693,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1506,
     "uikTvd": "438403666868",
+    "uikName": "УИК №1506",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1141,
       "Число бюллетеней, полученных участковыми комиссиями": 1150,
@@ -1481,8 +1751,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1507,
     "uikTvd": "438403666869",
+    "uikName": "УИК №1507",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 495,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -1530,8 +1809,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1508,
     "uikTvd": "438403666870",
+    "uikName": "УИК №1508",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1031,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -1579,8 +1867,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1509,
     "uikTvd": "438403666871",
+    "uikName": "УИК №1509",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 502,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -1628,8 +1925,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1510,
     "uikTvd": "438403666872",
+    "uikName": "УИК №1510",
     "tikTvd": "338300367535",
     "tikName": "Черемховская городская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 53,
       "Число бюллетеней, полученных участковыми комиссиями": 100,
@@ -1677,8 +1983,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1242,
     "uikTvd": "438400566785",
+    "uikName": "УИК №1242",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 672,
       "Число бюллетеней, полученных участковыми комиссиями": 595,
@@ -1726,8 +2041,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1243,
     "uikTvd": "438400566786",
+    "uikName": "УИК №1243",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1251,
       "Число бюллетеней, полученных участковыми комиссиями": 1118,
@@ -1775,8 +2099,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1244,
     "uikTvd": "438400566787",
+    "uikName": "УИК №1244",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1258,
       "Число бюллетеней, полученных участковыми комиссиями": 1077,
@@ -1824,8 +2157,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1245,
     "uikTvd": "438400566788",
+    "uikName": "УИК №1245",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 623,
       "Число бюллетеней, полученных участковыми комиссиями": 542,
@@ -1873,8 +2215,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1246,
     "uikTvd": "438400566789",
+    "uikName": "УИК №1246",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 233,
       "Число бюллетеней, полученных участковыми комиссиями": 197,
@@ -1922,8 +2273,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1247,
     "uikTvd": "438400566790",
+    "uikName": "УИК №1247",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1745,
       "Число бюллетеней, полученных участковыми комиссиями": 1444,
@@ -1971,8 +2331,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1248,
     "uikTvd": "438400566791",
+    "uikName": "УИК №1248",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 358,
@@ -2020,8 +2389,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1249,
     "uikTvd": "438400566792",
+    "uikName": "УИК №1249",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2110,
       "Число бюллетеней, полученных участковыми комиссиями": 1861,
@@ -2069,8 +2447,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1250,
     "uikTvd": "438400566793",
+    "uikName": "УИК №1250",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2118,8 +2505,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1251,
     "uikTvd": "438400566794",
+    "uikName": "УИК №1251",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2375,
       "Число бюллетеней, полученных участковыми комиссиями": 2121,
@@ -2167,8 +2563,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1252,
     "uikTvd": "438400566795",
+    "uikName": "УИК №1252",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1377,
       "Число бюллетеней, полученных участковыми комиссиями": 1235,
@@ -2216,8 +2621,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1253,
     "uikTvd": "438400566796",
+    "uikName": "УИК №1253",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 68,
       "Число бюллетеней, полученных участковыми комиссиями": 60,
@@ -2265,8 +2679,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1254,
     "uikTvd": "438400566797",
+    "uikName": "УИК №1254",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1439,
       "Число бюллетеней, полученных участковыми комиссиями": 1292,
@@ -2314,8 +2737,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1255,
     "uikTvd": "438400566798",
+    "uikName": "УИК №1255",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 436,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -2363,8 +2795,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1256,
     "uikTvd": "438400566799",
+    "uikName": "УИК №1256",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1407,
       "Число бюллетеней, полученных участковыми комиссиями": 1225,
@@ -2412,8 +2853,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1257,
     "uikTvd": "438400566800",
+    "uikName": "УИК №1257",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2234,
       "Число бюллетеней, полученных участковыми комиссиями": 1953,
@@ -2461,8 +2911,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1258,
     "uikTvd": "438400566801",
+    "uikName": "УИК №1258",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1488,
       "Число бюллетеней, полученных участковыми комиссиями": 1328,
@@ -2510,8 +2969,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1259,
     "uikTvd": "438400566802",
+    "uikName": "УИК №1259",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2360,
       "Число бюллетеней, полученных участковыми комиссиями": 2105,
@@ -2559,8 +3027,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1260,
     "uikTvd": "438400566803",
+    "uikName": "УИК №1260",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 342,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -2608,8 +3085,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1261,
     "uikTvd": "438400566804",
+    "uikName": "УИК №1261",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 443,
       "Число бюллетеней, полученных участковыми комиссиями": 390,
@@ -2657,8 +3143,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1262,
     "uikTvd": "438400566805",
+    "uikName": "УИК №1262",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 226,
       "Число бюллетеней, полученных участковыми комиссиями": 190,
@@ -2706,8 +3201,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1263,
     "uikTvd": "438400566806",
+    "uikName": "УИК №1263",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1525,
       "Число бюллетеней, полученных участковыми комиссиями": 1370,
@@ -2755,8 +3259,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1264,
     "uikTvd": "438400566807",
+    "uikName": "УИК №1264",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1523,
       "Число бюллетеней, полученных участковыми комиссиями": 1368,
@@ -2804,8 +3317,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1265,
     "uikTvd": "438400566808",
+    "uikName": "УИК №1265",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1151,
       "Число бюллетеней, полученных участковыми комиссиями": 1017,
@@ -2853,8 +3375,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1266,
     "uikTvd": "438400566809",
+    "uikName": "УИК №1266",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 183,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -2902,8 +3433,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1267,
     "uikTvd": "438400566810",
+    "uikName": "УИК №1267",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 899,
       "Число бюллетеней, полученных участковыми комиссиями": 790,
@@ -2951,8 +3491,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1268,
     "uikTvd": "438400566811",
+    "uikName": "УИК №1268",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 189,
       "Число бюллетеней, полученных участковыми комиссиями": 163,
@@ -3000,8 +3549,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1269,
     "uikTvd": "438400566812",
+    "uikName": "УИК №1269",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 566,
       "Число бюллетеней, полученных участковыми комиссиями": 509,
@@ -3049,8 +3607,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1270,
     "uikTvd": "438400566813",
+    "uikName": "УИК №1270",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 117,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -3098,8 +3665,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1271,
     "uikTvd": "438400566814",
+    "uikName": "УИК №1271",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 869,
       "Число бюллетеней, полученных участковыми комиссиями": 774,
@@ -3147,8 +3723,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1272,
     "uikTvd": "438400566815",
+    "uikName": "УИК №1272",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 405,
@@ -3196,8 +3781,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1273,
     "uikTvd": "438400566816",
+    "uikName": "УИК №1273",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1150,
       "Число бюллетеней, полученных участковыми комиссиями": 1018,
@@ -3245,8 +3839,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1274,
     "uikTvd": "438400566817",
+    "uikName": "УИК №1274",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -3294,8 +3897,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1275,
     "uikTvd": "438400566818",
+    "uikName": "УИК №1275",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 380,
       "Число бюллетеней, полученных участковыми комиссиями": 326,
@@ -3343,8 +3955,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1276,
     "uikTvd": "438400566819",
+    "uikName": "УИК №1276",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 234,
@@ -3392,8 +4013,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1277,
     "uikTvd": "438400566820",
+    "uikName": "УИК №1277",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 993,
       "Число бюллетеней, полученных участковыми комиссиями": 885,
@@ -3441,8 +4071,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1278,
     "uikTvd": "438400566821",
+    "uikName": "УИК №1278",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 174,
       "Число бюллетеней, полученных участковыми комиссиями": 153,
@@ -3490,8 +4129,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1279,
     "uikTvd": "438400566822",
+    "uikName": "УИК №1279",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 798,
       "Число бюллетеней, полученных участковыми комиссиями": 693,
@@ -3539,8 +4187,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1280,
     "uikTvd": "438400566823",
+    "uikName": "УИК №1280",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 95,
       "Число бюллетеней, полученных участковыми комиссиями": 83,
@@ -3588,8 +4245,17 @@ export const duma_2003_uik_428_region_38_part_007 = [
     "ballot": "single-member",
     "uikNumber": 1281,
     "uikTvd": "438400566824",
+    "uikName": "УИК №1281",
     "tikTvd": "338300367763",
     "tikName": "Усольская",
+    "regionCode": "38",
+    "regionTvd": "100100095663",
+    "regionName": "Иркутская область",
+    "district": {
+      "districtNumber": 82,
+      "oikTvd": "100100095664",
+      "oikName": "Ангарский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 65,
       "Число бюллетеней, полученных участковыми комиссиями": 58,

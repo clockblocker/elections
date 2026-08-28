@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 16,
     "uikTvd": "422400466826",
+    "uikName": "УИК №16",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2075,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -65,8 +74,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 17,
     "uikTvd": "422400466828",
+    "uikName": "УИК №17",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2406,
       "Число бюллетеней, полученных участковыми комиссиями": 2410,
@@ -119,8 +137,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 18,
     "uikTvd": "422400466830",
+    "uikName": "УИК №18",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2878,
       "Число бюллетеней, полученных участковыми комиссиями": 2770,
@@ -173,8 +200,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 19,
     "uikTvd": "422400466832",
+    "uikName": "УИК №19",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2374,
       "Число бюллетеней, полученных участковыми комиссиями": 2390,
@@ -227,8 +263,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 20,
     "uikTvd": "422400466834",
+    "uikName": "УИК №20",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2397,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -281,8 +326,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 21,
     "uikTvd": "422400466836",
+    "uikName": "УИК №21",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2221,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -335,8 +389,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 22,
     "uikTvd": "422400466838",
+    "uikName": "УИК №22",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2363,
       "Число бюллетеней, полученных участковыми комиссиями": 2390,
@@ -389,8 +452,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 23,
     "uikTvd": "422400466840",
+    "uikName": "УИК №23",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1910,
@@ -443,8 +515,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 24,
     "uikTvd": "422400466842",
+    "uikName": "УИК №24",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1956,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -497,8 +578,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 25,
     "uikTvd": "422400466844",
+    "uikName": "УИК №25",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1923,
       "Число бюллетеней, полученных участковыми комиссиями": 1930,
@@ -551,8 +641,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 26,
     "uikTvd": "422400466846",
+    "uikName": "УИК №26",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1035,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -605,8 +704,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 27,
     "uikTvd": "422400466848",
+    "uikName": "УИК №27",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1247,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -659,8 +767,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 28,
     "uikTvd": "422400466850",
+    "uikName": "УИК №28",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1214,
       "Число бюллетеней, полученных участковыми комиссиями": 1240,
@@ -713,8 +830,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 29,
     "uikTvd": "422400466852",
+    "uikName": "УИК №29",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2173,
       "Число бюллетеней, полученных участковыми комиссиями": 2130,
@@ -767,8 +893,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 30,
     "uikTvd": "422400466854",
+    "uikName": "УИК №30",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1989,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -821,8 +956,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 31,
     "uikTvd": "422400466856",
+    "uikName": "УИК №31",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1932,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -875,8 +1019,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 32,
     "uikTvd": "422400466858",
+    "uikName": "УИК №32",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2185,
       "Число бюллетеней, полученных участковыми комиссиями": 2210,
@@ -929,8 +1082,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 33,
     "uikTvd": "422400466860",
+    "uikName": "УИК №33",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2373,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -983,8 +1145,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 34,
     "uikTvd": "422400466862",
+    "uikName": "УИК №34",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2746,
       "Число бюллетеней, полученных участковыми комиссиями": 2650,
@@ -1037,8 +1208,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 35,
     "uikTvd": "422400466864",
+    "uikName": "УИК №35",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2526,
       "Число бюллетеней, полученных участковыми комиссиями": 2510,
@@ -1091,8 +1271,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 36,
     "uikTvd": "422400466866",
+    "uikName": "УИК №36",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2229,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -1145,8 +1334,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 37,
     "uikTvd": "422400466868",
+    "uikName": "УИК №37",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1793,
       "Число бюллетеней, полученных участковыми комиссиями": 1720,
@@ -1199,8 +1397,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 38,
     "uikTvd": "422400466870",
+    "uikName": "УИК №38",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2509,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -1253,8 +1460,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 39,
     "uikTvd": "422400466872",
+    "uikName": "УИК №39",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2166,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -1307,8 +1523,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 40,
     "uikTvd": "422400466874",
+    "uikName": "УИК №40",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1705,
       "Число бюллетеней, полученных участковыми комиссиями": 1680,
@@ -1361,8 +1586,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 41,
     "uikTvd": "422400466876",
+    "uikName": "УИК №41",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1932,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -1415,8 +1649,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 42,
     "uikTvd": "422400466878",
+    "uikName": "УИК №42",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2088,
       "Число бюллетеней, полученных участковыми комиссиями": 2050,
@@ -1469,8 +1712,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 43,
     "uikTvd": "422400466880",
+    "uikName": "УИК №43",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2002,
       "Число бюллетеней, полученных участковыми комиссиями": 2020,
@@ -1523,8 +1775,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 44,
     "uikTvd": "422400466882",
+    "uikName": "УИК №44",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1991,
       "Число бюллетеней, полученных участковыми комиссиями": 1990,
@@ -1577,8 +1838,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 45,
     "uikTvd": "422400466884",
+    "uikName": "УИК №45",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1859,
       "Число бюллетеней, полученных участковыми комиссиями": 1860,
@@ -1631,8 +1901,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 46,
     "uikTvd": "422400466886",
+    "uikName": "УИК №46",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2086,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -1685,8 +1964,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 47,
     "uikTvd": "422400466888",
+    "uikName": "УИК №47",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2402,
       "Число бюллетеней, полученных участковыми комиссиями": 2460,
@@ -1739,8 +2027,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 48,
     "uikTvd": "422400466890",
+    "uikName": "УИК №48",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2300,
       "Число бюллетеней, полученных участковыми комиссиями": 2290,
@@ -1793,8 +2090,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 49,
     "uikTvd": "422400466892",
+    "uikName": "УИК №49",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1926,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -1847,8 +2153,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 50,
     "uikTvd": "422400466894",
+    "uikName": "УИК №50",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2397,
       "Число бюллетеней, полученных участковыми комиссиями": 2410,
@@ -1901,8 +2216,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 51,
     "uikTvd": "422400466896",
+    "uikName": "УИК №51",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1855,
       "Число бюллетеней, полученных участковыми комиссиями": 1840,
@@ -1955,8 +2279,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 52,
     "uikTvd": "422400466898",
+    "uikName": "УИК №52",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1948,
       "Число бюллетеней, полученных участковыми комиссиями": 1950,
@@ -2009,8 +2342,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 53,
     "uikTvd": "422400466900",
+    "uikName": "УИК №53",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2147,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -2063,8 +2405,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 54,
     "uikTvd": "422400466902",
+    "uikName": "УИК №54",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2905,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2117,8 +2468,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 55,
     "uikTvd": "422400466904",
+    "uikName": "УИК №55",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2777,
       "Число бюллетеней, полученных участковыми комиссиями": 2690,
@@ -2171,8 +2531,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 56,
     "uikTvd": "422400466906",
+    "uikName": "УИК №56",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1810,
@@ -2225,8 +2594,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 57,
     "uikTvd": "422400466908",
+    "uikName": "УИК №57",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1920,
       "Число бюллетеней, полученных участковыми комиссиями": 1820,
@@ -2279,8 +2657,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 58,
     "uikTvd": "422400466910",
+    "uikName": "УИК №58",
     "tikTvd": "322300167230",
     "tikName": "Барнаул, Железнодорожная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1604,
       "Число бюллетеней, полученных участковыми комиссиями": 1620,
@@ -2333,8 +2720,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 59,
     "uikTvd": "422400566783",
+    "uikName": "УИК №59",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2877,
       "Число бюллетеней, полученных участковыми комиссиями": 2740,
@@ -2387,8 +2783,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 60,
     "uikTvd": "422400566784",
+    "uikName": "УИК №60",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2449,
       "Число бюллетеней, полученных участковыми комиссиями": 2323,
@@ -2441,8 +2846,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 61,
     "uikTvd": "422400566785",
+    "uikName": "УИК №61",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2539,
       "Число бюллетеней, полученных участковыми комиссиями": 2422,
@@ -2495,8 +2909,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 62,
     "uikTvd": "422400566786",
+    "uikName": "УИК №62",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2841,
       "Число бюллетеней, полученных участковыми комиссиями": 2732,
@@ -2549,8 +2972,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 63,
     "uikTvd": "422400566787",
+    "uikName": "УИК №63",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2688,
       "Число бюллетеней, полученных участковыми комиссиями": 2590,
@@ -2603,8 +3035,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 64,
     "uikTvd": "422400566788",
+    "uikName": "УИК №64",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2689,
       "Число бюллетеней, полученных участковыми комиссиями": 2558,
@@ -2657,8 +3098,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 65,
     "uikTvd": "422400566789",
+    "uikName": "УИК №65",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 628,
       "Число бюллетеней, полученных участковыми комиссиями": 620,
@@ -2711,8 +3161,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 66,
     "uikTvd": "422400566790",
+    "uikName": "УИК №66",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1949,
       "Число бюллетеней, полученных участковыми комиссиями": 1866,
@@ -2765,8 +3224,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 67,
     "uikTvd": "422400566791",
+    "uikName": "УИК №67",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2145,
       "Число бюллетеней, полученных участковыми комиссиями": 2081,
@@ -2819,8 +3287,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 68,
     "uikTvd": "422400566792",
+    "uikName": "УИК №68",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2579,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -2873,8 +3350,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 69,
     "uikTvd": "422400566793",
+    "uikName": "УИК №69",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2467,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2927,8 +3413,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 70,
     "uikTvd": "422400566794",
+    "uikName": "УИК №70",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 186,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -2981,8 +3476,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 71,
     "uikTvd": "422400566795",
+    "uikName": "УИК №71",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1681,
       "Число бюллетеней, полученных участковыми комиссиями": 1614,
@@ -3035,8 +3539,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 72,
     "uikTvd": "422400566796",
+    "uikName": "УИК №72",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1493,
       "Число бюллетеней, полученных участковыми комиссиями": 1475,
@@ -3089,8 +3602,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 73,
     "uikTvd": "422400566797",
+    "uikName": "УИК №73",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1792,
       "Число бюллетеней, полученных участковыми комиссиями": 1717,
@@ -3143,8 +3665,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 74,
     "uikTvd": "422400566798",
+    "uikName": "УИК №74",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 417,
@@ -3197,8 +3728,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 75,
     "uikTvd": "422400566799",
+    "uikName": "УИК №75",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 551,
       "Число бюллетеней, полученных участковыми комиссиями": 538,
@@ -3251,8 +3791,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 76,
     "uikTvd": "422400566800",
+    "uikName": "УИК №76",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 804,
       "Число бюллетеней, полученных участковыми комиссиями": 721,
@@ -3305,8 +3854,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 77,
     "uikTvd": "422400566801",
+    "uikName": "УИК №77",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2552,
       "Число бюллетеней, полученных участковыми комиссиями": 2433,
@@ -3359,8 +3917,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 78,
     "uikTvd": "422400566802",
+    "uikName": "УИК №78",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2390,
       "Число бюллетеней, полученных участковыми комиссиями": 2325,
@@ -3413,8 +3980,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 79,
     "uikTvd": "422400566803",
+    "uikName": "УИК №79",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2050,
       "Число бюллетеней, полученных участковыми комиссиями": 1986,
@@ -3467,8 +4043,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 80,
     "uikTvd": "422400566804",
+    "uikName": "УИК №80",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2698,
       "Число бюллетеней, полученных участковыми комиссиями": 2613,
@@ -3521,8 +4106,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 81,
     "uikTvd": "422400566805",
+    "uikName": "УИК №81",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2605,
       "Число бюллетеней, полученных участковыми комиссиями": 2553,
@@ -3575,8 +4169,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 82,
     "uikTvd": "422400566806",
+    "uikName": "УИК №82",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2422,
       "Число бюллетеней, полученных участковыми комиссиями": 2359,
@@ -3629,8 +4232,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 83,
     "uikTvd": "422400566807",
+    "uikName": "УИК №83",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2463,
       "Число бюллетеней, полученных участковыми комиссиями": 2380,
@@ -3683,8 +4295,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 84,
     "uikTvd": "422400566808",
+    "uikName": "УИК №84",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2346,
       "Число бюллетеней, полученных участковыми комиссиями": 2268,
@@ -3737,8 +4358,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 85,
     "uikTvd": "422400566809",
+    "uikName": "УИК №85",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2644,
       "Число бюллетеней, полученных участковыми комиссиями": 2570,
@@ -3791,8 +4421,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 86,
     "uikTvd": "422400566810",
+    "uikName": "УИК №86",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2371,
       "Число бюллетеней, полученных участковыми комиссиями": 2280,
@@ -3845,8 +4484,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 87,
     "uikTvd": "422400566811",
+    "uikName": "УИК №87",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2197,
       "Число бюллетеней, полученных участковыми комиссиями": 2078,
@@ -3899,8 +4547,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 88,
     "uikTvd": "422400566812",
+    "uikName": "УИК №88",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2276,
       "Число бюллетеней, полученных участковыми комиссиями": 2180,
@@ -3953,8 +4610,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 89,
     "uikTvd": "422400566813",
+    "uikName": "УИК №89",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2737,
       "Число бюллетеней, полученных участковыми комиссиями": 2629,
@@ -4007,8 +4673,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 90,
     "uikTvd": "422400566814",
+    "uikName": "УИК №90",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2360,
       "Число бюллетеней, полученных участковыми комиссиями": 2309,
@@ -4061,8 +4736,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 91,
     "uikTvd": "422400566815",
+    "uikName": "УИК №91",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2342,
       "Число бюллетеней, полученных участковыми комиссиями": 2259,
@@ -4115,8 +4799,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 92,
     "uikTvd": "422400566816",
+    "uikName": "УИК №92",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2500,
       "Число бюллетеней, полученных участковыми комиссиями": 2413,
@@ -4169,8 +4862,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 93,
     "uikTvd": "422400566817",
+    "uikName": "УИК №93",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2413,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -4223,8 +4925,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 94,
     "uikTvd": "422400566818",
+    "uikName": "УИК №94",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1696,
       "Число бюллетеней, полученных участковыми комиссиями": 1627,
@@ -4277,8 +4988,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 95,
     "uikTvd": "422400566819",
+    "uikName": "УИК №95",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2076,
       "Число бюллетеней, полученных участковыми комиссиями": 1920,
@@ -4331,8 +5051,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 96,
     "uikTvd": "422400566820",
+    "uikName": "УИК №96",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2249,
       "Число бюллетеней, полученных участковыми комиссиями": 2170,
@@ -4385,8 +5114,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 97,
     "uikTvd": "422400566821",
+    "uikName": "УИК №97",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1976,
       "Число бюллетеней, полученных участковыми комиссиями": 1892,
@@ -4439,8 +5177,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 98,
     "uikTvd": "422400566822",
+    "uikName": "УИК №98",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2170,
       "Число бюллетеней, полученных участковыми комиссиями": 2106,
@@ -4493,8 +5240,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 99,
     "uikTvd": "422400566823",
+    "uikName": "УИК №99",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2280,
       "Число бюллетеней, полученных участковыми комиссиями": 2202,
@@ -4547,8 +5303,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 100,
     "uikTvd": "422400566824",
+    "uikName": "УИК №100",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2262,
       "Число бюллетеней, полученных участковыми комиссиями": 2168,
@@ -4601,8 +5366,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 101,
     "uikTvd": "422400566825",
+    "uikName": "УИК №101",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2043,
       "Число бюллетеней, полученных участковыми комиссиями": 1980,
@@ -4655,8 +5429,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 102,
     "uikTvd": "422400566826",
+    "uikName": "УИК №102",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2322,
       "Число бюллетеней, полученных участковыми комиссиями": 2226,
@@ -4709,8 +5492,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 103,
     "uikTvd": "422400566827",
+    "uikName": "УИК №103",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2263,
       "Число бюллетеней, полученных участковыми комиссиями": 2179,
@@ -4763,8 +5555,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 104,
     "uikTvd": "422400566828",
+    "uikName": "УИК №104",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2246,
       "Число бюллетеней, полученных участковыми комиссиями": 2155,
@@ -4817,8 +5618,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 105,
     "uikTvd": "422400566829",
+    "uikName": "УИК №105",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 2063,
@@ -4871,8 +5681,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 106,
     "uikTvd": "422400566830",
+    "uikName": "УИК №106",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1873,
       "Число бюллетеней, полученных участковыми комиссиями": 1823,
@@ -4925,8 +5744,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 107,
     "uikTvd": "422400566831",
+    "uikName": "УИК №107",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2364,
       "Число бюллетеней, полученных участковыми комиссиями": 2278,
@@ -4979,8 +5807,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 108,
     "uikTvd": "422400566832",
+    "uikName": "УИК №108",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2674,
       "Число бюллетеней, полученных участковыми комиссиями": 2563,
@@ -5033,8 +5870,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 109,
     "uikTvd": "422400566833",
+    "uikName": "УИК №109",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2553,
       "Число бюллетеней, полученных участковыми комиссиями": 2443,
@@ -5087,8 +5933,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 110,
     "uikTvd": "422400566834",
+    "uikName": "УИК №110",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2361,
       "Число бюллетеней, полученных участковыми комиссиями": 2310,
@@ -5141,8 +5996,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 111,
     "uikTvd": "422400566835",
+    "uikName": "УИК №111",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2783,
       "Число бюллетеней, полученных участковыми комиссиями": 2691,
@@ -5195,8 +6059,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 112,
     "uikTvd": "422400566836",
+    "uikName": "УИК №112",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2922,
       "Число бюллетеней, полученных участковыми комиссиями": 2734,
@@ -5249,8 +6122,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 113,
     "uikTvd": "422400566837",
+    "uikName": "УИК №113",
     "tikTvd": "322300167231",
     "tikName": "Барнаул, Индустриальная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2797,
       "Число бюллетеней, полученных участковыми комиссиями": 2712,
@@ -5303,8 +6185,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 168,
     "uikTvd": "422400766692",
+    "uikName": "УИК №168",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1467,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -5357,8 +6248,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 169,
     "uikTvd": "422400766695",
+    "uikName": "УИК №169",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1168,
       "Число бюллетеней, полученных участковыми комиссиями": 1140,
@@ -5411,8 +6311,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 170,
     "uikTvd": "422400766696",
+    "uikName": "УИК №170",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2669,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -5465,8 +6374,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 171,
     "uikTvd": "422400766697",
+    "uikName": "УИК №171",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1926,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5519,8 +6437,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 172,
     "uikTvd": "422400766698",
+    "uikName": "УИК №172",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1465,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -5573,8 +6500,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 173,
     "uikTvd": "422400766699",
+    "uikName": "УИК №173",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2154,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5627,8 +6563,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 174,
     "uikTvd": "422400766700",
+    "uikName": "УИК №174",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2459,
       "Число бюллетеней, полученных участковыми комиссиями": 2350,
@@ -5681,8 +6626,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 175,
     "uikTvd": "422400766701",
+    "uikName": "УИК №175",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2165,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -5735,8 +6689,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 176,
     "uikTvd": "422400766702",
+    "uikName": "УИК №176",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2497,
       "Число бюллетеней, полученных участковыми комиссиями": 2450,
@@ -5789,8 +6752,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 177,
     "uikTvd": "422400766703",
+    "uikName": "УИК №177",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2225,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5843,8 +6815,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 178,
     "uikTvd": "422400766704",
+    "uikName": "УИК №178",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2433,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -5897,8 +6878,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 179,
     "uikTvd": "422400766705",
+    "uikName": "УИК №179",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2256,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -5951,8 +6941,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 180,
     "uikTvd": "422400766706",
+    "uikName": "УИК №180",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2304,
       "Число бюллетеней, полученных участковыми комиссиями": 2150,
@@ -6005,8 +7004,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 181,
     "uikTvd": "422400766707",
+    "uikName": "УИК №181",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1453,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -6059,8 +7067,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 182,
     "uikTvd": "422400766708",
+    "uikName": "УИК №182",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2565,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6113,8 +7130,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 183,
     "uikTvd": "422400766709",
+    "uikName": "УИК №183",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2476,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6167,8 +7193,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 184,
     "uikTvd": "422400766710",
+    "uikName": "УИК №184",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2540,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -6221,8 +7256,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 185,
     "uikTvd": "422400766711",
+    "uikName": "УИК №185",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2587,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6275,8 +7319,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 186,
     "uikTvd": "422400766712",
+    "uikName": "УИК №186",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2824,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -6329,8 +7382,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 187,
     "uikTvd": "422400766713",
+    "uikName": "УИК №187",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2606,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6383,8 +7445,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 188,
     "uikTvd": "422400766714",
+    "uikName": "УИК №188",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2592,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -6437,8 +7508,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 189,
     "uikTvd": "422400766715",
+    "uikName": "УИК №189",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1719,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -6491,8 +7571,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 190,
     "uikTvd": "422400766716",
+    "uikName": "УИК №190",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2346,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -6545,8 +7634,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 191,
     "uikTvd": "422400766717",
+    "uikName": "УИК №191",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2948,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -6599,8 +7697,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 192,
     "uikTvd": "422400766718",
+    "uikName": "УИК №192",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 3012,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -6653,8 +7760,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 193,
     "uikTvd": "422400766719",
+    "uikName": "УИК №193",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2812,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -6707,8 +7823,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 194,
     "uikTvd": "422400766720",
+    "uikName": "УИК №194",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2357,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6761,8 +7886,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 195,
     "uikTvd": "422400766721",
+    "uikName": "УИК №195",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2376,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -6815,8 +7949,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 196,
     "uikTvd": "422400766722",
+    "uikName": "УИК №196",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2132,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6869,8 +8012,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 197,
     "uikTvd": "422400766723",
+    "uikName": "УИК №197",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2000,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6923,8 +8075,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 198,
     "uikTvd": "422400766724",
+    "uikName": "УИК №198",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2548,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -6977,8 +8138,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 199,
     "uikTvd": "422400766725",
+    "uikName": "УИК №199",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2338,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7031,8 +8201,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 200,
     "uikTvd": "422400766726",
+    "uikName": "УИК №200",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2622,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -7085,8 +8264,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 201,
     "uikTvd": "422400766727",
+    "uikName": "УИК №201",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2149,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7139,8 +8327,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 202,
     "uikTvd": "422400766728",
+    "uikName": "УИК №202",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 634,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -7193,8 +8390,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 203,
     "uikTvd": "422400766729",
+    "uikName": "УИК №203",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 306,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -7247,8 +8453,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 204,
     "uikTvd": "422400766730",
+    "uikName": "УИК №204",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 497,
       "Число бюллетеней, полученных участковыми комиссиями": 445,
@@ -7301,8 +8516,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 205,
     "uikTvd": "422400766731",
+    "uikName": "УИК №205",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 229,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -7355,8 +8579,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 206,
     "uikTvd": "422400766732",
+    "uikName": "УИК №206",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 170,
@@ -7409,8 +8642,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 1872,
     "uikTvd": "422400766733",
+    "uikName": "УИК №1872",
     "tikTvd": "322300167233",
     "tikName": "Барнаул, Октябрьская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 93,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -7463,8 +8705,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 207,
     "uikTvd": "422400866768",
+    "uikName": "УИК №207",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2944,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -7517,8 +8768,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 208,
     "uikTvd": "422400866770",
+    "uikName": "УИК №208",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2339,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -7571,8 +8831,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 209,
     "uikTvd": "422400866772",
+    "uikName": "УИК №209",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2362,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7625,8 +8894,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 210,
     "uikTvd": "422400866774",
+    "uikName": "УИК №210",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2013,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -7679,8 +8957,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 211,
     "uikTvd": "422400866776",
+    "uikName": "УИК №211",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2545,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -7733,8 +9020,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 212,
     "uikTvd": "422400866778",
+    "uikName": "УИК №212",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1992,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -7787,8 +9083,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 213,
     "uikTvd": "422400866780",
+    "uikName": "УИК №213",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2212,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -7841,8 +9146,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 214,
     "uikTvd": "422400866782",
+    "uikName": "УИК №214",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2459,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7895,8 +9209,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 215,
     "uikTvd": "422400866784",
+    "uikName": "УИК №215",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2209,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -7949,8 +9272,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 216,
     "uikTvd": "422400866786",
+    "uikName": "УИК №216",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1088,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -8003,8 +9335,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 217,
     "uikTvd": "422400866788",
+    "uikName": "УИК №217",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2958,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8057,8 +9398,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 218,
     "uikTvd": "422400866790",
+    "uikName": "УИК №218",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2418,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8111,8 +9461,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 219,
     "uikTvd": "422400866792",
+    "uikName": "УИК №219",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2842,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -8165,8 +9524,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 220,
     "uikTvd": "422400866794",
+    "uikName": "УИК №220",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2518,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -8219,8 +9587,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 221,
     "uikTvd": "422400866796",
+    "uikName": "УИК №221",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2831,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8273,8 +9650,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 222,
     "uikTvd": "422400866798",
+    "uikName": "УИК №222",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1459,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -8327,8 +9713,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 223,
     "uikTvd": "422400866800",
+    "uikName": "УИК №223",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2076,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8381,8 +9776,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 224,
     "uikTvd": "422400866802",
+    "uikName": "УИК №224",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2236,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -8435,8 +9839,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 225,
     "uikTvd": "422400866804",
+    "uikName": "УИК №225",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2389,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -8489,8 +9902,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 226,
     "uikTvd": "422400866806",
+    "uikName": "УИК №226",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2704,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8543,8 +9965,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 227,
     "uikTvd": "422400866808",
+    "uikName": "УИК №227",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2021,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8597,8 +10028,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 228,
     "uikTvd": "422400866810",
+    "uikName": "УИК №228",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2610,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8651,8 +10091,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 229,
     "uikTvd": "422400866812",
+    "uikName": "УИК №229",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2682,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -8705,8 +10154,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 230,
     "uikTvd": "422400866814",
+    "uikName": "УИК №230",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -8759,8 +10217,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 231,
     "uikTvd": "422400866816",
+    "uikName": "УИК №231",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2584,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8813,8 +10280,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 232,
     "uikTvd": "422400866818",
+    "uikName": "УИК №232",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1890,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8867,8 +10343,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 233,
     "uikTvd": "422400866820",
+    "uikName": "УИК №233",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2933,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -8921,8 +10406,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 234,
     "uikTvd": "422400866822",
+    "uikName": "УИК №234",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2114,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -8975,8 +10469,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 235,
     "uikTvd": "422400866824",
+    "uikName": "УИК №235",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1062,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -9029,8 +10532,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 236,
     "uikTvd": "422400866826",
+    "uikName": "УИК №236",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2209,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -9083,8 +10595,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 237,
     "uikTvd": "422400866828",
+    "uikName": "УИК №237",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2429,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9137,8 +10658,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 238,
     "uikTvd": "422400866830",
+    "uikName": "УИК №238",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2967,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -9191,8 +10721,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 239,
     "uikTvd": "422400866832",
+    "uikName": "УИК №239",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1494,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9245,8 +10784,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 240,
     "uikTvd": "422400866834",
+    "uikName": "УИК №240",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1035,
       "Число бюллетеней, полученных участковыми комиссиями": 800,
@@ -9299,8 +10847,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 241,
     "uikTvd": "422400866836",
+    "uikName": "УИК №241",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2229,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9353,8 +10910,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 242,
     "uikTvd": "422400866838",
+    "uikName": "УИК №242",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1848,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9407,8 +10973,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 243,
     "uikTvd": "422400866840",
+    "uikName": "УИК №243",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2302,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9461,8 +11036,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 244,
     "uikTvd": "422400866842",
+    "uikName": "УИК №244",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1684,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -9515,8 +11099,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 245,
     "uikTvd": "422400866844",
+    "uikName": "УИК №245",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2366,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9569,8 +11162,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 246,
     "uikTvd": "422400866846",
+    "uikName": "УИК №246",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1507,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -9623,8 +11225,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 247,
     "uikTvd": "422400866848",
+    "uikName": "УИК №247",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2024,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -9677,8 +11288,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 248,
     "uikTvd": "422400866850",
+    "uikName": "УИК №248",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2824,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -9731,8 +11351,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 249,
     "uikTvd": "422400866852",
+    "uikName": "УИК №249",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 597,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -9785,8 +11414,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 250,
     "uikTvd": "422400866854",
+    "uikName": "УИК №250",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 477,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -9839,8 +11477,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 251,
     "uikTvd": "422400866856",
+    "uikName": "УИК №251",
     "tikTvd": "322300167234",
     "tikName": "Барнаул, Центральная",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -9893,8 +11540,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 114,
     "uikTvd": "422400666720",
+    "uikName": "УИК №114",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2323,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -9947,8 +11603,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 115,
     "uikTvd": "422400666722",
+    "uikName": "УИК №115",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2577,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10001,8 +11666,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 116,
     "uikTvd": "422400666723",
+    "uikName": "УИК №116",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2339,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -10055,8 +11729,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 117,
     "uikTvd": "422400666724",
+    "uikName": "УИК №117",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1907,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -10109,8 +11792,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 118,
     "uikTvd": "422400666725",
+    "uikName": "УИК №118",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2060,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -10163,8 +11855,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 119,
     "uikTvd": "422400666726",
+    "uikName": "УИК №119",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2105,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -10217,8 +11918,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 120,
     "uikTvd": "422400666727",
+    "uikName": "УИК №120",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2579,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10271,8 +11981,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 121,
     "uikTvd": "422400666728",
+    "uikName": "УИК №121",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2563,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10325,8 +12044,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 122,
     "uikTvd": "422400666730",
+    "uikName": "УИК №122",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2790,
       "Число бюллетеней, полученных участковыми комиссиями": 2490,
@@ -10379,8 +12107,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 123,
     "uikTvd": "422400666731",
+    "uikName": "УИК №123",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2400,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -10433,8 +12170,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 124,
     "uikTvd": "422400666732",
+    "uikName": "УИК №124",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2663,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10487,8 +12233,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 125,
     "uikTvd": "422400666733",
+    "uikName": "УИК №125",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2711,
       "Число бюллетеней, полученных участковыми комиссиями": 2490,
@@ -10541,8 +12296,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 126,
     "uikTvd": "422400666734",
+    "uikName": "УИК №126",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2214,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -10595,8 +12359,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 127,
     "uikTvd": "422400666735",
+    "uikName": "УИК №127",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2624,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10649,8 +12422,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 128,
     "uikTvd": "422400666736",
+    "uikName": "УИК №128",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2382,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -10703,8 +12485,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 129,
     "uikTvd": "422400666738",
+    "uikName": "УИК №129",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2538,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10757,8 +12548,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 130,
     "uikTvd": "422400666739",
+    "uikName": "УИК №130",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2405,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -10811,8 +12611,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 131,
     "uikTvd": "422400666740",
+    "uikName": "УИК №131",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2294,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -10865,8 +12674,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 132,
     "uikTvd": "422400666741",
+    "uikName": "УИК №132",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2615,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -10919,8 +12737,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 133,
     "uikTvd": "422400666742",
+    "uikName": "УИК №133",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2286,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -10973,8 +12800,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 134,
     "uikTvd": "422400666743",
+    "uikName": "УИК №134",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2636,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11027,8 +12863,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 135,
     "uikTvd": "422400666744",
+    "uikName": "УИК №135",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2536,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11081,8 +12926,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 136,
     "uikTvd": "422400666746",
+    "uikName": "УИК №136",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2719,
       "Число бюллетеней, полученных участковыми комиссиями": 2490,
@@ -11135,8 +12989,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 137,
     "uikTvd": "422400666747",
+    "uikName": "УИК №137",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1977,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -11189,8 +13052,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 138,
     "uikTvd": "422400666748",
+    "uikName": "УИК №138",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1446,
       "Число бюллетеней, полученных участковыми комиссиями": 1320,
@@ -11243,8 +13115,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 139,
     "uikTvd": "422400666749",
+    "uikName": "УИК №139",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1520,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -11297,8 +13178,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 140,
     "uikTvd": "422400666750",
+    "uikName": "УИК №140",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1977,
       "Число бюллетеней, полученных участковыми комиссиями": 1730,
@@ -11351,8 +13241,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 141,
     "uikTvd": "422400666751",
+    "uikName": "УИК №141",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2431,
       "Число бюллетеней, полученных участковыми комиссиями": 2080,
@@ -11405,8 +13304,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 142,
     "uikTvd": "422400666752",
+    "uikName": "УИК №142",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1651,
       "Число бюллетеней, полученных участковыми комиссиями": 1550,
@@ -11459,8 +13367,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 143,
     "uikTvd": "422400666754",
+    "uikName": "УИК №143",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2621,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -11513,8 +13430,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 144,
     "uikTvd": "422400666755",
+    "uikName": "УИК №144",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2407,
       "Число бюллетеней, полученных участковыми комиссиями": 2190,
@@ -11567,8 +13493,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 145,
     "uikTvd": "422400666756",
+    "uikName": "УИК №145",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2930,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -11621,8 +13556,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 146,
     "uikTvd": "422400666757",
+    "uikName": "УИК №146",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2818,
       "Число бюллетеней, полученных участковыми комиссиями": 2490,
@@ -11675,8 +13619,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 147,
     "uikTvd": "422400666758",
+    "uikName": "УИК №147",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2845,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -11729,8 +13682,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 148,
     "uikTvd": "422400666759",
+    "uikName": "УИК №148",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2132,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -11783,8 +13745,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 149,
     "uikTvd": "422400666760",
+    "uikName": "УИК №149",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2179,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -11837,8 +13808,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 150,
     "uikTvd": "422400666762",
+    "uikName": "УИК №150",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2065,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -11891,8 +13871,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 151,
     "uikTvd": "422400666763",
+    "uikName": "УИК №151",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2784,
       "Число бюллетеней, полученных участковыми комиссиями": 2490,
@@ -11945,8 +13934,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 152,
     "uikTvd": "422400666764",
+    "uikName": "УИК №152",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2845,
       "Число бюллетеней, полученных участковыми комиссиями": 2550,
@@ -11999,8 +13997,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 153,
     "uikTvd": "422400666765",
+    "uikName": "УИК №153",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2737,
       "Число бюллетеней, полученных участковыми комиссиями": 2490,
@@ -12053,8 +14060,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 154,
     "uikTvd": "422400666766",
+    "uikName": "УИК №154",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2483,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -12107,8 +14123,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 155,
     "uikTvd": "422400666767",
+    "uikName": "УИК №155",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1614,
       "Число бюллетеней, полученных участковыми комиссиями": 1440,
@@ -12161,8 +14186,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 156,
     "uikTvd": "422400666768",
+    "uikName": "УИК №156",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2265,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -12215,8 +14249,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 157,
     "uikTvd": "422400666770",
+    "uikName": "УИК №157",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2046,
       "Число бюллетеней, полученных участковыми комиссиями": 1850,
@@ -12269,8 +14312,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 158,
     "uikTvd": "422400666771",
+    "uikName": "УИК №158",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1693,
       "Число бюллетеней, полученных участковыми комиссиями": 1450,
@@ -12323,8 +14375,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 159,
     "uikTvd": "422400666772",
+    "uikName": "УИК №159",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1587,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -12377,8 +14438,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 160,
     "uikTvd": "422400666773",
+    "uikName": "УИК №160",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1585,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -12431,8 +14501,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 161,
     "uikTvd": "422400666774",
+    "uikName": "УИК №161",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 952,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -12485,8 +14564,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 162,
     "uikTvd": "422400666775",
+    "uikName": "УИК №162",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1914,
       "Число бюллетеней, полученных участковыми комиссиями": 1540,
@@ -12539,8 +14627,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 163,
     "uikTvd": "422400666776",
+    "uikName": "УИК №163",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2204,
       "Число бюллетеней, полученных участковыми комиссиями": 1970,
@@ -12593,8 +14690,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 164,
     "uikTvd": "422400666778",
+    "uikName": "УИК №164",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 90,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -12647,8 +14753,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 165,
     "uikTvd": "422400666780",
+    "uikName": "УИК №165",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 71,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -12701,8 +14816,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 166,
     "uikTvd": "422400666782",
+    "uikName": "УИК №166",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 8,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -12755,8 +14879,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 167,
     "uikTvd": "422400666784",
+    "uikName": "УИК №167",
     "tikTvd": "322300168389",
     "tikName": "Барнаул, Ленинская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 36,
+      "oikTvd": "100100095876",
+      "oikName": "Барнаульский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 45,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -12809,8 +14942,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 554,
     "uikTvd": "422400266748",
+    "uikName": "УИК №554",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 272,
       "Число бюллетеней, полученных участковыми комиссиями": 368,
@@ -12860,8 +15002,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 555,
     "uikTvd": "422400266749",
+    "uikName": "УИК №555",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1875,
       "Число бюллетеней, полученных участковыми комиссиями": 1678,
@@ -12911,8 +15062,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 556,
     "uikTvd": "422400266750",
+    "uikName": "УИК №556",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 783,
       "Число бюллетеней, полученных участковыми комиссиями": 695,
@@ -12962,8 +15122,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 557,
     "uikTvd": "422400266751",
+    "uikName": "УИК №557",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2668,
       "Число бюллетеней, полученных участковыми комиссиями": 2325,
@@ -13013,8 +15182,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 558,
     "uikTvd": "422400266752",
+    "uikName": "УИК №558",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1777,
       "Число бюллетеней, полученных участковыми комиссиями": 1526,
@@ -13064,8 +15242,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 559,
     "uikTvd": "422400266753",
+    "uikName": "УИК №559",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1405,
       "Число бюллетеней, полученных участковыми комиссиями": 1303,
@@ -13115,8 +15302,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 560,
     "uikTvd": "422400266754",
+    "uikName": "УИК №560",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 584,
       "Число бюллетеней, полученных участковыми комиссиями": 509,
@@ -13166,8 +15362,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 561,
     "uikTvd": "422400266755",
+    "uikName": "УИК №561",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1453,
       "Число бюллетеней, полученных участковыми комиссиями": 1273,
@@ -13217,8 +15422,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 562,
     "uikTvd": "422400266756",
+    "uikName": "УИК №562",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1695,
       "Число бюллетеней, полученных участковыми комиссиями": 1548,
@@ -13268,8 +15482,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 563,
     "uikTvd": "422400266757",
+    "uikName": "УИК №563",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 847,
       "Число бюллетеней, полученных участковыми комиссиями": 767,
@@ -13319,8 +15542,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 564,
     "uikTvd": "422400266758",
+    "uikName": "УИК №564",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1118,
       "Число бюллетеней, полученных участковыми комиссиями": 1010,
@@ -13370,8 +15602,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 565,
     "uikTvd": "422400266759",
+    "uikName": "УИК №565",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 409,
       "Число бюллетеней, полученных участковыми комиссиями": 410,
@@ -13421,8 +15662,17 @@ export const duma_2003_uik_428_region_22_part_001 = [
     "ballot": "single-member",
     "uikNumber": 566,
     "uikTvd": "422400266760",
+    "uikName": "УИК №566",
     "tikTvd": "322300266680",
     "tikName": "Алтайская",
+    "regionCode": "22",
+    "regionTvd": "100100095874",
+    "regionName": "Алтайский край",
+    "district": {
+      "districtNumber": 37,
+      "oikTvd": "100100095877",
+      "oikName": "Бийский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1600,
       "Число бюллетеней, полученных участковыми комиссиями": 1430,

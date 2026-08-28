@@ -11,6 +11,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166931",
     "tikName": "Алатырская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 16426,
@@ -87,6 +95,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166932",
     "tikName": "Алатырская городская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 32598,
@@ -160,6 +176,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166933",
     "tikName": "Аликовская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 37,
     "accounting": {
       "Число избирателей, включенных в списки": 16117,
@@ -245,6 +269,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166934",
     "tikName": "Батыревская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 52,
     "accounting": {
       "Число избирателей, включенных в списки": 30046,
@@ -345,6 +377,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166935",
     "tikName": "Вурнарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки": 29311,
@@ -447,6 +487,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166936",
     "tikName": "Ибресинская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 30,
     "accounting": {
       "Число избирателей, включенных в списки": 19183,
@@ -525,6 +573,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166937",
     "tikName": "Канашская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 69,
     "accounting": {
       "Число избирателей, включенных в списки": 31096,
@@ -642,6 +698,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166938",
     "tikName": "Канашская городская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки": 38071,
@@ -721,6 +785,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166939",
     "tikName": "Комсомольская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 20691,
@@ -812,6 +884,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166940",
     "tikName": "Красноармейская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 25,
     "accounting": {
       "Число избирателей, включенных в списки": 13515,
@@ -885,6 +965,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166941",
     "tikName": "Красночетайская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 16754,
@@ -974,6 +1062,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166942",
     "tikName": "Моргаушская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 49,
     "accounting": {
       "Число избирателей, включенных в списки": 27689,
@@ -1071,6 +1167,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166943",
     "tikName": "Порецкая",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 31,
     "accounting": {
       "Число избирателей, включенных в списки": 13387,
@@ -1150,6 +1254,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166944",
     "tikName": "Урмарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 43,
     "accounting": {
       "Число избирателей, включенных в списки": 20635,
@@ -1241,6 +1353,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166945",
     "tikName": "Цивильская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 27316,
@@ -1334,6 +1454,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166946",
     "tikName": "Шемуршинская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 24,
     "accounting": {
       "Число избирателей, включенных в списки": 11919,
@@ -1406,6 +1534,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166947",
     "tikName": "Шумерлинская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 34,
     "accounting": {
       "Число избирателей, включенных в списки": 10613,
@@ -1488,6 +1624,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166948",
     "tikName": "Шумерлинская городская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 20,
     "accounting": {
       "Число избирателей, включенных в списки": 29606,
@@ -1556,6 +1700,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166949",
     "tikName": "Ядринская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 50,
     "accounting": {
       "Число избирателей, включенных в списки": 24828,
@@ -1654,6 +1806,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166950",
     "tikName": "Яльчикская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 41,
     "accounting": {
       "Число избирателей, включенных в списки": 18316,
@@ -1743,6 +1903,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300166953",
     "tikName": "Янтиковская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 33,
+      "oikTvd": "100100095673",
+      "oikName": "Канашский"
+    },
     "uikCount": 28,
     "accounting": {
       "Число избирателей, включенных в списки": 13252,
@@ -1819,6 +1987,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300266868",
     "tikName": "Новочебоксарская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 96079,
@@ -1914,6 +2090,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300266870",
     "tikName": "Чебоксары, Калининская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "uikCount": 54,
     "accounting": {
       "Число избирателей, включенных в списки": 111527,
@@ -2018,6 +2202,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300266871",
     "tikName": "Чебоксары, Ленинская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "uikCount": 46,
     "accounting": {
       "Число избирателей, включенных в списки": 96358,
@@ -2114,6 +2306,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300266872",
     "tikName": "Чебоксары, Московская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "uikCount": 67,
     "accounting": {
       "Число избирателей, включенных в списки": 131489,
@@ -2231,6 +2431,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300266873",
     "tikName": "Чебоксарская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "uikCount": 56,
     "accounting": {
       "Число избирателей, включенных в списки": 43218,
@@ -2337,6 +2545,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300266874",
     "tikName": "Мариинско-Посадская",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "uikCount": 45,
     "accounting": {
       "Число избирателей, включенных в списки": 20114,
@@ -2432,6 +2648,14 @@ export const duma_2003_tic_429_region_21 = [
     "ballot": "single-member",
     "tikTvd": "321300267224",
     "tikName": "Козловская ",
+    "regionCode": "21",
+    "regionTvd": "100100095672",
+    "regionName": "Чувашская Республика - Чувашия",
+    "district": {
+      "districtNumber": 34,
+      "oikTvd": "100100095674",
+      "oikName": "Чебоксарский"
+    },
     "uikCount": 33,
     "accounting": {
       "Число избирателей, включенных в списки": 18131,

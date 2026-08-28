@@ -11,8 +11,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 395,
     "uikTvd": "434400670847",
+    "uikName": "УИК №395",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2572,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -56,8 +65,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 396,
     "uikTvd": "434400670848",
+    "uikName": "УИК №396",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2266,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -101,8 +119,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 397,
     "uikTvd": "434400670849",
+    "uikName": "УИК №397",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2390,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -146,8 +173,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 398,
     "uikTvd": "434400670850",
+    "uikName": "УИК №398",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2336,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -191,8 +227,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 399,
     "uikTvd": "434400670851",
+    "uikName": "УИК №399",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2213,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -236,8 +281,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 400,
     "uikTvd": "434400670852",
+    "uikName": "УИК №400",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2133,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -281,8 +335,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 401,
     "uikTvd": "434400670853",
+    "uikName": "УИК №401",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2161,
       "Число бюллетеней, полученных участковыми комиссиями": 2100,
@@ -326,8 +389,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 402,
     "uikTvd": "434400670854",
+    "uikName": "УИК №402",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 836,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -371,8 +443,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 403,
     "uikTvd": "434400670855",
+    "uikName": "УИК №403",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1426,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -416,8 +497,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 404,
     "uikTvd": "434400670856",
+    "uikName": "УИК №404",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -461,8 +551,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 405,
     "uikTvd": "434400670857",
+    "uikName": "УИК №405",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -506,8 +605,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 406,
     "uikTvd": "434400670858",
+    "uikName": "УИК №406",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 87,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -551,8 +659,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 407,
     "uikTvd": "434400670859",
+    "uikName": "УИК №407",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 154,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -596,8 +713,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 408,
     "uikTvd": "434400670860",
+    "uikName": "УИК №408",
     "tikTvd": "334300270552",
     "tikName": "Волгоград, Красноармейская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 235,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -641,8 +767,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 461,
     "uikTvd": "434400870362",
+    "uikName": "УИК №461",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2501,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -686,8 +821,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 462,
     "uikTvd": "434400870363",
+    "uikName": "УИК №462",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2300,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -731,8 +875,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 463,
     "uikTvd": "434400870364",
+    "uikName": "УИК №463",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2603,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -776,8 +929,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 464,
     "uikTvd": "434400870365",
+    "uikName": "УИК №464",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2404,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -821,8 +983,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 465,
     "uikTvd": "434400870366",
+    "uikName": "УИК №465",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2291,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -866,8 +1037,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 466,
     "uikTvd": "434400870367",
+    "uikName": "УИК №466",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 897,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -911,8 +1091,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 467,
     "uikTvd": "434400870368",
+    "uikName": "УИК №467",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2457,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -956,8 +1145,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 468,
     "uikTvd": "434400870369",
+    "uikName": "УИК №468",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2587,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1001,8 +1199,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 469,
     "uikTvd": "434400870370",
+    "uikName": "УИК №469",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2558,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -1046,8 +1253,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 470,
     "uikTvd": "434400870371",
+    "uikName": "УИК №470",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 974,
       "Число бюллетеней, полученных участковыми комиссиями": 1000,
@@ -1091,8 +1307,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 471,
     "uikTvd": "434400870372",
+    "uikName": "УИК №471",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1405,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -1136,8 +1361,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 472,
     "uikTvd": "434400870373",
+    "uikName": "УИК №472",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2536,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -1181,8 +1415,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 473,
     "uikTvd": "434400870374",
+    "uikName": "УИК №473",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 523,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -1226,8 +1469,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 474,
     "uikTvd": "434400870375",
+    "uikName": "УИК №474",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1523,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -1271,8 +1523,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 475,
     "uikTvd": "434400870376",
+    "uikName": "УИК №475",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1846,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -1316,8 +1577,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 476,
     "uikTvd": "434400870377",
+    "uikName": "УИК №476",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1734,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1361,8 +1631,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 477,
     "uikTvd": "434400870378",
+    "uikName": "УИК №477",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2522,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1406,8 +1685,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 478,
     "uikTvd": "434400870379",
+    "uikName": "УИК №478",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2426,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1451,8 +1739,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 479,
     "uikTvd": "434400870380",
+    "uikName": "УИК №479",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2750,
       "Число бюллетеней, полученных участковыми комиссиями": 2700,
@@ -1496,8 +1793,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 480,
     "uikTvd": "434400870381",
+    "uikName": "УИК №480",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1781,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1541,8 +1847,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 481,
     "uikTvd": "434400870382",
+    "uikName": "УИК №481",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 679,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -1586,8 +1901,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 482,
     "uikTvd": "434400870383",
+    "uikName": "УИК №482",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1765,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -1631,8 +1955,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 483,
     "uikTvd": "434400870384",
+    "uikName": "УИК №483",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2325,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1676,8 +2009,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 484,
     "uikTvd": "434400870385",
+    "uikName": "УИК №484",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2462,
       "Число бюллетеней, полученных участковыми комиссиями": 2500,
@@ -1721,8 +2063,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 485,
     "uikTvd": "434400870386",
+    "uikName": "УИК №485",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2300,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1766,8 +2117,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 486,
     "uikTvd": "434400870387",
+    "uikName": "УИК №486",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2360,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1811,8 +2171,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 487,
     "uikTvd": "434400870388",
+    "uikName": "УИК №487",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1656,
       "Число бюллетеней, полученных участковыми комиссиями": 1700,
@@ -1856,8 +2225,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 488,
     "uikTvd": "434400870389",
+    "uikName": "УИК №488",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2331,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -1901,8 +2279,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 489,
     "uikTvd": "434400870390",
+    "uikName": "УИК №489",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2246,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -1946,8 +2333,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 490,
     "uikTvd": "434400870391",
+    "uikName": "УИК №490",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 930,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -1991,8 +2387,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 491,
     "uikTvd": "434400870392",
+    "uikName": "УИК №491",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2302,
       "Число бюллетеней, полученных участковыми комиссиями": 2300,
@@ -2036,8 +2441,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 492,
     "uikTvd": "434400870393",
+    "uikName": "УИК №492",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1961,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -2081,8 +2495,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 493,
     "uikTvd": "434400870394",
+    "uikName": "УИК №493",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1748,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -2126,8 +2549,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 494,
     "uikTvd": "434400870395",
+    "uikName": "УИК №494",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2480,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -2171,8 +2603,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 495,
     "uikTvd": "434400870396",
+    "uikName": "УИК №495",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2570,
       "Число бюллетеней, полученных участковыми комиссиями": 2600,
@@ -2216,8 +2657,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 496,
     "uikTvd": "434400870397",
+    "uikName": "УИК №496",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2868,
       "Число бюллетеней, полученных участковыми комиссиями": 2900,
@@ -2261,8 +2711,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 497,
     "uikTvd": "434400870398",
+    "uikName": "УИК №497",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2780,
       "Число бюллетеней, полученных участковыми комиссиями": 2800,
@@ -2306,8 +2765,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 498,
     "uikTvd": "434400870399",
+    "uikName": "УИК №498",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1090,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -2351,8 +2819,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 499,
     "uikTvd": "434400870400",
+    "uikName": "УИК №499",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 806,
       "Число бюллетеней, полученных участковыми комиссиями": 900,
@@ -2396,8 +2873,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 500,
     "uikTvd": "434400870401",
+    "uikName": "УИК №500",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1428,
       "Число бюллетеней, полученных участковыми комиссиями": 1400,
@@ -2441,8 +2927,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 501,
     "uikTvd": "434400870402",
+    "uikName": "УИК №501",
     "tikTvd": "334300270553",
     "tikName": "Волгоград, Советская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 719,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -2486,8 +2981,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 642,
     "uikTvd": "434401270380",
+    "uikName": "УИК №642",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2950,
       "Число бюллетеней, полученных участковыми комиссиями": 2347,
@@ -2531,8 +3035,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 643,
     "uikTvd": "434401270381",
+    "uikName": "УИК №643",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1704,
       "Число бюллетеней, полученных участковыми комиссиями": 1459,
@@ -2576,8 +3089,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 644,
     "uikTvd": "434401270382",
+    "uikName": "УИК №644",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1810,
       "Число бюллетеней, полученных участковыми комиссиями": 1563,
@@ -2621,8 +3143,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 645,
     "uikTvd": "434401270383",
+    "uikName": "УИК №645",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2113,
       "Число бюллетеней, полученных участковыми комиссиями": 1684,
@@ -2666,8 +3197,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 646,
     "uikTvd": "434401270384",
+    "uikName": "УИК №646",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2149,
       "Число бюллетеней, полученных участковыми комиссиями": 1856,
@@ -2711,8 +3251,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 647,
     "uikTvd": "434401270385",
+    "uikName": "УИК №647",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1351,
       "Число бюллетеней, полученных участковыми комиссиями": 1129,
@@ -2756,8 +3305,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 648,
     "uikTvd": "434401270386",
+    "uikName": "УИК №648",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2686,
       "Число бюллетеней, полученных участковыми комиссиями": 2346,
@@ -2801,8 +3359,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 649,
     "uikTvd": "434401270387",
+    "uikName": "УИК №649",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1019,
       "Число бюллетеней, полученных участковыми комиссиями": 893,
@@ -2846,8 +3413,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 650,
     "uikTvd": "434401270388",
+    "uikName": "УИК №650",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2371,
       "Число бюллетеней, полученных участковыми комиссиями": 2115,
@@ -2891,8 +3467,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 651,
     "uikTvd": "434401270389",
+    "uikName": "УИК №651",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1912,
       "Число бюллетеней, полученных участковыми комиссиями": 1758,
@@ -2936,8 +3521,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 652,
     "uikTvd": "434401270390",
+    "uikName": "УИК №652",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1144,
       "Число бюллетеней, полученных участковыми комиссиями": 1030,
@@ -2981,8 +3575,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 653,
     "uikTvd": "434401270391",
+    "uikName": "УИК №653",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 419,
       "Число бюллетеней, полученных участковыми комиссиями": 355,
@@ -3026,8 +3629,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 654,
     "uikTvd": "434401270392",
+    "uikName": "УИК №654",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1509,
       "Число бюллетеней, полученных участковыми комиссиями": 1358,
@@ -3071,8 +3683,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 655,
     "uikTvd": "434401270393",
+    "uikName": "УИК №655",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 771,
       "Число бюллетеней, полученных участковыми комиссиями": 692,
@@ -3116,8 +3737,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 656,
     "uikTvd": "434401270394",
+    "uikName": "УИК №656",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1752,
       "Число бюллетеней, полученных участковыми комиссиями": 1524,
@@ -3161,8 +3791,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 657,
     "uikTvd": "434401270395",
+    "uikName": "УИК №657",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1493,
       "Число бюллетеней, полученных участковыми комиссиями": 1318,
@@ -3206,8 +3845,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 658,
     "uikTvd": "434401270396",
+    "uikName": "УИК №658",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1410,
       "Число бюллетеней, полученных участковыми комиссиями": 1271,
@@ -3251,8 +3899,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 659,
     "uikTvd": "434401270397",
+    "uikName": "УИК №659",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 853,
       "Число бюллетеней, полученных участковыми комиссиями": 767,
@@ -3296,8 +3953,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 660,
     "uikTvd": "434401270398",
+    "uikName": "УИК №660",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 452,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -3341,8 +4007,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 661,
     "uikTvd": "434401270399",
+    "uikName": "УИК №661",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 971,
       "Число бюллетеней, полученных участковыми комиссиями": 880,
@@ -3386,8 +4061,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 662,
     "uikTvd": "434401270400",
+    "uikName": "УИК №662",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 780,
       "Число бюллетеней, полученных участковыми комиссиями": 703,
@@ -3431,8 +4115,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 663,
     "uikTvd": "434401270401",
+    "uikName": "УИК №663",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2863,
       "Число бюллетеней, полученных участковыми комиссиями": 2445,
@@ -3476,8 +4169,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 664,
     "uikTvd": "434401270402",
+    "uikName": "УИК №664",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2742,
       "Число бюллетеней, полученных участковыми комиссиями": 2517,
@@ -3521,8 +4223,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 665,
     "uikTvd": "434401270403",
+    "uikName": "УИК №665",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1250,
       "Число бюллетеней, полученных участковыми комиссиями": 1114,
@@ -3566,8 +4277,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 666,
     "uikTvd": "434401270404",
+    "uikName": "УИК №666",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1899,
       "Число бюллетеней, полученных участковыми комиссиями": 1575,
@@ -3611,8 +4331,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 667,
     "uikTvd": "434401270405",
+    "uikName": "УИК №667",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 360,
@@ -3656,8 +4385,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 668,
     "uikTvd": "434401270406",
+    "uikName": "УИК №668",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 768,
       "Число бюллетеней, полученных участковыми комиссиями": 682,
@@ -3701,8 +4439,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 669,
     "uikTvd": "434401270407",
+    "uikName": "УИК №669",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 392,
       "Число бюллетеней, полученных участковыми комиссиями": 354,
@@ -3746,8 +4493,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 670,
     "uikTvd": "434401270408",
+    "uikName": "УИК №670",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 185,
@@ -3791,8 +4547,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 671,
     "uikTvd": "434401270409",
+    "uikName": "УИК №671",
     "tikTvd": "334300270554",
     "tikName": "Городищенская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 498,
       "Число бюллетеней, полученных участковыми комиссиями": 447,
@@ -3836,8 +4601,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 847,
     "uikTvd": "434401870478",
+    "uikName": "УИК №847",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 541,
       "Число бюллетеней, полученных участковыми комиссиями": 560,
@@ -3881,8 +4655,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 848,
     "uikTvd": "434401870479",
+    "uikName": "УИК №848",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 129,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -3926,8 +4709,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 849,
     "uikTvd": "434401870480",
+    "uikName": "УИК №849",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 244,
       "Число бюллетеней, полученных участковыми комиссиями": 224,
@@ -3971,8 +4763,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 850,
     "uikTvd": "434401870481",
+    "uikName": "УИК №850",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 206,
       "Число бюллетеней, полученных участковыми комиссиями": 215,
@@ -4016,8 +4817,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 851,
     "uikTvd": "434401870482",
+    "uikName": "УИК №851",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1055,
       "Число бюллетеней, полученных участковыми комиссиями": 1080,
@@ -4061,8 +4871,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 852,
     "uikTvd": "434401870483",
+    "uikName": "УИК №852",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 395,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -4106,8 +4925,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 853,
     "uikTvd": "434401870484",
+    "uikName": "УИК №853",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 123,
@@ -4151,8 +4979,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 854,
     "uikTvd": "434401870485",
+    "uikName": "УИК №854",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1203,
       "Число бюллетеней, полученных участковыми комиссиями": 1135,
@@ -4196,8 +5033,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 855,
     "uikTvd": "434401870486",
+    "uikName": "УИК №855",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1887,
       "Число бюллетеней, полученных участковыми комиссиями": 1825,
@@ -4241,8 +5087,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 856,
     "uikTvd": "434401870487",
+    "uikName": "УИК №856",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 634,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -4286,8 +5141,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 857,
     "uikTvd": "434401870488",
+    "uikName": "УИК №857",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 171,
       "Число бюллетеней, полученных участковыми комиссиями": 155,
@@ -4331,8 +5195,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 858,
     "uikTvd": "434401870489",
+    "uikName": "УИК №858",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 942,
       "Число бюллетеней, полученных участковыми комиссиями": 700,
@@ -4376,8 +5249,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 859,
     "uikTvd": "434401870490",
+    "uikName": "УИК №859",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1128,
       "Число бюллетеней, полученных участковыми комиссиями": 1100,
@@ -4421,8 +5303,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 860,
     "uikTvd": "434401870491",
+    "uikName": "УИК №860",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1654,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -4466,8 +5357,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 861,
     "uikTvd": "434401870492",
+    "uikName": "УИК №861",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1806,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -4511,8 +5411,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 862,
     "uikTvd": "434401870493",
+    "uikName": "УИК №862",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 180,
       "Число бюллетеней, полученных участковыми комиссиями": 350,
@@ -4556,8 +5465,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 863,
     "uikTvd": "434401870494",
+    "uikName": "УИК №863",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1090,
       "Число бюллетеней, полученных участковыми комиссиями": 1070,
@@ -4601,8 +5519,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 864,
     "uikTvd": "434401870495",
+    "uikName": "УИК №864",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 187,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -4646,8 +5573,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 865,
     "uikTvd": "434401870496",
+    "uikName": "УИК №865",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 275,
@@ -4691,8 +5627,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 866,
     "uikTvd": "434401870497",
+    "uikName": "УИК №866",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 440,
       "Число бюллетеней, полученных участковыми комиссиями": 450,
@@ -4736,8 +5681,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 867,
     "uikTvd": "434401870498",
+    "uikName": "УИК №867",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 290,
       "Число бюллетеней, полученных участковыми комиссиями": 520,
@@ -4781,8 +5735,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 868,
     "uikTvd": "434401870499",
+    "uikName": "УИК №868",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 215,
       "Число бюллетеней, полученных участковыми комиссиями": 220,
@@ -4826,8 +5789,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 869,
     "uikTvd": "434401870500",
+    "uikName": "УИК №869",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 143,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -4871,8 +5843,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 870,
     "uikTvd": "434401870501",
+    "uikName": "УИК №870",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 305,
       "Число бюллетеней, полученных участковыми комиссиями": 310,
@@ -4916,8 +5897,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 871,
     "uikTvd": "434401870502",
+    "uikName": "УИК №871",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 232,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -4961,8 +5951,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 872,
     "uikTvd": "434401870503",
+    "uikName": "УИК №872",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 205,
       "Число бюллетеней, полученных участковыми комиссиями": 210,
@@ -5006,8 +6005,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 873,
     "uikTvd": "434401870504",
+    "uikName": "УИК №873",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 974,
       "Число бюллетеней, полученных участковыми комиссиями": 970,
@@ -5051,8 +6059,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 874,
     "uikTvd": "434401870505",
+    "uikName": "УИК №874",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 583,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -5096,8 +6113,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 875,
     "uikTvd": "434401870506",
+    "uikName": "УИК №875",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1615,
       "Число бюллетеней, полученных участковыми комиссиями": 1410,
@@ -5141,8 +6167,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 876,
     "uikTvd": "434401870507",
+    "uikName": "УИК №876",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 225,
       "Число бюллетеней, полученных участковыми комиссиями": 230,
@@ -5186,8 +6221,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 877,
     "uikTvd": "434401870508",
+    "uikName": "УИК №877",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 112,
       "Число бюллетеней, полученных участковыми комиссиями": 115,
@@ -5231,8 +6275,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 878,
     "uikTvd": "434401870509",
+    "uikName": "УИК №878",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 228,
       "Число бюллетеней, полученных участковыми комиссиями": 240,
@@ -5276,8 +6329,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 879,
     "uikTvd": "434401870510",
+    "uikName": "УИК №879",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 237,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -5321,8 +6383,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 880,
     "uikTvd": "434401870511",
+    "uikName": "УИК №880",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 632,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -5366,8 +6437,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 881,
     "uikTvd": "434401870512",
+    "uikName": "УИК №881",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 241,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -5411,8 +6491,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 882,
     "uikTvd": "434401870513",
+    "uikName": "УИК №882",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 438,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -5456,8 +6545,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 883,
     "uikTvd": "434401870514",
+    "uikName": "УИК №883",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1997,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5501,8 +6599,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 884,
     "uikTvd": "434401870515",
+    "uikName": "УИК №884",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1312,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -5546,8 +6653,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 885,
     "uikTvd": "434401870516",
+    "uikName": "УИК №885",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 770,
       "Число бюллетеней, полученных участковыми комиссиями": 720,
@@ -5591,8 +6707,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 886,
     "uikTvd": "434401870517",
+    "uikName": "УИК №886",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 363,
       "Число бюллетеней, полученных участковыми комиссиями": 370,
@@ -5636,8 +6761,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 887,
     "uikTvd": "434401870518",
+    "uikName": "УИК №887",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 472,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -5681,8 +6815,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 888,
     "uikTvd": "434401870519",
+    "uikName": "УИК №888",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2640,
       "Число бюллетеней, полученных участковыми комиссиями": 2400,
@@ -5726,8 +6869,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 889,
     "uikTvd": "434401870520",
+    "uikName": "УИК №889",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1601,
       "Число бюллетеней, полученных участковыми комиссиями": 1600,
@@ -5771,8 +6923,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 890,
     "uikTvd": "434401870521",
+    "uikName": "УИК №890",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1653,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5816,8 +6977,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 891,
     "uikTvd": "434401870522",
+    "uikName": "УИК №891",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1740,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -5861,8 +7031,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 892,
     "uikTvd": "434401870523",
+    "uikName": "УИК №892",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2393,
       "Число бюллетеней, полученных участковыми комиссиями": 2200,
@@ -5906,8 +7085,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 893,
     "uikTvd": "434401870524",
+    "uikName": "УИК №893",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1749,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -5951,8 +7139,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 894,
     "uikTvd": "434401870525",
+    "uikName": "УИК №894",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1695,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -5996,8 +7193,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 895,
     "uikTvd": "434401870526",
+    "uikName": "УИК №895",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2073,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -6041,8 +7247,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 896,
     "uikTvd": "434401870527",
+    "uikName": "УИК №896",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1246,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -6086,8 +7301,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 897,
     "uikTvd": "434401870528",
+    "uikName": "УИК №897",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2524,
       "Число бюллетеней, полученных участковыми комиссиями": 2330,
@@ -6131,8 +7355,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 898,
     "uikTvd": "434401870529",
+    "uikName": "УИК №898",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1737,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -6176,8 +7409,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 899,
     "uikTvd": "434401870530",
+    "uikName": "УИК №899",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1536,
       "Число бюллетеней, полученных участковыми комиссиями": 1650,
@@ -6221,8 +7463,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 900,
     "uikTvd": "434401870531",
+    "uikName": "УИК №900",
     "tikTvd": "334300270555",
     "tikName": "Калачевская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 96,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -6266,8 +7517,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 994,
     "uikTvd": "434402270455",
+    "uikName": "УИК №994",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2085,
       "Число бюллетеней, полученных участковыми комиссиями": 2099,
@@ -6311,8 +7571,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 995,
     "uikTvd": "434402270456",
+    "uikName": "УИК №995",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1083,
       "Число бюллетеней, полученных участковыми комиссиями": 1088,
@@ -6356,8 +7625,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 996,
     "uikTvd": "434402270457",
+    "uikName": "УИК №996",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 928,
       "Число бюллетеней, полученных участковыми комиссиями": 923,
@@ -6401,8 +7679,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 997,
     "uikTvd": "434402270458",
+    "uikName": "УИК №997",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2021,
       "Число бюллетеней, полученных участковыми комиссиями": 2010,
@@ -6446,8 +7733,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 998,
     "uikTvd": "434402270459",
+    "uikName": "УИК №998",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1220,
       "Число бюллетеней, полученных участковыми комиссиями": 1226,
@@ -6491,8 +7787,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 999,
     "uikTvd": "434402270460",
+    "uikName": "УИК №999",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 757,
       "Число бюллетеней, полученных участковыми комиссиями": 756,
@@ -6536,8 +7841,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1000,
     "uikTvd": "434402270461",
+    "uikName": "УИК №1000",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1836,
       "Число бюллетеней, полученных участковыми комиссиями": 1816,
@@ -6581,8 +7895,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1001,
     "uikTvd": "434402270462",
+    "uikName": "УИК №1001",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1791,
       "Число бюллетеней, полученных участковыми комиссиями": 1800,
@@ -6626,8 +7949,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1002,
     "uikTvd": "434402270463",
+    "uikName": "УИК №1002",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1942,
       "Число бюллетеней, полученных участковыми комиссиями": 1954,
@@ -6671,8 +8003,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1003,
     "uikTvd": "434402270464",
+    "uikName": "УИК №1003",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2198,
       "Число бюллетеней, полученных участковыми комиссиями": 2138,
@@ -6716,8 +8057,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1004,
     "uikTvd": "434402270465",
+    "uikName": "УИК №1004",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 767,
       "Число бюллетеней, полученных участковыми комиссиями": 794,
@@ -6761,8 +8111,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1005,
     "uikTvd": "434402270466",
+    "uikName": "УИК №1005",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 167,
       "Число бюллетеней, полученных участковыми комиссиями": 164,
@@ -6806,8 +8165,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1006,
     "uikTvd": "434402270467",
+    "uikName": "УИК №1006",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 118,
       "Число бюллетеней, полученных участковыми комиссиями": 125,
@@ -6851,8 +8219,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1007,
     "uikTvd": "434402270468",
+    "uikName": "УИК №1007",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 529,
       "Число бюллетеней, полученных участковыми комиссиями": 544,
@@ -6896,8 +8273,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1008,
     "uikTvd": "434402270469",
+    "uikName": "УИК №1008",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 460,
       "Число бюллетеней, полученных участковыми комиссиями": 460,
@@ -6941,8 +8327,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1009,
     "uikTvd": "434402270470",
+    "uikName": "УИК №1009",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 134,
       "Число бюллетеней, полученных участковыми комиссиями": 139,
@@ -6986,8 +8381,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1010,
     "uikTvd": "434402270471",
+    "uikName": "УИК №1010",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 110,
       "Число бюллетеней, полученных участковыми комиссиями": 107,
@@ -7031,8 +8435,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1011,
     "uikTvd": "434402270472",
+    "uikName": "УИК №1011",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 667,
       "Число бюллетеней, полученных участковыми комиссиями": 662,
@@ -7076,8 +8489,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1012,
     "uikTvd": "434402270473",
+    "uikName": "УИК №1012",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 304,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -7121,8 +8543,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1013,
     "uikTvd": "434402270474",
+    "uikName": "УИК №1013",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 202,
@@ -7166,8 +8597,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1014,
     "uikTvd": "434402270475",
+    "uikName": "УИК №1014",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 328,
       "Число бюллетеней, полученных участковыми комиссиями": 331,
@@ -7211,8 +8651,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1015,
     "uikTvd": "434402270476",
+    "uikName": "УИК №1015",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 550,
       "Число бюллетеней, полученных участковыми комиссиями": 555,
@@ -7256,8 +8705,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1016,
     "uikTvd": "434402270477",
+    "uikName": "УИК №1016",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 803,
       "Число бюллетеней, полученных участковыми комиссиями": 809,
@@ -7301,8 +8759,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1017,
     "uikTvd": "434402270478",
+    "uikName": "УИК №1017",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 697,
       "Число бюллетеней, полученных участковыми комиссиями": 706,
@@ -7346,8 +8813,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1018,
     "uikTvd": "434402270479",
+    "uikName": "УИК №1018",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 477,
       "Число бюллетеней, полученных участковыми комиссиями": 470,
@@ -7391,8 +8867,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1019,
     "uikTvd": "434402270480",
+    "uikName": "УИК №1019",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 211,
       "Число бюллетеней, полученных участковыми комиссиями": 228,
@@ -7436,8 +8921,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1020,
     "uikTvd": "434402270481",
+    "uikName": "УИК №1020",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 562,
       "Число бюллетеней, полученных участковыми комиссиями": 557,
@@ -7481,8 +8975,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1021,
     "uikTvd": "434402270482",
+    "uikName": "УИК №1021",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 654,
       "Число бюллетеней, полученных участковыми комиссиями": 663,
@@ -7526,8 +9029,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1022,
     "uikTvd": "434402270483",
+    "uikName": "УИК №1022",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 388,
       "Число бюллетеней, полученных участковыми комиссиями": 389,
@@ -7571,8 +9083,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1023,
     "uikTvd": "434402270484",
+    "uikName": "УИК №1023",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 120,
       "Число бюллетеней, полученных участковыми комиссиями": 126,
@@ -7616,8 +9137,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1024,
     "uikTvd": "434402270485",
+    "uikName": "УИК №1024",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 253,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -7661,8 +9191,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1025,
     "uikTvd": "434402270486",
+    "uikName": "УИК №1025",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 860,
       "Число бюллетеней, полученных участковыми комиссиями": 860,
@@ -7706,8 +9245,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1026,
     "uikTvd": "434402270487",
+    "uikName": "УИК №1026",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1039,
       "Число бюллетеней, полученных участковыми комиссиями": 1103,
@@ -7751,8 +9299,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1027,
     "uikTvd": "434402270488",
+    "uikName": "УИК №1027",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 282,
       "Число бюллетеней, полученных участковыми комиссиями": 294,
@@ -7796,8 +9353,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1028,
     "uikTvd": "434402270489",
+    "uikName": "УИК №1028",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 488,
       "Число бюллетеней, полученных участковыми комиссиями": 493,
@@ -7841,8 +9407,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1029,
     "uikTvd": "434402270490",
+    "uikName": "УИК №1029",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 103,
       "Число бюллетеней, полученных участковыми комиссиями": 102,
@@ -7886,8 +9461,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1030,
     "uikTvd": "434402270491",
+    "uikName": "УИК №1030",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 847,
       "Число бюллетеней, полученных участковыми комиссиями": 852,
@@ -7931,8 +9515,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1031,
     "uikTvd": "434402270492",
+    "uikName": "УИК №1031",
     "tikTvd": "334300270556",
     "tikName": "Котельниковская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 260,
       "Число бюллетеней, полученных участковыми комиссиями": 262,
@@ -7976,8 +9569,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1287,
     "uikTvd": "434403070467",
+    "uikName": "УИК №1287",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1359,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -8021,8 +9623,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1288,
     "uikTvd": "434403070433",
+    "uikName": "УИК №1288",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1343,
       "Число бюллетеней, полученных участковыми комиссиями": 1350,
@@ -8066,8 +9677,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1289,
     "uikTvd": "434403070434",
+    "uikName": "УИК №1289",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1262,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -8111,8 +9731,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1290,
     "uikTvd": "434403070435",
+    "uikName": "УИК №1290",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 505,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -8156,8 +9785,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1291,
     "uikTvd": "434403070436",
+    "uikName": "УИК №1291",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 511,
       "Число бюллетеней, полученных участковыми комиссиями": 550,
@@ -8201,8 +9839,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1292,
     "uikTvd": "434403070437",
+    "uikName": "УИК №1292",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 376,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -8246,8 +9893,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1293,
     "uikTvd": "434403070438",
+    "uikName": "УИК №1293",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 647,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -8291,8 +9947,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1294,
     "uikTvd": "434403070439",
+    "uikName": "УИК №1294",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 191,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8336,8 +10001,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1295,
     "uikTvd": "434403070440",
+    "uikName": "УИК №1295",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1028,
       "Число бюллетеней, полученных участковыми комиссиями": 1050,
@@ -8381,8 +10055,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1296,
     "uikTvd": "434403070441",
+    "uikName": "УИК №1296",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 212,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -8426,8 +10109,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1297,
     "uikTvd": "434403070442",
+    "uikName": "УИК №1297",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8471,8 +10163,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1298,
     "uikTvd": "434403070443",
+    "uikName": "УИК №1298",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 645,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -8516,8 +10217,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1299,
     "uikTvd": "434403070444",
+    "uikName": "УИК №1299",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 200,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -8561,8 +10271,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1300,
     "uikTvd": "434403070445",
+    "uikName": "УИК №1300",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 456,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8606,8 +10325,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1301,
     "uikTvd": "434403070446",
+    "uikName": "УИК №1301",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 114,
       "Число бюллетеней, полученных участковыми комиссиями": 120,
@@ -8651,8 +10379,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1302,
     "uikTvd": "434403070447",
+    "uikName": "УИК №1302",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 285,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -8696,8 +10433,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1303,
     "uikTvd": "434403070448",
+    "uikName": "УИК №1303",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 791,
       "Число бюллетеней, полученных участковыми комиссиями": 760,
@@ -8741,8 +10487,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1304,
     "uikTvd": "434403070449",
+    "uikName": "УИК №1304",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1409,
       "Число бюллетеней, полученных участковыми комиссиями": 1250,
@@ -8786,8 +10541,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1305,
     "uikTvd": "434403070450",
+    "uikName": "УИК №1305",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2266,
       "Число бюллетеней, полученных участковыми комиссиями": 2000,
@@ -8831,8 +10595,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1306,
     "uikTvd": "434403070451",
+    "uikName": "УИК №1306",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1683,
       "Число бюллетеней, полученных участковыми комиссиями": 1500,
@@ -8876,8 +10649,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1307,
     "uikTvd": "434403070452",
+    "uikName": "УИК №1307",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 520,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -8921,8 +10703,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1308,
     "uikTvd": "434403070453",
+    "uikName": "УИК №1308",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 258,
       "Число бюллетеней, полученных участковыми комиссиями": 250,
@@ -8966,8 +10757,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1309,
     "uikTvd": "434403070454",
+    "uikName": "УИК №1309",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 122,
       "Число бюллетеней, полученных участковыми комиссиями": 130,
@@ -9011,8 +10811,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1310,
     "uikTvd": "434403070455",
+    "uikName": "УИК №1310",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 173,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -9056,8 +10865,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1311,
     "uikTvd": "434403070456",
+    "uikName": "УИК №1311",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 146,
       "Число бюллетеней, полученных участковыми комиссиями": 160,
@@ -9101,8 +10919,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1312,
     "uikTvd": "434403070457",
+    "uikName": "УИК №1312",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 571,
       "Число бюллетеней, полученных участковыми комиссиями": 600,
@@ -9146,8 +10973,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1313,
     "uikTvd": "434403070458",
+    "uikName": "УИК №1313",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 773,
       "Число бюллетеней, полученных участковыми комиссиями": 750,
@@ -9191,8 +11027,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1314,
     "uikTvd": "434403070459",
+    "uikName": "УИК №1314",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 147,
       "Число бюллетеней, полученных участковыми комиссиями": 200,
@@ -9236,8 +11081,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1315,
     "uikTvd": "434403070460",
+    "uikName": "УИК №1315",
     "tikTvd": "334300270557",
     "tikName": "Октябрьская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 132,
       "Число бюллетеней, полученных участковыми комиссиями": 140,
@@ -9281,8 +11135,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1404,
     "uikTvd": "434403570547",
+    "uikName": "УИК №1404",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1536,
       "Число бюллетеней, полученных участковыми комиссиями": 1526,
@@ -9326,8 +11189,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1405,
     "uikTvd": "434403570548",
+    "uikName": "УИК №1405",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1072,
       "Число бюллетеней, полученных участковыми комиссиями": 1109,
@@ -9371,8 +11243,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1406,
     "uikTvd": "434403570549",
+    "uikName": "УИК №1406",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1893,
       "Число бюллетеней, полученных участковыми комиссиями": 1891,
@@ -9416,8 +11297,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1407,
     "uikTvd": "434403570550",
+    "uikName": "УИК №1407",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 901,
       "Число бюллетеней, полученных участковыми комиссиями": 904,
@@ -9461,8 +11351,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1408,
     "uikTvd": "434403570551",
+    "uikName": "УИК №1408",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1354,
       "Число бюллетеней, полученных участковыми комиссиями": 1417,
@@ -9506,8 +11405,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1409,
     "uikTvd": "434403570552",
+    "uikName": "УИК №1409",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1598,
       "Число бюллетеней, полученных участковыми комиссиями": 1632,
@@ -9551,8 +11459,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1410,
     "uikTvd": "434403570553",
+    "uikName": "УИК №1410",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1853,
       "Число бюллетеней, полученных участковыми комиссиями": 1900,
@@ -9596,8 +11513,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1411,
     "uikTvd": "434403570554",
+    "uikName": "УИК №1411",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 40,
       "Число бюллетеней, полученных участковыми комиссиями": 42,
@@ -9641,8 +11567,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1412,
     "uikTvd": "434403570555",
+    "uikName": "УИК №1412",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1268,
       "Число бюллетеней, полученных участковыми комиссиями": 1263,
@@ -9686,8 +11621,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1413,
     "uikTvd": "434403570556",
+    "uikName": "УИК №1413",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 857,
       "Число бюллетеней, полученных участковыми комиссиями": 887,
@@ -9731,8 +11675,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1414,
     "uikTvd": "434403570557",
+    "uikName": "УИК №1414",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 56,
       "Число бюллетеней, полученных участковыми комиссиями": 55,
@@ -9776,8 +11729,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1415,
     "uikTvd": "434403570558",
+    "uikName": "УИК №1415",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 2127,
       "Число бюллетеней, полученных участковыми комиссиями": 2147,
@@ -9821,8 +11783,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1416,
     "uikTvd": "434403570559",
+    "uikName": "УИК №1416",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 546,
       "Число бюллетеней, полученных участковыми комиссиями": 582,
@@ -9866,8 +11837,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1417,
     "uikTvd": "434403570560",
+    "uikName": "УИК №1417",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1335,
       "Число бюллетеней, полученных участковыми комиссиями": 1359,
@@ -9911,8 +11891,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1418,
     "uikTvd": "434403570561",
+    "uikName": "УИК №1418",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1198,
       "Число бюллетеней, полученных участковыми комиссиями": 1274,
@@ -9956,8 +11945,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1419,
     "uikTvd": "434403570562",
+    "uikName": "УИК №1419",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1144,
       "Число бюллетеней, полученных участковыми комиссиями": 1165,
@@ -10001,8 +11999,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1420,
     "uikTvd": "434403570563",
+    "uikName": "УИК №1420",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 398,
       "Число бюллетеней, полученных участковыми комиссиями": 395,
@@ -10046,8 +12053,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1421,
     "uikTvd": "434403570564",
+    "uikName": "УИК №1421",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 164,
       "Число бюллетеней, полученных участковыми комиссиями": 171,
@@ -10091,8 +12107,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1422,
     "uikTvd": "434403570565",
+    "uikName": "УИК №1422",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1123,
       "Число бюллетеней, полученных участковыми комиссиями": 1185,
@@ -10136,8 +12161,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1423,
     "uikTvd": "434403570566",
+    "uikName": "УИК №1423",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 626,
       "Число бюллетеней, полученных участковыми комиссиями": 610,
@@ -10181,8 +12215,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1424,
     "uikTvd": "434403570567",
+    "uikName": "УИК №1424",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1235,
       "Число бюллетеней, полученных участковыми комиссиями": 1300,
@@ -10226,8 +12269,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1425,
     "uikTvd": "434403570568",
+    "uikName": "УИК №1425",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 265,
       "Число бюллетеней, полученных участковыми комиссиями": 284,
@@ -10271,8 +12323,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1426,
     "uikTvd": "434403570569",
+    "uikName": "УИК №1426",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 220,
       "Число бюллетеней, полученных участковыми комиссиями": 235,
@@ -10316,8 +12377,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1427,
     "uikTvd": "434403570570",
+    "uikName": "УИК №1427",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1840,
       "Число бюллетеней, полученных участковыми комиссиями": 1786,
@@ -10361,8 +12431,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1428,
     "uikTvd": "434403570571",
+    "uikName": "УИК №1428",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 222,
       "Число бюллетеней, полученных участковыми комиссиями": 208,
@@ -10406,8 +12485,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1429,
     "uikTvd": "434403570572",
+    "uikName": "УИК №1429",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 170,
       "Число бюллетеней, полученных участковыми комиссиями": 174,
@@ -10451,8 +12539,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1430,
     "uikTvd": "434403570573",
+    "uikName": "УИК №1430",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1812,
       "Число бюллетеней, полученных участковыми комиссиями": 1884,
@@ -10496,8 +12593,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1431,
     "uikTvd": "434403570574",
+    "uikName": "УИК №1431",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1128,
       "Число бюллетеней, полученных участковыми комиссиями": 1141,
@@ -10541,8 +12647,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1432,
     "uikTvd": "434403570575",
+    "uikName": "УИК №1432",
     "tikTvd": "334300270558",
     "tikName": "Светлоярская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 701,
       "Число бюллетеней, полученных участковыми комиссиями": 746,
@@ -10586,8 +12701,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1547,
     "uikTvd": "434403970482",
+    "uikName": "УИК №1547",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 1397,
       "Число бюллетеней, полученных участковыми комиссиями": 1200,
@@ -10631,8 +12755,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1548,
     "uikTvd": "434403970483",
+    "uikName": "УИК №1548",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 336,
       "Число бюллетеней, полученных участковыми комиссиями": 300,
@@ -10676,8 +12809,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1549,
     "uikTvd": "434403970484",
+    "uikName": "УИК №1549",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 427,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -10721,8 +12863,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1550,
     "uikTvd": "434403970485",
+    "uikName": "УИК №1550",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 99,
       "Число бюллетеней, полученных участковыми комиссиями": 105,
@@ -10766,8 +12917,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1551,
     "uikTvd": "434403970486",
+    "uikName": "УИК №1551",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 405,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -10811,8 +12971,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1552,
     "uikTvd": "434403970487",
+    "uikName": "УИК №1552",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 482,
       "Число бюллетеней, полученных участковыми комиссиями": 400,
@@ -10856,8 +13025,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1553,
     "uikTvd": "434403970488",
+    "uikName": "УИК №1553",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 85,
       "Число бюллетеней, полученных участковыми комиссиями": 92,
@@ -10901,8 +13079,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1554,
     "uikTvd": "434403970489",
+    "uikName": "УИК №1554",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 463,
       "Число бюллетеней, полученных участковыми комиссиями": 430,
@@ -10946,8 +13133,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1555,
     "uikTvd": "434403970490",
+    "uikName": "УИК №1555",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 169,
       "Число бюллетеней, полученных участковыми комиссиями": 180,
@@ -10991,8 +13187,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1556,
     "uikTvd": "434403970491",
+    "uikName": "УИК №1556",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 361,
       "Число бюллетеней, полученных участковыми комиссиями": 330,
@@ -11036,8 +13241,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1557,
     "uikTvd": "434403970492",
+    "uikName": "УИК №1557",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 128,
       "Число бюллетеней, полученных участковыми комиссиями": 150,
@@ -11081,8 +13295,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1558,
     "uikTvd": "434403970493",
+    "uikName": "УИК №1558",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 539,
       "Число бюллетеней, полученных участковыми комиссиями": 500,
@@ -11126,8 +13349,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1559,
     "uikTvd": "434403970494",
+    "uikName": "УИК №1559",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 701,
       "Число бюллетеней, полученных участковыми комиссиями": 650,
@@ -11171,8 +13403,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1560,
     "uikTvd": "434403970495",
+    "uikName": "УИК №1560",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 83,
       "Число бюллетеней, полученных участковыми комиссиями": 93,
@@ -11216,8 +13457,17 @@ export const duma_2003_uik_428_region_34_part_003 = [
     "ballot": "single-member",
     "uikNumber": 1561,
     "uikTvd": "434403970496",
+    "uikName": "УИК №1561",
     "tikTvd": "334300270559",
     "tikName": "Суровикинская",
+    "regionCode": "34",
+    "regionTvd": "100100095889",
+    "regionName": "Волгоградская область",
+    "district": {
+      "districtNumber": 71,
+      "oikTvd": "100100095891",
+      "oikName": "Красноармейский"
+    },
     "accounting": {
       "Число избирателей, включенных в списки": 202,
       "Число бюллетеней, полученных участковыми комиссиями": 180,

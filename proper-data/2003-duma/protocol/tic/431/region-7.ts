@@ -11,6 +11,9 @@ export const duma_2003_tic_431_region_7 = [
     "ballot": "party",
     "tikTvd": "207200071008",
     "tikName": "Прохладненская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 33,
     "accounting": {
       "Число избирателей, внесенных в списки": 31236,
@@ -109,6 +112,9 @@ export const duma_2003_tic_431_region_7 = [
     "ballot": "party",
     "tikTvd": "207200071009",
     "tikName": "Черекская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 15,
     "accounting": {
       "Число избирателей, внесенных в списки": 16848,
@@ -189,6 +195,9 @@ export const duma_2003_tic_431_region_7 = [
     "ballot": "party",
     "tikTvd": "207200071010",
     "tikName": "Урванская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 41369,
@@ -276,6 +285,9 @@ export const duma_2003_tic_431_region_7 = [
     "ballot": "party",
     "tikTvd": "207200071011",
     "tikName": "Чегемская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 18,
     "accounting": {
       "Число избирателей, внесенных в списки": 39465,
@@ -359,6 +371,9 @@ export const duma_2003_tic_431_region_7 = [
     "ballot": "party",
     "tikTvd": "207200071012",
     "tikName": "Терская ",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 23,
     "accounting": {
       "Число избирателей, внесенных в списки": 30904,
@@ -447,6 +462,9 @@ export const duma_2003_tic_431_region_7 = [
     "ballot": "party",
     "tikTvd": "207200071013",
     "tikName": "Эльбрусская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 19,
     "accounting": {
       "Число избирателей, внесенных в списки": 18171,
@@ -531,6 +549,9 @@ export const duma_2003_tic_431_region_7 = [
     "ballot": "party",
     "tikTvd": "207200071014",
     "tikName": "Прохладненская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 41975,
@@ -617,6 +638,9 @@ export const duma_2003_tic_431_region_7 = [
     "ballot": "party",
     "tikTvd": "207200071015",
     "tikName": "Майская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 22,
     "accounting": {
       "Число избирателей, внесенных в списки": 23392,
@@ -704,6 +728,9 @@ export const duma_2003_tic_431_region_7 = [
     "ballot": "party",
     "tikTvd": "207200071016",
     "tikName": "Нальчикская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 102,
     "accounting": {
       "Число избирателей, внесенных в списки": 155208,
@@ -871,6 +898,9 @@ export const duma_2003_tic_431_region_7 = [
     "ballot": "party",
     "tikTvd": "207200071017",
     "tikName": "Зольская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 21,
     "accounting": {
       "Число избирателей, внесенных в списки": 28736,
@@ -957,6 +987,9 @@ export const duma_2003_tic_431_region_7 = [
     "ballot": "party",
     "tikTvd": "207200071018",
     "tikName": "Баксанская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 20,
     "accounting": {
       "Число избирателей, внесенных в списки": 34190,
@@ -1042,6 +1075,9 @@ export const duma_2003_tic_431_region_7 = [
     "ballot": "party",
     "tikTvd": "207200071019",
     "tikName": "Баксанская городская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки": 27491,
@@ -1118,6 +1154,9 @@ export const duma_2003_tic_431_region_7 = [
     "ballot": "party",
     "tikTvd": "207200071020",
     "tikName": "Лескенская",
+    "regionCode": "7",
+    "regionTvd": "100100095870",
+    "regionName": "Кабардино-Балкарская Республика",
     "uikCount": 11,
     "accounting": {
       "Число избирателей, внесенных в списки": 16646,

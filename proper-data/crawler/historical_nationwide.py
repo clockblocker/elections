@@ -41,6 +41,11 @@ except ImportError:
 HERE = Path(__file__).resolve().parent
 DEFAULT_CONFIG = HERE / "historical-nationwide.json"
 UIK_RE = re.compile(r"^(?:УИК|Участок)\s*№?\s*(\d+)$", re.IGNORECASE)
+OIK_BREADCRUMB_RE = re.compile(
+    r'href=["\'](?P<href>[^"\']+)["\'][^>]*>\s*'
+    r'ОИК\s*№?\s*(?P<number>\d+)\s*</a>',
+    re.IGNORECASE,
+)
 
 
 def load(path: Path) -> dict[str, Any]:
@@ -66,6 +71,104 @@ def report_kind(config: dict[str, Any]) -> dict[int, tuple[str, str]]:
         result[int(types["tic"])] = ("tic", contest)
         result[int(types["uik"])] = ("uik", contest)
     return result
+
+
+def has_single_member_districts(config: dict[str, Any]) -> bool:
+    """Return whether the configured election has an official OIK tier."""
+    return str(config.get("election", "")).endswith("-duma") and "candidate" in config.get(
+        "contests", {}
+    )
+
+
+def enriched_relations(config: dict[str, Any]) -> list[dict[str, Any]]:
+    """Rebuild relation identities from ancestors instead of stale saved reductions."""
+    return hierarchy_summary(
+        config["nodes"], include_oik=has_single_member_districts(config)
+    )["uik_to_tik"]
+
+
+def oik_breadcrumbs(payload: bytes) -> list[tuple[str, int]]:
+    """Extract exact official ``OIK №…`` breadcrumb targets from a GAS page."""
+    text, _ = decode_text(payload)
+    result: set[tuple[str, int]] = set()
+    for match in OIK_BREADCRUMB_RE.finditer(text):
+        href = match.group("href").replace("&amp;", "&")
+        tvd = urllib.parse.parse_qs(urllib.parse.urlsplit(href).query).get("tvd")
+        if tvd and tvd[0]:
+            result.add((str(tvd[0]), int(match.group("number"))))
+    return sorted(result)
+
+
+def district_numbers_from_observations(
+    config: dict[str, Any],
+    relations: list[dict[str, Any]],
+    observations: list[dict[str, Any]],
+    store: ResponseStore,
+) -> dict[str, int]:
+    """Validate the official OIK-number bijection preserved in TIK result pages."""
+    if not has_single_member_districts(config):
+        return {}
+    oik_by_tik: dict[str, str] = {}
+    expected_oiks: set[str] = set()
+    for relation in relations:
+        tik_tvd = str(relation["tik_tvd"])
+        oik_tvd = str(relation.get("oik_tvd") or "")
+        if not oik_tvd:
+            raise ValueError(f"single-member TIK {tik_tvd} has no OIK ancestor")
+        previous = oik_by_tik.setdefault(tik_tvd, oik_tvd)
+        if previous != oik_tvd:
+            raise ValueError(f"TIK {tik_tvd} has conflicting OIK ancestors")
+        expected_oiks.add(oik_tvd)
+
+    evidence: defaultdict[str, set[int]] = defaultdict(set)
+    missing_breadcrumbs: set[str] = set()
+    for observation in observations:
+        if (
+            not str(observation.get("class", "")).startswith("tic-")
+            or not observation.get("valid_result")
+            or not observation.get("body_path")
+        ):
+            continue
+        tik_tvd = str(observation.get("entity_id") or "")
+        expected_oik = oik_by_tik.get(tik_tvd)
+        if not expected_oik:
+            continue
+        matches = oik_breadcrumbs(body(store, observation))
+        exact = {number for oik_tvd, number in matches if oik_tvd == expected_oik}
+        if not exact:
+            missing_breadcrumbs.add(tik_tvd)
+        evidence[expected_oik].update(exact)
+
+    conflicts = {
+        oik_tvd: sorted(numbers)
+        for oik_tvd, numbers in evidence.items()
+        if len(numbers) != 1
+    }
+    absent = sorted(expected_oiks - set(evidence))
+    resolved = {
+        oik_tvd: next(iter(evidence[oik_tvd]))
+        for oik_tvd in expected_oiks
+        if len(evidence.get(oik_tvd, set())) == 1
+    }
+    numbers = list(resolved.values())
+    duplicate_numbers = sorted(
+        number for number, count in Counter(numbers).items() if count != 1
+    )
+    if (
+        len(expected_oiks) != 225
+        or absent
+        or conflicts
+        or duplicate_numbers
+        or set(numbers) != set(range(1, 226))
+    ):
+        raise ValueError(
+            "district hierarchy validation failed: "
+            f"oiks={len(expected_oiks)}, absent={len(absent)}, "
+            f"conflicts={len(conflicts)}, duplicate_numbers={duplicate_numbers}, "
+            f"numbers={len(set(numbers))}, missing_breadcrumb_tiks="
+            f"{len(missing_breadcrumbs)}"
+        )
+    return resolved
 
 
 def hierarchy_result_url(
@@ -233,7 +336,9 @@ def discover(args: argparse.Namespace) -> int:
         }
         for key in sorted(nodes)
     ]
-    summary = hierarchy_summary(output_nodes)
+    summary = hierarchy_summary(
+        output_nodes, include_oik=has_single_member_districts(config)
+    )
     by_id = {str(node["node_id"]): node for node in output_nodes}
     tik_ids = sorted({str(item["tik_tvd"]) for item in summary["uik_to_tik"]})
     children_by_parent: defaultdict[str, list[dict[str, Any]]] = defaultdict(list)
@@ -743,11 +848,34 @@ def build(args: argparse.Namespace) -> int:
         observations.extend(load(path)["observations"])
     store = ResponseStore(args.raw_dir)
     by_id = {str(node["node_id"]): node for node in hierarchy["nodes"]}
-    relations = (
-        hierarchy.get("uik_to_tik")
-        or hierarchy_summary(hierarchy["nodes"])["uik_to_tik"]
+    relations = enriched_relations(hierarchy)
+    district_numbers = district_numbers_from_observations(
+        hierarchy, relations, observations, store
     )
+    for relation in relations:
+        oik_tvd = str(relation.get("oik_tvd") or "")
+        relation["district_number"] = district_numbers.get(oik_tvd)
+        relation["oik_tvd"] = oik_tvd or None
+        relation["oik_name"] = relation.get("oik_name") or None
     relation_by_uik = {str(item["uik_tvd"]): item for item in relations}
+    relation_by_tik: dict[str, dict[str, Any]] = {}
+    for relation in relations:
+        tik_tvd = str(relation["tik_tvd"])
+        scope = {
+            key: relation.get(key)
+            for key in (
+                "region",
+                "region_code",
+                "region_tvd",
+                "region_name",
+                "district_number",
+                "oik_tvd",
+                "oik_name",
+            )
+        }
+        previous = relation_by_tik.setdefault(tik_tvd, scope)
+        if previous != scope:
+            raise ValueError(f"TIK {tik_tvd} has conflicting hierarchy identities")
     tik_names = {key: str(node["text"]) for key, node in by_id.items()}
     uiks_by_tik: defaultdict[str, dict[int, dict[str, Any]]] = defaultdict(dict)
     for relation in relations:
@@ -841,9 +969,21 @@ def build(args: argparse.Namespace) -> int:
                 {
                     "uik_number": relation["uik_number"],
                     "uik_tvd": uik_tvd,
+                    "uik_name": relation["uik_name"],
                     "tik_tvd": str(relation["tik_tvd"]),
                     "tik_name": tik_names.get(str(relation["tik_tvd"]), ""),
-                    "region": str(relation.get("region", "")),
+                    **{
+                        key: relation.get(key)
+                        for key in (
+                            "region",
+                            "region_code",
+                            "region_tvd",
+                            "region_name",
+                            "district_number",
+                            "oik_tvd",
+                            "oik_name",
+                        )
+                    },
                     f"{contest}_accounting": protocol["accounting"],
                     f"{contest}_votes": protocol["votes"],
                     f"{contest}_source": {
@@ -878,9 +1018,21 @@ def build(args: argparse.Namespace) -> int:
                 {
                     "uik_number": record["uik_number"],
                     "uik_tvd": record["uik_tvd"],
+                    "uik_name": relation["uik_name"],
                     "tik_tvd": tik_tvd,
                     "tik_name": tik_names.get(tik_tvd, ""),
-                    "region": str(relation.get("region", "")),
+                    **{
+                        key: relation.get(key)
+                        for key in (
+                            "region",
+                            "region_code",
+                            "region_tvd",
+                            "region_name",
+                            "district_number",
+                            "oik_tvd",
+                            "oik_name",
+                        )
+                    },
                     f"{contest}_accounting": record["accounting"],
                     f"{contest}_votes": record[f"{contest}_votes"],
                 }
@@ -957,7 +1109,7 @@ def build(args: argparse.Namespace) -> int:
         if set(hierarchy["contests"]).issubset(value)
     }
     result = {
-        "schema_version": 3,
+        "schema_version": 4,
         "election": hierarchy["election"],
         "election_vrn": hierarchy["election_vrn"],
         "contests": hierarchy["contests"],
@@ -967,16 +1119,7 @@ def build(args: argparse.Namespace) -> int:
             {
                 "tik_tvd": key,
                 "tik_name": tik_names.get(key, ""),
-                "region": str(
-                    next(
-                        (
-                            r.get("region", "")
-                            for r in relations
-                            if str(r["tik_tvd"]) == key
-                        ),
-                        "",
-                    )
-                ),
+                **relation_by_tik[key],
                 **value,
             }
             for key, value in sorted(sources.items())
@@ -993,6 +1136,12 @@ def build(args: argparse.Namespace) -> int:
         "incomplete_uiks": incomplete,
         "missing_hierarchy_uiks": missing,
         "relations": relations,
+        "district_hierarchy": {
+            "applicable": has_single_member_districts(hierarchy),
+            "districts": len(district_numbers),
+            "complete": not has_single_member_districts(hierarchy)
+            or len(district_numbers) == 225,
+        },
     }
     json_write(args.output, result)
     invalid = bool(
@@ -1031,27 +1180,35 @@ def validate(args: argparse.Namespace) -> int:
         for contest in hierarchy["contests"]
         for field in ("accounting", "votes")
     }
-    regions: defaultdict[str, dict[str, Any]] = defaultdict(
-        lambda: {
-            "tiks": set(),
-            "uiks": set(),
-            **{contest: set() for contest in hierarchy["contests"]},
-        }
-    )
-    for relation in hierarchy["uik_to_tik"]:
-        row = regions[str(relation.get("region", ""))]
+    regions: dict[str, dict[str, Any]] = {}
+    for relation in protocols["relations"]:
+        region_tvd = str(relation.get("region_tvd") or "")
+        row = regions.setdefault(
+            region_tvd,
+            {
+                "regionCode": str(relation.get("region_code") or ""),
+                "regionTvd": region_tvd,
+                "regionName": str(relation.get("region_name") or ""),
+                "tiks": set(),
+                "uiks": set(),
+                **{contest: set() for contest in hierarchy["contests"]},
+            },
+        )
         row["tiks"].add(str(relation["tik_tvd"]))
         row["uiks"].add(str(relation["uik_tvd"]))
     for record in protocols["records"]:
-        row = regions[str(record.get("region", ""))]
+        row = regions[str(record.get("region_tvd") or "")]
         for contest in hierarchy["contests"]:
             if {f"{contest}_accounting", f"{contest}_votes"}.issubset(record):
                 row[contest].add(str(record["uik_tvd"]))
     output = []
-    for region, row in sorted(regions.items()):
+    for region_tvd, row in sorted(regions.items()):
         output.append(
             {
-                "region": region,
+                "region": row["regionCode"],
+                "regionCode": row["regionCode"],
+                "regionTvd": region_tvd,
+                "regionName": row["regionName"],
                 "discovered_tik_count": len(row["tiks"]),
                 "discovered_uik_count": len(row["uiks"]),
                 **{
@@ -1073,11 +1230,14 @@ def validate(args: argparse.Namespace) -> int:
             }
         )
     result = {
-        "schema_version": 1,
+        "schema_version": 2,
         "election": hierarchy["election"],
         "regions": output,
         "summary": {
             "regions": len(output),
+            "districts": int(
+                protocols.get("district_hierarchy", {}).get("districts", 0)
+            ),
             "tiks": hierarchy["tiks"],
             "uiks": hierarchy["uiks"],
             "complete_uiks": sum(
